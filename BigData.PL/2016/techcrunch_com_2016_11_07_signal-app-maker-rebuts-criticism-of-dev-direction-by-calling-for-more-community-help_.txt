@@ -1,0 +1,63 @@
+Signal app-maker rebuts criticism of dev direction by calling for more community help
+
+Moxie Marlinspike, founder of Open Whisper Systems (OWS), the not-for-profit software group behind the respected Signal Protocol crypto (and the eponymous Signal secure messaging app) has responded to criticism of how the group is developing its projects by calling for more contributions from the community to broaden implementations of the protocol.
+
+“I invite those who have opinions about Signal to start by getting involved in the project,” he writes in a comment onHacker News. “Many of these points are things that we would like to address, and we could use the help. The day to day reality of developing apps like these is a lot of work.”
+
+Marlinspike’s comments were triggered by ablog postwritten by web developer Sander Venema in which Venema said he would no longer be recommending Signal to investigative journalists to secure their comms. Not on account of the crypto protocol itself but because of how the project is being run. He flags several objections to OWS’s direction of travel, including its lack of support for a fork of the Signal protocol, called LibreSignal, which had removed the need to rely on Google Cloud Messaging (GCM) in favor of Web Sockets.
+
+For users of Android who had a custom ROM rather than the Google Play version of the OS, the fork of Signal offered an easy-to-use “Google-free” alternative — something of value to those concerned about surveillance by an ad targeting giant, not just state surveillance activity. However after Marlinspike told the developers of LibreSignal to stop using Signal’s name and servers, back in May, theyabandoned the project. He hadcomplainedit was complex and expensive for OWS to accommodate LibreSignal on its servers.
+
+On this, Venema writes: “Unfortunately, the policy decisions of OpenWhisperSystems and Moxie Marlinspike make it so that it became impossible to reliably run unofficial Signal clients that use the same server infrastructure, so people can communicate.”
+
+He also says the blog post as triggered by seeing Signal spending resources addingsupport for GIF search, rather than more serious features.
+
+Marlinspike’s rebuttal of Venema’s criticism is to point out he has called for the community to make a pull request for Websocket-only support in Signal multiple times, and no one has so far stepped up:
+
+I have said many times that I have no problem with supporting these custom ROMs. But I would like someone from that community to submit the PR: “I would consider a clean, well written, and well tested PR for websocket-only support in Signal. I expect it to have high battery consumption and an unreliable user experience, but would be fine with it if it comes with a warning and only runs in the absence of play services.”
+
+Nobody has done it.
+
+He also emphasizes that no data is transmittedoverGCM. (Although it’s not clear whether some usage metadata might not be transmitted to Google via this route.) “GCM is only used as a push event to tell the Signal Android client to wake up and connect to the Signal server to retrieve messages from the queue if the app isn’t in the foreground,” he writes.
+
+Venema also speculates that Google could be strong-armed by intelligence agencies to serve a “specially modified update or version of Signal to specific targets for surveillance” — arguing it’s therefore “strongly preferable to run a secure messaging client on a more secure platform”.
+
+“Currently when it comes to Signal this cannot be done in any official way, and it would help for the people who really need secure messaging services (instead of the people who merely use it as a replacement of say WhatsApp), if the software runs on other Android distributions, like Copperhead,” he argues.
+
+There is a way to use Signal without depending on GCM — by usingmicrog— but Venema says this is way too complex for non-technical users, given it can require a user to re-compile their kernel. Whereas LibreSignal’s approach had, in his view, lowered the barrier to entry. Yet that project withered on the vine after OWS withdrew support.
+
+He also calls out OWS for what he describes as “expressly” hindering and prohibiting federation — meaning LibreSignal cannot run their own servers and then federate within the wider Signal network. “I don’t see the point of doing any of this secure messaging stuff, without having federation. The internet was built on federation,” he writes.
+
+“If we don’t federate, if we don’t cooperate, what is there to stop the internet from becoming a bunch of proprietary walled gardens again? Is the internet then really nothing more than just a platform for us to use certain proprietary silo services on? Signal then, just happens to be a (partly proprietary) silo on which your messages are transmitted securely.”
+
+Responding to this criticism, Marlinspike claims the Signal clients and server do already support federation. Although this is clearly a technical possibility, rather than something Signal has set out to actively support and encourage. On the contrary,Marlinspike has arguedit is no longer possible to build a competitive federated messenger — which is why OWS built Signal as an unfederated service.
+
+His previously stated view is that federation freezes development and is just not appropriate for a fast-moving app ecosystem — pointing toWhatsApp being able to introduce end to end encryptionacross its entire user base “with a single software update” as an example of the advantage of centralization vs federation.
+
+“Once you federate your protocol, it becomes very difficult to make changes. And right now, at the application level, things that stand still don’t fare very well in a world where the ecosystem is moving,” he wrote back inMay(when he also said OWS would be “unlikely to ever federate with clients and servers we don’t control”).
+
+“Nothing about any of the protocols we’ve developed requires centralization; it’s entirely possible to build a federated Signal Protocol based messenger, but I no longer believe that it is possible to build acompetitivefederated messenger at all,” he added at the time.
+
+Yesterday Marlinspike appeared to soften his view slightly, by saying: “I would love it if someone proved me wrong”, as well as offering help for others to start a federated network using the protocol. “There shouldn’t be any technical hurdles stopping the people who are really into federation from using our software to start their own federated network that demonstrates the viability of their ideas”, he writes.
+
+Although he also reiterates his preference for running Signal as a centralized service by arguing it has other potential advantages — such as for developing new protocols to bolster metadata protection.
+
+“The nice thing about having a centralized service is that we can eventually take steps in this direction,” he says. “People seem to equate federation with meta-data hiding for reasons I’ve never totally understood, but I think serious metadata protection is going to require new protocols and new techniques, so we’re much more likely to see major progress in centralized rather than distributed environments (in the same way that Signal Protocol is now on over two billion devices, but we’re unlikely to ever see even basic large scale email end to end encryption).”
+
+Another of Venema’s criticisms is that Signal associates phone numbers with names — meaning a user’s contacts’ list is not private. He argues that using usernames to connect users would be a superior approach from a privacy point of view, as well as also helping support federation.
+
+On this, Marlinspike notes that on Android 6+ users of Signal have the ability to disable contacts permissions without the app not working. But he goes on to concede that metadata in general is an area where OWS would “like to do even better” (such as by developing the aforementioned new protocol).
+
+Earlylast monthOWS revealed it had received its first subpoena for user data, although it claimed the only data it can produce in response to such a request is the date and time a user registered with Signal, and the last date of a user’s connectivity to the Signal service. And Marlinspike’s verdict is that things are “playing out alright” in terms of how much user data can be strong-armed from the service at this point, even without a better fix for metadata.
+
+Venema is also critical of OWS for not open sourcing the phone component of Signal (aka RedPhone). Which means people forking the protocol are prevented from running their own phone servers — and likely explains why secure encrypted calls don’t work in alternative apps such as LibreSignal.
+
+“I don’t know exactly what prevents the RedPhone server code from being released (whether it is legal issues or simple unwillingness), but I do think it is strange that there is no movement whatsoever to move to a different/alternative solution, that respects users’ rights,” he writes.
+
+Marlinspike makes no direct comment on this critique — beyond his general rebuttal of OWS having limited development resources. We’ve reached out to him directly with questions on the RedPhone open sourcing point and will update this post with any response.
+
+Like Marlinspike, Venema also ultimately calls for a wider pro-privacy community to address the concerns he’s raising and work together to build more secure services.
+
+“We as a community need to come up with a viable solution and alternative to Signal that is easy to use and that does in fact respect people’s choices, both in the hardware and software that they choose to run,” he writes. “We need to cooperate more as a community instead of creating these little islands, otherwise we are not going to succeed in defeating or even meaningfully defending against Big Brother.
+
+“Remember, our enemy knows how to divide and conquer. Divide et impere. It’s been a basic government subjugation tactic since the Roman times. We should not allow our own petty egos and quest for eternal hacker fame to get in the way of our actual goal: dismantling the surveillance states globally.”

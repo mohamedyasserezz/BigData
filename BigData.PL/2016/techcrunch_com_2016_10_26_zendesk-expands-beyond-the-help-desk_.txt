@@ -1,0 +1,21 @@
+Zendesk expands beyond the help desk
+
+Zendeskhas always been known as a customer service cloud application, and while its focus remains on the customer, it is attempting to expand the mission using data to drive communication and understanding about the customer.
+
+The company wants to make sure that everyone involved has the whole picture of the customer experience and hopes to provide assistance whenever and wherever people need it. If you’re having an issue with your product, customer service should know about it, but so should marketing and sales so they know you’re annoyed, and aren’t trying to upsell you at that moment.
+
+That’s what the company’s Zendesk Explore product is designed to do. Zendesk SVP of product development, Adrian McDermott calls it “everyman business intelligence,” taking data from Zendesk’s myriad tools or third-party information like customer data in Salesforce, buying history in Shopify or web analytics from Google Analytics and pulling it all together into one central place. It can deliver this information, regardless of role to get a much fuller view of the customer than you can get with bits of information trapped inside application silos.
+
+McDermott claimsusing the tech it got from the Bime Analytics acquisition last year, it’s able to provide a simple query-based approach that limits the amount of data required on-hand at any moment to answer a question, making the data sharing a much simpler proposition than it might normally be.
+
+The companyhas been embedding customer service toolsinto websites and apps for a couple of years now, and boasts it’s embedded in 30 percent of the top million sites on the internet and also in over 1,000 mobile apps, giving users the ability to contact customer service right from where they are.
+
+With the new Zendesk Connect product, customers can tap into this same functionality to send messages directly to users based on data they have collected about user behavior — giving the ability to contact the customer even when the customer hasn’t contacted them. While this might sound creepy at first glance, it is really designed to help users proactively. Using his own company as an example, McDermott said they have created a segment that includes people who activated Zendesk in the last few days, have yet to open a support ticket or look at the reporting tools.
+
+This suggests that the customer is having trouble getting started, so by sending a message to them on how to get going, Zendesk is helping the user in way they believe is much more effective than an email reminder that is likely to be ignored or end up in a Spam folder.
+
+From a pure help perspective, this could be very powerful by providing a way to communicate directly with the customer exactly when they need help, so long as it’s done in the right way. “All marketing tools are an opportunity to run with scissors,” McDermott acknowledged.
+
+All of this is designed to expand the customer service mission beyond a call to the help desk. There is a feeling among every software company these days that they are more than a simple application or cloud service. Each one wants to be a bigger part of the organization at large and these releases by Zendesk, building on earlier products and services, are an attempt to expand the reach of customer service and share the known knowns about the customer wherever it makes sense.
+
+Further, Zendesk is also taking advantage of the data it’s collecting as a byproduct of doing business to help users assist their customer in new ways and to share that data more broadly across the organization.

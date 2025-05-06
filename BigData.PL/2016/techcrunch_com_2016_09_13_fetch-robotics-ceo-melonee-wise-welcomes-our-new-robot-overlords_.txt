@@ -1,0 +1,21 @@
+Fetch Robotics CEO Melonee Wise welcomes our new robot overlords
+
+Melonee Wise ofFetch Roboticsgave her insights on robotics and how robots are going to enhance our future. Fetch Robotics specialized in warehouse robots so that humans don’t have to walk around all day long. But even before Fetch Robotics, Wise has beenactivein the open-source community when it comes to building the software for our robots.
+
+TechCrunch’s Devin Coldewey asked all the hard questions, but Wise remained optimistic about the way people are going to rely on robots. “PR campaigns against robots have an 80-year head start,” she said.
+
+She also acknowledged that governments and companies need to set safety standards to make sure that nothing dramatic is going to happen. In particular, car companies will have to deal with self-driving car incidents.
+
+“Some countries are coming up with more formalized testing. We need to have more serious validations against those algorithms,” Wise said. “It only takes one mistake to kill someone. Of course you’re technically going to save more lives in the long run, but do you want to be the engineer responsible for one death?”
+
+But in many fields, robots are simply going to enhance our productivity. In fact, according to Wise, the question is quite simple. “If I could give you mechanical devices with software that would do all the crappy tasks for you, would you take it?” she said.
+
+Let’s take Fetch Robotics as an example. Warehouses are semi-structured environment and can already be quite efficient for warehouses. “On average, we’re running 30 kilometers a day per robot,” Wise said. “We’re driving more than people walk, I can tell you that.”
+
+In particular, Fetch Robotics can map millions of square feet, an order of magnitude more than the default open source stack. But the hardest part might be convincing people that they’re capable of giving orders to robots. It all comes down to building simple interfaces.
+
+“The hard stuff is enabling people who know nothing about computers or robots,” Wise said.
+
+Finally, Wise also talked at length about the gender gap in engineering and tech companies. Fetch Robotics is actively trying to hire more women. And yet, Wise believes that it’s a deeper issue.
+
+“there’s this mismatch between culture and the alignment to see women empowered,” she said. For instance, with pink toys, “you’re saying young girls need different tools than boys.”

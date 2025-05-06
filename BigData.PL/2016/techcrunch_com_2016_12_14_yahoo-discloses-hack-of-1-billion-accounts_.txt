@@ -1,0 +1,21 @@
+Yahoo discloses hack of 1 billion accounts
+
+Yahoo has suffered another hack.
+
+The company disclosed today that it has discovered a breach of more than one billion user accounts that occurred in August 2013. The breach is believed to be separate and distinct from the theft of data from500 million accountsthat Yahoo reported this September.
+
+Troublingly, Yahoo’s chief information security officer Bob Lord says that the company hasn’t been able to determine how the data from the one billion accounts was stolen. “We have not been able to identify the intrusion associated with this theft,” Lord wrote in apostannouncing the hack.
+
+“The stolen user account information may have included names, email addresses, telephone numbers, dates of birth, hashed passwords (using MD5) and, in some cases, encrypted or unencrypted security questions and answers,” Lord added.
+
+Yahoo was alerted to the massive breach by law enforcement and has examined the data with the help of outside forensic experts. The data does not appear to include payment details or plaintext passwords, but it’s still bad news for Yahoo account holders. The hashing algorithm MD5 is no longer considered secure and MD5 hashes can easily be looked up online to discover the passwords they hide.
+
+Yahoo says it is notifying the account holders affected in the breach. Affected users will be required to change their passwords.
+
+Yahoo also announced today that its proprietary code had been accessed by a hacker, who used the code to forge cookies that could be used to access accounts without a password. “The outside forensic experts have identified user accounts for which they believe forged cookies were taken or used. We are notifying the affected account holders, and have invalidated the forged cookies,” Lord said, adding that he believed the attack was launched by a state-sponsored actor.
+
+Today’s revelations add to Yahoo’s long string of security problems. Yahoo employeesreportedly knew of the intrusionthat led to the theft of data from 500 million users as early as 2014, but the company did not announce the breach until this September. What Yahoo executives knew about the breach, and when they knew it, have been crucial questions in Verizon’s ongoing acquisition of Yahoo. Yahoo did not disclose the first breach until several months after the deal was announced.
+
+Verizon agreed to buy Yahooin July for $4.83 billion, and Yahoo’s security incidents have led to speculation that Verizon might ask for a $1 billion discount on the company. “As we’ve said all along, we will evaluate the situation as Yahoo continues its investigation,” a Verizon spokesperson said today. “We will review the impact of this new development before reaching any final conclusions.” (Disclosure: Verizon owns AOL, which is the parent company of TechCrunch.)
+
+Yahoo also faced scrutiny over its security practices in October, when Reuters reported that the company hadscanned all of its users’ accountsin early 2015 at the behest of a U.S. intelligence agency. Yahoo’s general counsel Ron BellaskedDirector of National Intelligence James Clapper to provide the public with more clarity about the email scanning program.

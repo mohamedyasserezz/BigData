@@ -1,0 +1,17 @@
+Airbus’ Vahana VTOL project asks what vehicle makes for the best self-flying taxi
+
+Airbus debutedProject Vahana earlier this year, an ambitious project designed with the specific intent of creating small, efficient vertical take-off and landing (VTOL) craft for use in dense urban environments with a target launch date of 2021. Now, the company is proceeding with its plans, and detailingits Trade Study, the first part of which asks what a functional VTOL that meets Vahana’s needs would look like.
+
+In a blog post, project lead Zach Lovering describes how Vahana went from a list of needs to a more tangible view of what the best design would be to actually achieve those needs. The basic job needed from the vehicles were that they fit a single human passenger, be cost-efficient, and run on electric power. That left a huge number of potential designs, however, so Vahana got to the task of narrowing the range of options.
+
+To start they began with the two most basic configurations of VTOL possible given their parameters – either an electric helicopter, with one large dominate rotor, or a tilt-wing design with eight fans aligned side-by-side in two rows.
+
+Why one versus the other? Helicopters are already everywhere as functioning VTOLs today, so there are fewer hurdles in terms of coming up with an effective design. But the eight-fan tilt-wing – aside from just looking cooler – has better aerodynamic performance while cruising than a helicopter, and draws less power than other options like a tilt-rotor, which looks like this:
+
+The eight-fan design (shown in the concept at the top of this post) also won out because it takes up less space, while also offering some redundancy in case of rotor failure, unlike the smaller, four-fan design. Again it also looks really cool, but Vahana strangely did not mention this in their official comments as a guiding reason.
+
+Vahana also considered the right size at this stage, and found that this required a more concise definition of what hey want to achieve, and to make assumptions about the progress of technology over the next few years, since the vehicle wouldn’t enter the “detailed design” phase until around three years from now, by which time there will presumably be improvements in battery capacity and other elements of the design, like the power output possible from electric motors.
+
+Other considerations, including sensors and autonomous flight capabilities, are assumed to be shared between the two potential aircraft designs. Vahana is planning to share more about this stage of its product design testing, and plans to share more in the new year – but it’s fun to be able to follow along as a company seeking to actually build “flying cars” – or their more realistic equivalent, at least.
+
+Vahana still aims to be ready with a full-scale prototype next year, and a demonstration unit ready for production in time for 2020.

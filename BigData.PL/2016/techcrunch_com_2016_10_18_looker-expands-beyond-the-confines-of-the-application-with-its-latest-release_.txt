@@ -1,0 +1,15 @@
+Looker expands beyond the confines of the application in its latest release
+
+The application is where we traditionally tend to work with a piece of software, but with the increasing use of APIs, sometimes the application is just one way of interacting with the tool.Lookerannounced version 4 of its data visualization tool today with expanded ways to make use of the data beyond the interface itself.
+
+Sure, they updated the interface as part of today’s broad announcement, but more interestingly, they updated LookML, the underlying language that is the basis for the Looker application. That gives programmers the ability to build applications on top of Looker or to embed Looker data inside of applications, giving companies the flexibility to use Looker and the data in the application in whatever ways they see fit.
+
+“It enables programmers to leverage all of the business metrics defined in tool and access them programatically, whether it’s embedded or [delivered as a] Slack bot or custom built applications,” Daniel Mintz, chief data evangelist at Looker told TechCrunch.
+
+In order to be a full-fledged data platform, which the company clearly aspires to be it believes it must make data from the application available anywhere in any way developers or other users choose to use it.
+
+To that end, the company is also announcing the Looker Blocks Directory, which will be an app store of sorts where users can find code snippets and templates for embedding certain type of information such as Salesforce data and other common types of calls. Looker will provide some blocks to prime the pump, but they are hoping customers and third parties will also contribute to the directory. It’s important to note it does not see this as a way to monetize the product further, but as a way to give customers access to common types of data.
+
+Interestingly, the company doesn’t want to build machine learning or artificial intelligence directly into their product. Instead, it would prefer to stick to the data preparation and delivery and let others deal with nuts and bolts of machine learning and artificial intelligence. “You can go into an enterprise-grade machine learning application with data already prepared through Looker,” Mintz explained.
+
+Looker has been around since 2011 and has raised $96 million including$48 million Series C last January. It has 750 customers and 225 employees — that number has doubled in the last year.

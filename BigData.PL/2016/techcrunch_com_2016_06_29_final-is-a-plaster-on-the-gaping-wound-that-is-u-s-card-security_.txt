@@ -1,0 +1,21 @@
+Final is a plaster on the gaping wound that is U.S. credit card security
+
+Credit card fraud is an embarrassingly big problem for the banking industry, with an increasing number of companies launching products to patch the problems. The most recent example isFinal, which today announced it is shippingits first consumer credit product with a radically new approach: disposable credit card numbers and card numbers locked to a single merchant.
+
+That’s lovely — and good luck to the Final team — but in doing so, it serves predominantly as an example of a company fixing a serious problem from the wrong side of the fence.
+
+“It’s been two years in the making, and we are thrilled to start welcoming our earliest customers this week,” said Final’s CEO Aaron Frank. “We chose to do the hard thing — build a consumer brand and behind it, a full-stack issuing company, from scratch.”
+
+The company’s solution is as elegant as it is simple to the user; if you’re about to spend money on a site that you don’t really trust all that much, you can use the iOS app to generate a new credit card number. Once the payment is completed, the number stops working, and you’re safe from additional transactions from that card.
+
+The other big innovation is merchant-locked cards. These are cards that are locked to a single website, for example. That way, you can set up subscriptions or other recurring payments for a particular merchant. Charges made by that merchant are approved, all others are rejected and it offers an additional layer of protection against your credit card details being stolen and used elsewhere.
+
+Because of demand outpacing supply for now, the company is currently operating awaiting list.
+
+As excited as I am about innovations in this space,I continue to be baffled that companies like Final keep raising large sums of money to patch problems that are long-since solved elsewhere. In the case ofFinal, the company raised $9 million from investors, including Runa Capital, KPCB Edge, Digital Garage, DRW and Y Combinator.
+
+Online programs likeVerified by VisaandMasterCard SecureCodehave been operating forhalf a decade, and in countries where the banks are committing to security, the programs default to automatic enrollment for all cardholders.
+
+Out in the real world of plastic cards, chip-and-pin has been mandatory across much of the EUfor 10 years. It’s completely flabbergasting how I’m writing articles about how exciting it is that we now have “burner” cards — and doubly confusing why a pen is still part of card transactions in what is supposedly the most advanced country in the world.
+
+The problem is not that I think Final isn’t going to be successful here in the U.S. — quite the contrary — but if the U.S. banking institutions could pull their heads out of their collective rectums for a full 20 seconds, there wouldn’t be a need for companies like Final existing in the first place.

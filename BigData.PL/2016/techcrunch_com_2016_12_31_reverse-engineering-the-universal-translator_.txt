@@ -1,0 +1,55 @@
+Reverse-engineering the universal translator
+
+Cinema critics keep raving aboutArrival,a sci-fi drama by Denis Villeneuve focusing on one linguist’s attempts to decipher an alien language. Star Trek recently celebrated its 50th anniversary. As a language geek and a sci-fi fan, I felt it only logical to look into the feasibility of the universal translator, the device used by the crew of the Starship Enterprise.
+
+No, this is not yet another post about machine translation. This technology is already a reality with avariety of approachesandnew promising developments. While not yet at the level of a human translation expert, machine translation is already usable in multiple scenarios. (Translation of known languages is, of course, also a part of the Star Trek universal translator, and on some occasionsStar Trek linguistshave to tweak the linguistic internals manually.)
+
+This article will focus on the device’s decoding module for unknown languages, ordecipherment.
+
+No matter how elaborate, all decipherment techniques have the same core: pairing an unknown language with known bits of knowledge. The classicRosetta Stonestory is the most famous example: A tablet with inscriptions of Ancient Egyptian hieroglyphs, Ancient Greek and another Egyptian script (Demotic) was used as a starting point to understand a long-dead language.
+
+Today, statistical machine translation engines are generated in a similar fashion, usingparallel textsas “virtual Rosetta Stones.” If, however, a parallel text is not available, the decipherment relies on closely related languages or whatever cues can be applied.
+
+Perhaps the most dramatic story of decipherment isthat of the Maya script, which involved two opposing points of view amplified by Cold War tensions. More recently, Regina Barzilay from MITdecoded a long-dead language using machine learning assuming similarity with a known language.
+
+But what happens when there is no Rosetta Stone or similar language? In face-to-face interaction, like the scenario depicted inArrival, gestures, physical objects and facial expressions are used to build the vocabulary. These methods were used by the seafarers exploring the New World and are occasionally employed today by anthropologists and linguists, likeDaniel Everett who spent decades working with the Pirahã people in the Amazon.
+
+But what if the face-to-face interaction is not possible?
+
+For decades,SETIresearchers have been scanning the skies for signs of extraterrestrial intelligence. Some of them specifically focus on the questions, “what happens if we do get a signal?” and “how do we know if this is a signal and not just noise?”
+
+The two most notable SETI people working on these issues areLaurance DoyleandJohn Elliott. Doyle’s work focuses on the application of Claude Shannon’s information theory to determine whether acommunication system is similar to human communication in its complexity. Doyle, together with the famous animal behavior and communication researcherBrenda McCowan, analyzed various animal communication data, comparing its information theory characteristics to those of human languages.
+
+John Elliott’s work specifically focuses on unknown communication systems; the publication topics range from detecting whether the transmission is linguistic to assessing the structure of the language, and, lastly, on building what he calls a “post-detection decipherment matrix.” In Elliott’s own words, this matrix would use a “corpus that represents the entire ‘Human Chorus’ ” applyingunsupervised learningtools, and, in his later works, include other communication systems (e.g. animal communication). Elliott’s hypothetical system relies on an ontology of concepts with a “universal semantic metalanguage.” (Just likeSwadesh listscompile a set of shared basic concepts.)
+
+Interestingly, there are certain similarities between thefictionaluniversal translator and the ways real-life scientists attack the problem.According to Captain Kirk’s explanation, “certain universal ideas and concepts” were “common to all intelligent life,” and the translator compares the frequencies of “brainwave patterns,” selects those ideas it recognized and provides the necessary grammar.
+
+Assuming that a variety of hypothetical neural centers may produce recognizable activity patterns (brainwaves or not), and that communication produces a stimulus that activates specific areas in the neural center, the approach may have merit — provided the hardware sensitive enough to detect these fluctuations will be available. The frequency analysis is also in line withZipf’s law, which is mentioned throughout the work of Elliott and Doyle.
+
+Other Star Trek series keep mentioning a vaguely describedtranslation matrix, which is used to facilitate translation. Artistic license and techno-babble aside, the word “matrix” and the sheer number of translation pair combinations correspond to a real-worldinterlinguamodel, which employs an abstract, language-independent representation of knowledge.
+
+There are a couple of occasions in Star Trek where a certainlinguacode, used as a last-resort tool when the universal translator doesn’t work, is mentioned. The linguacode may also have a real-world equivalent calledlincos. Lincos, together with its derivatives, is a constructed language designed to communicate with other species using universal mathematical concepts.
+
+As someone who spent more than a decade working on a language-neutral semantic engine, I got very excited when I realized that the system and the ontology described by Elliott as a prerequisite to the semantic analysis is very close to what I constructed. Bundling all of the languages into a “human chorus” may steer the system toward a “one-size-fits-all” result, which is too far from the target communication system.
+
+It doesn’t have to be this way; with a system capable of mapping both syntactic structures and semantics (not just a limited set of entities), it is possible to build a “corpus of scenarios” that will allow for building more accurate ordered statistical models relying on the universality of interaction scenarios.
+
+For example:
+
+The reasons for that have nothing to do with a structure of a particular language, and generally stem from the venerableprinciple of least effortor necessities for efficient communication in groups.
+
+Using a system that runs on semantics will allow building a corpus without the dependency on surface representation and instead records word senses, and creates a purely semantic and a truly universal corpus. Having syntactic structures semantically grouped opens up even more possibilities.
+
+Instead of a Rosetta Stone, this system could serve as a high-tech “Rosetta Rubik’s Cube,” with an immense number of combinations being run until the best matching combination is found.
+
+Is it possible to test the hypothetical “universal translator” software on something more accessible than a hypothetical communication from extraterrestrial intelligence? Many researchers believe so. While it has not been proven that cetacean communication has all the characteristics of human language, there is evidence that strongly suggests it could.
+
+Dolphins, for example, use so-called individualsignature whistles, which appear to be equivalent to human names. Among other things, the signature whistles are used to locate individuals, and therefore, meet one of the requirements for a communication system to be considered a language:displacement. In the course ofLouis Herman’s experiments, dolphins managed to learn an adapted version of American Sign Language to understand abstract concepts like “right” or “left. Lastly, thecomplex social lifeof dolphins requires coordination of activities that can be only achieved by efficient and equally complex communication.
+
+In addition to the often-cited cetaceans, there is evidence of other species having complex communication systems. Aseries of experiments has shownthat ant communication may be infinitely productive (that is, have infinite amount of combinations like human language does) and that it may efficiently “compress” content (e.g. instead of saying “turn left, left, left, left” say “turn left four times”).
+
+Both Doyle and Elliott studied cetacean communication with various tools provided by information theory.Elliott calculated entropyfor human language, bird song, dolphin communication and non-linguistic sources like white noise or music.
+
+Communication systems share a “symmetric A-like amplitude” shape: more symmetric for humans and dolphins, less symmetric for birds. Doyle conducted similar measurements with humpback whale vocalizations and arrived at similar conclusions.
+
+This is why several animal communication initiatives are coordinated with the SETI initiatives. A truly universal decipherment framework would be incomplete without the ability to ingest and learn a complex animal communication system.

@@ -1,0 +1,25 @@
+Breinify tells online retailers what customers want to buy at a specific point in time
+
+Think of the last time you shopped online. You probably navigated to a home page that featured a dozen or so items, only one or two of which you may have actually been interested in.
+
+And while retailers try to use things like purchase history to predict what you want to buy, we all know that never really works. Why would I want to buy another style of winter jacket if I already bought one for the season?
+
+LuckilyBreinify, an e-commerce recommendation engine launching atTechCrunch Disrupt SF 2016, thinks they have a better way.
+
+Instead of offering static recommendations based on things like past purchases and browsing behavior, Breinify combines a user’s demographics preferences, current interests and immediate intents to figure out exactly what they want to buy and when they want to buy it.
+
+So what exactly does this data look like and where does it come from? The first part is based on user behavior and comes from actions like which products they view and which links they click on a retailer’s website.
+
+The second part, data from across the web, is collected by Breinify crawling the web for a shopper’s different social identities on sites like Linkedin and Twitter.
+
+These social profiles tell Breinify which types of things you are interested in and other information they may think is relevant. And while the algorithm weighs this social data less than behavioral data that comes directly from a retailer’s site, it is a good backup (and can still let Breinify provide recommendations even if a user has never been to the retailer’s site before).
+
+The last element is the time-dependent part, and that is where Breinify’s AI engine comes in. Because even if a recommendation engine can tell a food delivery site that a user’s favorite food is pizza, what good does this do when the user is on the delivery site at 10am?
+
+A good recommendation engine needs to realize that a customer isn’t going to order pizza for breakfast and be able to offer a customer their favorite coffee instead of their favorite overall food.
+
+And that’s exactly what Breinify does.
+
+This sounds extremely complicated, and it is. But the startup has figured out how to package it in a way that is almost stupidly simple for a retailer to use — all they do is add a line of code to their site, which calls a custom API whenever a customer lands on the site. A few milliseconds later the API sends back a list of products that Breinify has determined a customer wants to see.
+
+Breinify charges per “activity,” which is any time a retailer asks for a list of recommended items for a specific customer, whether it is for a website, an emailed newsletter, etc. There is a free tier with up to 40,000 activities a month, a commercial tier with 30 million activities for $2,000 a month and a bunch of options in between.

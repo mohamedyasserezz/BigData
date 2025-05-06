@@ -1,0 +1,13 @@
+Lightroom for iOS receives the gift of universal RAW support
+
+Adobe’s Lightroom is a widely used tool among photographers, but the mobile version has always been hampered by poor RAW support —until now. Previously limited to DNG files, Lightroom for iOS now has the ability to open and tweakany RAW file that the desktop version can.
+
+It’s great news for pretty much everyone, and will make it much easier for photographers and editors to fit tablets into their workflow. No more shooting RAW+JPEG (ugh) or having to run everything through a converter, just in case.
+
+Mobile devices aren’t always the best device for editing photos — generally the bigger screen the better — but they’re often the one you have on you, and of course devices like the iPad Pro do have fabulous screens.
+
+Metadata like adjustments and ratings will be added to desktop versions of photos when you sync. So why not zip through last night’s shots while you’re on the train, nixing misses and flagging good ones, or try out a few white balance settings?
+
+One thing to note is you’ll have to import the files directly (e.g. from the SD card) to the mobile device if you want the full RAW file; if you import from Lightroom on desktop you’ll get a preview version. RIP unused storage space! 💀
+
+No love for Android just yet, alas, and no ETA.

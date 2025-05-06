@@ -1,0 +1,61 @@
+Data minimization — the new design rules for startups
+
+Wait, what?
+
+Yes, you read correctly. “Data” and “minimization,” two words that have rarely been used in the same sentence, now represent one of the critical product design rules we must apply if we’re to build products thatdeliver value, meaning and engagementto the human beings we aim to serve.
+
+A little confused? Not to worry. Let’s “Simon Sinek” this article andstart with why.
+
+If you’re based in Europe, and you haven’t been living under a rock, you’re no doubt aware of theGeneral Data Protection Regulation(GDPR) that goes into effect in 2018.Privacy by design, data minimization and the right to be forgotten are all requirements of the GDPR. And yes, organizations must comply.
+
+If you’re based in Australia, you may now be aware of the Australian Productivity Commision’sData Availability and Use Report. In short, the “Comprehensive Right” the commission wants consumers to have means consumers:
+
+You might be based elsewhere; Asia, the Middle East, Africa or the United States. In that case, let’s not stay bogged down in the evolving regulatory landscape that’s supporting this and just look at a few key stats:
+
+The data equivalent of the Wild Wild West faces an existential threat. People, whether through their attitudes and behaviors or through evolving regulation, are gaining agency over their personal information and their increasingly nuanced digital identity.
+
+Personal data is no longer simply an asset that sits in aggregate form on the balance sheets of large organizations. It is swiftly becoming an asset of the data subject, the human being to whom that data relates.
+
+What this means is that organizations are merely a temporary custodian of a human being’s (customer’s) data. This shift forces changes to how we ask for, store and make use of personal data — meaning our design patterns, heuristics and best practices must evolve.
+
+Think about it like this; when you meet someone in the physical world, do you tell that person all your secrets? Do you show that person your passport and driver license — allowing them to take a photo for safekeeping? Do you give them the details of your left-leg inseam measurement?
+
+Unlikely.
+
+In the physical world, we tend to progressively disclose information. We do this on the basis of an ongoing dialogue, where shared understanding is developed and trust is earned through mutual exchange.
+
+That is because we have the agency to decide what we disclose, to whom and under what circumstances. The other person has the agency to do the same, and, as such, we operate on equal terms.
+
+Through the PIMS ecosystem referenced earlier, we can now support these types of exchanges in the digital world.
+
+Additionally, through conscious design efforts that respect the agency of the human beings your product aims to serve, you can make more effective use of just the “right” data.
+
+So, here are the design rules you’ve been awaiting.
+
+What this means is that the data you require to fulfill your value proposition must match the context and stage of the relationship.
+
+If someone wants to take a guided tour, find ways to enable them to browse anonymously. Then, support them with specific, action-oriented and value-generating onboarding when the time is right. Lead them on a pathway to success, and empower them to utilize their data to help realize this outcome.
+
+To put a commercial spin on this rule, focus on the metrics that matter. LTV means more than the number of sign-ups this December.
+
+You are the temporary custodian of the personal data you intend to utilize. For the purpose of achieving your business objectives, it’s critical you maximize the likelihood a person grants their explicit consent for you to use their information through an affirmative action.
+
+To do this, plain, human language (or visual references) that clearly states the exact purpose through which the data will be used to fulfill the business purpose is critical.
+
+No one likes nasty surprises. Start earning trust through radical transparency.
+
+Personal data is most likely a significant liability for your organization. Wouldn’t it be better to acquire the right data at the right time, without the need to hold the liability?
+
+Of course it would.
+
+So consider giving back data as a design rule and practice. Empower your customers to engage with you in multi-directional data exchange that creates shared value.
+
+Think of it like this: If giving back data is embedded into your onboarding journey, and the customer has the ability to control and utilize that information, you can ask to make use of it at appropriate times.
+
+Better yet, if the customer moves house (or changes any other key life status), they can simply update their address and choose to share that updated address with you.
+
+I always think, “Minimum data, maximum utilization.” If you keep this in mind and start that journey by giving, you’re likely to get a whole lot more in return.
+
+As I referenced above, this market is evolving rapidly. Nuance and complexity are everywhere. Although this is something we all have to deal with, don’t push this burden, and the unnecessary cognitive load that comes with it, back on the human beings you serve as customers.
+
+Keep things simple. Take advantage of the design rules above and begin familiarizing yourself with leading innovators in the PIMS ecosystem. Chances are you’ll be leveraging their capabilities sooner than you think.

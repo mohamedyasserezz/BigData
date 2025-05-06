@@ -1,0 +1,17 @@
+Circle removes ability to buy and sell Bitcoin as it doubles down on mobile payments
+
+Launched in 2013,Circleis a consumer finance company originally built with the goal of using the Bitcoin blockchain as a payments platform. Part of that was achieved by offering customers the ability to buy and sell Bitcoin on the platform. Since then, the company has raised over $70M and slowly but surely turned in the direction of social payments.
+
+But today the company is fully cutting support for buying and selling Bitcoin via their platform. Instead, they intent to double down on mobile payments.
+
+Today Circle will launch “full messaging features” – which essentially turns it into an app that looks just like WhatsApp or Messenger – just with the ability to send money within conversations.
+
+But Circle isn’t totally giving up on Bitcoin. While you won’t be able to send Bitcoin between friends (transactions will be denominated in currencies like Euro and USD) the company says they will still be using Bitcoin as a settlement token on the backend.
+
+To do this Circle is launching a protocol called Spark, which lets digital wallets exchange value using blockchains. It seems that the company is hedging its bets on Bitcoin by building protocols that could still exist in case Bitcoin’s popularity decreases to the point where using its Blockchain becomes unsustainable.
+
+Circle is also announcing a partnership with Coinbase – essentially they are just directing all of their current customers to Coinbase who want to continue buying and selling Bitcoin. Customers who currently hold Bitcoin in their Circle account can still hold it insured – or sell it for other currencies via the Circle app – but not back to Bitcoin.
+
+Circle also announced that they are expanding to the Philippines and Korea via partnerships with Korea’sKorbitand the Philippines’Coin.ph, meaning U.S-based customers with friends or family in those countries can now use Circle as a remittance service.
+
+The question is now will customers use Circle’s payment-based messaging platform over more established alternatives like Messenger and WeChat, both of whichsupport payments. Many users tend to find and stick to one messaging and payment platform, and it seems unrealistic for them to leave places like Messenger (where they already have hundreds of friends on the platform) for a lesser-known app like Circle.

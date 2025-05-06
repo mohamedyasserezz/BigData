@@ -1,0 +1,15 @@
+IBM releases DataWorks to give enterprise data a home and a brain
+
+While the gears of research are turning fast developing new methods of machine intelligence, another, perhaps more impactful, trend is brewing in the field. Open source frameworks like Apache Spark are hitting their stride at the ideal time to put data analytics in the hands of the business development analyst without forgetting about the needs of the data scientist.
+
+IBM’s new Project DataWorks is built with both Spark and IBM Watson at its core to prioritize speed and usability without sacrificing robust analytics. The best way to think about DataWorks is as a sort of Google Docs for data analytics. In practice, companies have huge data libraries that often end up in a variety of decentralized locations. IBM’s new product eats all this company data and puts it in one intuitively accessible place.
+
+To keep all that data at the fingertips of those who need it, IBM has deployed a dashboard that displays data assets broken down with access, user, and categorical stats. IBM calls its technology for organizing data catalogs. With natural language search, users can pull up specific data sets from those catalogs much more quickly than with traditional methods. DataWorks also touts data ingestion at speeds of 50 to 100s of Gbps.
+
+Leveraging technologies like Pixiedust and Brunel, users can produce data visualizations with as little as one line of code. These visualizations can bring life to things like association and classification models, enabling everyone in a business to gain insights at a glance.
+
+Both enterprises and small businesses can access the new DataWorks tools via IBM’s Bluemix cloud platform. There will be a traditional pay as you go monetization structure, where anyone can come and run the system for hours, days, or months. But IBM also thinks that data analytics could take a page from cellphone carrier data plans and charge users a flat monthly subscription fee.
+
+Rob Thomas, VP of analytics for IBM, argues that the biggest savings for companies will be in human capital. IBM DataWorks really opens up the ecosystem so that users don’t have to have to be retrained in specific open source skill sets. The sweet spot for the new platform will be serving the usual suspects like retail, financial services, and telecoms, but Thomas notes that medium size businesses are also gravitating to the platform.
+
+The IBM Watson system powering much of DataWorks has been a key source of growth and revenue for the company. Watson can only continue to improve with new use case challenges. Many of the core technologies for DataWorks are based off of components ofThe Weather Company that IBM acquired earlier this year.The original catalyzer of the deal was the company’s platform for analyzing large unstructured datasets. Now, instead of weather, and with augmentation from Watson, businesses can produce market and company research with the same fundamental tools.

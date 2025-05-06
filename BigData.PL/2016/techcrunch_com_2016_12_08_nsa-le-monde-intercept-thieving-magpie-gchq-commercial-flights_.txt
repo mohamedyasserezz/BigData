@@ -1,0 +1,19 @@
+The NSA eavesdrops on in-flight mobile use too
+
+If you’ve been taking your sensitive phone calls at 30,000 feet, well, it’s time to stop. Apparently, the NSA knows about your extremely elaborate privacy workaround — putting your iPhone in the freezer isso2013 — and can hear your calls at cruising altitude just the same.
+
+According to a new joint report fromLe Monde and The Intercepton previously unreported content from the Snowden files, the NSA and its British counterpart GCHQ have an entire program dedicated to tracking targets in the skies. As airlines back off from formerly strict policies around in-flight mobile use, GCHQ and the NSA have been ready and waiting with their own high-altitude surveillance solution, coming to a commercial airline near you.
+
+According to the report, GCHQ had the process dialed in:
+
+“To spy on a telephone, all that was required was that the aircraft be cruising at an altitude above 10,000 feet. Secret aerial stations on the ground could intercept the signal as it transited through a satellite. The simple fact that the telephone was switched on was enough to give away its position; the interception could then be cross-referenced with the list of known passengers on the flight, the flight number, and the airline code to determine the name of the smartphone user.”
+
+Air France appears to be the favorite surveillance target for this particular flavor of spying, but as of 2012, British Airways, Lufthansa, Emirates and more than 20 other commercial airlines were of interest due to easing restrictions around in-flight GSM phone use. The program, code-named “Thieving Magpie,” is detailed in a series of slides on the topic “Using on-board GSM/GPRS services to track targets.”
+
+According to the NSA document obtained byThe Intercept, entire flights by carriers Air France and Air Mexico have been designated “possible terrorist targets” for more than a decade. Presumably, the program also surveils private flights, where in-flight calls are commonplace because when you’re rich you can do literally whatever you want.
+
+The newly leaked slides outline real-time tracking abilities, noting how surveillance targets can be intercepted upon arrival at their destination. As a slide titled “Travel Tracking” explains: “We can confirm that targets selectors are on board specific flights in near real time, enabling surveillance or arrest teams to be put in place in advance.”
+
+While tracking targets via mobile signals is nothing new, monitoring them in-flight offers the unique challenge of a literal moving target. Much to the chagrin of the two spy agencies, surveillance targets could blink offline and pop up on another side of the globe if a strategy like the one detailed in this report didn’t fill in the gaps.
+
+After all, there’s nothing an unblinking eye hates more than downtime.

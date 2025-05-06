@@ -1,0 +1,27 @@
+Airspace Systems’ ‘Interceptor’ can catch high-speed drones all by itself
+
+San Leandro-basedAirspace Systemsis making a business out of solving the toughest problems facing the emerging drone industry.
+
+The company designed a drone of its own, jam-packed with sensors and machine intelligence, to autonomously intercept threatening drones at high speeds and carry them away from large crowds. If you think this sounds difficult, you would be right. The company employs myriad technologies for its unmanned flying dogfighters that include computer vision, physics and some pretty serious engineering grit.
+
+To not only detect enemy drones, but predict where they will be in the future, CTO Guy Bar-Nahum, and a team of machine learning and computer vision experts, devised a creative method of training their machine learning frameworks using simulated test-flights. The idea is brilliant because of how it resembles the way human pilots train on flight simulators. A majority of training can occur around the clock inside the company’s office, with time-consuming outdoor test flights only being used to fine-tune the algorithms.
+
+Once the craft got good at identifying and predicting the bearing of other high-speed drones, the next challenge was to empower the good drones to take action. This meant creating a Kevlar net that fires from the underbelly of an Airspace drone using technology reminiscent of automobile airbags. The team experimented with a variety of approaches to disable opposing drones without permanently damaging them. Kevlar netting, structurally designed not to blow backwards when deployed, turned out to be the best option.
+
+Once attached, the heavy-duty Interceptor drone can lift the now disabled threat away to a safe location. In the off-chance that it cannot manage the catch and starts to behave erratically, the craft has an on-board parachute to allow for a decent and soft landing.
+
+The aftermath of one of Airspace’s first successful testsThe New York Mets are already working with Airspace to implement defenses against the possibility of a drone attack on a packed stadium. Outside of the risks posed to spectators, the optics of just an unwanted flyby could suck the air out of ticket sales (no pun intended).
+
+“The consumer drone industry is one disaster away from ceasing to exist,” explained Jaz Banga, CEO of Airspace Systems.
+
+Virtually no barriers exist today to prevent someone with ill-intentions from causing harm, even with a store-bought drone. An off-the-shelf DJI drone could be reasonably weaponized with a bio-agent or explosive.
+
+Companies like DroneShieldcarved out a market niche in detecting drones, but they leave the responsibility of intervention to others. Typical approaches, like physically shooting drones down, don’t actually address the problem. A falling drone laced with anthrax is terrifying, no matter the reason it’s approaching the ground.
+
+If a situation like this were to happen in the real world, it’s quite possible the U.S. government would ground all drones until it could figure out a systematic way to prevent their weaponization. Banga, who was appointed to the Federal Aviation Administration’s newly formed Drone Advisory Committee (DAC), knows these risks all too well.
+
+Specially designed Kevlar netting firing at a store-bought droneAirspace’s work supports the entire drone ecosystem. The less likely a bad apple is to create chaos, the more likely consumer drones will survive long enough to positively impact the world. Readily available consumer drones are already able to serve the social good. It will become commonplace to see drones transporting specialty medical supplies to paramedics in emergency situations.
+
+The drone that Airspace is building is more like a service than a product. The company consults with public and private sector entities to provide customized drone security. Consumers cannot buy an Airspace drone. To date, the company has raised $5 million in seed financing fromSterling VC,Shasta Ventures,Granite Hill Capital Partnersand angels to develop an initial product and service a number of pilot customers.
+
+Banga also noted that Airspace isn’t just a drone company. Its systems can be broken down into individual parts. It wouldn’t be difficult to assemble the same sensors from a drone on a detector anchored to the ground. Eventually the drones themselves will be completely modular. This makes it possible to add features like multi-shot Kevlar netting in addition to specialty sensors and interdiction technologies.

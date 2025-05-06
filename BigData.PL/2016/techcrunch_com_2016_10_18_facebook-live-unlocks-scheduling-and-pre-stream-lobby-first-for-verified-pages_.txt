@@ -1,0 +1,15 @@
+Facebook Live unlocks scheduling and pre-stream lobby, first for verified Pages
+
+Facebook is helping broadcasters plan and promote their Live streams ahead of time, and assemble their audiences in a waiting room so they have viewers the second the camera starts rolling. Today Facebook is rolling outLive video scheduling, scheduled broadcast sharing, and pre-broadcast lobbiesto verified Pages. The plan is to roll out Live scheduling to all Pages in the coming weeks, and to developers of third-party Live API tools soon.
+
+The features could eliminate some of the most annoying things about Live broadcasting. Instead of having to spontaneously start a stream, or pre-announce it with no link to share, you’ll be able to create a link up to a week in advance. This should make it easier to get bigger audiences since users will be able to plan to watch.
+
+Scheduling a broadcast triggers a News Feed post where potential viewers can opt to get a one-time notification reminding them that the stream is starting. To schedule a broadcast, Page admins can go to “Publishing Tools”, then “Video Library”, then “Live”, copy their stream’s credentials like a Steam key or server URL, write an announcement post for the scheduled broadcast, and publish the announcement to the News Feed.
+
+Creators can then promote their links ahead of time so they don’t have to fumble with trying to share their Facebook stream link on other social networks like Twitter while they’re on camera. They can also embed the links in blog posts to be able to publish breaking news with a Live video inside.
+
+And Facebook is making sure Live streams don’t have to start with broadcasters killing time, saying “Just waiting for more people to start watching”. Back in May I wrote a post,“What Facebook Live and Periscope need is a waiting room“, to solve this problem. Facebook announced in Mayit would build the feature, and now it’s here. Broadcasters can let viewers into the lobby up to three minutes ahead of time.
+
+Together, these features could give Facebook a new advantage in its battle with Periscope and YouTube Live for stream creators and viewers. Periscope recently launched its Periscope Producer feature that can pipe in more polished content from professional cameras and editing rigs, similar to Facebook’s Live API. But Facebook is pushing to make Live streaming a seamless part of every content producer and brand’s marketing and distribution flow.
+
+Creators want to maximize reach and put their creative efforts where they go the furthest, and viewers want to watch the best content alongside big crowds so they feel part of the zeitgeist. Live scheduling and lobbies could satisfy both sides.

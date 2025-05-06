@@ -1,0 +1,17 @@
+Twilio acquires Kurento and launches Voice Insights for monitoring WebRTC performance
+
+Twilio, which is currently hosting the European version of itsSignal conferencein London, today announced its first acquisition after itssuccessful IPO in June. This one is a bit complicated, but bear with me. Twilio is acquiring the proprietary WebRTC media processing technologies developed by the same team that also originally built theKurentoopen sourceWebRTC media server. Twilio is hiring the team and acquiring all of the technology that wasn’t open source, but the company behind the open source project,Tikal Technologiesin Spain, will continue to manage the open source project and its community.
+
+This is only Twilio’s second acquisition since it launched in 2007. Thefirst was Authy, a company that offered two-factor authentication and other security services. The financial details of today’s acquisition were not disclosed, but chances are that we are not looking at a major amount.
+
+Twilio itself will now also open an office in Madrid and integrate the Kurento Media Server’s technologies for enabling calls with large groups, as well as its transcoding, recording and media processing features, into Twilio Programmable Video.
+
+“Twilio and the team behind Kurento share a common vision of enabling developers through powerful platforms and straight-forward APIs,” said Twilio CEO and co-founder Jeff Lawson in today’s announcement. “As Twilio takes another step on our mission to fuel the future of communications by enabling developers, we’re excited to join forces with the builders of Kurento to extend the uses of our video platform. We can’t wait to see what developers will build next.”
+
+The company says that it will work with Tikal to maintain and improve the Kurento project going forward.
+
+Also related to WebRTC: Twilio today announced the launch ofVoice Insights. Using this service, developers can monitor the network and device performance of their WebRTC calls and — more importantly — programmatically make take actions based on the information they receive. If the volume of a caller suddenly drops, for example, developers could send a notification to the user to see if the microphone is suddenly muted. Similarly, developers will be able to check on networking issues in the new dashboard for Voice Insights and use all of the data collected during these calls to build their own custom analytics.
+
+Twilio’s new service is now available in beta. Pricing starts at $0.004 per minute.
+
+The acquisition puts Twilio in competition with startups likeCallstats.io, whichrecently raised $3 millionfor its own WebRTC monitoring service. If developers are already using Twilio to power their WebRTC apps, though, then using Twilio’s own monitoring tools is probably the most likely choice for them, given that they will be able to use a single dashboard to monitor all of their communications infrastructure.

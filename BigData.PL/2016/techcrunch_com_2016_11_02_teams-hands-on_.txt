@@ -1,0 +1,23 @@
+Hands-on with Microsoft Teams
+
+Microsoft Teamsthrows a lot of you, right out of the gate. That’s because competitors like Slack already have a sizable head start on Microsoft’s workplace collaboration tool. More to the point, though, is that, while the company is late to the party, it’s got about as good a business suite infrastructure as anyone can ask for, from Office 365 to Skype. In a lot of ways, the tools were there all along – Microsoft just had to find a compelling way to bring them altogether.
+
+It’s thanks to that constant presence of other apps in that ecosystem that there’s no question that this is a Microsoft offering, through and through. And while Slack, understandably, will get name-checked a fair amount when discussing the new collaboration tool, the software giant has taken a very cleanly organized business approach that sets it apart from that chief competitor.
+
+While Microsoft has left some space for “fun,” it’s a well delineated version, handily marked off. There’s no random chance of the /giphy command here. When you want to have fun, you go to the somewhat stiltedly named “Fun Picker.” It’s kind of like getting to choose one toy from the box during playtime at kindergarten, so choose well. There you’ll find GIFs and stickers and a “meme customizer,” which lets you add dialogue boxes to still images that mostly look like Lichtenstein comic panels.
+
+The app does a pretty good job organizing a lot of content at once – though a company rep admitted that developers held back some functionality, in an attempt to keep things lightweight, notably things like private meetings, though there are some workarounds for that, which we’ll go into later. Also, all users get access to all the information that’s been shared in a channel by default, so watch who you talk about in there.
+
+The basic layout should look familiar to anyone who has used one of these apps before. There’s a main content stream and a left rail, which lists different teams inside of the main channel, where users can be grouped together by things like department. Only those in the main group can be added to the teams (Guest access isn’t enabled in the preview, but will be coming, leveraging that functionality that’s built into the broader Office 365).
+
+Users can essentially decide what they want to pin to the left rail, including files and teams. You can also collapse those lists down, so you’re not bombarded by too much information at once.
+
+As mentioned, conversations are automatically threaded, which is super helpful for groups that share a lot of information. When scrolling through, you’ll only see pieces of each conversation that are perceived to be pertinent to you – including your mentions and keywords. You can also like or flag a specific post for easy access later. And, yeah, you can edit posts after they go up, though as with Facebook and Slack, they’ll carry an Edit icon to let people know that it’s been changed.
+
+Teams features a standard text edit when writing a post, including old standards like bold and bullet points. You can also attach files of just about any type to a thread, even those outside of the standard Microsoftiverse.
+
+Meetings are one of the more compelling features Microsoft’s bringing to the table here, incorporating Skype functionality into the app. You can schedule a meeting in advance and start inviting people, or you can just click the video icon to get things started. Meetings are video by default, but you can also use just audio.
+
+Naturally, the app also has direct message functionality incorporated in the form of Chats. You can talk to one or two people at once, in a layout similar to what you see in Twitter’s DMs, complete with little dialog boxes. You can also start a video call from this view, popping up Skype.
+
+Microsoft’s done a good job organizing a ton of information into a single clean UI. And the addition of third party functionality based in the tabs from providers like Asana and Hootsuite will certainly keep Slack on its toes. Of course, the real test of the app is how it works over time. Interested parties can try it out today as a preview. Thefull versionwill launch for the public early next year.

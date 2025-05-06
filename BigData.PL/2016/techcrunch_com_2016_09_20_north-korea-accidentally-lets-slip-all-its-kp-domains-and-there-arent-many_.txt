@@ -1,0 +1,13 @@
+North Korea accidentally lets slip all its .KP domains — and there aren’t many
+
+North Korea is famously secretive and restrictive — the regime goes to great lengths to both prevent the outside world from learning what goes on there and prevent its citizens from learning about the outside world. An IT error just gave us a glimpse at the country’s online ecosystem — and it’s a pretty meager one.
+
+Late last night (Pacific time, anyway), Uber app security engineerMatthew Bryantnoticed that North Korea had set itself to allow domain administrators to request a list of its national top-level domains. Bryant hadset up a scriptto watch for this kind of thing — he wasn’t just sitting there hitting refresh.
+
+The list was automatically copied over, and Bryantput it online on GitHub. It didn’t take long, either: There are a whopping 28 .KP domains registered. (And no, you can’t get your own.)
+
+The Technology subredditgot wind of thisand collected screenshots of the sites. Some English-translated ones can be seen here, and mod Jabberminor collected more in the original thread.
+
+This isn’t the limit of what North Koreans, or at least those with internet access, can see from inside the borders, but it is an interesting look at the few websites being administrated within the country. That there are so few, and that those few are so inundated with propaganda, is certainly indicative of the government’s ongoing exertion of strict control over internet-based communication and business.
+
+Don’t be surprised if the live sites are a little slow to respond — being on the front page of Reddit will do that.

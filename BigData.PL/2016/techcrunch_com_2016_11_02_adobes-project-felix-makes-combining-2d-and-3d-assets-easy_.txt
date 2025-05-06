@@ -1,0 +1,15 @@
+Adobe’s Project Felix makes using 3D assets easy
+
+More than ever, graphic designers today are expected to be able to create eye-catching photorealistic images; to do so, they often must combine 2D and 3D assets into a single scene. Traditionally, that’s been a very complex and time-consuming task, but withProject Felix, Adobe today announced a new project that makes it surprisingly easy to take 3D assets and integrate them into 2D images.
+
+As Adobe’sKerensa Hogantold me, the motivation for Project Felix came from talking about workflows with users. Their clients all want realistic-looking images. For the designers, that means being able to combine the right lighting, depth of field, textures and other features that make the combination of these different assets believable.
+
+The Project Felix team noted that while designers aren’t intimidated by trying something new, the design of the app itself is meant to provide a short learning curve for new users. Hogan told me that quite a few of Adobe’s customers tried 3D modeling tools in the past, but the complexity of these apps often led them to abandon this path. “We want to give them a product that fits accurately in their workflow without that complexity of other tools,” Hogan said, and also noted that Adobe wants to give these users “ownership of the creative process in a spot where they didn’t have it before.”
+
+The tool itself is split into two parts: a design mode and a rendering mode. The design mode is essentially a 3D compositing tool, but it also includes some really smart features. The application can automatically detect the lighting in a scene and position a light source accordingly, so shadows and reflections look like they fit the scene. Similarly, Felix will try to position objects so they align with the horizon, for example.
+
+The team also designed the app so users wouldn’t have to worry about polygons. Still, though, somebody has to design the 3D assets that Felix users can then import. Designers aren’t likely to create these assets themselves, but Adobe is adding three new asset types to its Adobe Stock marketplace (3D models, lights and 3D materials) that will make it easy for creatives to find the assets they need. The tools will also come with a free library of models, materials and lights.
+
+Why isn’t Adobe building all of this into Photoshop? Hogan told me that the team built a new framework for this project that makes extensive use of the GPU and, for now, that doesn’t integrate well with existing tools. This is what allows Felix to always render a small real-time view as you design a scene. For a full render, you have to switch to the aptly named “render view.”
+
+The beta of Project Felix will become available to paying Creative Cloud members later this year. Adobe typically first releases experimental tools like this under the “Project” moniker and then releases them as stand-alone tools with a ‘real’ name later.

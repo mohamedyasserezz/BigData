@@ -1,0 +1,33 @@
+Apple announces long-awaited bug bounty program
+
+Tech companies hold the keys to some of our most personal information — payment details, health records, chat logs with our lovers and archives of family photos — and, as we hand over more and more private data, it becomes increasingly important that companies earn our trust by keeping it secure.
+
+Over the past five years, most major tech companies have instituted bug bounty programs, welcoming vulnerability reports from hackers and reimbursing for reports in cash. Companies that don’t have the technical expertise to run their own bounty programs have outsourced this important security work to outside firms.
+
+But for years, Apple remained a holdout. While security has been a crucial part of its corporate narrative, Apple has quietly refused to pay for bug reports, at times frustrating security researchers who found it difficult to report flaws to the company. That changed today, as Apple’s head of security engineering and architecture, Ivan Krstic, announced to Black Hat attendees that Apple will begin offering cash bounties of up to $200,000 to researchers who discover vulnerabilities in its products.
+
+Krstic’s announcement is part of Apple’s ongoing work to shed some of thesecrecy around its security architectureand open up to the community of hackers, researchers and cryptographers who want to help improve its security. Even Krstic’s talk at Black Hat, which also covered the security features of HomeKit, AutoUnlock, and iCloud Keychain, is somewhat unusual for Apple. A representative for the company hasn’t spoken at Black Hat in four years and Apple typically saves security announcements for its own conference, WWDC.
+
+“Apple historically had a rough relationship with researchers,” said Rich Mogull, CEO ofSecurosisand a security analyst who keeps tabs on iOS security. “Over the last 10 years, that has changed a lot and become more positive.” The bug bounty program, he says, is another step in the right direction.
+
+In the past, Apple has cited high bids from governments and black markets as one reason not to get into the bounty business. The reasoning went: If you’re going to be outbid by another buyer, why bother bidding at all? While $200,000 is certainly a sizable reward — one of the highest offered in corporate bug bounty programs — it won’t beat the payouts researchers can earn from law enforcement or the black market. The FBIreportedly paid nearly $1 millionfor the exploit it used to break into an iPhone used by Syed Farook, one of the individuals involved in the San Bernardino shooting last December.
+
+A bug bounty program is unlikely to tempt any hackers who are only interested in getting a massive payout. For those who only care about cash, Mogull said Apple could probably never pay enough. But for those who care about making an impact, getting a check from Apple could make all the difference. “This is about incentivizing the good work,” Mogull explained.
+
+Apple executives’ thinking on the effectiveness of bug bounties has shifted, based in part on reports from the company’s own penetration testers who spend their days trying to crack the company’s products. Apple says that discovering vulnerabilities is becoming more difficult for in-house testers and external researchers alike, so it’s time to start offering more incentives for bug reports.
+
+“Apple is obviously spending a lot of time doing this internally, putting their best people on it, but they are saying, ‘We are having a harder time finding these things.’ They are saying, ‘In our desire to continue to make security an evolving conversation, it will be helpful to expand beyond our walls,” said Ben Bajarin, a consumer technology researcher. “This is an expansion of security work they’ve done before.”
+
+As the difficulty of finding and exploiting Apple has risen, the company has seen a need to incentivize researchers to do more in-depth work. Opening up to researchers will likely pay off, says Alex Rice, the co-founder of the bug bounty programHackerOne.
+
+“There isn’t a company yet who has launched a bug bounty program and has not identified new vulnerabilities that they didn’t know about yet,” Rice said. “If a company is launching a bug program, they’ve knocked out all the low hanging fruit, they follow best practices, but they know it’s not enough.”
+
+Apple’s invitation-only bug bounty program will be open only to researchers who have previously made valuable vulnerability disclosures to the company. Apple consulted with other companies on their bug bounty programs and decided that opening the bounty system to the public would bring a deluge of reports that might overshadow high-risk vulnerabilities.
+
+However, Apple won’t turn away new researchers if they provide useful disclosures, and plans to slowly expand the program.
+
+The program launches in September with five categories of risk and reward:
+
+To be eligible for a reward, researchers will need to provide a proof-of-concept on the latest iOS and hardware. Although each category of vulnerability maxes out at the given rate, Apple will determine the exact reward amount based on several factors: the clarity of the vulnerability report; the novelty of the problem and the likelihood of user exposure; and the degree of user interaction necessary to exploit the vulnerability.
+
+In an unusual twist, Apple plans to encourage researchers to donate their earnings to charity. If Apple approves of a researcher’s selected institution, it will match their donation — so a $200,000 reward could turn into a $400,000 donation.

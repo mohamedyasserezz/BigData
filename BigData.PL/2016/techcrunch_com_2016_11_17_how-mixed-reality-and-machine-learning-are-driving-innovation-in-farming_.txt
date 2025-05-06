@@ -1,0 +1,23 @@
+How mixed reality and machine learning are driving innovation in farming
+
+Farming is, by far, the most mature industry mankind has created. Dating back to the dawn of civilization, farming has been refined, adjusted and adapted — but never perfected. We, as a society, always worry over the future of farming. Today, we even apply terms usually reserved for the tech sector — digital, IoT, AI and so on. So why are we worrying?
+
+The Economist, in itsQ2 Technology Quarterly issue, proclaims agriculture will soon need to become more manufacturing-like in order to feed the world’s growing population.Scientific American reportscrops will soon need to become more drought resistant in order to effectively grow in uncertain climates. Farms,The New York Times writes, will soon need to learn how to harvest more with less water.
+
+And they’re right. If farms are to continue to feed the world’s population they will have to do so in manners both independent of, and accommodating to, the planet’s changing and highly variable climes. That necessitates the smart application of both proven and cutting-edge technology. It necessitates simplified interfaces. And, of course, it necessitates building out and applying those skills today.
+
+Fortunately, the basics for this futureare being explored today. For example, vertical farming, a technique allowing farmers to grow and harvest crops in controlled environments, often indoors and in vertical stacks, has exploded in both popularity and potential. In fact, this method has been shown to grow some crops20 percent faster with 91 percent less water.Genetically modified seeds, capable of withstanding droughts and floods, are making harvests possible even in the driest of conditions, like those found in Kenya.
+
+But managing such progress, whether indoors or in the field, is a challenge unto itself. Monitoring acidity, soil nutrients and watering time for each plant for optimal growth is, at best, guesswork or, at worst, an afterthought. But it’s here new interactive technologies may shine. A small family of sensors can monitor a plant’s vitals and provide real-time updates to a remote server. Artificial intelligence’s younger cousin, machine learning, can study these vitals and the growth of some crops to anticipate future needs. Finally, augmented reality (AR), where informative images overlay or augment everyday objects, can help both farmers and gardeners to monitor and manage crop health.
+
+Plant.IO* is one system that shows how it can be done: A cube of PVC pipes provides the frame for sensors, grow-lights, cameras and more. A remote server dedicated to machine learning analyzes growth and growth conditions and anticipates future plant needs. A set of AR-capable glasses provides to the user an image, or a representation, of the plant, regardless of location. If the AR device is capable, like the Microsoft HoloLens, it also can provide a means to interact with the plant by adjusting fertilizer, water flow, growth lights and more.
+
+This methodology, when paired with gamification, may lend itself to a new, simplified form of crop management. Together, AI and AR make it simple and fun for everyone from adults to adolescents to monitor and manage their own gardens from home and afar. This idea is at the heart of Plant.IO: a fun, workable solution for an agriculture-based scenario where digital information can overlay a physical object or area without losing context.
+
+In fact, this sort of management system could extend beyond gardens and farms. Any scenario where a physical environment exists alongside measurable data could, potentially, benefit from an AR/AI deployment. Industrial operations, such as warehouse management, are a promising area. Industrial farming, where the combination of AI and infrared cameras to measure a field’s health, is another.
+
+With the right formula of AR and AI, users can monitor and nurture plants from virtually anywhere in the world. It doesn’t matter if they’re growing plants on their kitchen counter, or preparing for their next harvest. Better yet, they can do this with the latest information on a plant’s acidity, nutrient, watering levels and more in an environmentally sound manner.
+
+The first industrial revolution helped us go from the fields to the cities with the productivity gains from machine farming. This industrial revolution is using machine learning and other digital “implements” to take farming even further — and to feed the world.
+
+*Disclosure: Plant.IO is an open-source digital farming project created by Infosys.

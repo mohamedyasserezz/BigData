@@ -1,0 +1,13 @@
+You can now run the Oculus Rift on a $500 PC
+
+VR has been pretty expensive to get going with, but it’s slowly getting cheaper.
+
+Oculus CEO Brendan Iribe announced some changes to the minimum PC spec requirements required for Rift at the company’s developers conference, a move that will likely open up the platform to a much wider audience.
+
+Now, a PC with an Nvidia 960 graphics card and an Intel i3-6100 CPU will be able to support the Rift. Iribe notably highlighted that AMD has made a desktop for $499 that meets these requirements (with an AMD processor obviously). Iribe also teased that a number of laptop computers will be integrated into the Oculus-ready certification.
+
+The reason for the lowered spec requirements is an oddly-named feature called Asynchronous Spacewarp (???) which lets content operate at an internal 45 frames per second while being smoothly beamed to the Rift headset at 90fps. The system works by taking a pair of frames and creating a synthetic frames in between them that makes up for their differences. It’s definitely not as ideal as native 90 frame rendering but it does effectively open the Rift headset to lower specced PCs.
+
+It will be interesting to see how Oculus uses features like this to optimize the Rift for different systems. The Rift is likely going to find a home on the Project Scorpio Xbox One next year and tech similar to this may help the company optimize experiences for lower-powered consoles.
+
+PC-centric virtual reality is still pretty unwieldy for the average consumer, but as Oculus relaxes the minimum specs it slowly grows more likely that they can get onto the platform withouttoo muchinvestment.

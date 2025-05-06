@@ -1,0 +1,39 @@
+Pinscreen launches with high-tech distractions for a nerve-wracking election
+
+It was midday last Thursday when the founding team behind the new visualization appPinscreenquietly launched what they hoped would be a welcome diversion from the tense last days of the election.
+
+What Pinscreen says it has developed is a system for generating what can be photorealistic three-dimensional images from a single scan. While the technology’s current applications involved distorted faces for caricature, the same technology could be used for exceptionally realistic video.
+
+Basically, it brings the technologies that were previously only available to folks at graphics studios like Industrial Light & Magic or Weta (the go-to studio for Peter Jackson’s Hobbit and Lord of the Rings series) to mainstream users.
+
+“The idea is that you would normally need a highly-skilled digital artist to create this three-dimensional model. Now, you have a neural network that learns from the person and that does it,” founder Hao Li says.
+
+The company had been in stealth mode for the past year, developing highly advanced artificial intelligence-powered visualization and mapping technologies to make easy tools for creating three-dimensional images, and they were finally ready to put the tech through its paces.
+
+Their first targets?Hillary ClintonandDonald Trump.
+
+Now as the polls close, users are getting their chances to use the Pinscreen technology and create some “comical” gifs to get their last licks at the two candidates — as the Los Angeles-based company gets ready for its next trick.
+
+The company, launched by a core group of researchers from the University of Southern California, reveals why Los Angeles is becoming as much of a tech town as Tinseltown.
+
+Founded by Li, the director of USC’sVision and Graphics Lab at the Institute for Creative Technologiesand a former lead researcher atIndustrial Light & Magic, along with a team including Frances Chen and Shasta Ventures’ executive-in-residence Stanley Kim, Pinscreen is hoping to be on the cutting edge of three-dimensional imaging, with a technology that can create lifelike 3D images from nothing more than a snapshot.
+
+A year ago, when Li was first putting the finishing touches on his research, a large social media company in the area came with an acqui-hire proposal to bring the Pinscreen technology in-house.
+
+Li, seeing a sign in the interest from large corporations, decided to take the project to market independently.
+
+So far,the company has raised $1.8 millionin a seed round backed by Lux Capital and a few other undisclosed venture firms.
+
+“I can take any video from the internet, any picture from the internet and mix and match things together,” to create a compelling three-dimensional image, says Li.
+
+“In the end, we’re building a platform for people to create visual content,” says Li.
+
+For now, that visual content is restricted to gifs making fun of the election and its candidates.
+
+“We wanted to start this as an experiment,” Li said. “The hope is to boost the creation of gifs.”
+
+Li’s technology currently focuses on facial scanning to create exaggerated images, but it can be more photorealistic.
+
+“The most important thing is the face. It’s the most important biometric that you can identify,” Li says.
+
+While faces come first, eventually the technology will get to an even more powerful point, he says. “In a year or two, we will be able to create things that are completely real,” according to Li.

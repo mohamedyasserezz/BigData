@@ -1,0 +1,27 @@
+Facebook’s News Feed just got better on slower connections
+
+Facebook’s News Feed has now been made even better for users with slow network connections – a project the social network has been working on for some time by revamping its underlying architecture to improve the way stories are ranked and displayed in the Facebook mobile application. Withthe latest series of improvements, Facebook will select which stories to show you based on a combination of pre-cached stories saved on the device, as well as new stories from Facebook’s servers.
+
+The update will also introduce the ability for Facebook to re-rank this combination of News Feed stories directly on the client – something that’s possible now because of the increased computing power of today’s mobile devices.
+
+This change, explains the company, will better ensure that users are seeing the most relevant News Feed story, even when they’re on a slow connection. That means fewer spinners and gray boxes, Facebook says.
+
+Facebook has been working to make its service more accessible in emerging markets where connection speeds are often slower or inconsistent as part of its ongoing effort to reach the “next billion users.”
+
+The company a year agorolled out a series of News Feed tweaks,which included things like caching stories on the device in order to have something to show you rather than a blank page. It also previously had begun to prioritize the items you’re actively looking at, while deprioritizing those your current connection couldn’t handle, like videos.
+
+In the past, however, the way Facebook’s News Feed worked is that the server would send a batch of already ranked stories to the client. Those that weren’t displayed would be cached so they could be shown in a pinch when your connection dropped or slowed.
+
+But the problem with this system is that this could lead to people seeing older and less relevant content, since they weren’t getting newer stories from the server. That might be fine in cases where there’s absolutely no connection, but not necessarily the best way to handle things when the connection is just slower than usual.
+
+Now, Facebook will figure out what to show you next by looking at both this cache of older stories on the client as well as a pool of new stories from the server. That is, every time the server sends the client a new story, it can automatically be ranked in the News Feed alongside those unseen stories from the persistent cache.
+
+And this process happens every time you scroll down, even on poorer connections.
+
+The end result of these changes is that Facebook will better display the stories that have been optimized for your current network connection, at the time of your session.
+
+Because it can now re-rank stories on the client, that means it can do things like temporarily downrank a media-heavy story that includes photos, videos or link previews, for example. When the associated media loads – images, at least the beginning of the video, or the text of the Instant Article – only then will it be displayed to the end user.
+
+The update is one of many things that Facebook has been doing to make its app work better on poor connections, or when you’re offline. Last December, for example, itbegan allowing users to comment on posts when offline. Before that, it allowed for offline sharing and Likes. And the company has even specifically designeda “Lite” versionof its mobile app that uses less data for those on 2G networks or with unstable internet connections.
+
+Facebook notes the new changes won’t only benefit emerging markets, however – everyone experiences poor connections at times, and this will help in those cases, too.

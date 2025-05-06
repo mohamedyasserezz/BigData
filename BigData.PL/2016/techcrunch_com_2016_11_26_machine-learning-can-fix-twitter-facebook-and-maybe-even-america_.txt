@@ -1,0 +1,83 @@
+UPDATED: Machine learning can fix Twitter, Facebook, and maybe even America
+
+UPDATE:A previous version of this post went up under the editor’s byline. The author of the piece is Chris Nicholson.
+
+Quitting Twitter is easy — I’ve done it a hundred times. Someone called it “a clown car that drove into a gold mine,” and like all clown cars, Twitter makes the passengers get out once in awhile.
+
+If I go back, it’s because I’m addicted. The tight news cycle, tweetstorms, gossip mongers, insight, argument, factoids, snark and one-liners. For an information junkie, that little bubble is hard to resist.
+
+But Twitter — and Facebook, for that matter — is desperately broken in ways that alienate users, spread hate and endanger us as a species. The elections have revealed how broken they are better than anything else could have.
+
+First, let’s talk about what’s broken. One set of problems are the collisions between unlike users, and the offense, outrage, and remorse that follow. Another, much larger set of problems arise from the falsehood, hate and lies that go viral on social media, and their electoral consequences.
+
+These two sets of problems are interrelated. We’re getting too much trolling and not enough facts: we need to screen out one and let in the other. The right filters can address both problems.
+
+People who have left Twitter in the last year, at least temporarily, includeLeslie Jonesof the Ghostbusters remake, the British comicStephen Fry, andMarc Andreessenof A16Z. Other notable recent departures includeZelda Williams, who was attacked after the suicide of her father Robin.
+
+That’s right: She was attacked on Twitter after the suicide of her father. They sent her fake mortuary photos of him. That’s an example of the first problem.
+
+Offense and Open Communities
+
+A lot of people, especially in San Francisco, think that open communities are great and that social media should be all about connecting people.
+
+But not everybody should be connected.Umberto Eco saidthat television gave us the village idiot so that we could feel superior, while the Internet gave us the village idiot as a source of truth. Nobody wants to argue with the village idiot, let alone millions of them.
+
+On Twitter, you have to block them one at a time. That’s a lot of work, and by then it’s too late. Their trolling idiocy has infected your life. Their work is done before the rules can be enforced.
+
+Perfectly open communities always go sour. You need filters. Every functional community has them. And that’s where machine learning comes in.
+
+The natural-language processing to detect trolls, racism and insults isn’t hard, and Tweets as a data genre have beenanalyzed to death. We can build filters that work. (If you want to know how, you should read aboutneural nets and deep learning.) Deep learning is setting new records in accuracy for a lot of difficult problems, including image and voice recognition. It will achieve similar gains with text classification using algorithms likeWord2vecand Doc2vec.
+
+If you can detect trolls, you can protect the people they’re trolling by muting or putting a warning over the trolls’ posts. Twitter could even figure out who likes a few threats of violence now and then and personalize the masking.
+
+Personally, I go on Twitter to learn new things and hear new voices. But there have been some interesting studies fromliberal scholarsthat certain kinds of diversity can hurt civic life and erode trust. At the very least, it’s something that online communities should pay attention to, if they want to keep people coming back.
+
+There’s a radical openness to Twitter, which is cool some of the time, and uncool other times. It’s the uncool times that stick with you. You can’t unsee morgue shots of your father, like those that were Tweeted at Zelda.
+
+Twitter can do something about it, and they should. They already have a way ofscreening out porn. Why don’t they do the same thing with ethnic slurs, death threats and other kinds of trolling? Just draw a curtain over them. After a while, people will figure out that they don’t really want to see what someone said, if Twitter masks it. And their day will be better. And they will keep using Twitter.
+
+Tweeting to the Choir in a Post-Fact Bubble
+
+“A lie gets halfway around the world before the truth has a chance to get its pants on.” Winston Churchill said that. With social media, a lie probably circles the world a couple times…
+
+The algorithms of platforms such as Facebook and Twitter may not shield us from hate, but they do encourage the spread of emotion-rich content among like-minded people, especially when that content triggers outrage. The more shares a post gets, the more it will be promoted to similar individuals because Facebook et al optimizes for engagement, period.
+
+Unfortunately, a lot of that content is false, and its popularity has consequences.
+
+One of the main problems with U.S. politics is ayearslong shift away from facts and science. It’s the replacement of areality-based community, as formulated in the years of George W. Bush, with a platform of wishful thinking … backed by nukes.
+
+That’s problematic for a lot of different reasons, notably the way it breaks our ability to understand cause and effect, trade, war and indifferent nature. It’s particularly harmful to how we relate to each other. Because facts are something that can unite very disparate people, while beliefs are endlessly divergent. Without them; bubbles all the way down.
+
+We live in an age of self-reinforcing beliefs, and the reinforcement of groupthink happens in a feedback loop with the media, especially social media.
+
+We need to stop the flow of hate and lies and help the spread of facts, because words matter.
+
+What do I mean by lies? I meanthis fake news. And the weird wayMacedonian teenagerspumped out disinformation about Trump during this election cycle. Not only are our social media channels filled with garbage, but Americans are being gamed by foreigners. It should be illegal, but even if it’s not against the law, it’s something tech companies could control, if they wanted to…
+
+They can control it because we now have the ability to detect hidden patterns in text to — say — identify a book’s true author. (The pseudonymous authorElena Ferrantewas outed by a statistical textual analysis of her work before an investigative journalist doxed her this year.) Just like Google can build a highly accurate spam filter to keep you from wasting time on the pleas of Nigerian princes, deep learning can classify text by many measures, including its degree of factuality, falsehood or truthiness.
+
+Algorithms can do that because we know how to “vectorize” text. That is, we can turn any text into a column of numbers, and those are called neural embeddings. It’s a simple, yet unlikely, translation to represent language in numbers.
+
+Doing that makes natural language computer-readable. Then we can perform powerful mathematical operations on text to detect patterns and similarities, make predictions and apply categories to it. Those categories might be: “probably false” or “probably true.” And once we know the likelihood of a text’s factualness, we can decide how far it should spread.
+
+We have fact-checkers at organizations likeSnopes,PolitifactorMedia Mattersapplying judgments to news stories already. Those could be turned into labeled datasets to train algorithms to categorize text they’ve never seen before. If that’s not  neutral enough, Facebook could build its own team of fact-checkers.
+
+The real question is, do the tech companies want to control it?
+
+Mark Zuckerberg is still thinking about that one. Facebook and Twitter flattered themselves that they played arole in the Arab Spring, but Zuckerberg said this weekend that it’s a “pretty crazy idea” that fake news on Facebook affected this tight election. You can’t have it both ways.
+
+A smug, amoral response from the people at the top of powerful tech companies isn’t what we need. They have a responsibility to the public, to the species and to themselves to promote the facts and to mute the hate and lies, even if that responsibility is not enshrined in law. Not least because Mark Zuckerberg is Jewish, and Donald Trump rode awaveofanti-Semitismandwhite nationalismto power. It doesn’t matter how you identify when they start handing out the yellow stars.
+
+Whilemedia endorsementsmeant diddly squat this election cycle, the way that media and social media promoted false stories week after week to increase their eyeballs and mindshare had a huge effect. This presidential election tipped on a couple percentage points in a few key states. Or to be precise,107,330 votesin Wisconsin, Michigan and Pennsylvania handed America to Trump. That’s the equivalent of the population in Boulder, Colorado; West Palm Beach, Florida; or Daly City, California.
+
+Do you thinkComey’s untimely announcements, the months ofRussian hacking, or Wisconsin’svote-suppressing ID lawsmight have accounted for a town’s worth of ballots? If so, why wouldn’t the algorithms of a powerful social media platform used by tens of millions of US voters?
+
+Broadcast media spentmuch more airtimecovering the non-scandal of Hillary’s emails as it did covering the issues, or her policies, and social media amplified instead of remedied that distortion.
+
+Some great journalists wrote some great stories this year. They reported on Trump’smafia connections, his virtuallynon-existent philanthropy, and hisextensive tiestoRussia.
+
+But those stories didn’t have legs. They never reached the larger audience that needed to hear them most, because we have become polarized. We go looking for opinions that agree with ours. Each of us needs some windows opened onto the disagreeable facts and inconvenient truths that will slap us in the face no matter what we wish for.
+
+The tech platforms powering social media can help reconcile us with reality in many quiet ways, or they can join theindifferent and venal attention merchantsthat ushered aconman, a bigot and asexual predatorinto the White House for the sake of an earnings report.
+
+Until then, what we read on Twitter and Facebook will add nothing to our understanding of the world. It will just be our own breath backing up on us. And on that note, I think I need a Tic Tac.

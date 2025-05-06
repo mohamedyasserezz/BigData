@@ -1,0 +1,29 @@
+How the VPN industry is creating its stake in online gaming
+
+From single-player, 16-bit 2D arcade games to free-to-play online multi-player games, the gaming industry has come a long way in the last decade. With game developers constantly pushing up the industry benchmark, we can only watch with awe as newer games surprise us with their stunning graphics and engaging game play.
+
+However, looking at how sporadically the global gaming industry has grown in the last five years, more and more game developers have jumped into the fray and started catering to the online multi-player games genre.
+
+As online gaming continues to bring in more players, connectivity, security and access to games are all becoming larger issues. To solve these problems, increasing numbers of gamers are turning to VPNs.
+
+Even in Google Trends, the number of searches for “vpn for gaming” has taken a steep rise this year.
+
+These VPNs had traditionally been used by privacy and security-minded web crawlers, but, increasingly, gamers are turning to virtual private networks, as well. But in the world of online gaming, the needs are slightly twisted — and are the reason why conventional VPNs don’t seem perfect enough for the job. However, some concerns remain valid, so a replacement for them cannot be made.
+
+Perhaps the biggest draw VPNs hold for gamers is their ability to bypass regional locks that are placed on popular games. When Blade and Soul launched exclusively in Korea earlier this year, U.S. gamers took to virtual private networks to bypass the blockade on the game.
+
+The need for security and anonymity is what drives the global VPN industry. This need is important to gamers, too.DDoS attacksare a common problem among gamers, especially gamers who stream on sites like Twitch.
+
+“DDoS is a common issue we streamers have to be aware of. Naturally, I had to make necessary adjustments to save myself from the threat and the obvious GO-TO for me was to use a VPN. This made sure I won’t get DDosed in the middle of my gaming session and my online anonymity would remain intact throughout,” says Ashley “MissyGotGame” Whitley, a professional streamer on Twitch.tv.
+
+In the current state, VPNs are not optimized enough to fulfill gamers’ needs. When it comes to providing optimized data routes and making sure your game data gets a VIP route, the conventional VPNs aren’t up to the task.
+
+Furthermore, the continuous process of maintaining the shortest distance between the gamer and the game server is also something VPNs are not capable of doing. Using the clichéd routing techniques, VPNs allot users a specific route toward their destination depending on the location a user chooses to select. This however, backfires if your selected region is far from the locality of the game server.
+
+“Although we do not support or target online gaming, we still get a whole lot of queries by gamers each day,” said Eduard Yegor, marketing manager forIvacyVPN. They are always asking, “will it reduce my ping” or “I’m facing lag, will it help?”
+
+While it is true that many gamers use VPNs to ensure a faster and more secure connection to the game server, the truth is that VPNs don’t really affect your packet transfer speed that much. This is because even when you connect to a VPN, your game data has to hop across different servers before reaching the game server, and this increases ping time or leads to packet loss.
+
+When we analyze the VPN industry, we undoubtedly see how well it has done for online gamers in quite a few ways. However, it is not a complete solution package. Giving access to region-locked content and games is one thing, but saying that VPNs can improve your ping rate is an exceptional case. It’s not a reliable feature, and it would not be wrong to call it a myth that VPN is a tool to lower your ping and lag.
+
+VPN services need to mold themselves in order to serve the gamers well. They simply can’t grow in the online gaming industry in their current state. Plus, giving access to region-specific content and games is itself an act of controversy.

@@ -1,0 +1,41 @@
+How blockchain will grow beyond bitcoin
+
+Since its advent in 2009, bitcoin’s decentralized, broker-less and secure mechanism to send money across the world hassteadily risen in popularity and adoption. Of equal — if not greater — importance is the blockchain, the technology that supports the cryptocurrency, the distributed ledger which enables trustless, peer-to-peer exchange of data.
+
+Every day, new companies and organizations, including big names such asMicrosoftandTesla, take strides toward or show interest inusing cryptocurrency and blockchain to support their business.
+
+But the fame of blockchain has also given rise to two new challenges, namely that of interoperability and flexibility.
+
+There are nowmore than a score of blockchain-based currencies, each optimized for different purposes, with different exchange rates, verification and consensus mechanisms, performance, distribution function, block size limit and degree of anonymity. And none of these currencies are compatible with others, making it hard for users to transfer money between them.
+
+Also, there is now a general inclination to use blockchain in other fields, includingIoT,the supply chain,stock exchange,gamingand other domains where secure data transactions are important. However, the original blockchain used in bitcoin was not designed to scale to all possible use cases, making it difficult to use it in these domains.
+
+Overcoming these challenges can unleash the full potential of blockchain, enabling it to support and connect many of the technologies that we use today, as well as the developing technologies that are promising to conquer the future.
+
+First, we have to find a way to connect different blockchains. Every one of the available cryptocurrencies work fine in their own respect. But things get complicated and frustrating when you want to move money between different ledgers. There’s little or no service that allows you to accomplish the task easily, and you’re usually left on your own to sign up with different payment networks and move the money manually.
+
+There have been efforts in the past to remedy the situation.StellarandRippleare two cryptocurrencies introduced with the goal of enabling users to exchange different digital and fiat currencies through one ledger, but which have enjoyed limited success.
+
+Now, a group of veteran bitcoin and blockchain programmers are creating a technology they believe will unite all digital currencies and the companies and individuals who use those currencies.
+
+DubbedInterledger Protocol (ILP), the technology is being overseen by Ripple, the company that is otherwise known for its own namesake cryptocurrency and its participation in theW3C Web Payments Working Group, another initiative that seeks to facilitate web payments.
+
+As the name implies, ILP is not a ledger but a protocol, and it holds no balance or funds. Balances will remain in source and destination ledgers during transactions, a characteristic that, according to Stefan Thomas, Ripple’s CTO and co-founder of Interledger, will obviate the impossible-to-reach goal of having the entire world agree on one payment system.
+
+As Thomas described toWired, ILP is a top-layer cryptographic escrow system that allows funds to move between ledgers with the help of intermediaries, called “connectors,” which understand the underpinning of each ledger and perform the cross-ledger transactions transparently. The ledgers don’t need to put their trust in the connector. Instead, they use cryptographic algorithms to create an escrow of funds and exchange the money when certain conditions are met.
+
+The design was inspired by the success of the web, as Thomas explains in aMedium post— the idea to have a minimal protocol that allows nodes to evolve and change independently. Thomas maintains ILP can work with any online ledger and only small changes would be required in order to use it. He hopes that ILP will someday enable money to be transferred over the internet as easily as information, realizing a dream that has been sought by tech leaders since the 90s.
+
+Whether Interledger will become the sensation its developers are promising is yet to be seen, but for the moment, it has managed to draw the attention of some of the giants of the tech industry, including Microsoft,Google and Apple.
+
+The idea of an immutable database that stores transactions securely and transparently, and which is controlled by no single entity, is an interesting concept that can be applied to several different domains. But the blockchain needs to undergo changes if it is to meet the requirements of every possible industry.
+
+This is why manytech and banking giantssuch as JP Morgan, IBM and Intel have rallied to theHyperledgerproject, an effort overseen by the Linux Foundation aimed at extending blockchain to create an industrial-strength ledger that meets the changing requirements of the world of business. IBM has already contributed thousands of lines of code to the project and is establishing its name as a key contributor to the effort.
+
+Hyperledger will bring together a set of open protocols and standards in a modular structure that will support different components for different uses, enabling adopters to tune it to meet their different requirements. The project will serve as a development library that firms can use to build their own distributed ledgers without needing to rely on public blockchains such as those used in bitcoin and Ethereum.
+
+As Jerry Cuomo, vice president and chief technology officer of IBM’s software group,describes Hyperledger, it is “an idea that can be implemented and extended in ways that are consistent but enhanced.”
+
+Awhitepaperposted on the internet describes the key ideas and use cases of Hyperledger in different financial and industrial domains.
+
+While some think these technologies to be at odds, they will likely not be competing and will in fact be cooperating and complementing each other. In a future where machines, services, humans and companies will be exchanging information and money in various sizes and at various speeds, we’ll need flexible and interoperable systems that can communicate and offer transparency, security and convenience all in one place. The directions of events and efforts indicate that the new and improved generations of blockchain will have an important role to play in this regard.

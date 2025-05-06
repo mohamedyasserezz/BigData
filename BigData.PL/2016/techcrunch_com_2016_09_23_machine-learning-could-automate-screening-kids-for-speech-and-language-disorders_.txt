@@ -1,0 +1,15 @@
+Machine learning could automate screening kids for speech and language disorders
+
+Screening for language disorders is best done early and often, but it’s not always easy to get the equipment and staff to every kid in a timely fashion. At least a basic level of screening, however, may soon be able to be automated or done at home, ifresearch out of MITproves reliable.
+
+Computer scientists from the school discussed a new technique at theInterspeechconference in San Francisco; it’s still very early in development, but it’s more than a little promising.
+
+Children suffering from neural disorders affecting speech and comprehension exhibit certain patterns when performing a certain test, essentially narrating a series of pictures. Pauses, trouble with certain tenses or pronouns — little things may indicate a more serious problem.
+
+The system created by grad student Jen Gong and professor John Guttag uses recordings of many such performances as data for a machine learning system. By closely analyzing this dataset, it learns what patterns are associated with typical development and which suggest a nascent speech or language disorder — patterns corroborated by previous research, it bears mentioning.
+
+It’s not a replacement for a trained professional, but then again, a trained professional can’t be packed into an app. It’s good enough right now to be deployed, scoring well above recommended accuracy levels. With screening available on any smartphone, these disorders can be detected and treated earlier.
+
+There’s still work to be done, though.
+
+“Better (and more) training data is necessary to improve the system,” wrote Gong in an email. “Typical development in children is itself highly variable. Having more data from children who are typically developing and children with impairments would allow us to better understand what distinguishes these impairments from typical variation during development.”

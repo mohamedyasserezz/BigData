@@ -1,0 +1,53 @@
+Zenefits halves its previous valuation to $2B to head off investor lawsuits
+
+Zenefitsis executing a change in its current ownership structure that will increase the overall ownership of the company for late-stage investors; it’s a move that revalues the company’s Series C round at $2 billion and looks to placate investor concerns over the company’s regulatory investigations.
+
+As part of accepting the new ownership changes, the investors participating will sign a release of claims against the company. It’s another move that new CEO David Sacks is doing in what’s been a massive cleanup effort of the company following report after report of the company skirting insurance regulation. Since all those regulatory issues came to light, the company haslaid off more than 350 employeesand parted ways with its former CEO Parker Conrad. The biggest issue stemmed from a program called “The Macro” that would aid in circumventing state licensing requirements.
+
+“Since shortly after becoming CEO, I have been in discussions with a number of our major investors about how we can reset our relationship in light of the fact that they (like I) were never informed about the Macro before investing in the company,” Sacks said in a memo released today. “We have been working on a new basis on which they can re-commit to the company and get fully aligned with the new Zenefits.”
+
+It’s not surprising that investors, who have a big stake in the company’s success, would also want some kind of guarantee that their investment is still in decent shape given the company’s problems. The hope here it would seem is that Zenefits — and Sacks — can quickly put all this in the past and start rebuilding the company and placate investors, rather than having to face off against them.
+
+Here are the details: Investors in the company’s Series C round, where it raised $500 million at a previous $4.5 billion valuation, will have their ownership stake upped from around 11 percent to 25 percent. A source tells us this amounts to a change in the share conversion rate upon a liquidation event. That change now effectively values the company at $2 billion in its Series C round, and earlier investors will receive small adjustments to offset the dilution.
+
+The company’s common stock will be diluted by around 20 percent.Non-executive employees will receive a special stock grant equal to 25 percent of their current number of shares, to offset the dilution, that will be vested in 12 months and consist of restricted stock units rather than options. That move should help placate any employees whopreviously hadan opportunity to accept a generous severance butdecided to stay on board with the company.
+
+Now, here’s the big question: What happens when it needs to raise money again?
+
+Zenefits, even with its skirting of regulations and growth proclamations, reached $60 million in ARR in 2016, Sacks said in an email detailing the layoffs of 250 employees in February. Former CEO Conrad previously said, when the company raised its $500 million round, that Zenefitswas on track to hit $100 million in annually recurring revenue by January 2016. This was certainly a miss, and raises a lot of questions as to whether Zenefits would be able to control its burn in the wake of missing those targets. At a $4.5 billion valuation, and with all the issues the company has had, that certainly could scare away investors. But it’s now going to be a bigger question as to whether they’ll buy in even at a lower valuation.
+
+“At some point, this company will want to sell its shares again, and future prospective shareholders will look closely at how we treated our current shareholders,” Sacks wrote in a note coinciding with the announcement.
+
+All this is basically a way to reset expectations for investors, as well as try to retain employees following the changes in the company’s ownership structure. Shareholders were kept in the dark in relation to the existence and use of “The Macro,” which required a reset of the relationship. Zenefits grew like a rocket ship,reaching a $4.5 billion valuationin just about two years after the company started. That, at the time, labeled the company as one of the fastest-growing SaaS startups ever — but, obviously, there was a bunch of shady stuff going on behind the scenes to pad that growth.
+
+Sacks has made other moves to try to restructure the company, which was being torn asunder by investigations, aparty cultureand the break-neck growth that Conrad went after in its earliest days. Zenefits offered its employees a buyout package that equaled two months’ severance in an effort to effectively reset the culture of the company, of which Sacks said around 10 percent of employees accepted. It also open-sourced a new application that provides licensing controls to companies in what seemingly amounts to a mea culpa to the industry. “We are becoming the Compliance Company,”Zenefits wrote in an announcement of the effort.
+
+And, of course, this is yet another instance of companies finding themselves resetting expectations for investors in the wake of a changing financing environment. If Zenefits wants to raise capital again, it’s going to have to deal with two issues: controlling its burn as it continues to try to grow, and resolving its regulatory issues.
+
+One footnote to the announcement: The agreement does not include a release of claims for the $10 million in stock Conrad sold. “I hope that issue will be resolved in the near future,” Sacks said in the memo.
+
+Andreessen Horowitz, Fidelity, TPG and Insight Venture Partners all agreed to the new investor agreement.
+
+“I want to thank our investors for reaffirming their confidence in us. We take our commitment to you seriously to build value for all shareholders,” Sacks said in the memo. “As a result of The Offer and Investor Settlement, all of our employees and investors will be aligned, committed, and focused on what’s next, which is the launch of Z2 in October.”
+
+Here’s the full memo:
+
+As you all know, I became CEO of Zenefits in February after it was discovered that the previous CEO/founder had written a software program (or “Macro”) that was widely disseminated in the company to circumvent a state licensing requirement. He resigned, the Board asked me to step in, and since that time, we have been working to remediate the situation and reset our relationships with all of our key stakeholders. These include regulators, industry partners, customers, employees and investors.
+
+Our efforts have included self-reporting the Macro issue, bringing our licensing into compliance, changing our leadership and governance, instituting new company values, and transforming the culture so that compliance is a top priority. We announced plans with Salesforce to open-source our licensing controls so the rest of the industry could benefit from our technology. We also offered a generous voluntary separation package (“The Offer”) for any employee who did not agree with the new direction. I’m proud that roughly 90% of employees chose to stay and re-commit to the new Zenefits.
+
+Today we are announcing something similar for our investors. Since shortly after becoming CEO, I have been in discussions with a number of our major investors about how we can reset our relationship in light of the fact that they (like I) were never informed about the Macro before investing in the company. We have been working on a new basis on which they can re-commit to the company and get fully aligned with the new Zenefits. We are announcing that agreement today.
+
+This agreement will increase the ownership of our Series C investors, who invested approximately $500 million in May 2015, from about 11% of the company to about 25%. This effectively revalues the Series C at a $2 billion valuation. The Series A and Series B investors will receive small adjustments to offset their dilution. The common stock will be diluted about 20% from its current level — about the same as a typical financing round. In my view, that is well worth it to realign our existing shareholders with the company. At some point, this company will want to sell its shares again, and future prospective shareholders will look closely at how we treated our current shareholders.
+
+We do not want employees to be negatively impacted by this agreement. So each non-executive employee of Zenefits will be “trued up” through a special stock grant equal to 25% of their current number of shares. This new grant will vest 100%in 12 months. It will consist of RSUs rather than options so that employees don’t have to pay a strike price. Our executive team will also receive additional 4-year grants to incentivize them. However, co-founder/CTO Laks Srini and I have offered not to participate in this true-up in order to ensure that there are enough shares for employees. We will be diluted to the same extent as any other common stockholder.
+
+As part of this agreement, each participating investor will sign a release, which will allow the company to move forward and put the past behind us. This agreement does not include a release for the $10 million of stock that Parker sold personally; I hope that issue will be resolved in the near future.
+
+The agreement also contains a few provisions to foster good governance, such as the creation of a permanent seat for the Series C on the Board of Directors (which is already occupied by TPG’s Bill McGlashan) and the creation of a Compliance Committee on the Board. Both the company’s management and its investors believe these are wise things to do.
+
+The investor agreement has already been approved by a number of the company’s major investors including Fidelity, TPG, Andreessen Horowitz, and Insight Venture Partners. We will be offering it to all our investors shortly.
+
+I want to thank our investors for reaffirming their confidence in us. We take our commitment to you seriously to build value for all shareholders. As a result of The Offer and Investor Settlement, all of our employees and investors will be aligned, committed, and focused on what’s next, which is the launch of Z2 in October.
+
+David

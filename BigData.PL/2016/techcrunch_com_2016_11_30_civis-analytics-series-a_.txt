@@ -1,0 +1,27 @@
+Eric Schmidt-backed data science startup Civis Analytics raises $22M
+
+Civis Analytics, a company founded by thechief analytics officerof Barack Obama’s 2012 re-election campaign, has raised $22 million in Series A funding.
+
+Founder and CEO Dan Wagner told me that after the election, he discovered that many organizations — whether they were in politics, government or business — were dealing with problems similar to the ones he faced during the campaign.
+
+Specifically, he said Civis customers are struggling to “operationalize data intelligence.” In other words, businesses are trying to figure out, “How do I establish truth and prediction and then how do I connect that truth to recommended action?” So Civis has created “a one-stop shop” for businesses to understand their data, use that data to make predictions and get recommendations on what steps to take next.
+
+In addition, Wagner said there “just aren’t enough data scientists out in the world.” And while Civis began as more of a consulting business, it’s now “taking the knowledge of like 100 data scientists and wrapping that up in a suite of technology,” which gives data scientists the tools to allow a smaller team to be much more efficient.
+
+Civis Analytics customers span the public and private sectors, and they include Airbnb, the 2020 US Census (in partnership with Young & Rubicam) and Verizon (which owns TechCrunch).
+
+To be clear, Wagner said the company isn’t trying to solve every single data science problem out there. Instead it wants to help customers “really understand people and how do I predict the right type of attitudes and behaviors.” For businesses, that means understanding customers and potential customers; for government agencies, that means understanding constituents; and for political campaigns, that means understanding voters.
+
+Civis Analytics previouslyraised seed funding from Alphabet’s executive chairman Eric Schmidt, but has mostly bootstrapped for the past three and a half years. (Wagner recalled Schmidt telling him, “You need to suffer through this.”)
+
+So why raise money now? Wagner said that while he was able to use revenue to grow the team to 135 employees, it was time to start investing and expanding more aggressively.
+
+The new funding was led by Drive Capital with participation from Schmidt, Verizon Ventures and ad holding company WPP. Drive’s Chris Olsen is joining Civis’ board of directors.
+
+The company wasn’t involved in this year’s presidential campaign, but given Wagner’s background, I couldn’t help asking him about the election. He admitted that he has “deep regrets” about the results, but he said thatDonald Trump’s surprising Electoral College victoryshouldn’t change the role of data science in campaigns.
+
+“Trump did some interesting things with technology that were heterodox and unanticipated,” Wagner said. “Ideally, that doesn’t change the nature of what campaigns do [with] analytics, but it probably changes the way that campaigns should be run.”
+
+He added that it’s not the analysis side but the measurement side that’s “broken and … has to change.”
+
+“Phone polling as an instrument of political measurement is probably on its way out,” he said. “It’s on its last legs and everybody knew it. We have been transitioning internally for both commercial and public customers to multi-mode [polling] and online panels. People need to adapt to new circumstances, and they need to adapt very, very quickly.”

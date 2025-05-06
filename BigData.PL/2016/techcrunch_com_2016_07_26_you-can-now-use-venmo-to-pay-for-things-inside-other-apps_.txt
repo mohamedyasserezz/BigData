@@ -1,0 +1,17 @@
+You can now use Venmo to pay for things inside other apps
+
+In January Venmoannouncedthat users will soon be able to use Venmo to pay inside other apps, similar to how most e-commerce apps already offer PayPal or Apple Pay as payment options.
+
+Andnow(well, technically tomorrow) the feature is leaving beta and will be available to all Venmo users.
+
+The feature will make it easy for anyone with Venmo to quickly pay in other apps. Users will first have to do a one-time authentication between the app and Venmo, but subsequently won’t have to leave the e-commerce app to pay from their Venmo account.
+
+One downside — only 11 apps will support the feature at launch. These include Munchery, Gametime, Priv, Poshmark, Hop Market, Wish, Parking Panda, Dolly, Urgentli, Boxed and delivery.com. But, it’s safe to assume that more retailers should start integrating the payment option into their apps — especially since Venmo is such a popular payment option among younger crowds.
+
+And Venmo is also adding a few new features that should make it particularly attractive to younger users. Specifically, they are Split and Share, which allow you to, well, split your purchase among friends or share it to Venmo’s social feed.
+
+Splitting things (whether it is rent, utilities or just dinner) is one of the areas where Venmo really shines. It’s an extremely low-friction payment system, lacking any of the clunkiness that PayPal inherited from the 2000s. And for this reason, it’s extremely popular with teenagers and young adults, who frequently use the service to pay back friends or split things.
+
+So the native split feature should be a big draw for anyone purchasing something that is supposed to be split — like buying tickets for a group to an NFL game or even ordering food. In terms of specifics, the split feature won’t actually split the purchase (because that could delay the transaction if one friend decides not to approve quickly enough), and instead just automatically requests your friends pay you back via Venmo for the split amount.
+
+The feature launches tomorrow and developers can integrate Venmo into their app viaBraintree’s API. Venmo (which is owned by PayPal) will charge retailers the same fee that PayPal charges — 2.9 percent + an additional 30 cents.

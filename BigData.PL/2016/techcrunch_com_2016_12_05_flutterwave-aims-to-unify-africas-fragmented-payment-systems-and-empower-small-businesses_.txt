@@ -1,0 +1,31 @@
+Flutterwave aims to unify Africa’s fragmented payment systems and empower small businesses
+
+There’s no shortage of entrepreneurs in Africa, but their ambitions are often hampered by the lack in many countries of reliable and affordable digital payment systems.Moneywave, fromY Combinator-incubatedFlutterwave, wants to empower individuals and small merchants to take part in the thriving digital economy by letting them accept payment however it’s offered, and receive it instantly in whatever form they choose. The company today announced official availability of the payments platform, and a stout funding round to help usher it into the world.
+
+The problem the team aims to solve is plain to see, explained Moneywave CEO Iyinoluwa Aboyeji in an interview — there’s just no universally used and accepted payment system over there.
+
+“The ecosystem for payments in Africa is heavily fragmented,” he said. “Anywhere in the west, you’re able to leverage your credit card to pay and get paid. If I’m a small business in Nigeria, I can’t accept cards, the overhead will kill me!”
+
+Bank accounts, while common, are often empty, and merchants are frequently informal and not actual incorporated businesses, limiting the services banks will provide. As a consequence, card transactions make up less than one percent of the billion dollars or so changing hands digitally every day.
+
+Cash is common, and more than a few person-to-person payment systems, like the popular mPesa in Kenya, have arisen to fill the gap — but fluidity is still a problem. Transactions can take days, and fees are common when transferring or withdrawing money. And there’s no guarantee that a merchant will be compatible with the service or bank in question — mPesa is barely used in Nigeria, for instance.
+
+“What we’re trying to do is remove the barriers between these payment instruments and channels, Aboyeji said. “If what you have is mPesa, you should be able to pay into someone’s bank account. You can charge people’s cards. You can accept payments via a link on Instagram.”
+
+Moneywave isn’t a user-facing tech like Square or Venmo, but an API layer that can be integrated into your business platform, however modest it is. Payments of whatever type or currency — card, bank transfer, e-wallet — enter on one side and come out the other into the bucket of your choice.
+
+So it’s not necessary, for instance, to maintain a costly official business bank account in order to take Visa cards — meaning online and international transactions open up, which it hardly needs saying opens up enormous opportunities. Locally, a merchant in Nigeria doesn’t have to maintain a useless mPesa balance from visiting Kenyans, and visiting Kenyans don’t have to convert their mPesa balances to cash just to buy something in Nigeria.
+
+It’s done instantly and with a small flat fee that Aboyeji said is a fraction of what merchants might incur if they had to navigate the various payment instruments manually. If this sounds a bit elementary in the context of the payment systems we’re used to in the U.S., well, it is — which makes it all the more surprising that a solution at this level hasn’t been achieved yet for such an enormous market.
+
+Moneywave is the product, but Flutterwave is the company, which launched earlier this yearat YC’s demo day in August. It’s been working with a few small African companies and merchants to iron out the bugs ahead of today’s official launch.
+
+Thrivesend is a person-to-person payment service that simplifies and reduces the cost of everyday money transfers, and Payme is for merchants who want to accept multiple forms of payments but don’t have the money or time to develop or implement standards-meeting mobile or web methods. Traction has been excellent for both, Aboyeji said happily.
+
+Banks and other services are on board, as well: “We’ve had a lot of banks want to get in on this. Everybody wants the platform,” he explained. “And I bet you a lot of smart African developers are thinking about what they can do with it.”
+
+Flutterwave is backed by an impressive collection of VCs: Omidyar Network, Social Capital, Greycroft, Khosla, Green Visor and more. The financial specifics are still confidential, but if Aboyeji’s optimism is any indication, it’s as healthy an A round as any out there.
+
+“It’s absolutely enough” for the company’s ambitions, he hinted, both on the map and among other banks and businesses. One pan-African bank is signed up and a second is on the way; this should help Moneywave to expand into French-speaking and East Africa.
+
+These early successes bode well for the conversion of a large part of Sub-Saharan Africa’s uniquely fragmented but potential-packed digital payments ecosystem. We’ll be keeping in touch with Flutterwave regarding the details of its funding and further news of its progress.

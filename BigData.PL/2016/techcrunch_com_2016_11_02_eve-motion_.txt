@@ -1,0 +1,9 @@
+Elgato intros a standalone motion detector for Apple HomeKit
+
+Setting up a connected home is a piecemeal proposition at the moment. Apple, Google and Amazon all working to push out their respective frameworks as quickly as humanly possible, but for the time being, actually automating the process is a matter of picking up devices here and there.
+
+Elgatois offering an interesting take on the space with its Eve series of outlets, switches and sensors, the latter of which can be used to trigger different scenarios through the company’s proprietary app — and, more importantly, HomeKit.
+
+The latest addition to the line isEve Motion— which, as the name pretty clearly implies, brings motion detection to the family. The device runs off a pair of AA batteries, detecting motion within a 120-degree field of view and 27-foot range. Once it spots movement, it can activate or deactivate power outlets and can set different Home scenes in motion.
+
+The accessory is available now for $50 through Amazon and Elgato’s store (and it’ll be hitting Apple’s stores soon) — a bit pricey for a standalone sensor. Probably a little much, unless you’ve already got a number of devices that can utilize the functionality. The Motion joins a number of existing Eve sensors set up to detect things like temperature, air quality and humidity.

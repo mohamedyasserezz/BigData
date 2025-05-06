@@ -1,0 +1,39 @@
+Emotionally intelligent computers may already have a higher EQ than you
+
+FromI, RobottoEx MachinatoMorgan, the idea of creating robots that can understand, compute and respond to human emotions has been explored in movies for decades. However, a common misconception is that the challenge of creating emotionally intelligent computing systems is too great to be met any time soon. In reality, computers are already demonstrating they can augment — or even replace — human emotional intelligence (EQ).
+
+Perhaps, surprisingly, it is the lack of emotion in computing systems that places them in a such a good position to be emotionally intelligent — unlike humans, who aren’t always particularly good at reading others, and are prone to missing emotional signals or being fooled by lies.
+
+According toTomas Chamorro-Premuzic, “robots do not need to be able to feel in order to act in an emotionally intelligent manner. In fact, contrary to what people think, even in humans high EQ is associated with lower rather than higher emotionality. [High EQ] is about controlling one’s impulses and inhibiting strong emotions in order to act rationally and minimize emotional interference.”
+
+In the field ofaffective computing, sensors and other devices are also getting very good at observing and interpreting facial features, body posture, gestures, speech and physical states, another key ingredient in emotional intelligence. Innovative companies across a range of industries are now using computing systems that can augment, and even improve on, human emotional intelligence.
+
+In the high pressure environment of Wall Street, stock traders hold power over millions of dollars of their employer’s money, and split-second decisions can make or break careers.
+
+The emotional state of employees can determine if they are at an increased risk of making a costly mistake, or if they have just made one. Historically, the management culture in some industries hasn’t always optimized for considering the emotional well-being of employees.However, leading banks like JPMorgan Chase and Bank of America are now working with tech companies to put systems in place to monitor worker emotions and boost performance and compliance.
+
+According toBloomberg, a number of banks have partnered withHumanyze, a startup founded by MIT graduates that produces sensor-laden badges that transmit in real time data on speech, activity and stress patterns. While it may sound like a scene from Orwell’s 1984, the badges also contain microphones and proximity sensors that can help employers improve productivity in teams by analyzing behavioral data. The devices would allow managers to assist employees who are “out of their depth” and take decisive action, and also to highlight positive behavior, which can be used in team training.
+
+If you’ve ever sat with white knuckles in the back of a taxi as your driver swerves through traffic, then you’re probably quite excited about the prospect of “self-driving” cars that are programmed to follow the rules and be safe. As autonomous vehicles begin to replace manned vehicles, our robot drivers may be a whole lot more responsive to how you feel about their driving.
+
+BRAIQis a startup that is teaching autonomous vehicles how to read the comfort level of its passengers and learn to drive the way they prefer. This personalization is intended to both help increase passenger comfort as well as foster trust in self-driving technology.
+
+Off-the-shelf in-cabin sensors provide data on how the passengers feel about the car’s actions — such as acceleration, braking and steering. The collected biometric data is aggregated and analyzed, resulting in an AI whose driving style is responsive to a passenger’s comfort. BRAIQ’s software is effectively adding a layer of emotional intelligence on top of artificial intelligence.
+
+New tech is also being created that will teach self-driving cars to communicate their intentions. To replace a wave of the hand to let someone pass in front or your car, or a flash of lights on the highway to let others know you are going to pass,Drive.aihas created a deep learning AI for driver-less cars that allows vehicles to signal their intentions to humans through lights, sounds and movement.
+
+The new tech uses deep learning programming to assess what is going on around the car via sensors, and react appropriately to the situation. To effectively interact with pedestrians and other drivers, the cars could learn to use movements and sounds to indicate their next actions; for example, flashing lights to allow someone to pass, or rocking back and forward to indicate it will move forward.
+
+Cogitoanalyzes speaking patterns and conversational dynamics between call center agents and customers, providing real-time guidance to help phone professionals better engage and connect with customers.
+
+Agents are guided to speak with more empathy, confidence, professionalism and efficiency, depending on the emotion detected through callers’ speech, while early signs of customer frustration and intent to purchase help improve service and close deals. Real-time dashboards enable supervisors to monitor and proactively intervene in live calls. Supervisors are automatically alerted to calls in which a customer is having a poor experience.
+
+Cogito’s analytics provide objective insight into agents’ speaking behavior and customer experience on every call, and live customer experience scores help identify actionable best practices and trends for future training exercises.
+
+Law enforcement and government agencies around the worldstill use polygraph “lie detectors.”However, many experts question the continued use of the technology, arguing that the polygraph machines areinaccurate and can be tricked.
+
+Nuralogixhas created technology that reads emotional reactions that aren’t notable to the human eye. Using a mix ofTransdermal Optical Imagingand advanced machine learning algorithms, the technology assesses facial blood flow information to reveal hidden human emotions. In a law enforcement setting, officials would be able to ask direct questions and then assess the respondent’s true emotions based on an element they cannot physically control — the blood flow in their faces.
+
+In a similar vein, researchers at MIT just announcedEQ-Radio, a device that, the creators claim, can assess a user’s feeling at that moment with an accuracy of 87 percent. The device reflects wireless signals off a person’s body, then uses algorithms to document individual heartbeats and breathing patterns, and the levels of brain arousal, according toa report. To date, the technology has only been used to assess whether a participant is happy, sad or angry, but, as the technology develops, it could be trained to be used in a similar way to a polygraph test.
+
+Although it might be creepy to think that in the future we will be monitored by machines that can detect our emotions, computing systems with emotional intelligence are already surpassing human capabilities. Far from being stuck in the realm of science fiction, they could soon be a reality in our homes, cars and offices.

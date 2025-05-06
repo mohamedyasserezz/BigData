@@ -1,0 +1,39 @@
+Databricks raises $60 million to be big data’s next great leap forward
+
+Looking to be the next leap forward in data organization, computation, and delivery for big dataDatabricks, the business built on top of the popularApache Sparkopen source project, has raised $60 million in new financing.
+
+Taking the route mapped by so many big data companies before it, Databricks is the business that the open source Apache Spark project built.
+
+Spark is the next step in data scientists’ long march to make massive amounts of data easy to understand and use in the next generation of applications.
+
+Data processing at velocity and volume has any number of applications in today’s data-rich world. And the victor — the company that can process that data and effectively serve it up in a way that folks inside businesses can understand and use effectively — will take the most spoils.
+
+The Spark project is part of an open source family of tools under the Hadoop umbrella that has already collected a ton (and I mean A TON) of cash.
+
+Companies like Cloudera,which raised roughly $1 billion(actually $900 million — including $760 million from Intel) during the effervescent days of 2014, came to market with claims of a better way to store and manage large amounts of data far more cheaply than any previous infrastructure technology.
+
+It’s the stuff that companies like Facebook and Google use to process the billions of pieces of data that they collect. Spark… is the next step… focusing not on the storage of data, but on how to manage it most effectively. The two work in concert,but are not the same.
+
+With its latest financing, led by the company’s previous investor,New Enterprise Associates, and including participation from Databricks’ initial investorAndreessen Horowitz, the company is looking to take its tech to the next level.
+
+The San Francisco-based company has already taken its product through some pretty intense paces, wresting the pole position in theCloudSort benchmarkfrom an open source offering developed by the University of California, San Diego.
+
+Databricks dropped the price of sorting 100 terabytes of data from the previous record of $4.51 per Terabyte to $1.44 per TB (for data scientists…that’s a spicy meatball!). The company worked withNanjing UniversityandAlibaba Groupto form the team, that now holds the world record.
+
+TheCloudSort Benchmarkis a competition designed to develop technologies that will reduce the total cost of ownership of the cloud architecture (a combination of software stack, hardware stack, and tuning) and encouraging organizations to adopt and deploy big data applications onto the public cloud.
+
+Beyond the business case, data scientists are flocking to the project, according to Databricks. There are now more than 288,000 members of the community, and over 1,000 active contributors from 250 organizations, the company said.
+
+Databricks launched its first product in 2014, around the time it raised $33 million in the first round to include NEA. In all, the company has raised roughly $100 million.
+
+At the time of the last financing,my colleague Ron Miller wrote about the first product:
+
+… the company also announced a new cloud platform called Databricks Cloud that Stoica, says has been designed to simplify big data processing by bringing the process under one cloud umbrella.
+
+The cloud solution consists of three pieces: The Databricks Platform, Spark and the Databricks workspace. The idea behind the product, Stoica says, is to provide a single place to process data without having to worry about managing a Hadoop cluster to process your data. It’s all done in the cloud instead in a managed environment.
+
+After you add your data to a project, you can begin working with it immediately. The product has several core concepts starting with Notebooks, which provide a way to interact with the data and build graphs. As you discover ways of displaying your data, you can begin to build dashboards to monitor certain types of data. Finally, the platform includes a job launcher, which enables users to schedule Apache Spark jobs to run at certain times.
+
+The company’s product has found a home with more than 400 customers and the new money will expand sales and marketing, the company said.
+
+“Apache Spark has enabled countless enterprises and cutting-edge early adopters to create business value through advanced analytics solutions,” said Ali Ghodsi, CEO and Co-Founder at Databricks, in a statement. “As Spark’s adoption and the demand for our managed Spark platform continues to rise, this funding will advance our engineering and go-to-market strategies to address all of our customer’s pain points as we continue to grow the Spark community.”

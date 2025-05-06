@@ -1,0 +1,21 @@
+Facebook opens sponsored messages to all developers in newest version of Messenger
+
+As Messenger continues its steady growth as a communications channel distinct from its social network parent Facebook, the company today is taking the wraps off a new version of the platform that will give developers some new tools for how they present content in it, but it also opens the door wider to a new phase of how Messenger is evolving: get ready for more Messenger traffic from advertisers.
+
+As part of a new update to the platform, version 1.3, Facebook today said that it would making sponsored messages — where advertisers are able to send you messages on the platform — generally available to all advertisers. The move comes aboutsix months afterwe reported that Facebook was starting to test the feature among a small group of brands and users.
+
+The news — announced on stage today by VP of product for Messenger, David Marcus, at the Web Summit conference in Lisbon — comes with interesting timing: just earlier, Facebookpaused its intention to share databetween its platform and its other big messaging product, WhatsApp, at the request of the UK’s data protection watchdog, the ICO.
+
+The data relationship between WhatsApp and Facebook is also being scrutinised at the European level, and has rubbed many users the wrong way, coming as it does after numerous assurances from Facebook, when it acquired WhatsApp for $19 billion, that it wouldrun it as a completely independent business.
+
+But we digress! When we first wrote about sponsored messages in Messenger in April of this year, we noted the risk of them feeling spammy, especially in an environment where you usually only get messages from people you want to hear from (usually…). Sponsored messages could feel like they are breaking that experience by arriving to you unsolicited.
+
+Facebook is putting some “controls” in place to try to counteract that. For starters, for now, businesses cannot start sending you messages if you weren’t already in a thread with that business. And if you were in a thread but forgot about it and suddenly it’s been revived by an advertiser to your dismay, you can block that message, or the person or advertiser who sent it to you. Facebook tells me that the block is forever, until you reverse it.
+
+So how would a business get into a conversation with you in the first place? That might be through a bot interaction, or a subscription for some updates that you might have made in the past. Or, through a response to a Facebook News Feed ad, by way ofclick to message ads. These were firstannounced in Septemberduring our Disrupt conference, and today Marcus said that they were also widely available. Some early users of these ads include Absolut Vodka, Tommy Hilfiger and Activision, Facebook said.
+
+Click to message News Feed ads tap into an interesting bit of linkage between Facebook and Messenger: now when an advertiser catches your attention through an ad in your News Feed, instead of taking you to a website, off Facebook’s network, you can essentially stay within Facebook’s walled garden and continue the conversation through Messenger, most likely using one of the bot-based interactions that power many business services on Messenger.
+
+The other updates that Facebook is announcing today for version 1.3 of the platform include several updates for bots. Per Facebook:
+
+Updated with more detail on blocking advertisers, and also to clarify that the sponsored messages are open to “developers” — who work on behalf of advertisers.

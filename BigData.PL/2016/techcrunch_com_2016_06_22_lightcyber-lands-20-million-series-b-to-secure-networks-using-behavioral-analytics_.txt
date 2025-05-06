@@ -1,0 +1,23 @@
+LightCyber lands $20 million Series B to secure networks using behavioral analytics
+
+Every network is under siege these days as attackers search for a way in. The industry lingo calls them attack vectors, but that just means a hacker finds a weak link in the network and exploits it. Once they’re in they begin to do damage, but in doing so, they behave in ways that might be out of the ordinary coming from that particular machine.
+
+LightCyber, one of the many cyber security companies emerging from Israel these days wants to stop those attacks by understanding “normal” network behavior while scanning for sets of anomalies that could signal an attack, says LightCyber CEO Gonen Fink.
+
+This approach doesn’t try to simply keep bad actors out, which we’ve learned the hard way is pretty much impossible to do. Instead, it assumes that they will get in and when they do, you need to find them as quickly as possible. LightCyber’s behavioral analysis purports to do just that.
+
+It’s a clever enough idea that the company announced a $20 million Series B investment today, a healthy amount of B money in the current climate.
+
+The round was led by US-based group Access Industries through its Israeli technology investments arm Claltech. Existing investors including Battery Ventures, Glilot Capital Partners and Amplify Partners also participated.
+
+Finally, security Industry veteran Shlomo Kramer, a member of the LightCyber board of directors also pitched in some money. Today’s investment brings the total raised to $36.5 million, according to figures in CrunchBase.
+
+Kramer, who is best known as co-founder of Check Point Software sees LightCyber as a startup dealing creatively with attacks instead of simply trying to protect the perimeter, a perimeter that in today’s computing world doesn’t really exist anymore.
+
+“LightCyber has pioneered and proven a way to pinpoint network intruders by their operational activities. Companies are just starting to learn about it, so it’s still one of security’s best secrets,” he said. (Well, not much of a secret now.)
+
+LightCyber takes about two weeks to scan the customer’s networks to learn a baseline of normal behavior across the network. Then, the tool keeps an eye on the network, the endpoints and end users, and if it detects some unusual activity such as running applications it doesn’t usually run or sending information to places it doesn’t usually share with, it begins to build a picture of what is likely a breach and the system issues a warning.
+
+It doesn’t do this lightly, such as if the system detects one or two unusual things, but if the machine starts behaving in an overall unusual way, there’s a good chance it’s been compromised.
+
+The company was founded in 2012 and launched its first product in 2015. Today, about a year after releasing the product it has dozens of customers — Fink didn’t want to share an exact number — and around 70 employees.

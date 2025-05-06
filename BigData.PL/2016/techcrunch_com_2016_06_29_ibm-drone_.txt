@@ -1,0 +1,9 @@
+IBM demos an employee hack for gathering live video data via drone
+
+IBM developer Andy Trice popped by the TechCrunch New York offices to demo a hack he’s been working on in his spare time, utilizing the company’s cloud computing platform and off-the-shelf drone hardware from DJI.
+
+The system, which started as a pet project for Trice, is able to gather and transmit data in real-time, offering up such useful contextual information as precise location (latitude, longitude, altitude), compass heading, and the pitch of the camera.
+
+“Think of an insurance adjuster,” says Trice. “You want to use the aircraft to get aerial imagery that otherwise could have been a lot harder to obtain. If they’ve have an accident or a flood, it can be documented in the air. Previously they would have to go to an aerial photographer. It could be months before they got the footage back and it could cost a fair amount.”
+
+Along with such relatively straightforward contextual data, the system also utilizes OpenWhisk to access Watson’s Visual Recognition, identifying elements from the photo in real-time, a tool that could prove useful for surveillance drones tasked with recording a large amount of video over long stretches.

@@ -1,0 +1,45 @@
+Social media sites may need to apply age checks under UK anti-porn law
+
+Social media sites such as Twitter face being regulated in the UK under anti-porn proposals, as part of the government’sDigital Economy billproposal.
+
+If the bill passes into law unamended, social media services could be scooped into needing to apply age verification to ensure all users are over 18 — in the same way the bill seeks to enforce an age-gate on pornography websites, with the overarching aim of trying to prevent children being exposed to adult content online.
+
+Another portion of the proposed law has caused controversy by seeking toprevent the spread of ‘non-conventional’ sex videos online— meaning regulators and/or civil servants will be tasked with determining what passes for ‘acceptably convention porn’ in the UK. And what does not. (Which brings a whole new meaning to the phrase ‘yes, minister“… )
+
+In a debate about the bill in the UK’s second chamberthis week, Baroness Benjamin welcomed the government’s confirmation that the bill covers “ancillary service providers”, such as Twitter, over and above pure-play adult websites.
+
+“There has been some debate about the scope of Clause 15 and the ancillary service providers, but it seems clear to me that social media should be covered by this,” she said.
+
+“I was particularly delighted that the noble Baroness, Lady Shields, confirmed to the Lords Communications Committee on November 29 that: “The Bill covers ancillary services. There was a question about Twitter. Twitter is a user-generated uploading-content site. If there is pornography on Twitter, it will be considered covered under ancillary services”.”
+
+So unless a social media service is able to prove it is free of pornographic content — a very high bar for any user generated content platform — it looks like it could be subject to the bill’s age verification requirements.
+
+Peers asked specifically whether other social media sites such as Facebook could be classed as ancillary service providers under the proposed legislation. Responding on behalf of the government, Lord Ashton of Hyde, the parliamentary under-secretary of state for Culture, Media and Sport, suggested the classification could indeed apply widely.
+
+“The government believe that services, including Twitter, can be classified by regulators as ancillary service providers where they are enabling or facilitating the making available of pornographic or prohibited material,” he said.
+
+Also speaking during the debate, the Earl of Erroll agreed with the government view that social media sites present a loophole for UK lawmakers’ aim of restricting children’s access to adult material online but urged that any age verification process should include privacy safeguards in order to protect individuals’ identities from becoming a target for hackers.
+
+“Imagine the fallout if some hacker found a list of senior politicians who had had to go through an age-verification process on one of these websites, which would mean they had accessed them. They could bring down the Government or the Opposition overnight,” he warned, going on to reveal he has personally shied away from trying to look up something as mild and uncontroversial as online statistics about the demographic breakdown of online pornography users in the UK — on account of another piece of government legislation: the recently passedInvestigatory Powers Act(although technically this does not come into force until the start of next year; but its bulk surveillance measures are already evidently impacting browsing behavior).
+
+Said Erroll: “Noble Lords could all go to the MindGeek website and look at the statistics, where there is a breakdown of which age groups and genders are accessing these websites. I have not dared to do so because it will show I have been to that website, which I am sure would show up somewhere on one of these investigatory powers web searches and could be dangerous.”
+
+To ward off the risk of hackers swiping age verification identities, he suggested websites should not store the identity of people they age-check, but rather utilize a third party attribute provider to verify age — which would only send back an encrypted token confirming a check has been passed.
+
+However he was less clear on how to prevent the process being reversed to re-link identities to specific adult websites. “They can then reverse it and find out who the person was — but they could still perhaps not be told by the regulator which site it was. So there should be a security cut-out in there,” he suggested, adding: “I am not sure that we should not just put something in the Bill to mandate that a website cannot keep a person’s identity.
+
+“If the person after they have proved that they are 18 then decides to subscribe to the website freely and to give it credit card details and stuff like that, that is a different problem — I am not worried about that. That is something else. That should be kept extremely securely and I personally would not give my ID to such a site — but at the age verification end, it must be private.”
+
+On the general point of how to loop social media websites into compliance with the legislation Erroll suggested payment providers could be targeted as a financial route to enforcing age gates.
+
+“It is probably unrealistic to block the whole of Twitter — it would make us look like idiots. On the other hand, there are other things we can do,” he said. “If we start to make the payment service providers comply and help, they will make it less easy for those sites to make money. They will not be able to do certain things.”
+
+Erroll went on to suggest the legislation may require the government to create an enforcement body. The BBFC (British Board of Film Classification) has been proposed as the regulator to oversee which websites to tell ISPs to block or not — but enforcement may require an additional body, he said: “The BBFC is happy to be a regulator, and I think it is also happy to inform ISPs which sites should be blocked, but other enforcement stuff might need to be done. There is provision for it in the Bill. The government may need to start looking for an enforcer.”
+
+The bill does provide the regulator with the ability to issue fines for non-compliance of age verification checks — of up to £250,000 or five per cent of their turnover. However peers questioned how a UK regulator could enforce such fines on websites based overseas.
+
+Another clause in the bill aims to furnish the regulator with financial transaction blocking powers, however another peer, Lord Morrow, argued the provision is “only half present” — urging further amendments to strengthen the regulator’s powers.
+
+“I also think that there is a very strong case to be made for an amendment giving the regulator power to require ancillary services such as advertisers not to advertise on sites operating in violation of UK law,” he added.
+
+MPs passed the bill back in November — but the legislation can still be amended before passing into law via the scrutiny process in the House of Lords.

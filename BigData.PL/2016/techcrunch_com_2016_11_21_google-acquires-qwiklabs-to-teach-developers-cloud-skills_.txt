@@ -1,0 +1,11 @@
+Google acquires Qwiklabs to teach developers cloud skills
+
+Google todayannouncedthat it has acquiredQwiklabs, a hands-on learning platform for those who want to become more familiar with operating cloud environments and writing applications that run on them.
+
+Qwiklabs, which launched in 2012, has onlyfocusedon teaching skills for Amazon’s AWS platform so far. Given AWS’ dominance in the marketplace, that made perfect sense. Amazon even uses Qwiklabs as itsgo-to servicefor offering self-paced labs for developers on its platform.
+
+Google says it will use Qwiklabs’s platform to focus “on offering the most comprehensive, efficient, and fun way to train and onboard people across all our products on Google Cloud, includingGoogle Cloud PlatformandG Suite.”
+
+Qwiklabs says it will continue to offer lab learning credits and subscriptions on its site and it looks like the existing AWS labs will continue to function. I’m not sure we’ll see all that many new AWS courses in the future, though, but that remains unclear. A Google spokesperson told us that the company doesn’t have any further specifics to announce about this. As far as Qwiklabs’s Google Cloud courses go, the same spokesperson also told us that the company doesn’t have any specifics to announce as to when those will go live, either.
+
+Qwiklabs says that over half a million users have used its platform to spend over five million hours of learning about AWS so far.According to CrunchBase, the company never raised any outside funding and neither Google nor Qwiklabs disclosed the price of today’s acquisition.

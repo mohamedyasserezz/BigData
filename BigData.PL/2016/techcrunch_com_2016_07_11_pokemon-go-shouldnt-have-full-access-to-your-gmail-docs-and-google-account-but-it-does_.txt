@@ -1,0 +1,31 @@
+Pokémon Go shouldn’t have full access to your Gmail, Docs and Google account — but it does
+
+When you use Google to sign into Pokémon Go, as so many of you have already, the popular game for some reason grants itself (for some iOS users, anyway) the highest possible level of access to your Google account, meaning it can read your email, location history… pretty much everything. Why does it need this, and why aren’t users told? [UPDATE:the company now says it’s fixing this bug, and that it never accessed anything beyond users’ Google account information].
+
+This was discovered right after launch, whenRedOwl’s Adam Reevedecided to check whether the app had pulled a fast one when he logged into it with Google. And it’s a good thing he did! (You can too,here.)
+
+Well, of course, Go alreadyrequires a gaggle of permissions— but you can see the reasoning behind them. It needs to get your fine location, access the camera and motion sensors, read and write to the SD card, etc…. and, of course, charge you money when you run out of Pokéballs or eggs.
+
+But full access to your Google account? That’s the level granted to platform-level apps like Chrome. Googledescribes it thusly:
+
+When you grant full account access, the application can see and modify nearly all information in your Google Account (but it can’t change your password, delete your account, or pay with Google Wallet on your behalf).
+
+This “Full account access” privilege should only be granted to applications you fully trust, and which are installed on your personal computer, phone, or tablet.
+
+First of all, why does a Pokémon game need full access to your account? Second, why aren’t users warned that this is the level they are granting, and given a chance to reconsider? And third, why didn’t Google say a thing when it happened, like “are you sure you want to give a game about making made-up animals fight access to the confidential documents in your Gmail and Docs?” (Notably, Niantic’s previous AR game, Ingress, only required partial access.)
+
+We’ve asked for answers, but in the meantime, here’s a mysteryyou, the reader, can help us solve. Full Google account access only happens some of the time.
+
+(UPDATE:Previously, this post suggested that full Google account access could come from installs on Android devices, but that does not appear to be the case; the account we saw that happening on had full access granted from the iOS version, though there was an Android phone attached to it, as well. I asked Niantic about this and several other things but have yet to get a response. The article has been slightly updated to reflect this information.)
+
+For example, on two phones I installed the game on, running Android 5.2 and 6.0, it hasn’t requested any access at all! (Which may be why I didn’t get a 2-factor authentication notification) — but on one colleague’s phone, also running 6.0, full account access right off the bat. And it appears to happen on some iPhones but not others. Is there a pattern here?
+
+You can always sign up using a Pokemon Trainer account — except the servers have been so slammed that many people haven’t had that option, and opted for Google instead.
+
+Now, to be clear, we’re not suggesting Niantic or Nintendo is harvesting your emails or sucking up the files in your Google Drive. But there’s no reason why this access should be requested in the first place, and there’s no way to modify it (revoking privileges just crashes the game or signs you out). And perhaps more troubling is that it’s both asked for and given without notifying the user.
+
+It could be that getting some specific location or payment info couldn’t be figured out in time for launch on certain phone/OS combinations, and as a stopgap measure the developers just requested the whole account.
+
+We’ll know more soon, but in the meantime feel free to comment below with your phone and OS and whether full access has been granted (you can check here) — and, of course, brag about all the Pokémon you’ve collected.
+
+UPDATE:The makers of Pokémon Go released a statement saying that will address this permissions issue, and that the app had not accessed anything beyond users’ basic account information.

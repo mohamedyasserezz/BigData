@@ -1,0 +1,63 @@
+How President Trump could abuse big data and the surveillance state
+
+As a Texas-living, gun-loving, white, male entrepreneur of some means, you might think I’m not feeling personally threatened by a Trump administration. You’d be wrong.
+
+You see, as one of the founders ofArs Technicaand the guy who, for the first half of the site’s existence,covered the mass surveillance vs. civil liberties beat, I have watched from up close as America’s executive branch, working hand-in-glove with the private sector, has assembled the most advanced global electronic surveillance apparatus the world has ever seen.
+
+And now, I look on aghast as our country hands over control of that awesome, terrible machinery to Donald Trump, a thin-skinned score settler with an authoritarian streak and an actively maintained enemies list. Trump may or may not be serious about delivering on his campaign promises to deport immigrants, build walls, restrict freedom of the press, and lock up his political opponents, but even the man’s most ardent supporters must admit that his petty vindictiveness is the one fixed star in the shifting firmament of his policy pronouncements.
+
+So while most of my social media feeds are freaking out about Trump getting his tiny hands on thenuclear football, I’m actually far more worried about what he’ll do with access to unprecedented quantities of citizens’ personal data, the power of which rivals our nuclear arsenal in its capacity to bring about a dystopian future straight out Hollywood’s darkest imaginings.
+
+The surveillance state that has been built up under Obama is fundamentally more powerful than anything our previous presidents, George W. Bush included, could’ve dreamed of. This step-function increase in power isn’t really because of theNSA’s network of advanced data centers, though that’s a key part of it.
+
+No, I’m also talking a suite of relatively recent popular innovations that have exploded the amount of sensitive data collected by the private sector, data that is increasingly accessible to various three-letter agencies without even a rubber stamped warrant from a secret court.
+
+The past 8 years have seen the launch of the iPhone, the rollout of 4G cellular, the emergence of cloud computing as the dominant server model, and the rise of Facebook and the Internet of Things (IoT). Thus it is that in the age of Obama, citizens began carrying in their pockets and purses a bundle of networked sensors the likes of which a J. Edgar Hoover couldn’t even dream of.
+
+We also began to adorn private homes and public spaces with insecure “smart” devices thatcan tell hackerswhen we’re present and what we’re up to. Now, with the click of a mouse, agents in the bowels of an NSA data center somewhere in the Midwest can silently dip into the streams of location, audio, video, text, and other data that these unsleeping little spies constantly emit.
+
+Then there’s the data we consciously hand over to remote servers whenever we accept a friend request, upload a photo, share a meme, buy a product online or at a retail store, or send a message. All of this information is now being correlated with the aforementioned passive surveillance data by private companies, who build up a detailed digital portrait of the most intimate parts of our lives that they then sell to the highest bidder.
+
+If you think the NSA has laws and norms that prevent them from using the capabilities described above to spy on Americans, you’re sadly mistaken. Asmyself and others reported back in 2006andSnowden later confirmed, there haven’t been any meaningful legal or cultural checks on domestic spying since 9/11.
+
+Internal NSA audits haveuncovered thousands of incidentswhere agents unlawfully spied on Americans, and there have been zero repercussions for any of this criminality. The Fourth Amendment is effectively dead letter, and has been for fifteen years.
+
+The end result is that we now live in a world where billions of privately owned, internet-connected smartphones, computers, cameras, point-of-sale terminals, and IoT devices are feeding a torrent of data about every aspect of our lives into the cloud, where it’s accessible to our government’s internal and external security forces either because they’ve eavesdropped on it directly or they’ve commandeered it from whatever private server it was sitting on.
+
+As for what our future could soon look like, do you think thephone hackingthat Rupert Murdoch’s media properties got busted for was ugly? Well, the former head of Breitbart isabout to take powerin the branch of government that controls our surveillance apparatus. Think about that, and let it sink in real deep.
+
+The next Snowden probably will not leak classified details of the NSA’s illegal spying programs. Rather, he’ll use those programs to dig up compromising intel — phone recordings, location histories, web browser histories, emails, credit card purchases, Uber routes — on domestic political enemies of the Trump regime.
+
+Some of those details will get leaked to the alt-right news media and talk radio, and others will be used for blackmail purposes. And that “Snowden,” should his identity ever become public, won’t even need to ask for a pardon, because the friendly nation that hides him and protects him will be the USA.
+
+So picture in your mind the Wikileaks email dump, but instead of the secret chatter of Democratic elites it’s the deeply personal files of political activists, and instead of theNew York Timesand other establishment media outlets sifting through the data and publishing newsworthy excerpts, it’s the alt-right media machine blasting the most lurid tidbits across Reddit.
+
+If the celebrity nude selfie scandal made famous folks think twice about snapping candids with their smartphones, imagine what a surge of NSA-powered doxxing and blackmail will do to political speech and activism.
+
+And to myfellow AR-15 enthusiasts, that registration database we’re all afraid of? I’ve no doubt that a reasonable approximation of it already exists in some form on a server somewhere, assembled from illegal but nonetheless extant archives of electronic background check requests and credit card records and gun store purchase records and the like.
+
+In this respect, gun owners are in the same rickety boat as Muslims, immigrants, and anyone who has felt threatened by Trump’s campaign rhetoric. So far, we’ve seen “Big Data” used to target specific groups — expectant mothers, golf enthusiasts, males in Chicago between the ages of 25 and 45 who are about to buy an SUV and who have a credit score of 700 or more, etc. — for sales pitches.
+
+But if the government ever wanted to zero in on a particular demographic or ethnic group for the purpose of intimidation or, God forbid, rounding them up, then the NSA could easily generate targeted lists using the same data and technologies that digital marketers currently use to show us personalized ads.
+
+Ultimately, the combination of ubiquitous “smart” devices and vast data centers for collecting the private, sensitive data that those devices produce about every aspect of our modern lives makes possible a level of total surveillance that wouldn’t have been conceivable just ten years ago.
+
+We in the West have never seen anything like this used in a hostile way to suppress political dissent, but all of that could change in a little over a month.
+
+Who’s fault is all of this? I’m not even going to get into politics, here, because presidents from both parties, from Clinton through Bush and Obama, have actively built out this electronic surveillance apparatus with the full cooperation of congress. No, it’s more interesting and useful to think about the culpability of the same panicked tech elites that are currentlyagitating for California secession.
+
+When the Snowden leaks first came out, I talked to an engineer in the Valley who once worked on some very specialized hardware intended for the private sector. One day, the feds showed up and began buying that hardware in bulk for undisclosed reasons.
+
+Given that this powerful technology had a very narrow range of possible uses, he and his colleagues knew pretty much where this stuff was going and what was being done with it. So some of the Snowden leaks just confirmed what he already knew, because he helped build the technology described in those slide decks.
+
+This person wasn’t the only techie I’ve talked to in my years of covering high-performance computer hardware who has a story like this. The Bay Area is chock full of engineers who’ve made contributions big and small to the surveillance state, and who have a good idea of what they’ve helped enable.
+
+But it’s not just hardware engineers who’veseen their work bought by the NSAwho know what the American surveillance state is capable of. Think about the engineers at Google and Facebook who have built for-profit, private sector versions of the NSA’s surveillance machinery designed to sell ads.
+
+Again, these guys know the contours of the terrible power that Trump and his cabinet are about to come into. And this is why they, mainly a bunch of rich white hetero males, tried everything to stop him and are now either nervouslytrying to patch things upor trying toget their data out of Dodge.
+
+I want to be clear that I’m not in any way advocating, as some have, that we should somehow stop Trump from taking the oath of office. That ship has sailed. We had an election, and Trump won. Fantasies of swift impeachment or Electoral College shenanigans are just that, fantasies. Equally unserious is the whole “Unplug the NSA” campaign,recently advocated in Time.
+
+No, our only real hope lies in technologies of resistance that ordinary people can use to check the surveillance state’s power at every level, from the individual smartphone to the network connection to the datacenter. Specifically, we need the major companies that host our digital lives — Google, Apple, Amazon, Facebook, and others — to immediately convene a private-sector Manhattan Project aimed at bringing security, privacy, and truly anonymous political speech back to the Internet. And if Facebook persists in its privacy-hostile stance, then Mark Zuckerberg must be rejected by business elites as a man every bit as toxic as Peter Theil.
+
+I believe that the engineers who built this monster can tame it — they owe that to all of us. What technology has broken, technology can fix. The folks who had a hand in building our digital panopticon must give us the tools to fight it, and then we must all commit to using those tools in every area of our digital lives.

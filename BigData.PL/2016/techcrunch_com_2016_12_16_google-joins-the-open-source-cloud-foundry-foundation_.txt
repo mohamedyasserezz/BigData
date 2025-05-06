@@ -1,0 +1,11 @@
+Google joins the open source Cloud Foundry Foundation
+
+Google isjoiningtheCloud Foundry Foundationas a Gold member. To be fair, this doesn’t necessarily come as a major surprise, especially given that Google recentlyhired the foundation’s former CEOSam Ramji.
+
+Other Cloud Foundry Gold-level members include Accenture, Allstate, CenturyLink, Huawai, Phillips and Verizon. It’s worth noting that Google — unlike Cisco, IBM, SAP and others — didn’t opt for the highest level of sponsorship (platinum), though.
+
+“From the beginning, our goal for Google Cloud Platform has been to build the most open cloud for all developers and businesses alike, and make it easy for them to build and run great software,” Google Cloud VP Brian Stevens writes in the announcement. “A big part of this is being an active member of the open source community and working directly with developers where they are, whether they’re at an emerging startup or a large enterprise.”
+
+In many ways, Cloud Foundry is the Platform-as-a-Service counterpart to the OpenStack Infrastructure-as-a-Service project (Google is also anOpenStack backer). Stevens notes that Google was already working closely with the Cloud Foundry community before joining the foundation and enabled the use of Cloud Foundry on the Google Cloud Platform. It’s also integrated Cloud Foundry with its Stackdriver hybrid monitoring solution and some of its other cloud services.
+
+Google is obviously interested in ensuring that Cloud Foundry users can easily user their preferred platform in its cloud. Cloud Foundry users also tend to be the kind of big enterprise companies that Google is trying to court. Given the hire of Sam Ramji, I’m sure we’ll see quite a bit more Google/Cloud Foundry news in the near future.

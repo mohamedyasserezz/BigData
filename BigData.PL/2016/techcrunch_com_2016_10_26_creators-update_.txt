@@ -1,0 +1,21 @@
+Microsoft’s 3D-focused Windows 10 Creators Update launches next spring
+
+As advertised, this morning was all about Windows 10. The company kicked off the early morning conference by revealing an art-focused update to its operating system. Due out in spring of next year as a free upgrade, Windows Creators Update will be built around the company’s aggressive push into augmented and virtual reality, with a slate of 3D-focused tools.
+
+The unveiling naturally came with some pretty bold proclamations, like “3D is for everyone” and “humanity’s progress has always been marked by our creativity.” The update seems largely built around the new version of Microsoft Paint that leaked out a few weeks back, combining the perennially simple app’s basic tools with additional features that add depth to objects built with the company’s offerings like HoloLens and Minecraft in mind.
+
+The simply namedPaint 3Dturns simple pens sketches into 3D with the press of a button. The effect is, as one expects with Paint, simple. But it’s also pretty impressive (in the demo at least), turning a doodle of a cloud into, well, a 3D doodle of a cloud. The sticker tool, meanwhile, lets users stamp two-dimensional images onto 3D ones. Users can also pull objects from SketchUp, thanks to a partnership with the 3D Modeling software company. Once finished with a picture, it can be shared with the community or via social.
+
+Also shown off at the event was the Windows Capture 3D experience, a 3D scanning app for mobile devices that lets users shoot objects in three dimensions by walking around them like the fake sandcastle it brought out on stage. In the demo, the app was deployed on a Windows phone device — the HP Elite X3 — though the company was quick to add that it’s looking to roll the feature out on “any phone,” because, well, the company’s mobile play has proven…less than ubiquitous.
+
+Applications like Paint, the company is quick to point out, are just the beginning of an all-out 3D push for the company, bringing the feature to its most popular programs. At the top of the list is PowerPoint. Users can pull 3D images into the company’s slideshow app to create images or just better position objects in ways you can’t necessarily do with a 2D object.
+
+Naturally, HoloLens is a big part of the play, as well. The company demoed how the images created in Paint can be imported into the Edge browser and viewed in 3D on the device. The headset can also be used for more mundane but key functionality, like interior decorating, so users can, say, see how a chair looks in a room — akin to third-party demos we’ve seen rolled on VR headsets like Oculus and Vive.
+
+The demo, also rolled out on a generic, unnamed VR headset, also included a vacation tour demo. As part of the rollout, the company will partner witha number of hardware manufacturers, including HP, Dell, Lenovo, Asus and Acer, who will attempt to undercut the likes of Oculus and HTC with headsets starting at $299.
+
+Gaming will, naturally, be a big part of the company’s play as well, with game play livestreaming built directly into the Creators Update, along with comments and player to player interactions, a feature that was no doubt a big part of the reason thecompany picked up Beama couple of months back. Users will also be able to create their own custom tournament through the event, defining game mode, setting up a time and inviting friends through XBox Live.
+
+A big part of the new Windows 10 Creators Update is sharing content. The new “My People” feature highlights a handful of close contacts in the bottom toolbar, making it possible to drag and drop content to share them directly with people, via Skype, Mail and Xbox to start.
+
+Early builds of “the world’s largest collaborative software project” will launch to Windows Insiders this week.

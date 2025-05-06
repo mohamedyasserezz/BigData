@@ -1,0 +1,13 @@
+Google launches first developer preview of Android Things, its new IoT platform
+
+Google todayannouncedAndroid Things, its new comprehensive IoT platform for building smart devices on top of Android APIs and Google’s own services. Android Things is nowavailableas a developer preview.
+
+Essentially, this is Android for IoT. It combines Google’s earlier efforts aroundBrillo(which was also Android-based, but never saw any major uptake from developers) with its Android developer tools like Android Studio, the Android SDK, Google Play Services and Google’s cloud computing services. Support for Weave, Google’s IoT communications platform that (together with Brillo) makes up Google’s answer to Apple’s HomeKit, is on the roadmap and will come in a later developer preview.
+
+As a Google spokesperson told me, the company sees Android Things as an evolution of Brillo that builds on what Google learned from this earlier project. Google will work with all early access Brillo users to migrate their projects to Android Things.
+
+Google has partnered with a number of hardware manufacturers to offer solutions based on Intel Edison, NXP Pico and the Raspberry Pi 3. One interesting twist here is that Google will also soon enable all the necessary infrastructure to push Google’s operating system updates and security fixes to these devices.
+
+In addition, Google also today announced that a number of new smart device makers are putting their weight behind Weave. Belkin WeMo, LiFX, Honeywell, Wink, TP-Link and First Alert will adopt the protocol to allow their devices to connect to the Google Assistant and other devices, for example. The Weave platform is also getting an update and a new Device SDK with built-in support for light bulbs, smart plugs, switches and thermostats, with support for more device types coming soon. Weave is also getting a management console and easier access to the Google Assistant.
+
+Google’s IoT platforms have long been a jumble of different ideas and protocols that didn’t always catch on (remember Android@Home from 2011?). It looks like the company is now ready to settle on a single, consolidated approach. Nest Weave, a format that wasdeveloped by Nest for Nest, is now being folded into the overall Weave platform, too. So instead of lots of competing and overlapping products, there is now one consolidated approach to IoT from Google — at least for the time being.

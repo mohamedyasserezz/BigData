@@ -1,0 +1,15 @@
+Goodbye accountants! Startup builds AI to automate all your accounting
+
+Smacc, which uses AI to automate accounting, has secured a $3.5 million Series A round from Cherry Ventures, Rocket Internet, Dieter von Holtzbrinck Ventures, Grazia Equity and business angels.
+
+Smacc offers small and medium-sized enterprises a platform to digitize and automate accounting and financial processes.
+
+The founding trio Uli Erxleben, Janosch Novak and Stefan Korsch came up with the idea after find accounting to be the most painful part of their own startup. Erxleben managed Rocket Internet’s US ventures in New York and San Francisco, and is also the founder ofBerliner Berg, a craft beer startup.
+
+Customers submit their receipts to Smacc, which turns them into a machine-readable format, encrypts them, then allocates them to an account. The platform gradually also self-learns, tracking invoices, sales and costs, as well as their liquidity.
+
+The system checks against some 64 data points, verifies the invoice, checking, for example, that the math adds up, and even if the VAT-ID and its issuer are correct. Once the system has already learned how to deal with the supplier on position levels, it will do it automatically. Over time – says the startup – it becomes better and better at automatically dealing and allocating the data.
+
+“Now you have all you need for liquidity planning and revenue/expense reports close to real-time in the tool w/o the need to input data yourself or wait for your external account to do it for you at month’s end,” says Erxleben.
+
+There are other cloud-based accounting software providers out there, such as Xero and Crunch Accounting, but Smacc says what makes them different is the high level of automation of all the accounting and finance processes that companies usually input manually.

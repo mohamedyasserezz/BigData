@@ -1,0 +1,43 @@
+NFV and the Tebow thing
+
+As a collegian, Tim Tebow was legendary. In his time at the University of Florida, he won two National Championships and the Heisman Trophy, and shattered numerous records. He is widely regarded as one of the greatest college football players ever.
+
+Many assumed he would experience similar success in the NFL. Though there were concerns about his throwing mechanics and ability to read and react to pro defenses, many observers believed his physical strength, character and determination would overcome these deficiencies.
+
+Famously, a teammate spoke of the “Tebow Thing” as an unabiding faith by some that his mystique would prevail over his obvious quarterbacking flaws. But after a few brief moments of team success, owing more to the heroic efforts of his team’s defense, it was obvious he lacked the qualities necessary to play quarterback in the NFL. After just three years, he was released and would never play in another regular season game in the NFL. The “Tebow Thing” had run its course. Simply put, his extraordinary skill set did not translate to NFL success.
+
+In the server world, the last decade or so has seen virtualization revolutionize the industry. In a matter of seconds, a virtual machine can be “spun” up (or down), replacing a process that often took months wherein physical servers were procured, shipped, racked and configured. Among other things, virtualization allowed applications to become decoupled from the surly constraints of physical bindings.
+
+Computational resources became a fungible pool, and virtual machines could be efficiently and dynamically mapped in real time to this pool, allowing other virtual machines to share the rest of the pool. This eliminated the “server sprawl” of unused capacity inherent in the earlier physical server ages.
+
+The game-changing nature of virtualization in the server world has led many in IT to assume it would automatically translate to networking. The idea inspired the network functions virtualization (NFV) architecture that has gripped some circles of the industry with great exuberance. But the lesson of Tim Tebow may be instructive here. That is, success in one domain does not ensure success in another, particularly when the requirements are fairly different.
+
+While general-purpose hardware is usually the most efficient tool for accomplishingalltasks collectively, it is almost always the least-efficient tool for accomplishinganyparticular task.
+
+Estimates vary, but a good rule of thumb is that general-purpose hardware (i.e. x86) is less efficient and cost-effective than special-purpose hardware (i.e. ASIC) by 1-2 orders of magnitudeat a specific task. Now, at small scale, you can often live with this performance/cost hit in favor of the flexibility x86 provides.
+
+For small, boutique service providers or enterprises that have a need for spinning up and down firewalls, load balancers or other low-scale network resources in real time, NFV can be a perfect fit. But for large carriers, the benefits may be illusory. These tend to be companies that are not designed to succeed at providing services at small scale.
+
+The comparative advantage of large carriers is at massive scale, where they are often better positioned than even their nimblest of foes at being able to support a vast customer base that expects someone to answer the phone when they have trouble. And at mass scale, special-purpose hardware is critical.
+
+Perhaps the most widely stated driver for NFV is cost savings. But this claim also warrants closer examination. The business model for vendors of carrier-grade networking gear have often used sales of hardware to cross-subsidize the cost of software development.
+
+Thus, it is not clear that decoupling hardware from software will actually save money when the two are purchased separately, especially when considering the new added costs of integrating the two, another buried cost that has always been incorporated into networkingsystems.The value of asystemis derived by how much lower its total cost is compared to that of the sum of its parts.
+
+Furthermore, capital costs for hardware are usually a small fraction of the overall cost of running large carrier networks, sometimes less than one-tenth of the operating costs. In such an environment, one could eliminate all capex costs completely and still see all the savings offset by a mere 1 percent increase in opex.
+
+Given these realities, I’ve often wondered aloud to peers where the savings are with NFV for large-scale networks. The refrain I have almost always heard is that “it doesn’t matter if it doesn’t make financial sense, this is what they are doing!” I imagine similar things were said about mortgage-backed securities at Lehman Brothers in 2007. In any event, the laws of economics cannot be defied indefinitely.
+
+To be sure, virtualization is an incredibly powerful technology, and the networking industry has much it can learn/borrow/steal from the server world. Service motion/live migration, high availability and DevOps culture are just some examples where networking vendors can find inspiration from the best (and most applicable) techniques that server virtualization has to offer. Here, too, can be found lessons from the Tebow saga.
+
+Tim Tebow was indeed a fantastic football player and, in other applications, may have been a great success in the NFL. His size, strength and determination may have made for a great short-yardage quarterback, two-point conversion specialist, star tight end, safety or special teams hero. But stubborn attempts to pound the square Tebow peg into the round hole of classic drop-back quarterbacking crowded out any opportunities for using his unique skills to best succeed in the NFL.
+
+In certain applications, NFV has undeniable value. In lab and test environments alone, where engineers can build complex topologies on their laptops with just a few mouse clicks, the benefits are immeasurable. And network services that involve layer 4-7 processing are often well-suited to general-purpose processors, making them ideal candidates for NFV.
+
+But NFV is not a panacea, and expecting it to succeed in all environments is like expecting Tim Tebow to be a better NFL quarterback than Tom Brady just because he was the superior college quarterback.
+
+So before taking a knee in genuflection before the Great Hypervisor in the sky (way above the cloud), it is worth noting this cautionary tale.
+
+This is the second post in a two-part series on SDN and NFV. Read the first posthere.
+
+The opinions expressed in this work are solely those of the author and do not reflect the positions of any of the organizations with which he is affiliated.

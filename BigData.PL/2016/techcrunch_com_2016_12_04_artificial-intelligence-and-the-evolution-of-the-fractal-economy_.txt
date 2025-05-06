@@ -1,0 +1,43 @@
+Artificial intelligence and the evolution of the fractal economy
+
+Money makes the world go round, or so they say. Payments, investments, insurance and billions of transactions are the beating heart of a fractal economy, which echoes the messy complexity of natural systems, such as the growth of living organisms and the bouncing of atoms.
+
+Financial systems are larger than the sum of their parts. The underlying rules that govern them might seem simple, but what surfaces is dynamic, chaotic and somehow self-organizing. And the blood that flows through this fractal heartbeat is data.
+
+Today, 2.5 exabytes of data are being produced daily. That number is expected to grow to 44 zettabytes a day by 2020 (Source:GigaOm). This data, along with interconnectivity, correlation, predictive analytics and machine learning, provides the foundation for our AI-powered future.
+
+More than $2.1 billion has been invested in AI-infrastructure startups since 2010, with $1.3 billion being invested in 2015 alone. AI-application startups have seen the largest share of the investments, with more than $6.9 billion being invested in AI-applications startups since 2010 and a total raise of $3.6 billion in 2015 (Source:TRACXN).
+
+These movements are leading toward massive innovation being delivered in the financial services field, and AI is helping address the tensions of increasing data volumes, changing demographics and their wants, regulatory tensions, organizational and systems efficiency and a changing technical landscape.
+
+We now see more than 500 million people using bots and digital assistants. That is predicted to rise to over 2.2 billion by 2020 (Source:Statista). Those platforms, developers and data science teams that train AI are aiming to create a friction-free and simple experience with the devices we use to reduce the need for human-to-human contact to increase interactions. This is especially true for the banking industry to solve, where younger customers would rather see a dentist than listen to what their bank is saying (Source:Millennial Disruption Index). This means disconnection and ultimately defection to other app-based platforms.
+
+Right now we do have a real issue with bots. When adoption of a system is low, the experience offered is not an optimal one. Even banks such as Royal Bank of Scotland in the U.K., which is launching a bot calledLuvoin its service channels, is aware of this: Although Luvo initially needs to be trained to understand subjects, RBS insists it will earn its AI stripes by “learning from its mistakes,” which will make it “more accurate over time.” In the meantime, however, customers have to have patience while confined to a sub-optimal experience.
+
+SEB in Sweden is also deploying a bot, calledAmelia(byIPsoft), for service to their 1 million customers. In addition, they have put it to use internally by deploying it to provide tech support for their 15,000 employees. This has led to a solid implementation.
+
+Beyond this, and closer to the customer, is the rise of  “conversational commerce,” which is a mobile system that uses AI to parse speech and undertake anticipatory actions such as ordering your Mom’s favorite flowers for her birthday, or paying back your friend for money borrowed on a night out. Samsung stepped up andbought VIV, and it’s rumored that the next iteration of Apple’s Siri will also evolve into the conversational commerce space as the payments ecosystem develops to make it easier for us all to be liberated from our hard-earned income toward networks of retailers.
+
+Beyond the bots, we will also look to robo-advisors for helping us with our investment portfolios and to deliver better returns. Companies likeWealthfrontandINVSTRare stepping up to the plate in North America and the U.K. There have been some impressive results in Korea, as well. Some robo-advisors are delivering 2 percent returns versus domestic equity funds at -3 percent and KOSPI at -2.2 percent. And in Japan, some banks have deployedPepper, the emotional robot that goes beyond an algorithm to an assistant you want to engage with more deeply. This could be the key to early adoption.
+
+That’s great, but we are at the whim of developers collecting and processing data sets and then applying matching learning techniques.
+
+The ghost in the machine is real, and even these smart systems — with their lack of human ownership of knowledge around investments — may undermine these initial results.
+
+And then we need to consider fraud. Very early on (some 10 years ago) PayPal recognized the value in machine learning applied to fraud and has been implementing its own internal systems to detect suspicious activity — and, more importantly, to separate false alarms from true fraud — against more than 4.9 billion in payments (in 2015) for 188 million customers in 202 countries.
+
+So, it’s clear that wrangling data, machine learning and other AI techniques are delivering huge value to financial institutions and to the customer. These trends will continue; however, there are some considerations as we look toward what will happen between now and 2025.
+
+As AI becomes ubiquitous through powerful mobile devices with integrated AI platforms at the hardware level, we will see more controlled and close-system applications. Real power will be built in, and the code will be updated continuously. Through billions of users’ behaviors and generated data feeding the learning, we will see great advances in what can be automated and what can deliver value to the user on a daily basis.
+
+There will be a shift in the financial-services workforce toward specialist developers, data scientists, infrastructure architects, coding ethicists and AI trainers stepping up into more central and critical functions. Advisors, tellers and customer-service jobs will be greatly affected, and there will be less of a need for people to fill those positions.
+
+Banks, lenders, insurers, central monetary funds and new financial industry players will need to come together to identify opportunities and lay out a road map, along with deeply considered regulatory principles. We must ensure integrity and stability of financial systems in a unified and agreed way. To do this, ethics, regulation and governmental-policy decisions relating to AI usage will have to be considered and implemented at domestic and international levels. This is one of the biggest stumbling blocks as we move forward to a sentient banking world.
+
+The approach needs to be two-fold. They will need to replace the old-guard of regulations within the banking system with an independent body of data and AI experts that can provide stringent guidelines on how to ethically train systems to avoid positive discrimination or favorability. And then, ensure that data scientists and developers are trained to implement the ethics in a way that is consistent across banking and monetary systems globally. The IMF, World Bank and others will need to step into this role somewhat and wrestle to get more challenging economies like China and Russia on board, as well.
+
+The final hope is that once we have worked out how best to regulate and navigate this increasingly fractal ecosystem, that data sharing and overall market optimization will lead us to economic stability. The accompanying challenge will involve trying to wrestle that control from people making millions of dollars each year by continuing to rely on old-school models and gut feels.
+
+I feel hopeful that new players and pressure from customers will be the driving forces of change. I hope for a world with no multi-million-dollar-a-year brokers, hedge fund managers and banking leaders, and for one where the long-term effects of A.I. and advances in computing power (approximately 20+ years) will mean a wholesale redefinition of wealth, monetary usage, value and a focus on equality across societies in the world.
+
+Welcome to the future.

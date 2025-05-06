@@ -1,0 +1,27 @@
+Why AI consolidation will create the worst monopoly in US history
+
+Forget Hillary Clinton and Donald Trump — we need a trust-buster like Teddy Roosevelt, who in 1902 attacked the Northern Securities Company, a railroad holding company led by J.P. Morgan and James J. Hill.
+
+Amid the flurry of recent tech M&A deals, you would be forgiven for missing a relatively quiet acquisition: Applebought Seattle-based artificial intelligence startup Turifor around $200 million. On its own, the Turi deal wouldn’t raise eyebrows were it not for the record amount of M&A in artificial intelligence, with the giants Alphabet, Amazon, Apple, Facebook and Microsoft leading transactions.
+
+Consolidationin any market is expected, butAIis consolidating at such a rapid clip, at such an early stage and by so few companies that there are strong reasons to be concerned. Congratulations should be extended to Turi’s founders and investors, and, to a lesser extent, Apple for reaching an agreement favorable to both parties. However, congratulations must end there.
+
+The biggest losers in the Apple-Turi acquisition are likely to be literally everyone else aside from Apple and Turi shareholders.
+
+But first, a bit of context: According to recent research byCB Insights, mergers and acquisitions ofAIstartups increased by a factor of seven between 2011 and 2015. More than 30 private companies working to advance artificial intelligence technologies have been acquired in the last five years by corporate giants competing in the space.
+
+There have been six major acquisitions already in 2016. Alphabet’s Google is leading the acquisition race, having made around 10 acquisitions ofAIor machine learning startups in the past five years, followed by Apple, which has bought three. To make matters worse, mostAIstartups have been acquiredwithin four yearsof their first funding round — demonstrating that it’s not so much a well-developed product that these tech giants are after, but rather the technical talent and intellectual property at stake.
+
+These figures are astonishing, and the Turi acquisition is emblematic of how the biggest tech companies in the world are in the middle of a shopping spree forAIcompanies. Google DeepMind CEODemis Hassabiswas right to point out that the benefits ofAIshould accrue to everyone, not just the few. “I think ultimately the control of this technology should belong to the world, and we need to think about how that’s done,”he said. Hassabis and Alphabet just happen to be one of five companies that are doing exactly the opposite.
+
+When five companies have dominant control over the talent and IP behind an emerging, potentially transformational field such asAI, it hurts everyone beyond the acquired and acquirer.
+
+This is true for a number of reasons. First, early-stage acquisitions stunt the growth of the industry as a whole because the acquired company’s products and solutions are often shelved in favor of the acquiring company’s existing product road map. The startup’s customers are also left stranded — Apple is unlikely to maintain Turi’s existing customer base — leaving them to find new business partners (who may not yet exist).
+
+In addition, walled gardens inhibit innovation in favor of profit margins. While tech giants may open-source non-critical components of their software, they’re unlikely to do so with their core components, as they want to maintain their competitive advantage. Collaboration and knowledge transfer are therefore discouraged.
+
+Anymonopolyof power hurts end users and limits access to technology — and anAImonopolyis unlikely to be any different. Think of telco providers. One only needs to read a few online reviews to understand that being forced to choose between Time Warner and Verizon as your ISP is not a recipe for innovation or customer satisfaction.
+
+Alphabet, Amazon, Apple, Facebook and Microsoftwilllikely continue to poach newAIand machine learning startups, regardless of the cost to end users or the industry as a whole. These companies simultaneously sit on vast stores of user data that are rivaled only by governments. Only by making machine learning andAImore open, transparent and shareable — the opposite of what’s happening now —willcompanies have a fighting chance to makeAIsomething that benefits everyone.
+
+At the beginning of the 20th century, Teddy Roosevelt changed the course of American economichistoryby leading the charge against the monopolies of his day, such as those that dominated the oil and steel industries. Maybe it’s time for a little trust-busting in what may be the most important field of our day:AI.

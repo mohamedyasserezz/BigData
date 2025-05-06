@@ -1,0 +1,19 @@
+The $300 New Matter Mod-T is more a toy than a 3D printer (but that’s OK)
+
+As 3D printing moves from the realm of hackers and hobbyists into the commonplace it’s clear that there is room for a 3D printer for students, kids, and schools. While many in the space are going for that lucrative if price-sensitive market, I think New Matter may have nearly nailed it with theirMod-T.
+
+This super-simple printer uses PLA to produce items that are not nearly as polished or highly detailed. Its highest advertised resolution is 100 microns but in practice the prints were grainy and relatively “sloppy.” In short the Mod-T is fun for quick prints and experiments than for high-resolution modeling or casting and the price is low enough to encourage such experimentation.
+
+The printer is dead simple to set up and run. It is controlled entirely from a web app and there isn’t much you need to do besides pick or upload a model and place it on a virtual plate. You pick things from a database of free items on the website – you can also buy some models for printing – and press print. The printer does the rest.
+
+It does this by reducing the overall complexity of the system. The build plate automatically centers itself and moves around on geared screws that move the build plate under the nozzle. This allows the head to stay in one place and simply raise itself as each layer is extruded. There is little difference in this process but it’s a bit simpler to manage and cheaper to manufacture the long gears that move the plate rather than a belt and motor system that other 3D printers use.
+
+The company also included a large, clear hood to cover the print plate while printing. This is useful for two reasons. First the hood ensures that your larger prints won’t start peeling up during the process. Further, it reduces the noise from the motor and fans. It’s a nice addition even though the placement system – essentially a few raised dots on the rim of the machine – is pretty primitive.
+
+It prints standard PLA and comes with one spool of the stuff. A little stand lets you keep it near the back of the machine and you simply feed the PLA through a hole in the back through a tube and into the simple extruder. You control the loading and unloading of filament via the web app as well.
+
+Ultimately you get what you pay for with the Mod-T. At $400 (or$300 on Amazon) it’s not the cheapest 3D printer on the market and it’s definitely not the best. It looks nice and the web-based interface is acceptably easy to use. It is fairly limited, ultimately, and doesn’t allow for much modification of the models but it’s an interesting way to get everything set up and running.
+
+I saw some online complaints that the Wi-Fi wouldn’t connect properly and that parts peeled up too soon. This didn’t happen in my testing and I found the resulting objects to be just fine for most basic use cases. Again, you’re not going to print anything that requires a high degree of precision on this thing but, again, you’d never assume you could on a machine that costs about as much as a nicer laser printer.
+
+3D printing is growing up and manufacturers are trying different tricks to push things forward. I’m glad that the Mod-T exists – it’s an important milestone in 3D printing pricing and marketing – but I’m not so pleased with the performance. Sadly if you want betterprints you have to pay twice or four times as muchbut if you want to experiment you could do worse than the Mod-T.

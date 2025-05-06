@@ -1,0 +1,17 @@
+BetterCloud completes pivot from G Suite to general SaaS management
+
+BetterCloud, the 5-year old startup that launched originally as a way to manage G Suite (nee, Google Docs), has been in the midst of a transformation — rebuilding its entire product from the ground up with the goal of making it a generalized SaaS management dashboard. Today, it unveiled the new platform.
+
+The company completely redesigned the service, according to CEO David Politis, going from a monolithic application to one built using a more modern architecture based on containers and microservices. The new version includes the key ability to connect to external services via APIs. This approach allows the company much greater flexibility to move beyond managing only Google’s suite to just about any API-based SaaS application.
+
+The transformation was far from simple though. Two years in the making, Politis admitted, his long-term vision tested the patience of investors, employees and customers — but he says that by doing this hard work, the company now has the ability to add support for new tools rapidly, something that would have been difficult, if not impossible with the old version of the service.
+
+The dashboard will continue to support G Suite, allowing customers to manage user activity on a highly detailed level, but will also provide the ability to plug in other services into the console. For now, that includes Slack, Zendesk and Dropbox. BetterCloud plans to add a dozen more integrations next year including Salesforce.
+
+The idea behind BetterCloud has always been to give IT a central place to control a cloud service including monitoring who’s using the system, what external apps they’re using, what user privileges they have and so forth. The customer can create workflows defining what happens when certain conditions are met, based on this information. For instance, if a regular user is suddenly given admin status, you might want to reset their password, create a ticket for IT and send a notice to Slack indicating what happened.
+
+Politis says this broader application was always the goal, but the original design limited that vision. “When we started BetterCloud, the truth is, the dream was if we could do this for all SaaS apps that would be amazing. The challenge was the technical complexity doing it via API, making billions of API calls a day,” he explained.
+
+After much deliberation and consultation with his Board and investors, he decided to forge ahead with a complete overhaul of the platform. It was (and remains) a calculated gamble on his part, but it’s one built on a solid foundation of modern programming principles and the ability to expand its market dramatically, by not only supporting G Suite, but a variety of SaaS applications in a single management interface.
+
+It’s never easy to transform your company, especially for a young startup, but Politis says now that the hard work is behind them, it should pay dividends moving forward.

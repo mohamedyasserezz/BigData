@@ -1,0 +1,31 @@
+FourKites raises $13 million to track trucks on the road for customers like Staples
+
+FourKites, a two-year-old, Chicago-based company aiming to make sense of the fragmented trucking industry for vendors trying to ship their goods, has raised $13 million in Series A funding led by Bain Capital Ventures, with participation from earlier backers Hyde Park Venture Partners, Hyde Park Angels, and Otter.
+
+What the platform is promising more specifically is visibility into where each truck is traveling at any point in time, so that problems — a breakdown, an unforeseen delay — can be addressed quickly.
+
+FourKites planned from the start to share as much data as possible with shippers, brokers, and carriers to boost on-performance time from what it says is in the low 90 percent range to closer to 98 percent. But the company is also taking advantage of a December 2015 ruling by the Federal Motor Carrier Safety Association that states every professional truck driver and commercial motor carrier need have an electronic logging device (ELD) onboard by theend of next year.
+
+We talked yesterday with cofounder and CEO Mathew Elenjickal about the company’s software, its customers, and how it differs from the many other trucking-related startups to emerge in recent years. Our chat has been edited for length.
+
+TC: There’s no shortage of companies trying to wring efficiencies out of the stodgy trucking business, includingTransFix,Cargomatic,Cargo Chief, andTrucker Path. What are you promising that’s different?
+
+ME: The strategy [of those companies is] is, let’s build an app for the drivers and take this community [of drivers] and go to shippers and try to disintermediate brokers, who take a lot of margins and don’t add a lot of value.
+
+The problem with that approach is first, you can only get a subsection of drivers to download those apps. In the U.S, there are four million truck drivers but just half a million of them are owner-operators; the rest are working for a trucking company, and [those companies] aren’t making them use the apps. They have ELD devices and GPS and are already running a pretty efficient operation.
+
+Instead of starting with the trucking companies and going bottoms up, as do those companies, we’re going top down, building our platform for shipping customers, and they are pushing our app down on the platform, saying to trucking companies, “If you want our business, you have to use our platform.”
+
+TC: What’s the advantage of working with FourKites versus working directly with the trucking companies themselves?
+
+ME:  The shippers in the country are working with a lot of trucking companies already, and the data is out there, but it’s all siloed. We’ve built integration across all of these ELD devices, so can act as a single data point for shippers, enabling them to see, for example, which shipments are delayed so they can focus on those exceptions. If you’re asking why it has to be a third party, a new player, it’s because existing players can’t build it. If a dispatcher wanted to build what we’re building, they’d have to build integrations with their competitors, and that’s not going to happen.
+
+TC: How many customers do you have?
+
+ME: We have 200 right now, including food manufacturers, food distributors, retail chains.
+
+TC: These are big customers you’re working with, including The Gap, Staples, and Ryder Truck Rental. It’s hard to believe they don’t already have clear insight into where their shipments are on a daily basis.
+
+ME: Staples works with maybe 20 or 30 trucking companies. A typical scenario is they’re shipping products to a Staples store. But the store manager doesn’t know exactly when that shipment will arrive so can’t manage the labor required to receive it. Or, think about the driver who shows up and the dock is occupied and he has to wait three hours. Or, take Walmart. If you are shipping to Walmart and miss an appointment, it will cost $500. If you [can see a problem developing and] reschedule, it will cost $100. That’s a savings of $400.
+
+It may be hard to believe, but that’s how things operate now because there are so many trucking companies and the data is so fragmented. Until now, some of our customers have had to go from site to site to try and track what’s happening and there’s been a lot of waste. There isn’t a single shipper who has said, “This isn’t a problem for us.” Everyone says about [our software], “We’ve been waiting for this for 30 years.”

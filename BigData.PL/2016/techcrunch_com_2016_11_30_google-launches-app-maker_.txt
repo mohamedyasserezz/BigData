@@ -1,0 +1,13 @@
+Google launches App Maker
+
+Google today announced the launch ofApp Maker, the newest entry in the low-code, drag-and-drop app building market. Like its competitors fromMicrosoftand numerous startups, App Maker promises to make it easy for anybody to quickly develop basic apps that serve a very specific purpose inside an organization.
+
+The new service features a cloud-based drag-and-drop development environment that lets you build the user interface and populate it with data from your G Suite applications, Google Maps, Contacts and Groups and virtually any service that offers an API. These applications then run on the same infrastructure on which Google’s own G Suite apps run, and IT admins can also manage them in exactly the same way as Gmail, Drive and other G Suite applications.
+
+The typical use case for these kind of apps are time-tracking solutions, or tracking orders and inventory — essentially any problem inside a company that can be easily digitized and solved by a very basic custom app.
+
+The advantage here, Google argues, is that users won’t have to worry about any of the underlying infrastructure (the buzzword here is “serverless”) and that it allows them to develop apps that solve their very specific needs without the need to bring on a developer. Users who want to delve deeper, though, can also do so thanks to the built-in scripting editor, which — from the looks of it — feels like a pretty fully featured IDE.
+
+App Maker is now available through Google’sEarly Adopter Program for G Suite Business.
+
+In addition to the App Maker announcement, Google also today announced that it is adding a few new enterprise applications to its “Recommended for G Suite” program. This program certifies that an application is well-integrated into G Suite and that it has been tested for security vulnerabilities. The new partners the company announced today are Virtru, LumApps, DocuSign, Freshdesk, Zoho Invoice, Xero and Asana.

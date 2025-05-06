@@ -1,0 +1,11 @@
+Microsoft announces new data protection tool to help enterprises secure their data
+
+Microsoft today announced a new project that aims to help enterprises protect their data as it moves between servers and devices. The new Azure Information Protection service builds on theAzure Rights Management serviceand the company’srecent acquisition of Israeli security firm Secure Islands. The new service will go into public preview in the next month.
+
+“Organizations must protect their data at the source in a world where information travels beyond the boundary of the corporate network and potentially across many devices outside of company control,” Microsoft explains in today’s announcement. “These realities make it more critical than ever to have solutions that prevent data loss and track information at the file level regardless of where data resides or with whom it is shared.”
+
+To protect this data then, the Azure Information Protection service will allow users to tag their data based on its source, context and content. Microsoft notes that this classification can be automatic or user-driven, and once data is labelled, administrators can set different protection levels based on these tags.
+
+This classification and protection also travel with the data as it moves to mobile devices.
+
+For the most part, these features don’t sound all that different from Microsoft’s current Azure Rights Management tools. As a Microsoft spokesperson told us, though, the Azure Information Protection service takes it classification and labeling technologies from Secure Islands. The classification tool in Azure Rights Management was either based on IT policy or end-user driven and wasn’t able to look at the content of a document, for example.

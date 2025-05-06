@@ -1,0 +1,15 @@
+Echobox raises $3.4M to let publishers intelligently share content to Twitter and Facebook
+
+Now calling itself an artificial intelligence (AI) service for the online publishing industry — because, why not? —Echobox, which has developed tech to help publishers share content on the likes of Twitter and Facebook in amore intelligent way, has closed $3.4 million in new funding. The new round is led by Mangrove Capital Partners, with participation from Saul and Robin Klein’s LocalGlobe.
+
+“We will use our capital to innovate further and build an even better AI technology. We’re also expanding our sales and marketing efforts to ensure more online publishers can benefit from our technology,” Echobox founder and CEO Antoine Amann tells TechCrunch.
+
+Boasting clients such as Le Monde, Le Figaro, Axel Springer and San Jose Mercury News, the London-based startup enables publishers to essentially “outsource” an element of their data science activity, specifically relating to the timing of sharing content on social media.
+
+Dubbed Echobox AI, the tech claims to accurately predict the virality of any article, and precisely when to post a particular story in order to get the maximum uplift in traffic. Unlike similar social media optimization/sharing services, Echobox taps into a publisher’s own analytics and data to further optimize its AI on a more bespoke basis.
+
+“From a tech perspective, we’ve made major progress with our AI,” says Amann. “It’s significantly more effective in increasing traffic from social and on average we double traffic coming from social media. We’ve also developed a “breaking news detection engine” that can algorithmically detect whether an article is breaking news. This might sound trivial but it’s innovations like these that have a considerable impact on performance.”
+
+The Echobox CEO also says that Facebook’s very recent change to its newsfeed, which placesgreater emphasis on posts shared by friends and familyrather than from brands (including content from publishers), is exactly the reason why a solution like Echobox is needed.
+
+“Facebook puts a lot of effort in ensuring the best possible experience for its users, but it’s clear that changes to its newsfeed can be disruptive for media companies,” he says. “It’s one of the reasons why publishers are not well equipped to optimize content distribution online. It’s a massive and constantly evolving data science problem. This is where Echobox comes in.”

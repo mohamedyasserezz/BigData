@@ -1,0 +1,35 @@
+Prisma now supports real-time style transfer on Facebook Live
+
+Prisma’s app now supports real-time style transfer for livestreaming videos broadcast to the Facebook Live platform.
+
+‘Style transfer’ is the phrase being used to describe popular art filter technology which creates a pastiche effect at the touch of a button — turning a representational photo or video into something more akin to a cartoon or an abstract work of art. So, basically, from selfies to cartoonies.
+
+The feature is currently only available to Prisma’s iOS users, and only for iPhone 7 and 6s owners — owing to processing constraints given that processing is done locally on the device.
+
+“Not every smartphone can handle that,” says Prisma’s Aram Airapetyan, adding: “We’re working to bring this to powerful Android smartphones also.”
+
+iPhone owning Prisma users need to be logged into their Facebook account via the app to make use of the livestreaming feature. After which they’re all set to livestream US election result night in an Edvard MunchianScreamstyle — which surely best reflects the mood of the occasion…
+
+[youtube=https://www.youtube.com/watch?v=zg653hQixoc&w=853&h=480]
+
+Prisma co-founder Alexey Moiseenkovdemoed the real-time style transfer feature late last month, the day afterFacebook showcased its own forthcoming style transfer filterfor Facebook Live.
+
+While Prisma launched in June as an app offering style transfer for photos, it addedsupport for stylizing videoearly last month, when it also said it planned to launch animated GIFs next.
+
+In the event it’s pushed for adding Facebook Live support first — likely spurred on by Facebook’s own interest in style filtering and the risk of a tech giant taking the wind out of its sails. (Facebook has yet to officially launch its own style transfer livestreaming feature but isnow testing it in certain geographies, as well as offering Prisma-style art filters for photos.)
+
+The plucky startup has managed to rack up an impressive number of app downloads (~72M globally) sincelaunching in June, benefiting from a viral popularity bump when users started sharing its art filtered photos to Instagram. Although that initial download surge looks to have slowed.
+
+Prisma tells TechCrunch it has more than two million daily active users at this point, with its best markets being the US, India and Russia. It’s currently monetizing the app via branded style filters.
+
+In a statement on today’s real-time filter launch, Moiseenkov says: ’’We are working in a direction that we always considered important. We want to change the way people communicate with each other using the most advanced and new technology. We believe, that even a small company can achieve great results.”
+
+Top of Prisma’s to-do list now is working on the Android version of the app, including adding offline video processing, it said today.
+
+It’s also hinting about a move towards turning the app into more than just a processing tool — saying Prisma “will become more social soon”. (Although, back in June, Moiseenkov told TechCrunch the team had no plans to try to ‘platformize’ the product, saying: “There are a lot of platforms and we don’t need any other social networks for today.”)
+
+Another big priority for Prisma is improving quality for photo art styles by supporting higher resolution and free aspect ratios (i.e. rather than the square format it currently enforces). “This is a number one feature users are looking forward to,” it notes.
+
+It will also be working on speeding up offline processing. And GIFs are still on its to-do list.
+
+But the really big elephant in the room for Prisma is how to survive when the likes of Facebook and Google are consuming your USP.

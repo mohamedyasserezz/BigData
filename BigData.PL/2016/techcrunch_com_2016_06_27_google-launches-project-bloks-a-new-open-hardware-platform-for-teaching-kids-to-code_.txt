@@ -1,0 +1,27 @@
+Google launches Project Bloks, a new open hardware platform for teaching kids to code
+
+Google today announcedProject Bloks, a new open hardware platform that allows developers, designers and educators to build physical programming experiences that can help kids (5+) learn to code.
+
+While Google worked together with design firmIDEOto build a reference kit, the idea here is to provide a platform that others can use to build their own devices. Google’s team provides the basics of the platform, but the team tells me that it doesn’t currently plan to build its own retail version. “Right now, Google has no plans to get into the toy industry,” team lead Jayme Goldstein and tech lead Joao Wilbert told me.
+
+To bring this project to life, Goldstein and Wilbert, who work for Google’s Creative Lab, worked together with the Google Research and Education teams, IDEO, and Paulo Blikstein, the Director of the Transformative Learning Technologies Lab at Stanford University.
+
+While there has been a lot of interest in tangible programming among educators, research has been slow. It’s hard to experiment with tangible programming, the Bloks team argues, because it takes a lot of engineering work — and hence money — to build one of these platforms from scratch. The question the team asked itself was: “Could we create the technical underpinnings to make it easier for researchers to create tangible programming experiences?”
+
+“Imagine what could happen if we had 10 times more people developing ways for children to learn coding and computational thinking: not just the traditional way, but kits that would teach programming in different ways such as making music or controlling the physical world,” Blikstein said in a statement. “That is what this platform will enable: make it easy to think outside of the box, without all the technical obstacles.”
+
+So what does the platform actually look like? There are basically three parts that make up the Bloks system. At the heart of it all is the so-called “Brain Board,” a small Raspberry Pi Zero-based board that functions as the central processing unit and provides power to the rest of the system (and which also includes a speaker).
+
+The Brain Board then talks to the so-called “Pucks” and “Base Board,” that together make up the physical programming language of Project Bloks.
+
+Pucks, which include no active electronic components, can be as simple as a piece of paper with conductive ink, provide the basic programming commands — think instructions like “turn on or off,” “move left,” “turn 180 degrees,” etc. The team tells me that these Pucks can be both static or interactive.
+
+Designers will surely find their own ways to present these commands in physical form, but in Google’s reference design, they mostly look like dials, switches and buttons.
+
+Base Board then read the instructions from the Pucks and pass them on to the main Brain Board. They are basically the conduit to move instructions from the different parts of the program to the brain. Base Board feature haptic motors and an LED so users can get real-time feedback. As the team notes, the Base Board can also be used to play audio on the Brain Boards.
+
+What’s maybe most important, though, because it allows for a lot of flexibility, is that the Base Boards also allow for branching, so code doesn’t just have to be linear but could actually become reasonably complex.
+
+Using all of this, kids could use Bloks to control aLego WeDo 2.0robot, for example, or the well-knownMirobotdrawing bot. The team tells me it also experimented with connecting the Bloks to online experiences that then bring the Pucks and a tablet together (by default, none of the components have to be connected to the internet, though).
+
+Now that Project Bloks is out in the open, it’ll be interesting to see how educators and the industry that supports them will react. For now, Google is looking for educators, researchers, developers and parents who would like toparticipate in its research studies later this year. The team also today published aposition paperthat explains the project’s goal in a bit more detail, too.

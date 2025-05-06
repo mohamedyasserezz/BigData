@@ -1,0 +1,25 @@
+So now we have a federal CISO
+
+So now we have afederal CISO(Brigadier General [retired] Gregory J. Touhill) as part of theOMB(Office of Management and Budget). But what does that really mean?
+
+We have had a series of leaders who have played a similar role over the years. Do you remember our first “Cyber Czar,” Richard Clarke? Clarke later wrote a book called “Cyber War: The Next Threat to National Security and What to Do About It.”The George W. Bush administration had a whole series of short-term appointments, underscoring the difficulty of this role. Some other appointments include Rod Beckstrom, who became head of the National Cybersecurity Center and Howard Schmidt, who served as the White House Office of Cybersecurity Coordinator.
+
+I think it’s great that we once again have someone with the responsibility to tackle cybersecurity for the country. Having a leader means there’s now a single person to fire when something goes wrong. Hopefully that means he’s motivated to get organized about protecting our nation’s information infrastructure. But it’s also possible (likely?) that this is yet another short-term appointment that makes it feel like we are doing something… anything… without ever making any real progress.
+
+The first obvious question is why make the CISO part of OMB? They’re good auditors, but do they have the technical chops for this job? Historically, the NSA, DHS, FBI and even the FTC have all played a role in actually setting cyber strategy. The good news is that OMB has connections with all government agencies and has quite a lot of power to implement and manage functions. However, OMB is reactive — it can’t make any new rules or policies… that vision is going to have to come from the president or Congress.
+
+So what should a federal CISO actually be doing? The CISO role isn’t very sexy and, frankly, is an almost impossible job, even for a single company. The scope and complexity of the federal CISO role is inconceivable. The job sounds like it is on the front lines of technical security policy and defense. However, it’s mostly about setting priorities and then managing a complex budget and a variety of teams.
+
+Unlike China and North Korea, we have an incredibly open network where government does not have control over anything.
+
+Most of our critical systems are in the hands of private companies, well outside the influence of the OMB. This means that the federal CISO won’t have any visibility into how the vast majority of our critical systems are defended. Even worse, nobody, including the new federal CISO, has the power to take action to protect our country. Every tech thriller movie has somebody who yells “Cut the hard line!” But with our hyper-connected networks, there really isn’t much that a federal CISO can do to respond or even help in case of attack. There’s not even a centralized way to protect federal agencies, much less the entire country.
+
+On the surface, our cybersecurity challenges might look similar to a military problem — how should we respond when someone attacks? But frankly, we aren’t very good at detecting attacks, and when we do, the “attribution problem” makes it almost impossible to figure out who did it. Which means bluster and threats are often the only response. That’s the path to cyberwar.
+
+We are the most vulnerable country on the planet because we have the most dependence on technology and we are the most open about our network. The only strategy that makes sense to me is to avoid a cyberwar at all costs. We must stop the posturing and scare tactics. We should be very careful about how we talk to the world about our cyber-attack capabilities. And we should work with the ISACs (InformationSharingandAnalysisCenters) and the appropriate agencies in other countries to establish agreements that will help detect and respond to cyber attacks.
+
+I’m hopeful that despite his military background, our new federal CISO can see past war-planning and focus on proactively improving defenses. Currently, our network security isn’t great and our application security is in disastrous shape. The CISO role can change the game by working to create a culture of security in both the federal government and, more broadly, in private companies — everyone building the systems that we have to trust. We need to change our thinking from “we’re secure unless we get hacked” to “we’re secure only when we have the right defenses and continuously monitor them.”
+
+My highest priority recommendation for our new federal CISO is to make security visible. You will have the power, through regulation and audits, to make both agencies and companies disclose exactly how they are building applications and securing systems. We need visibility into how people are trained, which processes are used to build and test and which tools are used to create our nation’s information technology.
+
+You can get the market to help you protect the country… but first you have to solve the information asymmetry problem between technology producers and consumers.

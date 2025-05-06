@@ -1,0 +1,13 @@
+WeVideo revamps its online video editor for HTML5
+
+WeVideohas rebuilt its browser-based video editor using HTML5 instead of Flash.
+
+For many of you, the whole debate about HTML5 versus Flash may seem likea weird flashback to 2010. But Flash is taking a while to die completely — Google Chrome, for example, continues tophase out Flashgradually.
+
+CEO Krishna Menon said that in the case of WeVideo’s new editor (which launched quietly last week), the big challenge was building a sophisticated, responsive editor in HTML5. Menon and UX designer Diana Madrigal demonstrated it for me, hopping around a video timeline, making edits and playing the results without any noticeable lag.
+
+“When you hit play, what’s happening here is three or four elements are all getting blended in real time and getting displayed at 30 frames per second,” Menon said — something that was “really pushing the technology.”
+
+WeVideo says it has 14 million users, and while it already offers iOS and Android apps, Menon said the browser version is important for making the editor accessible on any and every device.
+
+The new editor also features a new interface, including a redesigned timeline with standardized video tracks.

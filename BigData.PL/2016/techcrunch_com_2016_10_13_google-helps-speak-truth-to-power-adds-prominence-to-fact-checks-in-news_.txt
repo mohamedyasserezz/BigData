@@ -1,0 +1,15 @@
+Google starts highlighting fact-checks in News
+
+TodayGoogle added a new “fact-check” tagto its popular Google News service. The site aggregates popular timely news from multiple sources and has traditionally grouped them with tags like “opinion,” “local source” and “highly cited.” Now readers can see highlighted fact-checks right next to trending stories.
+
+The company cites the growing prominence of fact-checking sites as one of the reasons for creating the tag. Content creators will be able to add the new fact-check tag to posts themselves using afinite set of pre-defined source labels.
+
+ClaimReview from Schema.orgwill be used to compile and organize stories offering factual background. The Schema community builds markups for structured data on the internet. The group is sponsored by Google but also has support from Microsoft, Yahoo and Yandex.
+
+Casual readers in the U.S. and U.K. can find nuggets of fact within the expanded view of news storieson weband mobile versions of the service. Fingers crossed the new tool doesn’t result in stories claiming thatthe earth is really flatrising to the top of our feeds.
+
+On a support page, Google explains that itholds the power to interveneif posts are improperly tagged as fact-checks.
+
+“Please note, that if we find sites not following those criteria for theClaimReviewmarkup, we may, at our discretion, either ignore that site’s markup or remove the site from Google News.”
+
+This may not prevent false stories from rising up in Google News, but it will make it a lot harder. It doesn’t appear that very many fact-check stories have propagated yet on Google News. We couldn’t find any in a quick visit to the site, but given the timeliness of the presidential election in the U.S., we can only expect the system to be put through its paces in the coming weeks.

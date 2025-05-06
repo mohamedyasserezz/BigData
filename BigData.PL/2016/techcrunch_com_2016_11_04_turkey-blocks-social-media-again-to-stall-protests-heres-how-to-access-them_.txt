@@ -1,0 +1,47 @@
+Turkey blocks social media sites again to stall protests — here’s how to access them
+
+Turkey has once again blocked access to social media in an apparent effort to keep a lid on protests; many in the capital and elsewhere are demonstrating following the arrest of a number of opposition leaders.
+
+Twitter, Facebook, WhatsApp and YouTube are reportedly blocked or at least being throttled to the point of inaccessibility,reported Turkey Blocks. The outage started late last night and seems to be ongoing. The government also blocked internet access entirely for several days in some locations earlier this week.
+
+Turkey Blocks told TechCrunch in an email that based on its observations, the smaller ISPs don’t appear to be enforcing the block, suggesting a different methodology than the “more formal” one used for broader blocks in the southeast.
+
+The State Department has issued several warnings over the unrest in the country and planned protests in various locations today.
+
+In#Turkey? Demonstrations expected at Ataturk Park & Inonu Park in#Adanaon November 4. Avoid areas of demonstrations; exercise caution.pic.twitter.com/r6e68YC4dJ
+
+— Travel – State Dept (@TravelGov)November 4, 2016
+
+Are you in Turkey, or know someone who is? Here are some methods we collected last time to help get around these blocks.
+
+Tor, short for “The Onion Router,” is a service that bounces your traffic around a network of anonymous servers so that it’s difficult to track. It’s free and easy to install, but because of how it works, it can be very slow and isn’t recommended for things like streaming live video. If you’re concerned about anonymity, Tor is useful, but for everyday browsing, try one of the other methods listed.
+
+The easiest way to use Tor is by installing itsbrowser bundle, which includes everything you need and is available for many operating systems.
+
+On Android,OrbotandOrfoxprovide similar functionality, and also are free.
+
+Here is a guideto using Tor and Orbot, written in Turkish.
+
+A Virtual Private Network routes your traffic through servers in other locations throughout the world, which is useful for getting around certain types of censorship or blockage. There are dozens of VPN providers, and TechCrunch doesn’t recommend any in particular — you may have to do a little research to find one that meets your needs and fits your budget.
+
+Some popular paid VPNs:
+
+ExpressVPN
+
+TorGuard
+
+And free or ad-supported ones:
+
+VPNBook
+
+Hotspot Shield
+
+VPNs are a popular resource for Turkish citizens trying to access social media during a blackout: Hotspot Shield reported a 322 percent growth in new installs in Turkey within the first two hours of the reported coup.
+
+Rather not go to the trouble? Check outLantern, a service that automatically routes your traffic through a region where the site you’re trying to reach isn’t blocked. If you don’t need the proxy, it doesn’t step in, so normal traffic won’t be affected, only that which would potentially be blocked.
+
+Large-scale blocking can be done at the level of the Domain Name System, the service many ISPs provide that connects a website name (like facebook.com) with an IP address (like 66.220.144.241). Replacing your default DNS with another, likeGoogle’s Public DNSor one from theOpenNICprojectcan get around this form of censorship.
+
+FireChatis a good thing to have on your phone in case other messaging apps like Facebook Messenger, WhatsApp and LINE go offline. FireChat forms a peer-to-peer network with nearby phones instead of using a central server, allowing people to communicate even when mobile services are being disrupted, whether by deliberate interference or something like a widespread power outage.
+
+Just because one app is blocked doesn’t mean they all are. If Twitter is down, Tumblr may be up. If you can’t upload a video to YouTube, try DailyMotion or even put it in the public folder of your Dropbox. Short of blocking all internet access whatsoever, it’s practically impossible to cover all these bases.

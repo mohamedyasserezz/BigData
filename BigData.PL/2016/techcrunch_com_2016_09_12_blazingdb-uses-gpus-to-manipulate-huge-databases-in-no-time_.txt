@@ -1,0 +1,33 @@
+BlazingDB uses GPUs to manipulate huge databases in no time
+
+Gathering petabytes of data about your customers is cool, but how can you take advantage of this data?BlazingDBlets you run high-performance SQL on a database using a ton of GPUs. The company is introducing a free community edition of its solution on stage atTechCrunch Disrupt SFin our Battlefield competition.
+
+If you’ve been running complicated SQL queries, chances are it took so long that you nearly fell asleep in front of your computer. That’s because you’ve been running these queries on CPUs and it doesn’t scale well.
+
+“Sure you can scale up the servers, but operations become exponentially complex while operations are linear on our solution,” BlazingDB co-founder and CEO Rodrigo Aramburu told me before Disrupt.
+
+Relying on GPUs for a database is quite interesting. GPUs can run a ton of tasks in parallel and present a clear advantage for very specific tasks. In particular, companies have been using GPUs a lot lately for image processing and machine learning applications — but it’s the first time I’m hearing about taking advantage of GPUs for databases.
+
+Thanks to cloud computing, it’s become incredibly easy to store a lot of data in databases. But companies also rely on databases to build analytics dashboards, build business intelligence tools and more.
+
+That’s where BlazingDB shines. You can do sums, use predicates and run through many, many database entries in little time. The company just started accepting customers in June 2016, and there are already big Fortune 100 companies that want to use BlazingDB.
+
+“All of their tools take hours to process in SQL, and with our tools it takes minutes,” Aramburu told me. “We’re able to do massively paralleled processing across those thousands of cores.”
+
+Behind the scene, BlazingDB can work with GPU instances on Amazon Web Services, SoftLayer and Microsoft Azure. This way, the company doesn’t have to manage servers itself (at least for now), and big clients can even choose to manage the servers themselves if they want to work with sensitive data.
+
+“Our architecture is agnostic of server infrastructure,” Aramburu told me. “The code base that we’ve built out is not trivial and we’ve solved some pretty serious problems.”
+
+Customers can connect to BlazingDB programmatically, like with any other SQL database. For instance, you can build ETL-style (Extract, Transform and Load) scripts in Python to manipulate your data in BlazingDB.
+
+There are now six people working for BlazingDB. The company plans on working with big clients, building proofs of concept for them and signing big contracts. BlazingDB is also introducing a free community edition so you can play with it yourself.
+
+While building a company around SQL databases doesn’t sound sexy, BlazingDB’s approach is interesting. Many companies are now data-driven, and BlazingDB helps them make sense of all this data.
+
+Question: It seems way faster than anything we’ve seen. Can you talk about the switching costs?Answer: We’re helping companies bring terabytes of data. Through the connectors, it’s pretty easy.
+
+Q: You showed DeepMind on one of your slides. Is that because they used GPUs with AlphaGo?A: They’ve been working on deep neural networks, which are built on top of GPUs.
+
+Q: What are the downsides of this solution?A: We’re not a transactional database. We’re not fast on this front. We haven’t implemented all the SQL standards. We don’t have window functions and store procedures.
+
+Q: Have you looked into seeing if it has already been patented?A: We’re not familiar with any patent. Most people are implementing different SQL technologies and retrofitting them into GPUs. But we’ve started from scratch.

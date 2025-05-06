@@ -1,0 +1,19 @@
+Microsoft announces the next version SQL Server for Windows and Linux
+
+Microsoft’sannouncementthat it was bringing its flagship SQL Server database software to Linux came as a major surprise when the company firstannouncedthis in March. Until now, the preview was invite-only, but as Microsoft announced today, anybody who wants to give it a try can nowdownload the bits. That public preview is part of the launch of the next version of SQL Server, which will be the first one that’s available for both Windows and Linux.
+
+Thanks to its support for Docker containers, even macOS users will be able to run it. Indeed, Microsoft is betting on containers as one of the main distribution mechanisms for the preview, which will soon be available on Azure Virtual Machines and the Docker Hub (though you can obviously also download RPM and APT packages for popular enterprise Linux distributions like Red Hat, Ubuntu and SUSE).
+
+“This represents a major step in our journey to making SQL Server a true platform of choice across operating systems, development languages, data types, on-premises and the cloud,” Microsoft writes in today’s announcement.
+
+For now, the Linux version will include all the standard SQL Server management features that come with the Windows version. These include advanced features like always-encrypted and row-level security, as well as in-memory columnstores.
+
+As Microsoft corporate VP Julia Liuson told me, it won’t include the business intelligence stack yet (though this part will be added over time). For users, though, what’s maybe most important is that they will soon be able to run SQL Server on Linux and in Linux-based Docker containers, giving them more choice in how they want to deploy their databases (assuming they decide to go with SQL Server and not one of its competitors, of course).
+
+The new version of SQL Server will include improved support for R Services and a number of new machine learning and deep neural networking features.
+
+SQL Server for Linux is just another example of how Microsoft’s view of competing platforms has changed in recent years. This move would’ve been unthinkable under its former CEO Steve Ballmer. Under Satya Nadella, however, the company’s mission is to bring its services and tools to where its customers are, even if that’s not on a Microsoft-owned operating system.
+
+In addition to the SQL Server for Linux news, Microsoft also today announced the preview of Linux support forAzure App Service. Oh, and in order to puts its money where its mouth it,Microsoft is also joining the Linux Foundation.
+
+For SQL Server users on Windows, Microsoft also today announced both the release of the first service pack for SQL Server 2016, as well as changes to its programmability features: many SQL Server users — including those using the free “Express” edition — will now get access to many of the developer features that were previously restricted to the Enterprise edition.

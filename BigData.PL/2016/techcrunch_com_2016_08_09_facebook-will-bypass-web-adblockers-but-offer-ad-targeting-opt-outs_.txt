@@ -1,0 +1,37 @@
+Facebook will bypass web adblockers, but offer ad targeting opt-outs
+
+Facebook is making the HTML of its web ads indistinguishable from organic content so it can slip by adblockers. But in exchange for taking away this option for controlling ads from people, itsallowing themtoopt-out of ad targetingcategories and Custom Audience customer lists uploaded by advertisers. Today all desktop users will see an announcement atop the News Feed explaining that while web adblockers may no longer work, they canvisit their Ad Preferences settings to block adsfrom particular businesses.
+
+Facebook commissioned research firm Ipsos to investigate whyreportssay 70 million Americans and nearly 200 million people worldwide use adblockers. It found that “The main reasons cited for using ad blockers include avoiding disruptive ads (69%), ads that slow down their browsing experience (58%) and security / malware risks (56%).” Privacy wasn’t the top answer. So Facebook thinks if its can make its ads non-interruptive, fast, and secure, people won’t mind.
+
+The rationale for the change, according to Facebook’s VP of ads Andrew Bosworth, is that “Part of the mission of the company is to create connections between people and businesses”, which adblockers prevent. At the same time, Boz says “Ads on Facebook don’t pay for Facebook for one person. They pay for a service that’s free around the world. The participation of everyone really helps the global community.”
+
+[scribd id=320647849 key=key-aFmMlGxIhkZuZpSY7rU6 mode=scroll]
+
+Importantly, Facebook refused to pay the ransom most adblocking software companies are willing to accept to whitelist certain sites and keep showing their ads.
+
+Instead, since it serves and measures its own ads rather than using third-parties that leave traces adblockers can spot, it could hide the evidence. Adblockers would have to snoop the JavaScript or actual content shown by Facebook to detect and remove ads, which would significantly slow down load times. Facebook is betting users would rather just endure the ads. Bosworth tells me “I think the alternatives for adblockers would be very deleterious to the user experience”.
+
+[Update: Adblock Plus, the leading adblocking company, responded to Facebook’s action with ablog postentitled “Oh well, looks like Facebook just got all anti-user”, which says ”
+
+This is an unfortunate move, because it takes a dark path against user choice. But it’s also no reason to overreact: cat-and-mouse games in tech have been around as long as spammers have tried to circumvent spam filters.
+
+But you kind of have to wonder about the thinking that went into this decision. I mean, let’s also not forget somethingtheir blog postsaid: “When we asked people about why they used ad blocking software, the primary reason we heard was to stop annoying, disruptive ads.” So if that’s true, Facebook apparently agrees that users have a good reason for using ad-blocking software … but yet those users shouldn’t be given the power to decide what they want to block themselves?”
+
+AdBlock Plus’ response ignores the part where Facebook gave users more power to select which ads they see. Its mention of “cat-and-mouse games” implies it may still try to work around Facebook’s new adblocker blocker.]
+
+Boz admits that the advertising industry needs to improve in the way ads are delivered such that they don’t bog down sites, but says “I don’t think adblockers are a very good solution. They specifically don’t serve publishers will, who deserve to be compensated for their content. But they don’t serve customers well either. The adblockers take money for showing ads, which mean they don’t have the consumers’ best interest in mind.”
+
+Facebook’s updated Ad Preferences let users pick and choose which ads to hide rather than blanket-blocking them all. People can see the interests like hiking or automobiles that Facebook has categorized them with, the Pages they’ve Liked, and the advertisers who’ve uploaded their contact information or web browsing patterns to Facebook, and then opt out of that targeting.
+
+But rapidly clicking to hide all these sources won’t make you see fewer ads, they’ll just be less targeted and relevant. While some people might not want to accept it, Facebook needs that ad revenue to run the servers that save their photos and the pay the teams that build products like News Feed they enjoy.
+
+If you’re going to see ads, they may as well be for things you might want to buy. Sure, ads can be annoying, but I’ve also discovered concert tickets and clothing through Facebook ads that I wouldn’t have otherwise known about.
+
+By unblocking ads, Facebook could boost its already impressive revenues. It earned$6.2 billionon ads last quarter. While some hardcore adblock fans might grumble, they’ll have to either accept seeing ads, or miss out on the service Facebook provides.
+
+Inevitably, some people will ask “Why can’t I just pay a monthly fee to not see ads on Facebook?” Mark Zuckerberg has promised Facebook will always stay free. But if it did, surely some users in the developing world wouldn’t be able to afford it.
+
+Advertising is the lifeblood of the consumer internet. Services like Google couldn’t organize the world’s information and Facebook couldn’t provide ways to stay in touch with distant family to everyone if they didn’t have ad revenue.
+
+So while the ads industry could be more respectful of its audience, advertising itself makes services free that some people need but could never buy. That makes adblockers a selfish choice when their are more cooperative alternatives to controlling what you see online.

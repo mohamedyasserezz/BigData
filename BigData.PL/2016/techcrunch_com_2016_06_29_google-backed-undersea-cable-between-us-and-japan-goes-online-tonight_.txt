@@ -1,0 +1,11 @@
+Google-backed undersea cable between US and Japan goes online tonight
+
+Google started making investments in a number of undersea cables back in 2008, but one of its largest investments was in the $300 millionFASTER cablebetween Japan and the U.S. West Coast. Back in 2014, Googleannouncedthat it was joining a consortium of six companies, including NEC, China Mobile, China Telecom, Global Transit and KDDI, to better connect the two countries. As the company announced today, this cable is going online tonight.
+
+The 9,000km six-fiber pair cable can deliver up to 60 Terabits per second (Tbps) of bandwidth — or as Google’s SVP of Technical Infrastructure Urs Holzle puts it, that’s “about 10 million times faster than yourcablemodem.”
+
+The cable will give Google dedicated access to 10 Tbps per second over its own pair of cables that will connect Chikura and Shima in Japan toBandon, Oregon(putting it relatively close to the company’s The Dalles data center in the state).
+
+It’s worth noting that Google also plans to launch its Google Cloud Platform East Asia region in Tokyo later this year and the company notes that having this dedicated bandwidth for its operations will result “in faster data transfers and reduced latency as GCP customers deliver their applications and information to customers around the globe.”
+
+While the focus of Google’s announcement is mostly on the connection between the U.S. and Japan, it’s worth noting that the FASTER network will also connect Japan and Taiwan over two fiber pairs that willoffer an initial capacity of 20 Tbps. This extension between Taiwan and the two landing sites in Japan is 100 percent owned by Google (through its wholly owned Google Cable Bermuda subsidiary).

@@ -1,0 +1,19 @@
+Amazon shows its first games integrated with Twitch
+
+Amazon Game Studios this weekshowed off the first gamesthat will be integrated with live-streaming site Twitch, whichAmazon acquired for over $1 billionin 2014.  The new games will run on Lumberyard, the game engine powered by Amazon Web Services, thatdebuted earlier this year.These integrations will allow gamers to stream their broadcasts in real-time, overlaid with live stats, invite others to join matches, and even allow viewers to wager points redeemable for in-game rewards.
+
+Amazon announced the news at TwitchCon on Thursday.
+
+According to a report fromGeekwire, Amazon showed attendees a game calledBreakaway, which is described as “a 4v4 mythological sport brawler built for fast action, teamwork, and live-streaming.” This is the first game to launch on the Lumberyard platform, says Amazon. In the game, players will battle to control the Relic across locations like El Dorado, Atlantis, and Styx.
+
+Thanks to theintegrationswith Twitch, the game will allow streamers new ways to interact with fans. A feature called Metastream, for example, lets them customize their broadcasts with real-time stat overlays. Amazon will make several overlays available, including KDA ratios, healing, damage output, a mini-map that shows possession of the Relic, and more. Plus, broadcasters can use any web authoring tool to create custom HTML5 pages to control the information, layout, and behavior of the overlay they use.
+
+Another feature called Broadcaster Match Builder lets streamers invite fans to join their matches; and Broadcaster Spotlight will tell players when they’re in a match that’s being broadcast, while also allowing them to follow the broadcaster with just a click.
+
+Another interesting new feature is an in-game betting system called Stream+, where players can bet loyalty points then win in-game rewards.
+
+Players are given a starting balance of Stream+ loyalty points when they visit the Stream+ Breakaway channel (Twitch.tv/PlayBreakaway/StreamPlus). They can then accumulate more points by staying longer in the channel, participating in interactive polls, and, of course, betting on the outcomes of matches.
+
+Amazon demoed the new game Breakaway on stage, andstreamed it to Twitchat the same time, naturally. In addition to Breakaway, Amazon also announced two more titles that will be built for Twitch,New WorldandCrucible.
+
+This is the first major move Amazon has made to take advantage of Twitch, following its acquisition. While there has been some other crossover – for example,it ran some Amazon Video pilotson the site, recently – it had yet to tie up its own gaming ambitions and app store platform with Twitch. By offering the ability to tie into Twitch right out of the box, Amazon is hoping to lure in game developers to build on its own game engine platform instead of rivals.

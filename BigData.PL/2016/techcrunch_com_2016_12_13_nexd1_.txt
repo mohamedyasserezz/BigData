@@ -1,0 +1,15 @@
+A multi-material 3D printer that can create embedded circuit boards
+
+Next Dynamics couldn’t find a print head to their liking, so they went ahead and built a new one, a fairly bold move in an industry where even some of the biggest names outsource that technology to companies like Xerox and Ricoh.
+
+The result is lower costs (print heads comprise a disproportionate amount of a printer’s final price) and far more versatile machine. According to the company, it’s essentially a shrunken and rejiggered version of Stratasys’ PolyJet technology (deemed “DigiJet” by the startup) that releases droplets of liquid polymer that are then cured into place with UV light.
+
+The six cartridge/six print head system (each sporting 200 tiny nozzles) is capable of printing up to six materials at once with a precision of up to 10 microns. That means different colors, different malleability and, perhaps most interesting of all, the ability to embed circuitry directly into a project. Among the various print materials the startup will provide is a copper-based solution for conduction that makes it possible to build circuits into a full printed piece.
+
+The NexD1 (pronounced “Next-one”) is a compelling proposition for prototypers and makers alike. The startup brought the machine by our office, fresh off a flight from Berlin. It’s large by consumer 3D printer standards, but still small enough to fit on a desktop — assuming, of course, that you clear off a lot of space. It sports a 20 cm x 20 cm build platform and operates surprisingly quietly — really not much more than a low hum in the demo I got.
+
+The printer itself looks a bit like 3D Systems’ old Cube desktop printer, with a full-color touchscreen built directly into the front that sports a fairly simple UI for jobs that the user transfers via built-in Wi-Fi. Up top are slots for material cartridges — simple cardboard boxes full of liquid resin with nozzles that look a bit like milk cartons. Those are set to run $50 to $60 at full retail. On the front is a small door used to access the bed and print heads.
+
+I wasn’t able to witness a full print — it was only an hour-long meeting, after all — but the Next Dynamics guys told me that something along the lines of the Arduino shield they were printing in the demo would take around two and half hours from start to finish — so, this isn’t the sort of printing technology you’re going to want to deploy for direct manufacturing, but the precision on the finished product is pretty impressive, and the detail looks to be in line with what we’re used to from Formlabs, rather than MakerBot.
+
+The printerhits Kickstarter today, with the earliest of birds getting access to one for $2,499 — that’s three-grand off the final retail price. It’s set to start shipping in January.

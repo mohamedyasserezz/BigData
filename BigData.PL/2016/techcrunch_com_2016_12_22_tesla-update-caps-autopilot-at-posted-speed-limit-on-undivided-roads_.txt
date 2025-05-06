@@ -1,0 +1,9 @@
+Tesla update caps Autopilot at posted speed limit on undivided roads
+
+Tesla is pushing out an update that will cap the max speed of Autopilot at the posted speed limit while using Autosteer, which controls the wheel while maintaining the car’s lane when engaged, TechCrunch has confirmed. The cap applies on undivided roads, and replaces previous functionality that allowed them to exceed the posted limit by up to 5 mph on these kinds of roadways.
+
+Autopilot still doesn’t have this kind of speed limit restriction on divided highways, where the 90 mph global cap still applies, asElectrek first reported.
+
+Restrictions like this are likely a wise safety measure, since the posted limits are there for a reason, even if in practice human drivers rarely actually match it exactly. Tesla has also previously added more features to alert drivers of when they need to resume manual control of the vehicle and put their hands on the steering wheel.
+
+Tesla is also working on an updated Autopilot system called Enhanced Autopilot that will take advantage of the autonomous driving sensors and onboard computing power thatall new Tesla vehicles have been shipping with since October, though it’ll also be limited to vehicles shipped since then, too. Tesla CEO Elon Musk noted thisweek that progress on that system was coming along nicely, though it doesn’t appear as though it’ll be made available before the end of this year.

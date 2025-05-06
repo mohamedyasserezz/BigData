@@ -1,0 +1,15 @@
+Attic Labs raises $8.1M and launches its new decentralized database
+
+San Francisco-basedAttic Labsis launchingNomstoday, a new decentralized database that takes its cues from projects like Git, Camlistore, ipfs, bup and others. As the company also announced today, Attic Labs has raised an $8.1 million Series A round led by Greylock that will allow it to continue to work on Noms and other projects.Harrison Metaland a number of angel investors also participated in this round.
+
+While you may not have heard of Attic Labs before, I can almost guarantee that you’ve used one of the other projects the team was involved in. Co-founder Aaron Boodman, for example, created Greasemonkey and was a technical lead on Google Chrome. His co-founder,Rafael Weinstein, also worked on Chrome, among many other things, and the rest of the team also worked on projects like Chrome and Chrome OS, as well as ECMAScript (the basis for JavaScript).
+
+So what sets Noms apart from all the other database systems that are already available today? The team argues that in most of today’s databases, “data is modeled as a single point-in-time,” meaning that when a field is updated, the previous state of the database is overwritten and it’s hard to reconstruct any previous state. The team also notes that while modern databases may be distributed, they still present themselves to other applications as a single master copy of the data.
+
+As Boodman writes in today’sannouncement, it’s probably easiest to understand Noms by comparing it to Git. Like Git, Noms lets you replicate data and edit it offline on multiple machines, and edits are then synchronized again (Boodman and Weinstein also previously worked at AvantGo and other sync-based systems). Noms also focuses on versioning and edits are not destructive. Unlike Git, though, Noms focuses on storing structured data (not text files) and is designed to support very large data sets.
+
+Because of this, Noms should work particularly well for importing lots of data (and it automatically dedupes duplicate entries), as well as for use cases where you need to combine data from multiple sources (it can easily handle transformations) and where syncing large data sets is paramount.
+
+“Git took over the software world virtually overnight because its decentralized nature enabled source code to move fluidly between computers, organizations, and people; and because this in turn directly enabled much richer collaboration,” Boodman writes today. “We think that the world needs a way to fluidly share and collaborate on data. We think that a content-addressed, decentralized, synchronizing database is the natural, inevitable way to do this.”
+
+As part of today’s investment, Greylock’s Jerry Chen will join Attic Labs’ board.

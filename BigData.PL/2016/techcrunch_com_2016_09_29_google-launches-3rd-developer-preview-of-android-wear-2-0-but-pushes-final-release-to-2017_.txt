@@ -1,0 +1,11 @@
+Google launches third developer preview of Android Wear 2.0 but pushes final release to 2017
+
+Google todaylaunchedthe third developer preview ofAndroid Wear 2.0, the next major version of its operating system for smartwatches. At the same time, though, the company also today said that it will continue the preview program into early 2017.
+
+While Google never talked about a final release date for Wear 2.0, its original schedule called for about 30 weeks of alpha and beta testing, which would have put the release date somewhere around themiddle of December. Google, however, now says that it has gotten “tons of great feedback from the developer community about Android Wear 2.0” and that it is “committed to improve and iterate based on them to ensure a great user experience.” Because of this, the plan is to continue the preview program into early 2017 at which time the first watches will receive the new version.
+
+Google did not go into details about the kind of feedback it has received and why this means the release date had to be pushed back. It’s no secret, though, that we won’t see all that many new Android Wear watches come to marketin the next few months. This probably puts even more pressure on Google to make the second version of its smartwatch OS a hit. Outside of a small contingent of tech enthusiasts, smartwatches still mostly remain a novelty, after all.
+
+The marquee feature of this release is the launch of Google Play on Android Wear. The Play Store for Android Wear allows users to install apps directly on the watch. With the 2.0 update, watches don’t need to be paired with a phone, so users will be able to simply use the Play Store on the web, find apps they want to install to their watches and bypass their phone completely. Developers can now build and publish these Android Wear 2.0 apps and make them discoverable in Google Play.
+
+With this update, Google also is introducing a number of other new features it had already announced at its I/O developer conference but hadn’t shipped in earlier previews. These include support for smart replies and a new API that allows users to take actions on notifications right from the notifications stream (which works similarly to notifications in Android Nougat).

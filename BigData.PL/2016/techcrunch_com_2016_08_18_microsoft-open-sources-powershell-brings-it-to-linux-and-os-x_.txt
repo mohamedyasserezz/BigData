@@ -1,0 +1,21 @@
+Microsoft open sources PowerShell, brings it to Linux and OS X
+
+Microsoft today announced that it is open sourcingPowerShelland bringing it to Linux and OS X.
+
+PowerShell is Microsoft’s command line shell for Windows power users, as well as an extensible scripting language for automating system tasks. It’s not unlike Bash on Linux (andnow Windows, too), but with deeper hooks into Windows. Microsoft is changing, though, and as its CEO Satya Nadella is prone to repeating, it’s aware that it now operates in a “multi-platform, multi-cloud, multi-OS world.” That means the company is now regularly doing things that would’ve been inconceivable only a few years ago. Building a Linux sub-system into Windows 10 and open sourcing some of its core tools? That’s now par for the course.
+
+As Microsoft Technical Fellow and Lead Architect of its Enterprise Cloud group Jeffrey Snover told me, Nadella basically told the company to talk to customers, find out what they need to succeed and give it to them. “We heard that customers want to have their choice of clients, servers and clouds,” Snover told me. “We want to be our customers’ preferred partners for running their workloads and it’s in Microsoft’s and our customers’ shared interest to help them to manage everything.” With PowerShell, Microsoft now gives its customers “a single management stack on any client they like,” Snover added (assuming the clients you like are Windows, OS X and Linux, of course).
+
+Microsoft set the stage for today’s announcement when itopen sourced its .NET frameworkand made .NET Core available for Linux and OS X. PowerShell is built on .NET, so the two teams worked together to bring PowerShell to these new platforms.
+
+The actual shell, though, is only part of what makes PowerShell powerful. Microsoft is also bringing the PowerShell Editor Service to Linux so developers can build support for it right into their text editors (with support for Visual Studio Code and Sublime already available).
+
+PowerShell is also highly extensible and plenty of Microsoft partners like VMware — and even itscloud rival, AWS— have built what Microsoft calls cmdlets for PowerShell that allow you to manage your EC2 instances directly from the shell or a script, for example.
+
+PowerShell also integrates with the MicrosoftOperations Management Suite(OMS), which allows you to manage your applications and workloads on virtually any platform, including Azure, AWS, Google’s Cloud Platform and on-premise data center deployments.
+
+As for the difference between bringing Bash to Windows and PowerShell to Linux/OS X, Snover noted that the focus of Bash on Windows is about giving open-source developers the ability to do their work on Windows.
+
+Snover acknowledged that Microsoft is still learning about how to best manage these kinds of open-source projects, but his team has spent a lot of time talking to partners about how to do this and how to make it successful. He also noted that Microsoft plans to roll out a community governance model and that it will take code changes from the community — and those code changes could potentially end up in PowerShell for Windows, too.
+
+Linux users on Ubuntu, CentOS and Red Hat, as well as OS X users can now download the necessary bits to run PowerShell from thePowerShell GitHub repository.

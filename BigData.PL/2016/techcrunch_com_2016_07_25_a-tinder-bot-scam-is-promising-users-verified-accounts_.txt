@@ -1,0 +1,47 @@
+A Tinder bot scam is promising users Verified accounts
+
+A new bot scam on Tinder is tapping into users’ desire to become “verified” on the popular dating service – a process that people believe would allow them to confirm their identity, and legitimize their account for the purposes of trust and safety. According a recent report fromsecurity researchers at Symantec,scammers are now using verification as a lure to sign up people to fake “safe dating” websites.
+
+These fake verification sites collect users’ personal information and payment card details, and proceed to sign up victims for subscription-based memberships to adult video and webcam sites that total nearly $120 per month in fees.
+
+Verification is a much-desired feature on many social media services today. Public figures and other celebrities on Facebook and Instagram are offered a blue checkmark alongside their name so you know which accounts are legitimate. Meanwhile,Twitter finally opened up its verification system to all users,making its coveted checkmark something attainable by the masses, where before it was handled manually and at the company’s discretion, making for a fairly large group of users who felt slighted when requests were ignored.
+
+Adding to the confusion with regard to the Tinder bots, is the fact thatTinder, too, offers a verification processof its own. However, it’s not something that’s open to everyone – only celebrities and other notable figures are verified and only because people would otherwise assume their profiles are fake.
+
+While on Twitter and Facebook, verification lets people know that someone is who they say they are, on Tinder the promise of verification taps into users’ desire to eliminate the safety concerns that come with online dating. And when a female (bot) asks the male (victim) if he’s verified, he may be more interested in following through to do so, because it could lead to a date.
+
+With the new scam making its rounds on Tinder, bots match with users then begin flirty chats that say things like“Wanna eat cookie dough together some time?”,which is just random enough to sound like a cheesy opening line.
+
+Then, after a series of messages with the potential victim, the bot will ask the user if they’re verified on Tinder.
+
+The bot will explain, casually,“it’s a free service tinder put up, to verify the person you wanna meet isn’t a serial killer lol.”
+
+The spam bots then link to a fake verification website that claims to offer background checks or some sort of dating protection. Some of the sites reference “date codes,” which are purportedly codes you can provide your date so they can confirm you’re a verified Tinder user.
+
+None of this is real, of course.
+
+Symantec said they found 13 different “Tinder Safe Dating” websites in the wild, and reported them.
+
+The sites used “Tinder” in their domain name and would use Tinder’s logo and font to make them seem official.
+
+Sites even promise that, after you’re verified, you can receive the contact information from another verified Tinder user who is posing in her lingerie. (Thisshouldbe a red flag to the users, but if this method wasn’t successful, it wouldn’t exist…)
+
+Upon signing up for verification and providing their personal and payment card data, the fine print alerts the user they’re also agreeing to opt into bonus offers including free trial memberships to erotic video and adult webcam sites, Symantec reports.
+
+If the user doesn’t cancel the trial, they’ll be charged $118.76 per month. The scammers earn a commission on the sign-ups, which is the reason the scam exists in the first place.
+
+It’s not clear how many have actually fallen victim to the scam to date, but the prevalence of sign-up websites seem to indicate its popularity.
+
+“Historically, most links shared by these spam bots would be masked behind short URLs, but in this case, they want users to see the URLs because they include words like Tinder, Protection and Match,” Satnam Narang, Senior Security Response Manager at Symantec, tells TechCrunch. He adds that the bots are currently only affecting U.S. users.
+
+This is far from the first time that Tinder has been afflicted by spam bots.
+
+Common on dating sites, Tinder has had bot problems since 2013, including those that haveflirted with users to direct them to webcam sitesas well asinstall games, likeknock-off versions of “Clash of Clans.”In other cases,spammers moved to SMS-based attacks after Tinder increased its security measures.
+
+“What makes this particular spam operation unique is that it’s not trying to drive users directly to an adult webcam or dating site overtly, but it’s using the premise of the safety element to convince a user that he should be verified first before they meet,” says Narang.
+
+Reached for comment, a Tinder spokesperson offered the following statement:
+
+Tinder will never ask users to verify through a third party website, download link, or app. Profiles and users promoting any type of third-party verification or requesting personal, financial information and/or payment violate our terms of service, and we have a system in place to remove these profiles from the app. If a user encounters a profile violating our terms, we encourage them to report it immediately within the app.
+
+Reporting a user for spam or inappropriate conduct is straightforward and easy to do. On any given profile, users can tap the ‘3 dots’ icon and select ‘Report’.  From here, Tinder evaluates, takes the necessary action, and removes the inappropriate profile. We also encourage users to review our safety tips, which can be found on our website and accessed through the app.

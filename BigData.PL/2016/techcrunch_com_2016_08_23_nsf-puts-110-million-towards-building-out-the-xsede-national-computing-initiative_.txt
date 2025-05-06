@@ -1,0 +1,19 @@
+NSF puts $110 million toward building out the XSEDE national computing initiative
+
+It’s in the country’s best interest to stay at (or at least near) the forefront of advanced computing techniques, and the National Science Foundation has justput $110 million downto make sure that happens.
+
+XSEDE, or the Extreme Science and Engineering Discovery Environment, is a “virtual organization” established in 2011 and composed of members from many universities and research organizations.
+
+It organizes and improves resources like supercomputers that need to be shared by research efforts all over the country; XSEDE helped produce things likeLIGO’s detection of gravity wavesand theIllustris galaxy formation studypictured above. You canread more about the highlights here (PDF), but suffice it to say, it’s enabling some important work.
+
+This new grant, scheduled to expend its $110 million over five years, will continue that work, expanding it in new directions and funding the maintenance of existing efforts.
+
+“As the role of computational and data science in advancing scientific and engineering frontiers has grown, it has produced a significant increase in the demand for supporting infrastructure,” said the program’s principal investigator, John Towns, of the University of Illinois at Urbana-Champaign. “The XSEDE 2.0 project recognizes that investment in physical infrastructure must be complemented by investment in software and human services.”
+
+In other words, you can’t just build the biggest supercomputer and let the rest work itself out. XSEDE 2.0 will pay for updates and maintenance on the gear, sure, but it will also fund the work that makes that gear available to researchers of all stripes — some who might not even know those resources exist.
+
+The air of social consciousness is similar to that of another recent NSF grant, which put $35 million towardimproving the software used in science and education.
+
+Education, training, outreach, development, support, allocation, analysis — these will all fall under the auspices of XSEDE 2.0. Though the effort is nominally centered at Urbana-Champaign, major operations will be taking place at the Pittsburgh Supercomputing Center, UC San Diego and UT Austin — and 15 other partner institutions.
+
+It predates but is nevertheless a part of the National Strategic Computing Initiative, which was created via Executive Order by President Obama last year. The NSCI is “whole-of-government effort designed to create a cohesive, multi-agency strategic vision and Federal investment strategy, executed in collaboration with industry and academia, to maximize the benefits of HPC [high performance computing] for the United States.” There’s a more detailed summary, including the NSF’s role in it,right here.

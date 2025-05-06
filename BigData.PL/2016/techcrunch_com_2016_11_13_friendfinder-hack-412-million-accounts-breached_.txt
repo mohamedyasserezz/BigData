@@ -1,0 +1,15 @@
+FriendFinder Networks hack reportedly exposed over 412 million accounts
+
+If you have an account on AdultFriendFinder, Cams.com, Penthouse, Stripshow and/or iCams.com — and reused it on other sites — you should probably change your password. FriendFinder Networks, the parent company of those sites, has reportedly been hacked, resulting in the leak of of over 412 million accounts,according to Leaked Source(h/t toCSO). For context of just how big this breach is, the Ashley Madison hack affected 32 million people.
+
+Hackers reportedly breached FriendFinder Networks last month, and gained access to over 300 million accounts on AdultFriendFinder, which markets itself as the “World’s largest sex & swinger community.” The hack also exposed over 62 million accounts on Cams.com, a site for live webcam “sex chat,” over 7 million on Penthouse.com, over 1.4 million on Stripshow.com, over 1.1 million on iCams.com and a little over 35,000 on an “unknown domain.”
+
+FriendFinder’s network was reportedly hacked through a local file inclusion exploit, which enabled the hackers to access all of the network’s sites. For now, LeakedSource says it will not make the data set searchable by the general public.
+
+FriendFinder messed up in a few ways. For one, the company either stored user passwords in plaintext, without any protection, or hashed them using the notoriously weak SHA1 algorithm, according to LeakedSource. The company also kept logins for a site they don’t even run anymore (FriendFinder sold Penthouse.com to Penthouse Global Media in February). FriendFinder also retained email and passwords for over 15 million people who had deleted their accounts.
+
+“Over the past several weeks, FriendFinder has received a number of reports regarding potential security vulnerabilities from a variety of sources,” FriendFinder Networks Vice President and Senior Counsel Diana Balloutold ZDNet. “Immediately upon learning this information, we took several steps to review the situation and bring in the right external partners to support our investigation.”
+
+Some of the claims were false extortion attempts, Ballou said, but the company “did identify and fix a vulnerability that was related to the ability to access source code through an injection vulnerability.”
+
+I’ve reached out to FriendFinder and will update this story if I hear back.

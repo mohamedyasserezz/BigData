@@ -1,0 +1,31 @@
+Facebook to roll out tech for combating fake stories in its Trending topics
+
+Following the controversialfiringof the editorial team who managed the Trending Topics that appear next to Facebook’s News Feed, the company is now actively working on technology that will help prevent fake news stories from showing up in the Trending section. Similar systems have been rolled out to News Feed in recent months, and now that same technology is making its way to Trending, said Facebook’s News Feed head, Adam Mosseri, at TechCrunch Disrupt SF this morning.
+
+The social network came under attack earlier this year for allegedly suppressing conservative news from appearing in the Trending Topics section. While it was later discovered that this was largely dueto individual judgement, not institutional bias, the company took the heavy-handed measure of letting the entire team of Trending Topics news curators go.
+
+Explained Mosseri, Facebook made this decision because “we wanted to be clear – in the wake of a lot of feedback – about our role and the role of people in the Trending product.”
+
+That being said, the remaining product, which is now entirely driven by algorithms, has become much worse, many say. It has even allowed fake news stories to show up as trending topics – something a human-powered editorial team would likely catch.
+
+But Mosseri said it’s not the lack of human editors to blame for the mistakes that led to things likea fake, sensational story about Fox News’ Megyn Kellyto show up in Trending. Instead, he said that’s the sort of problem that could have happened before the change.
+
+“That doesn’t mean it’s okay,” he admitted.
+
+With no more human editors helping to curate what appears in the Trending section, Facebook also believes it will be easier to scale the product to its international users.
+
+One issue with the earlier version of Trending was that the captions that explained the stories were only in English, Mosseri noted.
+
+“A system where we talk about the topic and the number of people speaking about the topic actually scales better internationally,” said Mosseri, “and we care a lot about scaling.”
+
+“We tried to make sure we have one experience that adapts based on people’s usage across the world, and not to have different types of products in different countries – that becomes much more difficult to maintain and execute on,” he added.
+
+Of course, Trending still needs a lot of work. But one of Facebook’s core values is the belief in iteration. While Trending has failed in some fairly significant ways in recent days – including alsopromoting a false, 9/11 “truther” story– the company plans to upgrade the product by rolling out technology similar to what it uses in News Feed today.
+
+For News Feed, Facebook has developed systems to suppressfake stories, hoaxesandclickbait, and now it plans to roll out the same thing to Trending.
+
+“We’ve actually spent a lot of time on News Feed to reduce [fake stories and hoaxes’] prevalence in the ecosystem,” said Mosseri. “We’re doing now some more similar work in Trending to improve the experience in a similar way.”
+
+That said, the work is far from being complete
+
+“There’s a lot of room for improvement, not only with Trending but also with News Feed,” he said.

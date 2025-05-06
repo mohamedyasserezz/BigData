@@ -1,0 +1,17 @@
+Google and Blizzard team up on a StarCraft made just for AIs
+
+AIs have more or less mastered chess, Go and a number of other highly cerebral games — how will they do on something like StarCraft II, which combines high-level strategy with the need for quick reaction times and tactical thinking? Probably great, honestly. Andthis collaboration between Google’s DeepMind and Blizzardwill ensure it.
+
+The project isn’t just an AI to play StarCraft II — many already exist, from the one in the game itself to bots programmed to manipulate units faster than any human possibly could. Watch these zerglings take on a bunch of siege tanks in what would ordinarily result in zerg-flavored soup (caution, loud music):
+
+No, the idea here is to actually create an AI-friendly environment for the game, something that integrates the features of AIs to access in order to understand this complex and visually messy game.
+
+You know, for instance, how to read health bars, and that human SCVs look different from Protoss probes, and can act accordingly. But an AI working just from the imagery on the screen would have to learn that from trial and error. Better that it plays a version of the game where it’s given hints under the table as to what’s an enemy, how to tell high terrain from low and so on.
+
+Above is an early version with different “layers” of meaning the AI applies to the actual pixels. Given this cheat sheet, the AI can focus on more important things: how many peons to make, when to stop mining gas, whether to upgrade weapons or armor first, that sort of thing.
+
+As they play and watch recorded games, the AI will build up knowledge about strategy, tactics, the so-called “macro” game, while learning how best to employ its superhuman actions-per-minute rate to dominate the “micro” in battles and skirmishes. A ton of information needs to be juggled and brought into play at any given time — perfect unit control means nothing if your enemy outwits you or crushes you with superior resources. Like a real player, the AI will have to navigate a “high-dimensional action space” while also demonstrating long-term memory and planning.
+
+It’s not just for the glory of the win (though that’s part of it) — the creation of an AI that can handle this level of visual and gameplay complexity will aid in understanding what our models have trouble with and what they excel in.
+
+Curious?Watch Blizzconfor more information, or wait a bit and maybe you’ll even get a chance to deploy your own AI when the StarCraft II testbed goes live.

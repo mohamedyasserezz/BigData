@@ -1,0 +1,35 @@
+Report assesses UK’s ISP-level blocks of piracy sites as effective, but glosses over risks
+
+A study from Carnegie Mellon University and subsequent analysis by the Information Technology & Innovation Foundation indicate that the U.K.’s blockage of more than 50 websites was indeed effective at reducing piracy, but neither addresses the fundamental problems with the approach.
+
+April saw the publication of “Website Blocking Revisited: The effect of the UK November 2014 Blocks on Consumer Behavior,” a follow-up study to an earlier paper; both attempt to quantify how, if at all, these blocks affected traffic at both piratical and legal media services.
+
+Now, it’s worth keeping in mind that two of the authors run theInitiative for Digital Entertainment Analytics, which specializes in this type of research — andin CMU’s own words, was “made possible through an unrestricted gift from the Motion Picture Association of America.” I really don’t mean to suggest any conspiracy — corporate sponsors enable all kinds of important basic research — but it’s important to know that the house this paper issues from is at least nominally associated with one side of the ongoing debate.
+
+At any rate,the studyconcludes that the blocks are successful, though seemed to deter mainly casual pirates, creating a small but meaningful increase in the use of legal alternatives. Being an academic paper with a fixed purpose, however, it doesn’t ascend to the higher-level issues brought up by the practice — nor does it need to, those things being outside the scope of the research.
+
+But the ITIF decided to take the baton and run with it, using the CMU paper as the primary source ina second reportentitled “How Website Blocking Is Curbing Digital Piracy Without ‘Breaking the Internet’.”
+
+It accurately describes the effectiveness of the blocks, but praises the idea while neglecting to seriously address the issues that attend this type of manipulation of the web.
+
+The concerns of “copyright minimalists” and “internet exceptionalists” are mentioned, but dismissed.
+
+For these groups, the Internet is first and foremost about individual freedom, not about collective responsibility. Their view is that the Internet’s chief function is to liberate individuals from control by, or dependence on, government and corporations. They see the Internet as a special place not anchored to physical geography that stands above and beyond the reach of rules that govern the offline world.
+
+Yet, in reality and for most of the rest of us, the Internet is no different than the offline world, where people have rights and responsibilities and where laws against certain behaviors exist. There is no logical reason why a crime in the physical world is not a crime in the digital world.
+
+While it is indeed unrealistic to think of the internet and web as some kind of elevated place unconnected with the vagaries of the physical realm, that is a disingenuous way to frame the perspective of those who espouse the view that the online world should be regulated differently.
+
+There are fundamental differences to activity online: global accessibility, infinite reproduction of goods, anonymity and pseudonymity and so on. These make for a unique environment that requires unique approaches in order to establish the rule of law — or even define it.
+
+Certainly it is simpler to attempt to apply existing laws to internet institutions; it was simpler to do that with business models, too, and companies have learned since the early days of the web that the old methods need to be rethought and at the very least hybridized with more forward-thinking ones that acknowledge the realities of the online world.
+
+Shortly afterwards comes this reassuring passage:
+
+Some opponents of website blocking have seized upon reports of governments misusing intellectual property enforcement measures for unrelated means, such as the Russian police raid on advocacy groups and opposition newspapers in the name of searching for pirated software. However, such cases are rare and would not stand up to the type of scrutiny that is involved in the hundreds of cases where website blocking has been used to fight online piracy in recent years. Online intellectual property enforcement is far from alone in being a public policy that could be misused in order to pursue unrelated and illegitimate objectives. In each case, what matters is the actual intent and the integrity of the process involved in administrating these policies.
+
+Sounds familiar, doesn’t it? Sure, these tools/policies/lawscouldbe abused, but don’t worry about that. There’s loads of oversight, and the people in charge of the work are trustworthy public servants.
+
+I don’t think anyone out there takes this kind of promise seriously after the many, varied and repeated abuses perpetrated by everyone from ISPs to copyright holders to government agencies — to say nothing of those done by overreaching police, which is another story with a similar beginning. What trust we did give has been squandered, and we have no reason to believe we should offer it again.
+
+Fighting piracy is a worthwhile pursuit, and it is being approached by multiple angles and parties. Substantive regulation that strengthens the ability of copyright holders to take down infringing material quickly and easily is something few people will oppose. But the legitimizing of tools to block arbitrary web addresses or snoop on and redirect ordinary traffic, however effective or ostensibly well-administrated they are, simply is not something anyone who supports a free and open web can allow.

@@ -1,0 +1,11 @@
+The Libreboot C201 from Minifree is really really really ridiculously open source
+
+Open source laptops — ones not running any commercial software whatsoever — have been the holy grail for free software fans for years. Now, with the introduction of libreboot, a truly open source boot firmware, the dream is close to fruition.
+
+The $730 laptop is a bog standard piece of hardware but it contains only open source software. The OS, Debian, is completely open source; to avoid closed software the company has added an Atheros Wi-Fi dongle with open source drivers rather than use the built-in Wi-Fi chip.
+
+Open source is not just fun, it’s also wildly important. While Linux on the desktop is still years away, Debian is already fully featured and fun to use and theLibreboot projectgoes the last mile by ensuring everything is open source from boot time to shutdown.
+
+The laptop itself simply runs a quad-core 1.8GHz ARM CPU (Rockchip RK3288) and has 4GB RAM with 16GB built-in eMMC storage. You can add more storage with a microSD card. It has an 11-inch screen and a three-year warranty.
+
+Not many of us actively hunt down open source laptops, but it’s nice to know that when we want to wrest our freedom back from the corporate computing giants we have some real options.

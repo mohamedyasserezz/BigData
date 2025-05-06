@@ -1,0 +1,49 @@
+UK startup Farewill wants to give will-writing a web-based makeover
+
+Life’s two great certainties are death and taxes. UK startupFarewillis hoping to combine the two: this week’s it’s officially launching a subscription will-writing service.
+
+“We want to betheglobal brand synonymous with death, offering simple, affordable ways of planning for death that are bold and positive, rather than shady and morbid,” is how CEO and founder Dan Garrett describes the team’s mission.
+
+The London-based startup, which was founded back in summer 2015, counts the founders of Zoopla and Wonga among its investors, along with Kindred Capital and M&C Saatchi. It’s raised a £400,000 seed round to get its product out in the wild, with some 2,500 users at this point. The online service steps users through the process of bequeathing their estate, including choosing guardians for any dependents, and selecting executors for their will.
+
+Pricing for the will writing service — which is currently only available in England and Wales, with Scotland slated as coming soon — costs £50 with a year of updatability included. After that it’s an additional £5 per year fee if the user wishes to be able to maintain the ability to update their will in future (or they can just kill the subscription and keep their current will as is).
+
+Farewill is not the first startup hoping to give planning for death a bit of a spit and polish. Y Combinator backedWillingis ploughing a similar furrow over in the US — albeit it’s offering will-writing as a free service in the hopes of driving business for funeral home partners.
+
+By contrast Farewill is screwing its courage to the paid product sticking place and plumping to combine death and will-based taxes with this subscription last wishes service for (initially) Internet-connected Brits — but with designs on scaling internationally in future.
+
+“In the UK the majority of wills are made by solicitors or will-writing firms, with prices normally around £200-300 on the high street and £850-£5000s with established firms,” says Garrett, discussing the competitive landscape. “There are online will services, notablyWhichWills?andwww.nineminutewill.com/, costing £127 and £20 respectively (though nine minute will outrageously charges 3% of the value of your estate when you die).”
+
+What about DIY will writing kits — such as theLaw Pack’s £10 kit? Although paper-based, and requiring users to draft their will’s wording themselves — in their own fair hand — after reading the guidance in the pack’s info booklets, it’s also 5x more affordable than Farewill’s pricing…
+
+Responding to this, Garrett describes the Law Pack budget option “a horrendous mess”. “You’d have to read 19 different documents (some of them 20 pages long and full of text), then fill out your own will in technical legal language (which most people really struggle to do — even after reading the docs), plus there’s no support,” he claims.
+
+“Our wills ask simple questions and algorithmically generate the legal text — which gives our users much more flexibility with the kinds of gifts they can include. We also have live help from wills specialists on hand and our wills are always updatable.”
+
+“The main difference is in the experience,” adds Garrett. “Law Pack is deep end DIY and most people either don’t trust it enough, or don’t trust themselves enough to do it right.”
+
+So basically Farewill offers a lot more handholding vs UK DIY alternatives — but you are paying for the privilege of having extra help on tap.
+
+Support takes the form of a pop-up instant messaging window on the Farewill website to help users as they go through the various stages of listing possessions and requirements, and specifying last wishes.
+
+The will-writing process on Farewill is simplified by being structured as a series of questions for the user to respond to with the necessary information — with the technology taking care of the actual writing. Once the user has completed the Q&A process, and paid for the service, they can download, print and sign the drafted document (in the presence of their witnesses) to obtain a legal will.
+
+Garrett says the main target for Farewill is 28- to 50-year-old first time will writers — aka “people having children, buying houses, getting engaged/married/divorced”.
+
+He reckons a simple will can be created in less than 10 minutes but says the average is 35 minutes — adding that the service focuses on encouraging people to take time to get it right.
+
+Although it’s officially launching this week the team has drafted more than 1,000 wills during their test phase, prior to the full launch. “We’ve approached writing wills from a different angle to most of our competitors, asking from a human standpoint ‘what do I actually care about when I die’ — rather than from the legal compliance angle,” he adds.
+
+“In the 1,000+ wills we’ve written so far we’ve had 16x more people including friends in their wills (than the industry standard) and 80x more people leaving personal messages — jokes to friends, love letters, the kind of moving and personal mementos that matter just as much (if not more) than your financial assets.”
+
+On the marketing front, Farewell is partnering with UK companies to provide the service as a perk to their employees. It’s also partnering with UK charities with the aim of helping them increase their legacy income. And Garrett adds it’s in discussions with two big UK banks — hopeful of another customer acquisition partnership there.
+
+“We want to be the global brand synonymous with death, and the same problems we’re dealing with here are seen all around the world — overpriced services, low uptake, low understanding and hefty financial consequences for not doing it right,” he adds.
+
+One thing to note is that Farewill’sprivacy policydoes not currently have a great deal of detail about what will happen to the (clearly highly) sensitive information users will be inputting into the service. There’s also no information about the kind of security and encryption it’s using to safeguard users’ data. Which is sub-optimal to say the least. We’ve asked and will update this post with any response.
+
+And while Farewill’s paid vs freemium approach is arguably more reassuring (from a safeguarding personal data point of view) than a rival service such as Willing — given that Farewill users are paying for the actual will-writing service (and Willing users are not) — regardless, Farewill needs to demonstrate it is fully aware of the need for robust online security if it’s to hope to win customers’ trust over the long term.
+
+Here’s a third life certainty for Farewill to remember: hackers.
+
+Update:Farewill says copies of will PDFs are stored on Amazon’s Secure Storage Service (S3) in Ireland, objects are encrypted at rest using AES-256 and it generates expiring urls to them when users need access to them from the product. It says it does not perform client side encryption; it encrypts all data from the client at the transport level. Access to user data is restricted and “needs based only — currently only senior devs”. It adds that it never shares or sells user data with third parties.

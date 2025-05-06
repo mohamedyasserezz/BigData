@@ -1,0 +1,17 @@
+ClusterHQ, an early player in the container ecosystem, calls it quits
+
+ClusterHQ, an early player in the container DevOps ecosystem, todayannouncedthat it is shutting down operations immediately.
+
+“Unfortunately, it’s often thepioneerswho end up with arrows in their backs. And sometimes, archery injuries areself-inflicted,” the company’s CEO Mark Davis writes in a blog post today. “For a confluence of reasons, the ClusterHQ board of directors, of which I am chairman, have decided it best to immediately shut down company operations.”
+
+The company’s shutdown does come as a surprise. Not only did the companyraise $12 millionin a Series A round led by Accel Partners London last year, but it alsolauncheda number of new products last month. The company also opened up a new office in Silicon Valley in 2016.
+
+Davis doesn’t detail what exactly happened or what those “self-inflicted” wounds and “confluence of reasons” were. Just a few days ago, ClusterHQ CTO Serge Pashenkovwrotethat the company grew “an incredibly talented team of engineers” over the course of the last year and promised that “2017 will also be a big year for the company.” That, sadly, wasn’t meant to be.
+
+The companyopen sourceda lot of its products, including itsFlockercontainer data volume manager, and that code will obviously outlive the company.
+
+When ClusterHQ raised its funding round last year, Davis told me that the company planned to monetize through paid tools and services. With the beta launch of FlockerHub last month, the company launched what would have likely been its flagship product. While it’s unclear what exactly happened at ClusterHQ, chances are the company’s product just didn’t catch on in the way its founders and investors expected, so the board decided it was best to call it quits.
+
+“I’ve been part of big successes as well as failures. While the former are more pleasurable, the latter must be relished as a valuable part of life, especially in Silicon Valley. The big successes are literally impossible without the many failures. Take a moment to think about that,” Davis writes. “Philosophical andevolutionary economicruminations aside, it is deeply disappointing to be at this juncture. It hurts.”
+
+We’ve reached out to the company and will update this post once we learn more about what prompted today’s decision.

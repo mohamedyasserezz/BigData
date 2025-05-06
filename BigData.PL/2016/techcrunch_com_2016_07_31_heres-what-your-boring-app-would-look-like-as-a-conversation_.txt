@@ -1,0 +1,53 @@
+Here’s what your boring app would look like as a conversation
+
+In years to come, conversations will breathe new life into software — particularly the boring enterprise tools millions of knowledge workers begrudgingly use every day. Conversational user interfaces (CUIs) work because of our familiarity with messaging. Even the most technically complex interactions can look as simple as getting an SMS text when presented as a conversation.
+
+There are three benefits conversational user interfaces have over traditional software, and we believe these lessons can inform and inspire the redesign of countless online services. To illustrate the potential of conversational interfaces, we’ve reimagined what Google Analytics — one of the most widely used (and widely despised) pieces of enterprise software — could look like as a conversation.
+
+Before diving into our redesign, it is important to consider some fundamental questions. What is enterprise software for? What job does it do for the user?
+
+Fundamentally, enterprise software helps the user answer one or more of the following questions:
+
+That’s about it! Not all enterprise software does all three, but it must do at least one. In the case of Google Analytics, the software is heavy on surfacing information in an attempt to answer the first question, light on decision support and provides little in the way of facilitating the next action (with the exception of helping the user buy Google ads).
+
+Interestingly enough, the conversational interface answers all three of the above questions better than the software tools we have today.
+
+Instead of having to sift through the drop-down menus, tables, functions and buttons found in today’s software, tomorrow’s conversational interfaces will be able to send and receive messages in plain English. By simply asking a question via a conversational interface, the user will get the relevant information they seek.
+
+But what happens when the user doesn’t know what they want? What about the valuable insights trapped in the data?
+
+With today’s traditional interfaces, like Google Analytics, an alert appears in the top-right corner, annoying the user (at best) or ignored entirely (at worst). Opening Google Analytics reveals an intimidating explosion of charts and graphs full of data, but short on insight. What does it all mean? Is the user in the red? Or is everything okay?
+
+By using a conversational interface instead, Google Analytics would ensure important information isn’t ignored, making it more easily understood. For example, the mockup below informs the user of an anomaly; there was a recent spike in the number of visitors to the user’s website. That’s the same information presented in the Google Analytics dashboard, but with a very different effect on the user.
+
+Dashboards today pump out data and expect the user to do the rest. However, tomorrow’s conversational interfaces will surface insights first, then back them up with data as needed. Notice how Christina, the new face of Google Analytics, prompts the user with a question to move the conversation along. Christina could be a bot, a human or hybrid; it doesn’t really matter to the user, as long as the job gets done.
+
+When two friends have coffee together, one might raise a topic to gauge the other person’s interest in further discussion. Perhaps catching up on how the kids are doing, how’s business or a bit of gossip — we test interest to see what’s worth talking about. If the other party wants to talk about something else, it would be rude to stubbornly insist on only talking about one thing. However, that’s exactly what today’s software does. It keeps nagging us with topics we don’t care about because, unlike a good friend, it doesn’t care to learn.
+
+A conversational interface, however, can do something no ordinary dashboard can do: it listens and learns. By noting the user’s response to the discrete piece of information presented, the software remembers whether the insight was valuable. If the user continues the conversation about this information, the system learns the importance and raises similar concerns in the future. But if they don’t write back, great, that’s one less notification the app needs to send and one fewer interruption to the user’s day.
+
+Unlike a traditional dashboard, the conversational interface gets better at its job of presenting relevant information the more it is used, and therefore becomes a more powerful decision support tool. This concept is called “stored value” and is a key to building habit-forming products (according to theHook Model).
+
+Furthermore, the conversational interface can learn from other users to improve the experience for everyone. For example, when Christina points out the spike in traffic is coming from Reddit, the information she presents isn’t just a statement of fact, she surfaces options to consider. To offer intelligent choices, Google could use the behaviors of other users to offer the best next steps.
+
+In this example, the assistant suggests a resource for learning how to use Reddit effectively, prompts the user to join the conversation there and offers to help fix the site’s high bounce rate to increase the number of users who stick around.
+
+Helping the user figure out what to do next is hugely valuable. The easier the next action is to do, the more likely the user is to do it. The conversational interface easily surfaces the next best actions, saving the user time from hunting and second-guessing what to do next. By combining information from the user’s past conversations and other users’ actions, the new interface provides a better decision support tool to answer the question “What do I do next?”
+
+Finally, now that the software has elevated what’s important and given the user options to consider, it’s time to facilitate the actions the user wants to take. Unfortunately, actually getting the task done with today’s software requires navigating a hodgepodge of solutions on disparate screens and sites. A conversational interface can eliminate all of that.
+
+For instance, in the example above, when the user asks Christina for help with the site’s high bounce rate, she suggests creating a custom landing page that welcomes visitors from Reddit. Setting up such a page is child’s play for someone who has done it before, but for a novice it can be more work than it’s worth.
+
+Thankfully, a conversational interface can get the job done behind the scenes in any number of ways. The assistant can offer upgraded services, summon in-house expertise or incorporate an outside vendor. Instead of relying on the user to get up to speed on yet another software tool, the assistant turns to people or bots who already know what they are doing. The point is, unlike today’s enterprise software that requires the user to figure out how to help themselves (a task most people just won’t do), a conversational assistant can do the work by taking the path of least resistance.
+
+Here again, the conversational interface stores value every time a change is made to the site. With each page built or experiment run, the new Google Analytics learns more about the site owner’s goals and past results, making it easier to suggest improvements and making the service truly indispensable.
+
+Several workplace surveyshave foundwe spend between 20 to 30 percent of our day looking for information. Even small reductions in the amount of time and effort spent digging around clunky enterprise software would yield significant dividends.
+
+While not ideal for every use case, there are many benefits the conversational interface has over the enterprise software status quo. Fundamentally, it is better at answering what’s important?, what do I do next?, and how do I do it?
+
+By adopting this more user-friendly interface, tomorrow’s software has the opportunity to cure the dashboard fatigue infecting the enterprise. It also promises to make solutions accessible to people who just don’t have the time to learn new tools.
+
+The future of enterprise software won’t be about complicated dashboards and mind-numbing amounts of big data; it will be about well-designed interfaces that make work a pleasure. Software should be like a good friend — ask and ye shall receive.
+
+Thanks toAriel Jalali,Shane Mac,Amir ShevatandMatthew Woofor reading early versions of this essay.

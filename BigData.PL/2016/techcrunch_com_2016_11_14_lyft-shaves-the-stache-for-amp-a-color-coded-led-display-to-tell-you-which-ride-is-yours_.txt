@@ -1,0 +1,39 @@
+Lyft shaves the stache for amp, a color-coded LED display to tell you which ride is yours
+
+Lyft is growing up and moving on from its early pink and fuzzy days — and that includes dropping the famous mustache.
+
+The ridesharing company says more than 1 million new customers gave the service a spin last month. It previously told TechCrunch it had picked up17 million rides in October, more than 2.4x’s the amount the company did at the same time last year.
+
+And with the growth comes a sleeker, more mature brand, it seems. That includes a new“Ride on the Bright Side” ad campaign presumably taking on Uber andnew LED dashboard display to replace the hot pinkglowstachedrivers have been using for the past nearly two years as nighttime identifiers.
+
+Drivers will now get a pill-shaped Bluetooth-connected, LED display called Amp to help riders identify which Lyft ride belongs to them.
+
+Amp comes onto the scene at a time when Lyft, Uber and other ridesharing companies are eager to shave off as much time as possible between the time you book a ride to when a car picks you up and Lyft believes Amp will help it do that by helping drivers and passengers find each other faster — This is especially true at night when it’s hard to see the true color of a car and even harder to read license plates.
+
+“Every second is a win. It’s a win for the driver because they are able to make money faster. It’s a win for the passenger because it shaves seconds off their time getting to their end destination,” Lyft’s VP of product Tali Rapaport says.
+
+Butmore importantly to Lyft, time saved on rides means more rides and more money in the company’s pocket.
+
+The glowstache was consistently popular among drivers TechCrunch spoke to over the almost two years since its launch. Many drivers told us it was helpful in identifying themselves at night as Lyft drivers when passengers were trying to figure out which ride was theirs.
+
+According to one driver we asked about a switch from the stache to the Amp, the hot pink glow-in-the-dark identifier would be missed but he thought the color-coded LED display made a lot more sense. He said he’d actually been waiting for something like that for a while — the original glowstache was supposed to eventually have the ability to change colors.
+
+Like the original glowstache, the 7.8-inch by 2.1-inch display lights up to help riders see their car in the dark, but this time it beams in six different colors: teal, green, orange, silver, purple and yellow. Lyft randomizes the Amp color each time a rider hails a Lyft.
+
+Riders can see which driver color to look for by going to the Lyft app and scrolling to the bottom, near where other details such as the car color or license plate are usually displayed.
+
+Lyft’s software algorithm chooses the colors to help avoid confusion during busy events and riders can see the device displayed prominently on a driver’s dashboard. The rider’s phone will also light up with the corresponding color to help each driver identify their passenger.
+
+A message like “Hello, Sarah” might also  display on the side facing the backseat of the car so passengers will see it when they are inside the vehicle.
+
+Lyft hinted this messaging system might display company updates at some point. Amp might tell passengers every ride is 10 percent off that weekend, for example — but that won’t happen for awhile, says Lyft, and it won’t ever include outside advertising.
+
+Could Lyft eventually add a GPS system to Amp to help drivers  — or a self-driving car — better pinpoint a rider? “Stay tuned,” Rappaport said when asked about the possibility. She also agreed it would help when the robot drivers took over.
+
+“Absolutely it’s an extensible solution for in a world where there isn’t a driver in a car,” she said. It probably wouldn’t be hard technically to integrate GPS within the device as well.
+
+Lyft didn’t want to say how much Amp cost to make, but the software is made in-house and the hardware is from a third-party manufacturer. Amp will, however, be free to all drivers and, unlike the glowstache, will be rolled out en-masse to all drivers in the locations the service is available.
+
+The plan is to start delivering Amps to Lyft’s 315,000+ drivers before New Year’s Eve, starting with San Francisco, Los Angeles and Las Vegas.
+
+For more on how Amp works you can check out the video below, or just wait for one to show up on your ride sometime in the near future.

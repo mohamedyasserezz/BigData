@@ -1,0 +1,17 @@
+The White House releases policy to help government agencies go open source
+
+The White House (led by United States Chief Information OfficerTony Scott) has been pretty vocal about using technology to improve how government operates. They want to make sure code helps, not hurts, government agencies, and that the U.S. government can use technology just as effectively as a private company can.
+
+In March the White House issued ablog post detailing their intentionsto bring the benefits of open source software to the government, andtoday they releasedtheFederal Source Code policy, a set of rules that should help government agencies be more efficient with the code they write.
+
+The main requirement is that any new custom source code developed “by or for the Federal Government” has to be made available for sharing and re-use by all federal agencies. For example, this means that the TSA can have access to custom made software that was commissioned by the FBI.
+
+Considering there is probably a great deal of overlap in applications needed by certain branches of the federal government, this rule alone should save the government (and taxpayers) a great deal of money. The policy states that “ensuring Government-wide reuse rights for custom code that is developed using Federal funds has numerous benefits for American taxpayers.”
+
+But what about making this code available to the public? This is obviously a little more complicated and controversial, because federal agencies often deal with information not available to the general public.
+
+But that doesn’t mean the government isn’t going open source. The policy establishes a pilot program that is a compromise of sorts. Federal agencies will be required to release at least 20 percent of new custom developed code as open source software. While this is only a pilot, the hope is that it will encourage cost savings and increased efficiency within the federal government.
+
+You canread the full policy here, which is a lengthy memorandum from Tony Scott to the heads of all the departments and agencies within the U.S. government. The memo is an interesting read, and talks about the technical aspects of the new policy (like what to do if a federal agency thinks making 20 percent of their software open source would be a risk to the nation’s national security).
+
+It also notes that the White House will be launching Code.gov in the next few months, which will be the permeant home to the open source code released by these agencies.

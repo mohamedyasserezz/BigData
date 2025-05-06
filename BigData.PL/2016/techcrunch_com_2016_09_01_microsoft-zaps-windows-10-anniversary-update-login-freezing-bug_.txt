@@ -1,0 +1,7 @@
+Microsoft zaps Windows 10 Anniversary Update login freezing bug
+
+The Anniversary Update for Windows 10 brought alot of nice features, including OS-level Ink features for stylus devices. But it also brought some nasty bugs along for the ride, including, but not limited to, a login problem that caused users to encounter a total OS freeze when running a PC that has two drives, including one for the OS and a second for apps and other data.
+
+It wasn’t a problem with any easy fix, and many affected users had to resort to rolling back from the update altogether to an earlier version of Windows 10. The issue first got serious attention in mid-August, and Microsoft sent out the fix via Windows Update late yesterday, August 31, according toPCWorld.
+
+This doesn’t address all of the bugs affecting users of the Windows 10 Anniversary Update, but it does correct one of the more severe problems overall. That’s good, because it’s a good update despite the remaining issues.

@@ -1,0 +1,15 @@
+Razer opens pre-orders for OSVR HDK 2 virtual reality headset
+
+When it comes to buying a serious VR headset, to most it’s largely a question of choosing the Oculus Rift or the HTC Vive. There is a second tier of lesser-known VR headsets however, and at the forefront of them is the OSVR headset.
+
+Today, Razer announced it isopening up pre-ordersfor the company’s second OSVR development kit, called the HDK 2. It’s available for $399 and boasts a new 2160×1200, low-persistence OLED display running at 90 frames per second. This should theoretically put the HDK 2’s optics in the same weight class as the Rift and Vive.
+
+The devices will begin shipping July 29. Consumers who order a device through July 28 will receive two free bundled games,Descent: UndergroundandRadial G: Racing Revolved.
+
+OSVR exists almost as a lobbying device to convince other headset manufactures to open source their hardware so the VR industry doesn’t move forward in a fractured capacity. The headset has been particularly popular among hacker types who are itching to experiment with new types of input and haptics without having to wait for Oculus or HTC to get their hardware support act together.
+
+The headset doesn’t include controllers, but OSVR supports input from dozens of hardware manufacturers, includingNodandLeap Motion.
+
+OSVR’s open-sourced development platform is a bit of a harder sell to developers who are a bit ambivalent thanks to how easy game engines like Unity and Unreal are making it to port games to multiple VR platforms.
+
+OSVR is by all means a headset system primarily for developers and hackers right now. The headset is modular, which on one hand means endless customization, but it also means that it isn’t the simplest device to get up-and-running unless you have some major patience.

@@ -1,0 +1,85 @@
+Circle takes $60M to grow its social payments biz globally, as it steps into China
+
+How do you compete with China’s homegrown social payments giants? Veteran entrepreneur Jeremy Allaire, co-founder of U.S.-based social payments appCircle, reckons you don’t; not like for like in the domestic Chinese market.
+
+Which is really the sensible view, given thatWeChat Paywas already seeing some $50 billion in monthly transaction volume back in March. Meanwhile the older Alipay service was doing some $520 billion annually as far back as 2013. The opportunity to crack into this market as small fry seems sizzled to a non-existent crisp. It’s the Chinese startups who are the pioneers here, not vice versa.
+
+Despite that, Circle is now stepping into China — revealing today it’s set up a separate company, called Circle China, with the aim of serving Chinese consumers.
+
+Also today it’s announcing a $60 million Series D, including from a syndicate of Chinese strategic investors, to fuel growth of its global business as a whole. The round is led by existing investor and Beijing ­based VC IDG Capital Partners, along with Breyer Capital, General Catalyst Partners and what it dubs “a powerful syndicate of major strategic partners” in China, including Baidu, CICC Alpha, China Everbright, Wanxiang and CreditEase. Also investing in a personal capacity: Sam Palmisano, former chairman and CEO of IBM, and Glenn Hutchins, co­-founder of SilverLake and also a private equity investor.
+
+Circle China has been funded by a separate seed round, of a few million dollars raised some six months ago, albeit with that funding also coming from many of the same investors backing Circle’s global business.
+
+So what’s going on? How is Circle planning to circumvent huge local rivals in China’s personal and social payments space and square a very competitive circle?
+
+East to West
+
+The link is its starting point as a U.S. and now European player, which gives it something it argues that local social payment giants don’t yet have: a foothold in key markets outside China, and therefore the chance to offer Chinese consumers the ability to make payments into international markets.
+
+“There is an opportunity to connect Chinese consumers to the rest of the world and to connect to consumers around the world and to bridge the RMB with the dollar, the Euro, pound sterling,” says Allaire. “As we went in and spent a lot of time in China it became clear that that was a unique opportunity.”
+
+He asserts that Circle’s intention has always been to establish a global business, albeit the startup wet its feet in the Bitcoin wallet space before morphing into what it is now: a p2p payment entity that lets users pay friends via a text message (complete with emoji if they wish) — having taken liberal inspiration from the existing success of just such services in China. (Circle doesn’t really talk about Bitcoin these days, but rather points to underlying blockchain tech as the enabler for its vision of a future of open and interoperable global digital payments.)
+
+But while WeChat Pay, for example, is perfectly positioned to serve the domestic Chinese market given its huge scale there, Tencent’s ambitions are more hamstrung on the international front where its messaging app has not scaled to the vast size achieved in China. So enter Allaire & co, spying an opportunity to tap into the giant Chinese market without having to directly compete with local social payment giants. At least, not yet.
+
+“We don’t have any illusion about competing with the large existing players in China,” Allaire tells TechCrunch. “Alipay, WeChat Pay, as broader platforms have huge penetration. For Circle to try and compete in the domestic social payment market in China would be not smart.
+
+“What we really found was that one of the most challenging things for Chinese consumers is how can they use their RMB around the world, over the Internet? And it’s hard. And how can — if I’m a parent and I have a child studying in Europe or the US — how can I easily share money with them? And it’s cumbersome and costly.”
+
+So specifically it’s this cross-border payments piece that Circle is aiming to tackle in China. And Circle’s investors are impressed enough with this thinking to stump up another large funding round (it last raised a$50 million round in April last year). Although the funding is for the global business as a whole, not specifically for Circle China. (The latter will need to raise more funding off its own in order to launch products, says Allaire.)
+
+“What we bring to the table [in China] is we’ve gone and done all of the ‘heavy lifting’ of becoming a licensed financial institution in the US and in Europe. With the ability to seamlessly and frictionlessly move currency value around in a consumer experience in those markets and if we can connect Chinese consumers to that that can be very powerful,” he says, adding: “It’s a huge need.”
+
+Circle China is therefore a necessary stepping stone in an ‘East to West’ strategy for Circle (although really it’s more fully a circle aspiring to go West to East and back West again). And to facilitate that it has been set up as an independent Chinese company, with local companies as its partners, to meet the regulatory demands of the Chinese government.
+
+“Circle China is an independent company. It’s a Chinese company. Almost all of its investors are Chinese companies and investors — and that’s really important to the Chinese government that we’re building a real asset for China,” notes Allaire.
+
+But of course the staggering size of the local Chinese market remains an attractive opportunity, in and of itself.
+
+“We set [Circle China] up that way because we knew that that was going to be important from a regulatory and government relations perspective. But also because the market is so big there that it’s not inconceivable that in five years that business could be materially larger than the US/European business. It’s not inconceivable that business would list on the Shanghai stock exchange.”
+
+Payments on platforms
+
+That’s the ambition but right now Circle China cannot yet launch any products because it does not yet have the licenses to do so — with Allaire unwilling to put an exact timeframe on any future product launches, saying only that it could be as long as a year out.
+
+But whatever (and whenever) Circle China does launch, the products will not be the same “full stop social payment” product that Circle offers in the US or Europe. It could even, suggests Allaire, exist as a feature inside one of the dominant social payment apps.
+
+“We want to make sure that the user experience is the right user experience for Chinese consumers. So that involves building a different product,” he says. “Chinese consumers expect… that a lot of the things that they use to just be features that they can add within things like WeChat. And so it’s not inconceivable that Circle could be a feature inside WeChat.”
+
+Not inconceivable to Circle but that is assuming Tencent would allow such a thing to happen on its platform. AndWeChat blocking third party services on strategic grounds is not unusualso it remains to be seen how that strategy (if applied) would play out.
+
+WeChat’s owner Tencent could also try a similar strategy to Circle by setting up its own payments operation in the West (although it would also need to secure regulatory approvals). Or by acquiring a U.S. rival like PayPal — as has been rumored — to get a foot in Western markets that way.
+
+Either way, Circle is banking on being in the driving seat for this approach, pushing first and fast to get all the necessary international links in place. Its US rival Venmo, for instance, remains US only for now. And while various local European p2p players exist, like France’sCookies, they remain just that for now: local.
+
+“I don’t know what they’re going to do,” adds Allaire of Tencent when I suggest they could try the reverse of Circle’s strategy. “They absolutely could look at these markets. But we haven’t seen any indication of that to date.”
+
+One of Circle’s strategic partners in China — Baidu — does already have a digital wallet product in the market, though usage of this is dwarfed by usage of WeChat Pay and Alipay. Which presumably gives Baidu an incentive to strategically align with Circle, although Allaire says he can’t comment on specific commercial aspects of any of Circle’s investment relationships.
+
+“Certainly there’s an interesting opportunity for Circle with Baidu,” he says carefully. “They’re very interested in blockchain, they’re very interested in these cross-border use cases. And hopefully Circle can do something significant with them.”
+
+Banking on blockchain
+
+Allaire will say one thing: that it’s the first time “major” companies in the various categories that make up the roster of Circle’s strategic Chinese investors — namely investment bank CICC Alpha, commercial bank China Everbright, FS services company Wanxiang and p2p lending platform CreditEase — have invested in the digital currency space, dubbing this “significant”.
+
+“It underscores how this market — blockchain-powered applications — is becoming important globally but it’s also becoming quite topical in China as well,” he adds. “Indirectly the bet we’ve made as a company is that open protocols for value exchange are going to connect every currency and every digital wallet and every merchant service in the world, over time. So we’re betting on an open Internet model.
+
+“All of the existing players, whether it’s Venmo in the US or WeChat Pay in China or anything else, they’re all closed networks, they’re all built on their own proprietary, centralized closed models. That works to a certain point but it doesn’t unlock the kind of vision of money working the way the Internet works — which is open and interoperable — so we’re taking a more open approach than other players in the market.
+
+“But we hope that they all embrace this too. It’s not interesting if just one or two companies use open protocols; it’s interesting if the whole world does.”
+
+Circle’s desire to drive interoperability for digital payments is understandable, given its reality of being later to market with its p2p product than some very big rivals. But of course its ambition for openness will not necessarily be shared by larger competitors which are minting money now via their own closed networks. Their incentives (and power) to block may be greater than their need to unlock — at least in the short term.
+
+The short term reality for Circle, then, is swimming in a pond with some very large sharks. So it will be interesting to see how its strategy plays out.
+
+It’s not breaking out any user numbers at this (still) early stage, a year after launching its US beta, but will only say it’s grown its transaction volume on a dollar basis by “more than 300 per cent”. And is “on pace” to do well over a billion dollars in transaction volume this year. Its customer base has also grown at a similar rate (300 per cent), according to Allaire.
+
+Circle also only rolled into Europethis April, making its first international expansion moves by partnering with a UK bank to support pounds sterling as its second fiat currency after the dollar, and opening up a feeless cross-border payments offering between the two currencies. It’s not breaking out any metrics for Europe yet either.
+
+Today it’s announcing that its first Euro-using European market will be Spain — where’s it hoping to launch shortly. Allaire says it’s aiming to be live in all 28 European Union Member States by the end of this year, so it’s clearly driving hard and fast to get all the pieces in place for a US-Europe-China p2p payments play.
+
+“Lighting up Euro on Circle’s platform is critical in our effort to enable consumers everywhere to share value, and is also important to our efforts in China,” note Circle’s two co-founders in a blog post today. “Between the US, Europe and China, there are 2+ billion consumers who will share value, and we want to enable that experience in the same way that these consumers share messages and content today.”
+
+Allaire says Circle has customers in around 100 countries at this point, using Bitcoin to join the dots and settle payments where it does not yet have local banking partners. Although he notes that 70 per cent of its users are in the US, UK or Europe — i.e. where it does have boots and banking partners on the ground to support settling into fiat.
+
+And with the seeding of its Far East outpost Circle is clearly hoping to be able to add China to that list of major markets in the not too distant future.

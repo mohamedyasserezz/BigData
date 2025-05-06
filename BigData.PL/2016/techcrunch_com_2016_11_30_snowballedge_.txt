@@ -1,0 +1,11 @@
+AWS Snowball Edge offers 100TB of storage and compute functionality
+
+Amazon’s popular Snowball storage containergot a major update today at the company’s re:invent conference. Though largely overshadowedby the newbatshit crazyAWS Snowmobile, the aforementioned Snowball will be getting a storage increase to 100 terabytes in addition to computing functionality.
+
+Users of the new Snowball Edgewill be able to perform basic analysis on their data right from each device. This is ideal for field work and situations where real-time insights are a requirement. As with last year’s model, data can be sent straight to AWS data centers when the device fills up.
+
+Andy Jassy, leader of all things AWS, noted that General Electric, for example, could make use of the computational functionality at its wind farms. GE collects real-time data from each turbine to analyze aberrations. The compute functionality of the Snowball Edge is ideal for just those sorts of rapid analytics. The same is true for data collected on ships and aircrafts that cannot take full advantage of the cloud, but want a secure backup of data in addition to insights.
+
+The Snowball Edge is encrypted in three different ways to ensure data security. It also features clustering capabilities that allow multiple devices to be connected and accessible through a single endpoint. Support will be extended to include S3 and NFS endpoints for storing and accessing data. With improved connectivity, users can complete a full 100TB transfer in about 19 hours.
+
+The Edge supports AWS Lambda functions in Python for its local processing. Amazon doesn’t plan to charge users to run these functions. However, the device will cost $300 for each use. This gives you 10 days to complete your transfer. After that time period, users will be charged $30 per appliance, per day.

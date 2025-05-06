@@ -1,0 +1,13 @@
+Microsoft opens its UK data center region to Azure and Office 365 customers
+
+Microsoft today announced that its U.K. data center region is now online. The new region, which the companyannouncedlast November, currently offers support for Microsoft’s Azure cloud services and Office 365, with support for Dynamics CRM Online slated for the first half of 2017.
+
+With the new data centers in the U.K. coming online, Azure now offers its users 28 regions and it already has plans in the works to offer six more in the ver near future.
+
+“These new Microsoft Cloud regions will help businesses in industries such as banking, government, public sector and healthcare meet their customers’ needs, the regulatory requirements they are held to, and the need for local redundancy and disaster recovery,” Takeshi Numoto, Microsoft corporate VP for Microsoft Cloud and Enterprise, said in today’s announcement.
+
+The marquee customers for Microsoft’s cloud services in the country are theMinistry of Defence, whose 250,000 employees will use Office 365 and Azure, as well as theSouth London and Maudsley NHS Foundation Trust, the largest mental health trust in the U.K., and Aston Martin.
+
+In today’s announcement, Microsoft stressed that these new regions are compliant with the ISO 27018 standard for cloud privacy and notes that it has been willing totake on the U.S. governmentregarding search warrants for information stored in its overseas data centers.
+
+Data sovereignty is becoming an increasingly important issue for many businesses and government agencies that want to move their infrastructure to a public cloud, especially in Europe. Microsoft also notes that its new region is compliant with the newEU-U.S. Privacy Shield framework, thereplacementfor the Safe Harbor agreement that was struck down by Europe’s highest court last year.

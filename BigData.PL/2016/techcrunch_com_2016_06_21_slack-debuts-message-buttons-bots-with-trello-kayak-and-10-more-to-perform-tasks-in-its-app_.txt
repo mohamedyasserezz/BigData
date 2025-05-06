@@ -1,0 +1,23 @@
+Never leave Slack with message button bots for using Kayak, Trello, and more
+
+Now you can approve expenses, assign deadlines, check flights, and interact with other enterprise tools from inside Slack with its newMessage Buttons. Slack is vying to become your always-open portal to work with the biggest update to its API since its December launch.
+
+For example, just type “/kayak flights from NYC to BOS on 6/23” and you’ll get shown flight options with the ability to set price alerts.
+
+Slack says the new message buttons will debut with 12 apps — collaboration platform Trello, travel site Kayak, hiring management service Greenhouse, business intelligence site Qualtrics, contact center solution Talkdesk, incident management site PagerDuty, AI shopping assistant Kip, productivity tool Kyber, GIF sharing app Riffsy, expense app Abacus, accounting package Current, and helpdesk app Talkus. But the plan is to add in more over time, tapping into the 500 apps that the company says are now available in its app directory.
+
+The new services highlight two interesting trends, one Slack and one wider development.
+
+Slack — which now has 3 million daily active users overall and 930,000+ users that are paying for the service, with average use coming in at 10 hours/weekday — is continuing to build more services to make its platform much more sticky, essentially creating more ways of keeping users on its platform for longer.
+
+This is essential to the company’s business model, which is based on a freemium concept where users have basic access for no charge, butpay for higher levels of storage and other features. Adding in a feature where users are able to perform tasks in apps within Slack itself will keep more people using it and will give them less of a reason to leave it (and using it more means needing to pay for more storage, security and archiving capabilities).
+
+The second development that this taps into is the bigger growth of “bots”, essentiallymini apps that automatically perform tasksand lead you through a set of actions within a specific application. Bots have been incorporated into messaging apps like Facebook’s messenger, and into standalone services like Sapho, which develops bots for software that was never built with them to begin with. And now we have Slack’s answer to that trend.
+
+More details on how each debut app will work below, per Slack itself:
+
+Slack tells us “This development signals Slack’s potential to become the one tool that every employee has open all day, every day, and the way every knowledge worker connects with their colleagues, their applications and all their workflows.”
+
+The more enterprise tools Slack can jack into its app, and the more enterprise tools that build in Sign In With Slack, the harder it will be for customers to switch away. That’s crucial considering that its core chat app isn’t tough to copy. But by leaning on a developer ecosystem fueled by its hype, reach, and its Slack Fund for investing in integrated apps, Slack is building a deep moat.
+
+It’s a moat not just to keep other enterprise communication tools from invading its space, but to trap users inside its chat interface all day so they never consider cancelling their subscription.

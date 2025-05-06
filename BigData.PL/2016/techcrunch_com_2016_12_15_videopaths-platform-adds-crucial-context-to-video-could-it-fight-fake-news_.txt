@@ -1,0 +1,27 @@
+Videopath’s platform adds crucial context to video — could it fight fake news?
+
+Part of the reason so-called ‘fake news’ videos can spread so virally is that there is very rarely any supporting information attached to the video. Further links and verified sources just don’t get attached, either because there is no way of adding that to the video or the maker and/or the sharer just don’t bother. So a ton of video comes out that has no clear sources, or context. Thus, blatantly false stories are now getting traction alongside legitimate ones because there are no backlinks, or source materials attached. You can see this again and again on Facebook and YouTube for instance.
+
+But could there be a way to bolster editorial credibility and help viewers to identify legitimate video sources amidst the noise?
+
+Berlin startupVideopaththinks so, and it’s doing it via a new twist on the old idea of embedding web content into video, creating a new way to bring sources and CTAs right into the player. With this format, viewers can click in for more info – directly in the player.
+
+Now, granted, clickable video as a concept has been around for some time. Video companies likeCinematique,Wirewax,Zentrickhave had clickable hotspots in video for years. But one of the biggest challenges with clickable video is that unlike a clickable photo, video is dynamic: what may be in frame in one moment can be gone in the next. So trying to create clickable video, specifically with moving hotspots, often results in a gamey, distracting experience for the viewer.
+
+Instead, Videopath has come up with a simple, intuitive interface which lends itself to contextual information around a video. Add the ability to bring entire websites and social channels into your video, and you super-charge the experience.Here’s an example in actionfrom the tech office space, Interchange, in London:
+
+“With Videopath we are bringing the contextual power of the web into video” saysAnna Rose, CEO and co-founder of Videopath, “Our dream is to help infuse more information into video and present this to viewers in an organised way that empowers them to learn more about the topic”.
+
+“Say you have a short video report. With Videopath, you can include the latest updates by adding the twitter feed, offer back story with the wikipedia page, or raise money for a cause by adding a donation form directly into the player. All of these content pieces are helping to give viewers more info to work with and providing them with relevant calls to action as they watch”.
+
+Videopath has a builder that lets anyone put together one of these videos quickly. The product has already used by how-to and informational video creators including publishers Tamedia and Prisma in Europe and brandsBabbel,Body Shop, andDaimler. The player was also recently shared by the Grammy award-nominated singerJewel on the Dr. Oz blog. Videopath is at the core of Jewel’s #NeverBroken project – an interactive video series about Mindfulness.
+
+With this format it is possible to create a full content package – bringing together your various channels and content blocks to create one central experience driven by the video. For example, you can add a social channel, extra footage that didn’t make the final cut, sign-up forms, surveys and informational resources.
+
+Rose says they are seeing “amazing engagement with our player, over 30% of viewers click in to see extra content (which compares with the 2-5% that comparable clickable video solutions get), and we are seeing 45% more time spent on the project with the Videopath interface”. Metrics aside, Videopath remains focused on providing real value to viewers.
+
+To date many of Videopath’s customers are top brands using Videopath on their content marketing channels. But Rose sees the market for this tool as significantly wider: “As people are getting more of their information from short form video, a product like Videopath becomes relevant for a wider range of content types – such as for investigative reports, video journalism, event documentation and education. We have shown that Videopath provides real value to viewers as it allows them to dig deeper into a topic, but at their own pace.”
+
+It’s certainly come at the right time. As Albert Wenger from USV explained at the recent Slush conference in Helsinki, providing more context to content would be a first step in solving the misinformation problem. “Proving more context would be a good thing, so meaning, linking back to the story, what do we know about the publication it came from, linking back to source material”
+
+With this spirit in mind, Videopath aims to bring context back to the post truth wild west of digital video – giving viewers the tools to start investigating and delving deeper into the content that inspires and informs them.

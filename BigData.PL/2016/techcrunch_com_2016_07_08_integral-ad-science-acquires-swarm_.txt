@@ -1,0 +1,19 @@
+Integral Ad Science acquires bot detection company Swarm
+
+Integral Ad Scienceis unveiling some new steps to combat ad fraudsters, including the acquisition of a bot detection company calledSwarm.
+
+CEO Scott Knoll told me that he was particularly interested in Swarm’s technology for side channel analysis, a technique for examining a web browser to identify whether or not it’s a bot. That’s an area where Integral Ad Science has already developed its own technology, but Knoll said its approach is “complementary” with Swarm’s.
+
+“For the last 18 months, we’ve been kicking the tires on a lot of technologies out there in side channel analysis,” he said. “We’re really excited, because this combined with our side channel analysis and our unique big data capabilities will give us a huge advantage.”
+
+Knoll added that the Swarm team will continue to operate out of their offices in San Francisco. The financial terms of the acquisition are not being disclosed.
+
+In the meantime, the Integral Ad Science team has also been busy doing more of its own research on identifying bots. The big theme, Knoll said, is that fraudsters are changing bot behavior as advertisers start looking at different metrics. They broad aim is the same — tricking advertisers into paying for fake ad impressions — but they’re no longer limited to just loading up or clicking on an ad.
+
+“They’re getting really sophisticated, in the sense that they’re hard to detect,” Knoll said. “These bots are trying to success metrics around viewability, attention metrics … like scroll rates or hover rates.”
+
+For example, Integral Ad Science is releasing a new white paper on Poweliks, a bot that generates random mouse movement and examines the content of the page to identify other behaviors that could increase ad revenue. The company says:
+
+For example, if there is a video on a page, Poweliks presses play; if there is a search bar, Poweliks clicks ‘Submit’ using keywords like ‘car’, ‘insurance’, and ‘weight loss’. The keywords are designed to attract advertisements and can be updated at any time via communications with the bot’s Command and Control (C&C) server. The bot stays current as well: a recent 2016 update included the search terms “Donald” and “Trump”. The browsers generating traffic are sized full-screen in order to maximize the measured viewability of the ads, and as a result, maximize the amount advertisers will pay to deliver them.
+
+The company says it has also identified some new bots, including Avireen, which is similar to Poweliks, but can run on two browsers, Chrome and Internet Explorer. Then there’s StarUp, which collects cookies like a real user, then brings up retargeted ads on fraudulent websites using spoofed domains. And finally, there’s Superswag, which allows users to run campaigns on the incentivized browsing service Swagbucks in an automated way.

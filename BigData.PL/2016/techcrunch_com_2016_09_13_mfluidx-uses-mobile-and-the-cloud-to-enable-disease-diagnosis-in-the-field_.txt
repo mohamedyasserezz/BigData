@@ -1,0 +1,17 @@
+mFluiDx uses mobile and the cloud to enable disease diagnosis in the field
+
+The Zika outbreak continues to worry the world, yet diagnosing the virus, and any other viruses for that matter, requires a test that is complicated and expensive, not mention difficult to get in and out of the field.mFluiDxis a startup that is using mobile and the internet to offer an alternative that is both portable and affordable.
+
+The startup is developing a disease diagnosis kit that is smaller than a cigarette packet and requires almost no power at all. That makes it more than a thousand times cheaper than existing solutions that, besides being bulky, require electrical input, which can be particularly challenging in emerging markets where they are needed the most.
+
+mFluiDx’s kit is split into multiple parts. A blood sample is mixed with a tube of chemical (which will indicate if a virus is present), with the resultant then poured into a chip powered by a vacuum pump where it is isolated so that it can be analyzed for the presence of viruses. The company provides a light box, which runs off a single battery, into which the chip is inserted after one hour in order to analyze the results.
+
+So far so good, remote diagnostic kits run this way, but where mFluiDx gets even more interesting is what happens next. Via a smartphone app that uses the camera, the chip’s results are analyzed to determine whether a virus is present and, if so, how concentrated (strong) it is. In the future, mFluiDx may be able to run different tests inside the same chip but for now it is just one virus that is tested for.
+
+The app logs the results, GPS location and other information and syncs to a cloud-based platform. That data can then be placed with other test data, perhaps for surveillance of a virus outbreak in a region or specific location, or analyzed standalone with experts.
+
+The beauty of this approach is that it removes a major pain point for remote virus testing. Samples are accessible online once the host phone has an internet connection. That means they can be analyzed quickly and remotely, bypassing the issue of physically lugging test samples back to the lab.
+
+The startup graduatedthe IndieBio accelerator programthis summer, and thus far it has run field testing in Brazil, working with the doctor who first identified Zika in the country. Founders Charlie Yeh (CEO) and Danica Helb (CSO) — who both earned their PhDs at UC Berkley — estimate that they are probably a year away from having the technology in a position to go out into the field with partners. Initially, they believe that NGOs and organizations running disease surveillance will be their sales targets
+
+To date, mFluiDx has been self funded. Yeh co-authored three patents as part of his previous project at UC Berkeley, which itself landed funding from the Gates Foundation, and licensing those patents out has financed mFluiDx’s development to date. Yeh and Helb are seeking investors in the biotech and medicine areas to help them move the business forward.

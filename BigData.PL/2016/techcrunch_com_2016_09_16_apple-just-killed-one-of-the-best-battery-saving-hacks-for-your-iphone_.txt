@@ -1,0 +1,21 @@
+Apple just killed one of the best battery saving hacks for your iPhone
+
+There’s plenty to like about iOS 10— assuming thatit didn’t brick your iPhone or iPad— but you probably didn’t know that Apple has quietly killed off one of the neatest — and least-known — battery life hacks.
+
+If you’re anything like me and want to squeeze as much juice as possible from your iPhone’s battery (without carrying around an external power pack — which too needs to be charged) then you might switch the location/GPS setting off. That one thing — alongside conservative use of Bluetooth and WiFi — isendorsed by people who know Apple bestfor extending battery life, but it is frustrating. Having to dive into the settings menu and find the ‘location services’ option for the time you actually need GPS for Google Maps, Yelp, etc, is a major pain, while that option isn’t part of the swipe-up menu where you can access WiFi, Bluetooth and other settings .
+
+That’s whereLauncher, an app that lets you slip app shortcuts into the pull-down ‘Notification’ center, comes into play.
+
+It is essentially a quick way to launch not only apps, but also system settings such the ‘Location Services’ menu where you toggle GPS/location on and off. One swipe down and a tap is an easy way to switch off the GPS setting and conserve a lot of your power.
+
+Unfortunately, iOS 10 has removed the option to include system settings inside launcher apps, so this masterful battery hack no longer exists.
+
+“Apple has released the iOS 10 final candidate and they did not restore this functionality and these system apps are still not launchable. This is disappointing, but it is still possible that Apple could restore this functionality in an update to iOS 10 in the future,” Cromulent Labs, the company behind Launcher,explained in a blog post.
+
+Well this suckspic.twitter.com/lMg7vsaoOG
+
+— Jon Russell (@jonrussell)September 13, 2016
+
+The company said it is “not sure that Apple understands how many users are relying on this functionality,” and it is urging users affected to provide the iPhone-maker with feedback to encourage a change.
+
+Launcher, and other similar services likeLaunch Center ProandWorkflow, are still great apps that will make you more productive on your iPhone or iPad, so if you’re into multitasking then you should definitely look them up.

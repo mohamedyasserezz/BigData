@@ -1,0 +1,19 @@
+Stratasys debuts new 3D printing tech, partnerships with Ford and Boeing
+
+Stratasys has one of those classic founder stories. According to the company, inventor S. Scott Crump got the bright idea to make a toy frog for his daughter using a hot glue gun full of plastic and candle wax. That goofy little experiment marked both the birth of the company and the creation of FDM — fused deposition modeling – the technology that forms the basis of most modern desktop 3D printing.
+
+If you’ve ever snidely suggested that a consumer 3D printer is nothing more than a modified glue gun, well, you’re not entirely off-base. The company first commercialized the technology in 1990, and 15 years later, it would give rise to the RepRap open-source project that in turn begat MakerBot, the consumer-facing 3D printing golden child Stratasys would in turn pick up in 2013.
+
+But the majority of the company’s successes have been industry focused, primarily in the rapid prototyping space for companies ranging from Airbus to NASA. As with recent efforts from competitors like HP, however, Stratasys has been looking more and more toward direct manufacturing as a way forward for the industry, which has struggled some in the wake of massive hype surrounding 3D printing.
+
+Today the company is announcing a pair of technologies aimed largely at the aerospace and automotive industries, two spaces that will be among the first to benefit from the manner of customization additive manufacturing brings. As such, it’s fitting that along with the new technologies comes the announcement of partners Boeing and Ford, who will be, “exploring applications enabled by advances in Stratasys technology to ensure future systems are optimized for large scale manufacturing applications.”
+
+Both of the new technologies are firmly in the proof of concept stage, with the company demonstrating them to the public for the first time at a trade show in the coming weeks. The bigger of the two demonstrators is the company’s new Infinite-Build system, which turns the standard FDM printing quite literally on its side, greatly expanding the build volume in the direction of the build, utilizing gravitational supports and bonding techniques.
+
+That technology is of key interest to Boeing in the creation of light weight customized parts at relatively low volumes. Ford, too, is exploring the technology’s potential, though those applications will likely be a ways off, until such rapid prototyping can be demonstrated at a much larger scale (a lot more people buy cars than airplanes, turns out).
+
+The Robotic Composite technology, meanwhile, utilizes Siemens Industry Motion Control to create more complex composite structures. According to Stratasys,
+
+The system eases labor-intensive processes and geometric limitations associated with composite part creation – powering 3D printing via an 8- axis motion system to deliver precise, directional material placement for strength while significantly reducing complex support strategies.
+
+Both are still early demonstrators, with no definite timeline for production, but some high-profile partners are already excited about the possibilities.

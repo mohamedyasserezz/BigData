@@ -1,0 +1,29 @@
+Using artificial intelligence to create invisible UI
+
+Interaction with the world around us should be as easy as walking into your favorite bar and getting your favorite drink in hand before your butt hits the bar stool. The bartender knows you, knows exactly what drink you like and knows you just walked through the door. That’s a lot of interaction, without any “interaction.”
+
+We’re redefining how we interact with machines and how they interact with us. Advances in AI help make new human-to-machine and machine-to-human interaction possible. Traditional interfaces get simplified, abstracted, hidden — they become ambient, part of everything. The ultimate UI is no UI.
+
+Everyone’s getting in the game, but few have cracked the code. We must fundamentally change the way we think.
+
+Our roles as technologists, UX designers, copywriters and designers have to change. What and how we build — scrolling pages, buttons, taps and clicks — is based on aging concepts. These concepts are familiar, proven and will still remain useful. But we need a new user interaction model for devices that listen, “feel” and talk to us.
+
+Technologists need to become more like UX designers and vice versa. They must work much closer together and mix their roles, at least until some standards, best practices and new tools are established.
+
+The bartender from the above example is where more of the UI is starting to reside. On one hand, that represents a lot more responsibility to create transparent experiences that tend to be based on hidden rules and algorithms. But on another, this gives us incredible latitude for creating open-ended experiences in which only important and viable information is presented to the user.
+
+For example, to command our AI assistant, “Tell my wife I am going to be late,” the system needs to be smart enough not only to understand the intent, but also to know who the wife is and the best way to contact her. No extraneous information is necessary, no option list, no follow-up questions. We call this Minimum Viable Interaction (MVI).
+
+We’ve started talking to our machines — not with commands, menus and quirky key combinations — but using our own human language. Natural language processing has seen incredible advances and we finally don’t need to be a machine to talk to one. We chat with the latest chatbots, search using Google Voice or talk to Siri. The accuracy of speech recognition has improved to an incredible 96 percent accuracy.
+
+The last few percentage points might not seem like a lot, but it’s what makes or breaks the perfect experience. Imagine a system that can recognize what anyone says 100 percent of the time, no matter how we say things (whether you have an accent, pause between words or say a bunch of inevitable “uhhs” and “umms”). Swap a tap or a click for the Amazon Echo’s far-field recognition, and the UI melts away. It becomes invisible, ubiquitous and natural.
+
+We aren’t there yet. For now, we can devise smart ways of disguising the capability gap. A lot of time goes into creating programming logic and clever responses to make the machine seem smarter than it really is. Make one mistake where the UI shows and the illusion will break.
+
+The system needs to know more about us for invisible UI to become reality. Contextual awareness today is somewhat limited. For example, when asking for directions via Google Maps, the system knows your location and will return a different result if you are in New York versus California.
+
+Our phones, watches and other mobile devices are loaded with a ton of sensors. They make us humans the cheap sensors machines need today. We gather the knowledge and data that the system needs to do its work.
+
+But even with all the sensors and data, the machine needs to know more about us and what is going on in our world in order to create the experiences we really need. One solution is combining the power of multiple devices/sensors to gather more information. But this usually narrows down and limits the user base — not an easy thing to sell to a client. You have to think on your feet. Change, tweak, iterate. This space is way too dynamic to be married to an original creative concept.
+
+What wasn’t possible just yesterday is becoming mainstream today as we develop new experiences, explore new tech, topple old paradigms and continue to adapt.

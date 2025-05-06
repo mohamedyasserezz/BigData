@@ -1,0 +1,25 @@
+HP’s OMEN X is a powerful and mostly satisfying gaming cube
+
+AMaingear and HP collaboration, the OMEN X is a good example of how far a consumer computer manufacturer will go to try and cater to a hard to please niche like PC gamers.
+
+A
+
+Recently the latter has been doing a great job of appealing to different user needs with their Spectre line, from premium ultrabooks, to the VR-ready desktop replacement OMEN 17 laptopthat I reviewed earlier this winter.
+
+To better cater to hardcore gamers, HP teamed up with Maingear, a custom PC builder that’s well-respected in the gaming community. In fact, HP and Maingear are so confident in the OMEN X’s chassis design that you can actually purchase it as an empty case for $599. The specs of your new machine would then be entirely up to you; want to include two GPUs and four separate hard drives? Not a problem at all.
+
+Inside ofHP’s $2,149 build, you’ll find a 4.0GHz Core i7-6700HK quad-core processor, 16GB DDR4 RAM and a GTX 1080 Founder’s Edition graphics card — a powerful trio that can handle any game that is based off DirectX 11 or 12 released this year — and most likely for a while longer. A 2TB traditional hard drive with 256GB SSD, Bluetooth 4.0, 802.11ac WiFi and a 1300W Gold efficiency power supply round off the rest of the specs.
+
+In terms of real-world performance, every title I’ve played has been pushed to a 3440 x 1440 curved LG monitor via a Displayport. For PC gaming purists who swear by 1080p HD displays, the frame rates I’ve seen of course will be higher.
+
+Battlefield 1runs at a cozy 75fps on max settings, DirectX 12 enabled.Arma IIImaxed-out at a strong 70fps, whileRainbow Six: Siegeaverages 60 to 80fps, also with max settings and V-sync enabled. Using a G-Sync screen with this system would most likely produce better results, but unfortunately I didn’t have one to test.
+
+An NVIDIA GTX 1080’s performance, pitted against other Pascal NVIDIA graphics processor is uncontested, unless you opt for the astronomically expensive TITAN X GPU ($1,200). Pitted against the slower GTX 1070 (both desktop and mobile versions) and you’ll see frame rates drop by 10-20fps. The GTX 1080 is worth the investment, while the TITAN X is not at all a requirement if you want to play today’s (or tomorrow’s) games on the highest settings on a 1080p or 1440p monitor.
+
+Strangely, three weeks into using the OMEN X, a reliability issue came up: it wouldn’t get past the POST screen (power-on self test), which is the bane of any computer user’s existence. Checking the motherboard and connections for irregularities changed nothing, but powering the system off, then turning it on the next day, only to find that it suddenly booted into Windows 10.
+
+That was all odd, and by all accounts meant that I had to swap systems. I would hope that wouldn’t be a trend for consumers who purchase their own systems.
+
+If I were building a yet another micro-ATX gaming rig, I would probably splurge and get the barebones OMEN X case for $599. Afterwards, I’d fill it with similar specs and a better motherboard, while sacrificing storage space for a faster, but smaller SSD.
+
+On the other hand, if you’re satisfied with the pre-configured builds and pricing that HP is offering, then make that your choice. After all, nothing is more fun than having more than enough processing power for everyday tasks, but also knowing you’re future-proofed to an extent with games, USB-C ports and the like.

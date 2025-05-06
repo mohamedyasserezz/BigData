@@ -1,0 +1,17 @@
+Vera announces support for automated Office 365 document security
+
+Vera, the company that secures documents in motion, regardless of the type, announced automated protection for Office 365 documents stored in OneDrive for Business or SharePoint today.
+
+Today’s announcement means that instead of having to define a set of security rules for each document created and stored in Microsoft’s repositories, Vera customers can define a set of rules at the folder level that get applied automatically to any document placed in that folder. For example, the customer can define a set of rules for the HR folder, and these rules get applied automatically whenever someone saves a document to that folder.
+
+While Microsoft has tools for applying document or folder-level security within its platforms, Vera provides protection for documents, even as they move across systems. In other words, the security moves with the document, so you could move the document to Dropbox or Slack with the security settings moving with it.
+
+Vera lets customers apply rules to a set of documents, giving them complete control over who can open them and what they can do with them. With Vera, you can can set whether recipients can copy and paste, print or edit the document. You can even revoke access to the document on the fly, or set an expiration date for a document, after which it will no longer open, regardless of where it is stored on that date.
+
+Being able to automate this type of security is critical to CIOs at large organizations, according to Robin Daniels, chief marketing officer at Vera. “When we talk to CIOs at large companies, they don’t want users to have to think about protecting documents,” Daniels explained. They want that security applied automatically, as users save the document.
+
+Today’s announcement will allow Vera customers to control Office 365 documents wherever they go. With Microsoft’s massive presence in the enterprise, this integration has the potential to expand Vera’s market significantly. If you’re using Vera, you can protect and track Office documents in an automated way, while taking advantage of modern collaboration tools outside of the Microsoft ecosystem.
+
+“Collaboration is a messy business. To support that, you need a frictionless [security] process. If it’s too hard, people won’t use it or work around it,” Daniels said.
+
+The Vera-Microsoft integration is currently in public preview for Vera customers. The integrations will be made generally available some time at the beginning of 2017.

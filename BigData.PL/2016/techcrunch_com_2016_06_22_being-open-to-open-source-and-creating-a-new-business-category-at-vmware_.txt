@@ -1,0 +1,11 @@
+Being open to open source and creating a new business category at VMWare
+
+[tc_unified_video code=”c6f1f7f9-55c5-3baa-9b0f-4503a406740e”]
+
+In the age of developer-defined infrastructure, where developers have decision making power in application and cloud infrastructure technologies, open source has proven to be a powerful go-to-market and distribution method for both startups and enterprises. Developers are always looking for new technologies to improve their productivity.
+
+For example, Docker has emerged as the enabling technology to build and scale cloud applications. But for many incumbent software companies, open source wasn’t necessarily the obvious strategy. Jerry Chen, a partner at Greylock Partners, remembers a key meeting at VMware in 2010 when they were discussing open source as a potential developer distribution path for Cloud Foundry.
+
+At the time, the team coined this as the “nuclear option” because of it’s potentially massive impact on the company. They wanted to be an application platform, but as Chen recalls, “open sourcing a strategic product was not part of the company culture at that time.” However, as the team dug into the idea, they realized opening up Cloud Foundry would quickly boost adoption, moving economic value down not only to their virtualization platform, but also to a bigger ecosystem of players.
+
+With open source projects, if a technology or product has merit – whether it’s a new version of Linux, language or container technology – developers will quickly find it and adopt it. If VMware was the platform for the last 15 years, then companies, like Docker, could be the platform for the next 15. Creating a new platform was one of the most challenging things Chen has ever had to do in his career. “It’s a big rock to push up the hill because you’re motivating not just yourself but also an ecosystem of partners that are outside of your control.”

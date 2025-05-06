@@ -1,0 +1,49 @@
+The tech that will feed the world
+
+Twenty years from now, the most important tool for putting food on your table won’t be a harvester, combine or a plow. It will be a piece of software.
+
+Agriculture is in the process of transitioning into a fully high-tech enterprise. This is a long-overdue revolution in the way things have been done for centuries. To put it in perspective, if we keep doing farming the old-fashioned way, two billion more people will go hungry by the year 2050.
+
+World population growth is driving the urgent need for a radical boost in farm productivity. Incremental advances in output simply won’t cut it. The challenge in 2050 will be unprecedented — equivalent to growing enough food to feed everyone who is alive today, plus everyone who was alive in 1920. Simply put, the techniques that got us through the 20
+
+Simply put, the techniques that got us through the 20thcentury won’t get us very far into the 21st. And whatever solutions we come up with will to solve this dilemma will also have to take into account that land and water continue to be scarce resources, and environmental sustainability remains paramount.
+
+Fortunately, high-tech gadgets are spreading to farms across the country and nudging crop productivity upward. While self-driving cars are having a tough time achieving acceptance on America’s highways, self-driving combines and tractors are an increasingly commonplace sight in America’s wheat and corn fields.
+
+Tesla sold 50,000 autopilot-equipped Model S modelslast year, compared to John Deere,which already had 200,000 self-driving tractorsin the field.
+
+Drones and satellites are giving farmers an unprecedented overview of the health of their crops while arrays of ground-level sensors provide real-time data on soil and climate. These systems provide an early warning of the presence of invasive insects or other problems that may threaten crop survival.
+
+A well-informed farmer is able to act quickly to fix problems before they become serious. For instance, nitrogen sensors may report an excess in one part of a field, but in another small patch there might be a shortage. This allows the farmer to adjust an advanced fertilizer delivery system to ensure nutrients are dispensed in precisely the amount needed—not too much, not too little. Precision prevents waste, which saves money, but it also is good for the environment.
+
+Growing plants crave and absorb nitrogen, but farmers without the latest equipment sometimes overdo it by providing extra fertilizer “just in case” the crops need more. Unfortunately, leftover nitrogen that isn’t absorbed by plants has a tendency to seep into groundwater where, in excess, it can be harmful to fish.
+
+So the potential benefits to efficiency and to the environment from these high-tech gadgets are tremendous, but they represent a single piece of a much more complex puzzle.
+
+What gadgets do is unlock an unprecedented level of monitoring and data collection capabilities. But the heart of 21st-century agriculture will be the processing of these data. The killer app of tomorrow’s agriculture is information harvesting.
+
+Farmers face an array of questions when it comes to growing. What crop should be planted, and where, and when? How much water is needed? How much fertilizer is needed? The amounts of water and fertilizer will vary from field to field, and within individual fields. The amounts will also change by the day or sometimes by the hour. There are thousands of complex, interrelated variables involved in the process.
+
+Back in the days when complex math could only be performed with a slide rule and chalkboard, we simply didn’t have the computing capacity required to answer complex growing questions to determine the best course of action with anything more than educated guesses.
+
+Now computing capacity is cheap, and it’s possible to model all possible choices and their potential outcomes. A smartphone with Google Maps, for example, can evaluate every path from point A to point B to decide, based on the current traffic conditions, which will likely be the shortest or fastest route.
+
+Simulation and modeling also help from getting lost when it comes to growing crops. At the most basic level, plants need sunlight, water and nutrients at levels that vary during various stages of growth. It sounds simple, but at scale, optimizing each factor has a huge payoff.
+
+The United States annually produces 2.3 billion bushels of wheat across 50 million acres of farmland. A one percent boost in productivitywould be enough to produce 678,000 additional tons of wheatflour every year.
+
+We can do much better than a one percent increase by taking full advantage of the power of data analytics.
+
+Even before the farm’s first seed is planted in the ground, data analytics can be used to optimize the breeding of plant varieties to maximize the genetic potential for a variety of growing conditions around the country and around the world. Farmers in California might need a seed that tolerates drought, while a Midwestern farmer might want a seed with extra resistance to a particular plant disease.
+
+Data analytics can also help on the customer end, matching a particular farmer’s needs to the seed that will perform best in that farmer’s field under the expected harvest conditions for this year, not last year.
+
+When it comes time to plant that seed, data analytics can process vast amounts of historical data on crop growth, soil condition, weather and other key factors to ensure that individual plant conditions are optimized for maximum growth. After the harvest, data analytics assist with the logistics of distribution and sales of the crops.
+
+The information harvest must be considered as a complete system that optimizes every step of the process from the breeding of seed varieties to the placement of food products on store shelves. The idea is to improve the decisions made in agriculture, from those made by farmers and their suppliers to equipment makers and ultimately to consumers.
+
+Making the best possible choices at every stage of the food production process will help maximize productivity and bring us closer to meeting the goal of growing more food with fewer resources. This is the level of effort that will be needed to achieve the crop growth needed to feed the world in 2050.
+
+This is a task bigger than any one company or individual. It’s a challenge that even extends beyond the traditional agricultural community. Food security affects everyone, and solving the problem will require an infusion of talent from the worlds of mathematics and software engineering to build the innovative systems agriculture needs to reach the next level of productivity.
+
+What this all means is that many of tomorrow’s greatest tech opportunities will be found not be in Silicon Valley, but in the Midwest.

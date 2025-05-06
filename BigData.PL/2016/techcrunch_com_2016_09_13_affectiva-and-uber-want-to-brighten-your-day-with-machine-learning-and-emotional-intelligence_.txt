@@ -1,0 +1,33 @@
+Affectiva and Uber want to brighten your day with machine learning and emotional intelligence
+
+Your phone doesn’t know how you’re feeling — but you may want it to if that capability came with a few fringe benefits. Affectiva makes emotion-detection software, and CEO Rana el Kaliouby was full of ideas today at Disrupt SF as to how it could be deployed, from gifs to Ubers.
+
+“We’re obsessed with emotional AI, we wake up thinking about it,” said Rana el Kaliouby. “I imagine a future where every device has a little emotion chip and can read your emotions, just like it’s touchscreen enabled or GPS enabled.”
+
+If you aren’t creeped out by that, you might see a few of the benefits. As el Kaliouby points out, technology is getting personal.
+
+“The way we relate to our devices and apps, it’s becoming very relational,” she said. “The way we act with technology is very like the way we act with each other. All these devices, whether it’s the Uber app or a calendar, they need to build a rapport with the consumer.”
+
+Humans with higher emotional intelligence are more likable, so why shouldn’t the same be true for devices? To spur discovery, Affectiva just opened up its SDK and APIs for free use, so app makers will surely try integrating them soon.
+
+And the more people that use the app, the more data the company has to work with. The system is already working from a database of 5 million faces
+
+“That’s allowed our system to learn the difference between a Japanese smile and a Brazilian smile,” el Kaliouby said, “or that women express emotions differently than men. Humans are still the ground truth, but in some cases the algorithms are better than an average human — it depends on the emotion too.”
+
+Of course, emotional intelligence isn’t just recognizing facial expressions and extracting moods. Also on stage was Danny Lange, head of machine learning at Uber. He was excited about the possibilities of — what else? — machine learning.
+
+“We’re seeing this major change where we move from newton, who thought he could calculate everything about this world, past present and future, to a Heisenberg model,” he said, waxing historical. “It’s more about predictions and probabilities.”
+
+Deep learning systems do their best work with lots of data, and fortunately Uber vehicles are racking up millions of miles, pickup locations, traffic problems, and so on. And UberEats provides another data set that can be cross-referenced and interesting correlations uncovered. A long history with both apps could put a car outside the moment you walk out the door, then recommend an alternative to the lunch you’ve chosen since traffic will prevent it from being delivered in a timely fashion — an alternative based on analyzing your previous orders, of course.
+
+The strange thing about these machine learning systems, though, is how opaque they are to analysis. The results are great — but the process is obscure.
+
+“It’s often hard to explain why they come up with the predictions they come up with,” Lange admitted. “You can’t look back into it. It’s almost impossible to explain why you get the outcome you get.”
+
+That means that sometimes these processes, both Affectiva’s and Uber’s, can produce unexpected results. To keep those within acceptable bounds, you need to control the data. When asked if the systems could discriminate — causing skewed results for certain genders, races, or the like — el Kaliouby grew briefly grave.
+
+“It could,” she said, “and we take that very seriously. When we train our models, we make sure the data is balanced.”
+
+People of all shapes, sizes, colors, and genders must be consulted — and are, el Kaliouby said. Lange concurred: “We have to be very cautious about that. It’s our responsibility to be careful what data we put in there.”
+
+“Emotional data” seems like a contradiction in terms, but clearly your innermost thoughts, feelings, and habits are of great interest to many in the tech world. Get ready to have your mind read and like it.

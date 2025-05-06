@@ -1,0 +1,13 @@
+Adobe’s Project VoCo lets you edit speech as easily as text
+
+Adobetoday showed off a new experimental tool, Project VoCo, at its annualMAX conferencein San Diego. Project VoCo lets you edit speech as easily as text — and you can’t just edit existing text, you can even use the same voice model to create completely new recordings, too.
+
+Here is how this works: Project VoCo needs about 20 minutes of voice samples from a given speaker. It then analyzes the speech, breaks it down intophonemes, transcribes it and creates the voice model. If you listen closely, you can hear when a word has changed, but it’s probably only a matter of time before you won’t be able to distinguish the actual recording and the edited (or completely fake) one.
+
+As Adobe noted in today’s demo during a small press event at MAX, the project isn’t based on traditional speech synthesis technology but on what Adobe calls “voice conversion.” What’s especially interesting here is that there’s almost no manual intervention necessary. You can always correct the auto-generated transcript to improve the synthesis, but there’s no need to set timestamps, for example. The algorithms can figure that out themselves.
+
+This technology raises all kinds of questions. What happens if you can’t even trust what sounds like a genuine recording of somebody’s speech anymore? From a purely technical standpoint, though, this is some pretty impressive stuff.
+
+At the same press event, Adobe also showed off two other new editing projects: Project Quick Layout for — as the name kind of implies — making it easier to edit print layouts, and Project Clover, a VR editing tool that works right inside of VR.
+
+As with all of these “Sneak Peeks,” Adobe won’t commit to ever shipping them, but over the years, many of the projects it has introduced this way have made their way into the company’s products.

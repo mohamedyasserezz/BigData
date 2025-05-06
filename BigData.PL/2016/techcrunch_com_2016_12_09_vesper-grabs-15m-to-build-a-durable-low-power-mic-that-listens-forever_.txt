@@ -1,0 +1,17 @@
+Vesper grabs $15M to build a durable low-power mic that listens forever
+
+As digital assistants like Siri and Alexa become more intelligent, there’s a growing need for them to always be accessible.
+
+Current microphone tech has been too power-hungry to keep permanently enabled. As a result, a new class of products, home assistants, like Amazon’s Alexa-enabled products and Google Home, have arisen as power-connected alternatives.
+
+Vesperis aiming to keep mobile devices more tuned into their surroundings through the startup’s VM1010 piezoelectric MEMS microphones, which generate electric energy from the very sound waves the devices receive.
+
+Today, theBoston-based companyannounced that it has closed a $15 million Series A round led byAccomplicewith participation also coming from Amazon’s Alexa Fund, Hyperplane, Miraenano Tech and other undisclosed investors.
+
+Aside from the company’s technology in regards to pervasive voice recognition, another clear strength of the tech comes in the water-proof and dust-proof nature of piezoelectric systems, allowing for more rugged and portable outdoor systems. This was something that particularly interested the team at Amazon Alexa, which participated in the round.
+
+“We are always interested in supporting novel technologies that can enable new and delightful Alexa experiences for our customers,” said Steve Rabuchin, vice president of Amazon Alexa, in a statement. “We see the potential for Vesper’s technology to unlock compelling new use cases for Alexa, such as portable electronics where dirt and moisture resistance is an important attribute for microphones, and we are excited to be supporting the company with our investment.”
+
+Vesper’s technology, which emerged in part from theUniversity of Michigan, is constantly listening, but it is doing so with an incredibly low-power draw as it seeks out the frequencies characteristic of a human voice. When the company’s VM1010 microphone does register a voice, the system wakes up to determine if the keyword is being spoken — think “OK Google” — and once the keyword is heard the device snaps into full functionality where a digital assistant could respond to queries. All of this happens within milliseconds. The company boasts that this technology decreases the standby battery consumption of the microphones “by a factor of 100.”
+
+Aside from the obvious applications for digital assistants on mobile devices and hearables, Vesper is also looking at applications for their specialized MEMS microphones within the Internet of Things and connected car markets.

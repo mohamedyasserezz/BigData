@@ -1,0 +1,13 @@
+Microsoft open sources its next-gen cloud hardware design
+
+Microsoft today open sourced its next-gen hyperscale cloud hardware design and contributed it to theOpen Compute Project(OCP). Microsoft joined the OCP, which also includes Facebook, Google, Intel, IBM, Rackspace and many other cloud vendors, back in 2014. Over the last two years, it already contributed a number of server, networking and data center designs.
+
+With this new contribution,Project Olympus, it’s taking a slightly different approach to open source hardware, however. Instead of contributing designs that are already finalized, which is the traditional approach to open sourcing this kind of work, the Project Olympus designs aren’t production-ready yet. The idea here is to ensure that the community can actually collaborate in the design process.
+
+“We’ve learned a tremendous amount from our deep collaboration with the OCP Foundation and the open source community over the past few years,” Azure Hardware Infrastructure GM Kushagra Vaid writes in today’s announcement. “An important realization is that open source hardware development is currently not as agile and iterative as open source software.” By giving the community early access to the designs, Microsoft hopes it can “decrease the time to market for new product offerings and lower investment costs.”
+
+The Project Olympus designs include anew motherboardand high-availability power supply with included batteries, a server chassis with a high-density storage expansion, and a new power distribution unit for the server racks that holdthese (or other) machines. The designs are meant to be modular to give potential customers the ability to use them inside their own existing data center configurations.
+
+“Microsoft is opening the door to a new era of open source hardware development. Project Olympus, the re-imagined collaboration model and the way they’re bringing it to market, is unprecedented in the history of OCP and open source datacenter hardware,” said Bill Carter, the Chief Technology Officer of the Open Compute Project Foundation, in a statement today.
+
+Microsoft, just like Facebook and other OCP members, is making extensive use of OCP hardware in its own data centers. Microsoft says over 90 percent of the servers it purchases are based on OCP-contributed specifications.At Facebook, which incubated this project, virtually all of the servers are Open Compute machines. Google alsojoined the OCPearlier this year, but market leader Amazon — a company that isn’t exactly known for its open source work to begin with — remains a no-show.

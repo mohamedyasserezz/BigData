@@ -1,0 +1,21 @@
+Microsoft snatches HP CRM and service business from rivals Salesforce and Oracle
+
+In what has to be characterized as huge win for Microsoft, it announced this morning it had secured a 6-year deal with HP, Inc to run Microsoft Dynamics’ customer relationship management (CRM) and service software.
+
+What’s more, it grabbed this deal at the expense of its rivals. HP, Inc. had been a Salesforce CRM customer, while Oracle had been its service software provider. It’s worth noting this is a customerSalesforce bragged about in its literatureand featured at its conference.
+
+HP, Inc is the printer and PC division thatHP spun off last year when it split HP into two companies, the other being HPE, the enterprise software division. Under the new deal, HP Inc’s 6,500 sales people and 20,000 service employees worldwide will be using Microsoft’s sales and service software.
+
+Brent Leary, who has been watching the CRM space for years as co-founder and partner at CRM consulting firm, CRM Essentials, sees this as confirmation that Microsoft’s work to beef up the product could be paying off.
+
+“The combination of CRM, collaboration, intelligence and productivity Microsoft has put together in the cloud is going to make enterprises at least take a serious look at what they have to offer,” Leary told TechCrunch.
+
+Over the last couple of years, Microsoft has been working to upgrade Microsoft Dynamics CRM,combining it with its Dynamics ERP product earlier this year, and while Microsoft and Salesforce have been on friendly terms of late, with Satya Nadella appearing at the Dreamforce customer conference last Fall, they are still are fierce competitors where business is concerned.
+
+Interoperability is one thing, and both companies certainly recognize the need to work with one another’s products, but that’s where it ends. When it comes down to it, both companies are going to be competing hard for customers, and in this case, Microsoft took one right out from under Salesforce. They can’t be happy about this, and you have to wonder if it will strain their relationship.
+
+It’s also worth noting thatwhen Microsoft grabbed LinkedIn for $26 billionlast spring, it likely had much to do with enhancing its CRM offerings. Rumor had it at the time, that perhaps Salesforce had also been sniffing around LinkedIn. It certainly couldn’t hurt that Microsoft will very likely integrate LinkedIn information directly into Dynamics CRM over the next year, giving its customers access to a treasure trove of customer data.
+
+As for Oracle, HP and Oracle didn’t have much love for one another anyway. Former CEOMark Hurd left HP after a scandal in 2010and went running into the arms of Oracle. Shortly thereafter a nasty lawsuit ensued overOracle dropping support for HP’s Itanium chip set(a chip that ultimately never really took off anyway). These kinds of fights are beginning to hurt the database giant.
+
+It’s important not to over-emphasize the importance of a single win, even one of this scope. Yet this deal has the potential at least to give Microsoft some much-needed enterprise credibility in the CRM space, a space Salesforce and Oracle have dominated for years. For that reason alone, Microsoft has to being doing a happy dance this morning while its rivals have to be pouting over their morning coffee.

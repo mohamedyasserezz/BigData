@@ -1,0 +1,13 @@
+The R.Pi IoT Shield adds IoT connectivity to your DIY project
+
+Of all the things in this great green world which we desire, the most important is connection. That’s why theR.Pi IoT family is pretty cool.Built by the team that brought usTinyLab, these clever GPRS, GPS, XBee and LTE shields allow tinkerers to add wireless connectivity to their projects.
+
+The shields — what the Raspberry Pi world calls add-on cards — start at $19 and go up to $99 for LTE/4G connectivity. The system has a unified IDE and user interface and you can start programming with the boards as soon as you connect them to your Raspberry Pi. A $19 GPRS shield adds simple connectivity — think Kindle-like — to your projects.
+
+The company was created by Todd Lydig, Taha Arvas and CTO Sait Borlak. The company originally built the TinyLab in Turkey but moved to New York for this new project.
+
+“The Raspberry Pi IoT Shield Family we designed is much less expensive than comparable LTE shields and more importantly is much easier to use. There is no experience required to enter the world of IoT since we provide a computer interface, sample applications, and open source codes of the entire project design,” said Arvas. “So, our shields are super easy-to-use. We’ve done our best for you to get connected, right out of the box.”
+
+These shields do require a little tinkering to get working, but I can imagine them as part of a drone, a rocketry project or a security system designed to keep your brother from stealing your bike. I, for one, intend to create a coffee maker that can talk to the internet from space. I dare to dream.
+
+[youtube=https://www.youtube.com/watch?v=xC2_1HXZRIA&list=PL3gG701EoAFkxHFPV9gEALpemmAzZnIhj]

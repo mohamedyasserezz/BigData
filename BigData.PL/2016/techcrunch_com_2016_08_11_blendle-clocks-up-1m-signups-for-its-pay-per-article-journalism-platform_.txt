@@ -1,0 +1,33 @@
+Blendle clocks up 1M signups for its pay-per-article journalism platform
+
+Pay-per-article journalism startupBlendle, which aggregates the written work of different publishers onto a single, ad-free platform where readers can pick and choose which stories to consume, paying a few cents per article, is touting passing one million registered users.
+
+It’s taken Blendle just over two years to amass this many sign ups. The journalism micropayments platform kick-started its attempt to reboot digital media business models in Europe in April 2014, offering an alternative to publishers’ content-gating paywalls.
+
+It’s not breaking out monthly active users but managing editor Michaël Jarjour tells TechCrunch that’s now in the “hundreds of thousands”. He adds that conversion into paying users remains unchanged, at 20 per cent.
+
+The startup began working with publishers in its native Netherlands and in Germany, beforeexpanding to the U.S. this March(inbeta). It’s grown its business by 300 per cent over the past year, and is projecting that users will have read more than 20 million articles on its platform by the end of this year.
+
+Jarjour says it remains focused on the latter two markets, with no plans to expand its market footprint further as yet. “The United States and Germany are our largest focus right now. These are tough nuts to crack,” he adds.
+
+On the age front, he notes Blendle’s largest age group is now 30 year olds; previously it was 35-year-olds so the platform is touting a readership that’s getting younger.
+
+One key feature is the ability of paying readers to get a refund on any story if they didn’t like what they read, although they are required to specify why they want a refund (and presumably refund abusers would soon be kicked off). Jarjour says Blendle’s refund rate is just under 10 per cent platform wide at this point, and a bit lower in the US — a rate he says is “basically unchanged”.
+
+Blendle also manages access so if a user pays for multiple articles from a particular publication and exceeds the subscription cost for a particular issue the rest of the content is automatically unlocked. Idea being they won’t be paying more just for the privilege of being choosy.
+
+Unlike social services with news streams powered by algorithmic popularity alone, Blendle touts human curation as core to its appeal, employing a team of in-house editorial staff reading content to surface what they deem ‘quality journalism’.
+
+However it’s now testing a content personalization feature, called the Blendle Premium Feed, that will push a tailored feed of stories at each user.  The feed is being powered by a mix of algorithmic predictions, based on analysis of users’ past behavior and preferences, blended with human selections, via its own in house team. Its editorial staff are being used to identify and flag quality content to supplement algorithmic recommendations — with the aim of avoiding a content filter bubble scenario narrowing the horizons of its readers.
+
+The feed is majority algorithmic recommendation, with human choices comprising around three stories per day — as ‘anti filter bubble picks’ — vs around 12 machine selected daily picks. It’s going to be a balancing act for sure, as Blende notes in itsblog postannouncing the new feature, which it says it’s still testing — adding that the first results are “encouraging”.
+
+If your USP is ‘quality not filler’ then applying any kind of filtering algorithm to generate more content in your app is absolutely going to require to a softly, softly approach if you want to retain the readers you wooed with promises of your different approach. So it will be interesting to see how Blendle’s personalized predictions fare.
+
+“For theBlendlePremium Feed we combine learnings we’ve collected from past behavior and predict how much you’ll like an article based on your preferences (that you tell us), based on what you’ve read before, and based on predictions we make. We make those predictions by analyzing each new story (story type, complexity, feel). Over the past few months editors have been training our algorithms to categorize stories better,” says Jarjour, explaining how the feature works.
+
+“We avoid the filter bubble by having editors flag certain stories to be sent to all people. In addition, the signals we use are also optimized for surprise, and not only to what’s most popular or what you’d like the best.”
+
+A purely algorithmic recommendation system is not something in Blendle’s “near future”, he says adding: “Human curation will remain a core component. We employ 15 journalists who read a combined 40 hours a day, seven days a week, to find stories that are especially worth reading, but are hidden on paper or behind paywalls currently.”
+
+The premium feed is due to be rolled out “in the coming months”.

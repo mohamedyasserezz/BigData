@@ -1,0 +1,19 @@
+Density raises $4 million to track crowds at the DMV, theme parks and corporate campuses
+
+The Department of Motor Vehicles is one of the most notorious ways to waste your life away. Density could help ease this pain. Today,Densityis launching its people-counting sensor for measuring how many people are inside a space at any given time. The company is also announcing a $4 million Series A round led by Upfront Ventures Managing Partner Mark Suster with participation from Ludlow ventures, Jason Calacanis, Dawn Patrol, Hiten Shah and Arjun Sethi. Density had previously raised a $200,000 seed round from the likes of Jonathon Triest of Ludlow Ventures, Calacanis and Matthew Paulson.
+
+Density is a self-installable, Wi-Fi powered unit that you mount above a doorway to count how many people are coming in and out of a location. The device is also modular, meaning that as Density updates the technology in the sensors, customers will be able to swap out the old sensor for the new one.
+
+“Sensor as a service,” Farah said, “is the future of all hardware.”
+
+Density’s people-counter sensor is free, but the company sells the access to the data it generates for $45 per sensor per month, billed annually. For all you privacy phobes out there, don’t worry, Density doesn’t capture who you are — it just captures the body using infrared light as illumination in conjunction with a specialized depth sensor, Density co-founder and CEO Andrew Farah told me. Although the tech is relatively complicated, the concept is super straight forward — it’s simply a matter of counting plus ones and minus ones. That’s it.
+
+“If we succeed, it will be boring — like electricity,” Farah said. “You won’t notice when it’s there but it will be irritating without it.”
+
+With Density’s API, business customers can count how many people enter and exit a physical space and integrate it into their pre-existing software solutions. Already, Density’s customers include a network of homeless shelters, Ivy League colleges, theme parks and Uber.
+
+“Density will allow us to accurately understand foot traffic and occupancy at our support centers,” Uber NYC General Manager Josh Mohrer said in a statement. “The data we will receive is invaluable to better staffing and delivering the best service to our partners when they come in to visit.”
+
+Other use cases entail real-time discounting, space utilization for corporate campuses and real-time conference room availability. Check out Density in action below.
+
+[youtube=https://www.youtube.com/watch?v=E669CTqPc0U&w=800&h=450]

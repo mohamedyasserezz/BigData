@@ -1,0 +1,37 @@
+EU asks whether the financial sector’s use of big data needs new rules
+
+European financial regulators are worried that big data techniques might result in restrictions on consumer access to products and services in future, and are considering whether new rules might be needed to tackle the risk of more granular algorithmic analysis leading to discrimination.
+
+While companies processing European Union consumers’ data have to comply with existing EU and national regulations, such as data protection law, consumer protection and competition rules, there are no regulations specific to the financial services sector.
+
+The regulators have put their thoughts into a publicdiscussion paperwhich considers both potential pros and cons of big data being increasingly applied to shape and personalize financial products and services.
+
+On the plus side, they write that the use of big data is likely to result in consumer benefits on account of products and services that are better tailored to needs, of a higher quality or more cost-effective; while financial institutions are set to benefit from more efficient processes and decision-making or better management of risks or fraud situations.
+
+However they are concerned about the risk of the same big data processing techniques impacting consumers’ access to products/services — and being used by financial institutions to, for example, inform pricing practices that could exploit detailed knowledge of a customer’s likely willingness to pay more or inertia to switch products.
+
+Other possible risks they envisage are limitations or errors in the data and analytic tools, and security and privacy/ethical concerns, which they say could eventually lead to “legal and reputational risks for financial institutions”.
+
+“Potential entry barriers in accessing Big Data technologies could also have negative implications on innovation and competition in the financial markets at the detriment of consumers’ welfare,” they add.
+
+One possible negative scenario they flag up is the risk of consumers that are seeking household insurance for properties located in areas exposed to high risks such as floods, earthquakes or crime having to pay very high premiums or not being offered any insurance cover at all as a result of the fuller picture afforded by so much data being able to be analyzed.
+
+“Data is generated, collected, stored, processed and used at unprecedented rates and entire business sectors are being reshaped by building on data analytics. All kinds of activities/products could be impacted, such as profiling consumers, assessing creditworthiness, marketing campaigns, carrying out market segmentation decisions, developing products, pricing products/services, underwriting risk, preventing fraud, undertaking AML/customer identification, increasing internal efficiency within firms, etc,” they write.
+
+They’re defining ‘big data’ as referring to situations where “high volumes of different types of data produced with high velocity from a high number of various types of sources are processed, often in real time, by IT tools (powerful processors, software and algorithms)” — as opposed to “traditional” (and often manual) data mining of low-variety, small scale and static datasets.
+
+They are also not limiting their consultation to just consider financial institutions engaging in predictive analytics; but are rather looking broadly at various types of data analysis by the sector, including descriptive, predictive or prescriptive analytics.
+
+“Advances in IT tools and the ever increasing data availability, including (but not limited to) personal data, enable qualitatively new processing and analytics opportunities,” they add. “Big Data encompasses not only the data itself but also the technologies and procedures followed to process and analyse the data to unlock income-generating insights, to reveal patterns or correlations, to generate new ideas or solutions or, importantly, to predict future events in a more accurate and timely manner.”
+
+They note that financial institutions across the banking, insurance and investment sectors have already started using big data techniques, such as aggregator services using financial and payment data from bank accounts of consumers for dashboard and accounting products.
+
+While in the insurance sector where telematics boxes in cars are being used to monitor driving behaviour to offer individualized policies and prices. (Insurance firms have also beenflirting with additional forms of big data processingas a route to inform premiums.)
+
+“Smart (connected) homes and wearable devices in the health sector may lead to more granular segmentation of risks, pricing more risk-based, and increase the effectiveness of risk-selections,” they add.
+
+The regulators will assess public feedback on the consultation — which can be submitted to them via theESMA website— to determine whether any regulatory and/or supervisory action may be required. The consultation runs until March 17.
+
+While this consultation is specific to the EU’s financial sector, the wider notion of algorithmic accountability is generallyrising up political agendasascloser attentionis paid to thedecisions being made by algorithms, and the potential for biases to be embedded within software systems.
+
+Earlier this month technical professional association, the IEEE, put out a document aiming to foster what it describes asEthically Aligned Design— urging the tech sector to take ownership and responsibility for ethics as part of the engineering process.

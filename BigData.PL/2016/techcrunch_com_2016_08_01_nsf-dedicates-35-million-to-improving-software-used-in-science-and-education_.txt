@@ -1,0 +1,29 @@
+NSF dedicates $35 million to improving software used in science and education
+
+Big data is more important than ever in just about every scientific discipline — and the data is bigger than ever, too. To help manage that data and get it into the hands of scientists and students, the National Science Foundation is putting $35 million towards a pair of software institutes that will build the tools necessary for 21st-century research.
+
+The Molecular Sciences Software Institute will focus on — you guessed it — the molecular sciences. That’s everything from quantum chemistry and materials science to pharmacology and molecular biology.
+
+Research performed at this level of organization benefits greatly from computer models, but those models are limited in the number of factors, atoms, space, or time that can be simulated accurately. The MolSSI will be led by Virginia Tech computational chemist Daniel Crawford and hosted at the school’s Corporate Research Center in Blacksburg.
+
+The plan is to improve the software and infrastructure used in the field, and share those resources with the rest of the world. Sounds vague, but the specifics would probably be as difficult to describe as the problems these scientists are tackling.
+
+“The institute will enable computational scientists to tackle problems that are orders of magnitude larger and more complex than those currently within our grasp,” Crawford said in the NSF’s announcement.
+
+A double handful of other universities will be on the board of directors: Rice, Iowa State, Stanford, Rutgers, Stony Brook, UC Berkeley, and USC. Crawford toldVirginia Tech’s news servicethat the group plans to add more collaborators, from Europe and Asia to start.
+
+The MolSSI is funded to the tune of $19.4 million over 5 years, and much of the initial $5.8 million, officially awarded today, will go towards kitting out the new digs and hiring the founding scientists and coders.
+
+That leaves $15 million and change for theScience Gateways Community Institute. This one will beled by UC San Diego; its goal is to improve engagement with scientific resources at all levels, from students to researchers at the cutting edge.
+
+Science gateways are collections of tools, services, and apps that one can access through, for example, a web portal. For example, a university might decide make all the information from its MRI or astronomy experiments available to download and sift through — the gateway would manage that data and its users, and maybe provide online tools to visualize or analyze it. It’s an essential step for exposing scientific data to inquiry and inspection by other authorities or just curious citizens whose tax dollars paid for it.
+
+“Gateways foster collaborations and the exchange of ideas among researchers and can democratize access, providing broad access to resources sometimes unavailable to those who are not at leading research institutions,” said the project’s principal investigator, UCSD’s Nancy Wilkins-Diehr.
+
+The SGCI will be formed around a sort of pilot study done in 2015, a survey of 5,000 people in the research community that suggested 5 main areas on which the institute should focus.
+
+Briefly stated, they are: Incubating ideas to convert them into businesses; providing meaningful tech support to associated projects; creating a a shared, extensible framework for developing and deploying gateways; and finding and training gateway developers — the latter with a stated emphasis on inclusiveness, I’m happy to add. More details can be found at theNSF grant pageor on theSGCI study page.
+
+This project too has a lot of partner schools: Notre Dame, Purdue, UT Austin (TACC specifically), UM Ann Arbor, Indiana University, and Elizabeth City State University.
+
+It’s a major investment by the NSF and quite an impressive spread of interested parties; their work will likely be less visible than this flashy announcement, but it’s important nonetheless. We’ll keep up with the Scientific Software Innovation Institutes as they grow and mature.

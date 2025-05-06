@@ -1,0 +1,41 @@
+Zipwhip nabs $9M from Microsoft + others to let landlines send and receive SMS texts
+
+Consumers have made a big shift to using mobile phones as their primary, and often sole, telephone, but as they have done so, they’ve also created something of a rift in the business world: many of the companies that count those consumers as customers are still using landlines — 275 million businesses in the U.S. alone — resulting in a feature gulf between how the two can communicate with each other in real time: it’s either a voice call, or nothing. However, a startup based out of Seattle is hoping to bridge that gap.
+
+Zipwhip, which has built a platform to let people with mobile phones send text messages to businesses that call them from landline phones, is today announcing that it has raised $9 million in funding. The Series B was led by local VC Voyager Capital, with participation also from strategic backers Microsoft Ventures, regional telecom GCI, and Inteliquent, an interconnection partner for communications service providers.
+
+The company is not disclosing its valuation with this round, or its revenues. At the beginning of this year,Zipwhip saidit saw annual growth of 356% in annual recurring revenue, with messaging traffic volume up 300%. It also said it was adding$400,000in ARR each month and expects to hit$10 millionin ARR by third quarter 2016.
+
+Zipwhip has been around since 2007, growing while raising modest amounts of capital, relatively speaking. Prior to this round, the startup hadraised only $8 million. In the meantime it has picked up a wide range of businesses as customers, focusing specifically on those that are consumer-facing and do a lot of business over the phone.
+
+They include insurance agencies (there are over one thousand using Zipwhip including Allstate, Farmers, and many independents); car dealerships; the broadcaster CBS whose radio stations are using Zipwhip; and staffing companies fitness gyms, dentists offices, veterinarians, title companies and credit unions.
+
+Zipwhip’s rise comes at an interesting point in the growth of mobile messaging apps.
+
+A wave of companies built around messaging services for consumers — they include the likes ofTwitter, Facebook (both throughMessengerandWhatsApp) andWeChat— are eyeing up the opportunity to use their infrastructure and customer reach to help businesses communicate with customers better. However, these are predicated on customers already using those apps as communications channels to begin with, and being amenable to those channels getting appropriated for use as customer service platforms.
+
+Zipwhip is approaching the idea of using messaging as a B2C communications tool from a different end of the spectrum. It’s not so much about adding a customer care component to platforms where people are already using a lot of messaging services, but about offering messaging as an option for those who are using their mobile phones as their primary phone, and have a habit of wanting to respond to phone calls with text messages.
+
+This happens a lot more than you might think: Zipwhip says in the U.S. alone, there are around 150 million text messages sent to landlinesdaily— most of which, of course, are just disappearing into the ether because the landline owner doesn’t have any way of capturing them.
+
+What Zipwhip does is create a filter between a landline and a mobile phone. When a text is sent from the mobile to the landline, Zipwhip’s cloud-based software sees it, and sends it to an app that looks a bit like an email interface. There, a Zipwhip customer (say, the business) that owns the landline can then read those messages and respond to them as messages using the same interface. Essentially, Zipwhip’s app gives a landline user a facility that has up to now been mainly a mobile phone and messaging app feature.
+
+Zipwhip is not the only one tackling this business opportunity.HeyWire, a direct competitor that had raised more VC funding in its life, wasacquired by Salesforcein September of this year. It appears to be part of Salesforce’s bigger strategy to tacklemessagingas a more monetizable customer service frontier.
+
+Yes, that may mean Zipwhip now has a formidable competitor, but it also points to the fact that the startup is definitely working in an area of growing demand.
+
+In that context, it’s interesting to see Microsoft — a neighbor of Zipwhip’s geographically speaking — among the investors in this round. Microsoft has shaped upparts of its enterprise businessover the last several years to compete more directly against the likes of Salesforce (and likewise, Salesforce hasalso done the same).
+
+At the same time, Zipwhip is also looking at ways of applying its text-conversion technology in other areas.
+
+Some of those new applications are a little tongue-in-cheek fun, like thisrobotic beer kegthat poured you a pint and zapped your phone number onto the side of the cup when you texted “Beer” to a certain number.
+
+More seriously, co-founder and CMO John Larson tells me that Zipwhip is “doing a big push for data integrations with major CRM players, i.e. Microsoft applications, Salesforce, and others,” which would give it more parity with HeyWire.
+
+He also says that the company is looking at securing the texting channel to make it usable for other purposes, like transactions.
+
+“We are working on [ways] to support the equivalent of SSL certificates, but for business phone numbers, so that you as a consumer know you’re texting with a legit business,” he said. “We see that being a huge opportunity, and a natural next step in driving payment transactions over text messaging in the U.S., just like WeChat did in China. They’re now doing over $500 billion per year in transactions over messaging.”
+
+Another big area of opportunity is the growth of new kinds of ad units, where users are able toclick on ads to send a text(Google isamong those testing this) another area that Larson said its tech could be used to run and interact with such services.
+
+Pricing for Zipwhipcomes in a few tiers: $20/month for a basic service; $100/month for a “business” service covering more texts, more devices and more people; and an enterprise tier based on company size for large customers.

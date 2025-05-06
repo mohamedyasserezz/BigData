@@ -1,0 +1,19 @@
+Intel shows off all-in-one Project Alloy virtual reality headset
+
+Intel moved full-throttle into the VR space with the announcement of an all-in-one virtual reality headset alongside a new Intel Merged Reality platform at the Intel Developers Forum. An announcer teased the dramatic reveal with the phrase, “what if you could move freely without any restriction on what you do next?”
+
+Project Alloy is completely wireless, something that distinguishes it significantly from headsets like the Oculus Rift or HTC Vive. The company’s headset is notable in that it is an all-on-one device with all of the cameras, sensors and input controls built-in.
+
+Intel CEO Brian Krzanich called virtual reality, “one of those fundamental shifts that redefines how we work, how we’re entertained, and how we communicate in the world.”
+
+Inside-out positional tracking is a huge project evolution and one that has yet to be cracked by existing head-mounted displays. Krzanich announced onstage that the headset has six-degrees-of-freedom, a technical term which means you’ll pretty much be able to move freely in VR without having your motions constricted.
+
+Project Alloy relies entirely on hand-tracking as input through its integrated sensors. The demo appeared a bit finicky onstage. The headset appears to be relying strongly on the tech from the company’s RealSense technology. RealSense trackers utilize a 1080p camera in addition to infrared cameras and lasers so in the demo onstage Intel was able to capture when people walked into the frame of the user’s virtual world.
+
+Other high-end virtual reality headsets have kept the tethered experience largely because of performance requirements. High frame rates and crisp screen resolutions have necessitated a bulky cord connecting the headset to a high-end PC, so it isn’t quite clear what corners Intel is cutting as specs of Project Alloy were not revealed onstage.
+
+Project Alloy, a 1st gen#VRsolution – imagine merging realities and experience your world differently#IDF16pic.twitter.com/ZUrKDZ57hT
+
+— Intel (@intel)August 16, 2016
+
+Krzanich also highlighted a partnership with Windows that would bring the Windows Holographic operating system to the Project Alloy platform so that developers can easily build applications for the system. Intel also announced that it is going to open source the Alloy hardware in the second half of 2017 so that “anyone can combine the Project Alloy hardware with Windows Holographic platform,” Krzanich said onstage.

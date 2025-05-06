@@ -1,0 +1,9 @@
+Georgia Tech’s low-power gesture recognizing camera is designed to always be on
+
+Researchers at Georgia Institute of Technologyhave developed a super low-power cameradesigned to never shut off. The system was designed specifically as a method for waking up devices, never turning off, while running off of ambient power.
+
+In order to do so, the camera had to be capable of detecting specific patterns, rather than just waking up any time if noticed motion. The camera, which made its debut at the International Symposium on Low Power Electronics and Design (who knew such things existed?), looks for broad movement, which retaining specific details about movement, saving battery power in the process.
+
+Says Georgia Tech electrical and computer engineering professor, Justin Romberg, “What this camera is actually looking at is not pixel values, but pixels added together in all different ways and a dramatically smaller number of measurements than if you had it in a standard mode.”
+
+The camera, which was developed during an Intel-sponsored study, could be implemented on surveillance devices, robotics or future consumer electronics.

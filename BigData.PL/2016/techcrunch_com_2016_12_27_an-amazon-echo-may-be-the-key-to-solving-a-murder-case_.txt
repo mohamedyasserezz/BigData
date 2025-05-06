@@ -1,0 +1,21 @@
+An Amazon Echo may be the key to solving a murder case
+
+Internet-connected devices may start helping in criminal cases. As first reported inThe Information, police in Bentonville, Arkansas have issued a warrant to Amazon, asking the company to hand over data from an Echo device to help prosecute a suspected murderer.
+
+James Andrew Bates, the suspect in the case, was charged with first-degree murder in November of 2015 after authorities found victim Victor Collinsstrangled and drownedin Mr. Bates’ hot tub.
+
+Mr. Bates told police he’d invited Collins and two other friends, Owen McDonald and Sean Henry, over to watch a football game and said he decided to go to bed about 1 a.m., leaving the victim and McDonald to hang out and drink in his hot tub.
+
+According to Bates’ affidavit, he found Collins face down in the water when he woke up several hours later. However, McDonald says he left Bates and Collins around 12:30 a.m., which was a story confirmed by McDonald’s wife.
+
+According to phone records, Bates was also texting a woman throughout the evening and had placed several calls to his dad, other friends (including McDonald) and the Flying Fish restaurant. None of the calls went through and Bates told police these were accidental butt dials.
+
+Bates has several internet-connected devices in his home, including a Nest thermostat and a Honeywell alarm system, but the key witness in the case may be his Amazon Echo, which, as per The Information, police records say could have controlled the streaming music, which was being wirelessly transmitted throughout the night using Echo’s assistant Alexa.
+
+However, it’s unclear how much data police could extract from the device or how useful that data would be in the case. Alexa is always listening through a system of seven built-in microphones but waits for you to say the “wake word” to send it commands, like asking for the weather or which music to play, according to the company. The device also streams your audio to the cloud, including a fraction of a second of audio before the wake word.
+
+Amazon has so far declined to hand over information in the case, according to court records, and the company says it will not be releasing customer information “without a valid and binding legal demand properly served on us. Amazon objects to overbroad or otherwise inappropriate demands as a matter of course.”
+
+Police have seized the Echo from Bates home anyway, as material evidence, but the device that might offer a better clue as to what happened that night might be the home’s smart water device. According to The Information, court records show Bates’ home ran 140 gallons of water between 1 a.m. and 3 a.m. on the night in question.
+
+But the broader takeaway in this instance is just how much these IoT devices could be used for or against us, legally. This appears to be a first-of-its-kind case and we are sure to see many more of these types of inquiries in the future.

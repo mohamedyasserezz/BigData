@@ -1,0 +1,21 @@
+Microsoft debug policy leak could make Windows Phones useful again
+
+Microsoft looks to have inadvertently made some of its ownorphaned devicesuseful again, after accidentally leaking a debug policy that could allow owners of Windows powered hardware such as earlier iterations of Windows Phones smartphones or ARM-powered Windows RT tablets to install alternative operating systems like Android and Linux.
+
+The in-house debug policy was originally created as an internal workaround tool for Microsoft’s own Secure Boot feature, intended to be used by its engineers to speed up the process of testing new Windows builds. But the company apparently accidentally shipped it on retail devices where it was unearthed by security researchers.
+
+Two researchers, going by the handlesMY123andSlipstream, have awrite up of the issue here— with their research covered in detail byThe Register. The pair say they managed to activate and install the debug policy in firmware, disabling the Windows boot manager by switching off signature checks — meaning they could subsequently load non-Windows OSes onto the devices. The policy is apparently universal — working on x86 and ARM devices, and on anything that uses the Windows boot manager.
+
+As well as the policy leak offering an amusing workaround for locked down Windows devices — which could presumably enable a determined person to convert an old Nokia-designed Windows Phone into an Android powered handset faster thanNokia is bringing its own brand Android devices to market— the slip up is a cautionary tale for anyone advocating for ‘golden key’ approaches to security systems to afford state authorities privileged access. Point being that any golden key is also a massive security liability.
+
+Earlier this year the tussle betweenApple and the FBIover access to a locked iPhone pivoted onjust such points, with the FBI demanding that Apple create a security-weakened version of its OS to allow it to more easily break into the locked device, and Apple refusing on the grounds that creating a less secure version of iOS would risk the security of all iOS users should this version end up leaking outside Cupertino.
+
+Apple asserted at the time…
+
+The government suggests this tool could only be used once, on one phone. But that’s simply not true. Once created, the technique could be used over and over again, on any number of devices. In the physical world, it would be the equivalent of a master key, capable of opening hundreds of millions of locks — from restaurants and banks to stores and homes. No reasonable person would find that acceptable.
+
+Microsoft’s debug policy turning up in the wild — howsoever that blunder occurred — serves to underline the risks of any built-in workarounds to security systems. And while, in this instance, it’s not a backdoor into Windows that can be used to steal user data, but rather just a workaround of Microsoft’s own revenue engine that seeks to lock its software to the hardware it ships on, the wider point about security workarounds also being system weaknesses stands.
+
+According to the security researchers, Microsoft has attempted to patch the issue after they contacted the company’s security team earlier this year to detail the problem. But they claim it has not yet effectively fixed the workaround, although another patch is slated as coming next month.
+
+We’ve reached out to Microsoft for comment and will update this post with any response.Update:A Microsoft spokesperson provided the following statement via email:“The jailbreak technique described in the researchers’ report on August 10 does not apply to desktop or enterprise PC systems. It requires physical access and administrator rights to ARM and RT devices and does not compromise encryption protections.”

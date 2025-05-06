@@ -1,0 +1,15 @@
+AWS goes after Oracle with new PostgreSQL support in Aurora
+
+There were a lot of jokes and comments at Oracle’s expense today at the AWS re:Invent conference, but perhaps the boldest statement came when AWS announced it  was adding PostgreSQL support to the AWS Aurora database, making it easier to move an Oracle database to the AWS cloud.
+
+Even as Oracle makes its own move to the cloud, it is still held up as the prime example of the prototypical legacy vendor. As AWS CEO Andy Jassy said without mentioning Oracle by name, “Commercial grade databases are proprietary, expensive and require vendor lock-in. Builders don’t like this and it’s why enterprises have been moving as fast as they can to open source [options] like MariaDB, MySQL and PostgreSQL,” Jassy told the re:Invent audience. But moving came with a performance trade-off until Amazon answeredwhen it announced Aurora two years ago.
+
+“We built Amazon Aurora with speed and availability of commercial databases with the pricing and [freedom] of open source,” Jassy said. What’s more, he claimed they delivered that at a tenth of the price. Up until today, the company was only offering this option to MySQL users, but there was a huge demand for PostgreSQL, especially since it is compatible with Oracle RDS databases, which many enterprise customers are using.
+
+To answer that demand, the company announceda preview of Amazon Aurora PostgrSQL-Compatible Edition. When you’re creating your Aurora database instance, you simply chose the PostgreSQL option, then specify your database details and you’re good to go.
+
+Jassy made it sound like making the move from Oracle, now that Aurora had the PostgreSQL support would be a fairly simply matter because of the semantic similarities between PostgreSQL and the Oracle database. The proof will be in the testing though.
+
+Al Hilwa, an analyst at IDC, says the Oracle support is all well and good, but it’s about supporting a more powerful database. “PostgreSQL is a hugely popular database which is much more powerful than MySQL. That it supports multi-versioning like Oracle is icing on the cake,” Hilwa told TechCrunch.
+
+It’s worth noting that Oracle believes it’s in the best position to help customers move to the cloud by offering its own cloud versions of its database products. It’s also worth noting that Holger Mueller, an analyst at Constellation Research,pointed out on Twitter, that while AWS was boasting about 14,000 database customers, it was “a skirmish in the database wars,” meaning it still has a ways to go to catch Oracle — all jokes and comments aside.

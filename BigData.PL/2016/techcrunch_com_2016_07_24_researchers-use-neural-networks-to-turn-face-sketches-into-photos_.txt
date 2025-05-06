@@ -1,0 +1,27 @@
+Researchers use neural networks to turn face sketches into photos
+
+We all have a soft spot forPrisma, the app thatturns smartphone photos into stylized artwork. But the reverse process — transforming artwork into pictures — is no less fascinating. And it’s not far from becoming real, researchers in the Netherlands said.
+
+A team of four neuroscientists atRadboud Universityis working on a model for inverting face sketches to synthesize photorealistic face images by using deep neural networks. The results of the study (Convolutional Sketch Inversion) were first made available in the online archivearXivand have recently been accepted at theEuropean Conference on Computer Visionin Amsterdam.
+
+Scientists said applications of their model could include fine arts, for turning self-portraits into something more akin to a photo, but also in forensics, for turning sketches based on eyewitness accounts into something a photo-recognition tool could use, for example.
+
+“We were inspired by the recent work on neural style transfer, an algorithm to reimagine photos in the style of artworks,” Yağmur Güçlütürk, 29 and Umut Güçlü, 30, the two PhD students in cognitive neuroscience who developed the study together with Marcel van Gerven and Rob van Lier, wrote in an email to TechCrunch.
+
+The article Yağmur and Umut referred todescribed a technique to reimagine a photo of the city of Tübingen, Germany, in the style ofThe Starry Night, the oil on canvas painting by Vincent van Gogh. “This example got us thinking about its inverse problem. That is, what the artworks of Vincent van Gogh would look like as photos,” Güçlütürk and Güçlü wrote.
+
+Here is how Güçlütürk and Güçlü describe how their software, which uses an artificial neural network, works:
+
+“Let’s say that I, scientist, want to teach you, artificial neural network, how to convert sketches (inputs) to photos (outputs). First, I construct a very large dataset composed of sketch and photo pairs. I give you the sketches and ask you to convert them to photos. Randomly, you choose a strategy and give it a go. At first, your photos would not look like the photos in my dataset. I compare your photos with the photos in my dataset and point out your mistakes. Based on my feedback, you adjust your strategy and give it another go. Gradually, the quality of your photos would improve.”
+
+Repetition played a huge role in teaching the model how to match sketches and photos (which is pretty much standard for training neural networks).
+
+“We repeat the last two steps over and over again,” Güçlütürk and Güçlü wrote. “Finally, your photos would look like the photos in my dataset. If everything goes well, you can use your newly learned skill to convert not only the sketches you have already seen, but also the sketches you have not previously seen to high quality photos.”
+
+To train and test the algorithm, the scientists used computer-generated sketches based on the photosin the CelebA dataset, an online resource with more than 200,000 celebrity images, andin the LFW dataset, a collection of 13,000 images of faces from the web. The hand-drawn sketches were taken fromthe CUFS dataset.
+
+Converting some sketches of their own faces — drawn by Yağmur — was one of the first things the two PhD students tried. Thanks to the algorithm, they also tried to obtain a photorealistic representation of the face of three famous Dutch artists (Rembrandt, van Gogh and Escher) based on their self-portraits.
+
+The two researchers are now looking to see how they can bring their work to market. They are looking at applications in the fine arts and forensic arts world for monetizing their work.
+
+“Our spinoff company,Neurant, is already working on such applications, and we hope to bring them to market soon,” Güçlütürk and Güçlü concluded.

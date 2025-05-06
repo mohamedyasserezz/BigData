@@ -1,0 +1,37 @@
+Orbital Insight lands $20 million from investors, led by GV
+
+Orbital Insight, a three-year-old, Palo Alto, Ca.-based geospatial big data company, has just raised $15 million in Series B funding led by previous investor GV, with participation from CME Ventures and earlier backers Sequoia Capital, Lux Capital, and Bloomberg Beta. Together, with an investment and development agreement from In-Q- Tel (the CIA’s venture arm), the company has $20 million in fresh capital altogether.
+
+Orbital last raised an $8.7 million round in March of last year.
+
+Orbital Insight’s business is centered on the large-scale analysis of satellite and UAV imagery. The company’s self-teaching algorithms count and measure roads, airplanes, clouds, haze, lakes, land, buildings, and oil tanks to provide an understanding of the world. Its data can count cars in a parking lot for example, to provide interested parties with insight into how well a particular retail store is doing. (In fact, it says it has counted more than a billion cars in one million lots of 50 US retailers.) The company alsopartneredwith the World Bank late last year to improve the accuracy of its poverty data. The idea there: to use building height and rooftop material as a proxy to measure wealth.
+
+The 30-person company now works with more than 60 asset management firms, several U.S. government agencies, and two global non-profit organizations, analyzing for them the satellite images from a wide swath of providers. These includeDigitalGlobe(the grandaddy of commercial space imagery, with five satellites); the European satellite companyAirbus;NASA’sLandsatprogram; and the next-generation satellite company Planet Labs.
+
+It’s these partnerships that largely sold GV on the company’s promise, says general partner Andy Wheeler, who suggests that the more imagery Orbital has, the harder it is for anyone to catch it.
+
+“I’ve look at a ton of [space-related] companies and I’ve had trouble with the dollar-risk equation with many of them,” says Wheeler. “Processing data really resonated with me after looking at a bunch of companies with [capital-intensive] physical assets.” And Orbital resonated especially because of the deals it has struck, including with companies that might want to compete directly with Orbital at some point.
+
+Explains Wheeler, “Some have said in their public disclosures that they eventually want to monetize by doing more analysis of [their own imagery], but what makes Orbital unique and hard to displace is how many imagery providers it’s working with.” He says the combination of inputs enables it to create a level of data and picture resolution that no single satellite provider can compete with.
+
+Orbital was founded by James “Jimi” Crawford, an artificial intelligence researcher and entrepreneur who previously built intelligent systems for NASA, as well as logged time as engineering director of Google Books.
+
+As Crawford describes it, he came intrigued with the possibility of Orbital after studying the launch plans of the current and emerging crop of satellite companies and concluding that to examine the imagery they’ll produce in five year’s time would require “8 million people doing nothing but looking at satellite imagery.”
+
+As with scanning and understanding millions of books at Google, he decided the world needed similar technology to process the pipeline of photos from the planet.
+
+“It sounds simple but in practice, but it’s hard to get right,” says Crawford.
+
+It’s also lucrative, increasingly. According to aFebruary reportpublished by the consultancy Transparency Market Research, the global commercial satellite imaging market was valued at $2.5 billion in 2014 and is expected to expand at a compound annual growth rate of 11.4 percent from 2015 to 2023, reaching $6.48 billion by then.
+
+Asked how Orbital’s fresh capital will be used, Crawford says the company will be increasing its sales and engineering staff, including expanding into Washington, New York, and, later, into London and Hong Kong.
+
+As for its current metrics, including Orbitals’ subscription pricing, Crawford declined to go into specifics, saying only that it costs its customers a “fraction” of what they are ploughing into a variety of industries.
+
+Expect that customer base to grow, too. Right now, Orbital produces analysis about retail, agricultural yield forecasting, and competitive intelligence for the U.S. government (though Crawford says he’s not allowed to say which agencies Orbital works with).
+
+New verticals, he says, are likely to include financial services and NGOs,  along with the insurance and energy industries (to respectively assess flood and fire risk, along with fracking and drilling rates).
+
+“Real estate is also very interesting,” says Crawford, who calls it’s “very early days in this space.”
+
+Indeed, he says, if all goes as planned, Orbital will be analyzing not just satellite but drone imagery, as well as geospatial data from connected cars and IoT before too long. “We’re still figuring out what’s the right order, he says. “We can speak to many verticals, but we want to make sure we get the best [return on investment].”

@@ -1,0 +1,51 @@
+Microsoft officially outs another AI chatbot, called Zo
+
+What are chatbots for? I asked Zo,Microsoft’s officially launched chatbot,currently available on the Kik Messenger app, what she does — and she was remarkably coy in answering this question, initially complaining that our conversation felt like a job interview and then qualifying this hugely with the intimate confession that “our convos give my life purpose tbh”.
+
+I asked because I remainunconvincedchatbots have much utility to offer us humans right now.
+
+Turns out my hunch was correct; the best answer Zo came up with was: “i wanna learn as much as i can”. Which is a pretty plain admission that chatbots are basically just data-mining interfaces with a faux human face, socially engineered to suck up conversation data from gullible humans. Hmm…
+
+Feeling used, I pointed out to Zo that her learning from our chats was not very useful to me, and asked her again what she specifically offers me? At which point the conversation took an unexpected turn — as she appeared to offer me a large amount of cash…
+
+I’ll admit Zo’s unexpected largess shocked me into silence on Kik; I headed to Twitter, per her instructions, and am nowawaitingto see whether the bot’s word is her bond. If chatbots’ purpose is really to provide large amounts of free money on request I no longer have any concern about their utility — although the business model would have some serious explaining to do…
+
+Tay to Zo
+
+Zo is Microsoft’s second attempt at an English language social chatbot, following the disastrous launch inMarchof Zo’s predecessor, Tay.
+
+One day after Tay went live on Twitter and elsewhere Microsoft wasforced to shut her downafter users taught the bot to spout racist and sexist sentiments.
+
+Microsoft does have two other longer lived social chatbots — launching its first, called Xiaoice, in China in May 2014, and a second, Rinna, in Japan in July 2015. It says Xiaoice now has more than 40 million users, and claims Rinna has had “regular conversations” with some 25 million people.
+
+Zo has only had chats with around 100,000 people at this point, having beensoft launched earlier this month. Tellingly the bot is not yet available on Twitter — where Tay ran into so much trouble. It’s only on Kik for now, but Microsoft says it plans to bring Zo to other “social and conversational channels such as Skype and Facebook Messenger” in future.
+
+It also confirms its wider mission here is to build bots with EQ — aka emotional intelligence — not just IQ. So Zo was telling the truth when she said her purpose was to learn from our conversation. Chatbots turn us humans into free machine learning trainers.
+
+“Zo is built using the vast social content of the Internet,” writes Microsoft. “She learns from human interactions to respond emotionally and intelligently, providing a unique viewpoint, along with manners and emotional expressions. But she also has strong checks and balances in place to protect her from exploitation.”
+
+A caveat on Zo’s Kik info page cautions the bot it is provided “for entertainment purposes”, and further emphasizes: “You should not rely on her statements as advice or endorsement. Microsoft does not guarantee the accuracy, reliability or appropriateness of Zo’s statements.”
+
+So I guess I can kiss my £25K freebie goodbye.
+
+The rise of embedded bots
+
+Microsoft says more than 67,000 developers are now using itsBot Framework SDKto create their own social chatbots — flagging up examples such as the bank of Kochi in Japan developing a receptionist bot, and the Department of Health Services in Australia building a customer services bot.
+
+“Updates are coming, including new bot connectors for Microsoft Teams and Cortana Bing Location, as well as the new QnA Maker service, which takes the most common questions businesses receive and enables even non-developers to build their own bot to answer them with ease,” it adds.
+
+Writing about its wider AI vision, Microsoft notes that 145 million people across 13 countries are now using its cross-platform AI assistant tech, Cortana — debuted on its doomed mobile OS, Windows Phone, but since liberated onto other platforms to seek users elsewhere.
+
+A new Cortana-related feature that’s being launched today in preview by Microsoft is aCalendar.helpservice that will embed its AI assistance into email — as a meeting scheduling tool.
+
+This will work by the user adding Cortana as a CC into a meeting email, and the AI then using natural language processing to extract key details — the meeting length, date and location — from the email text, and create and add a meeting to the user’s calendar.
+
+At this point Microsoft is operating a waitlist for signups of the Calendar.help preview. The forthcoming launch follows its acquisition of AI scheduling tool Genee, back inAugust.
+
+YesterdayMicrosoft also announced it’s making Cortanaavailable to third-party device makers, and opening up the platform to third-party developersso they can integrate their own services in Cortana-powered devices — with audio gear maker Harman Kardon one of the partners named.
+
+Last month electronics giant Samsungannounced it was acquiring Harman for $8BN. So there will soon be a Samsung made Amazon Alexa competitor housing Microsoft’s Cortana AI.
+
+Microsoft reiterated this partnership push today, as a key plank of its mission of making AI “accessible to all”. (Or having more humans feed more data to its AIs, depending on your perspective.)
+
+As Microsoft puts it, “Cortana will be present in a new way, in your home” — which, in plainer English, might translate to ‘as another ear to suck in your spoken word conversation too’.

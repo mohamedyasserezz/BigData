@@ -1,0 +1,9 @@
+Security startup Wallarm raises $2.3M after going through Y Combinator
+
+Back in 2013, wecoveredthe seed funding ofWallarm, a “next gen” web security startup that aimed to protect businesses from application-level hacker attacks. The team of ex-white hat hackers had previously helped Russian companies like Mail.ru, Yandex and Parallels to block security threats. It’s perhaps little surprise that, with Russia being a tough place to raise money these days, Wallarm re-appeared in the U.S.
+
+It’s now raised $2.3 million after going through Y Combinator. The money has come from Partech Ventures, along with Gagarin Capital (which also invested in Prisma, MSQRD), some enterprise security experts and YC partners.
+
+The company graduated from Y Combinator’s S16 batch and claims it became profitable this summer.
+
+Currently, Wallarm has about 100 paying clients, including enterprises such as Automattic, Parallels, Wargaming and Yandex, among others. It’s applying artificial intelligence systems to learn about hacker attacks and replay them back in a safe way so that systems can learn to be more robust.

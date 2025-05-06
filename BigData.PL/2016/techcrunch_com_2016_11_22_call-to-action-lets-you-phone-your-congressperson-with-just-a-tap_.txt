@@ -1,0 +1,35 @@
+Call to Action lets you phone your Congressperson with just a tap
+
+The U.S. election has inspired more people to become politically involved, and one of the most practical and direct ways to have an impact is to directly call your Congressperson to have your voice heard. However scouring .gov websites can be a little frustrating, and today’s current crop of online resources for reaching Congress are often poorly designed or hard to locate. A new online application, Call To Action, wants to help.
+
+With a simple user interface that’s accessible via the desktop or mobile web, Call To Action has a singular purpose: it makes it easy to find your representatives and place a phone call to their office. It even provides simple scripts to help you get started.
+
+However, Call To Action doesn’t currently take a political position, nor is it associated with any political action groups. As evidenced by its purple color scheme, its main goal is to simply make reaching out to your House reps more accessible.
+
+Here’s how it works.
+
+When you launch the Call To Action website, you’re prompted to enter in your home address, and the app will then locate your Congressional representative. As the website explains, because Congressional representatives serve fewer constituents than a Senator, calls to reps are more likely to be answered and hold more relative weight.
+
+These calls can make a difference – staffers write down constituents’ opinions, and this information is tracked by their office.
+
+Remarkably, Call To Action was a weekend project build by a team of ten, some friends and some strangers.Zack Shapiro, an iOS developer previously from Splash, had originally tweeted out the idea, and expressed his interest in building such a utility.
+
+“Things have become increasingly uncertain and little turbulence in the country in the past couple of weeks, and I really think it’s important that people have a voice in all this and not get lost,” Shapiro explains to TechCrunch, as to why he was originally interested in this project.
+
+“Anyone want to help?,” he posted to Twitter, after sharing his idea.
+
+As it turns out, several did. Aiding with the development wasMitul Patel,Danielle Alexis,Lachlan Campbell, andSimran Khosla, whileBen Gold,Buck Wilson,Jeremy Perez-Cruz, andJosh Silvermanworked on design. Shapiro andJeremy Fisherwere focused on product.
+
+Shapiro points to the team’s diversity, composed of different ethnicities – and even one coder who’sonly 15got involved.
+
+The team began working on the app Friday night, and finished at 3 AM on Monday morning. They have since launched it on Product Hunt, and picked up users thanks to some high-profile retweets from former Obama speechwriterJon FavreauandJudd Apatow, among others.
+
+Says Shapiro, the site attracted 21,000 pageviews just yesterday, 17,000 of which were uniques.
+
+He notes that personal data is not being collected, but Call To Action does track which reps are being called.
+
+Given the interest in the service, the team is planning to regroup after the holidays to see where they want to take Call to Action next. Many decisions are still up in the air – like who wants to continue to work the app going forward, whether they should port it to iOS and Android, whether to open source, and whether to work with political groups to help provide scripts and talking points, instead of just names and numbers.
+
+Shapiro, however, thinks open sourcing the code is probably the right move, explaining that it’s important to build tools that are “hackable, extendible and available to people.”
+
+“I think there’s a great case to be made for open source. We’ll figure that out soon,” he says.

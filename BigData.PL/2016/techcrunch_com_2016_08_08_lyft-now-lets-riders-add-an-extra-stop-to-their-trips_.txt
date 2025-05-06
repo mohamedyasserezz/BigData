@@ -1,0 +1,13 @@
+Lyft now lets riders add an extra stop to their trips
+
+Lyft is giving riders a way to make amulti-stop trip, letting them use the Lyft app to add an extra destination for two-stop trips. The logic is simple: With more users, especially city-dwellers, tapping ride-sharing and on-demand services in place of owning a vehicle, it’s more likely they’ll want some flexibility in how those trips are routed, since a multi-errand excursion is a pretty common occurrence for most.
+
+Adding a side-trip is easy enough: You put your first stop in as the destination when requesting your ride, and then tap a new “+” icon next to the destination to add a final drop-off location. The driver will be able to see both stops on their end, and you won’t need to awkwardly mumble that it’s “5 o’clock somewhere” when explaining why you want to hit the liquor store before heading home at 11 in the morning. Of course, you can also do other, more socially acceptable things like dropping off a friend when sharing a trip, or picking up some groceries on the way home.
+
+Lyft will also let you change your mind and remove the stop if you decide against whatever it was you were going to do. All of which sounds very convenient, which is nice, but Lyft is looking to optimize its service by acting on actual data in adding this feature, which isn’t currently offered by its largest competitor Uber.
+
+Most riders do input a destination, Lyft has found, including in 90 percent of Classic, Plus and Premier rides booked. Five percent of those end up being manually updated during the ride, which actually translates to hundreds of thousands of instances of manual multi-stop tripping, so it’s definitely a non-trivial user need. And for fare-splitters, this marries up nicely with the existing ability to divvy up ride costs.
+
+But it’s also a service for drivers – Lyft allows drivers nearing the end of a trip to be matched up with passengers nearby before the trip actually concludes to help them earn more by chaining fares. A last-minute destination change can be frustrating for both drivers and passengers, but now multi-destination helps in driver planning and in avoiding the downsides of queuing close proximity rides.
+
+The ability to add a stop will roll out to Lyft’s mobile apps soon. It’s a small but smart addition, and one that could also easily translate into a core component of a more automated ride-sharing interaction model in the future.

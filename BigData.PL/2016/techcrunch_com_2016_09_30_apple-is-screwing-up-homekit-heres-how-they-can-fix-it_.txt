@@ -1,0 +1,51 @@
+Apple is screwing up HomeKit; here’s how they can fix it
+
+The real magic of the Internet of Things happens when devices work together.
+
+It will be magic when Siri, on your iPhone, can adjust your thermostat or confirm that you locked the back door; when your door lock can tell your sound system you’re home and you don’t even have to push a button to start the music.
+
+That’s not the reality we live in today, because most devices can’t talk to each other. Without a common language, this magic can’t happen.
+
+Apple (throughHomeKit) and Google (throughWorks with Nest) have introduced programs to enable this type of communication. As owners of the two dominant mobile phone platforms, they are both well-positioned to set standards for in-homedevice communication.
+
+And yet, Works with Nest adoption is light years ahead ofHomeKit. Looking at the numbers:Apple’s websitecurrently boastsHomeKit-compatible devices from 7 manufacturers. TheWorks with Nestpage shows 95.
+
+Nest connects to washing machines, pet feeders and baby monitors.HomeKitworks with Philips lights and not much else.
+
+Apple’s been making devices for a long time. They’re in alot more homes than Nest, and their retail stores should give them a tremendous advantage in attracting partners. Also, connecting to iPhone should be easy. So why does Nest have an order of magnitude more device partners?
+
+The fundamental difference in approach is one of hardware versus software. Apple requires hardware integration. Nest does integrations in the cloud.
+
+Our team built one of the first devices that connected to Nest. The integration and certification test process took one engineer a few days to complete. Nearly everything happens in the cloud, not on the user’s local Wi-Fi network.
+
+It didn’t hurt that we were well-supported by the team at Nest, or that their documentation is publicly available and excellent. Or thatFirebaseis awesome. (Google actuallyacquiredFirebase — maybe just to make Works With Nest even better?)
+
+Apple does things totally differently.
+
+You have to apply for access to the MFi developer program to even look at the documentation forHomeKithardware integration. Seriously, you have to wait weeks for approval just to read the HomeKit device requirements.
+
+Apple requires an authentication chip be added to your hardware that you can only buy from them. Existing products can not be connected toHomeKitwithout this change to their electrical design.
+
+You also have to build your product with one of their approved manufacturers. If your current manufacturer is not on the list, you must move your line to a new factory. You have to test and certify your device in one of Apple’s approved labs. I understand there are only a few of them  —  a friend here in San Francisco had to send his devices to the U.K. for testing.
+
+I’ve even heard that Apple reviews your packaging to make sure the colors don’t clash with their branding schemes. I’m honestly choosing not to believe that that’s true —  but maybe it is.
+
+Most importantly, Apple requires much of the device-to-device integration to happen on the local Wi-Fi network  —  rather than talk to servers, your device talks to an iPhone through the local Wi-Fi network, and the iPhone talks to the other devices. That means thatHomeKitlogic must be baked into the firmware on the device itself, and any future modifications or extensions of the system mean updating that firmware.
+
+This is not how it’s supposed to work in the days of the internet.
+
+Devices should be connected to the cloud. In the cloud, servers can talk to each other. We can fix bugs without risky over-the-air firmware updates.
+
+To be clear, there is a place for non-cloud connections between devices. We used to ship a music synchronization device, and the low-latency communications we needed required local communication. Nest offers the Weave platform for local communication between devices, too. Bluetooth devices can’t connect to a Wi-Fi access point, so they need to communicate with a phone directly.
+
+But there’s no reason torequireintegration at the device level when you can do it in the cloud.
+
+It’s strange to me that Apple can get this so wrong. It’s like in a world with email, they’re asking us to use a fax machine.
+
+My first thought is that they might want to limit the quantity of devices to improve the average quality. If they make it expensive enough, maybe only the best devices will get through.
+
+The Amazon reviews onFirstAlert’sHomeKitsmoke detectorsuggest otherwise. In today’s day and age it’s often not the rich companies building the best devices.
+
+Maybe it’s just that Apple fundamentally still thinks like a hardware company. That is, when they think of integrations, they instinctively begin with lists of hardware requirements.
+
+Whatever their goal, the end result is thatHomeKitis going to fail unless Apple changes its approach. I hope they do. God knows Nest could use a healthy competitor.

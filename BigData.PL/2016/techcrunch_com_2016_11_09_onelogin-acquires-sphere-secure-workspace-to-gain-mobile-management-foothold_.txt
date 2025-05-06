@@ -1,0 +1,17 @@
+OneLogin acquires Sphere Secure Workspace to gain mobile management foothold
+
+OneLogin, a company that provides identity management in the cloud, has become rather acquisitive over the last year buyingCafeSoftlast December andPortadiin June. Today it announced it was acquiringSphere Secure Workspaceto add mobile device management to their identity-driven security model.
+
+“We are getting the hang of acquiring companies and propelling our roadmap very rapidly,” OneLogin CEO and co-founder Thomas Pedersen told TechCrunch.
+
+If the Portadi purchase was about securing the desktop, this one takes aim at mobile devices, Pedersen explained. Sphere provides a container approach to mobile security where your work content is separated from your personal content inside a virtual container on a single device. This is not a new approach by any means, but it gives OneLogin entree into the light-weight mobile device management space.
+
+In a BYOD world, employees are no longer issued company cell phones and instead bringing their own. This has created a challenge for some IT departments when it comes to securing work content. If an employee loses a device with company work product stored on it, the only real way to protect it is through a remote wipe, which erases pictures and other personal content along with the work stuff — hardly an ideal scenario.
+
+With Sphere, the company simply blows away the container when an employee leaves a company or loses a device, and the person’s other content remains intact. It gives the employee access to work content in a more secure way with a single log-in, while protecting the personal content.
+
+Today, OneLogin customers have to log into a web portal to gain access to applications under the OneLogin single-sign-on umbrella. The acquisition will enable employees to download a virtual container with all of the applications from the web portal while remaining signed onto all of those apps with OneLogin.
+
+OneLogin is careful to distinguish this approach from traditional MDM vendors like MobileIron and VMware AirWatch, which are designed for more comprehensive device management. The company sees its lighter weight approach as a compromise that gives companies some control without a lot of overhead.
+
+It’s worth noting that OneLogIn’s cloud identity management competitor, Okta,took a similar approach to securing mobile devices in 2014. OneLogin hopes to leverage the Sphere technology to deliver a mobile product for managing identity due out early next year.

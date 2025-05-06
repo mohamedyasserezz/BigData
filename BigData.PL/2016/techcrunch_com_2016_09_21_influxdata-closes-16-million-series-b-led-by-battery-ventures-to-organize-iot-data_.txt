@@ -1,0 +1,21 @@
+InfluxData closes $16 million Series B led by Battery Ventures to organize IOT data
+
+Imagine for a moment that you’reriding in one of John Zimmer’s proposed autonomous sleeper carsand you’re fast asleep on a road trip across the state. All of the sensors on the vehicle are collecting data so that standard components like the engine and steering systems don’t kill you. At sub-second intervals, some believe your car couldgenerate nearly a gigabyte of driving data every second. That means a single eight-hour road trip results in 28 terabytes of data. All of this data has to be tracked, managed, and analyzed. Traditional database solutions like Oracle and SQL are just not cut out for the job.
+
+With new capital,InfluxDatawants to set themselves up as the go to solution for this compounding problem. The company just closed a $16 million Series B led by Battery Ventures with participation from Mayfield, Trinity Ventures and Bloomberg Beta, to bankroll expansion efforts focused on marketing and customer acquisition.
+
+In more specific terms, InfluxData deals with the nasty problem of what’s called time-series data. Traditional SQL databases can quickly become bloated and overwhelmed when tasked with doing continuous queries in real-time. Reliable technology that supports the construction of custom monitoring tools is hard to come by and is only becoming more in vogue with time.
+
+This is important because it’s not just autonomous cars generating a bone crushing amount of data. Commercial internet of things solutions monitoring things like the pressure in water pipes and seismic data in oil fields are also breaking traditional databases for storing and analyzing time-series data.
+
+InfluxData knows it’s not the only game in town. SaaSsolutions like Datadogcan serve a similar purpose in addition to more general time-series database solutions like KairosDB.
+
+“We want those SaaS providers to use us underneath,” said Evan Kaplan, CEO of InfluxData.
+
+The value proposition of InfluxData’s core platform, InfluxDB, is that it’s designed for people to write on top of it. The platform has been implemented across nearly 40,000 unique sites.
+
+Today the technology is powering solutions at companies like Nordstrom, eBay, and Solar City. Mozilla has implemented InfluxDB for DevOps so that the company can have access to performance metrics on the Firefox browser in real-time.
+
+“What’s special about InfluxDB is that it’s easy to consume,” said Dharmesh Thakker, a partner at Battery Ventures who will be joining the InfluxData board. “It shouldn’t take days and months to set up or people lose interest.”
+
+Notably, InfluxDB is an open source technology. This means it hasn’t directly supported revenue growth, but it has helped to build out a developer community in a relatively short period of time. With a community built out, and the company’s TICK stack built out to service the collection, storage, visualization, and processing of time-series data, additional monetization opportunities are emerging. InfluxEnterprise, the company’s commercial clustering product, even further reduces the time necessary to deploy and scale. Similar paid products that sit on top of InfluxDB will power the company into the future.

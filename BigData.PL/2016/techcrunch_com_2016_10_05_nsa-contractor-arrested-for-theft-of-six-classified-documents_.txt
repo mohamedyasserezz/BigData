@@ -1,0 +1,23 @@
+NSA contractor arrested for theft of six classified documents
+
+A National Security Agency contractor was arrested in August for the theft of classified material, which reportedly contained hacking codes for government systems in Russia, China, North Korea and Iran. The charges against Harold Martin III, a 51-year-old contractor for Booz Allen Hamilton, became public today: He’s facing counts of theft of government property and removal or retention of classified documents.
+
+Martin’s home was searched on August 27, according to thecriminal complaintagainst him, and investigators found physical and digital documents that were marked as top secret. Six of the documents were determined to be particularly sensitive.
+
+Martin agreed to be interviewed by investigators, the complaint says, and at first denied but later admitted to taking the documents to his home even though he knew they were classified.
+
+The documents found at Martin’s home included six classified documents that the Justice Department says were created by a government agency in 2014. “These documents were produced through sensitive government sources, methods and capabilities, which are critical to a wide variety of national security issues,” the DOJ said in a statement. “The documents have been reviewed by a person designated as an original classification authority, and in each instance, the authority has determined that the documents are currently and properly classified as Top Secret, meaning that unauthorized disclosure reasonably could be expected to cause exceptionally grave damage to the national security of the U.S.”
+
+Martin’s case is already drawing comparisons to that of Edward Snowden, another former Booz Allen Hamilton contractor who famously leaked NSA documents to journalists in 2013. However, it’s not clear that Martin had any intention of making public the documents he took. His lawyers toldThe New York Times, “We have not seen any evidence. But what we know is that Hal Martin loves his family and his country. There is no evidence that he intended to betray his country.”
+
+The claims that Martin stole exploits for adversarial government systems also calls to mind the recentShadow Brokers leak, in which malware attributed to the NSA was published online.
+
+At the time, experts blamed the leak on Russia and speculated that an NSA employee or contractor had accidentally abandoned the code on a command and control server after staging an attack, where it was then discovered by Russian intelligence workers. But the timing of Martin’s arrest in late August — the Shadow Brokers files appeared online roughly two weeks before Martin’s home was searched — brings into question whether he was the source of the leak.
+
+It’s also possible that Martin was not involved, but investigators looking into the Shadow Brokers leak discovered that Martin had taken home similar files.
+
+Regardless of Martin’s motivation, the removal of classified documents is a difficult moment for NSA and Booz Allen. Both organizations have tried to repair the damage suffered in the wake of the Snowden disclosures and prevent similar leaks from recurring. But Congress recently found that the NSA has not done enough to stop such disclosures. In a report on the Snowden disclosures released last month, the House Permanent Select Committee on Intelligence wrote, “NSA, and the IC as a whole, have not done enough to minimize the risk of another massive unauthorized disclosure.” A recent Department of Defense Inspector General report also found that NSA was not working quickly enough to improve security post-Snowden.
+
+Update: Booz Allen provided the following statement.
+
+When Booz Allen learned of the arrest of one of its employees by the FBI, we immediately reached out to the authorities to offer our total cooperation in their investigation, and we fired the employee. We continue to cooperate fully with the government on its investigation into this serious matter. Booz Allen is a 102-year-old company, and the alleged conduct does not reflect our core values. Our employees continue to support critical client missions with dedication and excellence each day. Their professionalism, values and ethics are what define our firm.

@@ -1,0 +1,33 @@
+SearchInk — Unlocking the handwritten past, and present, with machine learning
+
+Today, millions — more likely billions — of digitized documents are sitting on servers with little chance of anyone being able to search their contents without physically reading them. To do so would take more lifetimes than any of us will be granted. Why? Because they were handwritten. Type-written documents can be OCR’d, but handwriting remains a fiendishly difficult problem. And I’m talking about hand-written documents both contemporary and historical. Imagine not only being able to unlock that vast historical knowledge but also interrogating handwritten business and legal notes, literally today. This wealth of information is just waiting for the right technology to come along.
+
+That’s exactly what an innovative startup out of Berlin plans to do.
+
+SearchInk, which has combined machine learning with “multi-writer handwriting recognition” and semantic labelling of handwritten documents, has now raised $4.5 million / €4.2 million in seed funding. The investment comes from Berlin-based investment bank IBB Berlin, as well as individual investors (including Michael Schmitt, former Engineering Director at Google Switzerland).
+
+But we’ll have to wait a bit for this magic to appear. Early next year, the company plans to announce both a “new site launch and business partnership,” thus making the technology accessible to audiences for individual use, as well as academia and corporates.
+
+SearchInk’s Handwritten Text Recognition (HTR) technology converts any handwritten text into a machine-readable format. The company claims it can convert illegible writing into words and letters which are recognizable and processable by computers. SearchInk’s algorithm also learns how to understand and analyze a document as a whole, the way a person would, and therefore find relevant content quickly and accurately.
+
+Handwriting is effectively “the last Everest” of the documented world.
+
+Assuming it can deliver what it promises, SearchInk’s platform could open up new frontiers in data analysis, business processes and research, taking its place alongside current searchable sources, such as news, images and video content. That would catapult it into the ranks of the most interesting startups in the world today.
+
+Co-founder Sofie Quidenus (pictured) says: “Fundamental to SearchInk is that the software is being developed to be self-learning, which will have a significant impact on the scalability and ongoing optimisation of the product. This sets SearchInk apart, as rather than teaching the algorithm each different type of handwriting and new document layout, the software develops by itself: the ultimate focus being unsupervised machine learning.”
+
+Based in Berlin, SearchInk was founded in 2015 by Quidenus, along with co-founders Eric Pfarl, CIO; Stephan Dorfmeister, CFO; Martin Micko, COO; and Harald Gölles, CTO. Quidenus previously founded Qidenus Technologies, a company that specializes in creating robotic book scanners, after graduating from University of Economics in Vienna.
+
+She and her team realized during this first startup that digitized handwritten text was not searchable, so set about solving the problem.
+
+Peter Read, advisory board member at SearchInk and Managing Director atVitruvian Partners, says the platform could “open up new efficiency gains for the automation of business process, but it will also provide deeper insights into data collections provided through open data initiatives.”
+
+SearchInk is also cooperating with UPV Universitat Politècnica de València and the Computer Vision Center (CVC) in Barcelona.
+
+So could the platform produce an app that could be used for taking notes on an iPad / iPhone, etc. and have it read the handwriting automatically?
+
+Quidenus says: “In the mid-term this is clearly possible, however our first step is a focus on high volume / big impact B2B type environments where the application of HTR can cut substantial costs and increase efficiency.”
+
+It’s a tantalizing future, and I for one certainly look forward to the inevitable consumer applications that could come from SearchInk.
+
+Photo by Andreas Jakwerth

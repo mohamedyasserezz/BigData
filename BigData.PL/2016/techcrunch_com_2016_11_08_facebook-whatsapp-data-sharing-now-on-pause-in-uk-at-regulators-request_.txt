@@ -1,0 +1,43 @@
+Facebook-WhatsApp data sharing now on pause in UK at regulator’s request — and across Europe
+
+Acontroversial decision this summerby Facebook-owned messaging giant WhatsApp to share data on its users with its parent company — including for advertising purposes — continues to attract the ire of European regulators.
+
+Now Facebook has agree to pause data sharing in the UK, following an investigation by data protection watchdog, the ICO. Although TechCrunch understands this pause only applies to sharing user information for products/ads purposes; WhatsApp user data is still being shared with Facebook for fighting spam and other business intelligence purposes (such as deduplicating the number of users across different Facebook-owned services).
+
+Update:We also understand the data-sharing pause applies across all 28 European Union Member States at this point.
+
+In astrongly wordedblog post detailing how its probe has been progressing, UK information commissioner Elizabeth Denham writes: “I had concerns that consumers weren’t being properly protected, and it’s fair to say the enquiries my team have made haven’t changed that view. I don’t think users have been given enough information about what Facebook plans to do with their information, and I don’t think WhatsApp has got valid consent from users to share the information. I also believe users should be given ongoing control over how their information is used, not just a 30 day window.”
+
+“We’ve set out the law clearly to Facebook, and we’re pleased that they’ve agreed to pause using data from UK WhatsApp users for advertisements or product improvement purposes,” she adds.
+
+Denham also hits out at “vague terms of service” for generally failing to give consumers “the protection we need”.
+
+The updated WhatsApp privacy policy offered users an opt out of sharing their data with Facebook but default opted them in — unless they clicked to read the terms more closely and turned the sharing option off, having understood what the toggle represented. Users were also given a 30-day window to revoke consent via the settings in the app — after which they would be unable to withdraw consent. None of which has pleased the ICO.
+
+In theblog postDenham says the ICO has asked Facebook and WhatsApp to sign an undertaking committing to “better explaining to customers how their data will be used, and to giving users ongoing control over that information”, and goes on to warn the company may face enforcement action if it does not alter its approach.
+
+“We also want individuals to have the opportunity to be given an unambiguous choice before Facebook start using that information and to be given the opportunity to change that decision at any point in the future. We think consumers deserve a greater level of information and protection, but so far Facebook and WhatsApp haven’t agreed. If Facebook starts using the data without valid consent, it may face enforcement action from my office,” she continues.
+
+In a statement on the ICO’s action, a Facebook spokesperson rejected criticism it is not being clear enough with WhatsApp users about the data-sharing arrangement, telling TechCrunch: “WhatsApp designed its privacy policy and terms update to give users a clear and simple explanation of how the service works, as well as choice over how their data is used. These updates comply with applicable law, and follow the latest guidance from the UK Information Commissioner’s Office.”
+
+Facebook’s spokesperson added: “We hope to continue our detailed conversations with the ICO and other data protection officials, and we remain open to working collaboratively to address their questions.”
+
+TechCrunch understands the company has had multiple meetings with the ICO about the matter, as well as also receiving questions from several other European regulators who also have concerns about the arrangement. WhatsApp-Facebook data-sharing is on pause in all 28 European Union Member States at this point.
+
+InSeptemberFacebook and WhatsApp were ordered by a local data protection regulator in Germany to stop sharing data on users. Facebook said at the time it would be appealing that order.
+
+TheSpanish DPAhas also stated publicly that it intends to investigate the data-sharing arrangement.
+
+The data transfer arrangement is now beingprobed by the European Union’s data protection watchdog group, which is made up of representatives from all EU Member State DPAs. The Article 29 Working Party said in October its members (such as the ICO) would be acting “in a coordinated way” to target any problems they identify, and to co-ordinate any enforcement action they may deem necessary.
+
+Denham said the ICO intends to keep “pushing”, along with its fellow European DPAs, for WhatsApp users to be provided with more information about how data shared with Facebook will be used; as well as for a clearer description of the choice they have to share or not to share; and for users to have an ongoing choice to revoke consent.
+
+In her blog post she also flags a wider data protection concern related to companies triangulating user data via acquisition — a concern that has also beenvoiced by the EU’s competition commissionerthis year. And raised mostrecently as an objection to the Microsoft-LinkedIn acquisition.
+
+“It’s a particular concern when company mergers mean that vast amounts of customers’ personal data become an asset to be bought and sold,” writes Denham. “We’re seeing situations where companies are being  bought primarily for this data, and when it is combined with information the purchasing company already holds, there’s a danger that consumers will have little control as datasets are matched and intrusive details revealed.”
+
+She says the regulator is planning to publish a report on this early next year.
+
+“It’s a problem that is broader than data protection, and we’re speaking with industry, competition regulators and consumer groups to see how we can make people clearer on the law. We’ll be publishing a report on this in the new year, outlining our concerns and discussing solutions.”
+
+This post was updated to clarify that only data sharing for ads/product purposes has been paused at this stage, and that the pause applies to all EU Member States

@@ -1,0 +1,65 @@
+Coding needs a new youth movement
+
+Let’s face it — coder or not, at one point or another you’ve thought of tackling web design. Or mobile app development. Or database querying. Or something else from the evolving list of savvy, modern languages out there. (Yes, there arehundreds and hundreds.) For non-coders, the lack of control and reliance on developers plays into the pressure to pick up on at leastsomeform of programming — complex or not.
+
+There is no doubt that programming has become integral to any founder. Whether or not you will become the CTO for your business, the pragmatic mindset and residual benefits that arise are hard to dispute:
+
+The perfect balance between pragmatism and creativity, logic and artistry parallels the dynamism required of a startup.
+
+It’s a difficult challenge, no doubt, but the setbacks multiply exponentially for teens learning to hack. Coding in youth is, in many ways, broken in the very areas commonly thought to be its strengths. Why is it that only8 percent of STEM graduatesmajor in computer science when71 percent of new STEM jobsare in the very same field?
+
+With such expansive benefits to the modern, technically aware entrepreneur, any threat to the proliferation of computer science should be treated as a threat to the very health of future startups themselves.
+
+Trust me. I was in that very same befuddled mindset a few months ago. At 18 years old, I had takenAP Computer Sciencea couple of years before, but my coding experiences — and more importantly my time — shrunk to virtually zero. With my mind racing over the fact that my entrepreneurial cohorts had been programming for many years, I knew something had to change.
+
+Over six months of fruitful experimentation with Code School, a stack of daunting tutorial books and a now loaded Dunkin’ Donuts reward card, I finally feel comfortable calling myself a hacker.
+
+Yet, in a class of more than 500 students (with many who took the same AP Computer Science class as me), I can count on one hand all of those who even occasionally code. Why, in a world brimming with tech jobs (525,293 open jobs, to be exact), do many students shy away from programming? Why, to put it frankly, is teen hacking in peril?
+
+Source:Code.org
+
+The educational trap
+
+Where do I start? I attended a highly competitive public high school — top 1 percent nationally in test scores and funded enough to lend Surface Pros to all students. However, gracing the computer science course catalog was AP Computer Science. Period.
+
+As I pointed out in aprevious TechCrunch article,only 5 percentof U.S. high schools offer AP Computer Science, andonly 31 statesactually allow computer science to count toward high school graduation. Public education systems treat computer science as a second-rate elective only included to deceptively boast about “infusing STEM offerings” into their curriculum.
+
+Even more problematic, the few programming classes thatareoffered remainterriblyconstructed. Take AP Computer Science (designed by College Board) for example. Why were only1.09 percent of all 2015 AP examstaken in computer science?
+
+The course focuses exclusively on Java — a back-end, strongly typed, object-oriented language. While I am in no way disparaging the utility of Java (which, in its defense, demonstrates many core programming concepts), to a non-technical student,introductory Java is boring.
+
+Java is completely back-end; by the end of my AP course, we had learned how to create a Celsius to Fahrenheit converter, set up a rock/paper/scissors game (all in plain text, sadly) and create a tip calculator. No graphical design. No user interface. No CSS styling. The course description goes as far as toinclude “g(h(x))”in its discussion.
+
+By the end of the year, most of my peers resigned programming to nothing more than redundant lines of logic capable of achieving at most elementary data operations. Even worse, the exam requires all code to bewritten by hand.
+
+Where was the web design? The front-end frameworks? Beginners — especially modern youth — desire something tangible, something visual that results from their work. Indeed,65 percent of humans are visual learners. Producing only plain text bores today’s teens and prematurely scares many away from the field. Instead, classes should focus on front-end web design — HTML, CSS, JavaScript — to show teens the practical power of code and how it can lead to production-ready applications.
+
+The bastion of inadequacy
+
+You, against all odds, evade the grasp of dry, numbing high school computer science courses and plan to learn on your own. Wait! There’s another problem. Literallyeveryoneelse who codes is better than you are.
+
+Sure, thegrowing wave of hackathonspromotes the inclusion of “absolute beginners,” but let’s be honest — do you really want to join a team of five- or 10-year developers who could finish in 30 minutes what took you the entire 24-hour hackathon? Not surprisingly,most (77 percent) hackathon attendeesconsider themselves “developers.”
+
+If you don’t open up a code editor by middle school, you’re already behind. In a Google employee survey,98 percent of computer science majorsreported prior exposure to the field before college. In high school, I was scrambling through tutorial videos, dense books and coding blogs, constantly worrying:will I ever be “good enough” in programming?
+
+Psychologically, learners are left doubting how any basic knowledge picked up early on could even come close to translating into an industry-standard website. (Can you honestly see a smooth shift fromthis sitetothis one?) Even more dangerous, one thought always lingers:when will playing catch-up ever stop?
+
+Hackathons, online forums (i.e.Stack Overflow) and free tutorial websites do nothing to stave off this fear. Rather, they introduce foreign (seemingly impossible) concepts, developers who appear to have eons more experience than you and increasing hesitancy over whether to ask a super basic question that might annoy your peers.
+
+In the high-stakes, competitive landscape in which youths find themselves (with49 percent of high school studentsreporting high levels of daily stress), we’re conditioned to focus only on activities in which we’ll have considerable success. This breeds heightened anxiety and takes away from the collaborative spirit on which that coding is built.
+
+Chaos on the web
+
+A major component of today’s hacking atmosphere is self-learning — scouring the web for language documentation, blogs and videos. Just as with entrepreneurship, “The programming world is always evolving, and in order to keep relevant and improving, the mindset of a beginner is really important,” asMichelle Sun points out.
+
+This is easier said than done foractualbeginners who have no idea where to start. Especially when learning independently, there’s no one reliable place to delve deep into web development. Sure,Codecademy, Code School and countless others offer a nice, surface-level understanding of what the <a> tag does and the difference between a class and id in relation to CSS, but these are mere baby steps.
+
+As these resources are catered to complete beginners, they provide no easy transition into more complex concerns of programming. Indeed, theknee-deep drifters— those understanding the core basics but nothing more — are stopped at an impasse. To get from A (bare fundamentals) to C (professional development) requires a stop at B — yet online resources seem to completely ignore it.
+
+For youths in particular, an endless thirst for knowledge matched against the frustration of not knowing what to do next may lead them to explore other, more straightforward, fields instead — and give up on computer science.
+
+Coding isn’t dead among youths. In fact,54 percent of students like computer science “a lot”(roughly 15 percent more than any subject other than art). But it most certainly is in peril. There are countless articles on how computer science needs to have a larger presence in schools, hackathons lauding their “all skill levels welcome” philosophy and evenan initiative by the White Houseon exposing more students to code.
+
+Yet this has always assumed that students who have the opportunity to take programming classes will fall in love and end up with a comfy STEM job. This argument mistakenly valuesexposureahead ofapproach.
+
+A new environment of practical hands-on (front-end) school courses, a more welcoming attitude to newcomers and clearer direction for learning beyond the shallow basics would go a long way in this youth-led digital revolution.

@@ -1,0 +1,21 @@
+Google’s Cloud Platform will get GPU machines in early 2017
+
+Google’sCloud Machine Learningservice launched earlier this year and, already, the company is calling it one of its “fastest growing product areas.” Today, the company is announcing a number of new features for Cloud Machine Learning users and developers who want to run their own machine learning workloads in Google’s cloud.
+
+Unlike its competitors, like AWS and Azure, Google never offered developers access to virtual machines with high-end graphics processing units (GPUs). Machine learning (as well as a number of other specialized workloads, mostly in the sciences) heavily depends on GPUs to power the core algorithms that have made this technique so successful.
+
+Sadly, you’ll have to wait a bit before you can get started with running your own machine-learning workloads on the Google Cloud Platform. These new GPU-centric machines won’t launch until early 2017. Until then, Google won’t release pricing either.
+
+It’s a bit of a puzzle to me why Google didn’t previously offer this kind of machine, especially given its own focus on machine learning and the fact that its competitors like Azure (which signed apartnership with OpenAIearlier today) and AWS already offered it.
+
+Even then, you will still be able to use Google’s existing Cloud Machine Learning service (in combination withTensorFlow) to build your own deep learning models, of course, but having full access to these new servers will add dimension of flexibility to Google’s existing services that isn’t currently available on its platform.
+
+While Google offers its service for building custom machine-learning models, it also provides developers with a number of pre-trained models for machine vision, speech-to-text conversion, translations and extracting information from text. Thanks to its own advances in machine learning — and the fact that it now even builds its own custom chips, Google today announced that it is reducing the price for using the Cloud Vision API by around 80 percent. In addition, the service is also getting better at detecting company logos, landmarks and other objects.
+
+With this update, the Cloud Natural Language API for extracting information from text is coming out of beta today. The service now also features improved syntax analysis, which allows it to detect text features like number, gender, person and tense. Google says the Natural Language API is now also able to recognize more entities (and with higher accuracy) and offers improved sentiment analysis.
+
+Google’s translation services for consumers also now uses Google’s custom chips, and today the company is bringing this capability to developers with the launch of a Premium edition of the Cloud Translation API (previously known as the Google Translate API). This API supports eight languages (English to Chinese, French, German, Japanese, Korean, Portuguese, Spanish and Turkish) and 16 language pairs, with more languages coming in the future. For these languages, the new premium API promises to reduce errors by 55 to 85 percent.
+
+Google argues that this new API is meant for long-form translations, while its existing “standard edition” service, which is available for 100 languages, is meant for short, real-time conversational text.
+
+Completely new to the platform is the Cloud Jobs API. This is a bit of an odd one, because it’s a highly specialized API that helps businesses better match jobs to candidates. The API looks at job titles, skill and other signals to match job seekers to the right positions. Dice and CareerBuilder have already experimented with the API to potentially improve their own services (which often depend on basic searches more than anything else). This new API is now in limited alpha.

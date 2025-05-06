@@ -1,0 +1,19 @@
+PayPal partners with MasterCard for store payments
+
+PayPal this morningannouncedan expanded partnership with MasterCard aimed at helping the payments service become a more universally accepted checkout method at stores. The partnership, which follows a similar deal with Visa earlier this year, will make MasterCard a clear payment option within PayPal, increase PayPal’s presence at point-of-sale, and will enable Masterpass (MasterCard’s digital wallet) as a payment option for PayPal’s Braintree merchants.
+
+In July, PayPal buried the hatchet withVisaas well, in a deal that makes PayPal an option when people pay in stores with their smartphone. The partnership also helped PayPal’s Venmo service, as its users could now instantly withdraw money when they linked their Venmo account to their Visa debit cards. MasterCard cardholders will now have a similar ability to make instant transfers on Venmo, via MasterCard Send.
+
+With MasterCard now on board with PayPal, the goal is to help PayPal establish more traction at point-of-sale, where it’s facing increased competition from tap-and-pay rivals like Apple Pay, and to a lesser extent, Android Pay and Samsung Pay. Some stores have also implemented their own digital payments service, like Starbucks,Walmart, andmore recently, CVS.
+
+PayPal says it will increase its presence at stores by allowing customers to use their tokenized MasterCard in their PayPal Wallet to make in-store purchases at more than 5 million merchants around the world where contactless payments are supported.
+
+In addition, under the expanded partnership between PayPal and MasterCard, consumers and small businesses will be able to instantly cash out funds held in their PayPal account to a MasterCard account. PayPal will also receive certain financial volume incentives, as it did with Visa, and MasterCard will no longer charge PayPal the digital wallet operator fee.
+
+Where before PayPal encouraged customers to link to their bank accounts as a means of routing around the large payment networks, like Visa and MasterCard, these new deals see PayPal treating them equally to that option. PayPal will no longer encourage MasterCard cardholders to link their bank accounts, it says, and will now present MasterCard as a clear payment option in its Wallet, while also making it possible for consumers to set their MasterCard as their default payment method.
+
+Masterpass will also be made a payment option for those merchants who process payments via Braintree, a PayPal-owned company. This will let merchants integrate Masterpass into their checkout experience more easily. (Thanks to the earlier deal with Visa, Visa Checkout was separately announced today as also coming to Braintree.)
+
+The two companies expanded a prior relationship, too, by agreeing to a multi-year extension of the PayPal Business Debit MasterCard program in the U.S., which follows a deal to extend the PayPal Extras MasterCard co-branded credit card program.
+
+While an important strategic move for PayPal in terms of increasing its payments service at point-of-sale and online, where it faces newer rivals like Stripe, making deals with Visa and MasterCard could also impact PayPal’s profits in the short-terms. Bank transfers are free, but working with the payment networks means PayPal will be paying fees. These concernscaused PayPal’s stockto drop when the Visa deal was announced, but as of this morning the stock wason the rise.

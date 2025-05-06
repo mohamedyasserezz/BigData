@@ -1,0 +1,81 @@
+For everyone
+
+The imagination is a powerful thing, and what it creates may in fact be powerful beyond our imagining.
+
+That was certainly the case with Sir Tim Berners-Lee and the World Wide Web, the creation of which is documented in a new short film, “Foreveryone.net,” which was directed by Jessica Yu and is currently showing at the Seattle International Film Festival. I sat down ahead of the film’s debut with Yu and Berners-Lee, who, in his inimitable manner, held forth on topics from encryption and social media to the need to, as he called it, “re-decentralize the web.”
+
+The film traces the story of the web from its prehistory as a twinkle in Berners-Lee’s eye to the various dangers it faces today: surveillance, the loss of net neutrality and an excess of commercialization and centralization. It should be absorbing for anyone not aware of this history, and it’s a good refresher for those of us who are.
+
+“I thought that it’s crazy many of us don’t think about where the web came from and what a miracle it is that it exists in the form it does,” Yu said in introducing the film, which would premiere an hour later.
+
+That was his reply when I asked what he perceived the imminent threats to the web to be. The use of old exploits to get at low-hanging XP systems notwithstanding, future threats to the web will require a little ingenuity to figure out — not least of which because the stakes are so high, Berners-Lee said.
+
+“Because of the nature of a medium that’s used by pretty much everybody and pretty much everything, to be able to control it is just ridiculously powerful.”
+
+And not in simple terms, either. Censorship or fast lanes, for example, are minor threats compared to that of pervasive surveillance.
+
+“There are countries in the Middle East where they love you to go to the opposition website. It’s just that when you do, you and your friends are marked and you’ll disappear in the middle of the night,” said Berners-Lee. “The ability to understand which people are veering in which particular direction is a tremendously powerful tool.”
+
+Positions of leverage, in the guise of (and perhaps even in the spirit of) philanthropy also constitute danger.
+
+“Maybe it’s a social network that decides it’s going to go to India — and it’s going to be the entire web for everyone in India — but end up leaving the whole country beholden to one particular commercial concern for their news, and the selection of what they do every day.”
+
+The real threat is not in the possibility of a specific kind of authoritarian control, but the subtler, more insidious manners of control can create outcomes as bad or worse as the rest.
+
+“As a journalist,” he said, pointing in my direction (perhaps he thought he saw a journalist behind me), “spotting these things is part of your job, but also having the imagination to realize what new threats there could be.”
+
+I asked Berners-Lee whether he felt that the titans of the tech industry exert an undue influence on the way the web functions — whether they were, simply by the scale of their operations, a problem for the open web.
+
+“You’re talking about the age-old story of capitalism and monopoly,” he began. “If you have a system that rewards people for gaining market share, when they get a very large portion of the market share, then to a certain extent everybody suffers because innovation drops off.”
+
+So far, so ordinary, at least for the last century or so.
+
+“The monopoly we’re concerned about can switch very quickly.”
+
+“But people were very worried about Netscape,” Berners-Lee pointed out. “And then suddenly they stopped worrying about Netscape, and they started worrying about Microsoft — because it controls the operating system as well as the browser. Then they decided the browser doesn’t matter. It was actually about the search engine people used. And then they realized that, actually, the search engine doesn’t matter because people only use it to go to one social network, and people are spending all their time there.”
+
+The pattern is clear: “It’s reasonable to worry about monopolies when they happen, because they’re an impediment to innovation and fun and creativity. But also notice that the monopoly we’re concerned about can switch very quickly.”
+
+It’s hard to imagine thinking of the Google or Facebook monopolies (or however you’d like to call them) as quaint five or 10 years from now, but by that time we may be worrying about VR agents and IoT viruses literally tracking our every move inside our homes. The internet and the web are evolving fast, and locked into co-evolution with them are the bad actors who have infested, dominated and ultimately improved them.
+
+The question of encryption is as close to a settled one as it gets in the tech community. You couldn’t ban it if you tried, and legislation to do so has been so wrong-headed as to be risible even among the frequently ignorant ranks of Congress. But knowing what we need is not the same as creating the systems by which those needs can be delivered.
+
+“This is something we have to get right,” Berners-Lee said. “Yes, in America, no government can get away with preventing people from sending encrypted messages.”
+
+But as with surveillance and censorship, the high-handed tactics of the Burrs and Feinsteins of the world are not the ones we need to watch out for. Outlawing encryption outright may be impossible, but by abstracting the question a bit, you find plenty of ways to get similar results without raising those pesky human rights questions.
+
+“In China, you used to have to get a license to have a modem,” he said. “Or, for instance, you could make owning encryption software illegal,” substituting state-sponsored (and, naturally, backdoored) systems as a free service to the people.
+
+Berners-Lee is sympathetic to the needs of authorities, but fighting crime is a red herring, he suggested.
+
+“We do have to talk about the powers we give law enforcement, and we do have to give them the power to fight serious crime. But the more important discussion is, who guards the guards? Who is looking? Who are they responsible to?
+
+“Building those structures is complicated,” he said. “Figuring out how to build the structures which will give us freedom as well as giving us the rule of law.”
+
+https://vimeo.com/168962105
+
+To entertain Yu and Berners-Lee, I showed them the book “Enquire Within Upon Everything,” a sort of cross-listed almanac and micro-encyclopedia that is credited as being one of the inspirational documents for the web’s hyperlinked structure.
+
+I asked whether there was something out there that might perform a similar role for the next phase of the web — something new and strange like bitcoin, for instance.
+
+“The people who are interested in decentralized ledgers, they’re motivated by a concern that the web has ended up looking centralized,” said Berners-Lee, “which is kind of weird, because it was designed to be decentralized.
+
+“They’re not really social networks, they’re silos.”
+
+“Now people feel very disempowered,” he continued, “because the end result is that they’re telling their computer who their friends are, and who’s in the photographs, and planning things and designing things — and those plans and designs and friendships are sucked up and held by these social networks. And they’re not really social networks, they’re silos.
+
+“If you want to share your Flickr photos with your Facebook friends or your LinkedIn colleagues, those are three different silos, unless someone has built a specific bridge between the networks. Suppose we flip that around.”
+
+Berners-Lee and others at MIT are working on a project called Solid, a “linked-data” platform that acts rather like a file system with the web as its interface.
+
+“Right now we have the worst of both worlds, in which people not only cannot control their data, but also can’t really use it,” Berners-Lee saidin the project’s announcementlast year. “Our goal is to develop a web architecture that gives users ownership over their data.”
+
+Part of that is turning computers back into servers, removing DNS authorities, doing hash-based document identification and key-based identity.
+
+“It’s early days, very researchy,” he told me. “But it’s driven by this common idea that a lot of people have to take back the decentralized web. There are people across the world who are thinking that we do actually need another revolution in the architecture, a little one, to make the web work again in the way it was intended. I call it ‘re-decentralizing the web.’”
+
+Re-decentralization is a long and complicated process, however, and in the meantime the more important problem is one of access.
+
+“Being on the web is still a minority thing,” he said. “The digital divide has become massive, because there’s this assumption that it’s everywhere. The common goal we must have is to get the cost of real open internet access down so everybody can afford it. Right now the people to watch and talk to are the ones working on getting that affordability — of the data, of the device. And suddenly you’ll find that we actually have a majority of people online. It’s really exciting times.”
+
+You can follow Berners-Lee’s work atMIT’s Decentralized Information Groupor onhis spartan homepage at the World Wide Web Consortium. For details on the film, visitForeveryone.net.

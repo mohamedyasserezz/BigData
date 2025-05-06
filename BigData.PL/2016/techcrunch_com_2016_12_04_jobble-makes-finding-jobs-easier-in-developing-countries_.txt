@@ -1,0 +1,13 @@
+Jooble makes finding jobs easier in developing countries
+
+According to the latestMobility ReportfromEricsson, there are 2.6 billion smartphone subscriptions globally, and that number looks to jump to 6.1 billion smartphone users 2020, with much of the growth coming from developing countries. What that means: people who haven’t had access to modern luxuries are increasingly able to access valuable services on their phones.
+
+Some of the apps to emerge use SMS to improve health outcomes for people in developing countries. Another way to use SMS to improve smartphone users’ lives: connecting them with jobs.
+
+Such was the thinking behind the team of Jooble, a product that came out of Disrupt’s hackathon in London this weekend and that was built using the Python programming language and which uses Twilio’s SMS API.
+
+Created over the span of 16 hours by computer science students Vojta Petrus, Marcelo Gutierrez, and Peter Javorki, the idea was largely that of Gutierrez. Though he’s graduating soon from University College of London, he was born and raised in Bolivia knows well how useful an app like Jooble would be for people living in the countryside and eager to connect with agriculture-related and other jobs near to them.
+
+We sat down with Petrus and Gutierrez after they presented Jooble on stage, where they relied on a simulated database to illustrate how the app would work. They told us that among other next steps, they’d like to integrate IBM Watson’s natural language processing technology; they also talked about scraping the web for a whole bunch of job market information.
+
+Whether they flesh out the app further remains to be seen. Petrus and Gutierrez noted that there aren’t a lot of other startups tackling the problem they identified. At the same time, Petrus, who leads an entrepreneurship society at the University of Manchester, suggested he was largely keen on making connections at Disrupt, which is his first hackathon. Indeed, he said that though he and Guitierrez and Javorki (who is based in Amsterdam) met on Facebook in the days leading up the event, the three new friends plan to stay in touch.

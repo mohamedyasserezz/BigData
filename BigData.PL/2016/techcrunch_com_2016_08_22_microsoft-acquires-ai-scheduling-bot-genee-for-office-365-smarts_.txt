@@ -1,0 +1,11 @@
+Microsoft acquires AI scheduling bot Genee for Office 365 smarts
+
+Microsoftannounced todaythat it acquired Genee, an AI-powered scheduling assistant bot that specializes in planning meetings for large groups or when organizers don’t have direct access to the calendars of everyone involved.
+
+Genee’s app is a chatbot accessible via an iPhone app, email, SMS, FB, Twitter or Skype, and it understands natural language input, so you can just text it the kind of event you want to schedule, when you want to happen and who you want to include, and it should theoretically output a proper meeting invite. The standalone service is going to be shut down on September 1, 2016, as a result of the acquisition. It originallydebuted in August last year.
+
+Genee co-founders Ben Cheung and Charles Leeexplained in a blog postannouncing the news that easing calendar entries created by the service will still function, but it won’t create any new ones or send reminders or agendas related to upcoming events. The team also says they “consider Microsoft to be the leader in personal and enterprise productivity, AI, and virtual assistant technologies,” hence their excitement about teaming up with Redmond.
+
+Microsoft’s Outlook and Office 365 VP Rajesh Jha said in a separate blog post that Genee’s team will be helping “build new Office 365 productivity capabilities and services” broadly, while describing the services it currently provides customers at length. The stated purpose of the Genee acquisition is to “accelerate intelligent experiences in Office 365,” according to the post’s title, which could mean its chatbot assistant might someday become a baked-in feature of Office 365 itself.
+
+The terms of the deal were not disclosed.

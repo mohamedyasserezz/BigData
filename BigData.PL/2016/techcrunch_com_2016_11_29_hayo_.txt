@@ -1,0 +1,25 @@
+Hayo is what you get when you cross an Amazon Echo with a Kinect
+
+Hayo’spitch video could use some work. It’s stilted and strange and has some trouble conveying precisely what the product does, owing in part to holographic representations of the product’s functionality. It’s clear that the product is different and probably compelling — but it’s not exactly clear what it does.
+
+Earlier this week, I sat down with the company’s co-founders Gisèle Belliot and José Alonso Ybanez Zepeda, along with Uber co-founder-turned-investor Oscar Salazar, to discuss the product. The company’s ramping up for a formal announcement at CES, in tandem with the launch of an Indiegogo campaign, and it’s still working out some of the kinks around contextualizing its product.
+
+We met up at a shared workspace in Manhattan, in a meeting room made up to resemble a living room — except for the big construction paper cutouts of buttons like Play and Pause adhered to different surfaces (another shorthand visualization of the product’s functionality).
+
+By way of shortening this elevator ride, I’d describe the startup thusly: It’s Amazon Echo with a Kinect camera built in. In place of voice commands, you’ve got gestures.
+
+In some ways Hayo is designed to fulfill similar functionality as Amazon’s hardware — a sort of connected home hub that ties together various smart devices — lights, music, thermostat, etc. When you get down to it, the possibilities are really endless when it comes to gesture controls in a three-dimensional space.
+
+The company is, understandably, starting off simply with regards to functionality. At launch, the system will allow the user to designate 10 “buttons” per device. A button here is a point in space — a surface on, say, a wall or table. Each button can be assigned two different functions, which can adjust based on variables like time of day and user.
+
+All of that is chosen during the set-up process. Ybanez Zepeda walked me through a rough demo of the company’s app, which provides a 3D image of the room captured by the Hayo. The user chooses where to place the buttons on that model and determines their functionality based on a list of commands pulled from the devices connected on the network.
+
+In the demo, touching the table in one place started and stopped music via a connected Sonos player. Tapping elsewhere on the table advances tracks. Touching a wall, meanwhile, turns the connected lightbulb on and off. You get the picture. At the moment, the only fully gesture-based functionality is the slider — the user holds their hand in the air (the system flashes a small blue light when spotted), then moves it up or down to adjust things like volume, lighting or temperature.
+
+The full functionality — like pretty much everything else — is very much still in the early stages here. The company will be gauging customer feedback after launch to determine the device’s full suite of functions when it hits retail. Other possibilities include security, like alerting home owners about intruders or setting alerts for unsafe spaces.
+
+At present, the system doesn’t rely on facial recognition for detection — rather, it groups users based on their general size. It’s pretty rudimentary and it’s easy to see how height could ultimately be a problematic differentiator when attempting to distinguish the age of users in order to utilize parental controls. Future functionality could rely on a more complete picture/profile of the user or even distinguish people based on gait.
+
+Price point will certainly be a factor — after all, a huge part of Alexa’s success was Amazon’s ability to offer up hardware close to cost. Again, we’re still in the early stages, but the company is looking at keeping Hayo “under $300,” an admittedly broad price point — which could potentially be prohibitively expensive the higher up you go.
+
+The product’s success will also depend on how much functionality the device launches with — which will be, in part, up to third-party developers. Gaming could certainly be an option for a 3D camera that detects movement, as we’ve seen in the past. And, of course, the company should probably do something about that video.

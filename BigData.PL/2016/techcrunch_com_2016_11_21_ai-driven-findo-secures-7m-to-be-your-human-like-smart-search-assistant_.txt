@@ -1,0 +1,37 @@
+AI-driven Findo secures $7M to be your human-like smart search assistant
+
+You just know that file or email exists, but you can’t find it. This is a problem all of us have every day — especially those of us who work in tech. Ideally you’d like to ask your email search box or your Google Docs list “Please find the presentation i received from someone, I forgot his name, we met in NYC last year ago, it was about biotech.” That’s what you might ask a human. You can’t ask a machine that.
+
+The problem is people can’t recall exact keywords, which is what a computer needs. Plus there are too many possible file locations now, as well as more than one email account.
+
+This was a problemDavid Yang, the co-founder of Findo, identified in 2013. He has cofounded Findo with CEOGary Fowler, who also created GVA Launch Gurus, a big accelerator in Eastern Europe.
+
+Yang, pictured, is unusual. He founded ABBYY in Moscow when he was 21 years old, and it became become one of the world’s leading companies OCR and AI companies in the world, reaching 1300 employees and 16 offices, with 100 employees in Silicon Valley.
+
+For the tech veterans among you: he also invented theCybiko, a hand-held wireless communication computer for American teenagers which pre-dated smartphones. (I loved my Cybiko, if only other kids had had one!)
+
+Now Yang is applying himself to this new document search challenge, outlined above.
+
+His new companyFindo, has now closed $1M in further seed funding, taking it’s total Seed funds to $7 million. It’s also signed an agreement to integrate with Foxit, a software company that provides solutions for PDF format files.
+
+Seed investors include: a founding investor at ABBYY, financial investor Flint Capital Venture Fund, strategic investor Foxit, and undisclosed investors from the scanner and document markets.
+
+The integration with Foxit will give 425 million Foxit users the ability to classify their PDF files by topic, find similar PDF files and compare them, and do a quick file search even if they don’t remember the exact keywords or the sender’s name. At the same time, Findo users will be able to edit PDF files while using the product.
+
+Findo is a ‘a smart search assistant’ across Dropbox, Evernote, Gmail, Google Drive, OneDrive, Outlook, Yahoo Mail, iCloud and your laptop/desktop. It comes in 5 “form factors”: web app, iOS mobile app, Messenger bot (for Slack, Facebook messenger, Skype, Telegram), Chrome extension and iMessage app.
+
+Findo is supposed to understand some human-like language: A user can search by description, e.g. “find presentation from a guy from Boston sent a month ago” or “my ticket to San Francisco from United”.
+
+After a user connects the data sources of email accounts, laptops, etc Findo starts to index user’s data. It builds 2 indexes: keyword index and “semantic index”. Findo extracts ontological entities like companies, people, locations, meeting recaps, events, agenda’s, tickets, invoices, etc. and connects all of them together building a “knowledge graph”.
+
+Can Spotlight do the same? Well, some of it, it will bring local files and some emails, but it won’t search Evernote. And it won’t search Dropbox if it’s not synced with your laptop. And you can search something that Spotlight can’t search at all.
+
+“Find the phone number of someone from London” – Findo search will bring a phone number of a person who is connected to London, e.g. works with a company which has office in London. Unlike Google, which builds a shared index for all users, Findo’s goal is to enable hundreds of millions of private semantic indexes in hundreds of languages.
+
+The platform has been in stealth mode for 3 weeks but is now going public.
+
+“We see that those users who connected more than four accounts have a very high retention level,” according to a spokesperson.
+
+Findo is now available on theweb,on iOS,as a botacross Messenger, Slack, Skype, and Telegram, andas a Chrome extension.
+
+To search in emails and files within six months, users are required to purchase an Advanced plan at $4.99 per month; To search for emails and files without time limits requires an Ultimate plan, which is $9.99 per month.

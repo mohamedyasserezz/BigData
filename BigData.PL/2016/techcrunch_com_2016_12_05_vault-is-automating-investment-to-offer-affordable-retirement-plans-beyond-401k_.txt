@@ -1,0 +1,63 @@
+Vault is automating investment to offer affordable retirement plans beyond 401(k)
+
+Former JP Morgan financial advisor Randy Fernando got the idea for his fintech startup Vault — selected as audience choice for the startup battlefield here at Disrupt London — after his mum asked him whether there were any retirement plan benefits she could offer staff as a hiring incentive at her small business pre-school.
+
+The problem was he couldn’t find anything. “That’s when the light went off,” he says, noting that in the US some 70 million people currently have no access to retirement — the majority of whom worked in small business.
+
+The core problem is that US 401(k) retirement plans are expensive and complex to administer, and the fiduciary risk is “extremely high” for SMEs, as Fernando tells it. So the startup’s fix is a digital investment platform to — in his words — “power retirement plans for small business” by automating investment selections to lower admin and advice costs.
+
+“We make retirement affordable for small business owners to provide,” Fernando tells TechCrunch. “Over 72 per cent of small businesses do not offer any type of retirement. Because traditionally they have not had access to 401(k).
+
+“Whether you’re an Uber driver, or you’re a small tech company — we have a solution that we feel fits best for you and your needs.”
+
+Vault’s investment portfolio management tool invests the money on behalf of the employee — so it’s an automated investment tool, enabling a lower admin burden for the SMEs offering it, and also helping handhold individuals who might otherwise be left on their own making complex investment decisions without access to expert financial advice.
+
+Vault also does not take a commission on the investment funds its software picks for users — unlike some of the big financial advisors.
+
+“[Financial advisors such as JP Morgan] typically put in their own funds, mutual funds, high price funds, where they can get commissions. We choose the lowest cost yet highest rated ones for our customers because we don’t get commissions based on what we recommend,” he says.
+
+“We act as a fiduciary to each customer. Meaning we do what’s in their best interest, not ours.”
+
+The software’s investment selections are tailored for each individual based on the modern portfolio theory — looking at factors such as a person’s age, income and risk tolerance, and adjusted as the individual nears retirement. The system also takes into consideration current market conditions and the team’s own investment expertise.
+
+Of course, as with most retirement plans, Vault can’t guarantee their investment decisions will be successful at the end of the day — although they do at least have lower fees to eat into customers’ capital over the lifetime of the plan.
+
+Vault launched its product today, here at TechCrunch Disrupt London, and also bagged its first customer (a self-employed female tech worker in San Francisco). If projections of growth in the gig economy are on the money it might just find its market of freelancers swelling considerably in coming years.
+
+The pricing for SMEs is $10 per employee per month. Employees are charged 0.5 per cent annually of the total assets invested — which Fernando also says is lower than 401(k) charges. “When I was an advisor at JP Morgan you were paying anywhere between 3 per cent to maybe over 5 per cent,” he notes.
+
+They also offer different plans — so an SME can match employer contributions if they like. The specific target market for Vault is self-employed individuals right up to companies with up to 99 employees.
+
+Portland-based Vault was founded in January 2015, and raised a $1.55 million seed round last year from several US business angels.
+
+Judges Q&A
+
+Q: US only?A: Correct
+
+Q: vs Betterment or Wealthfront which offer this, is there any other difference?A: We target the small employers who are not targeted by these robo advisors
+
+Q: Is indirect effective for you guys? What’s the best go to market strategy?A: We intend on starting out with basic content marketing through educational content
+
+Q: From a partnerships perspective you talked about financial companies. Size? And what’s in it for them?A: We’ve been talking to the top 50 [companies]… They want to leverage more value specifically for SMEs
+
+Q: But couldn’t they just do this?A: To develop this on their own it would take them at least three years, and over $50M just to develop it.
+
+Aside from that we want to partner with them, allow them to maintain their brand through an API
+
+Q: How long been working on this?A: Just under two years
+
+Q: And less than $50M?A: Yes, just under $1.5M
+
+Q: Imagine it’s 10 years from now… and you’ve figured this out – what does life look like for you guys?A: I left my job to go out on a limb to do this… My family is in small business. That’s why I decided to build this
+
+A: This is the second fintech startup that I’ve joined… I’m doing this twice over because I love it
+
+Q: Its great to see you tackle a problem like this… but one of the problems also is people in a situation where they think they need the money taking it out. I didn’t see on your interface much to help with educationA: In my previous background I was helping financial advisors adopt social media… the biggest advantage we brought then was education.. and in order to deliver this at scale we need to provide an educational experience
+
+We see this interface evolving into something that is as much educational as something as it is to manage money
+
+Q: The ambition level – it sounds like you guys are attacking a really big market. Is Portland a place you can build a big business out of? What is the tech ecosystem like to support the ambition you guys have? I don’t know that many multi-billion startups out of Portland, other than Nike…
+
+A: there’s actually a lot of untapped tech talent in Portland, specific even to fintech.We have people gravitating towards us who could work on something that could change an industry
+
+Q: Any investors coming there?A: Yes but we have found investors in the Bay Area as well

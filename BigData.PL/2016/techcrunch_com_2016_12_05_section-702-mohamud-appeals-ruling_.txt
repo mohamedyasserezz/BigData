@@ -1,0 +1,31 @@
+Court upholds warrantless surveillance of U.S. citizens under Section 702
+
+The U.S. federal appeals court has ruled inUnited States v. Mohamud,acase that began with a2010 holiday bomb plotand will end with unique implications for the private digital communications of American citizens.
+
+Digital privacy advocates had hoped that the appeals casemight prompt reformfor a contentious portion of the Foreign Intelligence Surveillance Act (FISA) known asSection 702. The provision accommodates U.S. surveillance of foreign targets located abroad, although its many detractors argue that Section 702 allows the U.S. government to collect the bulk communications of Americans in the process.
+
+Unlike its better-known phone surveillance programs, the NSA can leverage Section 702 to collect emails, instant messages and the browsing histories of the individuals it targets — and anyone who talks to them. The law essentially creates a loophole for the warrantless surveillance of American citizens, andUnited States v. Mohamudprovided a rare opportunity to examine that loophole in action.
+
+AsTechCrunchexplained in July:
+
+“…[Mohamed Osman] Mohamud is one of the few criminal defendants who knows for certain he was targeted under the FISA Amendments Act (FAA). Roughly a year after his conviction, Mohamud’s lawyers were informed that their client was surveilled under the FAA. His legal team, along with the ACLU and EFF, has since argued that the surveillance violated Mohamud’s Fourth Amendment rights.”
+
+The new ruling concludes that government surveillance of Mohamud, the target of an FBI sting operation, did not violate his Fourth Amendment rights. The decision deals a considerable blow to anti-surveillance advocates seeking to rein in activity under Section 702.
+
+“The court’s decision rests on the faulty premise that Americans lose the core protections of the Fourth Amendment when they communicate with family members, friends, business associates, and others abroad,” ACLU staff attorney Patrick Toomey, who argued the case, told TechCrunch.
+
+“Under this program, the government is spying on the international communications of Americans in vast quantity without ever obtaining a warrant, and it is storing those communications in FBI databases for use in criminal investigations. Contrary to the court’s ruling, this sweeping surveillance violates the constitutional safeguards intended to protect Americans’ privacy.”
+
+With everything at stake inUnited States v. Mohamud, the court’s decision appears somewhat narrow, eschewing opinions on two specific surveillance methodologies:
+
+“Although § 702 potentially raises complex statutory and constitutional issues, this case does not. As explained [in the opinion], the initial collection of Mohamud’s email communications did not involve so-called “upstreaming” or targeting of Mohamud under § 702, more controversial methods of collecting information. It also did not involve the retention and querying of incidentally collected communications. All this case involved was the targeting of a foreign national under § 702, through which Mohamud’s email communications were incidentally collected. Confined to the particular facts of this case, we hold that the § 702 acquisition of Mohamud’s email communications did not violate the Fourth Amendment.”
+
+TechCrunch spoke to Andrew Crocker, an attorney with the Electronic Frontier Foundation, to clarify the bounds of the appeals court ruling.
+
+“First, the surveillance of the defendant did not involve the NSA’s so-called Upstream program, where the government taps directly into the fiber optic backbone of the Internet, a practice that the court said would raise more serious constitutional issues,” Crocker explained.
+
+“Second, the court said that the surveillance of the defendant did not involve a ‘backdoor search,’ that is when the government collects communications by targeting foreigners, but then turns around and searches its databases using email addresses or other identifiers belonging to Americans,” Crocker said.
+
+“On this second point, however, we think the court almost certainly got the facts wrong. Based on public evidence in the case, it seems the FBI did in fact search its database for Mr. Mohamud’s emails — which would be a serious violation of his rights, according not just to EFF and ACLU, but also to lawmakers like Senator Ron Wyden who have been trying to stop this practice.”
+
+In spite of today’s setback, privacy advocates will keep their eyes on the clock: Section 702 isset to expirein December 2017. Still, Congress could very well seek to extend the provision before it reaches that sunset date.

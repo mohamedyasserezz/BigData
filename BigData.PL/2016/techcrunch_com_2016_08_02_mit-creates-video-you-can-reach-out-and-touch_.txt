@@ -1,0 +1,15 @@
+MIT creates video you can reach out and touch
+
+Strictly speaking, video isn’t an interactive medium, but a new research project from MIT aims to change that: The school’sCSAIL lab has come up with a techniquethrough which viewers can reach out and “touch” objects in videos, manipulating them directly to achieve effects similar to what you’d expect if you were actually touching the object live in the real world.
+
+Basically, that means that using this technique, if you were watching a YouTube video of someone playing guitar and it zoomed in tight on the fretboard, you could theoretically use your mouse to drag across the strings and watch them vibrate as if you’d strummed them in real life. Or, you could even load test an old covered bridge by applying virtual stressors like simulated wind, or a truck rumbling across.
+
+The new CSAIL model works by analyzing vibrations given off by every object, as captured using traditional cameras shooting video that is then analyzed by algorithms developed by the research team. These vibrations, when analyzed by the new technique from as little as five seconds of video of a given object, then provide realistic prediction models that anticipate how the object will react to other movement or forces acting upon them.
+
+[youtube https://www.youtube.com/watch?v=4f09VdXex3A]
+
+Typically, to make this kind of thing possible in video games and other interactive media involves building a virtual model, which can be a costly, manual and time-consuming process. Plus, there’s the Roger Rabbit school of filmmaking, wherein virtual or animated characters interact with real surroundings. This new tech could make it easy to blend real video with CG creations, which of course has applications far beyond Roger Rabbit and the terrible, terrible spiritual successor Cool World, the 1992 movie Brad Pitt would like you to forget he was ever in.
+
+MIT actually calls out Pokémon Go, for instance, as a place where this new technique would produce interesting results: Imagine if the Bulbasaur you’re trying to catch actually appears to interact with the bush it just emerged from. And in blockbuster movies, this would make it a lot easier to visually demonstrate the impact of CG alien invaders wreaking havoc in real-life cities.
+
+This new method could be perfectly timed to ride the wave of interest and investment in virtual and augmented reality tech. The exciting thing is that it could greatly reduce the cost of development for a lot of interactive VR experiences, which might encourage a fresh round of interest on the content side of the equation. Ultimately, people want stuff to do that which proves VR is worthwhile, and this CSAIL project could eventually mean that VR video becomes a more engaging two-way interaction.

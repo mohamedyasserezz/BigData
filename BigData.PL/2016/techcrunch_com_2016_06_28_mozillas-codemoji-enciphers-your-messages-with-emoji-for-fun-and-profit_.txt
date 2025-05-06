@@ -1,0 +1,21 @@
+Mozilla’s Codemoji enciphers your messages with emoji for fun and profit
+
+📚🙈 💭🐾👊🙈 🐱📪 💧👊🍻🔍🚛 🎨📪🐾👊 🎯🌴😑☔🐱🍻🔍🙈
+
+Read that — I dare you. Oh, you can’t? Maybe that’s because I’ve rendered it unreadable with Mozilla’s unbreakable emoji-based cipher,Codemoji!
+
+Okay, so it’s not really unbreakable (and there is no profit, the headline was a lie). In fact, it’s just a Caesar shift with character substitutions from the emoji set chosen, based on a seed emoji (in this case, my favorite, the hatching chick). The point isn’t to provide an unbreakable emoji code, but to show young folks the rudiments of encryption.
+
+Encode the text in the mobile-friendly web app, send to a friend and give them a hint regarding the nature of the seed emoji — or perform an offline key exchange by telling them IRL.
+
+It’s a simple tool, a game really, but it does explain the basic idea behind encryption: that you encode something with a key, and unless someone has that key, the content of the message is difficult — though not impossible — to get at.
+
+The kids do love emoji, of course, so this might be a good way to trick a classroom full of Snapchat-obsessed kids to perform frequency analysis on a paragraph from Dickens. (Here’s ahandy resource for letter frequencies, by the way.)
+
+Of course, someone could probably write a script that runs the text through all possible emoji seeds — and, well, that’s something else you could teach these whippersnappers about, brute force attacks. See, the lesson plan writes itself!
+
+Codemoji is part of anongoing Mozilla campaignto raise the awareness of how important encryption is.
+
+“When more people understand how encryption works and why it’s important to them, more people can stand up for encryption when it matters most,” thundered Mozilla Executive Director Mark Surman in a blog post announcing Codemoji.
+
+There are even some bite-sized videos you could probably get your class to watch in between snaps. Here’s hoping there’s more encryption education coming from Mozilla; we’ve asked for details on any upcoming tools or games.

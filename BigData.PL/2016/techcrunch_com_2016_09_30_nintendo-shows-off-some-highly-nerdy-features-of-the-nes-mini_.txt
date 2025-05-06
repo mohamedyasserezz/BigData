@@ -1,0 +1,25 @@
+Nintendo shows off some highly nerdy features of the NES Mini
+
+Nintendo has further taken the wraps off themust-have gaming gadget of the holidays— which is to say, the one we’re all buying ourselves as soon as it’s available. An aggressively retro-themed video released today visually demonstrates three of the NES Mini’s features. Brace yourselves, it’s about to get real nerdy in here.
+
+Most relevant to the average player is the save state option — Nintendo calls them suspend points. Those of you who’ve used emulators or the Virtual Console will be familiar with this, but old-school players will be amazed and possibly offended. Basically, you can save the game at any moment — mid-jump, just before a boss, before opening a randomized chest, etc. Then you can reload if you die, get a bad item, or just want to play through a part again.
+
+The new video shows that each game will receive four suspend point slots, which you can write to by dropping a cute winged screenshot onto them. It’s a great improvement over the VC system, though certain emulators have implemented something like it for years.
+
+That will be helpful for many, I’m sure, but the other two features are strictly for purists and nerds like myself. First, there’s the option to switch between a 50Hz and 60Hz internal refresh rate; games running on PAL rather than NTSC ran ever so slightly slower, and European gamers might find the feel of the controls is off in 60Hz mode. It’s a thoughtful inclusion.
+
+Next is the display modes, which is where it gets real nerdy. The NES was almost certainly played on a 4:3 CRT television over something like an RF adapter or possibly RCA. The output of the NES, however, was not quite 4:3 (~256x240px), so the pixels would be stretched — that is, not quite square, the way they are on the screen you’re looking at. This, combined with the poor video signal carried by cables at the time and the naturally analog look of CRT phosphors, gave NES games a very distinct and recognizablelook.
+
+The NES Mini will have three display modes (click above for a bigger version):
+
+Which you use is really a matter of taste. It might look better to send the pixel-perfect signal and stretch it on your TV rather than in the box.
+
+As for the CRT filter, well, and I know how this sounds, but I’ve seen better. There is actually a pretty significant community of people who design these things, making them ever more accurate, adding slight distortion to simulate the glass of the old sets, traveling distortions, tweakable chromatic aberration, all that stuff. People are willing topay good money— we’re talking hundreds of dollars here — for a device that essentially adds structured noise to a clean digital video signal.
+
+It sounds crazy but that’s how serious some people are about recapturing that feel of sitting in the living room playing Final Fantasy or Metroid for the first time. And I guarantee a few of them work at Nintendo and insisted on adding this level of control — nay, I would guess they wanted even more granularity — to the display options on the NES Mini.
+
+One other piece of news that broke yesterday: Japan will be getting its own version of the console, but it’ll look like the country’s original Famicom, complete with hardwired controllers and a slightly different selection of games.
+
+How fun is that?
+
+Both will be available soon: the NES Mini on November 11 for $60, and the Famicom Mini simultaneously for an equivalent amount of money, but in yen, obviously.

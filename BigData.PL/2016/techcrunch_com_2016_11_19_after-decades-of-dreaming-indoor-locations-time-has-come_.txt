@@ -1,0 +1,23 @@
+After decades of dreaming, indoor location’s time has come
+
+The precise information you need, delivered exactly when and where you need it. Personalized engagement and experiences. Easy step-by-step navigation. These are just some of the things you get with indoor location-based services.
+
+Similar functions have existed outdoors for more than a decade thanks to GPS and apps like Google Maps. However, indoor location services have seen much slower adoption. But that’s started to change, and in 2017 we’ll see it shift into the mainstream. Indoor location’s time has finally come, and here’s why…
+
+The first catalyst for this shift is changes in our smartphones.Apple recently introduced iBeaconandGoogle launched Eddystone, both of which make Bluetooth Low Energy (BLE) a standard on virtually every smart device. This means that every smartphone is now “location aware,” allowing stores, hospitals, schools, corporations, museums and more to deliver highly personalized services to anyone who walks in their doors.
+
+In my view, this is as significant as when Intel added Wi-Fi to the Centrino processor in 2003. Once it was ubiquitous on every laptop, the technology took off like wildfire. Going into 2017, we are at a very similar inflection point with BLE.
+
+The second catalyst, which is actually a critical enabler for the first, is the introduction of new wireless infrastructure that takes advantage of BLE and makes it easy and cost-effective to deploy at scale.
+
+The single biggest thing that has held back BLE deployments to date, for example, has been physical beacons — hockey puck-sized devices that need to be placed every 20 feet or so to detect BLE users and then engage with them. They are expensive and time-consuming to deploy, and achallenge to manage, especially in environments that change frequently. By virtualizing this beaconing function, new wireless infrastructure has removed this obstacle. Just last month, for example, Cisco — the 800-pound gorilla in the industry —rolled outa new product using this approach.
+
+The second biggest infrastructure challenge to BLE deployment has been location accuracy. To use BLE for strategic functions like step-by-step navigation, asset tracking and push notifications, indoor location accuracy needs to be close to the one-meter range. Advances in machine learning, coupled with rolling BLE into Wi-Fi systems, have recently made this possible.
+
+The final catalyst is motivation. Mobile users expect to be delighted bypersonalized experienceseverywhere they go — inside as well as out. And companies want to engage more closely with users on their premises to deliver amazing mobile experiences. Hotels want to automatically check-in guests the minute they walk in a front door and give them step-by-step directions to their room or a nearby restaurant. Hospitals want to help people easily find their way to the lab or the cafeteria while also easily locating valuable equipment such as wheelchairs and infusion pumps. Retail stores want to notify shoppers of sales within specific departments and make it easy to find available staff for assistance.
+
+And in this age of data, companies expect the analytics that come with the above: Where are my customers spending their time? How long are they there? What are they doing in each location? This information is critical to improving the bottom line, while offering services that reflect actual consumer needs.
+
+None of this potential is lost on private investors who have been placing substantial bets on location startups this year.Blis Media, a targeted-ad startup, snagged $25 million in a Series B offering. Advertiser-location intel companyPlaceIQreceived $25 million in a Series D.Euclid Analyticsreceived a $20 million Series C.Mist Systems, which uses machine learning to deliver high-accuracy location and business-critical Wi-Fi services, recently announced a $28 million Series B round (disclosure: my firm is among Mist’s investors). AndPhunware, which makes location-savvy mobile apps, drew an additional $22 million recently, for a total of $90 million in funding.
+
+I’m excited by the possibilities for these and other companies in the location ecosystem. If they can deliver on their potential, we’ll all be able to get the personalized experiences we have been promised for years.

@@ -1,0 +1,73 @@
+Everything you need to know about SpaceX’s plan to colonize Mars
+
+All eyes were on Elon Musk today as he gave a keynote speech at the International Astronautical Conference in Mexico.Musk said he was going to detail SpaceX’s plans to colonize Mars and make humans an interplanetary species, and he delivered – at least, in part, since we still have a number of big questions that need answering.
+
+All eyes were on Elon Musk today as he gave a keynote speech at the International Astronautical Conference in Mexico.
+
+Musk began by saying that their goal is to “make Mars seem possible, make it seem as though it’s something we can do in our lifetimes, and that you can go … that anyone can go if they wanted to.”
+
+The reason to go is that we have two paths as humans, Musk said: One path is we stay on Earth forever and eventually face an extinction event. The alternative is to become a spacefaring and multiplanetary species, “which I hope you would agree that is the right way to go,” Musk said wryly.
+
+The goal then is to create a self-sustaining city that isn’t just an outpost, he explained, but that “can become a planet in its own right.” Mars makes sense for this because of a number of reasons, including its size similarity to Earth. And options within our solar system are limited otherwise, as there’s Venus but it’s essentially a hot acid bath, Musk noted. The moons of Jupiter and Saturn could work, he added, but they’re too far off.
+
+We could conceivably go to our moon, he went on to note, saying that he has “nothing against going to the moon,” but it’s challenging because it’s much smaller, there’s no atmosphere, it’s not as resource-rich and its day is 28 Earth days long. Whereas early Mars was a lot like Earth, Musk said, and if we could warm Mars up we would once again have a thick atmosphere and oceans. He added that it “would be quite fun” to colonize the red planet, because Mars has gravity that is 30 percent that of Earth, making it possible to bound around.
+
+The big issue facing the feasibility of Mars colonization, Musk said, is actually that there is not an intersection of sets of people who want to go and who can afford to go (in fact you cannot go currently for infinite money). A more optimistic cost number would be about $10 billion per person using the current model based on extrapolation from moon landings, he said. So we need to achieve overlap between people who want to go, and people who can afford to go, by reducing the cost of moving to Mars roughly the equivalent to the median house price in the U.S., which is around $200,000.
+
+At that point, Musk said, it gets to the point where almost anyone, if they saved up and this was their primary goal, could make it to Mars. Still, that cost reduction is a big stumbling block. “It is a bit tricky,” Musk said, making one of the understatements of the century.
+
+So how to improve the cost of trips to Mars by “5 million percent”? The key ingredients are full reusability of ships and vehicles, and the rest is made up by refilling in orbit, actually producing more propellant on Mars for return trips, and choosing the right propellant to make that possible and efficient.
+
+With frequent flights, Musk noted, the cost of a trip on a terrestrial aircraft that’s $90 million goes down dramatically. It costs $43 for LAX-to-San Diego flights, for instance, versus $1 million for single use trip if the aircraft were turned every time it made the run. The number of times it’s feasible to re-use craft for Mars, versus flying commercial on Earth, is less, since you can use the spaceship part only every two years. But the booster and tanker can be “used as much as you like,” he said, letting you refill the spaceship in orbit and giving you a very large payload capability for that spaceship’s trip to Mars.
+
+Not refilling in orbit would require a three-stage vehicle, which would increase the cost per ticket by 500 percent, Musk said. Spreading the capacity over multiple booster trips would help you reduce the required size of the fuel tank, and the sensitivity to performance quirks, meaning you can actually have a shortfall in performance with a couple extra refilling trips. That margin for error also helps reduce costs.
+
+The reusability of ships back and forth between Mars, is another key cost reduction ingredient, and that requires building a propellant plant on Mars, Musk said. Luckily, Mars happens to work out well for that because of CO2 atmosphere and water ice in the soil.
+
+The choice for fuel type is the final ingredient in managing costs, and there are three main choices: kerosene, hydrogen/oxygen, and deep-cryo methalox (a type of methane). It’s hard to make traditional jet fuel (kerosene) on Mars, and hydrogen is expensive and difficult with the planet’s conditions. Methane is the clear winner, easier to produce and less cost per unit than most via methane (and deep-cryo methalox specifically).
+
+SpaceX’s IST’s rocket portion will come back within 20 minutes from launch, Musk said, in the working system. The fuel tank portion looks like the spaceship; in fact it is almost identical by design to lower costs. This section will go down and back three to five times to fill the spaceship fully. The system itself can handle 1,000 re-uses per booster, 100 per tanker and 12 per spaceship.
+
+The idea would be to launch a fleet of spaceships at once to maximize the cargo and passenger capacity for a trip to Mars. It would be “kind of like Battlestar Galactica, if you’ve seen that thing,” Musk noted. “Good show.”
+
+The ship itself is “quite big,” giving a sense of scale with the graphic above, and noting that “in the long term, ships will be even bigger than this.” Each ship is designed to fit around 100 people or thereabouts in the pressured cabin, plus cargo, including luggage and materials to build foundries, factories, pizza joints, and “you name it,” Musk said.
+
+Musk’s target sustainable population is 1 million people for a Mars colony, and that means 100 people per trip is 10,000 trips. He said TeslaX “might end up expanding the crew section and bring 200 or more per flight,” in order to help lower the cost per person even further and require fewer trips. “Ultimately, you want 1,000 ships,” he said, though building up a fleet that large will take time.
+
+What time frame will it take to reach 1 million Mars colonists? From the first ship to make the trip to Mars, Musk estimates between 20 and 50 total Mars rendezvous, which will take around 40 to 100 years. While the crew compartment render he showed on stage looked relatively spare, Musk says it “has to be really fun and exciting, and can’t feel cramped or boring.” To that end, it’ll be set up for “zero-G games, floating around, movies, cabins, restaurants, more.” Amenities are important, clearly.
+
+In the spaceship, the crew cabin would be on top, with flat packed, dense cargo compartment underneath. Cargo capacity would allow up to 450 metric tons of cargo to be transported per trip to Mars. Trip time to begin with would be as low as 80 days to start, with an ultimate goal of getting it as low as 30 days in the more distant future, Musk said.
+
+SpaceX has been refining its shield technology with its Dragon capsules, with the goal of creating one that can work effectively but require no refurbishment across many flights, Musk noted. The ship itself will be made most of carbon fiber, which makes it “a fairly significant technical challenge” to make deeply cryogenic tanks out of that material that doesn’t leak.
+
+But recently, developments in the tech allow you to create this without having a certain liner on the inside, Musk noted. Their version is also designed to be pressurized via heat exchanges with the engines used to pressurize fuel tank and oxygen tank, which is simpler than systems with Falcon 9 where helium is used to pressurize fuel tank, and nitrogen for further pressurization. with the new design, you only need two ingredients, he explained, as opposed to four for Falcon 9, or five if you consider ignition liquid, since this would use spark ignition, and all of that would contribute to further cost reduction.
+
+Musk revealed that SpaceX has already built a fuel tank prototype, using carbon fiber and to scale, and showed an image of the vast, orb-shaped structure.
+
+Another key ingredient with the spaceship is that no booster is needed on the moon or Mars, you just need the spaceship itself, and the “booster is just there for heavy gravity wells,” Musk says. The ingredients are there on Mars to create a propellant plant “with relative ease,” Musk said, to fuel up the craft for the return trip to Earth. The “trickiest thing is the energy source,” he added, but SpaceX believes they can do it with a wide field of solar panels.
+
+The first flights would indeed still be expensive, but the cost architecture Musk is working with allows for improvement to, or even beyond $200,000 per passenger, extending to as low as $100,000 or below over time depending on amount of cargo taken with a passenger.
+
+Here’s where Musk addressed the key question on most observer’s minds: funding sources. The “challenge to fund this whole endeavour,” he said, displaying the slide above. But added that SpaceX expects to generate decent net cash flow with satellite launches. There are also “many in the private sector “interested in funding a base on Mars, he said, as well as similar interest in government.
+
+Ultimately, he believes the project will be a comprehensive public/private partnership on the scale of founding the U.S. or other global nations. For now, the goal is pretty near-term: “Just making the most progress we can with the resources we have available,” according to Musk, and to keep moving forward.
+
+He added that he believes just proving it’s a real, viable project will generate a lot of interest, that could help funding “snowball” over time. “The reason I’m personally accumulating assets is so that I can fund this,” Musk said, noting his only goal in accumulating personal wealth is to make life multiplanetary.
+
+As for timelines, Musk cracked that while he’s “not the best at this sort of thing,” and SpaceX is being “intentionally fuzzy about this timeline,” it’s looking to complete the first development spaceship in about four years, and to start doing several little flights with that — “maybe even go to orbit,” relatively “stripped down.”
+
+He also floated another revenue possibility here, saying that “we could transport cargo to anywhere on Earth in 45 minutes” using this tech, so if you had a floating platform you could go do very high-speed delivery of large amounts of goods near-in to urban centers, but he added that “we’re not counting on that.” As for the booster, that’s “fairly straightforward” because it’s essentially a scaled up version of Falcon 9, Musk said.
+
+So, “if things go super well,” an initial crewed Mars flight could happen in the “10 year time frame,” Musk anticipated. The goal until then is try to send something to Mars on every Mars rendezvous from here on out, by transporting cargo via initial test missions. “Want to send Dragon 2 to mars in a couple years,” he said, “And do another Dragon mission in 2020. With every Mars trip, they intend to send useful payload, and eventually a spaceship. So “at least 2 or 3 tons of useful payload to Mars,” he offered.
+
+Musk claims the production capabilities are already almost there for creating the new Raptor engine in necessary volume at a price that isn’t budget breaking. That’s in part because it’s actually the same size as the Merlin engines that SpaceX makes today, even though it can manage three times the thrust, thanks to containing three times the pressure.
+
+Tank was a big challenge for the reasons mentioned above — that carbon fiber is difficult to maintain with cryogenic propellant contained within. SpaceX has actually built one, however, and initial tests are promising, as Musk says there isn’t any indication of leaks thus far.
+
+While Mars colonization is the goal, that isn’t the outside limit of where the ICT can reach. “This is actually more than a vehicle, it’s a system that includes rocket booster, space ship, tank, and in situ propellant plant,” Musk said, adding that “with those four elements, you can actually go anywhere you want in the solar system.”
+
+You could, theoretically, “make flights from Mars to Jupiter no problem,” he noted by establishing propellant depots that can help you refuel on Jupiter and Saturn’s moons, or even further out on Pluto. “This system actually gives you freedom to go anywhere you want in the greater solar system,” he said, though he wouldn’t recommend it for interstellar travel.
+
+There’s a lot still to prove in terms of feasibility, not the least of which is sourcing all the money required to make this a reality. Musk outlines some potential sources, including, he joked (or was it serious?) Kickstarter. But Musk himself showed that he knows how unlikely all of this sounds.
+
+“I probably will name the first ship that goes to Mars Heart of Gold,” Musk said, referencing the ship fromHitchhiker’s Guide To The Galaxy. “I like that it’s driven by infinite improbability because our ship is also infinitely improbable”

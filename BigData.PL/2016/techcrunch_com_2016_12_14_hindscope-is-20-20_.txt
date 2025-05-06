@@ -1,0 +1,41 @@
+Periscope sunk without Twitter’s wings
+
+Periscope’s app is slipping beneath the waves. It has steadily dropped from No. 23 on the overalliOS app chartsin January to No. 441 this weekend. Now Twitter is adding Periscope’s live streaming abilitiesto its own app, something it should have done from the start. Taking 21 months to build broadcasting into Twitter feels painfully slow, considering the fast-moving live-stream market and Twitter’s insistence that live video is its future.
+
+Twitter tried to operate its early 2015 acquisition of Periscope independently, the way Facebook successfully did with Instagram. However, there are fundamental differences that torpedoed Twitter and Periscope’s sovereignty plan while working swimmingly for Facebook and Instagram. Periscope deserved its own real estate, but that didn’t prohibit Twitter from building streaming into the tweet composer much sooner.
+
+Here’s why Periscope and live streaming didn’t have the characteristics that benefited Instagram as an independent app:
+
+No Existing Community:Periscope was acquired pre-launch by Twitter, so it had no user base to build on. Instagram had 30 million registered iOS users and 5 million on Android when Facebook bought it, though Facebook paid roughly 10X more for its acquisition.
+
+No Similar Feature:Twitter had no live streaming option when it bought Periscope, but was ripe to become the natural home for real-time, see-it-as-soon-as-it’s-broadcast content. Facebook already had a thriving photography feature, but that was differentiated with an algorithmically sorted feed, so it made sense to run them distinctly.
+
+Intense Competition:Periscope launched on the heels of Meerkat, which had already established itself as the pioneering mobile live-streaming app. Periscope looked almost identical, just slicker. And while Meerkat faded quickly, Facebook Live soon barged in, baked within Facebook’s wildly popular main app.
+
+A Parent Company in Need:Facebook was thriving when it bought Instagram, having added around 200 million monthly users in the previous year to reach 900 million at the time. It had a winning formula it didn’t need to change. Twitter had added about 50 million monthly users in the year before buying Periscope to reach 302 million, and its growth was starting a long plateau. It could have used the extra firepower.
+
+Not for Everyone:Everyone knew how to easily take and share photos on Instagram from the get-go, but there wasn’t a great dedicated mobile social network in which to do it, just creation tools like Hipstamatic and archives like Flickr. Instagram had room to win as a full-fledged social network. Live streaming was a relatively new concept many people still don’t understand; it takes a ton of effort and skill to do well, and most people don’t feel compelled to broadcast regularly. It proved difficult to institute itself as a must-have app.
+
+Combined, these factors signal part of why Periscope has failed to maintain momentum as an independent app.
+
+Live streaming may have functioned better as a feature of Twitter, as well, or instead as a separate app, the way Facebook Live works. Twitter only added native viewing for Periscope streams this January, a button to open Periscope this May andbroadcasting directly from Twitter today. By betting on a separate silo, Twitter squandered nearly two years when it couldn’t afford to take its time.
+
+Instagram has grown to more than500 million monthly users, while Periscope hasn’t announced a user count since reaching10 million registered usersin August 2015.
+
+But Periscope’s download stats wouldn’t have mattered if it had been fully integrated into Twitter, with its own app as just a power-user interface. Instead, what would matter was total watch time of Periscopes. That hit110 years per dayin March, and the company hasn’t updated the stat since.
+
+Perhaps this independent structure was the only way Twitter could convince Periscope to come aboard via acquisition. But it was a costly compromise. At the very least, Twitter should have heavily integrated Periscope into its main app immediately or as soon as possible, not 21 months later as it did today.
+
+Unfortunately, Twitter had only added video uploads at the start of 2015, and its infrastructure might not have been prepared for fully native live-streaming support. Twitter spent 2014 and 2015 mired in leadership changes and decision paralysis, hesitating to make important changes to its app in terms of Periscope and everything else. There were surely large engineering hurdles to this integration, but with more than 3,000 employees, the timetable seems sluggish and detrimental.
+
+With the right mandate of engineering resources, Twitter could have built Periscope-powered broadcasting into the tweet composer at launch or soon after, and added stream discovery to its… Discover tab. It could have simultaneously operated a separate Periscope app, with the dedicated broadcast browsing by category and location, search and stream management features it has today.
+
+Instead, the already confusing-to-some Twitter product’s video offering was fragmented, with users having to maintain another social graph in another app with Periscope. It seems many people didn’t give the Twitter family an additional home screen slot for an activity too exhaustingly performative and foreign to use regularly.
+
+In retrospect, Twitter may have been better off never acquiring Periscope and instead building its own native live-streaming feature. Or at least finding a more cohesive model for running the two apps in parallel.
+
+Now the question is whether Twitter can reinvigorate Periscope despite the competition, or have its own app carry the live-streaming torch, and whether the separate app will languish as a superfluous tool or if Twitter will shut down Periscope as a discrete product the way it announced it will do with Vine.
+
+For now, at least, a Periscope spokesperson tells me, “There are no plans to shut down Periscope; the team will continue to invest in building out the app.” And today’s integration is a big step in the right direction.
+
+Standalone apps can be great for focused user interfaces and unique branding, or as a hedge to a parent company’s longevity. But marooning a feature on a separate island without the population of the mainland can end up as a shipwreck.

@@ -1,0 +1,21 @@
+Yahoo turns automatic email forwarding back on, claiming “upgrades” required it to be disabled
+
+Yahoo has today reversed its decision toprevent Yahoo Mail users from being able to automatically forward their emailsto another address – a key feature that makes leaving one email service for another an easier process. Earlier this month, Yahoo Mail disabled this now-standard feature for email services, claiming that it was “temporarily” disabled because the feature was “under development” as Yahoo worked “to improve it.”
+
+Press caught wind of the change, beginning witha report from the APwhich cited conversations with Yahoo customers who encountered the problem. The company initially declined to comment, only pointing to the text on the Help site that explained the feature had been shut off.
+
+The timing, of course, looked more than suspicious. It appeared Yahoo was attempting to make it more difficult for customers to flee its service in the wake of the news that the company had suffered a large-scale data breach affecting 500 million users. News of the breach, which actually took place in 2014,was only unveiled last month.
+
+Yesterday,Verizon statedthat the breach’s impact had material impact to the company’s decision to acquire Yahoo. Verizon didn’t directly comment on reports that said it’sasking Yahoo for a discount on the $4.8 billion deal, however.(Disclosure: TechCrunch parent company AOL is owned by Verizon.)
+
+Today, coincidentally (ahem), Yahoo says that it has turned email auto-forwarding back on.
+
+The company is still sticking to its story that this most basic feature that all major email services have supported for years had to be turned off because the company was upgrading its platform.
+
+In an announcement posted to theYahoo company blog,Michael Albers, VP of Product Management at Yahoo Mail writes:
+
+Why the pause? Over the past year, Yahoo Mail has been upgrading its platform. This has allowed us to bring a better search experience to Yahoo Mail, add multiple account support, and improve performance as we quickly scale this new system globally. The feature was temporarily disabled as part of this process.
+
+This explanation still seems iffy. Automatic forwarding is not some new and novel invention, but has been available across all the major email services for years. And it’s unclear what sort of “upgrade” would require this functionality to be switched off, even temporarily.
+
+The post then urges customers not to forward mail, but instead connect their Yahoo inbox to their preferred email client or provider directly. In other words: don’t leave.

@@ -1,0 +1,45 @@
+The race to be the all-in-one app
+
+There’s no denying that app fatigue is posing a challenge not just for new app discovery, but for new behavior discovery. If I weren’t completely tethered to the existing apps on my smartphone, I could be exploring new categories of apps that would enable new use cases that could eventually simplify and enrich my life.
+
+So why don’t the most popular apps just enable the latest, greatest use cases and create an “open loop,” networking their existing apps? Well, that’s exactly what Facebook, Snapchat, Google and other household names have in mind.
+
+Facebook Messenger lets me buy stuff or order an Uber within a conversation, and Google Now reads my mind to give me all the info I need for my day — and these are just the beginning. This article examines how the big players are campaigning to be the all-in-one app — and who stands a chance to get there.
+
+Open-loop and closed-loop networks are concepts from the payments world that could play a key role in determining the ultimate champions of mobile apps. An “open-loop” payment network allows users to spend at multiple sites, like a credit card, while “closed-loop” locks in the user, similar to a store’s gift card.
+
+In the app world, apps like Facebook, Google, Venmo and Snapchat act as open-loop networks, which allow users to interact with different products or brands within the app. Android Pay is an open-loop app that allows users to purchase goods from various stores like Walgreens and Rite-Aid, whereas theCVS Pay App that just launchedis a closed-loop network that you can only use at CVS. Although CVS Pay offers more functionality, it remains to be seen if consumers will think it’s worth the effort to download the app.
+
+Other payment apps and mobile wallets have all struggled to find traction, while Venmo’s user adoption has been dramatically increasing. As consumers keep getting bombarded by new apps to download, the ability to do more with existing apps becomes paramount. That is why closed-loop apps will continue to struggle, while open-loop apps have potential to become the dominant apps.
+
+Behavior patterns vary by user, but some things can be taken for granted. Whenever a user picks up their smartphone and presses a button, the OS takes over.
+
+If you can engage and satisfy the users before they fiddle with their device and enter an “app zone,” then you’ve got captive users. That’s why Apple and Google have been spending a great deal of energy on OS. Once a firm controls the OS, they have the ability to integrate app functionality directly into that OS.
+
+While Microsoft’s Cortana does a formidable job as a personal assistant, we believe that the overwhelming popularity of iOS and Android give Siri and Google Now a clear advantage (and far more usage).
+
+Thisvideo reviewdoes a good job of comparing the “active” personal assistant functionality of Siri and Google Now, and also mentions Google’s lead in “passively” providing relevant information to users. We think the latter — satisfying the user before being asked to — is key in the race to become the single destination. If you require users to actively interact with the phone, they’re much more likely to actively seek the app that’s best for the task.
+
+That said, although an assistant like Siri that is based on speech recognition does require some active engagement, most people don’t consider talking too much of a drag. One can do a lot with Siri with very little effort.
+
+There are good arguments to be made both for a passive mode that “reads the user’s mind” and provides relevant information, and a voice-based personal assistant that can do anything for you. In our opinion, Google Now does a great job of both. Although Siri is an excellent voice-based personal assistant, it has a bit of a ways to go to catch up with Google on the quality and variety of passive information.
+
+With so many use cases and such diverse user needs, is it desirable to have one destination that does it all? That depends on how the destination enables the use cases. If it leads to clutter and hard-to-discover functionality, that not only defeats the purpose of having an all-inclusive destination, but also leads to a really poor user experience. That’s what Facebook must have concluded when they carved out the Messenger functionality and separated it from the base Facebook app.
+
+On the other hand, if it’s easy enough to long-press your iPhone button and ask a question, there’s no reason not to enable the user to askanyquestion, from “How’s the weather outside?” to “Can you text John my ETA?” Google Now also cleverly uses cards to display all kinds to different information in a common interface.
+
+Drawing users to your app is entirely different than getting them to stay in your app for a long time. And if your app is compelling enough that you’re almost guaranteed to have visitors, then never having them leave to use another app becomes your nirvana.
+
+Facebook and other social networks have long recognized the importance of this, and so have provided a host of information (news) and entertainment (games) options. And they continue to innovate, with Snapchat launching Discover and Facebook Messenger launching bots to enrich user interactions and keep them engaged.
+
+They also have started to delve into commerce options, such as how Messenger lets me order an Uber ride within a conversation.
+
+While Facebook and Snapchat are innovating with use cases to keep their users engaged, the app that is globally setting the prime example of a compelling all-in-one experience is WeChat.
+
+In its latest article, Forbespraises what WeChat lets its users do; “They can shop, hail a ride or book a hotel — right there while they are chatting with friends,” and blatantlycalls for Facebook to copy it. The Economist is equally impressed by how this super-app has become Chinese users’ default home on the smartphone, calling it “One app to rule them all.”
+
+We, personally, really like the fact that WeChat has gotten users to trust it with their financial information — this makes WeChat very well positioned to drive all kinds of commerce and financial use cases.
+
+Although WeChat presents a formidable case for a super-app in China, and Google Now has come a long way toward simplifying users’ lives, we don’t believe there will ever be a single destination for new users with increasingly sophisticated needs. Today’s global user is very demanding, with a multitude of complex use cases. We believe that you can categorize all use cases into a small number of behavior categories, e.g. information, entertainment and shopping.
+
+Different user behavior categories can then be best served by different enabling experiences –entertainment might be a natural fit for social platforms, and information might be best left to the OS. We think that a noble goal for apps and OS experiences is to address as many behavior categories as they intuitively and elegantly can within their destinations, without trying to be everything for everybody.

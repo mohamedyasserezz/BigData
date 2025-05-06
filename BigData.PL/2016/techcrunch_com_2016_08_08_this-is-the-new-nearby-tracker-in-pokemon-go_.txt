@@ -1,0 +1,29 @@
+This is the new “Nearby” tracker in Pokemon Go
+
+The “Nearby” tracking system in Pokemon Go — the one that’s supposed to let you actually figure out where Pokemon are hiding without walking aimlessly — has been broken since day two or three after launch.
+
+It went from kinda working with a functional-if-confusing “footprint” system (three footprints = far, one footprint = close) to not working at all (all Pokemon showing three footprints regardless of distance) to just being totally removed.
+
+An update rolled out for Pokemon Go users tonight, and the change log mentioned that a new nearby tracking system was being tested with “a subset of users”.
+
+Here’s what that beta nearby system looks like in action, as demonstrated in a video grabbed by Dogecoin creatorJackson Palmer:
+
+https://twitter.com/ummjackson/status/762860057159618561
+
+and another video:
+
+Not quite sure what you’re looking at?
+
+The “Nearby” drawer now has two sections: Nearby, and Sightings.
+
+“Nearby” Pokemon are those which happen to be close to nearby Pokestops. Tap one of those and the map zooms out to an overhead view, showing you which Pokestop you should head towards. It’s like they looked at the now-banned Pokevision and said “Well, if you can’t beat’em…” The Pokemon you’re looking forshouldbe near that Pokestop; according to most reports, they’re usually within about a block. Pokestops now have circles around them similar in sizing to the one around the player’s — if a Pokemon is within that circle, it counts as “Nearby” that Pokestop.
+
+Pokemon in the “Sightings” section have grass behind them rather than a Pokestop image — this means they’re in the wild and not immediately near a Pokestop, and you’ll have to hunt for them without any built-in guidance. Tapping a “Sightings” Pokemon doesn’t seem to do anything at the moment, and they don’t necessarily seem to be sorted by distance (hopefully this changes)… so you’ll still be walking a bit aimlessly, albeit with the knowledge that it’snotnear a Pokestop.
+
+“But wait, Greg! I updated the app, and I don’t see any ‘Nearby’ section!”
+
+Yeah — that’s the catch: it’s only been rolled out to that aforementioned “subset” of users. For now that seems to largely mean people in San Francisco — though some players in other major cities also report seeing it. Most people outside of a few major cities just see the “Sightings” section, even if they’ve got Pokestops nearby.
+
+(Note: Niantic specifically notes that this system is a test. It could very well change drastically before most people get it. Hopefully they figure out some system that also helps rural players who don’t have many Pokestops to begin with.)
+
+A few other things worth noting:– If a Pokemon despawns before you find it, it finallyactually disappears from the Nearby/Sightings drawer. A bug that has plagued the game since launch kept despawned Pokemon in that drawer until something else replaced it or you force-quit the game, leading players to hunt for things that were LONG gone.– Similarly, if you’re no longer within a reasonable distance of a Pokemon, it disappears from the tracking drawer automatically.– If you’ve tapped on a Nearby Pokemon to start tracking it and it despawns, a pop-up appears to let you know it’s gone.

@@ -1,0 +1,27 @@
+Robots and on-board ovens deliver on Zume’s promise of better pizza
+
+There was once a time when the Pizza Hut Stuffed Crust pizza was enough to get people excited.
+
+Today, in a world ofbacon-wrapped crustand custom-modifiedChevys with pizza warmers, being excited about pizza is just not as easy as it used to be.
+
+Zume Pizzafounder Julia Collins and her Elon Musk-esque approach to pizza doesn’t care much for the rest of the pizza industry. In her mind, the pizzavations of the previous decades are irrelevant if the pies arrive soggy, cold and packed with chemicals.She is taking on the pizzastablishmentwith robots, a truck, 56 ovens, a passionate staff and some predictive analytics.
+
+When I traveled to Zume Pizza’s Mountain View headquarters, I half expected to walk into a restaurant. Instead, what I saw was a quintessential Silicon Valley tech startup. Not tech in the way that ordinary pizza chains have internal innovation teams for building apps, but tech in the way that the office had aJuicerofront-and-center, surrounded by external monitors — with no pizza in sight.
+
+Not far from the monitors was a tiny door that led to the heart of the operation. A small, conservative setup with a handful of employees and well… you know… robots typically seen on the assembly line of an automotive plant.
+
+While the robots make for great publicity, the machinery actually makes your pizza better. A tomato sauce-dispensing robot, Pepe, and a sauce-spreading robot, Marta, can actually spread sauce more evenly than a human. Bruno, a six-axis beast, can pick up pizzas off the end of the line and put them into the oven without the training typically required to master the use of a pizza peel.
+
+After the pizza comes out of the oven, it is boxed in specialty pizza boxes that alleviate the effects of steam on the crispness of the pizza crust. The compostable sugar cane-based box has ridges that redirect the flow of any drippings, and the top of the box can absorb additional moisture.
+
+From here, a team of “pilots” take the pizza and deliver it to customers using a data-driven logistics platform to coordinate deliveries. To most people this would be impressive, and it rightfully is. Making pizza with robots is cool, but it’s not enough to deliver on the company’s goals of serving up Neapolitan pizza to everyone. Artisan pizza cannot sit; even with the innovations in the pizza boxes and delivery routing, the delivery time still averages 22 minutes, and that simply isn’t fast enough.
+
+Zume has been investing heavily in oven design. This is because in the future, pizzas will not be cooked on-site. They will be cooked during the delivery process itself. Collins has turned a truck, the type you would see delivering UPS packages, into a pizza factory. A custom-designed rig holds 56 GPS-connected pizza ovens housed on gimbals to prevent sliding on hills.
+
+When the truck hits the streets, it will be able to receive orders and begin cooking independent pizzas when the truck approaches a specific delivery. The Zume team has also been collecting data on pizza ordering habits through its app and wants to be the first pizza delivery service to proactively reach out to customers to sell approaching pizzas. For example, if a family tends to order a Sweet Corn Elote, one of Zume’s specialty pizzas, every Thursday at 6:30pm, Zume can reach out at 6:15pm and try to sell the pizza while it’s out on the truck waiting to be cooked. If the pizza isn’t sold, it can be sold in the traditional way.
+
+Because the truck is quite large, the final delivery infrastructure will resemble a hub and spoke network. Each region the company expands to will have a single robot-equipped pizza-making facility and a single pizza-cooking truck. A fleet of Fiats and e-Bikes will allow the trucks to park off campus at a school like Stanford and deliver pizzas to dorms. Zume is also toying with the idea of a rewards system for customers who are willing to come to the curb for direct pickup.
+
+In a fun, albeit scary twist, Zume Pizza’s robotic ambitions were funded in part by SignalFire.SignalFire is an artificially intelligent early-stage venture capital firmthat uses machine learning to identify and diligence optimal investments. Chris Farmer, founder of SignalFire, and Julia Collins are both building tools that can to some degree replace traditional jobs, but ultimately their tools are not designed to replace humans. It’s more about building a world where people and robots can coexist side-by-side. Zume still employs a chef to design the pizzas, dough rollers and drivers — though the latter is likely on its way out.
+
+Collins is focused intensely on pizza right now, but has ambitions to build the“Amazon of food.”If it’s any consolation in the meantime, last time I checked humans are still better at actually eating the pizza than robots. When we lose that, I think it will officially be time for us all to succumb to our pizza-eating robot overlords.

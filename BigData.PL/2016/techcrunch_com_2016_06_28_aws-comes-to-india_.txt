@@ -1,0 +1,13 @@
+AWS opens its first region in India
+
+Amazon Web Services (AWS) todayannouncedthe launch of its first region in India. Formally known as the Asia Pacific (Mumbai) region, this new AWS region is the company’s sixth in Asia Pacific. With this, AWS now operates 13 regions, with a total of 35 availability zones.
+
+AWS previously announced its plans for opening this new regiona year ago. The company says it has more than 75,000 customers and partners in the country already and it expects that number to grow.
+
+“Indian start-ups and enterprises have been usingAWSfor many years — with most Indian technology start-ups building their entire businesses onAWS, and numerous enterprises running mission-critical, core applications onAWS,” said Andy Jassy, CEO ofAWS, in today’s announcement. “These same 75,000 Indian customers, along with others anxious to start usingAWS, have asked for anAWSIndia Region so they can move their applications that require low latency and data sovereignty.”
+
+The new Mumbai region will offer two availability zones and access to all of AWS’score services, though some newer offerings like theEC2 Container ServiceorAWS Lambdaaren’t available there yet.
+
+It’s worth noting that Microsoft Azure already offeredthree data center locations in India(Central, South and West). Google, which has been slow to expand its regions, currently serves the Asia Pacific region from Taiwan (with a location in Tokyo coming later this year). The company plans to open 10 additional regions in the near future, though.
+
+Upstart cloud and hosting provider Digital Ocean also recentlylaunched a data center in Bangalore.

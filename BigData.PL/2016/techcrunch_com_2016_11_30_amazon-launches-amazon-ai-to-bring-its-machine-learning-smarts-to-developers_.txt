@@ -1,0 +1,17 @@
+Amazon launches Amazon AI to bring its machine learning smarts to developers
+
+Amazon today announced the launch of its new Amazon AI platform at itsre:Invent developer eventin Las Vegas. This new service brings many of the machine learning smarts Amazon has developed in-house over the years to devs outside the company. For now, the service only makes three different tools available, but the plan is to add more over time.
+
+Amazon Web Services CEO Andy Jassy stressed that Amazon itself has a lot of background in machine learning, even though the company hasn’t always talked about it. “We do a lot of AI in our company,” he said. “We have thousands of people dedicated to AI in our business.”
+
+The first of these new services under the Amazon AI umbrella is an image recognition service called “Rekognition.” It allows you to recognize objects and scenes, similar to services already available from Google, Microsoft and others. Amazon did stress that its system is smart enough to recognize the breed of dog is sees in an image, though it’s worth noting that its competitors can often do this, too. Jassy noted that the service is very cost-effective, though he didn’t announce pricing.
+
+The second isAmazon Polly, a text-to-speech service that uses a lot of machine learning smarts under the hood. Jassy noted that it produces life-like speech. “Pollywas designed to address many of the more challenging aspects of speech generation,” Amazon explains. “For example, consider the difference in pronunciation of the word “live” in the phrases ‘I live in Seattle’ and ‘Live from New York.’Pollyknows that this pair of homographs are spelled the same but are pronounced quite differently.”
+
+Polly features 47 male and female voices and supports 24 languages.
+
+The third, and probably most important new service is called “Lex.” This, Jassy said, is essentially the technology that fuels Amazon’s own Alexa service. It allows you to build conversational applications that can feature multi-step conversations. Developers start designing their conversations in the Lex Console, where the can train the bot with a few sample phrases.
+
+“You can useAmazon Lexto build chatbots and other types of web & mobile applications that support engaging, lifelike interactions,” Amazon explains in today’s announcement. “Your bots can provide information, power your application, streamline work activities, or provide a control mechanism for robots, drones, and toys.”
+
+During today’s keynote, Amazon showed how this could allow a developer to easily book a flight with just your voice (somehow, that’s becoming the canonical demo for all of these services). Lex is deeply integrated with Lambda and other AWS services and comes with a number of enterprise connectors, too. In addition, it’s integrated with Facebook Messenger, Slack and Twilio, so it’s not just bound to Amazon’s own devices but could be built into virtually any other device, too.

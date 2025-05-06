@@ -1,0 +1,13 @@
+Nvidia’s new Xavier SoC is an AI supercomputer for cars
+
+Nvidia’s work in reinventing itself as a leader in automated-car technology continues with the launch of a new system-on-a-chip, called Xavier and launched today at the GPU Technology Conference Europe. TheXavier SoCmanages 20 trillion operations per second, while only using 20 watts of power.
+
+Xavier is designed to be used as an AI brain for use in self-driving cars specifically, and Nvidia CEO Jen-Hsun Huang told attendees at the conference that it’s “the greatest SoC endeavor” he’s ever encountered, which he notes is particularly meaningful given how long Nvidia has been in the business of making silicon.
+
+Because it’s used in cars, Xavier was designed to meet the ISO 26262 functional safety spec, which is an international standard that sets expectations for electronics used in cars designed for road use. The SoC uses a 16nm manufacturing process, and just one can replace Nvidia’s current DRIVE PX 2 in-car computer, including a configuration of said component that includes two mobile SoCs and two discrete GPUs, while also using less power.
+
+Xavier is intended for use by carmakers, suppliers, research organizations and startups looking to field and test their own self-driving cars. You won’t see it in any cars in the near future, however — Nvidia says it will start shipping the first samples in the fourth quarter of next year.
+
+Meanwhile, Nvidia also teamed up with TomTom in a partnership that will see the two companies combining Nvidia’s AI platform and TomTom’s mapping data to provide real-time, localized mapping data for use in highway and freeway driving situations. Nvidia also demonstrated its own AI-based self-driving research vehicle, which learned how to drive itself based entirely onobserving human driving behavior.
+
+Clearly, Nvidia’s ambitions lie with autonomous driving, and it’s starting to look like its work in that area could eclipse its identity as a graphics hardware provider pretty quickly.

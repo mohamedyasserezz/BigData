@@ -1,0 +1,41 @@
+Google’s DNI fund puts €24M into 124 news projects across Europe
+
+Google’s ongoing effort to fix its reputation in the world of publishing in Europe took another step forward today.
+
+TheDigital News Initiative, a group formed by the search giant to explore, promote and financially back new efforts in news publishing,announcedthat it is putting €24 million ($26 million) into 124 projects across 25 countries in Europe. The efforts span major newspapers embarking on projects to advance data journalism and the use of AI to surface stories for readers, through to anonprofitdeveloping ways to weed outfake news, a timely subject in the wake of the recent U.S. election.
+
+More highlights of the projects below, and a detailed run-down can be foundhere.
+
+This is the second tranche of funding from the DNI, which waslaunched in 2015and opened up for applicationsa year ago. If 124 sounds like a lot of projects, that appears to be the strategy for Google: fund far and wide with smaller sums of money. The first group of funded projects, announcedearlier this year, numbered 128, which received a total of €30 million.
+
+Google’s efforts to support news organizations big and small trying out new things comes at the same time that the company is trying to negotiate a path forward in Europe with regulators, who are coming after it with a series of antitrust cases accusing it of being too dominant, not just in its search business, but in its mobile Android business, as well.
+
+Google CEO Sundar Pichai is currently in Europe and is expected to meet with Margrethe Vestager, the EU antitrust chief, onFriday of this week, to discuss the ongoing cases.
+
+The DNI work also comes at a time when many news organizations are struggling against the economics of the news industry — which has had a messy transition from being a profitable, print-based business that made money through both newspaper sales and advertising, to a largely ad-based free effort that is available online through a vast proliferation of outlets.
+
+That is a trend that is hurting not just smaller primary news outfits but some of the most iconic among them. TheWSJand theGuardianare among the larger publications that have announced job cuts in recent months; among some of the newer groups,Fusion and Univisionyesterday said they will lay off up to 250 staff, with some of that already taking effect. (And that’s before you start to consider smaller blogs.)
+
+Some have laidat least part of the blamefor the slow demise of the news industry at Google’s feet (and more recently Facebook’s) because of the way that they aggregate and share headlines and offer their own way to quickly scan the basics of stories without needing to click into publishers’ own sites, making it a challenge to institute subscriptions or paywalls around that content, or even benefit from an uptick in traffic that can be used to promote ad sales.
+
+Still, some publishers have tried to forge ways of working with these portal behemoths, for example, by incorporating Google’s AMP project and Facebook’s Instant Articles to make the experience of viewing articles faster (even if, such as in the case of Instant Articles, those publishers are again giving up some of their traffic in the name of better UX).
+
+The DNI sits as a counterbalance to this, with some 180 members from across the industry in Europe aiming at coming up with ways to build smarter, tech-driven news organizations that will, arguably, be in control of their own disruption and therefore at least reap the financial benefits of that.
+
+Notably, as part of the financial backing, Google and the DNI do not take any equity stake in the projects or the companies running them.
+
+Ludovic Blecher, the head of Digital News Initiative Innovation Fund at Google, said that the main criteria for this latest tranche of funding included not only “impact, innovation and project feasibility” but also projects focused on collaboration.
+
+“The projects that stood out prioritise collaborative approaches between publishers, academics, designers and entrepreneurs, both within a single country and across Europe,” he said. The range of individual funding can go from €50,000 to €300,000 typically, although can be higher in special cases.
+
+Getting even €50,000 from Google is a competitive process. There were 850 submissions for this latest round of funding, and Google said that 43 focus on collaboration. “We see this collaboration — across countries, across newsrooms and across specialties — as an amazing display of the intent to energise the European news ecosystem with new ideas, new technologies and more,” he notes.
+
+We have taken a deeper dive intoone of the projectsgetting funding today from Google, in part because it’s a timely issue:Full Fact, a nonprofit out of the U.K., will be using the funding not just to continue building out its human team of fact checkers, but also to embark on building some automated fact-checking tools.
+
+Among others getting funding, Google highlights the following three, all classified as bigger projects: one in data science; one developing a chatbot to answer newsy questions; and one working on finding a publication’s best “evergreen” content that’s not time-sensitive but potentially interesting for readers nonetheless.
+
+Spiegel Online – Germany – in collaboration with Institut für Spielanalyse & TU MünchenWhat happens when you mix sports reporting and data science? With EUR 689,116 from theDNI, Spiegel’s collaborative project aims to create an entirely new way for readers and journalists to experience and analyze soccer games. With a goal of using new approaches in data collection, data interpretation and player analysis, Spiegel Online plans to help fans become experts — using novel applications of artificial intelligence.
+
+Corriere della Sera: The Vocal Bot – ItalyWith EUR 300,000 in funding, Corriere della Sera will pursue the design of a digital assistant where Corriere della Sera can answer users’ news-related questions on a variety of devices. The ambition is to be able to answer natural language queries such as “Please, tell me the latest on the Brexit” or “Who won today’s GP?.” The “Digital Assistant” will read headlines and articles, search Corriere della Sera’s archives, and scrape the publisher’s digital content for material.
+
+Le Temps SA – SwitzerlandThe industry agrees that exceptional content increases loyalty and engagement. So with EUR 45,000 in funding, Le Temps is pursuing a tool to resurface and republish the newsroom’s best ‘evergreen’ articles when they relate to current events. Called “Zombie,” the tool will analyse articles on Le Temps’ website using data from both Chartbeat and Google Analytics and apply a score to each piece. At the same time Zombie will analyse web activity for trending topics — which can be matched to Le Temp’s database of content. If so, the tool will alert the newsroom.

@@ -1,0 +1,35 @@
+Ticwatch 2 team clarifies which apps its Kickstarter smartwatch will initially support
+
+The team behind Ticwatch 2, the Chinese smartwatch project that hascrossed $1.5 million on Kickstarter, has confirmed which apps and services its wearable device will initially support.
+
+Mobvoi,the Google-backed company behind the project, uses its own modified version of Android to power the $139 watch rather than Android Wear. That means that it cannot support all the regular apps you might expect from an Android watch, despite the company initially saying it would offer full Android Wear support. On the plus side, its own system lets it offer useful voice command support and other bespoke integrations.
+
+Writing in response to concern from some of the project’s near-8,000 backers,Mobvoi this week issued a lengthy updateto clarify app support, apologize for any misinformation, and provide further details:
+
+Pre-installed apps (for both Android and iOS): Dialer, Calendar, Health (including heart rate, steps etc), Fitness, Weather, Calculator, Stopwatch, Timer, Recorder, Alarm, Music control, Find My Phone.
+
+Voice Search (both Android and iOS): Uber, Yelp, POI, Joke, Weather, etc.
+
+3rd Party Apps: 2046, Blue Carbon Analog Watch Face, Magic watch Face Ticker, Ustwo Watch Faces.
+
+Android: Notification of SMS, Facebook Messenger, Whatsapp, Gmail, etc. [Full Notification Display and Voice Reply]
+
+For other Android apps, we invite all developers to join our developer community and bring more to the Ticwear ecosystem.
+
+iOS: Notifications of SMS, Facebook Messenger, Whatsapp, Gmail, etc. [Full Display]
+
+Since Mobvoi operates a dedicated app store for its OS, it expects this list to grow as more developers make their services available for the Ticwatch 2.
+
+We will continue working internally and with our partners to test and adapt more apps. The beauty of Ticwear is in its evolving platform. We are counting on the passionate Kickstarter community to give us feedback on user experience and to help us make the Ticwatch a better watch for the future.
+
+Many backers had also asked about warranty status for the device even though — as we’ve stressed many times — backing a Kickstarter is not the same as buying a product. Backers must make concessions for backing an idea and accept that, in some circumstances, there may be unforeseen issues.
+
+Nonetheless, Mobvoi has pledged it offer a one-year warranty:
+
+We are proud that our project is backed by people from over 200 countries. We stand behind our product, and we promise to provide a one year warranty as a retail purchase would. Supporting a global warranty requires great coordination of logistics and policy, and we are still finalizing the warranty terms.
+
+The update was well received by most backers. The project has now passed $1.5 million with six more days left for others to join.
+
+As a reminder,we were impressed by the original Mandarin version of the watch, which features a more intuitive user interface than other watches, some nifty gestures and integrations with China’s top services — such as ride-hailing app Didi Chuxing.
+
+The Ticwatch 2 is Mobvoi’s first effort at making an international version of the watch. Mobvoi co-founder Yuanyuan Li told us last month that the Kickstarter edition is very much a beta version which the company hopes to refine and improve with feedback from its community of backers.

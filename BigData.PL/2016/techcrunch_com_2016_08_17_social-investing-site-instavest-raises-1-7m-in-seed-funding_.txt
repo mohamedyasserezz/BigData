@@ -1,0 +1,21 @@
+Social investing site Instavest raises $1.7M in seed funding
+
+Part of YC’s Winter 2015 class,Instavestis a startup trying to turn investing — an activity most of us are used to doing privately — into a social activity.
+
+The site launched about a year and a half ago with the goal of helping average retail investors learn from others who have more experience in investing and the stock market.
+
+Today the startup announced they closed a $1.7 million seed round with participation from Y Combinator, Skype co-founderJaan Tallinn,Cherubic Venturesand more.
+
+The original version of Instavest allowed experts to share their stock trades (and rationale) for others to see and potentially duplicate. If the stock did well, the service then let the users offer a portion of their profit to the expert as a “donation.”
+
+But the site was missing something — it lacked direct integration to a user’s brokerage account, so traders would have to manually navigate to their broker to execute each trade, then go back to Instavest to log it into their profile. This was definitely a hassle, and was an extra step that stood in the way of users seamlessly buying stocks shown on the platform.
+
+But this is now changing, as Instavest has also announced they have integrated with 10 of the most popular online brokerage firms, so customers can buy and sell stock directly from Instavest’s site. These firms include popular platforms likeE*TradeandOptionsHouse, plus about 8 more. The site connects with these firms via their individual APIs, and after a one-time authentication you can buy and sell stock with your preferred brokerage without leaving Instavest.
+
+This direct integration soft-launched about two weeks ago, and the startup says the total value of stock held by users has already grown 10x, or 1,000 percent. This crazy growth shows just how important it is for startups to provide users with a frictionless experience — prior to the direct brokerage integration, most users probably just gave up on purchasing a stock because of the hassle it was to navigate to their brokerage firm and actually execute a trade.
+
+The company also is launching a new way for experts to make money on the platform. While the optional donation method worked (and will be kept), it also had some friction — mainly because users could just decide not to reward an expert for a stock tip.
+
+So now the startup is letting experts create their own paid subscription newsletter to send their stock tips to any user willing to pay somewhere between $50-100 per month. While these tips will be released to Instavest’s general (non-paying) user base a few days after the expert’s newsletter is sent, paying users can potentially gain a huge advantage by buying or selling a stock before the general public.
+
+Offering this additional way for experts to generate revenue is an essential step in growing the platform. Just like how on-demand services like Uber and Postmates need to provide enough steady income to convince partners to quit their full-time jobs for the gig economy, Instavest needs to attract and retain successful investors if they want to become the place to go for great investment advice.

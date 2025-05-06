@@ -1,0 +1,35 @@
+DeepMind Health inks new deal with UK’s NHS to deploy Streams app in early 2017
+
+DeepMind Health, the division of the Google-owned AI company that’s focused on building links to healthcare providers to drive the application of machine learning algorithms for preventative medicine, has inked a fresh data-sharing agreement with the NHS Royal Free Hospital Trust in London. The new data-sharing arrangement extends until at least 2021.
+
+It’s the second agreement signed between the pair — and it supersedes their original agreement inked last year, which ran into controversy after a freedom of information request byNew Scientistrevealed the volume of patient identifiable medical data (PID) flowing from the Royal Free to DeepMind, andraised questionsabout whether NHS information governance principles were being correctly followed. The data in question was being used to power an app called Streams, built by DeepMind but using an NHS algorithm to generate alerts on patients at risk of Acute Kidney Injury (AKI).
+
+At the time the collaboration was made public, last February, no details were provided about how much PID was being shared between DeepMind and the NHS — leading to huge consternation when the scope of the arrangement emerged.
+
+The U.K.’s data watchdog, the ICO, began investigating complaints about the data-sharing agreement. The Streams app also ran into trouble when it was revealed DeepMind and the Royal Freehad not registered it as a medical devicewith the oversight body, the MHRA, despite piloting the app in the Royal Free’s hospitals. The MHRA had not been approached prior to starting tests of the app.
+
+The pair subsequently suspended use of Streams in the hospitals. But they’re now announcing plans to restart the project — and, evidently, to try to reset it onto a firmer information governance footing. Above all this is an attempt to improve the tarnished public image of DeepMind’s inaugural push into preventative healthcare by trying to secure patient trust — to, ultimately, grease the future funnel for more data flows from the NHS to DeepMind.
+
+The point is, healthcare-related AI needs very high-quality data sets to nurture the kind of smarts DeepMind is hoping to be able to build. And the publicly funded NHS has both a wealth of such data and a pressing need to reduce costs — incentivizing it to accept the offer of “free” development work and wide-ranging partnerships with DeepMind (which has severalotherprojects on the go with other NHS Trusts).
+
+DeepMind and the Royal Free confirmed today that the Streams app has now been registered as a medical device with the MHRA, and said it is ready to be deployed in the Royal Free’s hospitals from early next year.
+
+“Following prototype testing, as well as registration with the Medicines and Healthcare products Regulatory Agency (MHRA), this first version of Streams is ready to be deployed to clinicians across the Royal Free hospital sites early in 2017. It is expected to result in an immediate improvement in AKI-related patient safety and outcomes,” they write in a press release about what they describe as the “next phase” of their collaboration.
+
+There also looks to be a broadening of the scope, with the PR talking about expanding the app’s remit to cover early detection of sepsis and organ failure, as well as AKI.
+
+“The ultimate version of the Streams app will alert doctors and nurses to patients who need their attention in seconds rather than hours, reducing the number of patients who deteriorate in hospital without a clinician being aware,” they write, adding: “Streams will be extended beyond AKI to help care for patients with other serious conditions including sepsis and organ failure. At least ten thousand people a year die in UK hospitals through entirely preventable causes, and some 40% of patients could avoid being admitted to intensive care, if the right clinician was able to take the right action sooner.”
+
+On the information governance front, among the noteworthy developments are:
+
+Commenting in a statement, DeepMind co-founder Mustafa Suleyman said: “Privacy and trust are paramount, and we’re holding ourselves to an unprecedented level of oversight by publishing our agreements publicly and engaging nine respected public figures to scrutinise our work in the public interest.”
+
+Despite what is clearly a lot of re-engineering of the presentation and some changes in the structure of DeepMind’s collaboration with a publicly funded and much-beloved National Health Service, many questions remain unanswered — not least the core criticism that the volume of PID being shared without patient consent is questionable, given the pair have always relied on claiming they do not need to obtain patient consent for sharing the data because they say it is being used for what’s termed “direct patient care.”
+
+However, direct patient care refers to a direct care relationship between an individual patient and their clinician(s) — whereas some of the patients’ whose data is being shared under the Streams arrangement, so at least initially for the purposes of detecting AKI, will never be in the relevant direct care relationship because they will never develop AKI.
+
+Safe to say, the push toward “preventative” healthcare looks to be putting a lot of pressure on the NHS’ traditional information government processes — which are not set up for an era of big-data mining and machine learning-driven “future potential” promises. It remains to be seen whether the U.K.’s National Data Guardian will seek to provide some guidance here (following controversy generated by the original DeepMind/Royal Free data-sharing data, Caldicott has beenlooking into how data was sharedbetween the pair).
+
+But as private sector giants like DeepMind make early bids for valuable public health data sets — for thestated aim of building future healthcare services to sell back in to the NHSetc. — governments and regulators have an equally pressing need to get their heads around the new reality of health data — as both a highly sensitive and personal resource and a commercial-accelerant-in-waiting that could enable the creation of a new generation of digital healthcare products. One thing is certain: Gaining and sustaining patient trust in any such systems will be essential.
+
+At the time of writing DeepMind had not responded to requests for an interview.

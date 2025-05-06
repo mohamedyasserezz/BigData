@@ -1,0 +1,57 @@
+Post-quantum crypto startup PQ bags $10.3M Series A
+
+Being first to market with complex technology doesn’t usually make for a simple sales proposition. Nor does trying to pioneer an alternative approach as a small security startup vs established industry practices.
+
+UK-basedPost-Quantum, aka PQ, which was founded all the way back in 2009, has been bootstrapping and toiling up this hill for years, having developed an encryption system designed to be proofed against cracking by quantum computers. Thing is, there aren’t yet any quantum computersin the wild.
+
+So while PQ’s co-founders areno longer being laughed out of pitch meetingson account of their NP-hard, semantically secureMcEliese cryptosystem, they are still finding it hard to convince investors to bite.
+
+A spot of good news for them today, though: they’ve closed an £8 million Series A (~$10.3M at current exchange rates, but closer to $11.2M when they closed the round — owing toBrexit‘s impact on the value of the pound), topping up the £800,000 in seed funding they had previously raised, including funding taken in via the Techstars/Barclays Accelerator program which they went through last year.
+
+The new funding comes from Hong Kong based VMS Investment Group and AM Partners.
+
+“We spent a lot of time trying to raise money. We spoke to many VCs and investors in Europe but eventually we found that it was quite difficult for us to explain what we were doing. Because what we do is rather complicated,” says co-founder Andersen Cheng. “[Our new investors] are more later stage private equity people — but they were the ones who got it within five minutes.”
+
+Cheng concedes it’s still too early for PQ’s post-quantum encryption to blaze a broad adoption trail on its own merits. So the team has been concentrating efforts on lowering the sales ramp to what it dubs its “defence-grade level of protection” by offering a suite of security products (it calls them “modules”) that aim to fix a range of nearer term pain-points for the target customers.
+
+It’s this modular approach which he says the new investors got right away.
+
+The modules are designed to work together, although customers can also cherry pick only the ones they need. One is a secure messaging app which Cheng says would be compliant with regulations requiring archiving, for example. Another is a key-splitting technology that requires consensus approval to grant access. A third is a biometric authentication tech that uses video selfies to create an audit trail for authentication and fraud deterrence purposes.
+
+Video selfies? Who knew post-quantum security could be so down with the kids…
+
+The overarching theme to what is undoubtedly a complex security proposition — a post-quantum encryption startup bearing a toolkit of compliance-focused security fixes — is prevention, says Cheng.
+
+“Our mission is to protect the world’s information through prevention,” is his on-the-spot elevator pitch.
+
+“We did meet a lot of resistance in the last few years when we were selling protection technology because a lot of the CISOs were saying we need to understand what’s wrong before we can address it. Now they understand what’s wrong, and it’s like a tidal wave — there’s no point in investing further in just detection without being able to prevent it from happening. So the mindset has changed completely in the last 12 months,” he adds. “I think we’ll see a lot of the CISOs, CIOs moving away from just buying detection technologies.”
+
+So while post-quantum encryptionper seevidently remains a tough sell, PQ has further honed its proposition to help its customers with a range of compliance requirements — with Cheng noting its products can, for instance, addressMiFID 2requirements.
+
+Target industries and sectors for its modules include financial services, legal services, healthcare, government and utilities. So, in other words, all areas likely to be dealing with lots of regulatory issues, as well as handling highly sensitive data.
+
+Here’s the full list of modules in the current PQ toolkit:
+
+Not all of these modules are based on PQ’s post-quantum encryption technology, though Cheng claims they would all be secure against being compromised by any future quantum computers because that’s how they have been architected. The startup has around 20 patents granted and pending at this point.
+
+Giving an example of how its key-splitting consensus approval technology could be deployed in the real world, Cheng sketches the scenario of a nursing home worried about the risk of insurance claims against its staff being able to use PQ technology to enable an after-the-fact video evidence system, where video cameras are deployed in all its rooms but with the proviso that footage is only accessible (and thus viewable) via consensus agreement and solely for the purpose of proving out any future insurance claims.
+
+The encrypted video stream would be continually archived, unwatched, in a datacenter and could only be accessed if multiple parties holding pieces of the split key agreed to approve a request for access. “For example the nursing home director, the local authority, the insurer or maybe even the patient’s relative — a minimum of three out of four would need to get together digitally in order to open that clip just to see what happened in that last two minutes,” says Cheng. “That’s [one potential] use of quorum.”
+
+For now PQ has three customers, and Cheng is not yet disclosing names — saying only that it’s one banking customer, one government customer and a major global provider of trading floor technology to banks. But growing that number is a key focus for the new funding.
+
+The business model it’s intending at this point is a licensing one, along the lines of ARM Holdings. So creating architecture/modules that customers pay to use and integrate into their own infrastructures as they see fit. Cheng says it will also need to provide an API as a service “for certain implementations”, but that’s as close to a SaaS model as it’s planning to get.
+
+“It’s highly unlikely we’ll go into the b2c world, selling to individual customers one by one, or even SMEs,” he adds, although he also suggests PQ could end up as a technology and background hosting provider for other b2c players to package up modules into different sales propositions. Whatever gets its core IP out into the world and generating revenue most successfully.
+
+Most of the Series A will be going towards new hires and specifically on more biz dev employees to turn more leads into fully fledged customers, according to Cheng.
+
+“We’re mostly development heavy and we do not need to create a large sales team. Right now we’ve got more enquiries than we can cope with so it will be mostly spent on business development to follow up all the enquiries and to come up with the final solutions per customer. Because we have built all the modules now — it’s now the Lego block play depending on the requirements,” he adds.
+
+It’s worth noting that, unlike many security firms, PQ is not open sourcing its technology. So it’s not inviting a community of interested outsiders to verify the robustness of its security claims. But Cheng says this is because it’s not a b2c business and will therefore be working closely with only “major” customers who will be performing their own audits of its source code — meaning a wider open sourcing process is not necessary to win trust in its technology. Its customers will do their own due diligence on its claims.
+
+Cheng does add that PQ is working with independent crypto experts — includingprofessor Fred Piper, of Royal Holloway College— to verify all its patents and algorithms to ensure it is “cryptographically robust”.
+
+Getting crypto experts on board is one thing, but PQ’s most pressing challenge lies in convincing industries and governments they need to buy in to its post-quantum security vision right now. And while building post-quantum encryption is undoubtedly an impressive feat, convincing CISOs to open the purse strings to a different kind of security thinking is a whole other type of sweating toil.
+
+At least PQ now has a larger cash pile under its boots to help it up the hill.

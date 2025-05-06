@@ -1,0 +1,19 @@
+OpenAI’s Universe is the fun parent every artificial intelligence deserves
+
+Every parent’s worst nightmare is a student spending more time playing video games and surfing the web than studying for school. But the team over at OpenAI believes that a “fun parent” approach could actually bring us all one step closer to the elusive generalized intelligence.Its new tool, Universe, was created to train and measure AI frameworks with video games, applications and websites.
+
+At a high level, OpenAI, the billion-dollar side-project of Elon Musk and Sam Altman, aims to reduce the potential harms of artificial intelligence by democratizing it.Universe is being released withAtari 2600 games, 1,000 flash games and 80 browser environments with the goal of expediting the creation of generalized intelligence that can excel at more than one task.
+
+This new tool runsin the same vein as prior projects like ImageNet.The ImageNet database is a massive, hand-labeled set of images. Researchers have used it for years to test their image recognition systems and compete for accuracy. Universe takes this all a step further by replacing images with flash games, web browsers, photo editors and even CAD software.
+
+One of the features of Universe that makes it so cool is its applicability to the real world. It is very easy to pull benchmarks of human performance on these sorts of tasks. Playing a computer game or browsing the web is far less wonky than asking a sample group to label trees, cars and clouds in images.
+
+“In April, we launched Gym, a toolkit for developing and comparing reinforcement learning (RL) algorithms,” explained OpenAI in a blog post. “With Universe, any program can be turned into a Gym environment.”
+
+Reinforcement learning is a branch of machine learning that leverages the idea of reward to optimize problem solving. Reinforcement learning draws its approach from behaviorist teaching, that action is driven by explicit reward and punishment.Earlier this year, DeepMind published a paperon the applications of reinforcement learning to mastering Atari games.
+
+Of course, to make reward explicit, one first needs to create a function for reward, fueled by some dynamic value. For an Atari game, this is relatively easy — it’s just the game score. But to make this method universally applicable, OpenAI had to build a convolutional neutral network-based OCR model. The model allows for easy parsing of game scores with ever-changing, complex typography and background imaging. Once parsed, the gameplay data can be plugged right into those reinforcement-learning reward functions.
+
+Other tasks like web browsing are not as explicit as video games, but that doesn’t keep them out of reach. OpenAI created what it calls the “Mini World of Bits” to benchmark both simple and complex browser tasks.
+
+If researchers can attain very high accuracy on a number of these tasks in a generalized manner, artificial intelligences will be able to tackle problems far outside the reach of today’s platforms like Siri or Google Assistant. OpenAI used the example of flight booking to describe a future where an AI could manipulate a website to search for, and ultimately book, flights.

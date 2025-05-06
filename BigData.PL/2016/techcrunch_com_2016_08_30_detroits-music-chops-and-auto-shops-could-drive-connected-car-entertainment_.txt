@@ -1,0 +1,27 @@
+Detroit’s music chops and auto shops could drive connected-car entertainment
+
+On a recent episode of a podcast called “The Watch,” one of the hosts made a joke about “grabbing the aux cord” in a friend’s car to play new music. In an age when self-driving cars could be whizzing us around cities in the next decade, it’s strange to think that we haven’t yet come up with a great solution for a much simpler problem — how to make listening to digital music in the car a more seamless experience.
+
+Despite all the amazing streaming music, online radio and podcasting services launched over the years, using them in the car remains a largely clunky experience. Most still require either a Bluetooth or corded connection, and, of those, many require using the phone to interact with the service rather than the in-car dashboard. It’s not that far removed from the days of using a cassette adapter to get a Discman to play through the car speakers.
+
+The question is, who will solve this problem… Silicon Valley or Detroit?
+
+Both have a vested interest in making it easier to stream your favorite music app in the car. After all, according to the Radio Advertising Bureau, more thanhalf of all radio consumptiontakes place in the car. And while traditional radio remains the go-to format for music in the car, its share is shrinking.According to Nielsen, the time spent listening to radio fell 35 percent, to less than 14 hours per week, between 2007 to 2015. Meanwhile, according to the2016 Infinite Dial report, 57 percent of Americans now use online radio monthly.
+
+The issue is control. With traditional terrestrial radio (or physical tapes/CDs), auto manufacturers controlled the interface and radio stations simply provided the programming. But digital music services place just as much emphasis on the user experience as they do the programming. The resulting struggle only adds to the already glacial pace of in-car audio progress.
+
+To be sure, there are plenty of technical reasons for slow progress. One is that cars take a long time to design and manufacture. That 2017 model you’ve been eyeing has been in development since 2010, before Spotify even existed in the U.S. In the last seven years, countless music platforms have come and gone, making it difficult for carmakers to cut deals with them and expect any type of longevity. While podcasts existed in 2010, they weren’t the global juggernaut they are now — and who knows if the format will hold up? Carmakers have to be great at predicting tech trends many years down the road — that’s something even VCs can’t do all that well.
+
+Connectivity is also a major challenge, and something carmakers don’t have much control over. Anyone who has tried to listen to satellite radio on a long drive has probably encountered a handful of dead spots — not a great listener experience. Because relatively few cars have Wi-Fi, building a dashboard that allows users to sample any online radio station or stream music or podcasts is quite difficult; the network simply isn’t there to support it.
+
+Both auto manufacturers and tech companies are attacking these pain points more rapidly of late. General Motors, for instance, says it had more than a million4G LTE-connected carson the road last year, with more on the way. Ford says it plans to add the same to its SYNC in-car entertainment platform. But with more than 300 million cars on the road, we’re just barely getting started.
+
+Google, meanwhile, unveiled the Android Auto system in 2014 to ease the integration between Android phones and supporting in-car dashboards. Apple made a similar move last year with Apple CarPlay.
+
+But beyond that, streaming services and apps need to start designing products with an eye toward the in-car user. While a home screen with a million options might work on a laptop or a phone, it’s terrible for a driver who wants to make a split-second decision about which station or playlist they want to pick next (let alone the legal and safety regulations in-vehicle apps must go through from government safety boards).
+
+Simply releasing an API and asking the automotive world to “have at it” is not enough. Services need to work on in-car UI improvements themselves, not just focus on the phone. They also need to invest in curating content designed for drivers, making it easy for them to find and enjoy. There has been talk that at some point in the next few years, all the apps we use in the car will communicate with each other and simply pick music based on routes, weather and moods. But until then, a great playlist or show about hitting the road should suffice.
+
+Again, the issue is control. Detroit remains saddled with an image of crumbling buildings and poisoned water, but after a recent visit I have first-hand knowledge of the innovation taking place there to turn things around. Smart, savvy businesspeople like Dan Gilbert are investing heavily in the area. People have the wrong notion of the city, which is rebounding with a host of new tech startups and University of Michigan talent.
+
+If automakers get the connected car right, it could be a huge boon for Detroit. The city has always been a great music town, being the birthplace of Motown, Techno and more. It could very easily become a music tech hub, as well, as the rise of the connected car draws both companies and jobs to town to work with local carmakers.

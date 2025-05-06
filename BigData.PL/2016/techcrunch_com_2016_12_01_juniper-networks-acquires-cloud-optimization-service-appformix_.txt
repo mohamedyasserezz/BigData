@@ -1,0 +1,15 @@
+Juniper Networks acquires cloud optimization service AppFormix
+
+AppFormix, a cloud operations management and optimization startup, today announced that it has been acquired by publicly traded networking companyJuniper Networks. AppFormix was founded in 2013 by Sumeet Singh, who previously worked at Microsoft and Cisco. At Microsoft, he started the Windows Azure Networking team.
+
+AppFormix works with any OpenStack or Kubernetes distribution and helps operators gain real-time insights into the state and health of their clouds, then allows them to take action based on this information (and to automate many of those processes). More importantly, though, it also includes some predictive features that prevent issues in the first place. The service also features some automated orchestration tools that help operators avoid the kind of resource contention that can often slow workloads down. All of this is built on top of a big data analytics and machine learning platform — and that’s likely what Juniper was most after.
+
+Juniper plans to pair AppFormix’s telemetry and operations management smarts with itsContrailproduct line. “When paired withJuniper’s Contrail product line, AppFormix improves cloud orchestration, security, accounting, and planning,” Juniper notes in today’s announcement. “We believe thatJunipercustomers will benefit from a smarter, automatic, and agile operational experience at lower total costs.”
+
+AppFormix itself will remain a stand-alone brand and will continue to develop its own platform under its current name. Current users shouldn’t notice any immediate changes.
+
+“Juniperis focused on delivering agile, virtualized networking technologies to its telecom customers and other operators of large networks,” Singh notes in today’s announcement. “Together, AppFormix andJunipercan give customers the best possible NFV experience.” He also notes that AppFormix and Juniper are both deeply integrated with the OpenStack and Kubernetes communities and that the two companies can give those who operate clouds and applications based on those technologies “an automated monitoring environment that’s built from the ground up for DevOps and developer agility.”
+
+Similarly, Juniper’s CTO Pradeep Sindhu argues that his company’s customers are looking for a “self-driving infrastructure” and that the acquisition of AppFormix will allow Juniper to accelerate the roadmap to getting there.
+
+While Juniper did not disclose the acquisition price, it’s worth noting thatAppFormixhas raised a total of $7 million.August Capitalled the company’s Series A round.

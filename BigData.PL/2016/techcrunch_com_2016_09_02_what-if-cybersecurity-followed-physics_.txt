@@ -1,0 +1,43 @@
+What if cybersecurity followed physics?
+
+The first cybersecurity unicorn kernel popped in late 2013 with the announcement ofCloudFlare’s $50 million Series Cinvestment. Today, 10 privately held companies hold membership in the ultra-exclusive cybersecurity unicorn club.
+
+With the addition of each new member, eyebrows are raised and questions are asked. What underlying data supports such valuations? Would there ever be sufficient revenue in the cybersecurity market to sustain unicorn valuations? Are cybersecurity unicorns outliers or are we at the start of a sustainable trend?
+
+Enough has been written about investor exuberance and enthusiasm for cybersecurity. Those who predicted a market correction, including me, were wrong. So what happens next? Where do these unicorns and the high-valued public cybersecurity companies go from here?
+
+The answer can be derived from two concepts in physics: entropy and collisions. Elevated valuations suggest a lack of predictability and risk in the market; in a word, entropy. Entropy portends a gradual decline into disorder. Collisions may offer an alternative. As defined byMerriam-Webster, collisions are “an encounter between particles (such as atoms or molecules) resulting in exchange or transformation of energy.”
+
+When two atomic nuclei unite to form a heavier nucleus, the result is an enormous release of energy. Controlling that energy — harnessing it for good — also applies in M&A. Large technology companies are frequently hampered by their inability to generate new revenue and growth from natural or organic innovation and turn to inorganic growth that, like fusion, is about transformation: The idea that one-plus-one is greater than two.
+
+Uncontrolled, ill-conceived and poorly managed, such collisions could, of course, implode, explode or otherwise have negative results — but let’s apply some positive thinking and imagine the possibilities.
+
+We expect that through a controlled collision between two unicorns, between a unicorn and an equivalent high-value public enterprise, or even between two high-value public companies, there will be a positive transformation: a bigger and more credible merged entity providing better services and generating more revenue than the services and combined revenue of each company operating alone.
+
+We currently count 10 privately held unicorns, including CrowdStrike, given its “near” unicorn valuation in summer 2015; 11 publicly traded cybersecurity companies with a mid-2016 market cap over $1 billion; and two unknowns: The RSA Division of EMC and the security division of Intel. Obvious but deliberate exclusions in this narrative are companies with diverse product lines where cybersecurity is but one focus, such asIBM,Oracle,Microsoft,CA Technologies,Cisco,HPEandRaytheon, to name a few.
+
+Private cybersecurity unicorns (date-joined order)
+
+Public cybersecurity companies (>$1 billion Cap)
+
+The unknowns
+
+Let’s consider a few possible what-if collisions, starting with the most obvious.
+
+Suppose that Tanium, a next-genBigFix, collided with Qualys, a leading, albeit legacy, vulnerability assessment and management company. The result would enable full-cycle security services, from assessment and discovery to resolution and remediation, with a significant improvement in automation. From end-point devices through the cloud services those end-points connect into, and everything in between, the combined company would provide coverage. Qualys is a tired company. Tanium is a young buck full of spit-and-polish. The combination delivers both market access and a broader and more holistic solution set. What’s not to like?
+
+Next, let’s look at the combination of what goes out with what comes in. Network admission took on renewed urgency with the introduction of bring-your-own-device. ForeScout, has driven this category for well over a decade. While being the last company standing in the NAC category delivers revenue, being a one-trick pony has limitations.
+
+In contrast, while firewall companies (both traditional and next-gen) focus on data that streams, they are less concerned with who is on the networks, why they are there and what they are doing. Adding such insight would be interesting and valuable, especially given recent innovation in exfiltration. A collision between ForeScout and either Check Point, Fortinet or Palo Alto Networks will deliver necessary understanding not available today.
+
+Collisions, by the way, need not be limited to horizontal synergies. Could ForeScout’s admission control be further enhanced and made more effective if delivered in combination with Okta’s identity management and single-sign-on solution? After all, knowing both the person and the device is more powerful than relying exclusively on one or the other.
+
+Or perhaps ForeScout might align best with Illumio’s adaptive security model, an update to legacy network-centric security? If Illumio’s goal is to obfuscate network-layer constructs upon which ForeScout depends, then making ForeScout more accessible and easier to deploy sounds like a good fit.
+
+But perhaps the most intriguing combination remains the illusive collision between Symantec and RSA. Envisioned more than a decade ago, this coming together of two industry titans may ultimately be the most powerful and energetic transformation possible. Both companies could use a major refresh.
+
+While Symantec may have sparked a small fire through the acquisition ofBlueCoat, it remains entrenched in a narrow set of categories. Capturing a dominant market share requires moving beyond comfort categories and embracing complementary capabilities. RSA is many things. Though de-emphasized, it remains a leader in the encryption and identity space; it aspires to be a dominant provider of governance and compliance solutions; and it would like to ensure its seat at the forensics table. All are areas where Symantec is absent. Moreover, RSA needs freedom from limitations imposed on it both as a division of EMC and, in the future, as a company unaligned with the future strategy ofDell.
+
+The complexity of cybersecurity means that opportunities for innovation abound, but the price has been category and sub-category explosion. As my colleague,Richard Stiennon, pointed out earlier this year at theRSA Security Conference, there are more than 1,440 cybersecurity companies globally fitting into over 80 classifications. As a result, there is no one dominant cybersecurity vendor with an exceptional market share but, rather, a number of category leaders of varying sizes.
+
+So, what if the giants began colliding? We’ll continue to explore additional unicorn-unicorn, unicorn-public and public-public possibilities in future posts — tune in!

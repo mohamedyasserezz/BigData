@@ -1,0 +1,21 @@
+NASA tech could track firefighters where GPS can’t reach
+
+In the chaotic environment of a fire or disaster area, knowing where your fellow firefighters and first responders are is of the utmost importance, but GPS and other positional tracking systems aren’t always reliable. A project from NASA’s Jet Propulsion Laboratory aims to solve this with a tracker that relies on a totally different kind of electromagnetic phenomenon.
+
+GPS, Wi-Fi, Bluetooth and other transmission methods rely on radio waves, which bounce around like crazy indoors and fail to penetrate many structures. JPL’s Darmindra Arumugam and his team created a system, calledPrecision Outdoor and Indoor Navigation and Tracking for Emergency Responders (POINTER), that relies instead on what are called quasistatic fields.
+
+Fields, like those you’d find around a magnet or any electric device, are limited in range because they don’t propagate, like waves, but some are only trivially affected by barriers like walls. Things within those fields exhibit predictable effects — for instance, a piece of metal will want to align itself in a certain way when held above and to the right of a magnet, but a different way when held below and to the left.
+
+The quasistatic EM fields used by Arumugam (so called because they aren’t completely stationary) are actually emitted by devices on the people being tracked; receivers outside would detect the fields and be able to tell exactly where the devices were and even which direction they were facing. That could not only help track multiple emergency personnel but alert others right away should their transmitter suddenly go horizontal or otherwise move in an unsafe fashion.
+
+The fields span several hundred feet — not big enough to use on a battlefield or out at sea, but more than big enough to encompass a fire in an office or a collapsed building.
+
+Right now the devices are backpack-sized, but those are just prototypes; Arumugam, who designed the system and all-important tracking algorithms, demonstrated it in this form recently for the Department of Homeland Security, which helped pay for its development. But the plan is to shrink it down to pocket size, which nothing about the technology prevents.
+
+“Right now in phase 2, the transmitter is about the size of a shoe box,” said the DHS’s Greg Price ina video showing off the tech. “When we move to phase 3, it’s going to go to about the size of something you can fit in the palm of your hand — so start thinking about a button or something, that may be on the PPE [personal protective equipment] of the first responder.”
+
+And that’s not the only application for this technology — as you’d expect from a JPL project, there are applications up in the Big Black as well.
+
+“POINTER could be used in space robotics,” said Arumugam in a JPL news release. “It could be used for tracking robots in underground tunnels, caves or under ice. They need to be able to navigate themselves, and we don’t have sensors today that would be able to track them. For us, this is a great opportunity to develop a technology for NASA and non-NASA uses.”
+
+If you’re curious about other tech NASA and its offshoots have created that may be working their way into the world, check outSpinoff, its publication that tracks and profiles the companies and inventions that have found commercial success as well as scientific.

@@ -1,0 +1,13 @@
+This new development kit makes it easier to get started with Alexa hardware design
+
+Building hardware with Alexa included is likely a smart way to go, given interest in Amazon’s voice assistant, but it’s also hard to do well. Consumer electronics industry supplier Conexant is looking to make the early stages of the process easier with a new development kit designed to provide accurate voice recognition from a distance of several meters using only two microphones, combined with a Raspberry Pi.
+
+The newConexant AudioSmart 2-Mic Development kitincludes the company’s latest voice input processor, too, which allows for built-in speech recognition. It’s basically designed to help provide a basic, effective grounding on which to build an Alexa-capable product, so that hardware makers don’t have to worry about engineering the listening and recognition engineering capabilities themselves.
+
+Working with Amazon, Conexant created this it specifically to cut down the initial development time for hardware companies looking at getting into Alexa device creation from a period of around six months or more to just a few weeks. Both parties have clear interests in making this happen; Conexant sells its components for production-ready devices, too, and Amazon clearly wants Alexa to spread beyond its own stable of speakers.
+
+Despite Amazon opening Alexa up to gadget makers in one last year, the list of hardware that supports it is still relatively small. Offering up an easier way to cut development time could definitely help increase the pace at which we see new Alexa hardware arrive, and perhaps encourage more OEMs who were uncertain about participating to give it a shot.
+
+The Conexant kit is available for order for $299 (plus the cost of a Raspberry Pi 3, which is sold separately). That sounds like a lot relative to the $199 you’d pay for an actual Echo, but prototyping and production costs are two very different things. Relative to building your own working dev hardware from scratch, as well as getting the voice recognition to a functional place using whatever hardware you source would probably be far more costly. Conexant’s hardware is also set up to detect voice commands even in noisy rooms, which would be another challenge or anyone trying to roll their own.
+
+Ultimately this should mean easier and cheaper early ramp for creating Alexa devices, and that’s hopefully going to mean we end up seeing Alexa Voice Service spread farther, into even more unique gadgets and accessories.

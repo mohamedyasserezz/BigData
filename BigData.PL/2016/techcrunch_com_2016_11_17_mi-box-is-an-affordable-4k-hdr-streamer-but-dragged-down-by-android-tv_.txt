@@ -1,0 +1,53 @@
+Mi Box is an affordable 4K HDR streamer, but dragged down by Android TV
+
+TheMi BoxisChinese smartphone company Xiaomi’splay to take on devices like Roku, Apple TV, Android TV and Fire TV. Priced at only $69, and sporting features like integrated Google Cast and voice search, the 4K- and HDR-supporting device seems worth a look. But at the end of the day, Mi Box is still an Android TV player, and subject to limitations of that platform — which are many.
+
+The Mi Box is quite thin. This roughly 4 x 4-inch matte plastic device is only about a quarter-inch thick. That’s smaller than the Apple TV, Fire TV and Roku’s higher-end boxes, though I’m not convinced that people buy streamers largely for their portability. (Or, when portability is a concern, they probably opt for a stick or dongle like Amazon Fire TV Stick or Chromecast.)
+
+On the back of the Mi Box is a power port, USB (which can support adding storage or Ethernet via an adapter), and a 3.5mm headphone jack that also can be used to connect to external speakers. Included with the device is the power cord, HDMI cable and a simple Bluetooth remote.
+
+Getting started with the Mi Box was not the most seamless experience, but, to be fair, set-up tends to be one of the more frustrating aspects to configuring any new device.
+
+An on-screen animation prompts you to press a button on the remote to get going, but some accompanying text would be helpful. (After all, why are they movingboththumbs to press a single button? Is their finger over the circular home button or the volume up? The diagram could be more clear).
+
+You then step through a fairly standard series of Android TV configuration questions, like language, Wi-Fi network, location services switched on… oh, andyou’re cool with giving Google your personal data and letting it download updates as needed? Great.
+
+There’s an option to use your Android phone or tablet to simplify set-up, or you can visit a URL on your phone and enter a code. (The webpage didn’t work on my iPhone, though. You could enter the code, but not click through.)
+
+Alternatively, you can sign in to your Google account directly on-screen. There’s an extra level of hell for anyone using two-factor authentication that involves typing in your Google account email and password, then having to type it inagainafter Mi Box realizes you’ll need to go through a different authentication flow. Yay.
+
+Thank goodness set-up is a one-time affair.
+
+The Mi Box remote isn’t cluttered with buttons, which mostly is a good thing. As to whether you like the choice to use the directional pad over player controls (play/pause, rewind, fast forward) may come down to personal preference.
+
+But the built-in volume controls are great to have. There’s also a power-off button, which is different. I tend to leave my Roku on all the time for the lovely background images, but you might like having the option to put your box to sleep when not in use. Just be careful — when my mind wandered, I once hit the power button out of habit, because Roku’s home button is also at the top. That was fun.
+
+People may be compelled to buy the Mi Box because it delivers 4K/HDR streaming at a lower price point than rivals like Roku’s 4K-ready Premiere ($80, 4K), Premiere+ ($100, 4K/HDR) and Ultra ($130, 4K/HDr), or the high-end NVIDIA Shield ($200). Meanwhile, Mi Box will support 4K Ultra HD and the HDR10 standard (the latter, enabled from Android N and onwards).
+
+But it is user experience that truly makes someone love their device, and being built on top of Android TV has pluses and minuses.
+
+On the upside, Google has great voice recognition capabilities and it’s handy to be able to kick off a voice search with just a press of a button on the remote. You can search for content beyond simply naming a title or actor you want to seek out. For instance, you can ask to see “Leonardo DiCaprio’s Oscar movie,” or questions like who played a certain character in a film.
+
+With voice commands, you can also launch apps, change channels, search the web, go to some TV shows and movies directly and more. You even ask non-TV related questions, like what’s the weather, or (as my kid likes to do), basic factual questions, like “how far is the moon?” (It’s a trick she picked up from Alexa.)
+
+Navigating using the remote, though, is snappy. You can move quickly through selections and by holding down on the directional remote, you can fly across the on-screen items. This is (unfortunately) especially handy, since the rows of apps you install are laid out in long, horizontal rows across the home screen. Apps also load quickly, and games ran smoothly. (Note that Mi Box supports external game controllers, but this was not included with the review unit. )
+
+Unfortunately, Android TV has its downsides. If you’re fine with being a bit locked into the Google ecosystem, you may not mind the fact that there’s no way to access Amazon’s content library or Prime Video, or that the “recommendations” at the top promote everything Google, like YouTube videos or Google Play Movies & TV, alongside a bunch of tips like “How to cast.”
+
+The Mi Box also ships with an annoying row of “Mi Box Recommends” app links. This includes a bunch of standard fare, like Netflix, Sling TV, Vudu, Pandora, HBO Go, Hulu, CBS All Access, VLC and others. But you can’t delete this row, and to remove an app from this row you have to first install it, then uninstall it.
+
+Meanwhile, though Android TV supports most of the major streaming apps, to install them you have to visit the Google Play store from the device. Apple TV, by comparison, organizes apps into categories as part of its larger user interface design.
+
+Then there’s the problem with navigating in and out of apps. While hitting the “back” button may exit you out of YouTube after some clicks, for instance, doing the same with Netflix takes you to its settings screen. This is a minor issue, perhaps, but one that can have you hesitating when mindlessly mashing your remote control.
+
+Another feature that seems great in theory, but fails in practice is Android TV’s Live Channels. The idea here is to give you an easy way to tune into live television programming served up via apps.
+
+However, there are only a few apps that support this right now, like Pluto.tv, but not the major players like Sling TV or PlayStation Vue. And when you start the live channel, then return to the home screen, the video keeps playing. For the life of me, I couldn’t figure out how to shut the video off beyond entering, then exiting, another app.
+
+The market for Mi Box comes down to wanting to cater to tech enthusiasts who are already looking for a 4K or HDR streamer and are intrigued by the lower price point. Apple TV doesn’t yet support 4K, and Roku’s options are more expensive.
+
+But on that latter front, you get what you pay for. On Mi Box, you’re on your own to find 4K content across apps that support it, like Netflix, YouTube, Vudu, UltraFlix and Sony’s Ultra streaming service. Roku’s software, on the other hand,highlights where to find and watch 4K video.
+
+There’s also the fact that, at the end of the day, this is Android TV. Enthusiasts may see this as an advantage over Apple’s more closed ecosystem. On Mi Box, you can sideload apps, likeKodi, for instance. But you can do this on Amazon Fire TV, as well, whichsupports4K, has Alexa and isgetting a refreshed user interface.
+
+Android TV has been largely forgotten in the streaming media race, and there’s a reason for that. It’s an unfinished — and way too Google-y — experience. If you’re going for platform lock-in, it’s hard to choose Android TV over Apple’s better-designed Apple TV. Or for those who want to stay in the Android universe, Amazon Fire TV seems a better choice. That said, given its price point for 4K and HDR, and its availability both in Walmart stores and on Walmart.com, Mi Box will likely make its way into a number of U.S. consumers’ homes in the months ahead.

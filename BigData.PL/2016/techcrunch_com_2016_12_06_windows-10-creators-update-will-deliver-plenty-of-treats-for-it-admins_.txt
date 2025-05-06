@@ -1,0 +1,25 @@
+Windows 10 Creators update loads up on features for IT
+
+Microsoft announced a slew of goodies today for its upcoming Windows 10 Creators update, designed to please IT admins and simplify management of Windows 10 inside large enterprises.
+
+Microsoft has been trying to get enterprise companies — you know the ones with lots of users — to make the switch to Windows 10. They claim, even before this announcement, the number of organizations going for what they called “full deployment” had increased 3X. Microsoft director of program management for Windows enterprise and security, Rob Lefferts, wouldn’t put an exact number on that, even when pressed, but indicated it was a “stock impacting number.”
+
+The company announced the user side of the so-called “Creators Update” a few weeks agowith a distinct 3D focusincluding3D paint, among other things. Today is all about the system administrators, providing new features related to security and easier device management inside, and in some cases, even outside of the Windows 10 environment.
+
+For starters, Microsoft wants to enhance the tools it gives security pros inWindows Defender ATP, the Windows 10 advanced threat protection dashboard. As Lefferts pointed out, the number and sophistication level of attacks is increasing all the time. That means in the tit for tat war of security versus hackers, the tools have to become increasingly sophisticated too.
+
+To that end, instead of limiting threat searches to disk, Microsoft is adding in-memory and in-kernel threat detection, as well, trying to expand the toolkit to give security teams more weapons to work with. In addition, the company has announced a partnership with security firm,FireEyeto share threat data. Lefferts says, it’s a case of the good guys banding together to fight security threats, but in addition, it is giving security teams the options of integrating their own threat intelligence data into the Windows Defender ATP framework.
+
+Finally, once the attackers get in — and someone is always going to get in — Microsoft is offering new tools for isolating the attacker or performing forensics on the fly. How aggressive an action the customer takes will depend on whether they want to follow the attacker and learn about them, or kick them out of the network. That will depend on many factors, but Microsoft is giving the security team some remediation tools, and they can decide how to use them.
+
+The company also announced a number of device management enhancements including an update to Windows Analytics. Lefferts says the latter is designed to help admins updating devices with Windows 10 to understand if those machines are ready.
+
+“[Windows Analytics] really gives IT insights on devices,” he said. It also allows IT to operate like a service for end users, something Microsoft is really hoping will happen as Windows 10 permeates the enterprise.
+
+If the analysis finds the machines needs to be updated from the old BIOS-style firmware to the newer UEFI, there is a new automated conversion tool to let them do that.
+
+Finally, Microsoft will be offering a couple of device management options. The first is designed for folks who offer some combination of company-issued devices and BYOD (bring your own device). These companies can control access to Windows/Office content on an enrolled device, even if the company isn’t using a mobile device management (MDM) tool.
+
+If the company is just offering company-issued devices, Microsoft can easily enroll the device and sign it up for whatever MDM tool the company is using.
+
+Microsoft has previously announced that the full Creators update should be available in early 2017. The IT side of this update is designed to offer a full range of administrative services. Lefferts said his company went out of its way to listen to customers and to implement the types of features they require, as it works hard to incorporate Windows 10 into the enterprise mix.

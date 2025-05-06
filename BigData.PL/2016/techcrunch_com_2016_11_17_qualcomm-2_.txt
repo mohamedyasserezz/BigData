@@ -1,0 +1,15 @@
+Qualcomm’s Snapdragon 835 will be built with Samsung, featuring faster and safer charging
+
+Qualcomm’s got a new chip just over the horizon, built in collaboration with Samsung, utilizing the electronics giant’s 10-nanometer FinFET process that promises to improve performance and energy over the Snapdragon 820 and 821’s 14nm FinFE.
+
+The new chip will replace the 821 as Qualcomm’s flagship when it starts arriving in devices at some point during the first half of next year. The new design promises a 27-percent bump in performance even as it consumes 40-percent less power than its predecessor, coupled with a notable bump in device battery life.
+
+On that note,the 835also features the latest version of Qualcomm’s proprietary Quick Charge technology, this time giving a device “five hours of use from just five minutes of charging,” by the company’s count. All in all,Quick Charge 4.0is said to bring a 20-percent speed increase over version 3.0.
+
+Of course there are some safety considerations, due in part toGoogle’s recent stand against non-complianceand, of course, somerecent issuesplaguing its manufacturing partner. The new standard will play nicely with the Android rules, making it compliant to the USB Type-C protocols and Google’s own strongly worded developer papers suggest.
+
+Here’s some of the safety language in the release the company issued this morning,
+
+Quick Charge 4 comes with advanced safety features for both the adapter and mobile device. Protection is implemented at multiple levels and throughout the entire charging process to more accurately measure voltage, current, and temperature while protecting the battery, system, cables and connectors. An additional layer of protection is also being added to help prevent battery over-charging and regulate current throughout every charge cycle.
+
+The new Quick Charge also promises greater compatibility with more cables and chargers than its predecessor.

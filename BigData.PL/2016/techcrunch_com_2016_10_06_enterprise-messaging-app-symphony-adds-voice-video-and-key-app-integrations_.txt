@@ -1,0 +1,23 @@
+Enterprise messaging app Symphony adds voice, video and key app integrations
+
+Symphony, the enterprise messaging app that counts a number of major investment banks among its investors and customers, is today taking the wraps of a run of new features that catapults the app into the next level of productivity solutions.
+
+The company is adding new voice, video and screen sharing features in the form of a new product called Symphony Meetings, and it is also launching the Symphony Webhooks API, giving companies the ability to create their own integrations with third-party apps alongside a list of apps that Symphony itself is integrating fromSalesforce,Github,JIRA,TrelloandZapier.
+
+The news comes as Symphony says that it now has over 100 companies using the app, covering 116,000 analysts (19,700 buy-side and 86,866 sell-side), and some 8,700 companies partnering with it.
+
+“Symphony Meetings, Webhooks, and our partner program collectively balance our vision of building the secure collaboration platform that powers work” says David Gurle, Symphony Founder and CEO, in a statement. “By addressing the needs of employees who count on cutting-edge, rich interactive tools, the needs of developers to integrate applications into Symphony to improve workflow, and the needs of enterprise IT managers for security and compliance, Symphony responds to the way we work. Symphonyenables and represents a community of innovators building the future of work, together.”
+
+The startup appeared to come out of nowhere in October 2014, riding the wave of interest in enterprise collaboration apps that also includes the likes of Slack, Microsoft’s Yammer, Hipchat and many others stepping up their pace to court the enterprise market, like Facebook, which will be launching its own enterprise offering out of betanext week.
+
+Symphony has directed its own product not so much as a general enterprise app, but it has taken some of the consumerization trend that helped form those other apps (‘why shouldn’t the working world have apps that work just as well as consumer apps, but with more security?’) and has applied it specifically to the finance vertical (so far).
+
+Its investor-customers include Bank of America Merrill Lynch, BlackRock, BNY Mellon, Citadel, Citi, Credit Suisse, Deutsche Bank, Google Inc., Goldman Sachs, HSBC, J.P. Morgan, Jefferies, Lakestar, Maverick, Merus Capital, Morgan Stanley, Natixis, Nomura, Societe Generale, UBS and Wells Fargo.
+
+That essentially puts it also into competition against the likes of Bloomberg’s terminals and other older solutions for receiving financial information and acting on it.
+
+Symphony has since picked up an impressive $170 million in funding from a those investment banks pluslarge strategic tech investors like Google. The company is now valued at $650 million and is reportedly looking at more funding soon.
+
+Symphony Meetings, as the voice and video collaboration product is called, lets users launch voice, video, and screen sharing inside chat rooms with a single click.
+
+Meanwhile, the list of partners that can now be integrated into Symphony’s platform include the following:

@@ -1,0 +1,37 @@
+Ashton Kutcher and Guy Oseary’s Sound Ventures back Apptopia’s next-gen app intelligence platform
+
+Apptopia, a startup that began its life asa marketplace for reselling appsbefore morphing into the app intelligence provider that’s now used by Google, Facebook, Pinterest, NBCU, and others, has closed on a second seed round of $2.7 million. The round, which was led by Ashton Kutcher and Guy Oseary’s Sound Ventures, brings Apptopia’s total raise to date to $5 million.
+
+Other investors in the round included prior investor Mark Cuban, as well as 500 Startups, RTA Ventures, Full Tilt Capital, Telegraph Hill Capital, Expansion VC and others.
+
+Apptopia’s history is interesting, given how it adapted its business over the years after finding that there wasn’t enough money to be made as a marketplace for apps.
+
+The company used the underlying data it had collected as a marketplace to re-architect the company to focus on app intelligence data.
+
+This space is already filled with competitors – like App Annie, Sensor Tower, SimilarWeb, appFigures, Mixpanel, and others – which focus on various aspects of mobile app analytics and intelligence.
+
+However, explains Apptopia CEO Eliran Sapir, larger firms like App Annie have made a business of selling to financial firms and hedge funds, Apptopia comes at the business with a different perspective – it wants to focus on app developers and publishers. That has led it to attract a number of companies to sign up for its paid service, including Google, Pinterest, Facebook, NBC Universal, Philips, Deloitte, Telerik, Fyber, Airpush, Chartboost, Startapp, SendGrid, and others.
+
+Sapir admits to being something of an underdog in the space, but one that’s now rapidly growing after nearly having to shut down not too long ago when the marketplace failed.
+
+An acquirer initially offered Apptopia $27 million to sell its business, but on the day of the deal, the offer was reduced to only $12 million. The startup rejected the offer and decided to find a way to keep going by pivoting to app intelligence. With personal loans, some additional cash from investors, and one larger pre-sold contract before the service was even launched, it kept the lights on.
+
+Today, Apptopia offers app data and store stats, as well as detailed usage data, like daily and monthly active users for apps, number of sessions, session time, retention and more. It also offers insight into how apps are built, pulling in an earlier feature that can show what sort of SDKs app makers are using. And it can offer data on in-app advertising, including things like where an app is advertising, how much they spend, how much they make from ads, and what ad SDKs they use, among other things.
+
+When it pivoted to app intelligence in June 2015, Apptopia had no revenue.
+
+“Within 60 days, we were at $30K MRR [monthly recurring revenue]. Within 120 days, we were at $70,000 MRR. And today, we’ve quadrupled that…it’s been a wild ride,” says Sapir.
+
+He says that Ashton Kutcher’s and Guy Oseary’s Sound Ventures were interested in researching the space, and signed up for a number of competing products. They compared the data from the various firms to that extracted from their own portfolio companies, and found that Apptopia’s was most accurate. They later invested.
+
+Apptopia’s pricing plans start at $79 per month for smaller developers and scale up to over $5,000 per month for those who need insight into advertising and API access. The service is also now used by over two dozen VC firms, as well.
+
+With the additional funding, Boston-headquartered Apptopia plans to double its 43-person team over the next year, in particular sales and marketing.
+
+The next version of the product will focus on making its data actionable.
+
+“The industry is in its infancy, and neither us nor our competitors have made moves to go to the next generation,” says Sapir. “The focus for us is not just about showcasing the data and making it accessible, it’s also about helping people make decisions.”
+
+In January, Apptopia will roll out version two of its platform which will include optimization tools based on its learnings that can help speed up the time it takes to decide what action to take next, based on the data at hand.
+
+“We built tools to take these decisions and make them in seconds, instead of hours or days of work,” he says.

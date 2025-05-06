@@ -1,0 +1,31 @@
+This is the Surface Studio, Microsoft’s new all-in-one PC
+
+Microsoft unveiled the Surface Studio today, an all-in-one PC with a 28-inch PixelSense display, with the thinnest display ever built according to Microsoft and a 3:2 display ratio. It also has an Intel Core processor, with a 2TB hybrid hard drive and an NVIDIA GPU, as well as integrated 2.1 speakers and a haptic feedback controller puck device.
+
+The computer has a unique hinge on the back designed to make it more flexible for creative pursuits, and Microsoft’s Panay Panos said onstage it’s designed to “fundamentally change” the way people create.
+
+The Studio has a touchscreen, 32GB RAM, a 2TB hybrid drive that combines HD and SD storage, four USB 3.0 ports, Ethernet, Audio, SD and Mini DisplayPort (no Thunderbolt) and the new radial input Surface Dial with haptic feedback. The speakers, ports and drive are contained in the base, which is a short, square box that lies between the chrome supports under the display.
+
+Surface Studio’s display is designed to immerse the user as much as possible, according to Panay, which includes using 13.5 million pixels to make for a 192 PPI density that doesn’t reveal individual pixels no matter where you’re viewing from, according to Microsoft. The display also includes a feature Microsoft is calling TrueColor, which Panay says allows creators to “render the world… as he or she believes it needs to be rendered.”
+
+What this means is that you can change your color space on the fly, meaning a filmmaker working in DCI-P3 can easily switch to sRGB to see how their content will look on TVs that don’t support the wider P3 color specification.
+
+The display also features something called “True Scale,” which allows it to display print products at actual scale on the screen. “One inch on the screen is one inch in real life,” Panay said onstage at Microsoft’s product reveal on Wednesday.
+
+Surface Studio’s hinge, which consists of two chrome arms attached to the base, is also designed to be reflective on purpose to further help it “fade to background,” according to Panay. It’s an interesting tactic for trying to reduce the user’s awareness of the actual hardware itself, and one that sounds a bit more like marketing hype than effective measure.
+
+The Studio’s display includes a “linear mic array” that’s able to pic up a user’s voice from across the room, making it essentially an integrated Echo-like speaker thanks to the inclusion of Cortana in Windows 10.
+
+Surface Studio also supports Surface Pen, making it an amazing option for graphics professionals. The Surface Dial works with the screen intelligently, giving you software tools like color sliders in various apps.
+
+The hinge is designed to easily let you go from upright to flat working device without resistance, and the Surface Pen support really helps make that True Scale feature very appealing. It basically means you can write in full speed (the latency looks incredibly low) on a 1:1 8.5×11 piece of virtual paper on the screen.
+
+Onstage, Panay also introduced and demonstrated the Surface Dial. It’s designed a new input device, in line with but different from things like mice and keyboards. Dial has global controls built-in, meaning they work throughout Windows at the system level. The Dial can work either laid out on the desk like a keyboard, or placed directly on the display, as in the image above. It’ll have different functions depending on which way you’re using it. Surface Dial also works with Surface Book, Surface Pro 3 and Surface Pro 4 for off-screen functions.
+
+A demo of the Surface Studio’s creative prowess included a demo from Madefire founder Ben Wolstenholme, who used it to create a thumbnail for an animated comic for his app. Wolstenholme explained how he used to do the same workflow on paper and in multiple steps, but he can now do it entirely digitally right on the Surface Studio, complete with assigning handy shortcuts like zooming for detailed inking to the Dial.
+
+“It’s amazing to me that Surface Studio makes it possible for me to have my entire creative workflow in one place,” Wolstenholme said.
+
+Surface Dial is open to developers, letting them create on-screen use cases that make it possible to use it to do things like change color while you’re actually in the act of digital painting, or adjusting scale and switching between tools on the fly.
+
+The Surface Studio is available for pre-order now, and will arrive in Microsoft Stores for hands-on demos starting October 27. It’s going to ship in limited numbers by this holiday season, and is priced starting at $2,999.

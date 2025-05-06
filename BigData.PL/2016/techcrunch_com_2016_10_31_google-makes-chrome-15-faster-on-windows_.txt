@@ -1,0 +1,13 @@
+Google makes Chrome 15% faster on Windows
+
+Google is currently making a concerted effort to make its Chrome browser faster and leaner. The company announced a project to bring down memory usage earlier this month, for example. But it also quietly started work on some other optimizations recently, too, that add up to making Chrome on Windowsrun about 15 percent fasterthan before.
+
+Starting with the Chrome 53 release of 64-bit Chrome and version 54 of the 32-bit version, Google started using Microsoft’s so-calledProfile Guided Optimizationtechnology to speed up startup times (by 17 percent), new tab page load times (by almost 15 percent), and overall page load times (by 6 percent) in Chrome.
+
+Profile Guided Optimization (PGO) is afeatureof Microsoft’s Visual Studio developer tools that measures how users actually interact with an application. It then uses this training data and re-compiles the application with a focus on optimizing the most often used functions of the application.
+
+“Chrome is a huge software project with more than a million functions in its source code,” Google’s Sébastien Marchand explains in today’s announcement. “Not all functions are equal – some are called frequently, while others are rarely used.  PGO uses data from runtime execution that track which functions are most common to guide optimization.”
+
+One of the most effective techniques PGO uses to speed up applications is to optimize where in the memory the often-used functions are kept so — at least in the ideal situation — those functions can be kept in the CPU’s fastinstruction cache.
+
+You can read all about how PGO works in practicehere, but the main takeaway is that Google is still able to squeeze more performance optimizations out of its existing code base for Chrome. Given that PGO isn’t exactly new, though, it does come as a bit of a surprise that the team didn’t use this technique already.

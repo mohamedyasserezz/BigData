@@ -1,0 +1,19 @@
+Kepler gets $5M to launch a network of football-sized IoT network satellites
+
+Kepler Communicationshas raised $5 million in seed funding to create a network of small, easily replaced satellites to create a real-time network through with internet of things (IoT) devices can communicate, essentially building a cellular network in space through which machinery and equipment can talk to one another and to its handlers.
+
+“You can think of it as a cell phone tower network in space,  not to serve my phone or your phone, but to serve any machine or asset in operation,” Kepler co-founder and CEO Mina Mitry explained about Kepler’s product in an interview. “So, if you’re a tractor doing mining operations in the middle of nowhere, you can use our network to relay information about the health and wellness of the tractor.”
+
+The Kepler network, which uses an array of small satellites (‘CubeSats’ in industry vernacular) could also provide the data connection necessary for the International Space Station to send back photos to Earth, Mitry says. Basically, Kepler hopes to handle any type of communication where it would be difficult to speak to connected machinery or devices using traditional terrestrial cellular networks.
+
+It’s a bit like what Facebook and Google are trying to do with their efforts to bring Internet connections to rural areas, but Mitry says Kepler is focused on machine-to-machine communication exclusively for now, since technical limitations of its satellites would make it difficult to do things like host real-time voice communications. Mitry also cites the much higher growth potential of commercialized IoT communication vs. traditional cellular data networks as a reason to focus their offering.
+
+You’ve probably heard the expression “hardware is hard,” as it pertains to startups, so it stands to reason that space hardware is harder. But Mitry has space cred: He completed both an undergrad degree, and partial PhD studies in aerospace engineering, and he worked at aerospace manufacturer Pratt & Whitney after school. After working at a number of startups, including as Director of Engineering at teaBOT, a YC startup making full-service kiosks to brew and dispense loose leaf tea, Mitry decided to found his own company, and Kepler Communications was born.
+
+“We’re setting up to have our first two satellite launch at the end of 2017,” Mitry says, although details about their launch partner will be revealed later on. And by the end of this year, they’ll be ready to do the important work of testing the hardware they’ve designed in Earth’s upper atmosphere, which should provide important data about space-based performance.
+
+Kepler’s seed round includes investment from New York’s IA Ventures, as well as Liquid 2 Ventures, Joe Montana’s personal investment vehicle. The startup finished Techstars Seattle in May, so that accelerator is also on board, and the round also includes Globalive Capital and BDC as well as angels.
+
+Attracting investment wasn’t easy, Mitry said, because a lot of investors balk at the idea that a startup can create a product designed for use in space. But he also says the climate is changing. Luckily, Mitry says, there’s been a huge shot in the cost of creating space-based technology, thanks to a move away from huge, expensive satellite infrastructure that was designed around a decade or so of use, with costs you needed to amortize over time. Small, inexpensive CubeSat-based designs mean the spending barrier for building satellites is much lower, along with other reductions cost.
+
+“Because of the standardization of things like form factor, and the reduction in launch costs, and a whole other host of things that are contributing, it’s now within the range of tons of startups,” Mitry said.

@@ -1,0 +1,37 @@
+PlayOn Cloud lets you record and download videos from streaming services to your iPhone
+
+PlayOnhas long offered media server software that allows cord cutters to record from streaming services like Netflix, Amazon, HBO, Hulu and others, in order to watch on any device – without ads – even when offline. Now, it’s taking this “cloud DVR” functionality to mobile through the launch of a new iOS application that lets you record and watch videos offline via your smartphone.
+
+With PlayOn Cloud, launched this week, iOS users can initiate and download recordings to their mobile device. The app will then keep a copy of the recording in the cloud for 30 days, so you can watch the video whenever you choose. The app also offers AdSkip technology, which lets you skip through video ads.
+
+I know what you’re probably thinking: wait, this is legal? Well, uh…that’s tricky. The streaming service providers’terms of service explicitly prohibit this behavior.For example, Netflix says that by using its service, you agree not to archive, download, reproduce, or distribute its videos. Hulu makes it clear that you should not use “any device, software, internet site, web-based service or other means” to do the same.
+
+The others follow suit, with similar language.
+
+That being said, recording the streams istechnicallypossible, andcopyright law has left some wiggle roomfor services like PlayOn to exist.
+
+The way the Digital Millennium Copyright Act (DMCA) puts it, breaking or circumventing copy protection mechanisms is what’s illegal. And PlayOn hasn’t been circumventing DRM or accessing the encrypted stream – it uses screen capturing technology instead. This keeps it on the legal side by following the letter of the law, if not the spirit.
+
+But let’s be clear, this is a very much a gray, murky area, so buyer beware.
+
+The mobile app explains that when you’re recording from mobile, what’s really happening is that you’re commanding a virtual server to start a web browser session to play and record the content you’ve selected.
+
+In practice, what this means in terms of functionality is that recordings take place in real time, as they do on the desktop version of PlayOn. So if you want to save a movie for later viewing, you’ll need to account for two hours or so of recording time, plus the extra time it takes to later download to your device for offline viewing. In other words, it’s not something you can use at the last minute before your flight, for example – you’ll need to plan in advance.
+
+Also, to be clear, PlayOn can’t grab you an HBO show if you don’t subscribe. In order for you to record any videos, you have to first sign into the various services.
+
+The company generates revenue by selling “credits” which you use to buy a recording. A credit costs 99 cents, but a launch deal is offering 25 credits for $17.50, using the code “cheapsake.” You can purchase at this rate up to 100 credits. There’s also another deal that’s offering five free credits to anyone who downloads the app before Sunday, Nov. 13.
+
+At launch, PlayOn Cloud on iOS supports recordings from Netflix, Amazon Video, Hulu, Yahoo! View, HBO NOW, YouTube, NBC, ABC, CBS, FOX, PBS and The CW.
+
+The app itself was a little frustrating to use. After signing up, it got stuck on a loading screen for so long, there seemed to be something wrong. I had to force close the app to get it to work. The navigational buttons at the bottom of the screen are also very small, as are the other screen elements and fonts. Plus, the overall user interface feels very utilitarian.
+
+But people aren’t using PlayOn for its looks, they’re using it for what it does.
+
+Still, I ran into a few glitches. Some buttons didn’t work the first time I pressed them. And when I tried to record a show after buying a credit, I got an error message. However, when I checked the recording status in the queue – the screen that shows you the progress by the minute – the show was recording.
+
+PlayOn operates in something of an odd space in the streaming landscape. Right now, it’s filling consumers’ need for a service that offers them offline viewing. But offline access to video is already available for some shows on Amazon, and even Netflix has said it would consider the technology in the future. Meanwhile, the world is becoming more blanketed in Wi-Fi – even on planes – which diminishes the need for an app like this.
+
+The other advantage is that you could save a video to your device before it leaves the streaming service.
+
+PlayOn is available as afree download on iOS.An Android version is in the works.

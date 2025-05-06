@@ -1,0 +1,43 @@
+Dynamic Signal gets $25M led by Microsoft’s VC to replace the company bulletin board
+
+A wave of enterprise apps, from Slack through to Facebook’s Workplace, is tackling and changing how employees communicate with each other when they are both far apart and nearby. Now another startup in the same neighborhood as these has raised a significant round of funding to scale up.
+
+Dynamic Signal— which has built a platform that lets large businesses (customers include GE, Procter & Gamble, IBM, Edelman, Capital One, Salesforce, Autodesk, Deloitte, Humana, Hitachi Data Systems) send out message-based communications to employees and partners by delivering them as apps to the handheld computer that everyone carries in his or her pocket — has itself pocketed $25 million, a Series D round that values the company at $150 million, CEO Russ Fradin said in an interview.
+
+The funding was co-led by two new investors, Microsoft’s VC arm Microsoft Ventures and Akkadian Ventures — which has backed other enterprise startups like Splunk and Docusign but also social plays like Pinterest — with participation also from Focus Ventures and existing investors Trinity Ventures, Venrock, Rembrandt and Time Warner. The company has now raised just over $68 million.
+
+The Microsoft investment is notable not just because Microsoft itself has been buying up and building its own collaboration tools (Skype, Yammer and, most recently, the launch of Teams), but because Microsoft just last weekformally closedits acquisition of LinkedIn.
+
+Pointedly, LinkedIn tried to acquire Dynamic Signal over a year ago (we have heard from very reliable sources), although the two companies couldn’t agree on a price. Fradin wouldn’t comment on whether this was a sign that LinkedIn (via Microsoft) might try to buy again, but it’s an interesting coincidence all the same.
+
+With so many companies now piled into the area of workplace communication, Dynamic Signal is eye-catching for a few reasons.
+
+For one, the company doesn’t focus so much on collaboration (as many others do) as it does communications that are being broadcast to employees.
+
+“It’s not meant to be chat,” Fradin said, adding that while there is a facility for this, most disable it. “There are ways to do replies but not person to person.” (Other services on the platform include the ability to build APIs, track analytics for read items, build browser extensions, integrate with other apps and, yes, email if you really want it.)
+
+He believes that while chat-based services are important, and he knows of several that are using Dynamic Signal alongside these, his app has a very specific purpose to broadcast information. “If you look at a company like Disney, it has 180,000 employees. The idea that the CEO would be on WhatsApp or something like it is absurd.”
+
+As Fradin described it, the idea is to supplant things like intra-company magazines and websites as well as those thumbtack-riddled bulletin boards that line many a hallway — all of which are generally ignored.
+
+The challenge is not as much the message as the medium, in Fradin’s view. “There are an enormous amount of disconnected workers and the challenge is how do you communicate something to these employees?” he said.
+
+Just as with others services like Facebook’s Workplace and Zinc (formerly known as Cotap), Dynamic Signal is selling its services to those large businesses that are a mix of many different kinds of employees.
+
+Not everyone in a large enterprise will be sitting at a desk with a computer, but everyone now has a smartphone, and if you can tap into that, you can do more than just send out communications, he believes. “You can do things like social selling and employee advocacy,” as these employees in turn can share things on their own social accounts. (If you haven’t guessed, the kind of information broadcast in these messages is not confidential.)
+
+This also points to something else that’s important about Dynamic Signal: The company is not focusing specifically on so-called knowledge workers who have desks and computers.
+
+Taken across the wider pool of labor, Fradin said, “the average worker does not have email but everyone has a smartphone.” And not everyone that a company wants to communicate with internally will be employed by the company itself. One example he gave that hits both of those points is that of an automotive company that uses Dynamic Signal to send messages to its wide network of car dealers.
+
+And by closely integrating with each customer, it lets those businesses communicate with very specific groups: people who are clocked-on at the time of the message being sent; or people who are based out of specific cities; those with specific roles; those who have indicated interest in a specific program; or even those who are close partners but not actual employees.
+
+It’s all this that makes it interesting to see Microsoft, despite all of its many moves in collaboration already, see this as an investment worth making.
+
+“Dynamic Signal is changing the way that companies communicate with their employees with enterprise-grade technology that seamlessly integrates with existing global business processes,” said Nagraj Kashyap, Corporate Vice President, Microsoft Ventures. “Our investment represents our confidence in this rapidly growing category and Dynamic Signal’s approach.”
+
+Fradin himself has along and pretty successful track recordin tech — another reason why he and his company may be catching the eyes of VCs. He was the co-founder of Adify (sold to Cox Enterprises for $300 million), an early employee of comScore and one of the first developers and employees at Flycast, one of the first adtech networks (acquired in 1999by CMGI), in addition to sitting on a number of boards today.
+
+Interestingly, Dynamic Signal is actually also doubling down on integrating with the very tools that might one day become its biggest competitors. Just this month, the company announced integrations with Facebook Messenger, Slack and Yammer — the idea being that while some employees may download separate apps, others are only likely to use what they already have, and this could help target them as well with little built-in bots.
+
+“Dynamic Signal is the leader in enabling corporations to engage, inform and motivate the significant portion of the working population that does not have corporate email,” said Ajay Chopra, General Partner at Trinity Ventures. “They are serving the ‘forgotten masses’ who don’t hear enough from their corporations despite being loyal employees. Trinity was the first investor in Dynamic Signal and we’re delighted to see that they’re continuing to change the way the world communicates at work.”

@@ -1,0 +1,95 @@
+Fitbit, Jawbone, Garmin and Mio fitness bands criticized for privacy failings
+
+Several of the most popular fitness wearable makers have been criticized for having obscure and asymmetrical terms and conditions that impinge on Europeans’ consumer and privacy rights.
+
+In an analysis of the privacy policies and T&Cs of four wearable makers, Fitbit, Garmin, Jawbone and Mio, theNorwegian Consumer Councilfound reasons to be critical about the various trade-offs all require consumers to sign up to in order to use their services.
+
+“The wristbands are useful tools for monitoring and motivating fitness activities. Simultaneously we are giving up personal information about our health, activities, and location under asymmetrical and obscure terms,” said Finn Myrstad, director of digital services in the Consumer Council, in a statement.
+
+“We fear that this information can be exploited for direct marketing and price-discrimination purposes, and that basic privacy principles are being neglected.”
+
+The Council’sreportexamines the T&Cs and privacy policies of the Fitbit Charge HR, Garmin VivoSmart HR, Mio Fuse, and Jawbone UP3 — and flags up a range of failures, as the body sees it, including that:
+
+It’s also unhappy about the lack of data portability offered; by procedures for deleting data being inadequately explained; and user agreements giving “narrow and vague” definitions of what constitutes personal data, among other criticisms.
+
+The Council says it intends to file a joint complaint against all four companies with the national DPA and the Consumer Ombudsman for breaching the European Data Protection Directive and the Unfair Contract Terms Directive.
+
+“It is important that we don’t give up basic rights in order to use the products and services of the future,” Myrstad adds, pointing to general trend of more and more connected devices being packed with data-collecting sensors.
+
+“Consumers have little access to information about where their personal data are being sent, and how this is used.”
+
+Lengthy T&Cs, vague definitions, data-sharing question marks
+
+The report is critical of how wordy and impenetrable the fitness wearables’ T&Cs and privacy polices can be — something the Council haspreviously called out app makers for.
+
+“When terms and conditions are too long and complicated for anyone who may wish to read them, it is relevant to ask whether informed consent can truly be given,” it notes.
+
+Fitbit’s policies came in at the wordiest of the four, according to its analysis, clocking in at 7,500 words (17 pages), plus a 2,000-word (5 pages) document detailing their privacy policy under the EU-US Privacy Shield.
+
+“The NCC deems it unreasonable to expect consumers to read 22 pages of terms before making use of their product, which makes the implication of informed consent problematic,” it adds.
+
+When it comes to hard to understand language, the NCC says all four services “employ liberal use” of what it dubs “vague language”, but it calls out Garmin and Mio as the worst offenders here.
+
+“[I]n the use of easily understandable language (e.g. not overly legalistic or technical), Fitbit and Mio use layman’s terms where possible, while Garmin and Jawbone have terms of service that are quite difficult to parse for the average consumer,” it notes.
+
+Fitbit also gets a plus for structuring its T&Cs in a format that’s easier for consumers to understand, and for not writing terms in caps locks (as all others do) — although its terms are still the longest of the lot.
+
+The report also flags up problematic differences in how personal data is defined by the companies, with the NCC judging only Canada-based Mio as defining this type of data in a “satisfactory” way, from a European perspective — with its privacy policy noting that: “Personal information is any information that identifies you personally, either alone or in combination with other information available to us.”
+
+Whereas Garmin does not regard location data as personal data, according to the analysis, and Jawbone “does not specify what they mean by personal data at all”.
+
+“In practice, this means that these two services can process some data regarded as personal by European standards, without regarding or treating this information as sensitive,” the report argues.
+
+The NCC also calls out all the services for failing to give “clear indication of who they share personal data with” — with only Fitbit mentioning some analytics third parties by name.
+
+“Regarding the question of who user data may be shared with, Garmin redirects users to “Garmin’s publicly available filings with the U.S. Securities and Exchange Commission website to see the current list of Garmin’s affiliates”,” writes the Council, adding: “This is an obscure and complicated way of informing consumers, and neither the NCC nor The Citizen Lab were able to actually discern who these affiliates are.”
+
+The NCC also commissioned a technical test of the device makers’ apps by a third party consultancy firm, and says this unearthed “several instances” of data going to unlisted third parties:
+
+Garmin and Fitbit send a call to graph.facebook.com upon starting the app, regardless of whether the user actively attempts to connect to Facebook. If the user also has the Facebook-app installed on their phone, this allows Facebook to link the wristband to the phone’s device ID.
+
+The Garmin Connect app also notifies the ad-trackers Tags.tiqcdn.com and Gigya while using the app, transmitting the device’s IP-address. Although the tests have not shown any clear indication that this data is transmitted for marketing purposes, the information that is transmitted could be used to display targeted advertising on different platforms. None of the relevant terms or privacy policies state that data is being passively sent to these third parties when using the apps.
+
+When it comes to obtaining consent to share user data with third parties, the NCC deems Jawbone and Garmin “best in class” for having policies that state they will not do so without obtaining prior consent.
+
+While, on the issue of whether user data is deleted when a user deletes their account, all of the services are criticized for failing to explicitly state they will do this.
+
+“Unfortunately, none of the analyzed fitness trackers explicitly state that they will delete user data when the account is deleted. Fitbit is probably the least worst on this point, stating that when the user account is deleted “data that can identify you will be removed from the Service”,” the report notes.
+
+“However, they continue by saying, “Backup copies of this data will be removed from our server based upon an automated schedule, which means it may persist in our archive for a short period. Fitbit may continue to use your de-identified data.”
+
+None of the fitness trackers analyzed make any mention of data retention periods either — which the NCC concludes mean they do not delete inactive users’ data.
+
+“This is problematic, since many users might delete the apps and assume that their information will not be put to further use. If inactive users’ data is not deleted, it could potentially be re-used for other purposes long after the user left the service,” it writes.
+
+All the services are also criticized for making it difficult for users to delete an account.
+
+Summing up its conclusions, the Council calls for an overhaul of the way fitness trackers treat consumers’ data.
+
+“Health data is, as seen over the course of this report, very sensitive information, and should not be treated lightly,” it writes. “Since app-operated fitness wearables is a still evolving technology, there is still time to implement consumer-protective measures and standards.”
+
+It also warns of the looming impact of the new General Data Protection Regulation (GDPR), which comes into force in the European Union in 2018, saying that many of the issues it is flagging will become easier to address as a result of the new directive.
+
+“By implementing principles such as privacy by design, these service providers will be ready for the new regulation, and also enhance consumer trust, which is good for both users and for businesses,” it adds.
+
+We reached out to Fitbit, Garmin, Jawbone and Mio to ask for their response to the report. At the time of publishing only Fitbit and Jawbone had responded. We’ll update this story with any additional statements.
+
+Fitbit sent the following response, emphasizing that it only shares personal data where a user “specifically directs us to do so” — or under what it termed “limited exceptions”, as set out in its privacy policy:
+
+We share the Norwegian Consumer Council’s commitment to protecting consumer privacy, and we look forward to working with them and regulators to continue to ensure strong privacy practices are in place.
+
+As the leader in connected health and fitness, Fitbit is committed to protecting the privacy of our users’ data and the trust of our customers is paramount. It has always been our policy not to sell user data; we have never sold personal data and we do not share personal data unless a user specifically directs us to do so, or under the limited exceptions described in our privacy policy,http://www.fitbit.com/privacy. Furthermore, Fitbit tries to employ clear, non-legalese language in our policies so our users understand what data we collect and how we use it, and we continually look for ways to improve our written policies.
+
+Fitbit also noted that on September 29 it signed up for the European Commission’s new EU-US personal data transfer framework — aka the Privacy Shield — arguing that its rapid adoption of the data transfer mechanism “affirms our ongoing commitment to data security for our customers”.
+
+Although it’s worth noting that the EU-US Privacy Shield is itself nowfacing a legal challenge, with Digital Rights Ireland arguing the framework does not provide adequate safeguards for European’s data to comply with regional data protection law.
+
+Jawbone provided the following statement in response to the NCC report:
+
+We are currently reviewing the report from the NCC.
+
+We want to reassure our users and let them know that we only share their data if they ask us to – for example to integrate with a 3rd party app.  We are custodians of the user’s data. We collect it, analyze it, and present it back to the user with meaning. The user may give us permission to share that data. They can download their data and take it somewhere else. And they can ask us to delete it (which we will do).
+
+Update:Mio has now also provided the following statement:
+
+Mio has always strived to put the customer first. Having reviewed the comments and concerns in the report, there are some immediate changes that we can address such as the privacy policy access on our website, formatting and layout. Regarding the concerns around personal information required, Mio only requests information that is used in our algorithms – the core part of how we set heart rate zones and supply accurate workout data to the end user. The report mentions that new regulations will cover many of these issues and we are putting significant effort into maintaining best practices in privacy and security to comply with all regulations, giving consumers the protective measures necessary.

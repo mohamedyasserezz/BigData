@@ -1,0 +1,61 @@
+The darker side of machine learning
+
+While machine learning is introducing innovation and change tomanysectors, it also is bringing trouble and worries to others. One of the most worrying aspects of emerging machine learning technologies is their invasiveness on user privacy.
+
+From rooting out yourintimate and embarrassing secretsto imitating you, machine learning is making it hard to not only hide your identity but also keep ownership of it and prevent from being attributed to you words you haven’t uttered and actions you haven’t taken.
+
+Here are some of the technologies that might have been created with good-natured intent, but can also be used for evil deeds when put into the wrong hands. This is a reminder that while we further delve into the seemingly countless possibilities of this exciting new technology, we should keep our eyes open for the repercussions and unwanted side-effects.
+
+Neural networks and deep learning algorithms that process imagesare working wondersto make our social media platforms, search engines, gaming consoles and authentication mechanisms smarter.
+
+But can they also be put to ill-use?Facial recognition app FindFace proved that it can. Rolled out in Russia earlier this year, the app allows anyone to use itsextremely efficient facial recognition capabilityto identify anyone who has a profile inVK.com, the social media platform known as the “Russian Facebook,” which boasts more than 200 million user accounts in Eastern Europe.
+
+Its untethered access to the VK’s vast image database quickly turned FindFace into an attractive application for a number of different purposes. Within weeks of its launch, FindFace had acquired hundreds of thousands of users, and the Moscow law enforcement was slated to rent the service to enhance its network of 150,000 surveillance cameras.
+
+But it was also put to sinister use by online vigilantes who used the technology to harass unfortunate victims, and there is concern that authoritarian regimes will use the same technology to identify dissidents and protestors in rallies and demonstrations.In an interview with the Guardian, the creators of the app said they were open to offers by the FSB, the Russian security service.
+
+Experts at Kaspersky Labs have shared some tips onhow to circumvent facial recognition appssuch as FindFace, but the proposed poses and angles are somewhat awkward.
+
+This warrants more discreetness in posting pictures on social media, as they can quickly find their way into the repositories of one of the many data-gobbling machine learning engines that are roaming across the internet. And who knows where it’s going to resurface after that?
+
+Blurring and pixelation are common techniques used to preserve privacy in images and video. They’re practices that have proven their effectiveness in obscuring faces, license plates and writings from the human eye.
+
+But it seems that machine learning can see through the pixels.
+
+Researchers at University of Texas at Austin and Cornell Tech recently succeeded in training an image recognitionmachine learning algorithm that can undermine the privacy benefits of content-masking techniquessuch as pixelation and blurring. What’s worrying, the researchers underlined, is that the feat was accomplished with mainstream machine learning techniques that are widely known and available, and could be put to nefarious use by bad actors.
+
+The team used the technology to attack some of the most well-known image obfuscation techniques, such as YouTube’s blur tool, standard mosaicing (or pixelation) and a popular JPEG encryption tool called Privacy Photo Sharing (P3).
+
+The algorithm doesn’t actually reconstruct the obfuscated object, but if it has it in its database, it is very likely to be able to identify its blurred version. After having been trained, the neural network was able to identify faces, objects and handwritten text with accuracy rates as high as 90 percent.
+
+The researchers’ goal was to warn the tech community about the privacy implications of advanced machine learning. Richard McPherson, one of the researchers, warned thatsimilar methods might be used to bypass voice obfuscation techniques.
+
+According to the scientists, the only way to bypass machine learning identification would be to use black boxes to completely obscure the parts of the image that need to be redacted, or to cover those areas with some other random image before blurring them in order to avoid the identification of the real image in case the obfuscation is defeated.
+
+The resulting scene might not be as appealing as before, but at least it can provide you with guaranteed privacy.
+
+Handwriting forgery has always been a complicated task, one that’ll take even the most proficient fraudsters considerable time and practice to master. But it’ll only take a computer a few samples of your handwritingto discern your writing style —and imitate it.
+
+Researchers at the University College London have developed a program calledMy Text in Your Handwriting, which analyzes as little as a paragraph’s worth of handwritten script, and then starts to generate text that is authentically similar to the same person’s handwriting.
+
+The technique is not flawless. It needs assistance and fine-tuning by a human, and it will not slip past forensic examiners and scientists. But it is by far the most accurate replication of human handwriting to date. In a test that involved people who had prior knowledge of the technology, participants were fooled by the artificial handwriting 40 percent of the time. That number is likely to drop as the technology becomes more enhanced.
+
+The UCL researchers have iterateda number of settings in which the technology can be put to novel use, such as helping stroke victims formulate letters or translating comic books into different languages.
+
+But the same technology can be put to more sinister uses, such as forging legal and historical documents and creating false evidence. The algorithm was used to generate text in the handwritings of Abraham Lincoln, Frida Kahlo and Arthur Conan Doyle decades and centuries after their deaths.
+
+Inan interview with Digital Trends, lead researcher Dr. Tom Haines admitted that the algorithm was likely to fool the untrained eye.
+
+Chatbots, machine learning robots that can understand and generate natural language,have been on the rise lately, and are revolutionizing a number of sectors. Among other fields, online and mobile customer service, weather reporting, restaurant reservation, news and shopping are being streamlined thanks to chatbots, and there’s a possibility that in the near future they willeliminate the myriad appsyou have to install on your smartphone.
+
+But chatbot apps also can serve a totally different use, as companies likeLukahave proven. The firm, which offers high-end, conversational,AI-powered chatbots, has been tapping into machine learning technology to create bots based on real human beings, dead or alive.
+
+Luka recently presented a chatbot that talks like the characters fromHBO’s Silicon Valley. The characters’ lines were fed into the neural networks that power the bots, which analyzed their language patterns and learned to say things as they would.
+
+In a more ambitious — and spookier — project, Luka used its technology to, after a fashion,reincarnate a dead personby using his text messages, social media conversations and other sources of information to train their chatbot. This is something that is becoming possible as new generations tend to generate more and more online data.
+
+While both use cases are harmless, the same technology can be used to mimic live, non-fictitious people, as the company is aiming to do. This could mean that with enough research and monitoring, a malicious actor can create your alter ego and start impersonating you in online conversations.
+
+And if you think that your voice is still yours, you just need to take a look atGoogle’s WaveNet technology, which uses neural nets to generate convincingly realistic speech. Combined with Luka’s conversation technology, it can be used to make phone calls on your behalf.
+
+Don’t worry though, this doesn’t necessarily mean that machine learning is an evil technology that is putting an end to privacy as we know it. Its advantages and benefits far outweigh its negative trade-offs. However, we must consider that while we cherish and harness the full power of machine learning to make our lives and businesses more comfortable and efficient, we also must speculate on and prepare ourselves for the broader implications, especially where ethics and privacy are concerned. Many things as we know them today will be changed thanks to machine learning. Are we ready for it?

@@ -1,0 +1,27 @@
+Overclocked smartwatch sensor uses vibrations to sense gestures, objects and locations
+
+Just from patterns of motion, your smart devices know when you’re walking, when you’re riding a bike and when you lift your wrist to check the time. But it turns out they can also tell when you snap or make a fist, or whether you’re holding a smartphone or steering wheel. All they have to do is listen a little harder — well, about 100 times harder, actually.
+
+Researchers from Carnegie Mellon University createda system called ViBandthat supercharges an ordinary smartwatch’s accelerometer, allowing it to sense incredibly tiny variations in vibration frequency. That could be the thrum of an engine, the note being tuned on a guitar or the slight differences apparent when you move your hand in different ways.
+
+The secret lies in the specs of the accelerometer itself. Normally, they sample motion somewhere around 20-100 times per second — more than enough to tell whether the user is walking or running, for instance.
+
+But CMU’s Chris Harrison and his colleagues noticed something.
+
+“Right there on the data sheet, it says ‘maximum speed 4,000 Hz,’ ” said Harrison in an interview with TechCrunch. It was capable of polling motion more than a hundred times faster than any smartphone was telling it to. “We saw that and said ‘hmm, bet there’s some interesting stuff there.’ ”
+
+Sure enough, there was. Even when propagated through “a water-filled sack of bones,” as Harrison described the body, just about everything produces a unique high-frequency vibration pattern, a sort of acoustic signature that can be used to identify it almost immediately.
+
+At first, the team considered use cases such as being able to snap your fingers to turn on a light. “But that seemed kind of gimmicky,” he said. “More interesting is being able to use the arm as an extension of this sensor. We can actually detect what object you’re grasping as soon as you grasp, and we can detect whether you’re in the car, in the kitchen…”
+
+Think of a timer that turns on as soon as you grab your toothbrush, maps that appear when you touch the map at the entrance of a building or a two-factor system that checks not just whether you have a device, but whether you’re sitting at your desk. It can be combined with active electrical and wireless signals sent out by the watch to strengthen the recognition process.
+
+“Various people in the industry have reached out to us; they’re like, ‘huh, didn’t know we could do this.’ We’re in talks with some people right now,” said Harrison. “The capabilities we show, Apple or Samsung or whoever got on board could deploy it — it’s all software.”
+
+“I mean, there’s a reason we hacked an Android watch,” he added. “All these watches have accelerometers and they all have high-speed modes. But we couldn’t do it on an Apple watch, it’s very hard to hack.”
+
+This isn’t the first foray into augmenting the capabilities of smartwatches made by Harrison’s lab.Other workhas shown the possibility of wirelessly detectingthe position of a finger nearby the watch, oron the skin of the armand hand the watch is attached to.
+
+“Smartwatches have to have like a one-inch screen,” Harrison said, “so how do you expand the envelope of interaction without sticking a giant screen on it? That’s research we’ve been working on for about five years.”
+
+The team’s work was selected to receive one of four “best paper” awards at theAssociation for Computing Machinery’s User Interface Software and Technology Symposium in Tokyo.

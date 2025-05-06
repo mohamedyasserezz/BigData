@@ -1,0 +1,11 @@
+PicsArt drizzles Prisma-style magic on your pics and videos
+
+PicsArttoday launched a brand new pair of apps for iOS, adding Prisma-like effects forphotographsandvideosto the visually stimulating toolbox that lives inside your phone. The company also announced it has over 80 million active users every month. In addition to photo and video support, the company launches a Remix Me feature, turning photo adjustments into a social experiment not entirely unlike what we saw with the now-defunctDubble app.
+
+WhenPrismalaunched its convolutional neural network powered turn-your-picture-into-pretty app, the world went ga-ga for it. Understandably so, but the tech under the hood has beenavailable as open-source for a whileand computational computer graphic geeks largely couldn’t figure out what all the hubbub was about. PicsArt takes a similar concept, but adds a sleeker user interface and processing on your phone rather than in the cloud, which makes the process significantly faster — and, subjectively, better — than Prisma’s effects.
+
+“We like to think of it as AI-powered, fully customizable photo and video effects,” says Nathan Tyler, the company’s Director of Product Marketing and Communications. “We call them Magic Effects because they analyze a photo and then redraw it in a new artistic style, in just seconds, like magic. Unlike any other AI-powered photo effects, these can be fully customized using the more than 3,000 editing features in PicsArt.”
+
+The video-focused app is called Magic Video. It uses the same tech as PicsArt’s photograpy app, except for many photos played in rapid succession for the magic of (gasp) moving pictures.
+
+WhilePicsArt originally launched as an Android-only app a few years ago, this time around the iOS users get the pair of apps first. The company bosses assure me that the Android versions are just around the corner, however.

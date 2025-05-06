@@ -1,0 +1,13 @@
+SCiO, the pocket-sized molecular analyzer, is making everyone angry
+
+We were all pretty excited whenConsumer Physicsshowed us theirhand-held molecular scannerat TechCrunch Disrupt two years ago. They garnered much praise here and all over the web for creating a hand-held product that could scan and identify food, medicine, and vitamins. Now, two years later, people are pissed.The project raised$2.7 million from 130,000 backers and it looked, at least on the surface, like a viable product. You scanned foods and other materials – vitamins, medicines, etc. – using the handheld device and the API gathered data and offered a deep molecular analysis.
+
+The team touted the project to the press as a magic way to identify things like cheeses and fruits but apparently these features were only available in the development kit, a fact that was not made clear to backers.
+
+The folks atSpectrumnote that the company is currently in an intellectual property dispute withSCIO Health Analyticsand has yet to ship most of their products. The molecular analyzer’sKickstarter page is currently downand there are few reported sightings of the device in the wild.
+
+The SCiO project was too good to be true. A pocket-sized molecular analysis tool sounds feasible in this age of miracles and wonder but it’s clear now that to work properly the product needs a developer ecosystem that the product can’t yet support. The end of this video is quite telling:
+
+[youtube=https://www.youtube.com/watch?v=KZFsvmswXVc]
+
+Two bloggers who know the SCiO creators doggedly scan various fruits and enjoy good, usable results. Then, on a whim, they scan an M&M using the profile for “pain relievers.” Instead of failing, the scanner suggests that the blue M&M contains ibuprofen. It’s enough to make you wonder if there isn’t something else going on besides molecular scanning, a question that will hound the creators until these things finally ship.

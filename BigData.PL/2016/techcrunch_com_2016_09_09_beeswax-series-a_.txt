@@ -1,0 +1,19 @@
+Beeswax raises $11M for customizable adtech
+
+Beeswax, a startup founded by a trio of former Google ad executives, has raised $11 million in Series A funding.
+
+The company offers what it calls abidder-as-a-service— a set of customizable technologies that allows customers to participate in real-time bidding for ad inventory.
+
+Beeswax’s offerings include access to inventory, bidding algorithms and analytics, but CEO Ari Paparo (previously a senior vice product of product management at AppNexus and a product director for advertiser products at Google) said what really sets the company apart is giving businesses the ability to use Beeswax’s API to customize and extend the product.
+
+In Paparo’s view, while digital advertising has become more complex, the products available to advertisers “feel more like media options than technology options” and are sold as a “black box.”
+
+“I wanted to build something that would appeal to the CTO or CIO who wants to build on top of us and really deeply integrate,” he said, adding that while large advertisers will increasingly want to build their own programmatic platforms, they aren’t going to want to build them from scratch.
+
+For example,Foursquare works with Beeswax— Foursquare is becoming more of an advertising business, offering its location datato help advertisers with targeting and attribution. Paparo explained that by working with Beeswax, “Foursquare supplies the data, but they use my pipes and my server to find the advertisements to buy in real-time.”
+
+Paparo founded the company with Shamim Samadi, who led product management for Google’s video ad exchange, and Ram Kumar Rengaswamy, who was the lead for Google’s video ad exchange and was also one of architects of Gmail.
+
+The Series A was led by Foundry Group and RRE Ventures. Whileventure capitalists have become more skeptical about adtech, Paparo said that’s because they “really don’t want to invest in media businesses that are hiding as adtech.” Beeswax, on the other hand, signs annual software-as-a-service contracts (priced at anywhere from $7,500 to $100,000 per month) with its customers.
+
+“Those economics are quite appealing to venture capitalists once we have demonstrated that there’s a willingness to pay that,” he said.

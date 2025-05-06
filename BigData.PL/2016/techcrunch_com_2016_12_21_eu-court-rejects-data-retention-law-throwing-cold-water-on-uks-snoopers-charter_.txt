@@ -1,0 +1,33 @@
+EU court rejects data retention law, throwing cold water on UK’s ‘Snooper’s Charter’
+
+Thehighest court in Europetoday ruled that “general and indiscriminate” data retention directives contravene European Union law — dealing a significant blow to governments and organizations who have been pushing for stronger surveillance and data collection, and giving a boost to privacy advocates in the process.
+
+More specifically, European Court of Justice threw a direct lifeline to those opposed to the Investigatory Powers Act (the so-called “Snooper’s Charter”) in the UK, which authorizes state agents to hack devices and services en masse and requires ISPs to retain a year’s worth of website access logs on all users; the bill wasapprovedby both chambers in November this year, although groups opposed to it have been continuing to look for ways to challenge it.
+
+The ECJ this morning gave them one potential lever to do so, when it issued its ruling, stating that countries are not allowed to impose laws requiring internet service providers to retain all their customers’ data, restricting the practice to specific (single) cases of “serious crime.”
+
+“In today’s judgment, the Court’s answer is that EU law precludes national legislation that prescribes general and indiscriminate retention of data,” it wrote. “The interference by national legislation that provides for the retention of traffic data and location data with that right must therefore be considered to be particularly serious. The fact that the data is retained without the users of electronic communications services being informed of the fact is likely to cause the persons concerned to feel that their private lives are the subject of constant surveillance. Consequently, only the objective of fighting serious crime is capable of justifying such interference.”
+
+The decision (embedded below andlinked here) was made on a case originally brought to court by IPS Tele2 in Sweden. The case was later joined by UK MPs Tom Watson, David Davis and with support from others as they built up opposition to data surveillance by the GCHQ and the UK government’s IP Act and were turning to the EU to get involved.
+
+In its written decision, the Court also noted that in those cases where data is getting retained, there needs to be more oversight involved in order to access it. Again, as with the larger retention question, there is also a caveat of urgency that is not defined:
+
+“The Court considers that it is essential that access to retained data should, except in cases of urgency, be subject to prior review carried out by either a court or an independent body,” it notes.
+
+But perhaps just as important is what was not covered in the Court’s ruling today: it didn’t touch on the area of active surveillance — that is, the not the practice of storing data, but collecting it in the first place.
+
+In any case, the ruling will call in to question how and if the IP Act needs to be reassessed, at least while the UK remains in the European Union. (If and when the UK does exit the EU, as voted for in the referendum, that could again throw the relevancy of this particular EU ruling into question.)
+
+“The ECJ’s ruling could have little impact once the UK leaves the EU. Post-Brexit the UK may be free to pursue even more draconian data measures. This is bad news for consumers, businesses and could have a chilling effect on the UK’s booming tech industry,” said Robert Bownes of data science company Profusion.
+
+In the meantime, Watson and others like Liberty opposed to the IP Bill (and later IP Act) welcomed the decision:
+
+The judgement invites the government to look again at independent authorisation for access to communications data. Thank you@libertyhq.https://t.co/zMpnHBoyiK
+
+— Tom Watson (@tom_watson)December 21, 2016
+
+The IP Act has been in play for a number of years — one of the many aspects of how government bodies have beentrying to get to gripswith the rapid growth of digital communications and what role they play in a wide range of criminal activities, from terrorism to corporate and political espionage and everything major and minor in between.
+
+But the darker underbelly of it — how tackling crime can violate the privacy of ordinary, law-abiding individuals — was brought to stark light in 2013 when former government worker Edward Snowden detailed just how these surveillance programs worked. The tension between the two extremes of privacy and protection very much remains in place today.
+
+[scribd id=334772215 key=key-ODcrzzX6NvkXR1v2ZzV9 mode=scroll]

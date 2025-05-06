@@ -1,0 +1,31 @@
+Besties IBM and Box create a workflow tool for regular folks
+
+When Boxpraised its partnership with IBM at its earnings call last week, it was holding one card close the vest. The two companies had been working on a new workflow tool, and today they announced Box Relay ahead of theBoxWorkscustomer conference this week in San Francisco.
+
+Workflow tools fall under the realm of Business Process Management (BPM) in the enterprise. They typically involve stringing together a series of complicated activities, often crossing a number of different systems, to keep work moving along in organized and automated way. Think an insurance claim or a hospital stay, where there are a series of generally complex steps required to complete a process.
+
+The goal of everyone in the room with this project was to remove the complexity inherent in today’s traditional BPM tools, giving line of business users control over the process, while allowing sophisticated kinds of workflows you see from BPM in settings such as insurance, financial services or healthcare.
+
+The problem as both Box and IBM saw it, was that BPM always required IT to create a workflow, and that includesBox Workflow, introduced two years ago at BoxWorks. That usually meant the big important processes got automated, while the kind of project-oriented workflows line-of-business users want to set up were left to more ad hoc methods like email, spreadsheets or even sticky notes and white boards. Having IT deal with those kinds of activities was simply too expensive and time-consuming for less essential processes.
+
+That’s why the number one goal with this project was to put regular business users in control. Besides taking IT out of the equation, the team had a few other objectives in mind including making it dead simple to create and launch a workflow, being able to track the progress of the workflow in real time and using the tool as a central place for teams to collaborate in the cloud (and that could even includes folks from outside of the enterprise).
+
+In theory, any employee can build a workflow using a wizard interface by following a series of steps that could touch any number of applications outside of Box, such as DocuSign for electronic signature, Office 365 for documents, Salesforce to update or access the customer record and so forth.
+
+After you have a workflow in place, you can track the progress in a project dashboard, seeing which parts of the project are moving smoothly and where there are bottlenecks or hold-ups. You can even set up the system to send you notifications if there is an issue in the workflow.
+
+This ability to build workflows easily creates real separation from the file sync and share pack, says Alan Pelz-Sharpe, an analyst with Digital Clarity Group. “This is in my opinion easily their most important release to date as it moves Box from a shared library of sorts to a quality platform that can be used to run a plethora of basic business processes in an enterprise,” he said.
+
+This capability could touch every department, so sales could build a contract or customer on-boarding workflow, marketing could build a document approval process and engineering could coordinate code reviews and product launches, as some examples.
+
+Box Relay was designed in tandem with its best bud, IBM with the understanding it was always going to be a Box tool, says Rand Wacker, Box VP of enterprise. Each player brought its own special strength to the table — IBM its traditional enterprise workflow chops and Box, its new-wave cloud content management — and both companies plan to sell the tool under the Box Relay brand.
+
+Cheryl McKinnon, a Forrester analyst who has been covering content management for years, sees this product as an important test for the Box-IBM alliance. “This launch is a really important proof point for the partnership and joint R&D. This is as important to IBM as it is to Box. Box gets the chance to further entrench itself in content and now process-rich use cases and extend its enterprise street cred, and IBM extends its ability to serve its own enterprise clients  with cloud-native content and process offerings,” McKinnon explained.
+
+Simplicity is in the eye of the beholder of course, but if it works as described, it adds another key piece of the content management puzzle to the Box product line and gives it deeper penetration inside the enterprise customers it craves.
+
+While it’s being announced this week, it won’t be available in wide beta until Q4 with general availability some time next year. It will be billed as an add-on to the basic Box service, giving Box (and IBM) an upsell opportunity.
+
+Look for more coverage from BoxWorks throughout the week.
+
+[graphiq id=”8WrFwKGmxgh” title=”Box Inc. (BOX) Stock Price” width=”600″ height=”617″ url=”https://w.graphiq.com/w/8WrFwKGmxgh” link=”http://listings.findthecompany.com/l/339705/Box-Inc-in-Redwood-City-CA” link_text=”Box Inc. (BOX) Stock Price | FindTheCompany” ]

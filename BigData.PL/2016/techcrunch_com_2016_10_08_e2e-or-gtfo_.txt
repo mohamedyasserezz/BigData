@@ -1,0 +1,29 @@
+E2E or GTFO
+
+Oh, Yahoo. We’re not just mad at you. We’re also really, really disappointed.  First it took you two years to figure out that you were hacked by a nation-state. Then you allowed another nation-state — the US government — to scan all of your user’s emails … using abuggy Linux kernel module… without ever telling your security team. Seriously, Yahoo?Seriously?
+
+Regardless of one’s moral / political stance on blanket user surveillance in the name of so-called national security, that combination of actions is just painfully, evenstaggeringly, inept. As were the subsequent non-denials:
+
+https://twitter.com/csoghoian/status/783633471071748096
+
+They arguably weren’t even asked to do anything particularly awful, in and of itself. Scanning incoming emails for a signature which (allegedly) identified communications from a state-sponsored terrorist organization — that’s not so different from scanning for child porn or malware, right? At least from a certain point of view.
+
+I imagine the mindset was: why even bother fighting back? Sure, this demand apparently came from the creepy star-chamber rubber-stampingForeign Intelligence Surveillance Court, and was accessorized by anopen-ended gag order— nothing says “checks and balances” like clandestine courts issuing classified orders enforced in absolute secrecy, right? — but it still seemed soreasonable. I completely understand that stance. Idisagree, but I understand. That’s what makes it so disconcerting.
+
+Ultimately every centralized system will be required, and will agree, to surveil their users. Not clandestinely, by the deep state, but openly, because we-the-people will, wrongly, demand it. We live in a time of near-unparalleled peace and prosperity; Americans arefour times more likelyto be killed by lightning than by terrorists; and yet, even so,
+
+By two-to-one, Americans now say that they are more concerned that the government’s anti-terror policies have not gone far enough to protect the country (56%), rather than that these policies have gone too far in restricting the average person’s civil liberties (28%)”
+
+according toa Pew study last year.
+
+Imagine what will happen the next time the Westdoessuffer from an attack on the scale of what happened fifteen years ago. Remember the zeitgeist of late 2001? Imagine that, again, except further conditioned by a decade-and-a-half of an endless War On Terror.
+
+I don’t doubt for a second the sincerity of the people whose job it is to protect users from surveillance. Even at Yahoo, as former Yahoo security engineer Yan Zhu writes in atypically incisive post:
+
+At the time this was happening, I was on the Yahoo Security team leading development on the End-to-End project … Ironically, if only we had been able to actually ship E2E, we would have given users a way to protect themselves from the exact backdoor scenario that they ended up in! … Personally I am grateful both for those who left and blew the whistle, and for those who stayed to protect Yahoo’s 800 million users.
+
+But most people ultimately don’t want protection from universal surveillance; they want the government to protect them from terror, even if that means universal surveillance. Again, I completely understand that stance — it’s hard not to — even though I think the surveillance cure is ultimately far worse than the terrorism / child-porn / moral-panic-of-the-week disease, as awful as those latter things may be.
+
+But we can’t rely on centralized systems to protect us out of the goodness of their hearts, if and when an overwhelming majority demands that they cease and desist. There is a solution, and it is end-to-end encryption, the same thing that Yahoo never did roll out, the same thing that (to their shame) Googlesupportsbutdoes not default to, the same thing that (to their credit)WhatsAppandiMessageandSignalprovide by default.
+
+…To date. But even they are centralized services; even they can and may change. I still hold out hope for a usabledecentralizedemail/messaging service, once that literally cannot be issued orders or held to account, because there is no central entity to address. I remain disappointed (though I like the look ofSandstormas a building block). But my hope is that this, too, is only a matter of time.

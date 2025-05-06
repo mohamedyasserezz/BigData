@@ -1,0 +1,23 @@
+Mapsquito is a game built by teenagers to fight malaria
+
+Malaria is treatable and preventable. And yet, the World Health Organizationreportsthat almost half the world’s population — 3.2 billion people — are still at risk of contracting the life-threatening disease.
+
+At the Disrupt SF Hackathon, a group of teenage girls is gamifying malaria prevention to help halt the spread of the disease. They’re Aruna Prasad, 16, Erin Smith, 16, Kathy Kong, 17, and Lillian Yuan, 17, and they’ve built Mapsquito, a game that educates players about malaria.
+
+Mapsquito is built on top ofEsrimaps, and shows which countries around the world are affected by malaria. A player starts by clicking on a country where the disease is less prevalent (she advances to countries where the disease is more common as she progresses through the game).
+
+“You see a stat about that country and malaria in that country,” Prasad explains. Then, the player enters a Tetris-like environment, where icons representing mosquitos, mosquito netting, medicine and rainfall tumble from the top of the screen, and the player navigates from left to right, trying to catch the netting and medicine while avoiding the mosquitos and raindrops. The player begins with the same chance of malaria contraction as a citizen of the country that the level is based on. Her odds of survival increase and decrease as the player catches medicine or mosquitos.
+
+“We want to educate people about what helps with malaria — what’s good for it, what’s bad for it — to increase awareness. Our ultimate goal is to get funding based on the level that people are able to reach in the game,” Yuan tells TechCrunch. She envisions the game getting funding from an anti-malaria charity such as theBill & Melinda Gates Foundationso that, as players advance, money is donated to the countries represented in the game.
+
+“In the game, you save the characters’ lives by moving to the next level. If you save the character’s life, you save a real person,” Prasad says of how the game could partner with a charity.
+
+The all-girl hacking team formed on Friday outside of Twitter’s San Francisco headquarters, where the girls had just finished participating in#BuiltByGirls, a pitch competition presented by Michelle Obama’s Let Girls Learn initiative and AOL (the parent company of TechCrunch). “We were standing outside and thought, ‘Let’s be a team, guys,’” Prasad recalls.
+
+The girls entered the Disrupt SF Hackathon and built a prototype of their game in just 24 hours. Smith said the game was inspired byNothing But Nets, a United Nations Foundation that raises money to provide bed nets to people in countries affected by malaria. (The Golden State Warriors’ Stephen Curry will be fundraising for Nothing But Nets at Disrupt SF on Tuesday.)
+
+“We had heard about Nothing but Nets and were interested in what they’re doing. Malaria is completely preventable and treatable but hasn’t been prevented yet. It’s a gap that cam be closed with awareness and funding,” Smith says.
+
+Kong says that her experiences at #BuiltByGirls and the Disrupt SF Hackathon have helped solidify her interest in going into the tech industry later in life.
+
+“I was more business but I wanted to pursue technology. But my school didn’t offer that. After being here, I’m pretty sure,” Kong explains. She said that education is important for helping girls enter the industry. “My access is way better than girls in developing countries, but I would like my own access to be increased,” she adds.

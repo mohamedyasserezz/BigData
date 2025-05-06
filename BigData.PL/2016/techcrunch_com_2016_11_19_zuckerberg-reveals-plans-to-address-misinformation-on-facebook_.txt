@@ -1,0 +1,95 @@
+Zuckerberg reveals plans to address misinformation on Facebook
+
+Facebook’s fake news problem persists, CEOMark Zuckerbergacknowledged last night.He’d been dismissive about the reach of misinformation on Facebook, saying that false news accounted for less than one percent of all the posts on the social media network. But a slew of media reports this week have demonstrated that, although fake posts may not make up the bulk of the content on Facebook, they spread like wildfire — and Facebook has a responsibility to address it.
+
+Facebook’s fake news problem persists, CEOMark Zuckerbergacknowledged last night.
+
+“We’ve made significant progress, but there is more work to be done,” Zuckerberg wrote, outlining several ways to address what he called a technically and philosophically complicated problem. He proposed stronger machine learning to detect misinformation, easier user reporting and content warnings for fake stories, while noting that Facebook has alreadytaken actionto eliminate fake news sites from its ad program.
+
+The firestorm over misinformation on Facebook began with a particularly outrageous headline: “FBI Agent Suspected in Hillary Email Leaks Found Dead.”
+
+The false story led to accusations that Facebook had tipped the election in Donald Trump’s favor by turning a blind eye to the flood of fake stories trending on its platform. The story, which ran just days before the election on a site for a made-up publication called Denver Guardian, suggests that Clinton plotted the murders of an imaginary agent and his imaginary wife, then tried to cover it up as an act of domestic violence. It was shared more than 568,000 times.
+
+The Denver Guardian story caused a crisis at Facebook, and it hasn’t gone away. Last night, thestory appeared yet again in a friend’s newsfeed. “BREAKING,” the post blared. “FBI AGENT & HIS WIFE FOUND DEAD After Being ACCUSED of LEAKING HILLARY’s EMAILS.” This time, the story was hosted by a site called Viral Liberty. Beneath the headline is a button encouraging Facebook users to share the story, and according to Facebook’s owndata, it’s been shared 127,680 times.
+
+Facebook isn’t alone. Google and Twitter grapple with similar problems and have mistakenly allowed fake stories to rise to prominence as well. And although stories about the rise of fake news online have focused primarily on pro-Trump propaganda, the sharing-without-reading epidemic exists in liberal circles too — several of my Facebook friends recently shared an article by theNew Yorker‘s satirist Andy Borowitz titled “Trump Confirms That He Just Googled Obamacare” as if it were fact, celebrating in their posts that Trump may not dismantle the Affordable Care Act after all his campaign promises to the contrary.
+
+But, as the hub where 44 percent of Americans read their news, Facebook bears a unique responsibility to address the problem. According to former Facebook employees and contractors, the company struggles with fake news because its culture prioritizes engineering over everything else and because it failed to build its news apparatus to recognize and prioritize reliable sources.
+
+Facebook’s media troubles began this spring, when a contractor on its Trending Topics team toldGizmodothat the site was biased against conservative media outlets. To escape allegations of bias,Facebook fired the team of journalistswho vetted and wrote Trending Topics blurbs and turned the feature over to an algorithm, which quickly beganpromoting fake storiesfrom sites designed to churn out incendiary election stories and convert them into quick cash.
+
+It’s not a surprise that Trending Topics went so wrong, so quickly — according to Adam Schrader, a former writer for Trending Topics, the tool pulled its hashtagged titles from Wikipedia, a source with its ownstruggles with the truth.
+
+“The topics would pop up into the review tool by name, with no description. It was generated from a Wikipedia topic ID, essentially. If a Wikipedia topic was frequently discussed in the news or Facebook, it would pop up into the review tool,” Schrader explained.
+
+From there, he and the other Trending Topics writers would scan through news stories and Facebook posts to determine why the topic was trending. Part of the job was to determine whether the story was true — in Facebook’s jargon, to determine whether a “real world event” had occurred. If the story was real, the writer would then draft a short description and choose an article to feature. If the topic didn’t have a Wikipedia page yet, the writers had the ability to override the tool and write their own title for the post.
+
+Human intervention was necessary at several steps of the process — and it’s easy to see how Trending Topics broke down when humans were removed from the system. Without a journalist to determine whether a “real world event” had occurred and to choose a reputable news story to feature in the Topic, Facebook’s algorithm is barely more than a Wikipedia-scraping bot, susceptible to exploitation by fake news sites.
+
+But the idea of using editorial judgement made Facebook executives uncomfortable, and ultimately Schrader and his co-workers lost their jobs.
+
+“[Facebook] and Google and everyone else have been hiding behind mathematics. They’re allergic to becoming a media company. They don’t want to deal with it,” former Facebook product manager and author ofChaos MonkeysAntonio Garcia-Martinez told TechCrunch. “An engineering-first culture is completely antithetical to a media company.”
+
+Of course, Facebook doesn’t want to be a media company. Facebook would say it’s a technology company, with no editorial voice. Now that the Trending editors are gone, the only content Facebook produces is code.
+
+But Facebook is a media company, Garcia-Martinez and Schrader argue.
+
+“Facebook, whether it says it is or it isn’t, is a media company. They have an obligation to provide legit information,” Schrader told me. “They should take actions that make their product cleaner and better for people who use Facebook as a news consumption tool.”
+
+Garcia-Martinez agreed. “TheNew York Timeshas a front page editor, who arranges the front page. That’s whatNew York Timesreaders read every day — what the front page editor chooses for them. Now Mark Zuckerberg is the front page editor of every newspaper in the world. He has the job but he doesn’t want it,” he said.
+
+Zuckerberg is resistant to this role, writing last night that he preferred to leave complex decisions about the accuracy of Facebook content in the hands of his users. “We do not want to be arbiters of truth ourselves, but instead rely on our community and trusted third parties,” he wrote. “We have relied on our community to help us understand what is fake and what is not. Anyone on Facebook can report any link as false, and we use signals from those reports along with a number of others — like people sharing links to myth-busting sites such as Snopes — to understand which stories we can confidently classify as misinformation.”
+
+However, Facebook’s reliance on crowd-sourced truth from its users and from sites like Wikipedia will only take the company halfway to the truth. Zuckerberg also acknowledges that Facebook can and should do more.
+
+“There’s definitely things Facebook could do to, if not solve the problem, at least mitigate it,” Garcia-Martinez said, highlighting his former work on ad quality and themassive moderation systemFacebook uses to remove images and posts that violate its community guidelines.
+
+To cut back on misinformation, he explains, “You could effectively change distribution at the algorithmic level so they don’t get the engagement that they do.”
+
+This kind of technical solution is most likely to get traction in Facebook’s engineering-first culture, and Zuckerberg says the work is already underway. “The most important thing we can do is improve our ability to classify misinformation. This means better technical systems to detect what people will flag as false before they do it themselves,” he wrote.
+
+This kind of algorithmic tweaking is already popular at Google and other major companies as a way to moderate content. But, in pursuing a strictly technical response, Facebook risks becoming an opaque censor. Legitimate content can vanish into the void, and when users protest, the only response they’re likely to get is, “Oops, there was some kind of error in the algorithm.”
+
+Zuckerberg is rightfully wary of this. “We need to be careful not to discourage sharing of opinions or to mistakenly restrict accurate content,” he said.
+
+Mike Caulfield, the director of blended and networked learning at Washington State University Vancouver, has critiqued Facebook’s misinformation problem. He writes that sharing fake news on Facebook isn’t a passive act — rather, it trains us to believe the things we share are true.
+
+“Early Facebook trained you to remember birthdays and share photos, and to some extent this trained you to be a better person, or in any case the sort of person you desired to be,”Caulfield said, adding:
+
+The process that Facebook currently encourages, on the other hand, of looking at these short cards of news stories and forcing you to immediately decide whether to support or not support them trains people to be extremists. It takes a moment of ambivalence or nuance, and by design pushes the reader to go deeper into their support for whatever theory or argument they are staring at. When you consider that people are being trained in this way by Facebook for hours each day, that should scare the living daylights out of you.
+
+When users look at articles in their News Feed today, Caulfield notes, they see prompts encouraging them to Like, Share, Comment — but nothing suggesting that they Read.
+
+Caulfield suggests that Facebook place more emphasis on the domain name of the news source, rather than solely focusing on the name of the friend who shares the story. Facebook could also improve by driving readers to actually engage with the stories rather than simply reacting to them without reading, but as Caulfield notes, Facebook’s business model is all about keeping you locked into News Feed and not exiting to other sites.
+
+Caulfield’s suggestions for an overhaul of the way articles appear in News Feed are powerful, but Facebook is more likely to make small tweaks than major changes. A compromise might be to label or flag fake news as such when it appears in the News Feed, and Zuckerberg says this is a strategy Facebook is considering.
+
+“We are exploring labeling stories that have been flagged as false by third parties or our community, and showing warnings when people read or share them,” he said.
+
+It’s a strategy that sources tell me is being considered not just at Facebook but at other social networks, but risk-averse tech giants are hesitant to slap a “FAKE” label on a news story. What if they get it wrong? And what about stories like Borowitz’s satire — should the story be called out as false, or merely a joke? And what if a news story from a legitimate publisher turns out to contain inaccuracies? Facebook, Google, Twitter, and others will be painted into a corner, forced to decide what percentage of the information in a story can be false before it’s blocked, downgraded, or marked with a warning label.
+
+Like the fight against spam, clickbait, and other undesirable content, the war against misinformation on platforms like Google and Facebook is a game of wack-a-mole. But both companies have built their own interfaces for news — Accelerated Mobile Pages and Instant Articles — and they could proactively counter fake stories in those spaces.
+
+AMP and Instant Articles are open platforms, so fake news publishers are welcome to join and distribute their content. But the companies’ control over these spaces gives them an opportunity to detect fake news early.
+
+Google and Facebook both have a unique opportunity to fact-check within AMP and Instant Articles — they could place annotations over certain parts of a news story in the style ofNews Geniusto point out inaccuracies, or include links to other articles offering counterpoints and fact-checks.
+
+Zuckerberg wasn’t clear about what third-party verification of the news on Facebook would look like, saying only, “There are many respected fact checking organizations and, while we have reached out to some, we plan to learn from many more.”
+
+Bringing third-party vetting back into the picture means a return to the kind of human oversight Facebook had in its Trending Topics team. Although Facebook has made clear it wants to leave complex decisions up to its algorithms, the plummeting quality of Trending Topics makes it clear that the algorithm isn’t ready yet.
+
+“I don’t think Trending ever had a problem with fake news or biases necessarily, before the Gizmodo article or after. All the problems were after the team was let go,” Schrader said, noting that Facebook intended to incorporate machine learning into Trending Topics but needed human input to guide and train the algorithm.
+
+Engineers working on machine learning have told me they estimate it would take a dedicated team more than a year to train an algorithm to properly do the work Facebook is attempting with Trending Topics.
+
+Zuckerberg did acknowledge that perhaps Facebook can learn something from journalists like Schrader after all. “We will continue to work with journalists and others in the news industry to get their input, in particular, to better understand their fact checking systems and learn from them,” he said.
+
+But the media certainly isn’t perfect. Sometimes we get our facts wrong, and the results can range from comical to disastrous. In 2004, theNew York Timesissueda statementquestioning its own reporting on several factually-inaccurate stories that spurred the war in Iraq. As journalists sometimes make mistakes, so will Facebook. And when that happens, Facebook should address the errors.
+
+“In a small back door sort of way, it will adopt some of the protocols of a media company,” Garcia-Martinez says of Facebook. One suggestion: “Get a public editor like theNew York Times.”
+
+The public editor serves as a liaison between a paper and its readers, and provides answers about the reporting and what could have been done better.
+
+In his late-night Facebook posts, Zuckerberg has already somewhat assumed this role. But an individual with more independence could help Facebook learn and grow.
+
+“They are going to get a lot better about this business of editorship,” Garcia-Martinez predicts. “When the stakes are American democracy, saying, ‘We’re not a media company,’ is not good enough.”

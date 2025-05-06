@@ -1,0 +1,15 @@
+Google now uses machine learning to make reading comics on phones easier
+
+Plenty of people still like to read their comics on paper, but increasingly, phones and tablets are the devices of choice for keeping up with the Justice League.
+
+Last year, Google introduced a new reading experience for comics in its Play Books store for Android that makes it easier to follow along with the story. Today, the company islaunching yet another updateto the comics reading experience — this time with a focus on making the speech bubbles in comics more readable on small devices.
+
+As Google’s Head of Product for Play Books Greg Hartrell told me, the team looked at the feedback it got from the last update. While readers liked the new reading experience, they complained that it was still too hard to read the text on a small screen. Google set out to find a way to make reading the text easier without taking away from the visual experience.
+
+So now, with the help of Google’s machine learning smarts, the Google Play team is launching Bubble Zoom. Google taught its algorithms to recognize panels and detect speech bubbles and thanks to that, you can now easily zoom into speech bubbles without having to pinch and zoom (and then inevitably get confused about which panel you were actually looking at). It’s smart and easy and probably the best use of machine learning for comic book fans yet.
+
+To move between bubbles, you can either tap on them or use the volume buttons on your phone.
+
+For now, Bubble Zoom is only enabled within all Marvel and DC collected volumes (that’s about 2,800 comics in Google’s store — and they are all available for 50 percent off right now if you use the codeSDCC2016), but Hartrell tells me that the team already trained the algorithm on millions of pages and plans to roll it out to other comics and manga over time. “We want to come to the world and say: we nailed all the styles and comics that are out there,” he said about the company’s slow rollout plans.
+
+For now, this new reading experience is also only available on Android. There is no launch date for iOS yet, but Hartrell notes that Google is currently focussing on getting the Android experience right.

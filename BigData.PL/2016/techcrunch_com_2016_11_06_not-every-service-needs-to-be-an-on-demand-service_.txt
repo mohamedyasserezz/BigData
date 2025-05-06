@@ -1,0 +1,35 @@
+Not every service needs to be an on-demand service
+
+When my co-founder James and I started our mobile-based laundry service in 2013, the “on-demand” economy was starting to emerge.
+
+VCs were excited to find the next Uber and companies were launching on-demand services in all verticals imaginable (more broadly known as “Uber for X” companies). Fast forward to today where a few companies have found success with the on-demand model, but several more have struggled. In recent months, we’ve seen several well-funded startups with strong teams either going through layoffs or shutting down entirely. The natural question to ask is why?
+
+The short answer is that “on-demand” is not the optimal solution for most customer needs.
+
+The case for “smart scheduling” vs. “on-demand”
+
+Uber solves an importantacutepain point. When you need a taxi, you need it now. Offering an on-demand solution removes that friction and meets the immediate demands of the customer.  Most consumer services attempt to addresschronicpain points, though.
+
+Tasks like cleaning your house; doing your laundry, or getting your car washed, generally follow predictable recurring patterns.  For services like those, on-demand is an inappropriate and inefficient solution.
+
+When launching a consumer service (or any business for that matter), it’s important to be needs-focused and solution-agnostic.  The challenge in recent years has been that just about every new venture has assumed the solution for the consumer problem they are trying to solve is to be on-demand.  For chronic pain points, though, a focus on “smart scheduling” is almost always a better approach.
+
+In its most basic form, smart scheduling simply means creating a service that is aligned with the cadence of the customer need it’s addressing.  For house cleaning or laundry, that cadence might be weekly or bi-weekly.
+
+For other services, like car washes and moving items into storage, it might be less frequent.  Regardless of cadence, prioritizing quality over speed will almost always lead to a better customer experience.
+
+Below is a closer look at a few verticals where “smart scheduling” makes more sense than “on-demand.”
+
+House CleaningIn 2013, Handy, Homejoy, and Exec were the big names in “on-demand” house cleaning. The category has received significant investment interest and media attention, and also featuredone of the more prominentclosures we’ve seen in the “on-demand” economy.
+
+If we look directly at the customer pain point, it’schronicand recurring in nature, meaning smart scheduling makes more sense than on-demand. In fact, if you look closer at Handy, the only one in the list above still operating today, you will see they arenoton-demand. Their sign up flow currently asks you to choose between a weekly or bi-weekly plan and they default to a cleaning date that’s a few days away.
+
+StorageStorage is another vertical that has received investment interest in the past few years. Companies like Clutter, Makespace, and Omni have received funding to tackle the pain points of storage in different ways. Omni brands itself as “on-demand storage and delivery” and takes a different angle than Clutter, which appears to focus more on a scheduled approach.
+
+From an outsider’s perspective, self-storage comes with significant friction, but it’s rarely acute.
+
+Car WashesOn-demand car washes gained prominence a few years back when Cherry launched, raised capital, and thenshut downshortly thereafter. All that happened before we started Rinse, but almostfour years laterthere are still companies trying to tackle this consumer pain point with an on-demand solution (including Washos, Squeegy,and Wype).
+
+I’m not the target customer (my car has needed a car wash for a while and I haven’t done anything about it), but the need for on-demand service here feels like an extreme edge case. In addition, although the service is recurring in nature, purchase frequency is limited.
+
+There has been commentary around startups in the broader “on-demand” economy catering to the lazy or the wealthy. Although some companies may have that target customer in mind, the reality isthere are significant consumer problems to be solved.

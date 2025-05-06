@@ -1,0 +1,25 @@
+Red Sift, a startup from ex-Shazam technical architect, wants to make your data work for you
+
+Red Sift, a new London startup from two ex-Shazamers, is building an ambitious cloud-based and developer platform that wants to enable individuals and businesses to plug in various data sources and make that data actually work for them in a meaningful way.
+
+This could be anything from unlocking the treasure trove of data in our email to get insights and improve productivity to visualising data from Google Analytics and sending graphs to a Slack channel.
+
+Built around open micro-services — or “Sifts,” as the company calls them — the idea is that any developer can add to or tweak the growing library of mini-apps that will reside on the Red Sift platform.
+
+“Everyday data sources such as email, messaging platforms, web applications and IoT devices generate vast amounts of data, most of which lacks structure and is difficult to aggregate and summarise,” says Red Sift co-founder and CEO Rahul Powar. “Because of this, it often remains archived without us being able to draw any valuable insight from it”.
+
+(Of note: Powar was part of the founding team at music recognition app Shazam where he previously held the role of Chief Technical Architect at Shazam. He then left to found Appsmart, which wasacquiredby Reuters in 2012.)
+
+In a mailing list folder or a mailbox that gets a lot of cold/inbound messages, I get a green or amber indicator against people I am connected with.Rahul PowarTo solve this problem, Red Sift’s cloud-service plans to let you easily interconnect these disparate sources and join data between them to receive insights or automate various workflows.
+
+“We do this through the use of “Sifts” — smart, open source micro services that run computations on your data securely to deliver information in your dashboard or messaging channels. Sifts can be created by us or the community as our platform allows developers and eventually regular users to create their own Sifts simply and rapidly,” explains Powar.
+
+So, for example, one of the micro-services Powar currently has plugged into his email tells him if the sender and he are connected directly or indirectly via Twitter or AngelList.
+
+“In a mailing list folder or a mailbox that gets a lot of cold/inbound messages, I get a green or amber indicator against people I am connected with giving me a new and sophisticated signal to triage my inbox with,” he says.
+
+Or another “Sift” monitor a user’s inbox for receipts from online taxi companies and aggregates that data to provide monthly and yearly spending summaries and journey analysis.
+
+But perhaps its real power is the developer-friendly and open source nature of the mini-apps housed on Red Sift, which will enable functionality to be modified or extended to provide a different insight or functionality on any given data set.
+
+Meanwhile, to gear Red Sift up for a full launch early next year, the startup has raised $2 million in a round led by White Star Capital and Oxford Capital with participation from Entrée Capital.

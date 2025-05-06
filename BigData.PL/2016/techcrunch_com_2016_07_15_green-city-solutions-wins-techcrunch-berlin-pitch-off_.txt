@@ -1,0 +1,31 @@
+Green City Solutions wins TechCrunch Berlin Pitch-Off
+
+The summer in Northern Europe may have been a bit hit and miss so far this year but no one had cause to complain of being chilly inside a packed Glashaus yesterday evening at TechCrunch’s 2016 Berlin Meet Up + Pitch-Off.
+
+An engaged audience of over 500 attendees watched ten startups pitching on stage, with ideas ranging from privacy compliant cross-device ad tracking, to decentralized cloud security, to machine learning powered cloud infrastructure management. There was even anenergy efficient alternative to the traditional kettle.
+
+In the end, hardware startups walked away with two of the three possible prizes, with first place going to air pollution attackingGreen City Solutionswhose cross-disciplinary team includes expertise in biology, mechanical engineering, architecture and computer sciences.
+
+The startup’s four meter high freestanding ‘CityTrees’ vertically house moss cultures and vascular plants selected for their ability to consume particulate matter and help clean the air — with each unit billed as being equivalent to planting 275 urban trees, yet taking up far less space than an urban forest. Sensors embedded in the units are used to collect environmental data to help regulate and control the solar-powered units so that minimal manual maintenance is required. They can also house screens to double as digital ad units, offering an additional revenue stream. Green City Solutions will be exhibiting at TechCrunch Disrupt London in December.
+
+Second prize went toBuddyGuard, which is crowdfunding an elegantly designed connected home security camera with added AI smarts to power pro-privacy features, and which has a smart focus on selling its hardware and services via insurers. BuddyGuard wins two tickets to Disrupt London.
+
+Third place in the Pitch Off went toMigrantHire— a startup that wants to be ‘LinkedIn for refugees’, offering a platform to help recent arrivals find jobs and upskill (starting with IT skills), while simplifying the migrant hiring process for employers by helping navigate legal hurdles. The team wins one ticket to Disrupt London and even had an impromptu offer from one of theMeet Up judges, Clue’s Ida Tin, to hire developers…. That’s what we like to see.
+
+Thanks for a great Meet Up Berlin — and see you next time!
+
+The other startups which pitched at the event were:
+
+AttachingIT— enabling companies to utilize cloud scalability without having to give up full data secrecy by encrypting data, chunking it and distributing it over multiple cloud containers. “We have developed FBS, a drop-in replacement for cloud storage APIs like Amazon S3 or Microsoft Azure Blob Storage. With the help of a light on-premise appliance, FBS transparently chunks and end-to-end-encrypts all data before making the chunks mutually dependent and uploading them to multiple locations in the public cloud as well as keeping some of the data on-premise. This ensures that only by bringing together all chunks can the original file or any of its parts be restored. The data remains secure even if the underlying cloud providers are compromised.”
+
+Bloom— a social networking app for ephemeral events that uses location tracking to visualize goings on on a map, showing not only location but popularity. “A map filled with unique parties, yard sales, pop-ups, foodtrucks or art, created by the users themselves. Everything you see happens right now. Start a Bloom on your current location to share a happening. The more people show up, the bigger a bloom grows on the map – automatically and in realtime. Once a party is over, the bloom disappears. This way Bloom transforms itself every hour.”
+
+Heili— a self-learning, AI-driven cloud infrastructure management solution. “It ensures that the back-end stack of your favorite application is always online. Supporting infrastructure in both public and private clouds, Heili can be deployed for AWS, GCE, Openstack and more. Configuration is a simple two-step procedure taking less than 15 minutes.”
+
+HelloCoach— a central digital hub for sports teams to simplify team communications and organization. “With HelloCoach every team member and their involved parents and friends are connected, everyone has access to all relevant information about the team’s events, they can track the statistics of their team, and read the latest news of their local league.”
+
+link.fish— a tool for unlocking the utility of web data that’s spread across your tabbed browsing sessions. “It extracts the information automatically and allows people to work with it. They can then sort and filter by any property, display it in a list view, grid or on a map, work together in real-time with others, refresh it with the push of a button and much more.”
+
+MIITO— the kettle deconstructed and reimagined to save energy, by combining an induction plate with a free-standing metal heating rod, letting you boil water in any vessel, like the teacup you intend to drink from. “Choose the precise temperature (30°-100°C) to prepare your delicate teas to their full potential. Unlock even more possibilities by using the MIITO app: select the tea you plan to drink and the necessary instructions will be sent to the MIITO kettle. MIITO will take care of the correct temperature, steeping time and will notify you when your tea is done.”
+
+Roq.ad GmbH— EU privacy law compliant cross-device ad tracking technology. “Compliant with strict German and EU consumer privacy laws, Roq.ad creates a more user-centric approach to digital advertising by creating more consistent, personalized content and advertising experiences for consumers by matching devices to people and people to households. Roq.ad is paving the way for smarter advertising and optimized marketing spend across all digital devices.”

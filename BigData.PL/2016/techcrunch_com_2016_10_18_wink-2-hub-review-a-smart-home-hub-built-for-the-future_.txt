@@ -1,0 +1,21 @@
+Wink 2 Hub Review: A smart home hub built for the future
+
+If the Amazon Echo is the face of home automation, a smart home hub is the brains. It sits silently, stuffed under a couch or on a bookshelf, connecting all the smart devices around a person’s home. There are a few competing hubs available, but the latest from Wink packs the most connectivity options.
+
+This is the second Hub from Wink. Called the Hub 2, it costs $99. The changes are incremental over the original with the addition of an Ethernet port and several wireless protocols to increase compatibility with more smart home devices. The new version is also slightly thinner and better looking. The company increased the internal memory and added encryption to ensure your lightbulbs aren’t hacked.
+
+In testing I found the Wink Hub 2 to work perfectly fine. Compatible devices connect without issue and when used in combination with an Amazon Echo or the Wink app, controlling these devices are easy.
+
+The company updated its app shortly prior to releasing this new hub. The changes are fantastic. The app was never horrible, but this new version improves the user interface dramatically. It’s now much easier to control devices and set up actions.
+
+Installing the Hub 2 is simple. Connect it to power and follow the prompts on the app. Like the original, it’s possible to connect the device to a wireless network. Unlike the first Wink Hub though, the Wink App automatically finds the hub, making adding it to the local network a few steps shorter.
+
+The Hub 2 is compatible with 2.4GHz and 5GHz networks. However, even when connecting the Hub 2 to a wired network, I couldn’t discern any difference in response time between the Hub 1 and Hub 2. It still took just a moment for the Wink hub to turn on my Philips Hue lights just like the original. Its selling point comes in added connectivity. This new model operates just like the original, and that’s for the best. I can’t tell any difference in operation from the old model. The changes are on the inside.
+
+The new model is ready for the next generation of wireless protocols. Out of the box it supports Bluetooth LE and has a wireless radio compatible with Nest’s wireless Internet of Things standard, Thread. This is in addition to wireless systems built into the original Wink hub: Kiddel, Lutron Clear Connect, Wi-fi, Z-Wave and ZigBee.
+
+With the addition of these two wireless protocols, homeowners should find the Wink 2 works with more items. And that’s a great thing.
+
+The Internet of Things ecosystem is a smattering of devices and networks and compatibility is an issue. Most items will work with Wink and top competitor, SmartThings, but somethings will not. Sometimes, a Z Wave device will only work with one system — and of course It’s never the one you own. This isn’t any particular system’s fault. It seems most companies building IoT hubs are adding device support as fast as it can.
+
+At least, when picking up the new Wink Hub 2, buyers know that it supports most older smart home devices and should support most in the future, too.

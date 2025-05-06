@@ -1,0 +1,27 @@
+Scientists teach machines to hunt and kill humans — in Doom deathmatch mode
+
+You know how sometimes you look at a piece of research and think, “I suppose it’s an interesting technical problem, but isn’t teaching an AI to hunt and kill humans a pursuit fundamentally dangerous to the continued existence of mankind?”
+
+This is one of those times.
+
+Some traitors to the species at Carnegie Mellon have applied the ever-applicable neural network approach to create an AI that is literally a killing machine. Or perhaps I should say fragging machine, because it’s only doing the killing in a Doom deathmatch. Now, you can of course say it doesn’t count because the death is virtual, but why should that matter? To computers,everythingis virtual. Think about it.
+
+You have a question: How does this differ from the bots we’ve had in games since forever? Computer players have been around forever!
+
+You are an acute observer, reader, but consider: Those bots are programs running within the game itself, aware of all the variables, coordinates, edges, the locations and specs of guns and health kits. Like any non-player character, they are programmed to act in certain ways in reaction to certain in-game variables.
+
+The AI created by Guillaume Lample and Devendra Singh Chaplot plays the game the way we humans play: by looking at the screen, identifying our character’s situation and orientation, finding our way around the map and shooting at anything that moves. It’s essentially a level up from the AIs that use similar methods to learn the methods governing simpler games, like Space Invaders, and find the inputs that maximize score in those.
+
+Here it is in action:
+
+The network was trained mostly on pixel data — that is, what you actually see on the screen — but its creators had to cheat a little by giving it some basic insight from the game engine on whether there was an enemy or item on screen.
+
+Its reinforcement strategy was this: It got attaboys for picking up items, moving a lot and racking up kills, but was reprimanded for taking damage and dying. There was also a light rap on the wrist for shooting, since otherwise the machine decided firing indiscriminately and waiting for enemies to wander into its crosshairs was the best technique. Reassuring!
+
+The system that resulted from this setup outperformed the in-game computer players and humans alike. The former weren’t exactly advanced when Doom came out, so they’re pretty much cannon fodder.
+
+It’s actually split into two systems, or lobes if you will. There’s a navigation side, which drives while moving around and collecting things, and presumably learned how to interpret environmental imagery. Then there’s a shooting side, which takes over when there’s an enemy on screen, pointing the gun at the right place and pulling the trigger.
+
+Are we witnessing the birth of Skynet? Or, perhaps, a startup that will soon pitch us with a universal adversarial AI for multiplayer games? Both are pretty scary.
+
+Lample and Chaplot’s paper describing the FPS-playing AI isavailable for free on Arxiv.

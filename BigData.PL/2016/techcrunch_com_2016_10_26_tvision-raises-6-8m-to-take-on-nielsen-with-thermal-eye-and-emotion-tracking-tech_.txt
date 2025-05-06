@@ -1,0 +1,25 @@
+TVision raises $6.8M to take on Nielsen with thermal eye and emotion tracking tech
+
+Another startup out of MIT built on computer vision and focused on eye-tracking technology has raised funding to build out its business: Boston-basedTVision Insights, which tracks who is watching what on TV and how they are reacting to it, and then works with advertisers and broadcasters to provide them with that data to have better insights into their programming, has raised $6.8 million.
+
+The funding — which brings the total raised by TVision to $9.65 million — comes from Accomplice (formerly known as Atlas Venture), along with Golden Venture Partners, Jump Capital, and ITOCHU Technology Ventures (which has backed the likes of Box but also Fab, among many more startups).
+
+There are a lot of startups right now gaining attention for the way that they are using advances in computer vision and machine learning to track what your eyes are doing. Just yesterday, it was announced thatGoogle acquired Eyefluence, most likely to boost its efforts in emerging areas like virtual reality. Another startup that came out of MIT,Affectiva, started out focusing on emotional responsiveness to online videos and has more recentlymade some interesting inroadsinto robotics and automotive applications.
+
+TVision is doing something a little different from these and has been built specifically to address the gap in how TV viewing is measured, CRO Dan Schiffman — who co-founded the company with CEO Yan Liu, Pongpun Pong Laosettanun,Alex Amis and Raymond Fu — explained to me.
+
+The problem that TVision is solving is a well-known one in the TV world. There are a number of companies like Nielsen that already measure TV viewing, but many of them simply monitor when the TV is on, relying on the users themselves to indicate who is watching and when, and who is actually watching the TV rather than sitting on the sofa and playing on their phones instead. Variables like these can result in data that is not completely accurate.
+
+And at a time when digital platforms are all about providing viewing data, and many users are already migrating away from tradition TV viewing, that reporting shortfall could eventually lead to advertising declines in a medium that has dominated advertising for decades but is facing a lot of competition from newer platforms like social media, mobile and streamed video.
+
+“TVisionprovides an important solution for next-level analysis to an industry that is desperate for new and better ways to measure audience attention,” said Ryan Moore, partner and founder at Accomplice, in a statement. “Yan and his team offer the TV industry and advertisers a solution to make high-value programming and advertising decisions based on data they simply did not have before.”
+
+The company starts with a small device that sits on top of and works with your ordinary television. It does not read the world as we see it with an optical camera alone; it uses lasers and thermal infra-red so that it can pick up more data even when lighting conditions are low (as they often are when you are watching TV). Its sensors and algorithms are capable of identifying not just who is watching in a family group, but also who is just sitting in the room but not watching TV (instead playing on, say, a mobile phone), and what viewers’ reactions are to the show that is on at the time.
+
+As Schiffman describes it, “we than translate all that data into ones and zeros, and figure out how to make sense of it.”
+
+TVision’s devices are currently installed in some 7,000 homes in the U.S. and Japan as part of an opt-in, Nielsen-style panel, Schiffman said. The idea is to use some of the funding for business development to bring that number up to 15,000.
+
+The startup already provides data to three of the largest broadcasters in the U.S., as well as many major advertsiers — although these are under NDA and so the names cannot be disclosed, Schiffman said.
+
+Some of the funding will also go towards hiring more talent to expand beyond its current 19 employees, as well as for R&D. Schiffman told me that TVision already has applications in for two utility patents, one for its computer vision algorithm and another around its analytics.

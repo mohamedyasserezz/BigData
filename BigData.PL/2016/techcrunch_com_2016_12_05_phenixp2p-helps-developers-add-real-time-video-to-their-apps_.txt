@@ -1,0 +1,19 @@
+PhenixP2P helps developers add real-time video to their apps
+
+When you are watching the live video stream of a football game or any major event online, chances are that the stream usually isn’t really as “live” as you’d like it to be. Instead, it’s often a minute or more behind what’s happening in the real world because all of the tech that’s needed to transmit the signal to thousands (and sometimes millions) of online viewer incurs lots of latency penalties.
+
+Users, however, now expect their video streams to appear in real time. It’s no fun watching a video stream on Twitter, after all, only to have people who are watching a game on TV spoil the fun by being able to type what’s happening faster than the video arrives on your screen.
+
+Chicago-basedPhenixP2P, which is presenting at our Disrupt London Startup Battlefield today, wants to change this by offering its partners the ability to stream live events in real time, without the delay that other platforms incur.
+
+The company, which was founded in 2013 by Stefan Birrer, wrote a new live-streaming platform from the ground up that is able to scale to millions of devices without incurring the kind of latency problems that its competitors struggle with. PhenixP2P COO Tripp Welge told me that its competitors either can’t scale as well as PhenixP2P’s platform, or have to resort to using content-delivery networks, which results in lots of latency.
+
+For its customers, which already include a webinar platform and a social network in Germany, PhenixP2P offers two different services. Its PCast platform runs on the company’s own cloud servers. Currently, those run on the Google Cloud Platform, but the team tells me that they could easily adapt it to AWS or Microsoft Azure, as well.
+
+The platform automatically scales according to demand. Together with Google, PhenixP2P has tested this service with up to a quarter million concurrent streams, though the team is more than confident that it can easily scale far beyond this.
+
+In addition to PCast, PhenixP2P can also use peer-to-peer connections, which give the company’s users the option to bypass potential bandwidth constraints.
+
+The team offers SDKs for iOS, Android and the web (where the team uses its own implementation of WebRTC to stream video to any modern browser without the need for a plugin). The system can take virtually any incoming video, transcode it as necessary, and then send it to its users. Because it is also gathering lots of network data in the process, the team can then use this information to optimize its network usage, too.
+
+Right now, the company is focused on its solution for broadcasting events to a large number of concurrent users. Welge tells me that a number of potential customers have also asked the company about one-to-one video streams, too. “We’ve done all the hard work already,” he said and noted that adding this kind of functionality — or even enabling group chats for very big groups — should now be relatively easy.

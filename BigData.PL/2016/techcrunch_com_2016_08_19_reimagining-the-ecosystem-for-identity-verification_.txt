@@ -1,0 +1,35 @@
+Reimagining the ecosystem for identity verification
+
+What’s in a name? When it comes in the form of a password, everything. The password has long been the safeguard — and in many cases, the only one — to protect our online identity.
+
+With increased mobility, and our need to stay constantly plugged in, our online identity today extends into almost every touch point of our lives. From checking social media as soon as we wake up, to streaming music on a commute, to doing one last email check before hitting the pillow at night, our digital identity allows us to consume, connect and transact as we move through the day.
+
+Indeed, more than 3 billion internet users currently rely on their digital identity to do a multitude of things online — they bank, shop, consume entertainment, share personal information and connect with friends and family.
+
+All these online activities are made possible through a process of seamless identity verification. This happens behind the scenes, making our online experiences easier, across devices and without compromising on safety. At one point, passwords seemed like the most obvious way to verify account ownership. But, over time, and with the increasing complexity and diversity of internet usage, we can all agree on one thing: Passwords suck.
+
+The majority of users don’t make their passwords complex enough to prevent bots from cracking them to gain unauthorized access. They create simple passwords that are easy to remember and easier to enter on mobile devices, and they use them across different accounts.
+
+In turn, breaches have become more common. Consequently, security is top-of-mind for companies, but it’s tough to encourage users to develop and memorize passwords using a string of letters, numbers and special characters — a process they most often loathe.
+
+This is exacerbated by the fact that different websites/services often have different password requirements (e.g. one site may ask you to provide a password that’s at least six characters with one capital letter and one number, while another may ask for a password that’s at least eight characters and require a capital letter, a number and a symbol).
+
+The need to transform this outdated model is clear, but it requires overcoming certain approaches that have been the foundation of an entire ecosystem for decades. For one, what’s the right balance of usability and security? Consumers crave simple and seamless interactions with technology. Historically, identity platforms skew toward security, while usability suffers. Ironically, if something isn’t usable, it doesn’t matter how secure it is, because users will find a way to make it simple and compromise on security.
+
+Another consideration we must take into account is how to challenge learned behavior. People are used to signing in/out every time they want to check their email, and even relying on sites to “remember” your password. Add in new scenarios like losing your phone, having a dead battery or being logged out of an active session, and you’re back to square one.
+
+Over time, this username/password model has permeated across tech infrastructures. So in order to change what it means for a user to be signed in, we must re-architect networks in a way that challenges these inherent processes within an account ecosystem — from both a systemic standpoint and the user experience. And we can do this in a number of ways.
+
+What we think of as “If X, then Y” authentication allows users to be authenticated on device A, based on actions taken on device B. We see this with most major tech companies that now offer two-factor authentication (2FA) systems for an added layer of security around their platforms, including Facebook, Twitter, Evernote and more.
+
+Upon login, it requires the user to submit a password and re-verify that submission using an additional passcode, such as a PIN that’s been sent to a second piece of equipment (your mobile device, for example). This “second factor” ensures a hacker cannot guess your password, as this unique code has been provided to a device under your control.
+
+We’ve all experienced being logged out of an account “due to inactivity,” such as when you’re looking at your bank account online and step away from the computer for a given amount of time (typically only a few minutes) — par for the course, but annoying as heck! Session logic automatically expires authenticated sessions based on a set time frame, but by building new trust and delegation models and changing from a rules-based to a heuristics-based system to determine the length of the session, we can alleviate this behavior and get time on our side.
+
+Another solution is to support seamless toggling between accounts. All-in-one digital wallet managers that use cross-platform storage verification to house passwords, PINs, software licenses, credit cards and more — think1PasswordandLogMeOnce— are increasingly popular with consumers, as they alleviate the need to enter different passwords across multiple accounts.
+
+We took the first step toward killing the password altogether when welaunchedAccount Key last fall, which lets users conveniently access their Yahoo accounts via push notifications sent to their mobile device. This ensures that once you activate Account Key — even if someone gets access to your account info — no one else can sign in. Further, an Account Key user doesn’t have a password to use on our other sites — or one to forget — and as a result, they’ll never get locked out of their account, nor will their account get compromised because of data breaches.
+
+Banks and other companies are integrating biometrics technology such as TouchID fingerprint authentication for instant login, bringing account access right to your fingertip. Google, for example, is testing its Trust API with financial institutions, which will run in the background of your Android, enabling you to log into services with trust scores made up of biometrics and user-specific data points, like location, facial recognition and typing patterns. Facial recognition software is also improving our online experiences, easing the act of identifying and “tagging” people in your photos. A “first-world problem,” if there ever was one, but convenient nonetheless.
+
+With these innovations, and more surely on the way, we’re headed toward alternative methods to prove account ownership — making people’s online lives easier and safer. Soon enough, security questions like “What’s the name of the street you grew up on?” and “What’s your maternal grandfather’s last name?” will become obsolete, as new digital authentication practices continue to surface to answer and verify the most important one: “Who are you?”

@@ -1,0 +1,27 @@
+Yahoo adds security event tracking to its Account Info page, but still no “delete” button
+
+Following news of its large-scale data breach affecting 500 million account holders, Yahoo todayrolled out a changeto itsYahoo Account settings screenthat will better alert users to unauthorized activity on their accounts. The feature is similar to Google’s in that it tracks the account activity and devices associated with your Yahoo account, but it doesn’t provide as much detail.
+
+In Google’s case, users can view theirrecent security events(like logins, password changes, changes to recovery options, new app passwords, etc.). This includes the dates and times thattheir Gmail account was accessed,as well as the IP addresses which were used to access your account. There’s even a map of the location provided as a small thumbnail next to the account activity on the detail screen.
+
+And each event is tagged not only with the timestamp, IP and location, you’ll also see which device was used for the activity, as well.
+
+Yahoo’s tracking screen is more simplified. The top section shows the recent devices (e.g. Chrome, Mac OS X) where the Yahoo account has been used, followed by a log of the most recent activity or changes to your Yahoo account.
+
+However, in this bottom section, Yahoo is only logging the activity and time. You can’t click on each item to see the additional details for each individual event, like IP, device or location.
+
+Instead, if you want to drill down to see things like the IP or location, you have to click on the device (Mac OS X, e.g.) at the top of the screen. Here recent sign-ins on that device are listed with locations, IPs and timestamps.
+
+The problem with Yahoo’s activity logging is one of design. On the main screen, each item – like a password change – doesn’t have an IP, device and location provided; meanwhile, clicking on the device at the top (where you can see things like IP and location) seems to only show you the logged sessions, not the other activity.
+
+This layout makes Yahoo’s activity log more confusing to read and understand than Google’s.
+
+Plus, none of this will really help Yahoo users deal with the aftermath of the data breach, which actually took place in 2014. Yahoo passwords have been reset, and the company wiped out the prior answers to users’ security questions.
+
+Above: Google’s security event activity info screen, for comparison
+
+The problem is that this information, now in the wrong hands, can be used to compromise users’ accounts across the web, not only because of password reuse, but also because many sites ask the same security questions when users attempt password resets. (Like, “what’s your mother’s maiden name?”, “Name of first pet,” etc.)
+
+Meanwhile, the company still hasn’t addressed the problem in whichit’s made it difficult for users to leave the Yahoo Mail serviceby disabling the feature that allows them auto-forward their email. (It says it’s “working” on turning it back on.)
+
+Nor has it added a simple “delete my account” option from the Account settings screen. Instead, users have to dig throughYahoo’s Help siteto find the URL tothe “Terminating your Yahoo account” page.It also continues tohold onto Yahoo accounts for 90 days, before permanently deleting them, in case a user chooses to reactive the closed account.

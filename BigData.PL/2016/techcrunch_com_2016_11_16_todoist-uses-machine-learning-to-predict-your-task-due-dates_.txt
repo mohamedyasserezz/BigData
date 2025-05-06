@@ -1,0 +1,21 @@
+Todoist uses machine learning to predict your task due dates
+
+Raise your hand if you’re a bit too optimistic when it comes to planning your day with a to-do list. If you’re like me, chances are you write down too many tasks and always end up with unfinished tasks at the end of the day. Popular task-management serviceTodoistwants to help you reschedule your tasks and even out the work load using machine learning.
+
+Smart scheduling is a work in progress and will get better over time, but it sounds like a promising feature for intense Todoist users. “We created a couple of neural networks that can help our users with scheduling and rescheduling stuff. We think it’s a pretty cool usage of AI,” Todoist founder and CEO Amir Salihefendic told me.
+
+Task-management services are great until they end up being too much work. Many services require you to tick a lot of boxes and input a lot of information just to manage a to-do list. That’s why everything that can speed up these services is essential.
+
+In Todoist, there’s a new “Reschedule” button next to the overdue section. The service intelligently suggests new due dates for all these overdue tasks based on many different data points. It also works with unscheduled tasks.
+
+First, Todoist learns from you. For regular tasks, such as errands, Todoist remembers when you usually complete these tasks and assigns them to the same day. You might also have a ton of upcoming tasks, so Todoist will make sure that all tasks are distributed evenly so you can actually get stuff done.
+
+Todoist also knows when you stop completing tasks. So the service won’t suggest to reschedule due tasks to today if it’s already late.
+
+Second, Todoist also learns from the entire Todoist user base. Many users write down the same tasks. “Fix critical bug” might be a common one, and the service knows that it should be done quickly and not next week.
+
+Finally, Todoist tries to make a distinction between workdays and weekends because people tend to complete different tasks depending on the context.
+
+Users can always edit or reject suggested due dates so that you stay in control of your to-do list. In addition to the new “Reschedule” button on all platforms, Todoist can also suggest a due date for individual tasks when you reschedule them.
+
+Now, if only the company could do the actual work for you, that would be great.

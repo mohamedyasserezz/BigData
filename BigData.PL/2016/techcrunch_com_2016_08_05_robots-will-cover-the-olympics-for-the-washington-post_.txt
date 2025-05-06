@@ -1,0 +1,29 @@
+Robots will cover the Olympics for The Washington Post
+
+The Washington Postannouncedtoday that it will use artificial intelligence to report key information about the Olympics.
+
+The software will contribute The Post’s coverage of Rio 2016 by posting raw data and short updates, while a team of human reporters will provide readers with analysis and more in-depth articles.
+
+Heliograf, as the team calls its robot reporter, will take information from sports data companyStats.comand turn it into short narratives.
+
+Starting tomorrow morning, these multi-sentence updates will appear in the Post’s live blog, on Twitter at@WPOlympicsbotand via the Post’s bot for Facebook Messenger. An audio version will be available on Amazon Echo.
+
+The goal is to post more than 300 stories on the live blog and 600 updates on Twitter, Echo and Messenger during the Olympics, said Jeremy Gilbert, director of strategic initiatives at The Washington Post. The live blog will feature updates not only from Heliograf, but also from the Post’s correspondents in Rio and the sports team in DC.
+
+“The goal of Heliograph is not in any way to eliminate even a single journalism job,” said Gilbert. “We’ve been hiring like crazy.”
+
+The newsroom overall has added 140 journalists since Jeff Bezos bought the Post in 2013, according to the communications department.
+
+“Finding amazing sources, discovering interesting stories, analyzing things are the things we want great reporters to focus on,” Gilbert added. “We want humans to tell stories that only humans can tell.”
+
+Tomorrow, Heliograf’s first task will be telling the story of the Olympics medals in the form of one- to three-sentence updates. During the games, the service will keep readers posted about the schedule of the competitions, medal results and medals rankings by country, among other things.
+
+As for the editing part of the process, Gilbert explained: “There won’t be stories that are going up, either written by humans or written by Heliograf, that won’t be edited by human editors. That said, we’re going to publish into the live blog and then we’ll be reviewing.”
+
+Heliograf has a safety mechanism to check the data, explained Sam Han, engineering director of data science at the Post. The systems analyzes the data automatically; if any potential error or suspicious results are identified, Heliograf reports them to the editorial staff.
+
+The software was developed in-house starting six months ago by using data from primary elections during the testing phase.
+
+It’s not the first time a media outlet has experimented with automated storytelling. In July,AP Sports announcedthey had started using “robot” reporters to cover Minor League Baseball.
+
+Heliograf is also going to be part of The Washington Post’s coverage of the upcoming presidential election.

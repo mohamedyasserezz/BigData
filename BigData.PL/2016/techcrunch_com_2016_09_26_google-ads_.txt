@@ -1,0 +1,45 @@
+Google embraces the log-in, leaving cookies behind in new advertising updates
+
+Google has been focusingfor yearson finding better ways to track and measure ads as we switch from one device to another to consume media like TV, music or written articles likethis one. And now, to coincide with Ad Week in New York this week, Google isrevealingits latest moves in that effort: over the next few months the company will expand Brand Lift from measuring online  video to cover TV; it’s letting businesses ad Google Maps data and photos to their ads; and in a very Facebook-like move, it is moving away from cookies and using logged-in data to track and market to users across multiple devices, apps and sites.
+
+To be clear, these are updates to existing products for Google, but taken together they are a sign of how the company is trying to shift how it identifies people in an ever-changing digital world that includes smartphones alongside computers and more traditional screens like TVs; and how it’s trying to harness more of its immense footprint across services like maps, email and Android to stay on top in advertising.
+
+Google has traditionally relied on cookies and mobile IDs to identify and track users for remarketing lists. But this isn’t effective enough for cross-device and cross-channel campaigns, which is why the company has been making the switch to logged-in data, something it first started to kick off a year ago with itslaunch of Customer Match, which matched up a business’s email lists with Google’s own databases of logged in users to figure out more about their customers and advertise to them more directly.
+
+Google is not throwing out cookies and declaring them completely stale, but it’s a clear move away from them. “I call it the depreciation of the cookie,” McGowan, himself an ex-Googler who used to head up ad strategy at the company, told me.
+
+Google launches cross-device and channel retargeting, attribution • Goodbye cookie; Hello log-in!https://t.co/miFSuwyLGq#GoogleAW2016
+
+— Matt McGowan (@matt_mcgowan)September 26, 2016
+
+The reason for the shift has less to do with trends like the rise of ad blockers, which impacts the effectiveness of things like cookies. This could feasibly become an issue over time, but relatively speaking today these are used by a very small part of the population.
+
+More to the point is the rise of Facebook and the growth of its own ad network and Facebook Custom Audiences, based on its own logged-in user data. Google may not have ever managed to build a successful social network of its own, but Gmail alone has over 1 billion logged-in users, and when you start to add in data from other services like Android, YouTube, Maps and Google Now (all of which also tie into your ID), you can see how Google has reached a tipping point where the cookie may not be as appetising as it used to be.
+
+The three updates today all point to how Google is upping its game with stronger ad tech to meet today’s media consumption trends.
+
+Brand Lift is a product that has beenaround since 2011but up to now most of the updates have been around improving what and how it measures online video ads largely around the world’s biggest online video property, Google-owned YouTube. Given the work that other companies like Twitter have made to integrate and match up its online network with “offline” or simultaneous TV watching (in order to better demonstrate to advertisers that it really does pay to have a presence on Twitter), it seems almost overdue and surprising that it’s only today that Google is extending Brand Lift to TV.
+
+Less surprising are Google’s claims of what it is finding from early tests of the product: it says that YouTube generates nearly twice as many searches per impression than TV. (This makes sense, since you are already online and it’s very easy to simply click on a video ad.)
+
+Regardless, there has been a longstanding disconnect between how popular offline media like TV and print remain for advertising (they still account for a majority of ad spend), and where it is that people are actually consuming that media. Advertisers would like to see more proof of what’s being viewed and where, and so this could help bridge that gap a little big more.
+
+Google says that initially it will work in the U.S. only but that it will extend to globally “soon.”
+
+The second update points to another way that Google will be drawing in its Maps product closer to its advertising business.
+
+This is aimed at mobile advertising, and builds on location-based advertising that Google already provides, as well as metrics that Google already measures about whether a person who has searched for a store actually visits it and buys something. This is already a fairly extensive business for the search giant: based on data it already collects, Google says that today some 30% of smartphone users who visit a website or app on their phone buy something in a store within 24 hours.
+
+For starters, Google will now load up location-based interstitial and display ads with more actual location data. Based on a trial Google ran with Home Depot in a 15-mile radius of a Home Depot store it will work like this: advertisers will first target ads based on the physical location of where a user is doing a search. Google will draw on not just the location and a person’s previous search history, but also any other data it happens to have about that user and his/her interests based on its trove of “lookalike” audience data.
+
+Then when the ad is served, users will get more location information around the company in question, including map links to make the visit a little more frictionless.
+
+And after a user visits a physical location, if they have their phone on them, Google will be able to track that and feed this back to the advertiser to measure the impact. To improve attribution, some of the other data points that Google picks up include “micro-conversions” (like whether a user ever selected click-to-call from a search or Maps search; whether a user has ever tried to search for store directions; etc.) and also “macro-conversions” (actual store sales).
+
+The third update, around cross-device remarketing — will be how Google makes its ads more ubiquitous across different screens and different devices.
+
+Covering both the Google Display Network and DoubleClick Bid Manager, Google says it will give advertisers more transparency and control over how this is done. It will also give it a stronger play against the likes of Facebook’s own strong data set around its own users.
+
+Google’s example of how this will work is a Halloween campaign: in the morning a user may see an ad for a sale on costumes in the morning while reading the news on her smartphone. In the evening, when on a tablet, that same user can now be served an ad from the same company while browsing on a tablet or computer, this time with a specific offer.
+
+In the past, advertisers could serve ads in this way only across specific devices because of the use of cookies and Android IDs, and otherwise the best that they could get was data on how their ads were being viewed. Now, with logged-in data, it looks like control of the ad experience will extend to a far wider range of places to track and sell to you. On that note, while it sounds potentially a little more big brother, it also means that you can opt out of the tracking by logging out.

@@ -1,0 +1,59 @@
+UK spy agency GCHQ paid NZ firm Endace to power Internet fiber-optic taps
+
+The 2013 Snowden documents revealed UK intelligence agencyGCHQ to be tapping into the undersea cables that carry Internet traffic, covertly gathering vast amounts of digital comms data under a surveillance program code-namedTempora— apparently with the help of commercial partners.
+
+Now leaked documents obtained byThe Interceptconfirm GCHQ paid New Zealand-basedEndaceto create data capture systems to enable it to tap high speed Internet traffic.
+
+Endace’swebsitetouts its ability to offer “100% accurate network recording, any speed, any network”, going on to note:
+
+When organizations buy our products they buy the confidence that all of the network traffic will be captured, analyzed, stored or sent to wherever it needs to go. For network forensics and diagnostics knowing you’ve got every packet captured, indexed, and written to disk is a huge advantage. It allows the teams responsible for maintaining and protecting the network to work fast and effectively when the chips are down.
+
+It also notes the company does business with:
+
+Endace’s name has previously been linked to state surveillance via a2011 WikiLeaks dump of brochures and marketing materialsfrom the companies seeking to sell services to spy agencies.
+
+But the new cache of documents detail specific purchases and product requirements, such as a £245,000 charge in astatement of work dated February 2010to accelerate “feature enhancements” to certain of its data capture and monitoring products which it says have been “identified” in discussions with GCHQ.
+
+The document adds that the majority of these enhancement are “of a bespoke nature” and would not otherwise have formed part of its planned commercial roadmap for the unit.
+
+The cache of internal documents include emails, customer lists, project updates, product overviews, contracts and financial reports.TVNZhas also reported on the documents, which were leaked to The Intercept via the open source whistleblower submission site,SecureDrop.
+
+They underline how GCHQ was pushing to ramp up its surveillance capabilities. The Intercept notes that as of 2009 the agency was tapping into 87 different 10Gbps capacity cables but by March 2011 it wanted to beef that up to 415 cables.
+
+While an earlier July 2010 document, setting out its vision for 2013, describes its ambition to“grow our Internet access to 800 10Gs“.
+
+In one contract with GCHQ Endace is revealed to have been bound to the UK’s Official Secrets Act — thereby enforcing non-disclosure of its contract with the spy agency.
+
+The leaked documents also reveal Endace used New Zealand government research funding to develop certain surveillance products for GCHQ.
+
+Endace was founded in New Zealand back in 2001, spun out of an academic research project. The company was acquired by California-based Emulex in 2015 butearlier this year a management-led buyout spun it back out, as a private company.
+
+In a statement at the time CEO Stuart Wilson said: “Operating as an independent company again allows us to continue to deliver innovative solutions to our customers under the Endace brand they’ve known and trusted for more than 15 years.”
+
+So you want to data-mine a popular chat app…
+
+In another of the leaked documents, a2013 proof of concept overview for a product called Kraken— which the company described as “aimed at solving the deep storage problem faced by network analytics users” — Endace gives several sample customer user stories, including a scenario in which a ‘Friendly Government Agency’ (FGA) “has the encryption keys for a well-known chat program” and wants to unencrypt all packets set on the network in the last 24 hours to look for a particular text string —
+
+Elsewhere in the documents the company switches between referring to FGA and GCHQ, heavily implying FGA is its internal code-name for GCHQ.
+
+And while it’s not clear how true-to-life that particular customer user story is, with its apparently jokey reference to Domino’s Pizza as the preferred food of terrorists, the general thrust of the capability request is presumably exactly what GCHQ was after at that point — which was in turn driving Endace’s product development decisions.
+
+Another data capture product being developed by Endace with GCHQ’s requirements in mind, code-namedMedusa, was designed to enable data traveling at up to 100Gbps to be intercepted.
+
+The first version of the tech was apparently delivered to the spy agency in November 2011, after which they requested some additional capabilities — including a feature described as “Separate MAC insertion by IP type”, perhaps seeking the ability to target individuals via the hardware addresses of their devices.
+
+In addition to selling tech to enable GCHQ to tap fibre optic cables at high speed and massive scale, the documents reveal Endace selling surveillance-enabling technology to a raft of other government agencies and bodies, including in the U.S. and Canada, Israel, Denmark, Spain, Morocco, India and Australia.
+
+In the Moroccan instance, The Intercept notes the particular security agency in question — the DGST — has been implicated in torture.
+
+Endace is also revealed to have a large number of telecoms customers — including AT&T, AOL*, Verizon**, Sprint, Cogent Communications, Telstra, Belgacom, Swisscom, Deutsche Telekom, Telena Italy, Vastech South Africa, and France Telecom — and also finance giants on its customer lists, such as Morgan Stanley, Reuters and Bank of America.
+
+The Intercept flags anotherdocumentwhich details another strand of its business is providing a “lawful intercept” product, in this case to US telco Sprint — likely as part of a legal requirement that telcos have an intercept capability for equipment on their networks in order that they can provide extracted data to law enforcement and security agencies on request.
+
+That said, Endace does also sell network monitoring equipment to companies wanting to check and maintain their own networks — including to help investigate data breaches and network security incidents. One such customer there isHealthShare NZ.
+
+On the finance side, itswebsite also notesproviding financial companies with monitoring technology to help “high-frequency traders to monitor, measure, and analyze critical network environments”.
+
+*TechCrunch’s parent company
+
+**The parent company of TechCrunch’s parent company

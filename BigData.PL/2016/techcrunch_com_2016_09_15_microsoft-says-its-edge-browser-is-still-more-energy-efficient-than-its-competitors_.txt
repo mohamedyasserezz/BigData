@@ -1,0 +1,11 @@
+Microsoft says its Edge browser is still more energy-efficient than its competitors
+
+Once upon a time, browsers were all about getting faster and scoring better on JavaScript benchmarks than their competitors. While speed still matters, many developers have recently focused more on energy efficiency than speed (which makes sense, given that most users now browse on laptops). When Microsoftsaidthat its Edge browser was more energy-efficient than its competitors, like Chrome, Firefox and Opera, it kicked off aninteresting discussion.
+
+Today, Microsoft is back with new numbers based on the latest release of Edge in the Windows Anniversary release. Unsurprisingly, Edge still outperforms its competitors (including Opera with its special energy-savings mode turned on). The new version of Edge, Microsoft claims, is now also 12 percent more efficient at rendering pages in the company’s simulated browsing tests. Every other browser also showed some improvements in these tests, which just goes to show why we need competition in the browser ecosystem.
+
+As for Microsoft’s results this time around, the company says using Edge can make your laptop last 23 to 69 percent longer than other browsers. Chrome, which also recently got a lot of efficiency related updates, still performs significantly better than Opera and Firefox. In one of Microsoft’s tests that looked at how long the laptop lasts while streaming video, Edge outperformed Firefox by 62 percent.
+
+The source code of Microsoft’s testing suite isavailable on GitHub. Given that Microsoft is only looking at browser performance on Windows 10, these tests obviously don’t include data for Safari. Apple, though, would likely argue that its browser remains more energy-efficient than its competitors on OS X, too.
+
+I’m pretty sure I’ll receive responses from Opera, Mozilla and Google soon after this post goes up and I’ll update this story once I hear from them.

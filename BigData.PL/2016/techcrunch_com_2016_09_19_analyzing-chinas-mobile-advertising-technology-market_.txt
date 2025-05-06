@@ -1,0 +1,43 @@
+Analyzing China’s mobile advertising technology market
+
+For those of us in the mobile advertising technology business, China is one of the most exciting markets in the world in 2016. To say that the mobile ad economy in China is a few years behind the U.S. and Europe is both true and an oversimplification.
+
+When you spend time on the ground in China, as I just did a few weeks ago, meeting with over 20 mobile publishers, including titans like Baidu, Qihoo360 and Cheetah Mobile and rising players like Kika, MobiMagic, 6Waves, WeShare, iHandy and Apus, a few things become clear.
+
+One, China’s digital ecosystem is mobile-first and app-first in a way that has leapfrogged the West. Two, while there are similarities in how Western mobile advertising markets have evolved, especially the dominance of a few giants, there are unique dynamics in China that are creating exciting opportunities right now. Three, the firms that will win in China need to be truly global in their approach and capabilities. Below are some of the major themes to look at.
+
+Baidu, Tencent and Alibaba dominate the market
+
+According to eMarketer analyst Shellene Shum, these three firms will garner 72.8 percent of China’s mobile internet ad market in 2016. That’s huge, and not unlike the dominant market share that Facebook and Google enjoy in the U.S.
+
+With “BAT” controlling so much of China’s traffic, lesser publishers have gone outside of China to acquire and monetize high value users. App developers like video sharing appmusical.lysometimes ignore the Chinese market altogether and go to the ‘overseas’ market first, sometimes even to the U.S. and Europe first.
+
+Domestic user acquisition is complex and challenging
+
+Acquiring users in China is done in two major ways: optimization across the very fragmented Chinese app store ecosystem and pre-installs. While the top three app stores in China are owned by the giants — Baidu, Tencent and Qihoo360 — there is a new generation of app stores owned by large device manufacturers such as Huawei and Xiaomi as well as one by a union of mid-size device manufacturers.
+
+Other than acquiring users through the various app stores, some of the publishers that we met have relationships with device manufacturers and their apps are pre-installed on the devices.
+
+The rise of large middle-market players
+
+Over the last five years, startups have raised massive amounts of VC money and much of these funds have been spent on user acquisition. This has resulted in new giants being formed almost overnight.
+
+One example isApus, an Android launcher company that we met that was founded in July 2014 and boasts over 900 million downloads, with users from U.S. and Europe accounting for 30 percent of the total user base. As VC and PE funding slows down and bank credit tightens, Chinese publishers, many of which did not generate revenue since their launch, now have to start monetizing traffic.
+
+Chinese publishers focus on utilities and games
+
+Chinese publishers, especially the ones who are aiming at international users, are focusing on utilities (keyboards, flashlights, speed boosters, battery optimizers, etc.), messaging/communication and gaming apps. Chinese utilities app developers realize that they have limited growth opportunities.
+
+They are now trying to get into the content (an area they avoided until recently, realizing that they have no advantage when it comes to Western users) and especially gaming spaces where users spend more time than in utility apps. Android launchers — essentially customized home screen replacements — are on the rise, especially a new generation that includes heavy personalization options and personal assistants.
+
+The Chinese mobile adtech ecosystem has evolved rapidly
+
+Programmatic is very developed and there are many local non-BAT DSPs, SSPs, and exchanges that trade via RTB such asPapayaMobile,Yeahmobi,MobvistaandAvazu. Advanced formats such as video and especially native are on the rise, as well as the user of user data for targeting, despite data being a sensitive issue in China.
+
+Opportunity in monetizing international traffic
+
+Chinese publishers’ overseas traffic typically comes mostly from Southeast Asia, but they are now moving aggressively to establish themselves in the U.S. and European markets. Western traffic is particularly attractive because the CPM rates are usually 10 to 20X higher than that of Southeast Asia. For those that have significant international traffic, monetizing this supply is a large immediate opportunity and one where savvy international firms can quickly establish a foothold in China.
+
+Although Facebook and Google are banned in China as far as B2C goes, Facebook and Admob are the preferred platforms for B2B, meaning the channel for Chinese publishers to monetize their overseas users. All of the publishers we met with are working with Facebook and Admob and are mostly happy with the results.
+
+However, we believe that as these “new giants” continue to emerge, they can benefit from someone who can provide a more complex, customized solution with greater capability in higher value ad formats like native and video, advanced programmatic environments like private marketplaces and preferred deals and the addition of data parameters as a way to maximize eCPM, fill rates, viewability, and ad safety.

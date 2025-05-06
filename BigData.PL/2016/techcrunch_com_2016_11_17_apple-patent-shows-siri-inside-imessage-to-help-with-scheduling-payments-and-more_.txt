@@ -1,0 +1,23 @@
+Apple patent shows Siri inside iMessage to help with scheduling, payments and more
+
+Google’s smart virtual helperGoogle Assistantis finding its way into everything from the company’s chat app Allo to Pixel smartphones and its Amazon Echo rival, Google Home. Now it appears that Apple is considering following suit in at least one of those areas. Anewly unearthed Apple patentindicates the company is looking into integrating Siri into its own messaging platform, iMessage.
+
+The patent, which was first spotted by theAppleInsiderblog, explains how Siri could be used during a chat session to answer questions, schedule meetings, offer directions, provide weather information, check movie times, book dinner reservations, complete financial transactions and more.
+
+For example, a user might ask Siri for help in scheduling a meeting that works with everyone’s schedules in a group chat, and the assistant could then tap into the participants’ calendar information to determine when they’re free or busy.
+
+In this case, the assistant bot would show a selection of times when everyone could meet, and the people in the group chat could vote on the best date through an in-conversation poll.
+
+Another example mentioned in the patent application is the ability to use Siri for person-to-person payments. The assistant could look to see which payment methods are installed on each user’s device, and then pick a selection of options the sender of the payment could choose from. This could help ease the problem of not knowing whether to send someone money through PayPal, Venmo or Square Cash, though it seems it could also be used with Apple Pay, if the company desired.
+
+The virtual assistant is described as using semantic analysis to understand when it’s being called up in the conversation, plus it knows when its help with a task only needs to be seen by a single individual instead of the entire group chat. It will then present itself to the conversation participants accordingly.
+
+In typical Apple fashion, consideration is given to how users could maintain control over their personal information when Siri is available in iMessage chats. It sounds like one idea suggested by this patent would be to have some sort of opt in/opt out toggle switch, similar to how Apple allows users to turn off ad tracking in iOS’s Privacy options.
+
+And the patent states that “such collection [of personal information] should only occur after receiving the informed consent of the users.”
+
+While a patent application isn’t an indication of a feature that’s actually in development, this one is notable because the trend toward chats and computing that’s augmented by bots doesn’t appear to be going away anytime soon. There are a growing number of  virtual helpers available, like Google Assistant, Amazon Alexa and Apple’s Siri, as well as Facebook Messenger bots, and those on other messaging platforms.
+
+Apple rivalSamsung also just acquired a next-gen Siri-like assistant called Viv,to better compete. And Apple has been buying upmachine learningstartupsitself, though it missed one earlier competitor called Emu,which sold to Google, which could have brought the above capabilities to iMessage given its focus on integrated assistance in chat sessions.
+
+If we’re going to spend more time talking with bots, it makes sense that Apple would want to leverage Siri in its own messaging service — especially now that Siri can pull up information from not only Apple’s own services, like its calendaring app, but those from third-parties, as well.

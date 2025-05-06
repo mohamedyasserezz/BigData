@@ -1,0 +1,285 @@
+Review: Apple tees up the future with iPhone 7
+
+M
+
+y kid farts a lot. Farting — and eating — is pretty much all he does, actually, because he’s four weeks old. At this point he’s performing to expectations and we’re all very pleased here even though no adults in this house have slept longer than a couple of hours continuously in several weeks.
+
+He’s busy splitting atoms, taking in the world, connecting neurons and figuring out how those hands and eyes work together. And farting — a lot. Given where he is in life, there’s no reason for his mom or I to expect anything more just yet. But we have high hopes for the future.
+
+Apple, too, is going through a splitting-atoms phase with the iPhone. Apple knows that the future is a camera that can see the world in 3D. It knows that the future is one without wires because wires are awful. It knows that the iPhone may be our primary computer, but its screen won’t be the primary way we interact with that computer. These changes are inevitable and ultimately welcome — but until we get to that future, some difficult decisions are going to have to be made.
+
+One of those is axing the headphone jack, a decision that has very potent arguments against it that reasonable, logical people would have a hard time refuting. Another is adding a second camera to the iPhone 7 Plus. Another still is removing the standard physical home button in favor of a haptic version.
+
+All of these are tied together by technology, materials, philosophical choices and future plans. In fact, if you’re a fan of reading the Apple tea leaves to see what it’s going to do next, and in turn how it will influence the industry, then the iPhone 7 and iPhone 7 Plus are the most interesting iPhones ever.
+
+If you’veread oneofmy reviewsbefore then you’ll know I do things a bit differently than other tech writers. For one, I use the phones as normal. I don’t torture test them or run dozens of artificial benchmarks unless they provide an interesting window into advancements in performance that are going to make a real difference to you.
+
+Frankly, with platforms like iOS, where the hardware is a near constant, developers are going to be producing software that utilizes exactly what resources Apple makes available to them — no more and no less. So wasting time on a bunch of random numbers (higher is better! lower is better!) doesn’t really serve the audience most of the time because everything should run well.
+
+It is helpful, of course, to note where new capabilities are provided to developers because that will directly affect the kinds of experiences you’ll be having. And, if there are any instances where the standard everyday functions of the device are actually worse than before, well that’s worth mentioning, too.
+
+I also typically back up my personal phones and restore them to demo devices, rather than starting completely fresh, because this is how most people are going to begin using their new devices in the real world. I am not out to create some nebulous idealized laboratory environment. There are plenty of folks out there who do a great job of that and I’ll let them do it. I’m only interested in giving the clearest view of how well things will work down in the muck.
+
+So that’s what I did. I took pictures of my kids in low light, okay light and pretty good light. I threw the shiny iPhone in my pocket with my keys and stuff to see if it would scratch. I played with the home button, I used the heck out of Apple’s new AirPods on phone calls, podcasts, music and audio books. I used the Lightning adapter to plug in regular headphones and laughed at the hubris. I played games and looked at hundreds of photos to feel out the Taptic Engine and new color-rich screen.
+
+Apple focused on a few advances to the iPhone’s capabilities during its keynote address, and it lumped them into several “categories.” I thought it would be interesting to structure this review around the claims in those points — delivering some straight plain language talk about how they do or do not live up on the actual device.
+
+[youtube https://www.youtube.com/watch?v=h5Jni-vy_5M?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent]
+
+Much talk has been made about Apple not firing off a completely new external design for the iPhone 7. This is mostly due to expectations set by Apple itself. Every two years since the iPhone 3G and 3Gs, Apple has significantly changed the external casing design of the iPhone. Everyone has their favorites: I like the glass-backed 4 and 4s; many prefer the thin aluminum iPhone 5.
+
+The rough design reached at the iPhone 6 has been in use for a couple of years now, but to say the design is unchanged is to both discount a bunch of big changes to the way that the device is put together and to misunderstand that “design” doesn’t only mean the way it looks, but also the way it works.
+
+Of course that doesn’t change the fact that the general public at large does like new. And the overall form of the iPhone 7 does not scream new.
+
+Which is why Apple has released two new finishes.
+
+The matte black is an aluminum finish that very nearly duplicates the other colors of the iPhone, and it’s a very serviceable black for those of you who have been hoping for it for a while. The other color is Jet Black.
+
+Here’s what Apple says about the finish:
+
+The high-gloss finish of the jet black iPhone 7 is achieved through a precision nine-step anodization and polishing process. Its surface is equally as hard as other anodized Apple products; however, its high shine may show fine micro-abrasions with use. If you are concerned about this, we suggest you use one of the many cases available to protect your iPhone.
+
+Apple says the Jet Black’s sheen could help reveal micro scratches on the finish.
+
+I’d have to agree. My iPhone 7 review unit definitely shows fine scratches and abrasions after a week or so of sliding it in and out of my pocket with various other items like the AirPod case and my wallet and setting it down on surfaces.
+
+I typically use my phones without cases, so that’s a data point for you. If you’re going to use a case you’ll be just fine (though why would you choose it then, I dunno). If you plan on running it “naked,” be prepared to take a polishing cloth to it or learn to live with the fact that, just like a car with black shiny paint, it’s going to get the whorls and scratches of any high-gloss surface.
+
+The antenna bands are nearly invisible on both black colors now and are much more seamless on all models, which is very welcome.
+
+The camera bumps are now very much considered a part of the design as they’re molded out of the body material itself, swelling out of the back like a muscle. The bands of last year and the year before have always felt a bit timid and apologetic. Apple has now figured this little trick out, making the bump feel much more purposeful and organic.
+
+The decision to keep the current overall look of the iPhone this year could come down to the iPhone upgrade program – if Apple can flip a good percentage of people every year by giving them the confidence that they can get “the new iPhone,” then maybe it stands a chance of moving the ownership needle back down from the current two-year ownership cycle. Then it can really get down to iterating without having to worry about hanging a vastly different-looking model out every two years.
+
+Or Apple could have just had some materials difficulty with what it’s planning for next year and decided to pack the improvements into the old casing.
+
+Other improvements include the physical home button being replaced by a touch-sensitive version. Instead of moving when it’s pressed, the button now gives feedback through the iPhone 7’s Taptic engine (a vibrating motor system located near the bottom of the phone behind the screen). Image of a Taptic system at work belowcourtesy of iFixit.
+
+The vibration from the Taptic vibrator is crisp and noticeable, a byproduct of the engine’s design. Normal vibration motors take a chunk of metal and spin them around on a shaft, creating the ‘bzzz’ vibration. Instead of a clumsy, slow to spin up and slow to stop spinning rotational or linear vibrator, Apple has a feedback system — referred to as haptic, hence “Taptic” — that can vary its responses in speed, duration and intensity.
+
+If you’ve ever used haptic feedback on a jailbroken iPhone or an Android phone, you might have noticed how, no matter what buttons or keys you tap, the vibration feels exactly the same. This is due to how crude most vibration motors are. The Taptic engine is far, far more advanced and can offer different signals to the user based on what they’re doing. The engine was introduced in the iPhone 6s, but this is the first time Apple is using it to replace a button, and the first time it’s opening it up to developers.
+
+Some apps are already taking advantage of this by pushing back at the user when they tap on piano keys or command a character in a game.
+
+With iOS 10 and the new iPhone, Apple is opening up the Taptic Engine API to allow them to respond to the user with physicality.
+
+There is going to be a lot of talk about the other features of the iPhone, but I believe that the Taptic Engine and its developer API are going to be the sleeper hit here. We’ve had an entire era of using the iPhone without it responding to us physically — that is over. I’d guess that a bunch of cool uses for the Taptic Engine are on the horizon and it could lead to better usability for the impaired and even some new interaction models that we haven’t seen yet.
+
+But how does the virtual home “button” work? Great. Fine. Pretty much a flawless transition in my opinion.
+
+The button does not feel like the new MacBook’s trackpad — which does not move at all — in that it doesn’t actually feel like you’re clicking the home button itself any more. I’d guess this is due to the size of the home button (relatively small versus a trackpad) and the orientation of the Taptic Engine.
+
+Instead, it feels like you’re clicking the whole bottom one-fourth of the screen itself. This is not disorienting at all and actually feels pretty dang natural.
+
+I feel, personally, that Apple is happy with the way this works and is in fact preparing users for when the home button disappears entirely from the front face of the iPhone. Users will just “click” the bottom of the screen to take those actions. If, as rumored, next year’s iPhone is a solid sheet of front glass with no button, this makes a ton of sense.
+
+There are also two very distinct benefits to replacing the physical home button that may not be clear initially.
+
+First, you can adjust the intensity of the home button’s responses in the Settings menu. This is very cool for anyone who wants to use their phone in a quiet situation. I’ve been holding my four-week old at night a lot while his mother sleeps and browsing my phone with the home button set to “1” means that the “click” is incredibly quiet and light. My normal “daytime” click is “3,” which has a nice thump to it. Being able to choose this means I don’t run the risk of him waking up, but during the day I get that nice solid confirmation I like. Not possible with a physical button.
+
+Second is repairs. The home button, along with the screen and water damage, has proven to be a constant repair problem. It’s such an issue that there is even a cultural meme in Asia where iPhone users turn on accessibility and use the touch-based home button surrogate on the screen in order to preserve the home button and avoid an expensive repair. The one caveat, of course, is that this physical button has sensors so we don’t know how those will wear and tear — but provided it doesn’t become an issue, consumers stand to save millions, or hundreds of millions, of cumulative dollars (and Apple does, too) by replacing the physical button.
+
+As an aside, the volume down button now substitutes for the home button for the hard restart and restore mode functions.
+
+The iPhone is not water proof, but it’s a whole lot more water-resistant. I’ve splashed these demo units, dropped them in a sink full of water, spilled water on them and been generally careless with them when it comes to moisture, and they’re still working fine. I’m sure someone out there will do some long-term soak or depth tests to see whether they hold up to Apple’s claimed IP67 rating (water and dust resistant, but not rated for submerged use), but I don’t think that’s how most folks use them. No one wants to soak their iPhone; it’s just something that happens accidentally, like that time I walked into a pool with one in my pocket or that time I dropped one in a toilet or that time I…well you get the idea.
+
+In coupling with the new Apple Watch’s upgrade from IPX7 to WR 50M (water resistant to 50M), this makes the whole lineup of very expensive gadgets much less likely to be killed off by an errant spill.
+
+Both the iPhone 7 and iPhone 7 Plus are still functioning fine after being left in water for a bit and pulled out and shook off. No complications at all so far. This means that the average user probably has to live in a lot less fear of daily accidents killing off their iPhone in a splash.
+
+Apple has chosen, for another year, not to upgrade the amount of pixels on its sensor. As I said last year, this was the right choice. Too many manufacturers have gotten caught up in the race for more pixels without focusing on the quality of capture coming from those pixels. For years, more pixels was the easy “on the box” selling point for the camera industry — until Canon led the charge in pulling back and focusing on larger surface areas for capture elements and better low-light performance.
+
+Though it hasn’t changed the amount of pixels, Apple has designed a new camera system, including a new sensor, new lenses, a new image stabilization array and an updated version of its image-processing chip. Basically, these are entirely new cameras.
+
+First, the iPhone 7. The iPhone 7’s camera now has optical image stabilization, something that was previously only in the iPhone 6s Plus model. This translates to capturing better images in low light due to hand shake and other factors. It’s a welcome addition and will make choosing between the two iPhone models even harder this year. The lens has an additional element added to sharpen up images at the edges. Edge sharpness is a constant problem with smartphone cameras, so it’s good to see some attention being paid to it here. All of the lenses used in the new iPhones have this additional sixth element.
+
+The sensor in the iPhone 7 camera, in fact the sensor in all of the three new rear facing cameras, captures wide-gamut color. This means that the sensor can see further into reds, greens and blues than ever before — translating into much more realistic-looking color across the board. In my testing, in low light especially, the colors were far more accurate from this new sensor than they were from the iPhone 6.
+
+One of the great new tricks of this wide gamut sensor is being able to capture highly saturated images of red, green and blue subject matter. Reds, especially have always been an issue with CCD camera sensors because of the way they’re configured and laid out. This new wide-gamut sensor, for the first time, allows you to capture truly saturated red subjects without having to worry about losing the detail in a block of solid red color.
+
+If you’re familiar with color spaces, this new sensor can capture the far larger range of color displayable by P3 devices, than can be represented by a standard SRGB display. The Retina iMac, the iPad Pro 9.7” and now both iPhone 7 models can display wide-gamut images. And they can also now capture them.
+
+If you’re not familiar, the illustration below demonstrates what I’m talking about. The sensor can “see” and reproduce more colors on the spectrum than before, so your color is going to be more accurate and closer to the average human eye.
+
+The human eye will be able to pick up more accurate colors thanks to an improved sensor.
+
+Basically, more color in a wider range represented more accurately. Where the iPhone 6 recorded punchy, contrasty color, the iPhone 7 is much more accurate and true-to-life. This goes for both the iPhone 7 and iPhone 7 Plus.
+
+Additionally, both the iPhone 7 and iPhone 7 Plus standard cameras have gained 2/3 stop in aperture, dropping to f1.8, almost doubling the amount of light coming in through the lens and hitting the sensor. This results in less noise and more detail in low-light images. Shooting by lamplight or in other scenarios has easily improved.
+
+I’m still not completely happy with how much noise reduction Apple’s image signal processor (ISP) applies topictures, but I make this statement fully aware that this is not something most folks will notice.
+
+It makes some sense that the NR would be more aggressive because most people want less ‘grain’ or pixel noise in their images. But it still results, I feel, in a little loss of sharpness in low-light situations. To be clear, this remains basically unchanged from the way that I feel about the way the ISP was tuned in the iPhone 6. Apple has made some insane improvements in the camera this time around, but I hope it does pay some attention to how they reduce noise and tweak that in the future.
+
+Both selfie cameras have also gotten a solid update to 7MP. Images shot with this camera really do show off the tweaked tone mapping Apple has added to the image processor, as well. Note how the iPhone 6s shows the hot spots from an open window, and how smooth the iPhone 7 Plus handles the same image.
+
+That new flash, by the way? Four color temperatures and wow is it solid. A fellow reviewer who shall remain nameless misplaced (for a short time) his AirPods box and manual and needed to see some of the pages. So I laid them out and quick shot them with the camera on my counter. The flash did an admirable job of balancing the color and not underexposing the white page. Nice improvement to an already solid job with the flash.
+
+Now, about that iPhone 7 dual camera. This is quite simply the most sophisticated camera and image processor pairing ever seen in a smartphone or any camera period. There have been a couple of other applications of dual camera setups in phones, but the execution is crude by comparison.
+
+First, the hardware. You have a standard f1.8 aperture 28mm equivalent wide angle and a “telephoto” f2.8 aperture 56mm lens. Both use the same capture sensor, but the telephoto has its own set of lenses to fit the focal length.
+
+A 56mm lens, by the way, is not a telephoto. Telephoto lenses are generally accepted to start at around 80-100mm and go up from there.Butthat’s what Apple calls it, and it’s easier to refer to it as that rather than giving it another name, so that’s what I’m going to call it here. It will hurt every time I type telephoto, but somehow I will make it through the pain — and it’s certainly a longer, more magnifying lens than the 28mm wide angle.
+
+I digress.
+
+Every time you take a picture with the iPhone 7, both the wide angle and telephoto fire off. Yes, two 12 megapixel pictures for every shot. This could be a prime driver behind the increase of the iPhone 7 Plus’ memory to 3GB.
+
+Both images are needed due to an Apple technique it is calling “fusion” internally. Fusion takes data from both sensors and merges them into the best possible picture for every condition. If, for instance, there is a low-light scene that has some dark areas, the image-processing chip could choose to pick up some image data (pixels or other stuff like luminance) from the brighter f1.8 wide angle and mix it in with the data from the f2.8 telephoto, creating a composite image on the fly without any input from the user. This fusion technique is available to every shot coming from the camera, which means that the iPhone 7 Plus is mixing and matching data every time that trigger is tapped.
+
+This technique is made possible because the optics, coatings, sensors, perspectives and color balances of the two cameras are perfectly matched.
+
+The fusion technique also comes in handy when using the new zoom functions of the iPhone 7 Plus.
+
+For the first time, we have a 2x optical zoom on an iPhone. This “doubles” your magnification by switching from the wide angle to the telephoto lens as your primary image picker. You can do this with a simple tap on the 2x button on the camera screen. The optical zoom works great, and the 56mm lens naturally adds that nice compression of facial features and slight blurring of background that a standard lens gives, especially up close. The telephoto lens has a minimum focusing distance of 22”, which is further out than the wide angle but still pretty tight.
+
+You can also zoom from 1x, through 2x optical and all the way up through 10x digital zoom in one continuous motion by grabbing and sliding the zoom icon along a scale. It’s such a cool and useful zoom method it makes pinching to zoom on the iPhone 7 feel archaic and annoying. The acceleration and smoothness of the zoom tool are perfect, exactly the right feel without being too fast, too slow or too janky. I expect this one to be copied by other phone makers.
+
+In between the 1x and 2x positions on the zoom scale, the two optical lenses are blended together to create a whole image. Above 2x the fusion technique applies as described above. So this is not a ‘pure crop’ of the telephoto lens as it zooms, you’re getting the best possible image that the image processor can create from all of the raw sensor data it has (24 megapixels worth) in every shot. Data near the center of the image could be from the sharper-at-a-distance telephoto, and data at the edges could be from the wide. Once again, all seamless to the user.
+
+One issue: optical image stabilization isonlypresent on the wide-angle lens, and not the telephoto. This makes sense because the vast majority of images shot on iPhone currently are at that fixed wide setting without zoom, but the telephoto is going to get a ton of use now that it’s available, and I expect OIS to come to it soon.
+
+An interesting tidbit is that if you’re in low light, the iPhone’s ISP may choose to crop the wide angle lensinsteadof using the telephoto. Yes, that means you may not be using the telephoto at all at ‘2x’. This is because you get a better image from a cropped version of the wider aperture wide angle shot than you do from the darker, un-stabilized telephoto.
+
+In my testing, I found that the telephoto lens worked as advertised, allowing me to crop tighter without losing image quality, as well as giving pictures a nice minor portrait-like bump, even without the special Portrait Mode stuff.
+
+As you look at the sample images above, also remember that you’ll only get the true impact from these if you’re using an iPad Pro 9.7” or a Retina iMac. The iPhone 7’s photos, until displays catch up, will always look best on its own screen.
+
+None of this camera stuff would have been possible if Apple hadn’t made a decision to make its own image processing silicon years ago. Nearly every other smartphone on the planet uses off-the-shelf parts, and many camera companies just use generic Panasonic parts. The crazy amount of blending and calculating going on with every shot here would cripple a lesser processor.
+
+This is the mode that blurs the background by using the two lenses to measure the depth of the image, separating the foreground from the background, and creating a portrait look. I wish I could review this for you but it is not yet enabled. It’s still being tweaked and worked on and will be released in a software update for the iPhone 7 Plus later this year.
+
+It must drive the camera team nuts that they can’t get this into the hands of consumers at launch, but it’s probably better to get it right. I’ve seen some examples from this mode by the way, and it seems to work really, really well — I just can’t vouch for it in action personally. To be continued.
+
+The depth mapping that this feature uses is a byproduct of there being two cameras on the device. It uses technology from LinX, a company Apple acquired, to create data the image processor can use to craft a 3D terrain map of its surroundings. This doesnotinclude the full capabilities of the Primesense chip Apple purchased back in 2013 (we have yet to see this stuff fully implemented), but it’s coming.
+
+It is not a stretch of the imagination to say that once the iPhone can see in 3D (which it’s already starting to do), it could provide positional and hand tracking for virtual reality and augmented reality, image capture for VR and AR and spatial mapping. I’vegone through this in detail beforeso I won’t belabor the point, but if you listen to the pundits, Apple always seems to be “behind” in innovative technology when in fact it is already applying it in purpose-driven ways that are less about tech demos and more about customer delight. This is a recurring theme and it’s good to remember it every time someone calls Apple boring.
+
+A few more camera tidbits for those interested:
+
+Symbiotic with the camera is a wide color gamut screen that displays colors in the P3 space. As illustrated above, this means that the screen can show more colors and show them more accurately. This effectively brings the iPhone 7 screens on par with the Retina iMac and the iPad Pro 9.7”. Expect to see P3 screens roll out to all Apple devices in the future.
+
+Of note, the iPhone 7/7 Plus do not have True Tone displays. These displays, which match their color temperature to surrounding ambient light, require additional sensor packages, and there was likely no room to include them in the iPhone’s smaller casing. Probably soon though; it’s a stellar effect.
+
+Apple’s silicon team has some of the best talent on the planet. It went from buying off the shelf, though tweaked, processors to designing and shipping tens of millions of completely custom CPUs a year. Every year some new clever addition gets added to the vocabulary — not just of Apple, but of the industry.
+
+This year, Apple debuts the A10 Fusion chip; let’s head into the weeds a bit to talk about it.
+
+The new chip is a 4-core configuration that, at first glance, looks like a standard “big.LITTLE” ARM setup. Two powerful cores for the heavy lifting and two lesser cores for conserving battery life by handling lightweight tasks.
+
+In fact, it isnota standard big.LITTLE setup. There are some similarities in that the lower-powered cores are there to handle small or background tasks, but there are some differences.
+
+Though the concept is similar, the architecture that connects the cores is completely different. Apple was not satisfied with the performance of the standard ARM processor and once again designed its own in-house. The two levels of cores are supposed to be able to switch contexts on the fly without a heavy switching penalty and even share the last level of their cache with each other. The majority of the actions you take on your phone, outside of huge tasks like rendering games and the like, can be done using the low-power cores, eating up one-fifth of the power of what the high-performance cores require.
+
+This smoother switching between cores, along with emphasis on optimization of low-power tasks, is what leads to the iPhone 7’s increased battery life even though the processor has gone up in raw overall power.
+
+In Geekbench testing, the iPhone 7 Plus scored 3424 in single-core performance and 5560 in multi-core performance. The iPhone 7 scored similarly. In practical terms, that means a roughly 22 percent increase in performance over the iPhone 6s.
+
+Thissupports my assertionlast year that the “tick” years (the ones in between major casing changes) are focused on changes outside of pure performance.
+
+For context, this follows a 56.5 percent increase in Geekbench benchmark scores from the iPhone 6 Plus to the iPhone 6s Plus. There was a 97 percent increase from the iPhone 5 to the iPhone 5s. Increases continue to be less, in pure benchmark percentages, on the tick years.
+
+Despite increasing the processing power by nearly a quarter, Apple has managed to deliver even better battery life than previously. It claims two hours and my testing appears to bear that out. I’m left with a little more power after a day’s use — about 25 percent — than I was with the iPhone 6s.
+
+The stereo speakers are loud and effective. The bottom one is oriented down, replacing the old speaker. The top one is behind the same grille as the speaker for your ear when taking phone calls.
+
+You might ask why stereo speakers are a big deal? The answer is in every kid that grabs an iPhone or shift worker that watches a TV show at lunch and in the enormous swaths of the world where mobile phones are not just becoming the primary computer but theonlycomputer any person actually owns themselves. Having great speakers matters for communal viewing, casual video watching and more.
+
+In addition, this brings an end to the era of cupping your hand around the bottom of your iPhone to try to project as much of the sound forward as you can. This awkward gesture has become synonymous with iPhone users trying to watch video in noisy places or to share a captured video with friends and family.
+
+The new speakers work great, as intended.
+
+The headphone jack is gone, and it wasn’t a controversial decision at all; people were ready to let go. Just kidding. The tech pundit-sphere has gone ape.
+
+And, honestly, there is validity to the complaints that the headphone jack is being yanked off of the iPhone early. There are billions of pairs of headphones out there that work with the jack, and there are plenty of legitimate gripes about the new iPhones not having one.
+
+But the school of thought that says Apple removing the headphone jack is almost entirely a business decision – a way for Apple to sell more Beats headphones — is ridiculous and myopic. The near-term gains of making more money on headphone sales (which is not even guaranteed — there are plenty of makers out there) are far outweighed by the issues Apple would bring upon itself in the long-term by making decisions that were bankrupt of real design justification.
+
+Even though Apple senior vice president Phil Schiller was criticized for using the word “courage” to describe deleting a ubiquitous and accessible port, Apple founder Steve Jobsused a similar argumentto explain why the iPhone was not going to ever support Flash. Jobs, orator as he was, pulled it off through charisma and sharp word choice. (Courage of our convictions is far more precise than just plain “courage,” a word used to describe war veterans and cancer defeaters.)
+
+The situations arenotexactly parallel, but it explains the motivations even if you don’t agree with them.
+
+A recent online poll by Ben Bajarin ofCreative Strategiesindicates around 54 percent of iPhone users primarily use the headphones that come packed in the box.
+
+Those who don’t, buy external headphones, and the wireless segment is growing — up to 31 percent of headphones last year, according to Piper Jaffray. Apple is betting hard on that second bit because it’s converting people to headphones that work fine, but not while charging, and asking a wired headphone industry to pay it a vig to make headphones that work with the new iPhone (Apple requires registration and a fee for manufacturers who make Lightning port accessories). Wireless headphones, by comparison, only need to support Bluetooth.
+
+Both Jobs’ Apple and Tim Cook’s Apple are making the same bet — but with higher stakes. Apple is betting hard that the future of audio (and everything else) is wireless. But while Jobs was making a bet on an iPhone (and iPad) business that was just heating up, Cook is putting Apple’s backbone product, the core of its massive profitability, on the block.
+
+You may disagree that this could be called “courageous,” but it’s certainly a statement. But we can argue that until we’re blue — this is about how the deletion actuallyworks, in real life.
+
+The bottom of each new iPhone features a single Lightning port that accommodates either the included Lightning earbuds or the included 3.55mm headphone jack adapter. Both of them plug in fine. The headphones sound just like normal EarPods. The adapter works just like a regular headphone jack.
+
+So, in the box is an immediate option for those who either want to stick to wired headphones: new earbuds and an adapter for regular headphones.
+
+And the exact vision of Apple’s wireless future is exemplified in its newest accessory: AirPods.
+
+After only a few days with Apple’s wireless AirPod headphones, it’s clear that there will be a huge platform business based on the reliable, persistent availability of a contextual artificial intelligence that can talk to you and receive commands. That platform will benefit Apple first, but it will then expand — along with Siri — to developers and startups.
+
+The key bits of that, of course, are “reliable” and “persistent.” It is very similar to the way that the increasing sophistication of push notifications and the Apple Watch are making the process of opening apps more optional than ever. If you know that an iPhone user will have AirPods in their ear and can access the services you offer via Siri at any moment, then you’ve got a powerful new conduit to that user.
+
+[youtube https://www.youtube.com/watch?v=wQ5Gj0UB_R8?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent]
+
+It’s not well known outside of the industry, but a couple of years ago, Apple switched from its voice provider Nuance and fired up its own internal voice team. In a not unconnected event, Siri’s second major revision shipped a few months later, bringing a big jump in reliable recognition of commands. There’s still alotof room to grow, but it’s improving.
+
+Then, earlier this year at its developer conference, Apple shipped the first wave of its SiriKit compatibility to developers, allowing a handful of categories of apps to offer their services to Siri to be commanded by the user. It was a lot less robust than some had hoped, but it will get iterated on. And there arecompetitors out there like Vivthat are also pushing the power boundaries of these interconnected contextual systems.
+
+But before Apple’s AI becomes a true audio platform, it needs hardware that makes it easier to put Siri in your ear — with no real reason to take it out. Enter the AirPods.
+
+Apple’s AirPods, announced alongside the iPhone 7 and iPhone 7 Plus last week, are two wireless earbuds that look like regular iPhone EarPods with the cables cut off. They snap into a small case that looks like a 22nd-century Tic-Tac package.
+
+In each pod are a battery and a new wireless chip, which Apple is calling the W1. Each AirPod also has accelerometers and two sensors that detect whether they’re inserted into your ear by touching your tragus and concha. They charge inside the case, and the case charges via a Lightning port.
+
+Right off the bat, all of the following should be qualified by the fact that the review set of AirPods I was given are pre-production models. Since they go on sale later in the year the final batches are not yet rolling off the assembly lines.
+
+“Pairing” the AirPods is incredibly easy thanks to the W1 chip. The method is so easy, in fact, that Apple does not use the word pairing anywhere in its instruction manual, opting instead to use the word “connect.” It’s marketing, but it’s also a fair differentiation between the baroque drama that is most Bluetooth pairing sessions and the process of connecting AirPods.
+
+Specifically, the W1 chip is there to add this kind of drama-free connection experience, as well as to regulate power, making the BTLE connection sip and keeping the AirPods working longer. It also does some quality-of-service work in the background. Think of it as a buttress under Bluetooth’s rainbow bridge of questionable reputation.
+
+To connect the AirPods, you bring the case near (a few inches away) an iPhone and flip open the lid. A connection dialog pops up on your screen and you tap on the connection button on the back of the case. That’s it. Connected.
+
+Connecting them to non-Apple devices is pretty standard. You hold the back button down and search for Bluetooth devices and connect like normal. They then work like regular earbuds.
+
+In a clever bit of engineering, the same contacts that charge the AirPods make them function as wireless radios for the case itself, which just contains a battery and a button.
+
+Apple says the AirPods get five hours of battery life, with the case giving an additional 24 hours of charge. If anything, I found that estimate to be conservative. I listened to the AirPods for a couple of hours on the day I received them, and I topped them off in the case. Then I listened to them for four hours straight on a drive and a bit more when I got home. I have yet to run them dead because you store them in the case, and they’re constantly being charged in their “storage.”
+
+The sound quality is very solid. Nice thumpy bass and crisp highs produce a very listenable sound, though it’s far from audiophile quality. These areverygood andveryloud earbuds that produce sound quality right in line with their $160 price. Because the seal (on my ear anyway) is so firm, and there are no cords to tug them around, they cancel outside noise very well (though there is no official noise-cancellation functionality).
+
+Of course, your mileage may vary because ears are highly variable, and the AirPods may not fit or stay in place. If the standard Apple earbuds do not fit your ears,it is highly unlikely that the AirPods will.However, if the standard earbudsfit,but do notstay in place, falling out while jogging or what have you, I would take a look at the AirPods still.
+
+In fact, the AirPods stay in my ears incredibly well, not slipping while shaking my head or jogging or exercising. The biggest reason for this is they just have very little mass at all. With no cord, and next to no weight, there is nothing topullthem out of the ear. Whatever stress people had about them slipping out of a (compatible) ear, probably shouldn’t be given too much play.
+
+Range-wise they are fairly standard, cutting out at around 50 feet with minor obstructions.
+
+Interacting with the AirPods is super slick. Inserting them into your ear gives an audio cue that says they’re on and activated (they turn off when out of your ear to conserve battery, with the W1 monitoring the sensors). Taking a single bud out of your ear will pause your audio and re-inserting it will start the audio again. You can just insert one and use that like a phone headset — they work independently of one another.
+
+To control them, you double tap, gently (tapping hard will likely lead to a sore tragus) to bring up Siri and then give Siri your commands. Double tapping while a phone is ringing will answer the phone call. That’s it. There are no other controls.
+
+Because everything happens via Siri, I was left feeling that the opportunity cost was too high for minor interactions like volume or track advancing. I’ve been forcing myself to use Siri, but I think many people will be reaching in a pocket to make those adjustments at first.
+
+It’s going to take a big cultural adjustment here. Both to get used to seeing these cordless buds hanging out of people’s ears like a postmodernCeti eeland for people to get comfortable talking out loud to Siri for their every desire.
+
+I did find, however, that speaking commandssotto voce— not whispering, but in a low register — worked just fine. The two beam-forming microphones and the accelerometer that detects when your jaw is moving make this one of the best in-ear microphone options I’ve used.
+
+I can’t help thinking it’s possible that “AI voice,” subvocalizing to your personal thinking machine, will become a thing as this kind of system becomes more commonplace.
+
+The style of the pods themselves, in white, will serve as branding much in the way that the original iPod headphones did — but I foresee them coming in gold, silver and black sooner rather than later. I’d look to the Apple Watch model with a variety of finishes and partnerships with companies like Nike and fashion houses to pop up. If they’re going to be displayed on our person so prominently, they would definitely benefit from an injection of personal style.
+
+Another item on my wishlist: the AirPods automatically connect to other iPhones, iPads and Macs signed into the same iCloud account, which works great. But it does not currently work on the Apple TV. I’d love to be able to use them as portable home theater buds to listen to stuff when I don’t want to disturb the household. An edge case, to be sure, but it would be cool.
+
+Some AirPod tidbits:
+
+The iPhone 7 and 7 Plus are the best iPhones ever. And they are probably the best portable cameras ever made. The combination of wide gamut capture with wide gamut P3 display means that you have quite literally never seen images like this from a smartphone camera before. And that’s not to mention the massive front camera upgrade. The phones are fast, capable and functional, with nice upgrades to speaker audio, water resistance and a more durable home button.
+
+But, they don’t have a headphone jack, and that is going to trip some people up.
+
+If Apple is wrong — if people reject the new iPhones for their lack of a headphone jack — then its plans for a wireless future are going to hit a roadblock. But it won’t stop them. During the event, Jony Ive said explicitly that Apple “believes in a wireless future,” but if you’ve been following along at all that won’t surprise you. They’re just getting more explicit about it.
+
+If it works well, I’d be shocked if some version of the AirPods do not come with your iPhone within three years.
+
+Apple is mid-stride in building out physical manifestations of the iPhone’s core abilities. If the Apple hardware ecosystem is a body then the iPhone is the brain, the Apple Watch is the hand and the AirPods are the mouth. Your memory and cognition, the way you interact with the physical world and how you speak to it.
+
+If there is a solid skill that Apple has that most other companies appear either unable or unwilling to adopt, it is to kill off its darlings. In the past, it has introduced new products that seek to replace still viable and even growing existing products. Apple isn’t about to kill off the iPhone, especially because — as Inoted last year— there’s a good chance that the smartphone isn’t justacomputer, it’sthecomputer. But it would be silly to assume that we would continue to interact with it the same way. Whether it’s AR or VR interfaces, passive wearables or audio AI platforms, Apple is branching out, testing and iterating on the new spindles of human interaction — it’s discovering the next finger.
+
+There will come a day when we will view poking and prodding at an iPhone’s screen as just an archaic interaction method as the punch card. And that’s where Apple is skating.

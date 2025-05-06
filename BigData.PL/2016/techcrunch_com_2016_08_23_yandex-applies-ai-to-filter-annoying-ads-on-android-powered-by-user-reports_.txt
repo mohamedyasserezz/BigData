@@ -1,0 +1,17 @@
+Yandex applies AI to filter annoying ads on Android, powered by user reports
+
+The rise in consumer usage of ad blockers is leading to a few creative alternatives to try to achieve a ‘better relationship’ between ad tech and web browsers. To wit Russia’s Yandex, which has just announced it’s adding a complaint button to its Android browser to lets users report ads they find annoying.
+
+Filing an ad complaint will send a report to Yandex which will initiate custom ad filtering for that user, using machine learning technology to hone the individual model over time.
+
+It will also be feeding intel back to advertisers so they can “create more targeted and effective campaigns that are relevant to users, reducing the need to install ad blocking software”. So in theory users making use of the ad complaint button should see ads more pleasing/relevant to them over time, as well as eyeballing fewer ads they find annoying.
+
+Yandex is framing this as a more nuanced alternative to ad blockers, given that users can specify the ads they like or don’t — rather than just nixing all ads. Although it’s worth noting that some ad blockers operate whitelists of so-called ‘acceptable ads’, or let users choose which blocklists to apply — as well as also letting them manually whitelisting websites themselves — so it’s a rather more nuanced picture there too.
+
+Yandex is initially adding the button to the alpha version of its Android browser but tells TechCrunch it’s planning to expand it to its browser on other platforms — although it has no timeline for that as yet. It claims a daily user-base of around five million across its mobile browsers.
+
+The company has its own ad network, so would clearly prefer its browser users see and like adverts than blanket block them. Although its browser does still support adding third party ad blockers, should users choose.
+
+Commenting on the launch of the complaint button in a statement, head of Yandex’s Advertising Network, Dmitry Popov, said: “Yandex Browser’s initiative will help all market participants improve current advertising products, eliminate those that are inefficient and develop those that will be able to provide the best possible customer engagement.”
+
+Earlier this year theOpera browser added a built-in ad blocker, includingon mobile. Although the company is alsoworking with the ad industryon an initiative aimed at boosting ad standards via an opt-in code of practice (called theLEAN initiative).

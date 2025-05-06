@@ -1,0 +1,15 @@
+FBI says state election boards targeted by hackers
+
+The FBI warned states to check the security of their election systems after hackers stole voter data from one state election board earlier this summer and attempted to access another this month. The attacks were revealed in an FBI bulletin sent to the agency’s private industry partners and obtained by Yahoo News.
+
+One state’s election board was compromised in June, according to thebulletin, while the unsuccessful attempt on another state’s election system was made in August. Although the bulletin does not make clear which states were compromised, the Illinois voter registration database washacked in Julyand had to be shut down for two weeks. The Illinois Board of Elections attributed the incident to “foreign hackers,” but attribution of cyberattacks is often difficult.
+
+The second, unsuccessful attempt was made against an Arizona voter registration database,Yahoo News reports.
+
+The FBI bulletin says the perpetrators of the July and August attacks used IP addresses that trace to server hosting companies in England, Scotland and the Netherlands, as well as in the United States. One of the U.K.-based IPs was used in both attacks. It’s likely that the hacker or hackers rented servers from the companies to cover their tracks.
+
+On August 15, Department of Homeland Security Secretary Jeh Johnsonoffered federal assistanceto states as they work to secure their voting systems for the upcoming election. Johnson also floated the possibility of classifying election systems as “critical infrastructure,” a move that would allow DHS or another federal agency to take on more responsibility for their security.
+
+The FBI issued several precautionary measures for state election officials to take to secure their systems against similar attacks. The July attack was made possible by the vulnerability scanning tool Acunetix, the FBI said. The hackers used Acunetix to scan the Board of Election’s website and discovered an SQL injection vulnerability, then used SQLmap, an open-source penetration testing tool, to exploit the vulnerability. The FBI confirmed in its bulletin that the attackers were able to exfiltrate data from the website.
+
+The hack comes as GOP presidential candidate Donald Trump has stirred fears about election hacking, suggesting that the process could be “rigged” against him through a cyberattack.Trumpand his Democratic opponentHillary Clintonhave both been targeted by hackers over the summer, and embarrassing emails swiped from the DNC were posted on Wikileaks. Although most experts haveattributed the DNC hack to Russian operatives, the origin of the other attacks is less certain.

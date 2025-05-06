@@ -1,0 +1,23 @@
+The evolving road of beacon tech
+
+WhenApplelaunched itsiBeaconprotocol at theAppleWorldwide Developers Conference in 2013 it laid the foundation for an entire new industry — the proximity industry.
+
+Three years later, close to 500 proximity companies operate globally, and between 6 and 7 million beacons are deployed in commercial settings withthe latest forecasts pointing to a total of 500 million beacons by the end of 2020. Not bad for something that was really only launched as a side note amongst several other new technologies at theAppleconference.
+
+Beacons are cheap, easy to use and can run on batteries. They quickly became the de facto technology to connect the physical world with the digital due to beacons being able to inform a phone of their precise physical location and context.
+
+This is something marketers globally have dubbed “the holy grail of marketing,” and no wonder – as the physical world and how we use it has been largely unchartered territory. To not only finally discover that world, but to also connect it to our digital footprint has immense value both product wise and economically.
+
+Appleknew this, and sodidGoogle. Google’s competing beacon standard,Eddystone, which is interoperable withiBeacon, could do something thatApplecouldn’t or wouldn’t — open URLs directly from the beacon interaction.
+
+This, coupled with the fact thatApplefavors closed environments, propelled Google’s Eddystone — with its openness to the developer community — onto the proximity scene. Eddystone was launched mid-2015 and has seen immense growth since then. As seen inthe recent Q2 Proxbook Report, the industry support for Eddystone from proximity companies has grown from nothing to 50 percent in just one year, whileAppleis losing ground.
+
+Applebeing largely quiet since its 2013iBeaconrelease has led to widespread speculation around the launch of “iBeacon2.0” — an improved protocol that mirrors Eddystone’s web capabilities while pushing the boundaries for how to integrate the physical world more deeply into the OS itself.Appleis in a prime position to do precisely that, and yesterday we might just have seen the first signal of what is to come.
+
+Beacons require Bluetooth to function, and whilethe percentage of “Bluetooth on” is between 40 percent and 50 percent in the U.S., there is still a way to go to reach a market adoption that makes sense for most large global advertisers. And guess what is one of the main drivers for Bluetooth adoption? Yes, Bluetooth headsets. And whatdidApplejust kill? Headphones that are not Bluetooth-enabled.
+
+Interestingly enoughBluetooth headphones now account for 54 percent of U.S. dollar sales in the categoryaccording to NPD, and the timing forAppleto accelerate that growth is perfect.
+
+So, is this a sign ofApplebeing determined to fix the Bluetooth adoption issue before they releaseiBeacon2.0and push back toward Google? Or, more radically, a sign ofApplebacking a wireless technology standard that is superior to the Bluetooth we know, spearheaded by its new wireless AirPods and W1 chip?
+
+Both are interesting thoughts, and while nobody really knows butApple, two things are crystal clear: Bluetooth adoption is going to increase, and the war of ownership over the physical world has just begun.

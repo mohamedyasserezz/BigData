@@ -1,0 +1,21 @@
+Gousto, the UK cook-at-home recipe kit service, serves up further £10M in funding
+
+Gousto, the U.K. cook-at-home recipe kit service that competes most directly with Rocket Internet’s HelloFresh, has raised a further £10 million in funding.
+
+Backing comes from BGF Ventures, Unilever Ventures, MMC Ventures, Angel CoFund, and Barclays — and is a mixture of equityanddebt financing.
+
+In a call, Gousto founder and CEO Timo Boldt tells me the startup plans to use the new capital to continue improving the experience for customers, in terms of recipe choice and turn around, and to further Gousto’s mission to reduce food waste as much as possible.
+
+That means better value for customers — Gousto is cheaper per meal than HelloFresh, for example — and better economics for the business itself.
+
+Zooming out, the thinking behind recipe kit services that send you perfectly portioned fresh ingredients matched to each recipe is that not only do you save money by only buying exactly what is needed to cook, but if executed well, the service itself can run a lot more efficiently than a national grocery store chain’s offline or online offering.
+
+Citing a potential 5-10 year road map and emphasising Gousto is in it for the long term, Boldt says the startup plans to invest heavily in data science, its tech stack, and operational infrastructure, which is what he believes already gives it an edge over competitors.
+
+Asked to elaborate and help me cut through the data bullshit that most startups push these days, Boldt says that Gousto has a centralised data warehouse, with hundreds of real time dashboards to help power its “amazing data science capabilities”.
+
+These include forecasting models that help Gousto have less than 1 per cent food waste compared to the supermarkets 20 per cent, warehouse optimisation in terms of the way ingredients are picked off the shelf, and the ability to design better menus.
+
+Regards the latter, I’m told this means determining factors that make a successful menu by calculating a similarity between each recipe in Gousto’s library “without human input”.
+
+“As we are the leader in recipe choice, we also lead in data capture which means our menus self optimise over time, and we truly have a data advantage over the models that don’t capture info on customer preferences,” adds Boldt, taking a swipe at HelloFresh, and Blue Apron across the pond.

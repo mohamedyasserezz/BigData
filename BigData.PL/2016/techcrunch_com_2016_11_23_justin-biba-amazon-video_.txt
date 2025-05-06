@@ -1,0 +1,37 @@
+Amazon acquired patents, employees from Biba, reportedly plans new video chat service
+
+Amazon’s purchases ofTwitchandElemental Technologiesappear to be only two parts of a bigger strategy at the company to move deeper into video services through acquisition. Last year, the marketplace and cloud computing giant also quietly acquired a startup out of San Francisco calledBiba Systems, which develops and operates video messaging apps aimed at business users. Sources say that Amazon has been working on its own video messaging service, which it plans to unveil during its re:Invent AWS conference later this month.
+
+News of Amazon’s possible purchase of Biba Systems first surfaced last week, whenGeekWirefound some Delaware filings that spoke of a merger with an entity called “Justin Acquisition” in September 2015. There was no direct mention of Amazon in the Justin Acquisition document, but the filing included the name of a paralegal employed at the time by Amazon.
+
+Amazon never responded to our request (or GeekWire’s, it seems) for comment on the story. So we decided to do some digging of our own. We discovered some direct links between Biba and Amazon that point to both Biba’s technology and employees now being part of Amazon.
+
+We found that Biba had filed and received two patents, one related tovideo conferencing, and another related toaudio streaming. Both of these patents transferred their ownership to Amazon Technologies in the last two months.
+
+Furthermore, we’ve been able to trace active Amazon work email addresses to current Biba employees. (We are not publishing those here.)
+
+It’s not completely clear how and where Amazon might use Biba’s technology, but our sources say that Amazon has lately been showing select people demos of a video conferencing product.
+
+“They’re going to launch it at their re:Invent event after Thanksgiving,” said one.
+
+Whether that video product (if it indeed launches next week) is built using Biba is not clear. But, by coincidence, we noticed that Biba — which went silent onTwitterand with its own marketing efforts by September 2015 — suddenly and quietly updated itsAndroidandiOSapps in August and September of this year.
+
+There is some logic to Amazon expanding apps and software that it offers over AWS.
+
+Today, AWS already sells some products on top of its could-based infrastructure. They includeWorkMail, a cloud-based managed email and calendar service for businesses; andWorkSpaces, a desktop virtualization service that competes with products from VMware, Parallels, Microsoft and more.
+
+Adding a workplace collaboration and conferencing product to that mix would be an obvious extension of Amazon’s existing own-brand, cloud-based services. Among the features that Biba currently offers are video and audio conference calls, including scheduling and management; contacts and presence management; messaging services; screen sharing; and administration features for IT managers.
+
+People havewondered beforeif Amazon would get deeper into enterprise software; now, it seems, it could be. Such a move might make it more competitive against the likes of Microsoft, which rivals AWS with Azure and its own extensive range of enterprise software. It has updated its own video conferencing product, Skype, to make it more business-friendly.
+
+In any case, however, for now it looks like whatever Amazon brings to the table in terms of its own software is there to complement, not cannibalise, services that work over AWS, which the company has beenbuilding out as an extensive marketplace for third-party business software providers,the enterprise equivalent of Amazon’s consumer e-commerce marketplace.
+
+There are other areas where Amazon might end up using some of Biba’s technology. As we noted above, Amazon ran its M&A through an entity called Justin Acquisition, which GeekWire speculates could be in reference to another Amazon purchase, video platform Twitch. (Its founders also founded video service Justin.tv, which wasshut downto focus on Twitch.)
+
+Today, the vast majority of Twitch’s 45 million-user audience is made up of gamers, who broadcast themselves or watch others playing games and comment on them. But there have been other efforts toexpand that into other areaslikefoodandart. Amazon could integrate Biba’s functionality into Twitch, or vice versa, either to add more interactive elements, or expand Twitch’s functionality as a B2B platform.
+
+And last but not least, there is an opportunity also for Amazon to use Biba for internal purposes.
+
+Looking around Amazon’s job boards, we found only one reference to Biba on there: in anad for a training specialistfor AWS Support, helping AWS customers with questions about AWS products, where Biba is named along with Webex and Adobe Connect as one of the software platforms that applicants need to have used in the past. Amazon could build its own proprietary internal support network on Biba’s platform; potentially, it could subsequently offer this out as a service on AWS.
+
+Biba had raisedjust over $15 million, according to CrunchBase, with investors including Benchmark, Trinity and InterWest Partners.

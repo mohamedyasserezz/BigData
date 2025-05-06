@@ -1,0 +1,23 @@
+Oxford study shows how tiny bacteria ‘wind farms’ could power electronics
+
+A team of scientists from Oxford University used a virtual prototype to demonstrate how the natural movement of bacteria could be harnessed to turn cylindrical rotors and provide a steady power source.
+
+The study,published in the journal Science Advances, showed that the chaotic swarming effect of bacteria can be organized into biologically driven power plants, similar totiny “wind farms.”
+
+This system, researchers said, could someday be the microscopic engine for man-made devices that are self-assembled and self-powered, from optical switches to smartphone microphones and components.
+
+“The most exciting thing is that the system organized itself,” said co-author Tyler Shendruk, from Oxford University’s Department of Physics. “We didn’t have to engineer fancy gear-shaped rotors, they were just smooth disks.”
+
+The team of researchers — which also includes Sumesh Thampi, Amin Doostmohammadi, Ramin Golestanian and Julia Yeomans — simulated a suspension of bacteria swimming around microscopic rotors. In this case, no real bacteria were used, but Shendruk said thatE. colibacteriahave been commonly used in experimental works.
+
+Shendruk explained that when many bacteria swim together, they swarm and drive chaotically swirling flows that scientists call “active turbulence.” Harnessing these impromptu flows to do anything useful is tricky, because they’re so disorderly. For example, when Shendruk and his team pinned a single freely rotating disc in a simulation of active turbulence, results were not good: “It was spun randomly around, like a weather vane in a hurricane.”
+
+The key finding was placing an entire array of rotors in active turbulence. Thanks to the array, spinning spontaneously organizes. “When I saw the array of rotors each rotating in the opposing direction of its neighbors, I thoughtWhat on earth? Oh, that’s cool,”Shendruk remembered.
+
+The team discovered that as long as the rotors were close enough together, every single rotor in the simulation permanently obeyed the pattern. However, the system produced the tiniest imaginable amount of power.
+
+“Charging an entire cell phone is inconceivable to me right now,” said Shendruk. “To give an idea of just how small the amount of work we’re talking about is, let me say that a previous work on a microscopic gear in a bacteria swarm was estimated to give 1 femtowatt.”
+
+One femtowatt is 1.0⋅10-15watt.
+
+“Even huge arrays of rotors won’t power your entire cell phone. But it might provide a little power to a microfluidic device that is being used to produce cells or to power a tiny microbot,” Shendruk said. “It’s very possible that someone could build this experimentally and that would be really neat.”

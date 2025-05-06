@@ -1,0 +1,9 @@
+Google’s Project Soli mobile radar input tech can now identify objects
+
+If you don’t recall Google’sProject Soli, you’re forgiven – the project was unveiled at Google I/O in 2015, and while potentially very cool, we haven’t heard much about it since. Soli uses tiny radar units to detect gesture input where other forms of input, like a touchscreen, might be impractical or impossible. Google demoed the tech using a smartwatch, for instance, but it could also work for building gesture interaction into otherwise solid objects like a desk, for instance.
+
+Soli has a new trick up its sleeve thanks to researchers at Scotland’s University of St. Andrews (viaThe Verge) – it can now identify objects, using radar to determine both the exterior shape and internal structure of whatever it’s sensing to tell you what the thing is. It’s not fool-proof, since it has difficulty determining the difference between objects made up of similar material with similar density, and it has to train the system on what an object is before it can be identified.
+
+Researchers are going to work on fixing any confusion around identifying similar objects, and the second problem is fixed easily enough by building a comprehensive reference database software can poll to get matching IDs for known objects. Such a resource could grow quickly with a decent volume of use – something that would happen pretty quickly if Soli were integrated into future Android smartphones or wearables, for instance.
+
+From Ara to Soli, Google has made a lot of early bets on advanced, mobile sensor technology that could make a huge difference to how we use our devices if included in future smartphones, and Soli’s expanded capabilities beyond just being a means for detecting gesture input make that clear.  Our smartphones will have a deep awareness of context and surroundings in the future, make no mistake.

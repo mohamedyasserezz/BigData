@@ -1,0 +1,53 @@
+3 pillars of the most successful tech products
+
+If you’ve started a tech company to make a lot of money, chances are you’re bad at math — or simply delusional. Statistically speaking, your odds of a big-time payday are somewhere between zero and almost zero.
+
+Ninety-two percent of startups failwithin three years. Only1 percent of the appsin the Apple App Store are financially successful. And even for the fortunate few companies that raise venture funding,75 percent will fail to generate a returnon investors’ capital.
+
+Perhaps the hardest part about running a new business is knowing what to prioritize. There are hundreds of decisions to make, and keeping sight of what’s important and what’s not is a constant challenge. But when it comes to helping teams stay focused, I have found one model to be extremely useful: It’s called the GEM framework. The origin story of the framework is uncertain, but I’ve heard a similar model was first used during the early days of LinkedIn.
+
+A company’s job is to find a sustainable way to deliver value to customers, employees and shareholders. To do this, the company must never lose sight of its GEM: growth, engagement and monetization.
+
+Growth is all about how a company finds new users or customers. Fundamentally, it’s about getting the right message in front of people who need what you have. I call these messages “external triggers.” External triggers are delivered through various channels, including television commercials, salespeople, emails or word of mouth.
+
+Some external triggers, like one satisfied customer telling another about your product, cost you nothing. Others, like running ads on Google or buying billboards along the highway, can cost big bucks.
+
+There’s nothing inherently better or worse about one external trigger versus another. What matters is whether the trigger fits your business. Viral growth is wonderful, but difficult to engineer and sustain. Meanwhile, buying media can produce a steady stream of customer interest, but can be expensive. The growth question to answer is: “Are we getting better at drawing the attention of people who need our product?” Quantifying the answer to that question means tracking the number of new users or customers over time, as well as the cost of earning their attention.
+
+It’s important to recognize that growth is a process and a practice, not an end state. Companies satisfied with their growth strategy are at risk of losing customers to their competitors. The growth hackers I know manically look for new channels and relentlessly test how many potential customers can be found and for what cost.
+
+Growth question:“Are we getting better at drawing the attention of people who need our product?”Growth metric:Number of new users or customers, and the cost of finding them.
+
+With some products and services, customer engagement is naturally infrequent — think of the way people buy real estate or book vacation travel. Other businesses require constant, habitual engagement to survive. Apps like Facebook, Slack, Salesforce and Snapchat need to become a habit, or else they go out of business. If the service isn’t used often, these products become less useful, and eventually customers never return.
+
+Retaining customers means keeping them engaged, whether they’re checking in on an app or checking out of a purchase. Some businesses depend on repeat customer engagement more than others. But most critical for investors, founders and employees is to understand what brings people back.
+
+To track engagement, companies should calculate the percentage of people using their product or service frequently enough to be classified as “retained.” For some products it’s once a year, for others it’s once an hour. The question “Are we getting better at engaging people who need our product?” is answered by calculating the growth in the percentage of retained customers.
+
+Engagement question:“Are we getting better at engaging people who need our product?”Engagement metric:Percentage of retained users or customers.
+
+Finally, companies need to turn some of the value they create into cash or they go out of business. There are many ways to capture value. Companies can charge a subscription fee, sell a one-time purchase or create marketplaces where they take a share of the transaction between buyers and sellers.
+
+When it comes to monetization, the most crucial question is: “Are we getting better at capturing the value we create?” The metric here is profits. But it’s essential not only to ask how the company is doing today, but also to understand how much untapped demand exists for the product. This is the only way to predict whether a company will be sustainable in the near term and to make bets on how big the company can get in the future.
+
+This is where people get “lucky” with startups. While skill, diligence and process drive user growth and product engagement, predicting future markets is notoriously tough — so much so that being smart can actually be a disadvantage.
+
+Smart people tend to try to predict future markets by reading industry reports, designing models and running numbers. However, with access to similar information, people tend to come to similar conclusions. That’s why being right isn’t enough. Paradoxically, if you are right and everyone agrees with you, competitors will see the opportunity too, enter the market and eat away at your profits.
+
+Therefore, when it comes to monetization over the long term, there’s only one way to achieve it: You’ve go to see a future market others don’t. Next, if you can spot the big untapped market on the horizon, you’ve got to, as Warren Buffettadvises, protect it with “unbreachable ‘moats.’”There are only five ways to defend your market from competitors: economies of scale, network effects, regulatory protection, brand and habit.
+
+Without a big unseen market and a way to hold on to it, future profits are no sure thing.
+
+Monetization question:“Are we getting better at capturing the value we create?”Monetization metric:Profit.
+
+Growth, engagement and monetization are interlinked, and each is insufficient on its own.
+
+The most highly engaging, habit-forming product will fail if it’s used only by a small number of people who pay too little for the service. The overwhelming majority of apps in the App Store are never found by a critical mass because the companies behind them have failed to find a way to profitably draw users’ attention.
+
+Similarly, an amazing growth strategy using the latest viral hacks is pointless without a way to retain and profit from the growth. Viddy, the video-sharing service and Snapchat predecessor, shocked Silicon Valley in the spring of 2012 by acquiring nearly three million users in a month. But shortly after investors ploughed $30 million into the company, it became clear the app was a leaky bucket that could not retain its users.
+
+Finally, huge market potential is useless without a way to profitably reach and engage customers. For example, music-streaming services like Spotify and Pandora are a daily habit for millions of people, but if song owners manage to extract all the value by imposing stricter copyright terms, they have the power to destroy the streaming services.
+
+Of course, businesses have to worry about all sorts of other things (see Alex Osterwalder’sBusiness Model Canvasfor a more detailed analysis). But thinking through the GEM framework is extremely effective for keeping teams on track.
+
+AsTomasz Tunguz, a partner at Redpoint Ventures, told me, these three criteria “help make sure the team is allocating resources correctly.” When it comes to monitoring and regularly communicating what matters, the GEM framework is precious.

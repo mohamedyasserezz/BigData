@@ -1,0 +1,15 @@
+Periscope Data pulls in $25 million in Series B
+
+Periscope Data, the company that lets data scientists quickly build customized, highly detailed visualizations of their data, has signed the term sheet on a ~$25 million funding round, according to sources close to the matter.
+
+Sources told TechCrunch that the pre-funding valuation was at $100 million, and the round was led by existing Periscope Data investor DFJ*. DFJ also led Periscope Data’sSeries A round of $9.5 million.
+
+Update:Periscope Data has reached out and confirmed the round. We mistakenly reported that DFJ led the Series B round when, in fact, Bessemer led the round. You can read the full scoop here.
+
+Periscope Data takes raw data from various sources — the most popular are MySQL, PostgreSQL, Amazon Redshift (which has a partnership with the startup but does not invest), Salesforce and Microsoft SQL Server — and with a few short commands, lets engineers create graphics to help make better sense of the numbers.
+
+But what’s more impressive is the speed at which Periscope Data is able to create these visualizations. The company claims that Periscope Data is 150 times faster than any other data visualization tool on the market.
+
+Part of that is due to the fact that the visualization feature itself was a bit of an accident. The company was originally architected as a site where engineers could enter data queries based on data in the cloud and get a fast answer, with a visualization tool as an add-on. Turns out, data scientists really enjoy the visual side of what Periscope Data offers and the company started to take off.
+
+Periscope Datawas founded by ex-Googler Harry Glaser (now PD’s CEO) and former Microsoft program manager Tom O’Neill back in 2012.

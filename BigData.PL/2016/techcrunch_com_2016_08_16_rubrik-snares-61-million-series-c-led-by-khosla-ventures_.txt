@@ -1,0 +1,23 @@
+Rubrik snares $61 million Series C led by Khosla Ventures
+
+In a year where money is harder to come by, especially from conventional venture capital sources,Rubrikis a notable exception, announcing a $61 million Series C round from several brand-named Silicon Valley venture firms.
+
+The round was led by Khosla Ventures with participation from existing investors Lightspeed Venture Partners and Greylock Partners, and unnamed angel investors coming back for more. Today’s investment brings the total raised to $112 million.
+
+What is causing venture capitalist firms to shower this company with so much money? “We are not just doing well,” Rubrik CEO Bipul Sinha tells TechCrunch. “We are doing exceedingly well.” It may sound like bragging or hyperbole, but he says the company has been growing in leaps and bounds to the tune of 100 percent quarter over quarter in both revenue and customer numbers. He says he’s seeing $250,000 deals closing in just 76 days.
+
+When we coveredthe company’s $40 million round last May, Rubrik had 20 employees. In 15 months since, they’ve added 140 more including teams in Europe and Asia/Pacific.
+
+As Sinha pointed out, Series A and B funding tends to be based on a company’s potential. By Series C, you need to start to show some ability to scale and take the company to the next level. He says, he sees a company that’s on its way to becoming a $10-15 billion company.
+
+While he admits, it’s going to take blood, sweat and tears to get there, he says that investors are seeing a company with strong metrics and a path to bigger growth — and the round reflects that.
+
+Rubrik runs what it calls a cloud data management platform. Its claim to fame is the ability to manage content wherever it lives, whether in the cloud or on-premises. This type of flexibility is in high demand as companies balance a hybrid environment where some data lives on prem and some in the cloud.
+
+While the cloud part is limited to AWS and Azure for now, that covers quite a bit of the market at present and the company could begin to add additional vendor support with the kind of money it got today to throw at development. Sinha says that given that his target market is just beginning to move data to the cloud, the timing and abilities of his company’s solutions are lining up nicely with the market — and sales are reflecting that.
+
+The solution uses a data appliance stored on prem in the customer’s data center to manage the backups, taking care of standard backup chores like de-duplication and archiving and compliance, while distributing the backup wherever the client wishes. Some may live entirely on-prem today, but want that ability to go to the cloud in the future, or they may be mixing cloud services with on-prem tools — and Rubrik gives them a modern option to do that, while protecting their legacy investments.
+
+What truly separates Rubrik from the pack, according to Sinha, is the ability to retrieve files instantly from the cloud, something he says is lacking in legacy solutions from companies like EMC, NetApp and Commvault, and even pure cloud backup from AWS or other cloud services.
+
+With $61 million in Series C and some market proof points in place, Sinha is understandably confident, but now comes the hard part — taking that money and investing wisely to build a successful organization that can upset the backup status quo. Time will tell if Rubrik is up for the challenge.

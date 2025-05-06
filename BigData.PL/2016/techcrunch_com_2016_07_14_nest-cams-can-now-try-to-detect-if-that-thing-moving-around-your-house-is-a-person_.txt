@@ -1,0 +1,25 @@
+Nest Cams can now try to detect if that thing moving around your house is a person
+
+“Motion in the living room!” says the notification from your Nest Cam
+
+Oh no!!!! Is someone breaking in? Is someone stealin’ your gold?!
+
+NOPE. It’s your Roomba. Or your dog. Or a bug flying past the lens.
+
+Eventually, you either move your Nest Cam to somewhere with less movement, disable notifications, or just become blind to the motion alerts.
+
+Nest is trying to address this with the introduction of a new feature they’re calling “person alerts”. When it detects motion in frame, Nest will start running all sorts of tricky computer vision algorithms in the cloud to try to determine if said motion is that of a person. Once it thinks it sees a person, it’ll send you a notification. Once it’ssureit’s a person, it can send you another.
+
+Nest’s person alerts don’t currently try to identifywhoa person is — just that it is, in fact, a person. It’ll be logged in your Nest app’s history as a “Person” event, allowing you to quickly sift past all the clips of your dog walking by the camera.
+
+Depending on how privacy-minded you are, this might be where things start to feel funny. It’s one thing for Nest to blindly store your video for you in the cloud, apathetic to what said video actually contains. It’s a slightly different thing to look for basic motion — at that point, you’re just checking for differences from frame to frame. From there, as Nest did a while back, you start trying to filter out things like false positives from the glare of cars driving by… and now it’s analyzing the video for human-looking movements.
+
+Nest tells me person alerts can be disabled, but it’s not immediately clear if this keeps the correlating computer vision algorithms from running/training against the video, or if it just stops sending the notification. I’ve asked for more details.
+
+Update: Nest tells me one can disable notifications, but the algorithm keeps running.
+
+Each step feels a bit sticker than the last, and I’m not sure where the “too far” mark is. Perhaps most people who would worry about something like that just don’t use a cloud-based video security system in the first place.
+
+The new person alerts will start rolling out this fall — and since all the computer vision stuff happens in the cloud, it should work with all existing Nest Cams and Dropcams
+
+Presumably not detected by the new algorithms: super sneaky solid snakes.

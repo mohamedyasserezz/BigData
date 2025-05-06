@@ -1,0 +1,7 @@
+This DIY Stranger Things light kit will make you forget about Barb
+
+Are you and your friends all in love with the same strange girl who bleeds from her head? Does she like waffles? Are you afraid of monsters? Then have we got the Halloween decorations for you. This DIY LED light kit allows you (or Winona Ryder) to communicate with your child who has been taken to the Upside Down using anArduinoboard and some clever wiring.
+
+The plans areavailable as an Instructableand consist primarily of anaddressable string of LED lightsand an Arduino board. The lights can be controlled individually and the Arduino board simply sends the right signals at the right time so you can tell your Mom that “The Monster is coming” and to “Send Doritos.”
+
+The code, sadly, is a little convoluted but it’s agreat effortat building a sort of random word generator. Because the entire thing is so simple, however, it’s well worth digging into. Most version of this I’ve seen involve lots of LEDs and lots of soldering by those addressable LEDs really make things much easier. The best thing? You can connect your Arduino to the Internet and have people send you messages, eventually driving yourself mad as you wait for your son to explain just exactly how he got sucked into the back of the garden shed by a monster.

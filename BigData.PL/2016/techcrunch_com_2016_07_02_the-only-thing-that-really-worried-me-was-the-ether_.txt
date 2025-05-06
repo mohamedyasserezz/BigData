@@ -1,0 +1,15 @@
+A brief history of cryptocurrency drama, or, what could possibly DAO wrong?
+
+It makesSILICON VALLEYlook likeC-SPAN —and yet it’s a documentary. Yes, it’sCryptocurrency!, the show! You already know it’s been the hit of the last half-decade in extreme-nerd, get-rich-quick and/or libertarian-conspiracist circles. But the story so far may seem incredibly… well… cryptic. So if you’re just tuning in, here’s a timeline to catch you up before the new season begins:
+
+Meanwhile, however, much of the early Bitcoin community isstillusing Mt. Gox, the Magic: the Gathering trading-card site turned Bitcoin exchange coded in PHP by developers of extremely dubious technical ability.
+
+This division makes it impossible to ignore the fact that the supposedly permissionless and decentralized cryptocurrency isde facto controlledby a handful of mining pools and a tiny coterie of developers. Previously the community has dealt with this inconvenient truth by loudly singing “la lalala!” while studiously looking away.
+
+To analogize, Bitcoin offers its developers a knife with which to stab themselves; Ethereum offers them the entire arsenal of the United States military with which to destroy everything that they have ever loved, but makes them pay by the second to use it. Like Bitcoin, Ethereum is both technically fascinating and generally awesome. And, again like Bitcoin, it promptly attracts a coterie of dollar-sign-eyed enthusiasts who are … shall we say … somewhat less awesome.
+
+irrefutable computer code … reviewed by the best security audit company in the world … self-governing and not influenced by outside forces: its software operates on its own, with its by-laws immutably written on the blockchain, not controlled by its creators …
+
+A fewskeptical peoplelike, er, me (and pretty much everyone I know)write things like“What most concerns me about the Ethereum project is security. … Ethereum offers a vastly larger attack surface than Bitcoin … this applies not just to the network itself, but to individual Ethereum contracts.” DAO enthusiasts are angered by us.
+
+A “soft fork” to ensure the attacker can’t make away with the drained funds is proposed, as is a much more drastic “hard fork” to return the funds to investors. Someone purporting to be the attacker appears in the DAO slack channel claiming they’ll bribe miners to oppose the soft fork. Needless to say, one way or another,the DAO will be DAOing no more.

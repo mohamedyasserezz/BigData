@@ -1,0 +1,13 @@
+How a unique approach to auto repair led to a new kind of shop software
+
+AtLuscious Garagein San Francisco, the publicized focus on hybrid vehicles actually masks the real differentiator: a focus on people. Founder Carolyn Coquillette started the San Francisco-based auto shop in 2007, and as you can see from the video above, everything from the decor to the space it occupies is a departure from what you might expect from a mechanic – and that extends to the software that runs the whole thing, which Coquillette showed me during a recent visit.
+
+For Coquillette, it wasn’t enough to change the spatial arrangements and interpersonal components of an auto shop; the technology that helps track service, manage inventory and communicate with customers also needed a major overhaul. Typical shop back-end software is essentially of Stone Age vintage, especially compared to the average software customers have on their smartphones.
+
+Coquillette saw the need for improvement as an opportunity not only for Luscious Garage, but also for other auto shops looking for a better solution for managing work, handling inventory and providing more transparency to customers in a way they could easily understand. After starting out with a custom shop management platform dubbed “Hyspace,” Coquillette began work on turning that into something more mature, which became a product in its own right and is used by others facing similar back-end modernization challenges.
+
+With a dedicated team, including lead developer Tyler Olmstead, Hyspace became Shop-Ware, with a fresh code start in 2013 and an MVP launch in 2014;Shop-Waremade its official debut as a full-featured shop management platform in January of 2015.
+
+The web-based interface is easy to navigate, visually appealing, dynamic for use on a variety of platforms and builds in both staff-facing inventory and workflow management, as well as client-facing communication for work approvals and work history, and QuickBooks integration for integrated bookkeeping. When Coquillette showed me what it could do in terms of communicating exactly what service your car needs and why, it was revelatory – Shop-Ware can help build a more trusting, long-lasting relationship between consumers and car service providers thanks to its easy-to-parse reporting features.
+
+For customers, navigating car shops can seem like a daunting task, especially if you have no technical expertise. With Shop-Ware, Coquillette has made that a lot easier, while also making communication between staff members and general operations a lot easier. Like Slack, Shop-Ware is a great example of how a roll-your-own approach to building a tech tool in pursuit of your primary business can end up being something plenty of others can make use of, too.

@@ -1,0 +1,53 @@
+No Signal: Egypt blocks the encrypted messaging app as it continues its cyber crackdown
+
+After a week of blocking the secure messaging app Signal in Egypt the service is back online thanks to new features added by its parent companyOpen Whisper Systems.
+
+Last week Egyptian users raised the alarm about their inability to access the highly encrypted app popular among activists, including important whistleblower Edward Snowden.
+
+Egypthas been increasingly tightening controls on speech all year, and the move against Signal is just the latest attempt to stifle dissent and impede open journalism.
+
+“Signal is important as a means of secure communications without third parties knowing who I’m contacting,” said prominent Egyptian blogger andGlobal Voicesboard member Mohamed ElGohary.
+
+ElGohary was one of the first activists to report the lack of access onTwitter.
+
+“I was trying to message a friend on Signal, and it said ‘unable to send’. I tried other friends, same issue. The failing to send also happened on another ISP. When I tried to use it on VPN, it worked. So I concluded that something happened in the scope of Egypt,” ElGohary told TechCrunch.
+
+Theapp, available on IOS, Android and Desktop, uses built-in end-to-end encryption to prevent third parties (like governments) from seeing the content being sent. It ispopularamong Egyptian activists and journalists in protecting their sources.
+
+Dear world, as of yesterday both Signal & Telegram apps are not working in Egypt. Among all My losses, I’ve lost access to secure chatting.
+
+— Nora Younis (@NoraYounis)December 17, 2016
+
+Egypt has blocked other VoIP apps such asSkype and Whatsappbefore, but these for-profit communications services didn’t offer quite the same level of encryption and privacy features as Signal.
+
+Other countries in the Middle East and North Africa (likeMorocco) have also limited access to anonymous messaging services andTurkeyin recent days has blocked social media in light of the recent assassination of the Russian ambassador.
+
+“These disruptions are not uniform and the causes behind them are not clear,” saidRasha Abdulla, professor of communications at American University in Cairo, who authored a book on theinternet in the Arab world. She uses Signal herself and was able to access the app when other users could not.
+
+The Ministry of Communications & Information Technology has not confirmed or denied its block of Signal. TechCrunch reached out to the ministry several times to no avail.
+
+With the recent targeting of Signal, security fears have been raised over what the San Francisco-based service provider Open Whisper Systems has termed “censoring access.”
+
+In an update of the status of the app, Open Whisper Systems included “support for censorship circumvention in Egypt and the UAE” as anew featureusing domain fronting.
+
+“The idea is that to block the target traffic, the censors would also have to block those entire services. With enough large scale services acting as domain fronts, disabling Signal starts to look like disabling the internet,” according to a technical note issued by the company.
+
+Authorities famously cut internet access in the midst of the 2011 revolution that toppled 30 years of autocratic rule under former president Hosni Mubarak.
+
+Can anyone subscribed to@TEDataEgyptcheck if they can access the sitehttps://t.co/U7wptEmr4H, they claim I’m the only person who can’t.
+
+— Wael Eskandar (@weskandar)December 18, 2016
+
+“Attempts to curtail freedom online, whether by blocking content or by user violations, is an obvious way to fight the effect of social media that was demonstrated in 2011 and in the couple of years after. The online world provided a free space for people to discuss and organize in a way that was unprecedented,” Abdulla said.
+
+Digital rights groupPrivacy Internationalclaimed in a report issued earlier this year that at the height of the Arab revolutions Egypt bought surveillance technologies from European companies, including the Italian firm Hacking Team.
+
+The disruption of Signal’s service comes at a time especially when freedom of expression is regularly curbed. A Facebook page administrator wasarrestedfor “publishing false news” and authoritiesshut down163 Facebook pages for their incitement to violence.
+
+Egypt has intensified its cyber crackdown under president Abdel Fattah el-Sisi. In recent years authorities have blocked Facebook’s controversialFree Basics programfor not allowing it to spy on users, imprisoned citizens forsatirical Facebook postsand reportedly usedDeep Packet Inspectiontechnology allowing for extensive surveillance of Egyptians’ online activities.
+
+In the wake of theIslamic State (IS)terrorist attack earlier this month on a cathedral in Cairo killing 27 people, Egyptian political parties have renewed calls for parliament to pass a repressivecybersecurity lawthat can carry the death sentence in some cases.
+
+“Unfortunately, most legislation in the Arab world is done with the intention of control rather than regulation” explained Abdulla of the law’s severity.
+
+“It also places part of the responsibility on ISPs, so that every layer of the society is policing another,” Abdulla said.

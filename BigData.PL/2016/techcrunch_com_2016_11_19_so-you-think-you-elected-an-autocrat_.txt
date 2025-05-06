@@ -1,0 +1,87 @@
+So you think you elected an autocrat
+
+Welp. I’m sorry to hear that. Whether you are Venezuelan, Zimbabwean, Russian, Turkish, or American; whether your democratic process has been fatally compromised, or your fellow citizens have knowingly voted in a monster; indeed, even whether you’re right or wrong — I feel your pain. But for what it’s worth, some technology, if used correctly, is still on your side. Here’s what to do:
+
+Be pessimistic
+
+Approach the situation as an engineer would. If the worst-case scenario is cataclysmic, then you need to mitigate that risk, even if it’s low. Fifty years ago, notoriously liberal Afghanistan was full of hippie tourists, while hordes of Italian sunbathers flocked to Somalia’s beaches. Thirty years ago, Yugoslavia was the most cultured and Westernized nation in all of Eastern Europe, while Zimbabwe was the breadbasket and great hope of southern Africa. How things change.
+
+I’m not saying your wealthy democracy will become a totalitarian hellscape overnight, but Iamsaying that whole nations do fall into sudden and shocking decline. The risk of utter catastrophe may be small, but it is real. So do everyone a favor: follow Masha Gessen’sAutocracy: Rules for Survival.
+
+That said, Godwin’s Law probably still applies. Most demagogues are not autocrats, and most autocrats are vacillating narcissists. But even the least effective attract power-hungry hatemongers as lieutenants, and try to whip up frenzies against “enemy groups” as scapegoats and distractions. Don’t think you’re part of an enemy group, because you’re not a visible minority? Don’t be so sure! Technology is a fundamental power center these days, and autocratsdon’t like rivals.
+
+https://twitter.com/balajis/status/703503245390446593
+
+This is precisely the rhetoric the Kremlin and its media lackeys uses against human rights organisations in Russia.https://t.co/6Pq4qkTv3v
+
+— Michael Harris (@mjrharris)November 12, 2016
+
+Be cautious
+
+Whether you’re a tech titan who fearsbecomingthe nextMikhail Khodorkovsky, or a coder worried the law (and/or your nation’s surveillance-industrial complex) may be selectively enforced against you —
+
+https://twitter.com/munin/status/798395821435867136
+
+— be cautious. UseSignalfor messaging, and in place of email, where possible. InstallTor. Encrypt your laptop and your phone. Turn on two-factor authentication for your email and other accounts. For more details, read:
+
+Be wary
+
+Did your opponent hack your nation’s electoral system to eke out a narrow win? If so, that’s too bad, but the great virtue of democracy is that it allows people to correct their mistakes. The single greatest danger you face is that the electoral process itself may become compromised, through voter suppression, good old-fashioned ballot-box stuffing, or compromised voting / tabulation machines.
+
+i don’t understand why we don’t verify machine tabulations with handcounts in random samples of polling places.https://t.co/YTg9LPDNIc
+
+— @interfluidity@zirk.us (@interfluidity)November 16, 2016
+
+So: fight hardagainstvoting systems that don’tgenerate actual paper ballots, and consider fightingforreliableend-to-end auditable voting systems. Most of all, though, don’t think of the mechanism of democracy as a magical black box. Be ready to audit, inspect, and defend every part of it, if you think anyone might be trying to corrupt it. This is the most important thing you can do.
+
+Be generous
+
+That said, even if you avoid mass oppression and strife, even the “best” autocrats trigger countless low-grade petty cruelties that ruin double handfuls of lives every day. Worse yet, they also hamstring or corrupt the legaland regulatorysystem, and many strip-mine whatever government safety nets may exist in favor of further enriching their kleptocratic cronies.
+
+In America, for instance, it seems reasonable to expect life to get measurably worse over the next four years for visible minorities, LGBTQ people, women who seek autonomy over their own bodies, etc. There are manyconcrete things you can dofor these people:
+
+https://twitter.com/firecrackrbrown/status/798167934241673216
+
+…but maybe the most important thing is to include them in your communities, both online and off. Social media gets a lot of flak around elections, much of it justified, but it is also a crucially important substrate that people can use to band together and support each other when times get tough.
+
+Be inclusive
+
+This is no time to get allPeople’s Front of Judea, or to write off anyone and everyone who disagrees with you as a monster. Note that the same people who say “everyone who voted for the other side is racist and cannot ever be associated with under any circumstances” also often say “everyone’s racist, it’s just a matter of degree, it’s implicit in the system in which we live.” Be very careful who you call an enemy. More us-and-them polarization is exactly what the autocrat wants.
+
+https://twitter.com/balajis/status/797528444884004864
+
+More generally, if you want to win political battles, you need to erect broad tents. Do you hate libertarians? Get rid of that attitude,stat— and vice versa:
+
+3.Libertarians should be directing energy at limiting power right now. Others who fear Trump should be allies, not targets of derision.
+
+— Radley Balko (@radleybalko)November 15, 2016
+
+Some argue that we should be so inclusive that we replace representative democracy withinstant direct democracy, via movements whose representatives pledge to always be guided by their members’ online votes. In Italy, the very successfulFive Star Movementdoes just this; and, of course, people have proposed blockchain variants…
+
+Think globally
+
+I’ve been arguing forsome time nowthat the whole concept of a world partitioned into nation-states makes less and less sense. That may sound crazy … but I bet a lot of things are happening around you that would have sounded crazy before the election.
+
+I’m not saying you have to supportCalexitorCascadia— though I also don’t think either should be automatically dismissed — but Iamsaying you should do anything and everything you can, personally and technically, to strengthen and increase the density of supra-national networks.
+
+That means making a point of extending community and governance projects across borders. That means getting into Bitcoin and the other major cryptocurrencies, as the only true world currencies. That means doing your best to defend Internet (and other) freedoms around the world, where they areunder concerted attack, by building decentralized systems that exist orthogonally to nation-states.
+
+It also means pilot projects wherein people begin to consider themselves as members, or even citizens, of formally constituted entities that span national borders. I know this sounds a little crazy. We are so accustomed to swimming in the water of a nation-state world that anything else seems profoundly alien. But it’s past time to at least tentatively experiment with new ideas.
+
+https://twitter.com/balajis/status/746543681079914496
+
+Think locally
+
+At the same time, do everything you can to strengthen your own local community, in the streets and cities around you, and try to win as many political victories as possible at the city / country / grassroots level. (And if you’re bold enough to actually start a new political movement, for Zardoz’s sake start by trying to win small, and then work your way up, rather than the reverse.)
+
+Unfortunately the tech industry has been more focused on delivery apps for privileged hipsters than systems and networks that strengthen communities and create new tribes. Sorry about that. But it’s not too late to break some new and important ground.
+
+https://twitter.com/balajis/status/797525534150275072
+
+There are interesting notions out there already.Group Income, for instance, a kind of fully voluntary micro-basic-income for small groups who vow to support each other in times of need through thick and thin. Based on blockchains, of course! And/ortime bankingapps (although, personally, I thinkweightedtime banks would be far more successful; the precept that everyone’s time is worth exactly the same has historically proven unpopular.) Debug Politics isorganizing hackathonsto work on political problems. (I know, I know, hackathons, ugh, but at least their intent is noble.)
+
+More generally, the tighter and closer everyone’s support network is, the better we will all be able to ward off the slings and arrows of autocracy. Think of it as the phalanx principle.
+
+Be optimistic
+
+Many, many countries have voted in autocratic clowns, monsters, or narcissists. It’s a mistake, but the beauty of democracies is that mistakes can, eventually, be fixed. Use technology to practice surveillance self-defense; proactively defend the mechanisms of democracy; build communities, both locally and across nations; and help the most vulnerable — and you’ll both limit the damage done and mitigate the gravest risks. As long as we stay stubborn, this too shall pass, and the arc of history bends towards justice.

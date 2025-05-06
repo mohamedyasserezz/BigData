@@ -1,0 +1,25 @@
+Report: Verizon wants $1 billion discount after Yahoo privacy concerns
+
+It’s bad news for Yahoo. The company is in the midst of finalizing itssale to Verizon, but recent revelations about hacking and spying may be costing them a pretty penny.
+
+A story from the New York Postalleges that Verizon is now asking Yahoo for a hefty $1 billion discount to finalize what was supposed to be a $4.8 billion deal. (Full disclosure: TechCrunch is owned by Verizon, although we do not have any inside knowledge about this).
+
+“The key will be what was actually disclosed by Yahoo before signing,” Frank Aquila, legendary M&A lawyer and partner at Sullivan & Cromwell tells TechCrunch. “No one should be surprised that Verizon wants a significant reduction.”
+
+Yahoo confirmed in September that it had suffered a data breach affecting at least 500 million users. Information, including names, email addresses, birth dates, encrypted passwords and both encrypted and decrypted answers to security questions, were stolen in the breach, which Yahoo blamed on a state-sponsored attacker. Although the stolen passwords were encrypted, the additional information could easily be reused across other websites in identity-theft schemes.
+
+The breach occurred in 2014, but Yahoo discovered the intrusion more recently. The exact timing of Yahoo’s discovery could impact the Verizon deal. Yahoo CEO Marissa Mayer reportedly learned of the breach as early as July, when the sale of the company was still being negotiated. In August, Yahoo told TechCrunch in a statement that it was aware of rumors that the company had been hit by hackers and that its security team was investigating. But in a September proxy statement made as part of the sale, Yahoo claimed that there had been no third-party claims of such a breach.
+
+Senator Mark Warner has called for the Securities and Exchange Commission to investigate Yahoo’s representations about cybersecurity. “Yahoo’s September filing asserting lack of knowledge of security incidents involving its IT systems creates serious concerns about truthfulness in representations to the public,” Warner said in a statement.
+
+But that’s not the end of Yahoo’s cyber woes. The company faced allegations this week that it scanned all of its users’ emails last year at the behest of a U.S. intelligence agency. Again, the blame for the incident has fallen on Mayer, who reportedly made the decision not to fight the intelligence agency’s request in court and ordered the mail team to create the custom mail-scanning software without informing Yahoo’s own security engineers. The surveillance was not disclosed in Yahoo’s biannual transparency report, which documents government requests for user data. Yahoo called reports of the mail-scanning program “misleading” but has not denied that it ever occurred.
+
+Public investors have a right to know about significant events affecting the company, and it can easily be argued that these security breaches count. Verizon could make the case that these incidences hurt the value of the Yahoo brand and thus their stock.
+
+When asked about the hack in atelevised interview with CNBClast week, AOL’s Tim Armstrong said “the data thing was something new that got introduced and we’ll work through that together with” Yahoo. He added that he wants to be “protective” of the Verizon shareholders.
+
+After ongoing rumors, the acquisition wasformally announced in July.Deals like these typically take several months to close.
+
+Verizon also acquired TechCrunch’s parent, AOL,last year for $4.4 billion.
+
+We’ve reached out to our overlords at Verizon and they declined to comment.

@@ -1,0 +1,59 @@
+All deals on AngelList will soon be private (plus other updates you should know)
+
+Earlier this week, wesat downwith Naval Ravikant, cofounder of five-year-oldAngelList, a popular platform that matches startups with early-stage investors. Three million people, including 50,000 accredited investors, have created profiles on AngelList since its founding, and AngelList now uses that information to pair startups with capital, pair startup employees with employers and, more newly, pair startups with customers.
+
+It’s become a big business, as well as a confusing one, Ravikant readily admits. And while we can’t report on one interesting new, performance-related wrinkle that’s coming soon, he walked us through many other stats and initiatives. Our chat has been edited for length and clarity.
+
+TC: A few years ago, AngelList introducedSyndicates, essentially pop-up funds that allow angel investors to syndicate their investments in exchange for some upside. It was fairly transparent at the outset, but that’s been changing. Why?
+
+NR: Seventy-five percent of the deals are now private, up from 45 percent a year ago. It’ll be default private soon because a lot of the hot deals tend to be private. Also, that public-private dichotomy is always really hard for entrepreneurs [in fundraising mode] to figure out, so they start associating our brand [with a place to share information publicly to accredited investors], which is a negative, so they don’t want to go on here. We might take a hit on liquidity by making the default private, but at the end of the day, it’s all about getting the high-quality companies.
+
+TC: An investor, Gil Penchina, has built abig businesson the platform. Are more leads starting to see a kind of of network effect?
+
+NR: Gil is a unique case. He’s the one who’s always breaking the system. We’re more catering to operator-angels, meaning people who have operating jobs, or VPs at big companies or who’ve started their own startups. It’s people who aren’t professional VCs but who do four to six deals a year, investing in alumni and people they know.
+
+TC: How many of them close a deal each month? And are the investors on the platform mostly based in Silicon Valley?
+
+NR: We had 55 deals led by 41 leads close in June; we had 44 deals led by 38 leads close in July. The average for most leads on the platform is a couple of deals per year. As for demographics, I’d say over half [the people who lead deals on the platform] are in Silicon Valley.
+
+TC: You’d said publicly somewhere that you were getting intospecial purpose vehicles, which come together quickly to invest in a single, later-stage company. Why would someone create an SPV on the platform?
+
+NR: They’re syndicates, too; they’re just targeted to later-stage investors. It isn’t a [big part of the platform] yet but they’re fully automated. We don’t charge you any carry for any investors you bring in. It’s a one-time charge of $8,000 and we handle all the K-1s, reporting, accounting, collections, filings, regulatory compliance, accreditation. It’s all online so people can track their exits, distributions, and bank accounts, and we can distribute stock in cash. So it’s like setting up a Schwab or e-Trade system for people who want to do that. Pejman Mar [now Pear] has used it.Accompliceuses it. Then there are a lot of one-offs.
+
+We also now have a network of 20 family offices, and when we get a later-stage deal, with a lead investor’s approval, we’ll show them those and they can vote on whether they are in or out. It’ll take a year to fully fill out, but you could see 200, 300, 400 [family offices] accessing SPVs in all the hot companies at some point.
+
+TC: People can lead seed rounds; they can form SPVs. Whyaren’tmore VCs using AngelList instead of raising funds the old-fashioned way?
+
+NR: We’re not really built for that. For starters, we don’t support management fees. We also don’t support custom [limited partner] documents; you’d have to go cookie-cutter with our Syndicates model. What we are starting to see is people who [build a track record and graduate to their own fund], though that’s kind of a failure for us. [Laughs.]
+
+TC: You’ve said there’s $200 million flowing through the platform each year right now. Break down for readers where that money is coming from.
+
+NR: Between $120 million and $160 million is coming from [accredited individual investors]. The other roughly $40 million comes from partnerships and funds that we run on the platform. One of those is the [$400 million seed fund] CSC Upshot fund [in partnership with aChina-based private equity firm]; another isMaiden Lane[a $25 million fund raised by mostly individual investors outside of AngelList]. That’s managed by Dustin Dolginow, formerly of Accomplice; Jeff Fagnan, a general partner at Accomplice; and me.
+
+Then there’s a third that we’ve raised from individuals who join AngelList and want a basket of AngelList companies; we try and pick the best 100 to 150 deals for them. I manage that with our COO, Kevin Laws; and Parker Thomson [formerly of 500 Startups].
+
+TC: As for conflicts of interest?
+
+NR: We have heavy conflict of interest rules, so when I’m running a deal [as a Syndicate lead], I don’t vote in any of the funds and I’m recused from anything involving the deal.
+
+TC: What’s happening with therecruitingside of AngelList? You launched a service in beta a few months ago. What stats can you share?
+
+NR: [The platform] is still free for anyone who wants to use it freely. But for someone with limited time and a certain budget and a specific role they need to fill with good engineers, we launched a service three months ago called A-List. We do the work of going through AngelList and finding the top couple hundred candidates, then we put [the hiring company] into this format where we make sure the parties are matched up very well and we charge $10,000 for a successful hire.
+
+TC: How many job candidates are on the platform altogether, and what’s your close rate on matches?
+
+NR: It’s between 1 percent and 2.5 percent, judging by the percent of candidates who update their profile later with a new employer who was introduced to them on AngelList. Over the last two months, there’s been around 200,000 active candidates, so we think [our hit rate is] between 800 and 2000 hires a month.
+
+TC: Think this business will account for 50 percent of your revenue at some point?
+
+NR: More. We’re the largest hiring platform for startups on the planet.
+
+TC: You say you’re the largest seed fund, and that you’re the largest hiring platform for startups. What else is on the roadmap?
+
+NR: It’s still being built, but we’re also working on AngelList Enterprise, so companies can even find customers at some point. Say you want bug tracking software; all these companies have AngelList profiles on the platform and they tell us what their tech stack is and [other details like] how many customers they’ve signed in the last 90 days, and that’s all we need to help [both sides to connect].
+
+It’s all free, but you can see how it would eventually make money. Right now, we’re just seeing if it’s even useful to users.
+
+TC: How far away from profitability are you?
+
+NR: We’re not at breakeven, but I expect in the next six to 12 months, we will be, for sure.

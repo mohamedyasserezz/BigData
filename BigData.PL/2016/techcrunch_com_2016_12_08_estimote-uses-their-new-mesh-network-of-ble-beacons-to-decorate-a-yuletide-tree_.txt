@@ -1,0 +1,11 @@
+Estimote uses their new mesh network of BLE beacons to decorate a yuletide tree
+
+Everyone knows the holiday season means three things: family, friends and interconnected low-energy Bluetooth devices connected using a simple mesh network.Estimote, a beacon company, has given us the last thing by creating a small mesh network of wireless beacons that they proceed to hang on a Christmas tree.
+
+The new beacons run Bluetooth Low Energy and connect to each otherautomatically. They last for years on one battery and can be programmed to expand a BLE network throughout an entire area, each beacon handing off to the next as necessary.
+
+The beacons also support GPIO, which means you can add electronic devices to the beacons, like LEDs, as shown below, or motors. For example, you can send a signal to one of the beacons and pass that signal throughout the entire network instantly. You can also push updates this way, sending firmware to one beacon and then propagating it through the system.
+
+While a flickering beacon isn’t quite the same as a crackling, fire it’s nice to know that you can train all of your beacons to belt out a rousing round of We Three Kings with only a GPIO cable and one of those little song-playing circuit boards.
+
+[youtube=https://www.youtube.com/watch?v=lsY8_Mm_-g0]

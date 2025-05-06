@@ -1,0 +1,17 @@
+Hipchat’s VoiceMyBot tests the waters for Amazon Echo in the workplace
+
+Hipchat, the workplace collaboration platform from Atlassian that competes against the likes of Slack, Yammer and (soon?) Skype Teams, is today announcing a new service that — figuratively and literally — speaks to a new way of using not just Hipchat, but another popular tech product, the Amazon Echo. The company is announcing a new integration calledVoiceMyBot, which lets you use Alexa, Echo’s voice interface, to query Hipchat and get updates through verbal commands. The feature will cover areas like voice notifications from any app you’re using from the Hipchat Marketplace; hearing and verbally modifying source code; speaking messages to respond to questions from coworkers; and message summaries.
+
+The new feature — developed for Hipchat bySoftServe— comes alongside some new feature updates to Hipchat’s video chat feature, and both are getting released strategically today: tomorrow Microsoft is widely anticipated to launch a new product called “Skype Teams” — the company’s so-called “Slack competitor”.
+
+The idea behind VoiceMyBot is to create a service that will let people access conversations or data that is in Hipchat, without having to be at a computer or another text-based device like a phone or tablet.
+
+Just as today on services like Hipchat or Slack, you can create slash-commands — shortcuts to bring up data from different, integrated apps — using VoiceMyBot, you can create short-word commands that will also call up data, which is then spoken aloud to you.
+
+Steve Goldsmith, GM for Hipchat, said that a typical use case would be, say, when several people are having a meeting or conversation about something and you want to call up some data in your system as part of that, without submerging yourself in a screen to do it.
+
+Perhaps more interesting is the idea that you can use VoiceMyBot also to push you information. Typically, today we use the Amazon Echo and Alexa to query it and ask it do things for us, like play music. VoiceMyBot can be configured to essentially push you essential information, such as site maintenance updates or alarms for system crashes. Such cases could complement or even replace an interactive wallboard, Goldsmith noted.
+
+This is an interesting update not just for how it stretches the functionality and use of Hipchat — and most likely gives us a look at what we might expect next from all these platforms — but also for the implications it has for Amazon’s most interesting piece of gadgetry. Up to now, the Amazon Echo has really been viewed and used as a home-based device — for getting information, ordering takeout, and calling up entertainment.
+
+With VoiceMyBot and its link through to work processes, Hipchat is opening the door to how the Echo might be conceived as a business device, too. There are already other ways that it’s likely being used in these scenarios informally, for example to order office supplies or perhaps to control your office thermostat. So adding in some productivity tools could work.

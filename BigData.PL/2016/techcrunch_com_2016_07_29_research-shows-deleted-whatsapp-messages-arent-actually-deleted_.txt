@@ -1,0 +1,29 @@
+Research shows deleted WhatsApp messages aren’t actually deleted
+
+Chat logs from WhatsApp linger on your phone even after you’ve deleted them, according to new research published by iOS expert Jonathan Zdziarski.
+
+Forensic traces of chats linger on the phone even after a user archives or deletes them, Zdziarski found, and could be accessed by someone with physical access to the device or by law enforcement issuing a warrant to Apple for iCloud backups. Although the data is deleted from the app, it is not overwritten in the SQLite library and therefore remains on the phone.
+
+“I installed the app and started a few different threads,” Zdziarski wrote in ablog post. “I then archived some, cleared, some, and deleted some threads. I made a second backup after running the ‘Clear All Chats’ function in WhatsApp. None of these deletion or archival options made any difference in how deleted records were preserved. In all cases, the deleted SQLite records remained intact in the database.”
+
+“The only way to get rid of them appears to be to delete the app entirely,” Zdziarski added.
+
+WhatsApp has been applauded for its security since the company, which is owned by Facebook, completed itsrollout of end-to-end encryptionin April. WhatsApp uses the well-regarded Signal Protocol for its encryption. But some onlookers were excited to see a dent in WhatsApp’s armor — the CEO of Telegram, Pavel Durov, took the opportunity to critique WhatsApp’s security.
+
+“Even for 10% of something like this security experts would tear Telegram apart with hundreds of NEVER USE IT tweets,” Durovtweeted. “Funny how conveniently silent all these ‘experts’ are now, after spending hundreds of hours bashing TG [Telegram] and promoting WA [WhatsApp].”
+
+However, WhatsApp certainly isn’t the only messaging application with this problem: Zdziarski noted that the issue exists with iMessage as well. Other apps like Signal and Wickr leave fewer forensic traces.
+
+WhatsApp users don’t need to panic — the ways this forensic data could be exported are relatively limited. Still, Zdziarski has some advice for users:
+
+Use iTunes to set a long, complex backup password for your phone. Do NOT store this password in the keychain, otherwise it could potentially be recovered using Mac forensics tools. This will cause the phone to encrypt all desktop backups coming out of it, even if it’s talking to a forensics tool.
+
+Consider pair locking your device using Configurator. I’vewritten up a howtofor this; it will prevent anybody else who steals your passcode, or compels a fingerprint from being able to pair or use forensics tools with your phone. This is irreversible without restoring the phone, so you’ll need to be aware of the risks.
+
+Disable iCloud backups, as these do not honor your backup password, and the clear text database can be obtained, with a warrant, by law enforcement.
+
+Periodically, delete the application from your device and reinstall it to flush out the database. This appears to be the only way to flush out deleted records and start fresh.
+
+NOTE: This will not delete databases from existing iCloud backups from the cloud.
+
+WhatsApp did not respond to a request for comment.

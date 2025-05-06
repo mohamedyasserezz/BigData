@@ -1,0 +1,27 @@
+Ava gives the deaf and hard-of-hearing a more present voice in group conversations
+
+For those with hearing issues, simple dinner table group conversations can be pretty painful to stay on top of.
+
+Avais aiming to bring deaf and hard-of-hearing people back into group conversations with their threaded speech-to-text application that gives people with hearing issues an easy way to stay on top of a conversation.
+
+The app, formerly known asTranscence, starts with each participant in a conversation downloading the app and setting up a profile. This may seem like a bit of work to get a casual chat going but especially for families or groups of friends, it’s a really simple way to bring everyone into a conversation regardless of their specific hearing abilities.
+
+After getting everyone onboard, people just talk normally near their phones microphone and the speech to text translation is organized into a threaded message for everyone in the group text allowing users who are deaf or hard-of-hearing to have a record of the conversation right in front of them to quickly respond to.
+
+The companyannouncedthis past week that they’ve closed $1.8M in funding from a host of investors including SV Angel, Lerer Hippeau Ventures, Partech Ventures, Steve Blank and Tim Draper.
+
+I sat down with Ava CEO Thibault Duchemin to chat about tech meeting the needs of the deaf community and what’s next for his app.
+
+The potential for the app expands well beyond dinner table conversations, and fits into pretty much anything where multiple people are chatting in an environment where deaf people are present. The Ava team had a major opportunity to show off their tech last month when Salesforce used the tech to live transcribe the majority of its breakout sessions for audience members at its Dreamforce conference. Duchemin and COO Pieter Doevendans also chatted a lot about the potential for education markets in giving everybody in the classroom an equal voice.
+
+For the most part, speech recognition tech has been slow to wide user adoption because it’s not perfect. Even when systems can handle 90 or 95 percent accuracy, it’s hard to focus on anything other than what the system got wrong. It makes sense because voice assistants are so fragile and even a single misheard word can throw off the usefulness of an answer.
+
+For now, Ava is just as accurate as the 3rd-party solutions that are currently powering it, though Duchemin says that once its system gathers more data on a user’s voice it will grow more capable in distinguishing it from the background noise. But for deaf users that often can only achieve 20 percent accuracy in reading lips during a conversation—making up the rest through body language and context—the ability to gain 80 or 90 percent accuracy through using Ava is quite empowering.
+
+I reached out to TC contributor and accessibility writer Steven Aquino to hear if this is something the deaf community would actually use. “I grew up in the deaf community, as both of my parents were deaf, so I have that connection between both the deaf and hearing worlds. ASL is my first language,” Aquino said. “I know from experience how difficult is it to have deaf or hard-of-hearing folks involved in conversation. I was always acting as an interpreter when my parents were around hearing family or friends.”
+
+Right now, the app allows users to host up to 5 hours of conversation per month. Any user can host a group conversation and participating in another user’s session doesn’t eat up any of your allotted time. For Ava users that move past this 5 hour time frame, they can upgrade to a paid unlimited version of the app for $29 per month.
+
+Duchemin detailed that one of the most critical things it getting people on the app and through the setup process as quickly as possible so that groups can get to chatting. The interface of the app is appropriately very simple with just a few controls while much of the screen real estate is devoted to what’s being said. Users can sign into the account with different options, either as someone who’s hard-of-hearing, deaf or hearing, with the app slightly altering the experience to best serve the user’s abilities. The app isavailableon both Android and iOS.
+
+Duchemin emphasized that the app definitely isn’t perfect and that there are still a lot of improvements the team is hoping to roll out soon. To them the key was really getting the app out in time for Thanksgiving so that family conversations around the dinner table could be a bit easier and accessible for the 15 million people in the US with hearing issues.

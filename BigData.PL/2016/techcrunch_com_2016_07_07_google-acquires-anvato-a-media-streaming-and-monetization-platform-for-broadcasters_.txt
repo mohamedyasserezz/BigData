@@ -1,0 +1,17 @@
+Google acquires Anvato, a media streaming and monetization platform for broadcasters
+
+Google is getting deeper into the tech side of the video and broadcasting business. The company today announced that it has acquiredAnvato, a platform for encoding, editing, publishing and distribution video across platforms. The company says Anvato will join its Cloud Platform team and that Anvato’s technology will complement its efforts “to enable scalable media processing and workflows in the cloud.”
+
+Anvato’s technology allows its customers, whichincludethe likes of NBCUniversal, MSNBC, CBS, Univision, HGTV, Bravo and Fox Sports, to powerlive streams,edit videos in the cloud, insert ads and handle pay-per-view, TV Everywhere and subscription payments. With that, it offers an end-to-end service for video publishing and monetization, something Google’s own platform doesn’t currently offer.
+
+“With OTT [over-the-top] adoption rapidly accelerating, the Cloud Platform and Anvato teams will work together to deliver cloud solutions that help businesses in the media and entertainment industry scale their video infrastructure efforts and deliver high-quality, live video and on-demand content to consumers on any device — be it their smartphone, tablet or connected television,” Google senior product manager Belwadi Srikanth writes in today’s announcements.
+
+Similarly, the Anvato team writes that this acquisition will bring together its technology “with the scale and power of Google Cloud Platform to provide the industry’s best offering for OTT and mobile video.”
+
+According to Crunchbase, Anvato raised a total of $2.55 million since its launch in 2007. Google did not disclose the financial details of today’s acquisition.
+
+With this move, Google is clearly interested in pushing its Cloud Platform as an option for media companies. Until now, it really didn’t have all that much it could offer broadcasters, unless they were looking torender animation or special effectson its platform.
+
+Microsoft offers its own set of tools for broadcasters with itsAzure Media Services. While Amazon offers somededicated media services, the company also ownsElemental, which uses its platform to offers a set of end-to-end solutions that are similar to Anvato’s. Elemental counts ESPN, HBO and the BBC among its customers, for example, and Amazon obviously also hosts most of Netflix’s services.
+
+Google says it will have more to share about the integration of Anvato’s tools in the coming months.

@@ -1,0 +1,39 @@
+Listen makes phone numbers smarter with auto-responders, muting, reminders and more
+
+A new mobile application calledListenwants to make phone numbers smarter by giving you more control over who’s texting and calling, thanks to a variety of features like whitelists, reminders, auto-responders, mute buttons and more. The idea, explains the company, is to offer one “inbox” for everything that comes in via your phone number. The end result is a number you can more safely share publicly, similar to a Twitter handle.
+
+The idea of creating a secondary line for use in public is not a new one. Google Voice has offered a similar capability for years, while a handful of existing mobile apps, like Burner, also let you create disposable phone numbers or secondary lines you can maintain as long as you’re a paying customer.
+
+Listen, essentially, wants to be a better Google Voice — a product that hasn’t received much attention in years, as Google’s focus has shifted to other communications platforms, like Hangouts, and now, its Allo and Duo apps.
+
+“We decided to build [Listen] because we can’t get away from phone numbers,” explains CEO Lauren Leto. “We’re stuck with them — so why not make them better? I ported my personal number from AT&T to Listen and it’s been amazing but, then again, I’m building this for myself,” she says.
+
+To get started with Listen, you first enter your current phone number as a means of validating your account, as with other messaging apps. You’re then able to pick a new number with the area code of your choice.
+
+You can distribute this number and use it in addition to your private, carrier-provided number or you can opt to forward your calls to your Listen number via iPhone’s Settings (under “Phone”). However, if you don’t forward your phone number to Listen, calls go straight to voicemail.
+
+The company is now working on tools that will actually allow users to port their numbers to Listen, Porting, which means switching carriers for your number, is more of a commitment. It also means you wouldn’t be able to use iMessage.
+
+For now, however, Listen just gives you a new phone number.
+
+OnceListenis set up, you can do things that you otherwise couldn’t if using a regular phone number. For example, you can swipe to set reminders from within a text message conversation if you’re discussing something that needs to get done, or you can swipe the other direction on the thread to “save” a particular text to the contact’s profile for easier access in the future.
+
+You can also mute contacts, so you aren’t bothered by spam or others you don’t want to hear from (exes, perhaps?), and you can disable voicemails. And you can configure the app so you only receive notifications from favorite contacts, so you’re less distracted. Another handy feature is the ability to set up auto responders for calls and texts.
+
+The iPhone already lets you actively dismiss incoming phone calls with a custom text message, but Listen’s auto-response are immediately sent to anyone while the feature is enabled. This could be useful for when you’re going to be away from your phone for a while — like when traveling by plane or trying to take a tech-free vacation, for example.
+
+What’s also interesting about Listen, as compared with rivals like Burner, is that it’s aiming to keep the basic feature set — phone calls and texts — free.
+
+Instead, says Leto, the plan is to charge for services aimed at international users in the future.
+
+Explains Leto, “people living abroad for a short period of time can port their U.S. number in to Listen — thereby keeping it ‘safe’ and still receiving and sending messages from friends and family without paying insane international fees.”
+
+“That would be a paid service but still significantly cheaper than keeping a traditional carrier service,” she adds.
+
+It’s unclear to what extent Listen can deliver on those promises, given that the service runs on top of Twilio. It has to find a way to pay for its free tier at some point, before the money runs out.
+
+Prior to founding Listen, Leto created the humorous websiteTexts from Last Nightand a mobileappfor inspirational quotes,Banters. CTO Cam Hunt was the first employee at GroupMe, and lead engineer Austen Ito was previously at Bonobos and Kitchensurfing.
+
+The three-person team is part of Expa Labs and has raised $700,000 from Notation Capital, Social Starts and Rob Fishman.
+
+Listen is currently available oniOS, but Android and web support is planned, alongside other features like group texting, self-deleting texts and end-to-end encryption.

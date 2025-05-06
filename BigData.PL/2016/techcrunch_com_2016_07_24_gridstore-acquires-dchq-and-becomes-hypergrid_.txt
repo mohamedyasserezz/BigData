@@ -1,0 +1,17 @@
+Gridstore acquires DCHQ and becomes HyperGrid
+
+Gridstore, a company that focuses on building software and data center appliances for Windows Hyper V-based clouds, today announced that it has acquiredDCHQ, a service that helps enterprises move their applications to any cloud or container infrastructure (with a specific focus on Java-based applications). With this acquisition, Gridstore is changing its name to HyperGrid and the old DCHQ platform is now called HyperForm.
+
+The new company offers three products: theHyperConverged appliance for deployments into data centers, the HyperGrid on-demand platform, and HyperConverged Infrastructure as a Service (HCIaaS).
+
+The new product here is HCIaaS. “HCIaaS is the first solution that bridges the needs of traditional and cloud-native developers with IT Operations, delivering an AWS-like environment for your Enterprise that enables complete DevOps,” the company says in today’s announcement. A company spokesperson similarly described the new service as “an application aware offering that brings the simplicity and ease of use of HCI together with a pay as you consume pricing model that scales elastically.”
+
+In case you were wondering, hyperconverged, which is probably one of my least favorite terms in the enterprise jargon, basically means combining compute, storage and networking into a single software and hardware platform that uses commodity hardware and a unified management interface.
+
+It’s worth noting that Gridstore/HyperGrid isn’t exactly the only player in this space. With Nutanix, HP, Oracle, EMC’s VCE, Cisco, NetApp and others, there are plenty of vendors who are also betting onthis same trends. Gartner’slatest reportpegs the overall market for hyperconverged infrastructure services at about $2 billion this year and $5 billion in 2019.
+
+DCHQ’s technology will become an important part of HyperGrid’s offerings. It will allow HyperGrid to offer better support for containers on its platform and also enable enterprises to more easily adopt containers and its platform. It’s worth noting though that DCHQ/HyperForm will continue to support other cloud and container infrastructures, including VMware vSphere, OpenStack, AWS, Azure and others.
+
+“We are thrilled to have DCHQ be an integral technology for HyperGrid,” said DCHQ CEO Amjad Afanah (who co-founded the company together with Intesar Mohammed) in today’s announcement. “HyperGrid solves a real pain point for our customers struggling with innovation in the digital economy.  Our combined platform will dramatically simplify IT Operations and help enterprises deliver applications faster and cheaper than going to the public Cloud.”
+
+The terms of the acquisition were not disclosed, but Gridstore recently raised a $19 million Series C round and has raised a total of $44.47 millionaccording to CrunchBase.

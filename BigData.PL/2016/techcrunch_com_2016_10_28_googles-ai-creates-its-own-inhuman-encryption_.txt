@@ -1,0 +1,13 @@
+Google’s AI creates its own inhuman encryption
+
+What happens when you tell two smart computers to talk to each other in secret and task another AI with breaking that conversation? You get one of the coolest experiments in cryptography I’ve seen in a while.
+
+In short, Google Brain researchers have discovered that the AI, when properly tasked, create oddly inhuman cryptographic schemes and that they’re better at encrypting than decrypting. The paper, “Learning to protect communications with adversarial neural cryptography,” isavailable here.
+
+The rules of the task were simple. Two neural networks, Bob and Alice, shared a secret key. Another neural network, Eve, was tasked with reading the communications between the two robots. There was one condition, a “loss function,” for each party. Eve and the recipient Bob’s plaintext had to be as close to the original plaintext as possible while Alice’s loss function depending on how far from random Eve’s guesses were. This created a generative adversarial network among the robots.
+
+Write the researchers Martın Abadi and David G. Andersen:
+
+The methods evolved over time and eventually Bob and Alice were able to communicate clearly using the shared key. Eve, on the other hand, had some luck decrypting the systems until Bob and Alice became proficient and then her ability to crack the cipher failed. Bob and Alice, on the other hand, got really good at sharing encrypted information and many of their techniques were quite odd and unexpected, depending on calculations that weren’t common in “human generated” encryption.
+
+Ultimately the researchers found that Bob and Alice were good at devising a solid encryption protocol on their own as long as they valued security. Eve, on the other hand, had a heck of a time decrypting their communications. This means robots will be able to talk to each other in ways that we – or other robots – won’t be able to crack. I, for one, welcome our robotic cryptographic overlords.

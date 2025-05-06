@@ -1,0 +1,17 @@
+Tumblr brings Apple’s Live Photos to the web
+
+Tumblrtoday isbringing Live Photos to the webversion of its service, while also rolling outtoolsthat will allow other web developers to do the same. The company has released an open source JavaScript library it calls “Laphs” — or Live Anywhere Photos — which lets you support Live Photos on any website. To activate a Live Photo on the web, you use a click-and-hold instead of a hard press, as on mobile.
+
+Apple’s Live Photos, a file format introduced with the iPhone 6s and 6s Plus, are the combination of a still image and a short video, which are combined to create a unique playback experience. To make this work on the web, Tumblr receives a copy of both the still image (.jpeg) and the video (.mov) after a user posts a Live Photo from their iOS device. It transcodes the .mov file to a .mp4 to make it work properly on all browsers.
+
+Tumblr then uses itsLaphssolution to bring Live Photos to the Tumblr web experience by combining the .jpeg and .mp4 files to recreate the Live Photo playback effect.
+
+Tumblr was already an early adopter of Live Photos, which appear still until pressed, using the iPhone’s 3D Touch-enabled screen. Then they animate, giving your photosa Harry Potter-like feel.
+
+Because of Live Photos’ similarity to GIFs, which are hugely popular on Tumblr, the blogging site was quick to roll out support for the new format on mobile. In fact, it became the first third-party service to do so — even beatingFacebook by weeksandGoogle Photos by months.It also supports turning Live Photos into GIFs via its GIF Maker feature on mobile.
+
+Now, throughLaphs, Tumblr could potentially drive further adoption of Live Photos even beyond its own site. And the company is working to bring Live Photos to Android, as well, it says.
+
+Live Photos on Tumblr’s site are marked with the Live Photo icon — the familiar concentric circles. This is found at the top left of the image in question.
+
+For example, there’s a Live Photo you cansee here on Tumblr’sannouncementabout the new feature. To view the Live Photo in motion, simply click on it with your mouse and keep pressing down.

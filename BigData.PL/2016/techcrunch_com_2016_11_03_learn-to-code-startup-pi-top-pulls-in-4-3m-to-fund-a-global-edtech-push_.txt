@@ -1,0 +1,45 @@
+Learn to code startup pi-top pulls in $4.3M to fund a global edtech push
+
+London-based computing and learn-to-code startuppi-tophas closed a £3.5million ($4.3M) Series A round of funding, led byHambro Perksand withCommitted Capitalalso participating.
+
+The startup — which began life as a student project in 2014 to3D print a Raspberry-Pi powered laptop, turning into acrowdfundingcampaign for a laptop housing kit for the low cost microprocessor — has now raised more than£4.9M in total, and grown its team from two to 26 in just 18 months.
+
+Pi-top closed a £1.3M seed last December, and also took in more than $410,000 via Indiegogo to fund building its two Pi-powered products: the original pi-top laptop, and the more affordably pricedpi-topCEEDdesktop computer.
+
+Both products shipped to backers, with the latter arriving pretty much on schedule last May — and the original pi-top taking a little longer, but shipping before the end of 2015.
+
+They’ve sold a total of 11,000 pi-tops ($265 + a Pi) and just over 10,000 pi-topCEEDs ($115 + a Pi) to date, according to co-founder Jesse Lozano, with most sold in the last six months as the team has ramped up in size.
+
+As well as the hardware for housing the low cost Raspberry Pi microcomputer, the team makes software designed to make learning to code simpler and more fun for a target age range of roughly 10- to 16-year-olds.
+
+Both devices are therefore firmly targeted at the educational market, although Lozano says they do have “a significant portion” of adults buying the hardware to use it for developing apps or for working on their own electronics hobby projects. “We focus on catering to those who want to learn which more often than not tends to be at the younger ages,” he adds.
+
+The pi-top’s software stack includes pi-topOS, which build on the Raspberry Pi ‘s Raspbian with an easy to use interface, supporting standard computing tasks such as browsing the web, checking emails, creating and editing text documents, and playing games.
+
+The team’s flagship software offerings are its CEEDUniverse learning game and pi-topCODER, which are both aimed at teach coding in a gamified environment — the former being an MMORG but with the game lore integrally linked with coding and practical computing skills.
+
+They claim these tools will have students achieving higher grades in computing and STEM subjects in “three to six months of play”. While the overarching mission for the business is to build a scalable ecosystem for schools across the world to teach computer science and STEM-based subjects more effectively, so enabling teachers and learners to plug into other relevant education resources too.
+
+“2016 has been a fantastic year which has seen Pi-Top products picked up by 16+ retailers and distributors, including some of the largest educational distributors in the world,” Lozano tells TechCrunch. “We have now closed on this larger £3.5 million round in order to expand our team into the U.S. and focus on growing our user base across the education sector.”
+
+For their U.S. push they’re planning to open an office in Texas in 2017.
+
+Expanding into China and India’s education markets is also on the cards, with Pi-Top working with local giant Educomp in the latter market. Other edtech distribution partnerships they’ve secured so far include with BT Education, RS Components, and Adafruit in the US. The pi-top now sells to 70 countries.
+
+They also now have their own purpose-built factory in China — producing more than 5,000 units each month — and are expecting to top more than 75,000 users in 2017. So they’ve scaled up from effectively making units to order, after crowdfunding the product development, to being capable of producing thousands of devices a month having completely rebuilt their assembly point in China to meet demand.
+
+“We are an edtech company at this point and that was largely our intent from the beginning. Although we have a good portion of sales that are retail and consumer facing, being in the DIY and STEM space does mean there is always going to be some cross over,” says Lozano. “I would say though that we do operate very differently from what most people would expect out of an education company.
+
+“We are an engineer heavy team that creates every aspect of our products except for the Raspberry Pi and we own our supply chain 100% (my co-founder Ryan has now lived at our assembly point in Shenzhen for over a year taking lead on this aspect of pi-top), we even designed our own freight boxes to reduce shipping damage to an absolute minimum. Every aspect of what we do is engineered to work together to provide a great quality product at industry beating affordability.”
+
+“This approach has allowed us to completely redefine what affordable means in STEM education, pi-topCEED is just $149.99, it’s well below the cost of any comparable device on the market,” he adds.
+
+Lozano says the more expensive pi-top is proving particular popular for home and code club use, thanks to a 10+ hour battery life. While the lower priced pi-topCEED is selling well to schools and organisations looking for “a great low cost computer”.
+
+“With it’s 14″ HD screen pi-topCEED is actually half the cost of your average school computer setup and underneath of all our curriculum mapped STEM content it is a great little desktop that can be used just like a normal school computer,” he adds. “The special part of both devices though is the ability to upgrade them whenever a new Raspberry Pi is released, this gives our laptops and desktops incredibly long use cycles whilst staying on the front of the technology wave at literally never before seen prices.”
+
+One competitor in the learn to code Pi-powered hardware space is the (also) London-basedKano— but the equivalent Kano product (with keyboard and screen) costs $300 or more. So you can see why resource-strapped schools and code clubs would be eyeing pi-tops with interest.
+
+More than 500 schools are using pi-tops at this point, according to Lozano, with “thousands” of students providing feedback on the CEEDUniverse game — which is still in beta at this point (and requires pi-top hardware to run it).
+
+[youtube=https://www.youtube.com/watch?v=dbOxTFAsA0w&w=853&h=480]

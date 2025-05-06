@@ -1,0 +1,17 @@
+Facebook open sources Zstandard compression algorithm and MyRocks storage engine
+
+Today, Facebook is releasing its Zstandard compression algorithm into the wild as open source. The lossless compression technology is aimed at replacing existing libraries likezlibthat are powered by the outdatedDeflate compression algorithm. In addition to Zstandard, Facebook is also dropping its MyRocks storage engine as open source. MyRocks is currently being used by Facebook to improve the storage efficiency of its MySQL databases.
+
+Both releases occurred in coordination withFacebook’s @Scale conferencein San Jose. The conference supports engineers working to solve large-scale engineering challenges by bringing them together, side-by-side, with other companies in the industry dedicated to increasing the prevalence of open-source technology. Both Zstandard and MyRocks will enable developers to build platforms that can efficiently scale to large and diverse user bases.
+
+One of the greatest fears of engineers looking to update and replace critical infrastructure is that the new libraries could bring an entire service down. Jay Parikh, vice president of infrastructure engineering at Facebook, is proud of the fact that both Zstandard and MyRocks were tested at scale across the company before being released to the community.
+
+“Everyone here uses all of the products,” added Parikh.
+
+In the six months that Facebook has been testing Zstandard, the company noted impressive results. With the same compression ratio of zlib, Zstandard was five times faster. In a case where the compression time was held constant, files were 10 percent smaller.
+
+MyRocks has also produced some serious storage efficiencies. When compared to compressed InnoDB, MyRocks was able to store the same amount of data on half the server space.
+
+“Making it open source makes the community better,” added Parikh. “It will be adopted more quickly as open source than had if was created as the proprietary technology of a single company.”
+
+Facebook hopes that their open source solutions can become new industry standards.

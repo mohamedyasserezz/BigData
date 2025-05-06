@@ -1,0 +1,69 @@
+Looking beyond the hype at fintech in Southeast Asia
+
+From the offices of Venture Capital firms to the financial services districts, you may not be able to escape the promising whispers of fintech startups. Take a structural shift to mobile, an ever decreasing cost of computing power, the availability of lots of (big!) data, mix in one part artificial intelligence, one part distributed ledgers and we have the perfect recipe for how technology will change the face of banking and insurance forever.
+
+Jokes aside, in certain areas, the unbundling of financial services is truly underway. Regulatory change, a deep customer mistrust, and a seriously out of tune with reality technology stack and physical infrastructure all contribute to the opportunity to build exciting new companies in Financial Services.
+
+As a result, venture capital funding for fintech has rapidly expanded.According to KPMG and CB Insights, a total of $5.7 billion was invested in fintech in the first quarter of 2016 alone. While companies in China and the U.S. receive most of this funding, Southeast Asia fintech investment has increased significantly as well.
+
+Singapore, withits Smart Nation initiative, rightly believes investment in technology is a necessary condition to thrive. It has announced aSmart Financial Centre, which includes the $225 million Financial Sector Technology and Innovation (“FSTI”) scheme anda regulatory sandbox environmentto enable market entry for startups. Malaysia in 2015 was the first ASEAN country to issuea regulatory frameworkfor equity crowdfunding, followed by marketplace lending, and Indonesia is issuingnew credit bureau licencesto improve centralized credit data collection and availability.
+
+Indeed it looks like fintech in Southeast Asia is thriving. In the last 18 months, Southeast Asian fintech startups took a combined $345 million of funding.
+
+So, all is good, end of story? Let’s take a look at the data and examine the state of VC-backed fintech investment in Singapore and Southeast Asia.
+
+Part I: Fintech funding as a percentage of total Venture Capital funding in the region
+
+In 2015 and the first half of 2016, a total of $3 billion was invested in startups in Southeast Asia. As recent as 2011, total VC funding for all of Southeast Asia was less than $200 million. For analysis purposes, we take out all companies that raised in excess of $100 million, who account for $1.41 billion, almost half of all VC funding in Southeast Asia. But that is a different story, back to fintech.
+
+Taking out these large investments in companies such as Grab, there was $1.5 billion of VC funding left. Of this, $345 million went to fintech. This is an incredible 21.6 percent of all funding excluding the outliers.
+
+Wait, what? Did fintech really take almost a quarter of all VC funding in Southeast Asia?
+
+Figure 1: Overall VC funding in Southeast Asia, 2015
+
+Source: Dymon Asia Capital, Tech in Asia, DMP, PwC, Dealstreet Asia
+
+A closer look at fintech funding by sub sector
+
+We analyse all fintech VC investments in Southeast Asia in excess of $1 million in 2015 and H1 2016. Altogether, we count 59 funding rounds over $1 million for a total of $345 million. Believe it or not, that’s what we call Series A here.
+
+Next, we allocate each round of funding to one of six categories; credit, asset & wealth, insurance, payments, lead generation, and blockchain. As shown in Figure 2, payments and lead generation account for 78 percent of all fintech VC funding in 2015 and H1 2016. The remaining $75 million was invested in credit, asset management, wealth management, insurance and blockchain companies.
+
+What might explain this large skewness toward payments and lead generation?
+
+Barriers to entry differ per sector. We view fintech opportunities through the lens of three core arbitrages: regulatory, information, and trust. For example, in order to take customer deposits, a fintech company needs to be regulated, private banking customers only entrust their wealth and information to those they trust, and loan underwriting requires access to information that enables underwriters to assess borrowers’ capacity and propensity to repay. This both explains the high barriers to entry in these areas, and the resulting lower funding levels.
+
+Likewise, payment and lead generation have their own sets of barriers and require a different set of skills. As payments supports the growth of e-commerce and lead generation is an e-commerce-like service offered to financial institutions, investment in these areas tends to be dominated by venture firms with expertise in areas such as e-commerce and ad-tech. There are many more such funds, and they are typically larger in size than fintech funds, explaining the higher levels of funding.
+
+Payments and lead generation investment activity also started a few years earlier, as far back as the early 2000’s in Southeast Asia. Larger Series B and C rounds in this space further skew the results. We expect the less invested sectors to catch up in the next 12-36 months.
+
+Payments and lead generation:CompareAsiaGroup(lead generation) raised $40 million, which is more than was raised in credit, blockchain, and insurance combined. Ruma raised a significant round of funding build out its O2O network for payments and other over the counter services in Indonesia, and there are various companies building B2B cross-border payment solutions such as Instarem, which recently raised a $5 million Series A. Jirnexu raised $3 million to build out XpressApply, a SaaS fulfilment as a service platform for banks and insurers to manage the entire flow from lead to on-boarding.Cashshieldoffers a fraud protection solution for merchants.
+
+Figure 2: Fintech Funding in Southeast Asia by Sector 2015 – 2016H1
+
+Source: Dymon Asia Ventures internal deal flow data
+
+Credit:Marketplace and other online direct lending is nascent across Singapore and Southeast Asia. All structural drivers are in place (we look at availability of alternative data, scalability and cost efficiency of underwriting process, ability to offer a better user experience, a conducive regulatory environment, and liquidity from the lender perspective). Despite this, less than 0.1 percent of all loans are originated through fintech startups. This contrasts with over 10 percent in China, and two to three percent in the U.S. and U.K..
+
+The addressable market in Southeast Asia is over $1 trillion in loans, and there are interesting companies getting built; some choose to go into credit scoring as a service (Lenddo,TrustingSocial). Some choose to build plain vanilla marketplaces in the largest consumer markets (FundingSocieties, throughModalku), and others focus on more niche opportunities, such asCapital Match, the leading domestic factoring marketplace in Singapore (a $36 billion annual market) andProvider, which offers a solution for cross-border migrant financing. Some of the challenges in this space include a patchwork of regulations across markets, a lack of centralized or bureau credit data, a challenging collection process, and, depending on where you are, various degrees of legal recourse. These challenges mirror those in China, and we expect the market to develop along similar lines.
+
+Asset and wealth:In most markets in Southeast Asia, innovation in asset and wealth is mainly focused on retail brokerage. Singapore is an exception, and there are a wide range of interesting companies solving big, mostly B2B, problems. FX is an obvious investment area, as Singapore is one of the largest FX hubs in the world and yet almost all FX trades still are cleared on trading venues in London and Tokyo. We are building a company to provide a solution here calledSpark Systems.
+
+There are a number of interesting marketplaces, such asSmartKarma, which changes the way market participants create, distribute, and consume investment insights. WeConvene offers a marketplace that connects buy-side, sell-side, and corporates for all things corporate access. Mesitis, through its account aggregation and visualization tool Canopy, helps private bank customers get a complete view of their wealth.4xLabsbuilds software for moneychangers, as hundreds of billions of dollars a year of physical FX transactions go through moneychangers every year virtually without any technology.
+
+Insurance:By far the sector that has attracted the least investment to date.MyDocbrings together doctors, patients, employers, and insurers through its healthcare communications platform. CXA has built an interesting wellness and flexible benefits solution on top of a traditional brokerage platform.Medipayin Indonesia provides APIs that connect medical service providers with insurers. The company facilitate insurance claims, authorization and payments.Claimdifacilitates communication between policyholders and their insurance providers.
+
+Other areas of interest are micro-insurance and other direct to consumer insurance platforms. On the claims and underwriting side, there is little entrepreneurial activity to date that we know of.
+
+Blockchain:In Southeast Asia, we are seeing an increasing number of startups both on the currency as well as smart contract side of blockchain.Coins.PHvertically integrates a cryptocurrency exchange with consumer banking solutions in the Philippines.Otonomoslets you form, fund and govern your company on the ethereum blockchain, offering a digital dashboard to manage your cap table, governance, and soon accounting, payments and analytics.
+
+Clearly Southeast Asia fintech is an early stage market. Ticket sizes are typically $0.5 – $3 million, valuations tend to be reasonable and as funding really wasn’t there until recently, most entrepreneurs have grown up with a sense that cash flows and profitability are necessary conditions for survival. As one famous Chinese fintech entrepreneur told us recently over breakfast: “You can have the nicest mobile app in the world with the best UX and UI, but if you are not solving a real problem, well, you will go out of business sooner or later.” In short, without the ‘fin’, there is no ‘tech’.
+
+For the rest of 2016 we expect increasing investment activity across all of fintech, and are especially excited about opportunities in asset & wealth, credit, insurance, and blockchain, where we continue to see more investable opportunities then there are venture funds willing to back them.
+
+In November, there is the inauguralSingapore FinTech Festival, a five-day event that “brings together the global financial community in a week-long celebration of fintech”, hosted by the MAS. Perhaps that is a good time to take stock again of the state of fintech in Southeast Asia, to take a look at who are the backers of fintech companies in this region, and also examine why so many Chinese entrepreneurs and investors are passing through Singapore recently.
+
+Disclaimer: Dymon Asia Ventures is an investor in Capital Match, Spark Systems, Otonomos, 4xLabs, and WeConvene.
+
+With thanks to Dmitry Levit and Ada Yeo at DMP for thoughts on our Southeast Asia VC funding statistics and Joshia Kwa for helping organize the data for this article.

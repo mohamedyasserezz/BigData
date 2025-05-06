@@ -1,0 +1,21 @@
+WalmartLabs open sources the application platform that powers Walmart.com
+
+Walmart probably isn’t the first company that comes to mind when you think about open-source software (or the second or third, really), butWalmartLabs, Walmart’s innovation-focused tech division, has already launched a number ofopen-source projectsinto the wild. The most interesting of these so far wasOneOps, its DevOps platform, but today it is launching a similarly ambitious project.
+
+Over the course of the last year,Walmart.com— a site that handles 80 million monthly visitors and offers 15 million items for sale — migrated to React and Node.js. In the process of this transition, the WalmartLabs team builtElectrode, a React-based application platform to power Walmart.com. It’s nowopen sourcing this platform.
+
+Electrode provides developers with boilerplate code to build universal React apps that consist of a number of standalone modules that developers can choose to add more functionality to their Node apps. These include a tool for managing the configuration of Node.js apps, for example, as well as a React component that helps you renderabove-the-fold contentfaster.
+
+The team tells me it had a number of specific goals for this project and the hope is that this project can help other organizations solve some of their challenges, too. Electrode is meant to help internal developers get applications to market faster and help them stick to a consistent structure that follows the best practices the company developed for its own teams.
+
+“Electrode has improved performance of our apps and increased developer productivity, among other things,”Alex Grigoryan, the director of engineering ofWalmartLabs, told me. “By open sourcing Electrode, we’re encouraging the OS community to help make it better — for us, and other developers who will use it.”
+
+The team decided to make the platform as modular as it could. This meant splitting it into three parts, for example (core, modules and tools). All of these parts can be used independently of each other.
+
+At Walmart, Electrode is currently being used to run Walmart.com, but the team is also working on bringing SamsClub.com and other properties to the new platform. The team started working on Electrode around December of last year. Grigoryan noted that while the project itself is clearly still young, “it’s important to realize that the platform integrates lots of open-source projects. We couldn’t have realized what we did without the help of the open-source community.”
+
+Before Walmart moved to Electrode, the company mostly usedThorax(a Backbone and Handlebars framework) and Java.
+
+Electrode joins about 140 other open-source projects from Walmart — a number that goes to show that every company is now a software company and that even seemingly conservative enterprises like Walmart have woken up to the idea of open source.
+
+“We consume and contribute tons of open source, so it’s important for us to give back whenever possible,” Grigoryan said. “Electrode has improved performance of our apps and increased developer productivity, among other things. By open sourcing Electrode, we’re encouraging the OS community to help make it better — for us, and other developers who will use it.”

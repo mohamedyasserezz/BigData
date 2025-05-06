@@ -1,0 +1,19 @@
+Intel shows off mystery depth-sensing virtual reality accessory
+
+An Intel engineer just tweeted out a photo of a new VR sensor prototype and suggested that VR would play a large role in the company’s developer conference late this month.
+
+In the since-deleted tweet,DimitriDiakopoulos, a senior prototyping engineer at Intel, showed off what he referred to as a depth-sensing prototype attachment for the HTC Vive.
+
+At least visually, the sensor seems somewhat similar to the designs of previous Intel RealSensedeveloper kitsthat’s symmetrically designed with six sensors tracking the area in front of the headset.
+
+In a conversation withUpload VR, Diakopoulos referenced possible use cases for the mystery device which was designed specifically for the HTC Vive virtual reality headset.
+
+He told us an accessory like this could track hand movement as well as IR-tracked controllers. The system could also scan the environment in real-time. This opens up the potential to detect obstacles automatically.
+
+Depth-sensing as a tool for not running into things while in VR is interesting. The HTC Vive already has a small camera built into the headset which outlines objects in your immediate vicinity as a semi-transparent 2D image, but a sensor like this could theoretically allow you to have a more AR-like experience with the headset.
+
+The other clear use case would be tracking as a means of input. Leap Motion already has a developer kit out there which helps devs mount their sensor to the Vive and track user hand movement. It’s pretty great but there are some limitations with the scope of capture which works best when the hands are generally positioned right in front of the user.
+
+We haven’t seen a ton of an emphasis on VR/AR tech from Intel outside of a few RealSense developer kits so it’s interesting to see the company working directly with integrating their sensors onto consumer head-mounted displays.
+
+Intel was not immediately available for comment.

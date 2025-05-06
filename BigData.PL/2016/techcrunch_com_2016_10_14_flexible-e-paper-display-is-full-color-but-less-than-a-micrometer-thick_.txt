@@ -1,0 +1,23 @@
+Flexible e-paper display is full color but less than a micrometer thick
+
+Reflective displays like those found on e-readers are great for black-and-white text, but color has yet to make a compelling play on them. That may change with the serendipitous discovery of a full-color e-paper material that’s also flexible and power-efficient.
+
+Andreas Dahlin and grad student Kunli Xiong, of Chalmers University of Technology in Sweden, created the material while investigating combining conductive polymers with nanostructures. The tiny cells — plasmonic metasurfaces, you know — can be turned on and off with a tiny change in voltage, like an LCD subpixel. But like other reflective displays (and indeed regular paper), it doesn’t actually emit any light.
+
+“It isn’t lit up like a standard display, but rather reflects the external light which illuminates it,” explained Dahlin in anews release. “Therefore it works very well where there is bright light, such as out in the sun, in contrast to standard LED displays that work best in darkness.”
+
+By changing the makeup of the…plasmonic metasurface, the color it reflects can be adjusted, and so by putting them in formation — red, green, and blue — the display can produce the usual variety of in-between colors.
+
+Previous color e-paper displays have generally had a sort of washed-out look, and it’s hard to say whether this technology would avoid that trap. Dahlin is aware of it, however, and said they’re working on achieving the deepest colors they can.
+
+The refresh rate would only be a few times per second, but the resolution is potentially far greater than either LCD or existing e-paper.
+
+“We have not tested the resolution limit but it would definitely be high enough for any display, perhaps a few micrometers per pixel (10^4 dpi), which is much smaller than the human eye can resolve,” Dahlin told TechCrunch in an email. For reference, 10 to the 4th or 10,000 DPI is about an order of magnitude higher than an iPhone display (if my math is right, which is a big if).
+
+Of course, that doesn’t mean much if they can’t actually manufacture it — and that’s where a two-person team isn’t sufficient.
+
+“We are working at a fundamental level,” said Dahlin, “but even so, the step to manufacturing a product out of it shouldn’t be too far away. What we need now are engineers.”
+
+The material also uses gold and silver in its composition right now, which is obviously something you want to avoid to keep costs down in mass manufacturing.
+
+It’s the kind of think a company like E-Ink would love to get its hands on; this type of low-draw, high-color display is great for signage if it’s cheap enough, and for e-readers if it’s still a bit expensive. With luck we’ll have Dahlin’s displays in our hands in a few years. The pair’s research is published in the journalAdvanced Materials.

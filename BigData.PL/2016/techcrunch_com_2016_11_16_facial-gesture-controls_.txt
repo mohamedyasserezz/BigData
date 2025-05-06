@@ -1,0 +1,27 @@
+Like by smiling? Facebook acquires emotion detection startup FacioMetrics
+
+Facebook could one day build facial gesture controls for its app thanks to the acquisition of a Carnegie Mellon University spinoff company calledFacioMetrics. The startup made an app called IntraFace that could detect seven different emotions in people’s faces, but it’s been removed from the app stores.
+
+The acquisition aligns with a surprising nugget of information Facebook slipped into a 32-bullet point briefing sent to TechCrunch this month. Regarding its plans for applying its artificial intelligence research, Facebook wrote (emphasis mine):
+
+“Future applications of deep learning platform on mobile: Gesture-based controls, recognize facial expressions and perform related actions“
+
+It’s not hard to imagine Facebook one day employing FacioMetrics’ tech and its own AI to let you add a Like or one of its Wow/Haha/Angry/Sad emoji reactions by showing that emotion with your face.
+
+That’s probably a long way off, though.
+
+For now, Facebook tells me it will use FacioMetrics to enhance its Snapchat selfie Lens-style augmented reality face masks that are making their way into itsvideosandLive broadcasts:
+
+“How people share and communicate is changing and things like masks and other effects allow people to express themselves in fun and creative ways. We’re excited to welcome the Faciometrics team who will help bring more fun effects to photos and videos and build even more engaging sharing experiences on Facebook.”
+
+There are already some Facebook and Snapchat selfie masks that react to you opening your mouth or raising your eyebrows. FacioMetrics’ tech could add tons of new ways to trigger animated effects in your videos.
+
+Facebook is playing catchup to Snapchat in the AR game, and it could use all the talent it can buy. The social giant wouldn’t disclose the price it paid for FacioMetrics, but the startup’s founder Fernando De la Torre, an associate research professor at robots-and-self-driving car college Carnegie Mellon,wrote that:
+
+We started FacioMetrics to respond to the increasing interest and demand for facial image analysis — with all kinds of applications including augmented/virtual reality, animation, audience reaction measurement, and others. We began our research at Carnegie Mellon University developing state-of-the-art computer vision and machine learning algorithms for facial image analysis. Over time, we have successfully developed and integrated this cutting-edge technology into battery-friendly and efficient mobile applications, and also created new applications of this technology.
+
+Now, we’re taking a big step forward by joining the team at Facebook.
+
+The Greensburg Tribune Reviewspotted the acquisition, and reports that De la Torre’s research and app could be used to spot drowsy drivers, automatically analyze focus groups, detect depression and improve avatars in video games. That last part could come in handy, because Facebook’s Oculus division is also working on making life-like avatars that convey emotions via“VR emoji.”For example, shaking your fist in the air inside Oculus would make your avatar’s face turn angry.
+
+If Facebook wants to be the home for all our sentimental social content, teaching computers to understand our emotions could definitely come in handy.

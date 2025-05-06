@@ -1,0 +1,21 @@
+Valve teases next-gen VR hardware
+
+Today at the company’s Steam Dev Days conference, Valve teased a host of announcements related to the company’s efforts on its OpenVR platform, including a new prototype SteamVR controller.
+
+The company, which built most of the underlying VR tech for the HTC Vive, first shared some statistics regarding SteamVR, highlighting that the online store now has over 600 virtual reality titles and is registering 1 thousand new VR users every day. VR gamers can play purchases from the Steam store on both the HTC Vive and Oculus Rift, among other systems.
+
+The news that really excited the audience of developers was that related to the company’s Lighthouse tracking system which the companybegan open-licensingto developers this summer. The tracking system allows devices outfitted with sensors to connect to Valve’s base stations receivers and then, through the magic of lasers, show up as tracked objects in the virtual world.
+
+Valve wants the Lighthouse standard to be as “ubiquitous as wi-fi,” and is thus open-licensing the tech to any dev that want to check it out. As of now, the company says they have 300 hardware partners building Lighthouse-tracked devices.
+
+Valve still wants to lead by example however. The company showed off a controller design at the conference which they said will allow users to drop and pick up virtual objects without letting go of the controller. What that actually means is a bit up in the air, though it seems that would mean the controller is wrist-mounted. We’ll know more soon as the company said it will be letting developers at the conference demo the technology later today.
+
+https://twitter.com/robmerki/status/786264453700472832
+
+The company also implied that they will be unveiling new Lighthouse base stations in 2017, suggesting that next year might welcome a host of new VR hardware products from the company.
+
+History / timeline of Valve's lighthouse tracking developments.#SteamDevDays#vive#VRpic.twitter.com/g9rluFpk8v
+
+— Shawn Whiting (@ShawnRecRoom)October 12, 2016
+
+Not much in the way of details on these devices, but we’ll keep our eyes open for more details.

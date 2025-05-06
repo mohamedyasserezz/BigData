@@ -1,0 +1,43 @@
+Dusk’s new app lets you live stream anonymously
+
+Online anonymity can be a double-edged sword. On the one hand, it can give people a voice when they’d otherwise be afraid to speak up — whether that’s because of fear of government surveillance, discussing a topic that’s known to provoke cyberbullying or because the topic itself is sensitive — like a personal confession or health issue. But anonymity also permits people to be their baser selves, with no fear of repercussions. See, for example, the anonymous trolls on Twitter.
+
+Stepping into this controversial space is a new app calledDusk, which lets you live stream anonymously to its online community, while protecting your identity through pixelated video and voice changed audio.
+
+The end result is something like an anonymous version of Periscope video, or a live video version of the secret-sharing app Whisper.
+
+To useDusk, you don’t need to provide your email or phone number or any other personal information. Instead, you just assign yourself a username and create a PIN code, both of which you can change at any time. Even though there’s no personal data for hackers to steal, Dusk uses end-to-end encryption.
+
+When you go live in Dusk, the app pixelates the video in real time, and it masks your voice so you can’t be identified by your speech.
+
+Of course, the challenge with any social app that permits anonymity is how to deal with abuse. (To be fair, that’s a problem these days on social networks where people use their real names — just read the comments on any political post on Facebook, for example.)
+
+Dusk approaches the problem of trolling in a variety of ways. It utilizes community moderators as well as user-facing reporting tools that allow you to report spammers or those being abusive. Keyword blocking keeps offensive comments from video titles, and any videos that cross the line in terms of content will be manually removed.
+
+You can also mute the trolls, and they’ll never be alerted to the fact that they’ve been muted. And, of course, you can block users, too.
+
+Launching with anti-abuse tools built into the platform can help set the community’s tone, though.
+
+That’s something Twitter learned the hard way. While Twittermay have givenpolitical dissidents under authoritarian regimes a voice at times, just as often, Twitter’s anonymous users abuse and threaten others. Another high-profile anonymous app, Secret,also shut downafter failing to deal with the cyberbullying problem.
+
+How well Dusk will actually be able to clamp down on trolling won’t be known until the app’s audience reaches a certain size. For now, only a handful of early adopters are on board, sharing videos where they discuss things like addiction, depression, relationships, politics and more. So far, most of the commentary I’ve come across has been benign.
+
+In addition to its “live” capabilities, you can also follow other users and watch videos that have been pre-recorded.
+
+Viewing these videos is an interesting experience. There’s really nothing to see except for multi-colored boxes moving around across the screen. But combined with the voice-changed audio, it gives the content an air of secrecy that makes listening to the confessions more compelling.
+
+Interacting with the content feels a lot like Periscope or Facebook Live — you can comment while the video is live, or press to send hearts or sad faces. Users can continue to comment after the video is no longer live, and plans to implement @ mentions are in the works, too.
+
+There are things Dusk could do better, like offering player controls to scroll backwards and forwards, or helping you find and follow users or topics you care about. It could offer the ability to search and filter its database of videos for those focused on specific issues, and it could highlight the most popular videos or those that are trending.
+
+Dusk was built by Kori Handy and Mitchell Porter ofDesign First Apps, who previously built an app for startup pitches, Founderfox and video-filtering appBanana.
+
+As Handy explains, he had the idea for Dusk around nine months ago, after watching how people got into trouble for speaking their mind on social media. But Dusk is not meant to give trolls a platform, he says.
+
+“The point of protecting your identity is not to say mean things and hide; it’s designed to give you the strength to speak up, and express your honest self,” Handy says. The goal, he adds, is to “create real, open dialogs” where people can talk about things without those comments being aligned with larger agendas.
+
+The startup is backed by $400,000 in angel funding, but the team hasn’t planned how it will generate revenue.
+
+“We didn’t really build this app thinking about monetizing, it was more of a social change experiment,” Handy notes.
+
+Dusk is afree download on the iTunes App Store.

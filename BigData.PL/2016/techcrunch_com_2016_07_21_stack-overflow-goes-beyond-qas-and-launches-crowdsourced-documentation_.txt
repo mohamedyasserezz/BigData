@@ -1,0 +1,11 @@
+Stack Overflow goes beyond Q&As and launches crowdsourced documentation
+
+Since its launch in 2008, Stack Overflow has become the go-to community for discussing programming-related questions. Now the service is launching a new product that aims to harness its community to build a repository of peer-reviewed technical documentation.Stack Overflow Documentationwants to be a complement and maybe even a replacement for existing instruction manuals and similar resources.
+
+“Just like we did with Q&A, the goal of Documentation is to solve real-world developer problems,” said Jay Hanlon, Stack Overflow VP, in today’s announcement. “By harnessing the sum total of good programming knowledge in the world, we can create something more useful than any individual or team could on their own.”
+
+The Stack Overflow team tells me that every tag on a Q&A can also be a tag on Documentation. There are currently almost 50,000 tags in use on the site. The team also notes that users will be able to write Documentation for language features and other technologies and products.
+
+The company says the focus of Stack Overflow Documentation will be ongoing beyond definitions and on providing real-world examples. That becomes obvious when you look at how pages are organized. First come the examples and only then info about parameters and syntax, with additional comments at the bottom of the page.
+
+Stack Overflow seeded its Documentation pages during its private beta, which started last fall. It’s worth noting that it’s not importing documentation from other sources but is instead relying on its community to create all of this content from scratch. This worked really well for the company’s Q&A product, which is now almost inevitably ranked at the top of Google’s results when you search for any programming-related question. Chances are, the same will happen with Documentation, too.

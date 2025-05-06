@@ -1,0 +1,65 @@
+UK heading towards era of parliament-approved mass surveillance
+
+A controversial legislative framework that will strengthen and set in stone mass surveillance capabilities in the U.K. — including authorizing state agents to hack devices/services en masse and requiring ISPs to retain a year’s worth of website access logs on all users — looks set to come into force later this year, after the last opportunity to amend the draft passed by yesterday in the U.K.’s upper chamber.
+
+Sorry, we tried very hard but couldn't fix#IPBillon our own.
+
+— Paul Strasburger (@LordStras)November 2, 2016
+
+A small group ofpeersin the House of Lordshad proposed amendmentsto the Investigatory Powers bill (IP bill) aimed at bolstering privacy safeguards and introducing more checks and balances on how surveillance powers can be used. But most attempts to amend the government’s bill were voted down, lacking support from the main opposition Labour party.
+
+Labour peers about to vote AGAIN for your internet history to be recorded & held for 12 months. Disgraceful.
+
+— Paul Strasburger (@LordStras)October 19, 2016
+
+The majority of Labour party peers have rather focused their attention on trying to force the government to enact section 40 of the Crime and Courts Act by adding it as an amendment to the bill. Section 40 is a recommendation of the 2011/2012Levesonenquiry into media ethics, following the phone ‘hacking’ scandal. This has led to the bizarre spectacle of discussion time on the floor of both chambers set aside for the IP bill turning into a debate about press freedom and regulation, rather than focusing on privacy and civil liberties, or indeed national security…
+
+Yesterday's Commons debate on#IPBill(largely focused on attempt to introduce press regulation issues):https://t.co/S9bsQboVjf
+
+— David Anderson (@bricksilk)November 2, 2016
+
+Warman: we can't deal with regulation of press in 90 minute debate on what should be a Bill about security#IPBill
+
+— Ray Corrigan (@raycorrigan)November 1, 2016
+
+Both chambers are now engaged in the back and forth ‘ping pong’ process of considering each others’ amendments to try to reach final agreement on the bill — with a small chance a bill can fail if both houses fail to agree (soperhapsdisagreement on implementing Leveson’s recommendations could stall the bill, although the House of Commons can still force a bill through without Lords consent by using the Parliament Act). But the chance for substantial new amendments to the legislation looks to have passed with little to cheer civil liberties and privacy groups.
+
+https://twitter.com/PhilGlover_UK/status/793859294072537088
+
+https://twitter.com/e3i5/status/788769546480017408
+
+Critics continue to dub the bill a Snooper’s Charter, warning of the disproportionate surveillance capabilities it will enshrine in law — including powers to require a communications service providernot to use end-to-end encryptionin a future service they are developing. Which threatens to undermine trust in tech companies based in the UK.
+
+While a new surveillance capability, so-calledInternet Connection Records(ICRs) — which will require ISPs to harvest and retain details of web services accessed by all users for a full 12 months — has also been attacked as disproportionate and a security risk to UK citizen’s personal data (not to mention acall-to-arms to every UK citizen to use a VPN). Critics have also expressed concern these records will be accessible to police without any external authorization (just internal sign off), meaning law enforcement could use them to conduct fishing expeditions without robust evidence of suspicion.
+
+Another powerful and controversial capability set out in the bill is the euphemistically titled ‘Equipment Interference’ — aka the power for intelligence and law enforcement agents to hack into devices and services to gather data. Intelligence agencies will also be able to perform bulk hacks, including hacking all devices present at a location.
+
+Domestic intelligence agencies will also be able to retain and examine large databases held by public and private institutions.Last monththe oversight court for these agencies found that prior to 2015 they had operated illegally — including by maintaining the same type of large databases of personal information on UK citizens that are set to be authorized by the IP bill. Although the tribunal was not considering proportionality, only process at that point; arguing the operation became legal once the intelligence agencies avowed usage of these so-called bulk personal datasets (BPDs) to parliament.
+
+InApril this yearinternal agency documents obtained by digital rights group Privacy International via a legal challenge revealed that the majority of individuals’ whose data resides in BPDs are “not of direct intelligence interest”. So, in other words, that most of the personal data in these datasets pertains to UK citizens suspected of no crime at all. So once again the UK government is seeking to sanction mass surveillance of citizens as a standardmodus operandifor state agents, instead of requiring intelligence and law enforcement focus on targeted surveillance.
+
+The tribunal will be passing judgement on the proportionality of BPDs in December — albeit likely too late to derail the legislative train pushing the IP bill towards Royal Assent this year.
+
+The type of surveillance in the#IPBillis probably much better suited for social control than catching terrorists…..
+
+— Prof Paul Bernal (@PaulbernalUK)November 2, 2016
+
+Jim Killock, executive director of digital rights organization, the Open Rights Group, argues there have only been minor improvements to the bill during its passage through parliament.
+
+“As a result of parliamentary scrutiny, there have been some very minor improvements to the IP Bill such as ensuring that Judicial Commissioners sign off Data Retention Notices and restrictions on the scale of class warrants for Bulk Personal Datasets that contain sensitive personal information. But overall the powers that will allow the mass surveillance of our private communications have not been restrained by parliamentarians,” he told TechCrunch.
+
+The government has rebutted attempts to criticize the scope of surveillance powers enabled by the legislation by arguing that the bill provides for a “double lock” authorization process for intercept warrants, meaning a senior minister and a judge are both required to sign off on surveillance requests. The legislation also creates a new oversight role for an Investigatory Powers Commissioner: a senior judge, appointed by the Prime Minister, who will audit agencies’ compliance with the legislation and undertake investigations into use of the powers.
+
+However Lord Strasburger, one of the Lib Dem peers who has been most active in opposing the bill, argues the judicial oversight mechanisms it provides are nowhere near as robust a check and balance as the government has claimed.
+
+“It’s not a double lock, more like a 1.25 lock,” he said of the judicial sign off for warrants. “”Double lock” sounds good but is very misleading. It’s the Home Office way.” And he dismissed government’s claims that judges will be able to consider the substance of warrants as false — saying the bill limits judges to reviewing only whether the correct procedure was followed.
+
+“Judge is restricted by judicial review rules meaning only checking process was followed, not that decision was correct,” he said, adding: “Why did the government fight so hard to keep judges limited by judicial review rules. We proposed scrapping it, but no joy.”
+
+Beinginterviewedabout the legislation on BBC Radio 4’s Today program yesterday, the inventor of the world wide web, Sir Tim Berners Lee, also criticized the bill in its current form, calling for a strengthening of accountability provisions.
+
+“Government will tend to always trust itself more than we should trust it. So typically governments will give themselves more power. Right now, for example, making sure that the judge is always in the loop when the police are being given access to personal data is really, really important,” he said.
+
+“It’s very, very important we push to make sure that UK is somewhere where the police and the authorities — powerful though the tools they have are — that they are always held accountable to us the people.”
+
+Asked directly whether he would back the bill “as it is now”, Berners-Lee implied he would not, reiterating: “I feel that it’s really important that we strengthen the accountability provisions.”

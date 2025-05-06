@@ -1,0 +1,27 @@
+Vine founders’ Hype app blends live video into a rich multimedia mix
+
+Does the world need another live video app?Meerkat’s demisemight suggest not, but that hasn’t stopped Vine’s co-founders from screwing their courage to the sticking place and stepping into a highly contested space with the launch of an iOS app called Hype — days afterTwitter announced it would be shuttering their looping video app, apparentlywithout even doing them the courtesy of letting them know.
+
+Hype is going up against the likes of Twitter’s own live video appPeriscope, so perhaps this is personal for the Vine co-founders. Also heavy hitting here:Facebook Live. Meanwhile Facebook-owned Instagram has beenrumoredto be working on a livesteaming launch called Go Insta. Which means it can’t be too long before Snapchat dives into live too. Where one goes, the rest will surely follow.
+
+It’s no accident that there’s effectively zero barrier of entry for creating live video content — just owning a smartphone and having the necessary app/apps on your device is all that’s required — so for content sharing platforms the medium holds out the potential of massive growth. No need to carefully craft a piece of content ahead of time, or have editing skills to piece footage together after the fact; just hit the broadcast button and start streaming.
+
+And so we arrive atHype, the new kid on the live streaming block, which has a few tricks up its sleeve to try to stand out in a very noisy space. Its flagship feature is the ability to share a variety of multimedia content into the live broadcast — so, for example, a streamer using Hype can include cameras or videos from their device’s camera roll, blending their live content with stuff they made earlier.
+
+They can also feature viewer comments in their broadcasts, and add other elements like music and emojis. The background of their broadcast can also be a video. The result can be a visual smorgasbord that harks back the chaotic customization of an Old Skool MySpace page.
+
+Show and tell
+
+What’s the point of this sensory overload? Well, as one savvy commenter on Product Hunt dubbed it, it’s like “Facebook Live for meme culture”. The mixed media approach allows for content sharing within a live stream, blending different types of communication and resulting in broadcasts where the live video can be just one element within a rich mix. (The app supports different shapes for housing video so a live talking head might appear as a small circle on the screen, or within a square or even triangular window.)
+
+Most obviously Hype supports a show and tell format. So, for example, a user could start a live broadcast to comment on another previously videoed event, like a computer game or sports event. Or they could start a guessing game with their viewers — playing them songs or showing video clips or photos and asking them to identify what it is. There’s a rich range of potential entertainment interactions via the supported content mix.
+
+On the feedback front, viewers can send comments to interact directly and specifically with broadcasters. They can also tap on individual visual elements to indicate general approval — this creates a border of colored stars around items which Hype calls sparkles (similar toPeriscope’s effervescing hearts). Live broadcasts on Hype keep a running tally of sparkles and also the number of viewers. The app also supports replays after the fact. And users can sign in with Twitter or Facebook if they want to push their broadcasts out to their social media networks.
+
+Right now, there’s not a whole lot of content on Hype as you’d expect (no one was live at the time when I looked in) — with the app only being debutedon Product Hunton Thursday, and initially being invite only (via a code) — although it has now been opened up for general download on the App Store. An Android app is slated to “soon follow”, according to co-founder Colin Kroll.
+
+At this early point the quality of what you can see is best described as ‘experimental’, as testers grapple with how to use it, and whether they like it enough to give it more than a five-minute once over.
+
+Some content examples I saw when testing the app included grainy Halloween party videos; a game reviewer show called Game Guru; a guy driving his car listening to 80s music; a guy soliciting 20,000 sparkles to shave his mustache; a phrase guessing game using emojis as the clues (actually a format created by Hype — which was offering free pizza as a prize); a music band jamming; and a dancing fat man twirling around in only his underpants…
+
+Another thing worth noting is that Facebook Live has been opened to outside developers via anAPI— which should encourage growth of more experimental types of live streaming content on that mainstream social platform. For example, last week art filter appPrisma demoed real-time style transfer filterson a broadcast via Facebook Live. AndFacebook is also preparing to add its own style filters to the Live tool-set. So live streaming generally looks set to get increasingly customizable and controllable.

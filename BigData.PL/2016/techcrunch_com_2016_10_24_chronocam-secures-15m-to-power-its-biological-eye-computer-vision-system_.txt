@@ -1,0 +1,17 @@
+Chronocam secures $15M to power its ‘biological eye’ computer vision system
+
+Not everything in our field of view at any given time is all that interesting; often, it’s only when something consistent changes that our eyes take notice.
+
+Paris-basedChronocamis looking to further develop this concept in the computer vision space with its new camera technology being optimized for autonomous vehicles.
+
+Today, Chronocam announced that it has picked up $15 million in a Series B funding round led byIntel Capital. Robert Bosch Venture Capital, iBionex, GmbH, 360 Capital, CEAi and Renault Group also participated in the round. The company had previously raised an $850,000 seed round.
+
+Computer vision is a space where Intel is continuing to make significant moves. Intelannouncedlast month that it is acquiring computer vision VPU-maker Movidius, which has become popular largely for how well it does low-power on-device processing. The company’s RealSense team has also done quite a bit of work in building sensors for autonomous cars, drones and virtual reality systems.
+
+Computer vision companies are increasingly looking to take image processing back from the cloud and get everything happening on-device so that the data can be interpreted as quickly as possible. Chronocam is particularly great for this on-device processing because its systems grab nearly 20 times less data than a standard camera system.
+
+The camera works by analyzing the captured image on a pixel-by-pixel basis. Most of the static information captured on devices isn’t really important until something changes. For autonomous cars, knowing everything about the scope, brightness and color of the sky isn’t important until there’s a sudden storm and hail is dropping out of the sky.
+
+“Conventional computer vision approaches are not well-suited to the requirements of a new generation of vision-enabled systems,” said Luca Verre, CEO and co-founder of Chronocam, in a statement. “For example, autonomous vehicles require faster sensing systems which can operate in a wider variety of ambient conditions. In the IoT segment, power budgets, bandwidth requirements and integration within sensor networks make today’s vision technologies impractical and ineffective.”
+
+Chronocam plans to package this computer vision technology into a full end-to-end system, which it hopes to ship next year.

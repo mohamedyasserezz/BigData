@@ -1,0 +1,41 @@
+DeepMind partners with NHS eye hospital to conduct AI research
+
+Google-owned DeepMind has expanded its collaboration with the UK’s National Health Service (NHS), announcing a research partnership today with Moorfields Eye Hospital NHS Foundation Trust in London — its second publicly confirmed foray into working with the NHS.
+
+But this time the project is being explicitly badged as medical research, and DeepMindwillbe applying AI machine learning algorithms to the data — so that’s also a first. Although the company has been public about itsambitions to apply AI to health databefore now.
+
+The Moorfields partnership is focused on two specific sight-loss causing conditions: diabetic retinopathy and age-related macular degeneration (AMD), which DeepMind notes collectively affect more than 625,000 people in the UK and more than 100 million people worldwide.
+
+The stated aim is to investigate whether machine learning algorithms can automate the analysis of the digital eye scans that are typically used to diagnose the two conditions.
+
+“These scans are highly complex and take a long time for eye health professionals to analyze, which can have an impact on how quickly they can meet patients to discuss diagnosis and treatment. And to date, traditional computer analysis tools have been unable to explore them fully,” it writes on theDeepMind Health website.
+
+The company is getting access to a set of one million anonymized eye scans as part of the research partnership, as well as what it describes as “some related anonymous information about eye condition and disease management”.
+
+It further notes this data has “been collected over time through routine care”, going on to assert: “This means it’s not possible to identify any individual patients from the scans. And they’re also historic scans, meaning that while the results of our research may be used to improve future care, they won’t affect the care any patient receives today.”
+
+Using anonymized patient data and steering away from any direct patient care application reduces the information governance/ethical approvals DeepMind and its partner NHS Trust need to obtain in order to work with public healthcare data in this instance.
+
+But it’s a stark contrast to DeepMind’s first NHS collaboration. That project, announced back in February with the Royal Free NHS Trust in London — initially focused on an app for improving the early detection of Acute Kidney Injury (AKI) —attracted controversy and criticismafter the full scope of the data-sharing agreement was revealed.
+
+In that case DeepMind has been given access to a very large amount of patient identifiable data — i.e. non-anonymized patient data — from across the Royal Free Trust’s three hospitals, as well as historical data on inpatients going back five years. And critics question why DeepMind needs access to so many people’s medical records for an app that will only potentially benefit a sub-set of individuals who do develop AKI while under the Trust’s care.
+
+Patient consent to sharing data for the AKI project was not sought by DeepMind and the Royal Free, and under NHS guidelines consent to share patient identifiable data can only be implied (i.e. not explicitly gained) if there is a direct care relationship with the patient whose data is being shared.
+
+DeepMind’s Royal Free collaboration has since led to an ICO investigation after the watchdog received data protection-related complaints pertaining to the project. And to after-the-fact discussions with the medical devices regulator about whether or not the app should be registered as a medical device after the regulator was not contacted prior to tests of the app taking place.
+
+Throughout this controversy DeepMind and the Royal Free have continued to maintain they have followed all NHS information governance guidelines — asserting that the AKI app is for direct patient care, not research, and therefore that they did not need to obtain patient consent for using the data. (Although, aspreviously noted, the NHS Caldicott framework does suggest that providing services to a group of patients with a particular condition would be categorized as ‘indirect care’, rather than direct care.)
+
+Now, with its latest NHS collaboration with Moorfields — which is being explicitly described as a research partnership — DeepMind is not taking any patient identifiable data. So it’s sidestepping an immediate repeat controversy.
+
+And the company does appear to have learnt some lessons about due process for handling sensitive public healthcare data. It’s not quitemea culpabut in a Medium post today DeepMind co-founder Mustafa Suleyman, who has spearheaded its push into the health sector, references the AKI project — and goes on to write (emphasis mine):
+
+Whether we’re helping clinicians provide day to day patient care with mobile apps or making breakthroughs in medical research, work in health requires data.Treating this data with respect really matters.There are different authorities that give different types of approvals and oversight for NHS data use:HSCIC,HRA,MHRA,ICO,Caldicott Guardians, and many, many more. We’re committed to working with all these groups, and making sure with their help that we get it right.
+
+In this work, we know that we’re held to the highest level of scrutiny. DeepMind operates autonomously from Google, and we’ve beenclear from the outsetthat at no stage will patient data ever be linked or associated with Google accounts, products or services. We’ve also asked a group of respected public figures to act asIndependent Reviewers, to examine our work and publish their findings. We want to earn public trust for this work, and we don’t take that for granted.
+
+DeepMind has also immediately linked to adetailed description of the research project, and says it has submitted its research protocol for open peer review — and will be submitting “any results from this research to peer-reviewed journals, as is normal, so others in the medical community can analyse them”.
+
+It is less clear, however,whether DeepMind will be sharing the AI models it trainsoff of this cache of public healthcare data.
+
+“It’s early days for this work, but we’re optimistic about the long-term potential for machine learning technology to help eye health professionals diagnose and treat other diseases that, like macular degeneration, affect the lives of millions of people across the world. It’s a hugely exciting opportunity to make a difference to the NHS and its patients, and we’ll keep you updated as we continue on this journey,” DeepMind adds.

@@ -1,0 +1,17 @@
+This smart sock adds sensations to prosthetic limbs
+
+The future of prosthetics is fast arriving, with 3D-printed construction, advanced materials and embedded sensors replacing the unadorned wood and plastic of yore. But like the rest of the future, it’s not equally distributed. In order to bridge the gap for users who can’t afford or get at these fancy new prostheses, Austrian researchers propose smartening up dumb prosthetics with sensor-packed garments.
+
+The proCover, from the University of Applied Sciences in Linz, waspresentedat the Association for Computing Machinery’s UIST conference, where it was selected as one of the best papers.
+
+“The design and construction of prostheses that can emulate a natural sense of touch is of growing research interest,” reads the paper’s introduction. “However, many of the exciting innovations in this field will likely remain out of reach for most people… Our vision is to introduce a low-cost sensing wearable that can be applied retroactively to prosthetics to address this gap.”
+
+Their solution lies in the fact that many users of prostheses put socks on them just like any ordinary foot. Why not make this sock out of smart fabric? So that’s just what they did. Layers of conductive fabric sandwich a piezoresistive layer, creating a pressure-sensitive grid covering the entire foot and ankle.
+
+This was in turn connected to a ring of vibrating motors that can be worn wherever the user finds convenient. Pressure on a certain part of the foot would cause certain motors to vibrate at different frequencies. The researchers also tested a version that transmitted the angle at which a prosthetic knee is bent.
+
+It’s a flexible (in many ways) and low-cost way to sense the pressure and position, and the non-invasive feedback mechanism means no surgery is necessary.
+
+Initial testing of the prototype with several participating amputees showed that the device worked and provided fundamentally useful feedback, but could do with more customization. Fortunately, it’s easy to adjust things like position and intensity of feedback, or swap out the motors for something else, like one that applies increasing pressure rather than vibrations.
+
+Next for the team is reducing the complexity of the sock even further, and developing a glove version that can be worn on prosthetic hands.

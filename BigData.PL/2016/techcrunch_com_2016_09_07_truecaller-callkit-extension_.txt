@@ -1,0 +1,21 @@
+Truecaller beefs up its spam call detection thanks to Apple’s CallKit Extension in iOS 10
+
+Back in August, the FCC rounded up the biggest names in telecom to crack down on the nuisance that is spam calling and other unwanted communications. Today, Apple just took a big step tohelping with that crackdownafter it unveiled the CallKit Extension in iOS 10 which gives third-party apps greater access to its call management system.
+
+One company that is immediately benefitting from the extension — which provides API-level access — is Truecaller, which is updating its iOS app with a load more spam-beating features.
+
+Truecaller offers a broad array of spam detection and social features for your phonebook but, since Apple keeps much of iOS system walled away from third-parties, the Truecaller iOS app has to date been more reserved than its Android incarnation.
+
+Now, however, it has gotten a major CallKit-powered upgrade that the company said will detect even more unwanted communication, meaning iPhone owners waste less time dealing with unsolicited calls.
+
+“Working closely with Apple over the past few months, we’re proud to bring a call solution to your iPhone to provide safe and authentic communication,” Tom Hsieh, VP of partnerships and growth at Truecaller, said in a statement.
+
+“In our early testing, we’ve seen spam detection rates on iPhone increase by more than 50 percent in some markets, reaching upwards of 90 percent of all spam calls made to our users… we fully expect these rates to continue improving for the benefit of our users,” Hsieh added.
+
+Truecaller, whichwe recently reported has 90 million monthly users, gave its iOS appa fairly major updatelast month, but it has operated as a fairly passive app to date. That’s to say that it screens calls in the background without needing to be opened.
+
+That said, the iOS app also got Truecaller’s business directory as of today which means that if, say, KFC calls your phone, it will show up as “KFC.” Still though, the iOS version of Truecaller does lack some neat features — it will only surface the caller ID (name) of non-business users who also use the Truecaller app. On Android, however, any name from the database is shown when a call is incoming.
+
+Truecaller is rivaled by apps from Google, Facebook and others on Android. It’ll be interesting to see if other competitors come to iOS now that Apple has taken a step forward with CallKit.
+
+Truecaller, which counts half of its userbase in India, said its users now block over 400 million spam calls per month. Together, its apps have been downloaded over 250 million times.

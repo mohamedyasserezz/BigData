@@ -1,0 +1,19 @@
+Visbit nabs $3.2M to bring users high-quality 360 video streaming without hogging data
+
+Virtual reality is a revolution with a lot of moving parts. Sure, it’s a renaissance for PC component manufacturers that once again need to push the limits on hardware, but it’s also pushing ISPs to better serve users with better download speeds so that they can enjoy VR content.
+
+There’s still a long way to go, but to make up the gap for the meantime and ensure that a few VR videos aren’t eating up your entire data plan, a startup calledVisbitis building a solution to stream high quality 360 video to users on slow internet connections.
+
+The Sunnyvale, CA-based team just closed $3.2M in seed funding from Presence Capital, ZhenFund, Colopl Next, Amino Capital, and Eversunny Limited. The mixture of American and Chinese investors reflect the international ambitions of the company.
+
+Visbit is using these funds to accelerate their rollout of their 360 streaming tech which brings high quality 360 VR video to users using significantly less data than currently available options.
+
+The technology works similarly to Facebook’s Dynamic Streaming technologies, which works by only streaming sections of a 360 video sphere to a user at one time. As the user turns their head to see what’s around them, Facebookdynamicallystarts streaming new areas of the video in full resolution so that the user keeps a high quality experience even if their web connection normally might not be able to support streaming 4K video.
+
+Facebook’s technology is only available for their platform, but Visbit is looking to license their similar  technology, which they call Visbit View-Optimized Streaming (VVOS), to 360 content makers and platforms who want to get their content in front of more eyes. The company is starting its efforts primarily on mobile working with 4K and 8K videos on mobile platforms like the Gear VR and others.
+
+CEO and co-founder Changyin (CY) Zhou previously worked on computer vision and video processing technologies at Google X and Microsoft Research.
+
+With VVOS, users can stream a 4K 360 video using roughly half the Internet speed that would be needed to smoothly stream that type of content otherwise.
+
+The company has just launched a closed private beta with a handful of VR content companies and studios and plans to open the program to more companies soon.

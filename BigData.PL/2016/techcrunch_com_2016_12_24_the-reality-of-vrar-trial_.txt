@@ -1,0 +1,47 @@
+The reality of VR/AR trial
+
+If you haven’t heard about VR/AR by now, your desert island must not have Wi-Fi. But there are millions of folks who know about VR/AR who haven’t seen it yet. User trial is on the critical path for VR/AR to go mass market. So what are the lessons from previous digital platforms about moving mass consumers from awareness to trial?
+
+AKQAfounding chairman Tom Bedecarre gets right to the point. “New technology follows a familiar adoption curve, and it’s easier to attract your first customers, innovators and early adopters. It’s very hard to cross the chasm and attract the early majority and beyond.”
+
+The challenge is particularly acute for VR/AR, where even 360-degree videos can’t completely translate the surprise and delight that users get from the best VR/AR apps. For the full experience you need to have it on your face. To paraphrase, “It’s the stereoscopic vision, stupid.”
+
+So how are VR/AR companies getting mass consumers to try it beyond early adopters?
+
+The New York Times hasgiven away more than a million Google Cardboardsto its readers. McDonalds’ “Happy Goggles” turn a Happy Meal box into a VR headset, and Coca-Cola has experimented with a similar approach using itsmulti-pack containers.
+
+Moving up in quality from Cardboard, Samsung hasbundled its Gear VR headset for freewith compatible phones, which together with sales has delivered “millions of people with a Gear VR, and over a million monthly active users” according to a Samsung spokesperson. Samsung has also enabled location-based trial, with “15,000 retail locations in the US.” Verizongave away Google’s Daydream ViewVR headset with pre-orders of Pixel phones, and China’s OnePlusgave away 30,000 VR headsetswith its phones.
+
+We aren’t likely to see high-end PC or console VR headsets bundled for free, but prices for high-end VR headsets and the systems to run them will be driven lower by Microsoft’s newWindows 10 VRheadsets.
+
+Richard Marks, the head ofSony PlayStationMagic Lab, believes that “trying VR is really important, because the experience is so dramatically beyond what most people have seen before now. We’ve shown over 400,000 in-store demos, and to encourage people to show their friends, we give away a free demo disc with every PSVR as well as a free asymmetric multiplayer game that enables everyone without a headset to play along with the person in VR.”
+
+HTCChief of Staff Pearly Chen is equally emphatic about getting the Vive in front of people, “seeing is believing, and there isn’t a better way to communicate what VR is than letting people see it with their own eyes. We’ve run theVive World Toursince mid-2015, touring major cities, universities, events and trade shows — which gave us significant press exposure, grass-roots engagement, and learning about consumer feedback.”
+
+“We continue to engage major retail partners to set up demo stations, includingMicrosoft stores,GameStopand MicroCenter in the US, as well as Suning, Guomei and internet cafes across China. We’ve also announcedVive Landin Taipei as a location-based entertainment center to reach mass consumers.”
+
+HTC isn’t just getting its own products in front of consumers, but is thinking more broadly. “To help the entire ecosystem, our $100 million Vive X program is committed to helping companies with the right vision to help everyone and everything in VR.”
+
+AR/VR education playerzSpacehas a proactive approach to location-based trial, taking the location to its users rather than requiring them to go anywhere. They have multiple buses complete with full-demo experiences touring the U.S. to take their magic to schools around the country. CEO Paul Kellenberger says that, “we do it because it just plain works. Students and teachers don’t need to travel for miles or take a chance on buying a system they haven’t tried yet. And with our highly collaborative approach to AR/VR, the entire school community sees how effective it is. We have strong ROI from this approach, and some of our largest school system sales have come from it. So we see a direct bottom line impact from going to where potential users are and making trial as simple as possible for them — it’s a significant driver of our business growth.”
+
+The AR smartglasses that are already hitting the market (Microsoft HoloLens, ODG, Meta, etc.) are largely enterprise focused so far, making it too early to assess their approach to consumer trial. But Pokémon GO has already achieved both mass awareness and trial of AR (even if industryinsiders don’t like to call it that).Apple CEO Tim Cook, Google CEO Sundar Pichai, Facebook CEO Mark ZuckerbergandMicrosoft CEO Satya Nadellahappily declared Pokémon GO as an early win for the AR market. So while the huge splash it made this year peaked at over50 million monthly active users, globally there are tens (if not hundreds) of millions of consumers who think they’ve tried AR and liked it.
+
+The big question is how will “true” AR smartglasses leverage that awareness when they go consumer in the next year or so? Hopefully thelessons learnedfrom both Google Glass (boo) and Snap Spectacles (yay) will inform what comes next.
+
+Snap’s approach with Spectacles has been nothing short ofmarketing genius, almost single-handedly erasing the years of damage done to AR’s consumer profile by Google Glass (even if Spectacles aren’t really AR).
+
+Spectacles are a cool populist toy, not a vision of thedystopian future. They’re scarce but not elitist, with a limited rollout for anyone prepared to drive hours to get to a vending machine (rather than hand-pickedGlassholes). Spectacles’ $130 price point is a lot less than some alternative ways to buy into the new hotness (regardless of functionality).
+
+The free marketing hype and virality surrounding Spectacles videos gives Snap’s150 million-plus daily active users the chance to feel like they’re trying Spectacles (even if they can’t get hold of them yet). And all the data from early adopters (some might call them paying beta testers) enables Snap to tweak Spectacles hardware and software to perfection before a full launch. That Evan Spiegel is one smart cookie.
+
+There arefive critical success factorsfor consumer AR when it gets here: hero device (i.e. an Apple quality device, whether made by Apple or someone else), cellular connectivity, all-day battery life, app ecosystem (similar in quality to early mobile) and telco cross-subsidization. Telco data revenues and cross-subsidization will be key, so how will the telcos help consumer trial?
+
+Verizon VenturesDirector Ed Ruth believes telcos will have a meaningful role to play when AR is ready for consumers. He says, “Beyond the in-store trial telcos could enable through retail stores across the country, eventually they could help AR reach consumers in the same way that they do with smartphones today. The data revenues from this new market could help reinvigorate growth for mobile networks, especially when you consider that 360-degree video alone takes 4 to 5 times the bandwidth of regular video.”
+
+When producing content and applications for mass consumers — ranging from high-end VR content like Baobab Studios’InvasionandAsteroids, to next-generation visual messaging for VR/AR like Eyetouch Reality — how do you get in front of lots of people, and how do you leverage that trial more broadly?
+
+Penrose StudiosCEO Eugene Chung takes a holistic view. “The development of VR/AR as a new artistic medium is unprecedented in the modern era. The last time we saw this transformational change was with the advent of the moving picture. Right now the nascent stage of hardware penetration constrains VR/AR, but that is rapidly evolving. With developments such as the PlayStation VR release and Google Daydream, the addressable market for VR is growing bigger than ever. While much of the technorati have seen VR, the vast majority has not. As the population at large sees and understands the power of the medium, adoption will grow accordingly.”
+
+SketchfabCEO Alban Denoyel thinks “mass adoption will come when people are able to create VR content themselves. When you take VR shots (360 or 3D) of your family or holidays, you’ll want to revisit them in VR. So user-generated content will be key to mass adoption. In terms of reach and audience, it’s key to deliver the content where the audience already is, typically the social networks. That’s whyWebVRis important, as it lets creators reach consumers directly and bypasses the app store gates.”
+
+Mass markets cover everyone from your nephew to your grandma. But recent tech success from Facebook to Snapchat skewed younger at launch, before migrating upwards to take over the world. So the cool kids need to try VR/AR for it to go mass market, with Pokémon GO and Snap Spectacles showing how it’s done. As they say in the classics, “Ditto.”

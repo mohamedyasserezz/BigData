@@ -1,0 +1,21 @@
+Compass pivots, raising $1 million to zero in on e-commerce analytics
+
+Compass, a 4.5-year-old startup that had previously raised$3 millionfrom investors for its business monitoring and intelligence service, is getting out of the crowded business of benchmarking startups and instead zeroing in what it sees as a far more underserved market: helping e-commerce businesses grow their revenue.
+
+The 11-person San Francisco-based company just closed $1 million in fresh seed funding toward that end, including previous backers New Enterprise Associates,PROfounders, and longtime VC Allen Morgan, along with former Thomson Reuters CEO Tom Glocer.
+
+The pivot is a subtle one. It was already the case that more than 30,000 companies had connected their various feeds to Compass — including from Stripe, Google Analytics, and PayPal — in exchange for access to its database of private tech data.
+
+Now, Compass is asking e-commerce companies to continue providing it such feeds (and more) to create a massive e-commerce database that can help the companies learn from each other and, in the process, compete with giants like Amazon, which may have more visibility into buying decisions than any other company on the planet.
+
+“Every small and mid-size company lacks the breadth of data and expertise” to compete, says Compass cofounder and CEO Bjoern Herrmann, who says that Compass’s new automated interface — which gives merchants a single view of all their data — also includes specific recommendations about how to increase revenue and profitability. “Think of it as an analyst-as-a-service,” he says.
+
+You can see in the visual below of a (made-up) customer report that clients receive an “insights report” about their company. Among other things, they can see customer repurchase rates, average order values, and how much the lifetime value of each customer has changed over time. But Compass doesn’t leave it at that; it also provides specific, actionable suggestions — some automated,  based on what Compass knows about similar companies. In other cases, clients can talk with Compass directly for suggestions about tools they might use.
+
+It’s worth noting that some of these tool makers have cross-branding relationships with Compass, includingPayWhirl, which makes a tool that businesses use to accept payments online and the mass payments platformBold.)
+
+Right now, Compass’s new product is free as it works to generate more users. (So far, so good, apparently; Herrmann says Compass is already tracking $10 billion in annualized gross merchandise volume.)
+
+Soon, says Herrmann, the company will begin introducing premium features that allow those customers to further slice and dice their data. Indeed, it’s early innings, he suggests Herrmann. For example, the widely used commerce platformShopify,which will be crucial to Compass’s success, is still in the middle of allowing Compass to integrate its payment hooks so Compass can eventually launch a paid version for customers that use Shopify.
+
+In the meantime, Herrmann sounds optimistic about his odds. Though companies have plenty of data sources to turn to already, many of these business owners are feeling overwhelmed by what they’re seeing. Compass will not only make sense of that data, he says, but “we’re taking things a step further and showing them exactly the levers the can use to increase their revenue.”

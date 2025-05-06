@@ -1,0 +1,67 @@
+At Pear Demo Day, 13 companies to watch
+
+As dozens of Teslas baked in the sprawling Palo Alto parking lot of a local law firm yesterday, 100 top investors packed into a high-ceilinged meeting room. There, they listened as 13 startups deliver four-minute presentations about why they’re worth watching.
+
+The companies — all of them roughly six months old or younger, and all led by current college students or recent graduates — were part of theLaunchpadprogram of three-year-oldPear, an early-stage venture firm that annually invites computer science students from top schools to build companies in their office with a $50,000 uncapped note and no strings attached. (Until recently, the firm was known as Pejman Mar Ventures.)
+
+So far, Pear seems to be choosing these student teams wisely. Out of the eight groups that presented a year ago, one startup sold to Google and four others have raised seed funding. Pear’s inaugural class, in 2014, also saw one startup, FancyThat,sell to Palantir.
+
+Certainly, the venture capitalists gathered yesterday seemed enthusiastic. Ross Fubini, a partner at Canaan Partners,tweetedpartway through the presentations that it was “looking like the best demo event of the year.” Another investor, Lux Capital partner Shahin Farshchi, told us afterward that he also thought it was “fantastic, with something for everybody, including consumer companies, analytics and AI companies, and deep tech for investors like me.”
+
+For those who weren’t there and may be curious, here’s what you missed:
+
+Allocate.ai:This company makes AI-powered time sheets to enable companies to better understand how and where their teams are spending time. According to the founders (who come from Stanford and UC Santa Barbara), 45 million people fill out time sheets in the U.S., and they estimate that this adds up to $11 billion in lost time. (Think of lawyers whose time is valuable and may spend upwards of 15 minutes a day tracking their billable hours.) They argue that made more efficient, the market could be a whole lot bigger, too. If you agree and want to reach out to them, you can do that at founders@allocate.ai.
+
+BlackSMS:Its tech allows users to send encrypted, password-protected, self-destructing iMessages that can even be disguised and masked inside of fake replacement texts. This struck us as useful for a variety of cases, and we hope we’re right about that. Its 20-year-old founder, Tyler Weitzman — who says he has built 30 apps since his middle school days — is now dropping out of Stanford to “go all in on BlackSMS.”
+
+To learn more, you can check out a longer piece that TC wrotehereearlier this year. To contact Weitzman, you can email him at founders@black-sms.com.
+
+Capella Space:This data company says it can provide persistent and reliable information from space through a constellation of shoebox-size satellites that it’s building. How do they differ from the satellites of other startups? Its tech relies on synthetic aperture radar, meaning it sends radio waves down to the earth’s surface that — based on the reflection of the radio waves that go through the clouds and don’t require illumination from the sun — can capture images at night and despite heavy cloud cover. (Many other new constellations rely on optical technologies instead.)
+
+Capella does have competitors, includingUrsa Space Systems.Ursa currently sells information to customers based on traditional (read big, bulky) satellites that employ synthetic aperture radar, and it’s planning to develop its own constellation of satellites. But it’s pretty much an open race at this point. You can reach the founders at founders@cappellaspace.com.
+
+DeepLIFT Technologies:This company has developed a set of algorithms that it says can understand and explain any deep learning process by looking at inputs, identifying recurring patterns and other stuff.
+
+Why bother drilling into why machine learning processes work like they do? For one thing, regulators are starting to push back against “black box” technologies. Most notably, the EU recentlyintroduced a provisionto pass legislation that guarantees EU citizens a “right to explanation” when machine learning models are used to make decisions that impact them.
+
+The founders say the company is not raising money. (We’re not sure we believe this.) They also say their tech, currently in use across eight genomic labs in the U.S., has already attracted substantial interest from Alphabet, including from Google’s mobile development team and Alphabet’s life sciences subsidiaryVerily. You can reach them at founders@deeplift.ai.
+
+Hotline:This startup is a messaging-based platform that lets fans connect with celebrities directly. Right now, it uses Facebook Messenger, SMS and Kik to enable communication via a single thread, and the idea is to bring Twitter-like interactions to messaging. For example, a fan of runner Usain Bolt could presumably interact with Bolt one minute and swimmer Michael Phelps the next, all without changing platforms or opening another dialog box.
+
+The founders have impressive backgrounds — Harvard, Amazon, McKinsey — but we’ll admit to being underwhelmed by this one. For what it’s worth, we didn’t think much of Snapchat early on, either. You can email the founders at founders@hellohotline.com.
+
+Kofa:This startup’s tech vows to “supercharge” analysts everywhere. The pitch: analysts become consumed with trying to understand predictive modeling, geospatial analytics and a bunch of other stuff that may not be central to their role with a company. Kofa says that it’s giving them reusable point-and-click tools to solve part of this problem. Its technology also allows analysts to build atop each others’ work.
+
+We don’t know how unique this is, but Kofa’s founders previously founded FancyThat. They stayed on with Palantir (which, as mentioned above,acquiredthe company), but they left a little earlier this year to strike out on their own again. So far so good, seemingly. They say they’ve already raised some pre-seed funding and are “closing a six-figure deal” with a customer as you read this.
+
+Motif:This startup aims to let customer service reps easily and immediately take over the screen of a user who needs help, all thanks to a single line of JavaScript. Motif says it also enables companies to retroactively record their users’ screens five minutes before and after any predefined customer action. If your first thought is, “What about my privacy?,” close your eyes and think about the last time you tried communicating what was on your screen to someone on the phone and how long that took. If Motif can save us from that hell going forward, we’re all for it.
+
+It’s not clear how big the team is. We do know that founder Allan Jiang is currently studying computer science at Stanford and is set to graduate in 2018. You can track him down at founders@usermotif.com.
+
+Nova:This company is trying to help immigrants access loans from U.S. companies, which can be hard to do, if not impossible, as there’s no easy way for U.S. lenders to get immigrants’ credit history data. Nova’s solution? To connect lenders to global credit bureaus all over the world. An immigrant applies for a loan from an institution that Nova has partnered with, and via an API integration, the lender — which pays Nova $30 for every file it pulls — uses that information to make a decision. Voila.
+
+The company launched two months ago and has already partnered with three lending institutions. You can find the founders, all from Stanford, at founders@neednova.com
+
+Pluto:This startup is a SaaS platform that aims to help retailers leverage messaging apps as a new channel to acquire customers. Now brands like Tori Burch no longer have to rely on email promotions and ad targeting alone; with Pluto’s tech, they can remind customers while they’re in Facebook Messenger about that color-blocked pea coat that they might have put in their online shopping cart and not purchased. Not that we’ve ever done that.
+
+You can find the founders at founders@getpluto.co.
+
+Script:Take a photo, turn it into an online sticker and send it without leaving your messaging app. Or access your friends’ and other communities’ creations, and send their stickers without leaving the conversation.
+
+Like Hotline, this company sounds to us like less of a company and more of a feature, but features get acquired, and plenty of people seem to “get” this one. According to Script’s team of founders (most from Stanford), the thousands of users who’ve been introduced to the service over the past four months have already created 3.2 million stickers. For what it’s worth, CEO Katia Ameri also spent two years as a venture associate with Pear before starting the company.
+
+Ameri and her co-founders can be reached at founders@script.me.
+
+Synocate:This startup is building a marketplace for college admissions and career advice, starting with an essay editing tool that invites high school students to submit their admissions essays and, for $49 per essay, get feedback from students at the colleges they are going to attend.
+
+We didn’t hear anything terribly new here; there arelots of startupscatering to ambitious high school students and their parents. Then again, it’s a huge market and no one has a lock on it. You can find the founders at founders@synocate.com.
+
+xSeer:This company, founded by a team of PhDs from Carnegie Mellon and elsewhere, makes sophisticated visual analytics software that they say can ingest billions of data points and intuitively create visualizations at massive scale, making it a lot easier for customers like insurance companies, for example, to see which pockets of people they aren’t targeting and should be.
+
+If you want to track down the founders to learn more (they also have a pretty neat demo they can show you), you can find them at founders@xseer.io.
+
+Viz:We thought this company was among the most interesting of the bunch. (Farshchi thought so, too.) In a nutshell, it’s applying deep learning to ultrasounds, which typically require either a radiologist or other technician’s expertise, which can translate into a long wait for anxious patients. More specifically, its software compares ultrasounds with millions of other images and videos (more results than a radiologist could see in his or her lifetime), thereby empowering primary care physicians to interpret the images and quickly take action.
+
+This is a “hot” space. Entrepreneur Jonathan Rothberg told Technology Review a couple of years ago that he has raised$100 millionto create a new kind of ultrasound imaging system that’s nearly “as cheap as a stethoscope” and will “make doctors 100 times as effective.” Viz, which is focusing on the hip initially, hopes its software can enable existing machines to do the work instead.
+
+To reach the founders, write to founders@viz.ai.

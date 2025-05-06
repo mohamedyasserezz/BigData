@@ -1,0 +1,15 @@
+Google and Facebook are building the fastest trans-Pacific cable yet
+
+Google and Facebook are teaming up to build a 120 Terabits per second (Tbps) submarine cable that will connect Los Angeles with Hong Kong. The two companies are working with Pacific Light Data Communication — a wholly owned subsidiary ofChina Soft Power Technologythat’s relatively new to the sub-sea cable game.
+
+Once the new 12,800 km cable is at full capacity, it’ll be the highest-capacity trans-Pacific cable yet. Until now, that record was held by theFASTER cable, which Google also has a stake in.
+
+When it wasfirst announcedlate last year (and before Google’s or Facebook’s names were attached to the project) the estimate was that the construction of the new Pacific Light Cable Network would cost about $400 million. The cable will feature five fiber pairs. A single one of those pairs will be able to provide 24 Tbps of bandwidth.
+
+Google tells me that all parties participating in building the cable will have their own portion of the cable and that the company will have its own fiber pair to keep its own traffic private.
+
+The new cable will become the sixth submarine cable that Google has a stake in (the others areUnity,SJC,FASTER,MONETandTannat).
+
+While it may seem unusual for Google to partner with Facebook on this kind of project, submarine cables often feature these kind of partnerships. Facebook and Microsoft recentlyteamed upto build a trans-Atlantic cable, for example, which at 160 Tbps is even faster than the Pacific Light cable (but also only half as long). Amazon, too, isstarting to investin its own submarine cables, but so far, the company has not partner with other industry giants to do so.
+
+As Google notes, the new cable will bring lower latency and greater bandwidth to its customers in the APAC region. The same can be said for Facebook’s customers, too, of course.

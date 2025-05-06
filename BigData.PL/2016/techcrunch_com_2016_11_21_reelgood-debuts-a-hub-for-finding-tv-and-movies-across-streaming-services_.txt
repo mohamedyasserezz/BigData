@@ -1,0 +1,37 @@
+Reelgood debuts a hub for finding TV shows and movies across streaming services
+
+More people are cutting the cord with pay TV in favor of streaming services, but finding something to watch is growing more difficult – not only because of rights deals which see content coming and going, but also because there’s now a wider array of services to choose from. A startup calledReelgoodwants to help, and is today launching a centralized platform for web users, where they can find and watch content from multiple services from a single destination.
+
+The companya year ago had launchedaniPhone applicationoffering a social network focused on movies. However, the new web service is attacking the broader problem of content discovery across platforms, including both movies and TV, as well as offering tools to track the shows and films you want to see.
+
+Reelgoodalso recently launched an Apple TV app which functions like the website, and is even a bit further ahead, in terms of feature set.
+
+At launch, the new site aggregates the content from a handful of top streaming services: Netflix, Hulu, HBO (HBO GO and HBO NOW), Amazon Prime Video, Showtime, Starz, and FXNow. But Reelgood founder David Sanderson tells us they have 28 different sources ready on the backend, and will listen to consumer feedback to see which ones to roll out next.
+
+The website itself is easy to use. Content is split up into “Movies” or “TV” sections, and there’s a search box if you’re looking for something more specific. Here, you can search by title, but Apple TV supports searches by actor and director as well, which is making its way to the web.
+
+Within each high-level category, the available movies or shows are broken down by genres, like comedy, drama, documentary, mystery, horror, and so on. But Reelgood’s web version is still lacking a little polish. For example, longer content descriptions are currently cut off – another thing that’s being addressed in a later release.
+
+On each item, you can see both the critics’ and audience’s rating from Rotten Tomatoes, along with other information, like the description, length, and rating. The Apple TV app shows more information here, like director and cast.
+
+On each item, you can mark things as “Seen It” or add them to your universal watchlist. This becomes tiresome to do individually – it would be useful to do this from the main page. This, too, is built, but wasn’t ready at the time of launch, says Sanderson.
+
+In addition, there’s a list of “similar” content suggestions underneath each item, but the recommendations seem to be a little off. For instance, how is the horror movie “Seven” related to a movie like “Paper Towns,” which is more of a coming-of-age story involving kids looking for their missing friend? The connection between “Grease” and “Straight Outta Compton” is that they’re movies about music. (Clearly, this needs some work).
+
+For users of the earlier iOS app, you’ll gain access to social features where you can see what friends are watching thanks to their marking things as “Seen,” but new web users will need to wait on this to arrive for them.
+
+In time, the iOS app will be revamped to mirror the web service, though Reelgood’s more immediate focus is on where people are watching: web and TV.  Apps for Roku and Amazon Fire TV will likely hit ahead of new mobile releases.
+
+Though still a beta product, as a basic web aggregator, Reelgood works.
+
+When you find something you like, you can watch a trailer or simply click “play” to be taken directly to the streaming service’s page for that title to start viewing.
+
+Over time, the company plans see a path to revenue through affiliate incomes for subscription sales to the third-party streaming services, and, in the longer term, by aggregating and reselling the data on viewing behavior.
+
+“Nielsen is only in 150,000 homes…whereas we hope to be ubiquitous across all different  platforms, and have way more data,” explains Sanderson. “We know exactly what people are watching and what they want to watch, what they like, and what they didn’t like,” he says.
+
+Reelgood’s team of seven includes the entire development team from the streaming app for torrents, Popcorn Time, along with founder Sanderson, previously a PM at Facebook.
+
+The startup earlier raised $1 million from Harrison Metal, and is now working to close a $1.5 million seed round from Harrison Metal, Social Capital, and the President of Warner Bros.
+
+The service islive on the webnow, while its iOS and Apple TV apps are available in the respective app stores.

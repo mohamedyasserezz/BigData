@@ -1,0 +1,67 @@
+BlackBerry’s security-focused Android identity crisis
+
+Consider BlackBerry. Think about the company, its products, its most iconic features. What comes to mind? Business apps? A QWERTY keyboard? BBM? The once-mighty Canadian smartphone maker is banking on one word standing above all the rest: security.
+
+You see, BBM is no longer solely the realm of BlackBerry devices, and the keyboard hasn’t been ubiquitous since the company belatedly responded to iPhone with the Storm in 2008 (a chapter the smartphone maker would likely just as soon forget). Heck, even the productivity focus has taken a backseat as Apple and Android devices have made sizable inroads in the enterprise space.
+
+When the company finally launched its long-awaited Android handset late last year, security was front and center. In fact, the product’s name was the first four letters of “privacy.” Security was how BlackBerry envisioned the Priv standing apart from the countless throngs of Android devices. Well, security and a slide-out key. This time, however, the company’s latest device doesn’t even have one of those.
+
+The company has taken to calling the DTEK50 the “world’s most secure Android smartphone” — or at least part of a two-way tie with the Priv. In fact, the company just went ahead and named the handset for the privacy app it introduced with its first Android phone. It’s one of a number of qualities the device shares with the Priv — and really, the new handset is a supplement, not successor to that device.
+
+The DTEK50 is both a show of faith to the company’s continued commitment to Android and an attempt at wider-scale accessibility with a starting price that undercuts last year’s model by a full $400 — a smart move, given that the Priv’s $699 price tag was among many reviewers’ chief complaints. The new phone is a much more populist device, a fact reflected in the video that opened the product’s launch event, in which the company questioned people on the street about smartphone security.
+
+So, with a new take on the company’s new approach, we find ourselves asking the same question we ask each time the company offers a new device: Could this possibly be the one that puts BlackBerry back on the right track?
+
+If there’s no physical keyboard, can we really call it a BlackBerry? It’s one of those “if a tree falls in the forest”-style thought experiments. When the iPhone first appeared on the scene, it was precisely the company’s refusal to drop the keys that set it apart. Ultimately, however, the company’s stubbornness is precisely what got it into this position in the first place.
+
+Naturally, when it finally embraced Android, the company did so with a keyboard in tow, a nod to the fact that, even as it embraced another company’s operating system in order to open itself up an active app development ecosystem, it maintained a focus on what made it different. When the DTEK50 was first unveiled this week, there were questions around whether or not the device was simply a middling piece of hardware rebadged with a BlackBerry logo. The answer is yes and no. When I first laid hands on the phone, it turned out to be a lot nicer than I’d originally anticipated. As the company notes in its press material, its 7.7mm width makes it the company’s thinnest phone to date. And at 4.7 ounces, it’s also quite light.
+
+Really, there’s not much here that screams “BlackBerry.” That could well be because the handset appears to be a refurbished rebadge of Alcatel’s recent Idol 4. The company confirmed as much without actually coming out and saying it when I reached out shortly after receiving the handset. Scott Wenger, BlackBerry’s Global Head of Design, explained the similarities between the handsets suchly,
+
+First and foremost, we are focused on meeting the needs of our users — and they want and expect the best in security, productivity, function and design. To meet this demand, we partnered with TCL to manufacture DTEK50 because we saw a great fit between our software solutions and an existing hardware platform to meet those needs.
+
+Alcatel’s handset branch is, naturally, owned by TCL. So, the two phones share a reference design and most of the same specs, with BlackBerry offering some customization on top of that. It’s disappointing for a company that has made some of the most iconic pieces of hardware in the handset space, but, well, at least the company chose a solid starting point.
+
+It does make one wonder what might have been in the mix had the company started from the ground up. For a company so focused on security, a fingerprint reader jumps out as a possibility. Wenger again,
+
+Our goal with DTEK50 was to strike a great balance, providing the user with high performance, Android apps and experiences, and legendary BlackBerry security, all at a compelling price point. We carefully selected hardware and software components to ensure that balance, and will continue to evaluate fingerprint and other biometric authentication means moving forward.
+
+In the end, the design partnership/outsourcing was likely an attempt to rein in costs, keeping BlackBerry’s handset well below the cost of last year’s Priv — but ultimately, it’s hard not to see the move as another key step away from the core of what has made BlackBerry (nee RIM) such a unique company as more and more smartphone manufacturers have consolidated around the same operating system and similar design.
+
+The DTEK50 has a nice feel. It’s light but solid, and the custom textured backing adds a nice grip. The 5.2-inch display is flanked on top and bottom by thin speaker grilles, which are recessed slightly from the screen’s bezels. Up top is an eight-megapixel camera — the relatively high number is a nod to the needs of a business-minded device intended to do more than just snap selfies. To the left is an indicator that flashes big, white and bright.
+
+The front of the device is entirely devoid of any BlackBerry branding — in fact, there’s nothing at all that indicates its connection to the Canadian company. The sides of the device are encased by a metal band, similar in appearance to the one you’ll find on Samsung’s most recent Galaxy devices.
+
+At top is a headphone jack and on the bottom is the microUSB slot (no USB-C here). The power button is on the left (which takes a bit of getting used to), with the volume rocker located in the same spot on the right side. Below that is a circular button — what our friends at Alcatel refer to as the “Boom key.” BlackBerry, in keeping with past devices, has deemed it the Convenience key. Whatever the name, it’s a handy feature, serving as a customizable shortcut to launch frequently used apps or other tasks.
+
+The device’s rear has a textured, hardened rubber feel. At top is the 13-megapixel camera, just above the flash module. In the center is the BlackBerry Bs logo, the only clear hardware indicator (aside from the company’s name in tiny, barely visible letters at the bottom) that this is, indeed, a product of Waterloo, Ontario. The backing in a nice aesthetic addition to what might otherwise be a bland handset. It’s not exactly a premium feel, but it certainly offers something different in a sea of lookalike handsets.
+
+Even so, it’s far from the iconic BlackBerry of yore, one the company finally, symbolically sent out to pasture with the lonesome death of the Classic. The fact is that devices these days are mostly screen — something the company struggled to accept early on, but eventually conceded. What that means, of course, is that a company has to do an even better job setting itself apart on the software front.
+
+That, naturally, is easier said than done. Over the years, smartphone makers have struggled with precisely how much of a mark to leave on Google’s mobile operating system, to the point that “Pure” versions of the OS have felt like something of a breath of fresh air.
+
+Last year, BlackBerry finally give in and jumped aboard the Android train. While the company has maintained a side commitment to BB10, it clearly saw Google as the path toward a return to mainstream adoption, courtesy of all the apps that seemed they’d never come to the company’s devices by way of its native OS.
+
+This is where security comes in — in fact, that’s where the handset gets a name even less inherently pronounceable than the Priv. The DTEK software carries over from that device, offering security as much as peace of mind. As the company rightfully points out, many consumers made the jump from laptop to smartphone and forgot to take all of their security concerns with them. And given the large number of third-party apps we regularly download, we’ve opened so much of our precious information up to both malware and snooping, courtesy of a piece of hardware that essentially amounts to a collection of sensors.
+
+What DTEK offers is a handy spot for monitoring those potential points of weakness. And the company has done a good job making that detection as simple as possible. Fire up the app and you get a red, yellow and green gauge, telling you how good a job you’re doing securing the device. That data is based on a weighted 10-point checklist, including such things as data encryption and screen lock (and, to be fair, two of the points are marked as green simply because it’s a BlackBerry device running BlackBerry software).
+
+Clicking into APPS and PERMISSIONS drills down on a per-app basis. Each one alerts the user to the permissions they’ve requested, as well as any manner of suspicious activity, including tracking. It’s a handy piece of software, and one BlackBerry ought to consider licensing to third-parties as security and privacy breaches and concerns rise among smartphone users. And on a very basic level, it’s a bit of a wake-up call, breaking down precisely how much information our different apps are requesting.
+
+The company has also ported over a number of enterprise and productivity features. BlackBerry Hub offers a centralized location for a slew of different communication platforms like email, social media, text, phone, calendar events and, of course, BBM — handy for those who are overwhelmed by the ever-increasing number of communication fronts.
+
+The BlackBerry Intelligent Keyboard picks up the mantle from the company’s iconic physical offering. While, naturally, it can’t replace the tactility of the real thing, the company has gone out of its way to add productivity touches like word suggestions that hover over specific keys, which can be chosen with a swipe up. I found the integration a bit distracting at first, but it grows on you.
+
+Coupled with BBM and a few other additions like a productivity sidebar, the DTEK50’s operating system isn’t BlackBerry-skinned Android so much as it is Android with BlackBerry functionality sprinkled in. The additions will likely be largely welcome — and, more importantly, are mostly out of the way when you don’t need them.
+
+The 5.2-inch display comes in at 1920 x 1080 resolution, working out to 424 ppi; not bad for what is essentially a mid-tier or even borderline budget handset. The colors are nice and crisp and do a good job for those looking to add a little entertainment on top of their productivity. I can’t really say the same for the speakers. You’re going to want some headphones if you plan on listening to anything but short YouTube clips.
+
+Inside, a 1.2GHz octa-core Qualcomm Snapdragon 617 is coupled with 3GB of RAM; not earth shattering, but more than enough for what most users will want to do with the device. The standard 16GB of storage is less impressive, but that’s where the expandable storage comes in, offering users up to 2TB via microSD. There’s also a decently sized 2610 mAh battery that will get you through a day of use, no problem.
+
+I didn’t run into any performance issues during my time with the device, but the DTEK50 does heat up pretty quickly and the backing does little to insulate that.
+
+When I met with BlackBerry to pick up the review unit, I asked whether the company would consider licensing its branded security offerings to another manufacturer. The company line seems to be one around a commitment to creating a unified hardware/software solution — and certainly that’s been a defining characteristic for the company. BlackBerry opening itself up to new ideas is a step in the right direction, as far as the company’s future health is concerned, but this handset feels aimless.
+
+The DTEK50 is less of a step forward than a move toward a company that is more service-focused, rather than providing the full package. Would a company offering an Android handset augmented by BlackBerry software really feel like that big a shift from this current product?
+
+Of course, BlackBerry doesn’t plan to hang its hat on this device. The more premium (and much higher-priced) Priv felt like much more of an attempt to define BlackBerry’s future, and the company has promised more keyboard devices to come. As it stands, the DTEK50 is a decent mid-tier device targeted at users seeking a security suite that won’t cost an arm and a leg.

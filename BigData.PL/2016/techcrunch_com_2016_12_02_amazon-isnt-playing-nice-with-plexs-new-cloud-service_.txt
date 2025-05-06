@@ -1,0 +1,23 @@
+Amazon isn’t playing nice with Plex’s new cloud service
+
+Media server software Plex, which helps you organize your own library of movies, TV shows, photos, and music, is now making it easier to access the content you’ve saved on other cloud storage services with an expansion of its Plex Cloud service. The company has added support for online services Google Drive, Dropbox, and Microsoft’s OneDrive – meaning you can stream your content from wherever you already have it saved online.
+
+First launched in September,Plex partnered with Amazon Cloud Drivefor its new hardware-free media server, Plex Cloud, still in beta.
+
+The idea with the service was to eliminate the need to have an always-on PC or some other piece of network-attached drive in order to use Plex’s media player. The move was a significant departure for Plex, which had historically focused on turning a local device into personal media server.
+
+For non-technical users, Plex Cloud could be more appealing. They wouldn’t have to worry with installing software locally or organizing their content libraries, but could instead just upload your files to Amazon Cloud Drive, then stream from anywhere using the Plex app.
+
+However, it hasn’t all been smooth sailing, the company admits. It says that it has run into to some “technical challenges” with its Amazon Drive integration which it’s trying to address.
+
+Users have beencomplainingin thePlex forumsthat they’ve been unable to upload their files to Amazon’s online service. Some customers suspect that Amazon has placed limits on the uploads – possibly due to how much content some people have been uploading – but Plex staff hasn’t confirmed any details.
+
+As TechCrunch’s Matt Burnspointedout before, a partnership between a service like Plex and Amazon could be tricky due to the fact that some Plex users’ libraries contain pirated material – something that Amazon prohibits hosting on its servers.
+
+But it’s unclear for now what the exact issue is, as Plex will not say. (It was explained to us as “a wide range of issues – nothing specific.”)
+
+Still, it’s not a good look for the new service, which is only available to Plex Pass subscribers (Plex’s paid tier.) And many Plex Cloud beta users signed up for Amazon Cloud Drive – at $60 per year – just to use Plex Pass.
+
+In the meantime, Plex hopes that rolling out support for other online storage services will offer a workaround for those affected. Now you can link to Google Drive, Dropbox and OneDrive, and create libraries in Plex with content from any of them.
+
+Despite the issues with Amazon, Plex says it expects to start doling out more invites to Plex Cloud beta on December 5th.

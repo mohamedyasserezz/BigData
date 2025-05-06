@@ -1,0 +1,27 @@
+Improbable teams with Google, opens SpatialOS alpha for virtual world development
+
+Improbable, the London startupbacked by Andreessen Horowitzthat has been developing a platform for third parties to build virtual and simulated worlds, is today launching the alpha of its first product,SpatialOS. And with it, Improbable is also announcing a strategic partnership with Google, the first part of which will see Google providing its Google Cloud Platform as the backend powering the service.
+
+The Google deal — for now at least — does not involve financing (“We have nothing to announce at this time,” the company told me in answer to questions about Google investing, and whether it was raising money otherwise). But there is a financial element: Qualified developers will get subsidized access to SpatialOS.
+
+SpatialOS will let developers build and test virtual environments that can be used in VR gaming experiences aimed at “thousands” of simultaneous players. The distributed nature of the platform’s computing architecture helps it handle especially heavy tasks. The startup claims that the level of graphic and other detail that can be created as a result of that is significantly higher than what you get on other gaming platforms today.
+
+The concept and execution of this holds a lot of promise not just for advancing the world of gaming, but for any digital service that relies of visualizations, be it scientific, medical or educational applications, or something else altogether.
+
+“We set out to build SpatialOS because we saw what developers wanted to do, but were held back from achieving,” said Herman Narula, CEO and co-founder ofImprobable, in a statement. “Since we foundedImprobable, we have talked to many developers who have amazing ideas for new kinds of games they can’t currently realise. Like them, we want to create and inhabit realistic worlds where players’ actions have real consequences, but technical limitations have stifled innovation in gaming.”
+
+Still, the launch of the alpha, which will open SpatialOS to the wider world of developers with a specific focus on gaming, is a long time coming.
+
+SpatialOS was firstannounced over a year ago— and at the time, it was the first glimpse of what, exactly, Improbable, founded in 2012 by Cambridge academicsNarulaandRob Whitehead, had been building with its significant funding (it’s raised over $20 million to date, a sizeable sum for a stealthy startup out of London).
+
+Up to now, there have been a select number of studios already working on SpatialOS-based games. These include Bossa Studios (Worlds Adrift), Spilt Milk Studios (Lazarus), HelloVR (MetaWorld), Entrada Interactive (Rebel Horizons) and Soulbound Studios (Chronicles of Elyria).
+
+It’s an interesting move for Improbable to team up with Google for the alpha launch of SpatialOS: It means that, essentially, we do not have a lot of transparency on how SpatialOS may be priced down the line. However, it seems as if Google sees this as just one step of a longer relationship with Improbable, so that might mean some form of subsidy for more than just the alpha phase.
+
+“The future of gaming lies in the cloud,” said Google Global Head of Technology Partnerships Nan Boden. “This partnership is an opportunity for us to help developers to take full advantage of the new possibilities enabled by SpatialOS combined with the unique abilities of Google Cloud Platform. This is the first step in Google’s partnership with Improbable, and just the beginning of our work together to support game development and beyond.”
+
+And while Google Cloud Platform haslong positioned itselfas a place for games developers, this appears to be the first time it has partnered with a platform developer in this way.
+
+As an Improbable person explained it to me, for now this will mean that if developers today had been using other environments for their compute engines, this will not be relevant when developing on SpatialOS.
+
+“When a developer develops on SpatialOS, they don’t manage their own servers — they build on SpatialOS, and SpatialOS then assigns the compute required in the most effective way across servers in the cloud,” he said. “So, someone developing on SpatialOS does not choose a particular cloud. They use SpatialOS and SpatialOS assigns the compute to servers.”

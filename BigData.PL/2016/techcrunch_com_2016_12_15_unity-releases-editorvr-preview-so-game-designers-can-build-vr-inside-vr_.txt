@@ -1,0 +1,13 @@
+Unity releases EditorVR preview so game designers can build VR inside VR
+
+Unityis making a huge bet on VR and is aiming to ensure that developers have plenty of reasons to build their virtual reality titles on the company’s game engine. Today, the company has released a preview build of its EditorVR tool which allows game designers to dive into their creations in VR to build and destroy to their hearts’ content.
+
+At the end of the day the keyboard and mouse are likely still going to be the preferred tools of developers so Unity’s EditorVR team built the tool to work in conjunction with more established methods as more of a means of creating a rough initial layout or tweaking something precise.
+
+In a demo at the company’s Unite conference last month, Unity’s Principal Designer Timoni West showed off some of the Editor’s features, which you can check out in the video below.
+
+One of the broader goals of the EditorVR tool is to do things that just aren’t really possible outside of VR. A good deal of virtual reality interfaces right now focus on 3D worlds with fixed 2D interfaces, Unity is aiming to make the creation process in VR a bit more three-dimensional. You can set up shop in a space you’ve created and actively tweaking designs by tossing items into the scene from your toolbar.
+
+The editor is available for the Oculus Rift and HTC Vive virtual reality systems at the moment. A big challenge for the team was taking the vastly different controllers for those systems and creating some semblance of a standard control set.
+
+The company is quick to say that this is an experimental feature and that bugs are likely so developers should always keep their work backed up just to be safe. Unity developers can download a preview and learn more about the EditorVR toolhere.

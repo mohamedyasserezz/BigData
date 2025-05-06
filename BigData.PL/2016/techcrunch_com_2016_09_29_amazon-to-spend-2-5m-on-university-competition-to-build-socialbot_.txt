@@ -1,0 +1,19 @@
+Amazon to spend $2.5M on university competition to build “socialbot”
+
+If you need an Uber, Amazon Alexa has your back. Unfortunately if what you need is a conversation buddy, the personal assistant isn’t quite up to the task.
+
+In an effort to bolster Alexa’s social intelligence, Amazon is putting $2.5 million into a new university competition to design and build “socialbots” for the platform. Engineers will use the Alexa Skills Kit to build the artificial socialites. As part of the competition, the Washington Post, owned by Amazon’s Jeff Bezos, will also be making its corpus available to participants as a tool to train the bots.
+
+To evaluate progress, Amazon will be letting Alexa users test the conversational chops of the bots in the wild. Once it all goes live, users can simply ask Alexa to chat about a specific topic to engage with the socialbots. At the end of a conversation, these same users will submit feedback that will be a key component in determining which teams advance to the final live judging event.
+
+The competition is set to last a year and culminate in the November 2017 AWS re:invent conference. Amazon is making the Alexa Prize an annual event, so by the time winners are announced, next year’s competition will be gearing up.
+
+The team that builds the best socialbot for Alexa will receive $500,000. The school attended by the winning team is also eligible for an additional $1 million, but they will only receive the money if the bot can hold a “coherent and engaging” conversation with humans for 20 minutes.
+
+An additional $1 million will be split up in $100,000 increments and given to ten teams as a stipend to finance work. These teams will also be receiving Alexa enabled hardware, AWS services, and support from Alexa engineers.
+
+Registration is open now, andinterested teams can find competition rules on the Amazon developer website.
+
+One of the hardest things  to do in a conversation is listen, to truly let go of thinking about yourself and be present for another person. It’s also something most personal assistants do pretty well right now. While natural language processing is no joke, teams will be starting with something that even humans can’t do very well in conversation.
+
+It’s also why pop-culture representations of AI personal assistants usually involve a character just looking for someone to listen to them. Hopefully by next season’s Mr.Robot, Dom will not only have a loyal listener in her Alexa enabled Echo, but someone who she can have a heart to heart with  — and maybe also gossip with about the morning’s Washington Post.

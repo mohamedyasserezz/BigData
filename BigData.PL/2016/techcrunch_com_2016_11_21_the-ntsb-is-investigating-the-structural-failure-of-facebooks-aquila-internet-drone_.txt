@@ -1,0 +1,19 @@
+The NTSB is investigating the ‘structural failure’ of Facebook’s Aquila internet drone
+
+Say what you will about the merits of Facebook’s Internet.org and Free Basics — it’s pretty cool that they’re building ahuge, solar-powered, laser-shooting droneto deliver it. But a “structural failure” that occurred on the Aquila’s first test flight may be more serious than Facebook made it out to be:The National Transportation Safety Board is conducting an investigation, Bloomberg reports. The NTSB confirmed this and provided further details.
+
+Facebookwrote about its tests(which occurred on June 28) in July, listing several things they were looking at, learned and so on. Under the “Real-world conditions” bullet point,the blog postadmits things weren’tentirelynominal:
+
+We are still analyzing the results of the extended test, including a structural failure we experienced just before landing. We hope to share more details on this and other structural tests in the future.
+
+They didn’t, possibly because of the NTSB investigation, but Facebook did issue a statement today emphasizing the positive outcomes of the test:
+
+We were happy with the successful first test flight and were able to verify several performance models and components including aerodynamics, batteries, control systems and crew training, with no major unexpected results.
+
+Really, it was too much to hope that nothing would go wrong on the first full-scale test of an enormous, experimental aircraft design. A source close to the project told TechCrunch that some damage was expected, since the Aquila isn’t actually designed for repeat takeoffs and landings (it has skids, not landing gear), and also because the day was windier than expected. The failure occurred just a few seconds before landing from the craft’s 90-minute flight, the source said.
+
+It’s the NTSB’s prerogative to investigate any airborne troubles like this, and clearly it decided to so in this case, perhaps because of the high-profile nature of the test and aircraft. But the NTSB wouldn’t get involved if a screw dropped off: a representative explained that it investigates when aircraft weighing 300 pounds or more cause death or serious injury, or incur “substantial damage” — defined as damage that “compromises the airworthiness of the aircraft.”
+
+That said, if the Aquila had nose-dived into the ground, caught fire or sustained some other high-profile damage, that likely would have come out by now. A full report is expected in a month or two, at which point we’ll have more details — but considering the scope of the project and pride evinced by Facebook in the Aquila’s development, it seemed reasonable to, well, clip its wings a little bit.
+
+(This article has been substantially updated from its original form.)

@@ -1,0 +1,27 @@
+Uber begins background collection of rider location data
+
+Imagine you’re on your way to a therapy appointment in a downtown high-rise. You hail an Uber and enter a nearby coffee shop as your destination so you can grab a snack before the appointment. In the car, you scroll through Instagram and check your email. You get out, buy your coffee, and walk around the corner to your therapist’s office.
+
+If you installed the latest app update, Uber has been tracking your location the entire time.
+
+The app update (it’s 3.222.4, for those keeping track) changes the way Uber collects location data from its users. Previously, Uber only collected location information while a user had the app open – now, Uber asks users to always share their location with the ride-hailing company.
+
+Uber says that, even though it can harvest your location constantly while its app is running in the background on your phone, it won’t use that capability. Instead, Uber claims it just needs a little bit more location data to improve its service, and it has to ask for constant access because of the way device-level permissions are structured.
+
+Specifically, Uber wants access to a rider’s location from the moment she requests a ride until five minutes after the driver drops her off, even if the app is not in the foreground of her phone. Previously, Uber would not collect a rider’s background location during the trip, or her location after drop-off.
+
+The company will use this information to improve drop-offs and pick-ups, which have consistently been a pain point for Uber and other ride-hailing services. The most common reason for riders and drivers to contact each other is to communicate their location when the app does not provide an accurate pinpoint, and Uber hopes to cut down on confusion during pick-up.
+
+Uber also wants to track how often riders cross the street directly after a drop-off, which the company believes could indicate a safety hazard. Riders shouldn’t have to dart through traffic to get to their destination, a spokesperson explained, and tracking a user after drop-off can help the company detect whether the driver dropped their passenger off in a risky place.
+
+“We’re always thinking about ways we can improve the rider experience from sharpening our ETA estimates to identifying the best pick up location on any given street. Location is at the heart of the Uber experience, and we’re asking riders to provide us with more information to achieve these goals,” an Uber spokesperson said in a statement.
+
+Although the new collection of background location data might come as a surprise for some riders, Uber laid the groundwork for this change last year. The company updated its privacy policy last summer to allow for background location data collection, which prompted backlash from privacy groups and aFederal Trade Commission complaint.
+
+Ubersaid at the timethat background location data would “provide new useful features, such as providing faster loading time when the user opens the app (currently, there is a lag time between opening the app and seeing the available cars in your area, during which time the app is trying to figure out your location).” With the latest app update, Uber is finally following through on last year’s privacy policy changes.
+
+The Electronic Privacy Information Center, which filed the FTC complaint against Uber, called the proposed background location collection an “unlawful and deceptive trade practice.” However, Uber says it is getting consent from users before beginning background location collection and disseminating a link thatexplains the changeswhen riders are asked to update their GPS permissions.
+
+The New York Attorney General’s Office reached a settlement with Uber in January that addressed some of the concerns raised by privacy groups. Under theagreement, Uber is required to encrypt user location data while it is in transit from the user’s phone or between Uber’s servers and GPS data stored by the company must be protected by multi-factor authentication.
+
+But some riders might still be uncomfortable with Uber tracking them after they’ve exited their driver’s car, or while the app is running in the background. Those who don’t want to share the extra location data with Uber canturn off location sharingin their phone’s settings — and, although users will be greeted with a notice that says Uber needs their location in order to continue, they can also manually enter an address for pick-up.

@@ -1,0 +1,31 @@
+Carnegie Mellon’s Mayhem AI takes home $2 million from DARPA’s Cyber Grand Challenge
+
+The 2016 DARPACyber Grand Challengehas concluded, and the winning team — Carnegie Mellon University’s ForAllSecure — is taking home the $2 million grand prize. What’s that you say — what’s the Cyber Grand Challenge? I’m glad you asked!
+
+Like the other challenges the Defense Department’s R&D arm has offered, the CGC is focused on autonomy — but where the original Grand Challenge and Robotics Challenge were about intelligently navigating the real world, this one is about operating in a threat-filled internet.
+
+Seven teams were invited to Las Vegas to compete on the floor in a 96-round game of “Capture the Flag.” It’s a time-tested competitive hacking game in which teams are assigned servers which must perform certain tasks while constantly being fed new code filled with bugs, security holes, and inefficiencies. Teams must protect their own data while attempting to access that of the others — much like real-life CTF.
+
+The difference in this game is that the players in the game were totally autonomous. Normally a human would be looking at and correcting the code, choosing whether and whom to attack, and so on — but for the CGC, all that has to be done by the system.
+
+The idea is, of course, to produce systems that can patch themselves, watch for intrusions, and so on, with minimal human interaction. It’d be nice to know that your computer is looking out for itself.
+
+After some 8 hours of battle at a ballroom in the Paris hotel (somehighlights), the victor emerged: ForAllSecure’s “Mayhem,” with second place going to TechX’s Xandra. That’s $2 million and $1 million respectively, on top of the $750,000 each of the 7 finalists already received.
+
+What’s more, Mayhem is, as of this writing, the first autonomous CTF system to play against humans. The team was invited to enter the CTF tournament at the neighboring DEF CON, and the game is afoot.
+
+We are LIVE at@defcon!!! First human vs. computer CTF !
+
+— Legit BS (@LegitBS_CTF)August 5, 2016
+
+The manager of the CGC program, Mike Walker, promptly threw Mayhem under the bus.
+
+“I don’t expect Mayhem to finish well,”he said in the DARPA press release. “This competition is played by masters and this is their home turf. Any finish for the machine save last place would be shocking.”
+
+Not the nicest thing to say about a champion AI that just took first place in an incredibly sophisticated virtual game, but he probably knows what he’s talking about. I’ll update this post when we find out how Mayhem fares against flesh and blood.
+
+Update: As predicted, Mayhem was trounced, though it did stay ahead of a few other teams for a time.
+
+pic.twitter.com/OT6U7bJwRr
+
+— Vito (@Vito_lbs)August 7, 2016

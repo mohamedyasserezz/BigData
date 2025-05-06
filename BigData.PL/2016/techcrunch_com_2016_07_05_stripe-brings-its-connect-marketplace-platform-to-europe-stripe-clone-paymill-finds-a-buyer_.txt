@@ -1,0 +1,33 @@
+Stripe brings its Connect marketplace platform to Europe, Stripe clone Paymill finds a buyer
+
+As the number of apps and sites for buying and selling goods and services continues to grow, we’re seeing a shakeout among the companies that help make those wheels of commerce turn, with the biggest of the lot continuing to scale up and those that have failed to grow getting swallowed up.
+
+Stripe, the startup based out of the U.S. that lets online businesses and apps quickly incorporate payments and other financial services by way of APIs, is expanding itsStripe Connectproduct to marketplace businesses based in the UK, Ireland and the Nordics. Meanwhile, one of Stripe’s rivals has finally found a buyer after filing for bankruptcy in April:Paymill— a Stripe clone incubated by Rocket Internet back in June 2012 — has been acquired by Swiss financial services company Klik & Pay for an undisclosed sum.
+
+Stripe Connect was originallyintroduced in 2015and is part of the company’s bigger aim to provide financial services beyond simple payments. In this case, it covers not only paying in and out in different currencies, but also things like identity verifications and handling localized regulatory compliance, currently covering 25 countries and based on a commission per transaction. (For standalone accounts, accepting payments costs 1.4% + 20p for European cards and 2.9% + 20p for non-European cards. Managed accounts that gives you access to more customization and transfer timing is charged at 0.5% more.)
+
+Aimed at marketplaces — Amazon-style platforms where both buyers and vendors of goods or services come together to transact — that want to expand both inside and outside of their home markets, Stripe Connect follows the basic form of other Stripe services in that it’s based around APIs. This means businesses can add a line of code to begin using it.
+
+Originally, Stripe Connect was only available to companies in the U.S. and Canada, but with companies like Lyft and Kickstarter among the customers, Stripe Connect has become the company’s most successful product, the company tells me. Now it’s also working with a range of marketplace startups in the European neck of the woods, including Deliveroo, LoveHomeSwap and fashion site Lyst.
+
+Stripe Connect’s expansion comes at an interesting time in the European tech world. Most in the UK and those who do business in it are waiting to see just how the Brexit referendum will play out, some with more than a little apprehension and dread.
+
+But on the other hand, up to now, there has been a lot of success among “marketplace” startups in the country, and many investors are still pinning a lot of hope on them. Stripe estimates that in the UK alone, marketplace startups are expected to raise some $1 billion in funding this year. (Who would be in that group? Farfetchraised $110 millionin May; and we’ve heard Deliveroo may have a round in the works. Or perhaps Lyst, or Crowdcube?)
+
+For Stripe, theUK is its largest market outside the U.S. “by a significant margin,” according to James Allgrove, head of UK growth. “We have tens of thousands of users, and we process billions every year,” he said. And there is no plan at the moment for that to change, or for Stripe to move. “Ithink Brexit has introduced some uncertainty, but we’re not changing what we are doing in the UK as a result of it. It’s a large market and still very attractive.” It’s also recentlyexited beta in France, which could be a clue as to one country where Connect will go next.
+
+And at the moment, economies of scale are a much bigger factor for the Stripes of the world — a situation that is underscored by the fate of Paymill, which filed for insolvency in April and has now been sold to Swiss fintech company Cybersevices SA, owner of another payments clone called Klik & Pay, for an undisclosed sum.
+
+In its lifetime, Paymill had raised a $18 million from Rocket and regular co-investors like Sunstone, Holtzbrinck and Blumberg and ambitious to grow beyond Europe. But when you consider that Stripe has raisednearly $300 million, it’s no surprise to see that Paymill struggled to compete and grow.
+
+On top of this, the writing may have been on the wall for Paymill for another reason: changes underway at its original parent company. Rocket Internet, which went public in October 2014, has been reorganizing its sprawling e-commerce empire, and part of that has involved shuttering and combining several operations, including Rocket’sfinancial services startups.
+
+For now, Klik & Pay says that it will continue to operate Paymill’s services alongside its own.
+
+“In Paymill we have an innovative company by our side that will help us develop new markets and target regions,” Daniel P. Georges, founder of Klik & Pay, said in a statement. “Paymill already brings a lot of experience with it and attracted us through its passion and enormous enthusiasm for the payment sector.”
+
+While one Paymill co-founder, Simon Schmincke, left the company some time back and is now a partner at VC firm Creandum, another co-founder, Mark Henkel, had stayed on as CEO, and he will continue to work with Paymill post-acquisition.
+
+“We had some interested parties and offers following the announcement of the petition for insolvency,” he said in a statement. “We therefore spoke to several possible cooperation partners, as we felt it was important that the deal would not only be the right one on paper, but also offer the best possible future for Paymill. We have a brilliant strategic fit with Klik & Pay and our vision and objectives are perfectly aligned, so we are very much looking forward to working together in the future.”
+
+Longer term, the questions for Klik & Pay will be the same as those for Paymill, and Stripe itself: there is still a question mark about whether the services it offers today will be enough to sustain margins in the long term, and at what point will there be enough customers on the platform to tip the platform into profit.

@@ -1,0 +1,45 @@
+IEEE puts out a first draft guide for how tech can achieve ethical AI design
+
+One of the barriers standing in the way of ethically designed AI systems that benefit humanity as a whole, and avoid the pitfalls of embedded algorithmic biases, is the tech industry’s lack of ownership and responsibility for ethics, according to technical professional association, the IEEE.
+
+The organization has today published the first version of a framework document it’s hoping will guide the industry toward the light — and help technologists build benevolent and beneficial autonomous systems, rather than thinking that ethics is not something they need to be worrying about.
+
+The document, calledEthically Aligned Design, includes a series of detailed recommendations based on the input of more than 100 “thought leaders” working in academia, science, government and corporate sectors, in the fields of AI, law and ethics, philosophy and policy.
+
+The IEEE is hoping it will become a key reference work for AI/AS technologists as autonomous technologies find their way into more and more systems in the coming years. It’s also inviting feedback on the document from interested parties — there’s aSubmission GuidelinesonThe IEEE Global Initiative’s website. It says all comment and input will be made publicly available, and should be sent no later than March 6, 2017.
+
+The wider hope, in time, is for the initiative to generate recommendations for IEEE Standards based on its notion of Ethically Aligned Design — by creating consensus and contributing to the development of methodologies to achieve ethical ends.
+
+“By providing technologists with peer-driven, practical recommendations for creating ethically aligned autonomous and intelligent products, services, and systems, we can move beyond the fears associated with these technologies and bring valued benefits to humanity today and for the future,” says Konstantinos Karachalios, managing director for IEEE Standard Association, in a statement.
+
+The 136-page document is divided into a series of sections, starting with some general principles — such as the need to ensure AI respects human rights, operates transparently and that automated decisions are accountable — before moving onto more specific areas such as how to embed relevant “human norms or values” into systems, and tackle potential biases, achieve trust and enable external evaluating of value alignment.
+
+Another section considers methodologies to guide ethical research and design — and here the tech industry’s lack of ownership or responsibility for ethics is flagged as a problem, along with other issues, such as ethics not being routinely part of tech degree programs. The IEEE also notes the lack of an independent review organization to oversee algorithmic operation, and the use of “black-box components” in the creation of algorithms, as other problems to achieving ethical AI.
+
+One suggestion to help overcome the tech industry’s ethical blind spots is to ensure those building autonomous technologies are “a multidisciplinary and diverse group of individuals” so that all potential ethical issues are covered, the IEEE writes.
+
+It also argues for the creation of standards providing “oversight of the manufacturing process of intelligent and autonomous technologies” in order to ensure end users are not harmed by autonomous outcomes.
+
+And for the creation of “an independent, internationally coordinated body” to oversee whether products meet ethical criteria — both at the point of launch, and thereafter as they evolve and interact with other products.
+
+“When systems are built that could impact the safety or wellbeing of humans, it is not enough to just presume that a system works. Engineers must acknowledge and assess the ethical risks involved with black-box software and implement mitigation strategies where possible,” the IEEE writes. “Technologists should be able to characterize what their algorithms or systems are going to do via transparent and traceable standards. To the degree that we can, it should be predictive, but given the nature of AI/AS systems it might need to be more retrospective and mitigation oriented.
+
+“Similar to the idea of a flight data recorder in the field of aviation, this algorithmic traceability can provide insights on what computations led to specific results ending up in questionable or dangerous behaviors. Even where such processes remain somewhat opaque, technologists should seek indirect means of validating results and detecting harms.”
+
+Ultimately, it concludes that engineers should deploy black-box software services or components “only with extraordinary caution and ethical care,” given the opacity of their decision making process and the difficulty in inspecting or validating these results.
+
+Another section of the document — on safety and beneficence of artificial general intelligence — also warns that as AI systems become more capable “unanticipated or unintended behavior becomes increasingly dangerous,” while retrofitting safety into any more generally capable, future AI systems may be difficult.
+
+“Researchers and developers will confront a progressively more complex set of ethical and technical safety issues in the development and deployment of increasingly autonomous and capable AI systems,” it suggests.
+
+The document also touches on concerns about the asymmetry inherent in AI systems that are fed by individuals’ personal data — yetgains derived from the technology are not equally distributed.
+
+“The artificial intelligence and autonomous systems (AI/AS) driving the algorithmic economy have widespread access to our data, yet we remain isolated from gains we could obtain from the insights derived from our lives,” it writes.
+
+“To address this asymmetry there is a fundamental need for people to define, access, and manage their personal data as curators of their unique identity. New parameters must also be created regarding what information is gathered about individuals at the point of data collection. Future informed consent should be predicated on limited and specific exchange of data versus long-term sacrifice of informational assets.”
+
+The full IEEE document can bedownloaded here.
+
+The issue of AI ethics and accountability has been rising up the social and political agenda this year, fueled in part by high-profile algorithmic failures such asFacebook’s inability to filter out fake news.
+
+The White House has also put out itsown reports into AI and R&D. And this fall a U.K. parliamentary committeewarned the governmentof the need to act pro-actively to ensure AI accountability.

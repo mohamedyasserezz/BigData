@@ -1,0 +1,25 @@
+Facebook, Microsoft, Twitter and YouTube collaborate to remove ‘terrorist content’ from their services
+
+Facebook, Microsoft, Twitter and YouTube today announced they would cooperate on a plan to help limit the spread of terrorist content online. The companies said that together they will create a shared industry database that will be used to identify this content, including what they describe as the “most extreme and egregious terrorist images and videos” that have been removed from their respective services.
+
+Facebook describes how this database will work in anannouncementin its newsroom. The content will be hashed using unique digital fingerprints, which is how its identification and removal can be handled more easily and efficiently by the company’s computer systems and algorithms.
+
+Using a database of hashed images is the same way that organizations keep child pornography off their services. Essentially, a piece of content is given a unique identifier. If any copies of that file are analyzed, they will also produce this same hash value. Similar systems are also used to identify copyright-protected files.
+
+However, where this new project differs is that the terrorist images and videos will not be automatically removed when content is found to match something in the database. Instead, the individual companies will determine how and when content is removed based on their own policies, and how they choose to define terrorist content.
+
+That could quell claims of censorship, but, on the flip side, if the companies aren’t quick to respond, it could mean the images and videos have a chance to circulate and be viewed before they’re pulled down.
+
+Facebook also notes that personal information will not be shared, though it didn’t say that this information is not collected. The government can still go through legal means to find out from which accounts the content originated, and other info as before. The companies will continue to make their own determinations about how they handle those government requests and when those requests are disclosed.
+
+The new database will be continually updated as the companies uncover new terrorist images or videos which can then be hashed and added to this shared resource.
+
+While the effort is beginning with the top social networks, the larger goal is to make this database available to other companies in the future, Facebook says.
+
+“We hope this collaboration will lead to greater efficiency as we continue to enforce our policies to help curb the pressing global issue of terrorist content online,” states the post.
+
+Given the recent discussions about the spread of fake news on social media, one hopes this new collaboration could potentially pave a path for the companies working together on other initiatives going forward.
+
+The problem of false news also damages all of social media, and has raised questions about what role should the companies play in battling that content. There are some who would claim that these companies have no business being arbitrators of the news or what’s right and wrong — and companies themselves would be glad to be “dumb” platforms, as well, in order to escape their responsibility in the matter.
+
+However, because of their outsized influence on today’s web, these companies are beginning to wake up to the fact that they will be held accountable for the content shared on their platforms, given that content has the ability to influence everything from terrorist actsto how people perceive the worldand even politics on a global scale.

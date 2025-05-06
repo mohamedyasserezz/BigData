@@ -1,0 +1,35 @@
+Enterprise chat app Slack ties up with Salesforce in a deep product partnership
+
+Slack— the popular enterprise chat app that now has 3 million users, 930,000 of them paying — is adding in another key integration as it continues to get more embedded with its customers.
+
+Today the company is turning on what it describes as a “deep product partnership” withSalesforce— an integration that will make it much easier for businesses to share data across the two platforms, specifically around employee conversations and sales account information. Slack says it is the company’s biggest partnership to date.
+
+The move is a sign of how Slack, a startup thatlaunched only in 2014, continues to punch above its weight among enterprise companies. Slack is working with Salesforce’s strategic product alliances team, which partners with bigger and more mature companies like Microsoft, Cisco, AWS and Box.
+
+Salesforce only integrates its platform this closely with a handful of other companies, the company said, with the list also including Microsoft, AWS, Cisco and Box.
+
+“We’re always looking to help companies better communicate and collaborate around sales, marketing and customer service,” said Ryan Aytay, EVP of Strategic Product Alliances, Salesforce, in a statement. “And our integration withSlackallows us to offer our customers a better experience by partnering with best of breed technology. We’ll continue to evolve and improve the ways Salesforce andSlackwork together.”
+
+It’s also a sign of how Salesforce — which has been on amassive acquisition spreethat has even extended topossibly include another chat app, Twitter— realises that it cannot be all things to all people. The companyhad big ambitionsfor its own messaging app, Chatter, but it seems that now it has realised that it needs to go to where the audience is. And that audience, it seems, is on Slack.
+
+(No comment from Brad Armstrong, Slack’s head of business development, on whether this deal resulted from any earlier attempts to acquire Slack outright. The startup confirmed however that neither Salesforce nor its CEO Marc Benioff are investors in it.)
+
+Since appearing on the scene as a pivot from failing gaming company Tiny Speck — co-founder and CEO Stewart Butterfield (who had co-founded Flickr back in the day) told me the team was using Slack to chat to each other and discuss embedded work files across multiple locations and realised how crazy useful it was — Slack’s chat platform has been a sticky, runaway success.
+
+That’s been both in terms of its own growth and in competition with other products on the market like Yammer from Microsoft (which is nowdownsizing a littleby removing its Enterprise tier) and, potentially, Facebook at Work, which has yet to make a full launch out of closed beta but is apparently getting ready tomake the leap in October.
+
+Slack’s winning formula combines an organised space for people not only to talk to each other but — by way of integrations with other apps — get work done.
+
+Today Slack offers around 600 integrations with a number of other cloud-based apps that a business might use, and with some 90% of all of its customers using those integrations, Slack says that Salesforce had been one of the most requested.
+
+The Salesforce integration will work essentially like many of those others do today, using a slash and keyword (in this case “Salesforce”) to bring data from Salesforce into the conversation:
+
+This integration is not a sign of Chatter shutting up, so to speak: Armstrong told me that one of the results of the integration will be that you can swap data from one chat app to the other. Data will be channeled into Salesforce, he said, “as a system of record.”
+
+Other features will include the ability to import account details; to create Slack channels for specific accounts; special formatting for Salesforce data that will keep records intact; and automatic alerts for new leads.
+
+Interestingly, Slack startedworking closely with Quipearlier this year offering users a way of signing into the word processing app with their Slack IDs (that’s one to watch). This will be carried over into this integration, now that Quip is a part of Salesforce (which acquired it recently).
+
+One thing that I wondered about, though, is what would happen to all the third party apps that had been developed to facilitate Salesforce and Slack integrations up to now. There are many, including Zapier, Workbot, Troops and Birdly, which is in the Slack Fund portfolio (which puts money into some of the more promising third party Slack apps).
+
+Are these no longer necessary, or why would they get kicked off if the integration between the two larger platforms is now much deeper? Slack says no, for now at least. “Our platform ecosystem is thriving and we’re thrilled to see developers addressing the many waysSlackand CRM systems can work together,” a spokesperson said. “Ultimately, we want teams to use the tools that make sense for the different ways they work.”

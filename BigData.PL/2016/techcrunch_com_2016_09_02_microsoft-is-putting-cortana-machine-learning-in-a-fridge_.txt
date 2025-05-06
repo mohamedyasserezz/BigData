@@ -1,0 +1,9 @@
+Microsoft is putting Cortana machine learning in a fridge
+
+Microsoft isworking with Liebherr’s appliance divisionto rebuild the refrigerator and make it smarter, faster, strong; well, maybe just smarter. The new collaboration between the two will see Microsoft provide computer vision technology, via its Microsoft Cognitive Services Computer Vision API, to let the fridge identify objects contained within.
+
+Why would you want a fridge that knows what it’s holding? It’ll save you those extra return trips to the grocery store for things you forgot, for one. The deep learning algorithms in use will be able to learn new food types based on its experience from processing millions of generic food packaging images, and it should be able to get smarter very quickly while in use when and if it eventually comes to market, using data gathered from a wide pool of real-world users.
+
+Other fridges have the ability to letyou peer inside remotely, but Microsoft’s data science team worked directly with Liebherr on this prototype to make alearningfridge that won’t force you to rely on your pathetic human eyes looking at a grainy image over a poor cellular connection to roll the dice while shopping.
+
+The fridge is just a prototype for now, though, so you’ll have to do with your uneducated, idiotic produce cooling box for now. But in the meantime, if you want some Microsoft in your refrigerator,you can always get this.

@@ -1,0 +1,45 @@
+Sequoia backs artifical intelligence startup Mad Street Den
+
+Mad Street Den, an India-U.S. startup focused on artificial intelligence that was started by ex-Silicon Valley founders, has pulled in an undisclosed Series A round of funding from Sequoia Capital India. Existing investors Exfinity Ventures and growX Ventures also took part.
+
+The two-and-a-half-year-old company is registered in the U.S. but principally located in Chennai, India, with offices in London and San Francisco. Mad Street Den was founded by husband and wife duo Anand Chandrasekaran and Ashwani Asokan who spent more than 25 years combined working in the U.S. — he is a neuroscientist who graduated Stanford, while she spent most of her career Stateside with Intel Labs.
+
+We wrote about Mad Street Den whenit picked up a $1.5 million seed roundin January 2015. Asokan told TechCrunch in an interview that raising from Sequoia is a major validation of the business — albeit that the size of this Series A is not being revealed.
+
+“We used our [seed] money in exactly 18 months [and] clearly demonstrated that we can plan and use our money to reach our goals,” she explained.
+
+Despite some major progress on the tech side of AI, in particular Google-owned companyDeepMind beating Go world champion Lee Sedol, but the actual application of technology hasn’t yet lived up to the considerable hype.
+
+Beyond developing its core AI technology, Mad Street Den has focused on developing products for e-commerce viaits Vue.ai sub brand.
+
+“Our hypothesis is that retail and shopping is so visual and visceral, there’s so much sensory stuff going on, and our premise is that all of this is getting lost when you go online. How do you bring that visual stimulation back to the shopping experience?” Asokan said.
+
+Vue.ai offers services and features that include visual search which uses AI and tagging to showcase similar products, personalized homepages based on the shopper, tailored product recommendations and more. In total, there are 14 fashion-focused products, but Mad Street Den is also venturing offline, too.
+
+“Now that we have covered entire customer journey on the front-end and back-end, our whole goal is to go with any e-commerce player, we want to be their one-stop shop,” Asokan explained. “A lot of online retailers are going offline, and 90 percent retail still happens offline. We told ourselves this is a great place to complete our circle.”
+
+It isn’t exactly clear how AI can be used offline, but Asokan hinted that tapping into video and image recognition — while keeping things anonymous — is the kind of data gathering that can add more value to the information that it already collects.
+
+“We are working with some big brands to be able to do [offline,]” Asokan added. “We should start seeing things go live in a couple of months.”
+
+Elsewhere, Mad Street Den also offers products for mobile gaming, engagement analysis, internet of things, and photo apps and social media that use AI such as gaze-tracking, gesture detection and more.
+
+Asokan said that the company’s immediate focus is to look at other verticals where it can apply its AI tech backbone beyond those it is already in.
+
+On the business side of things, she likens Mad Street Den to an enterprise company more than an AI lab — even though it does research — because of its focus on monetization.
+
+“We’ve been making money from day one, so we are more like a high-end enterprise company rather than a typical recommendations or SaaS company,” she explained. “Most of our customers want all of the 14-15 products we offer, so multi-year deals [which are usually charged by API calls] end up becoming an enterprise deal.”
+
+While there is money flowing in, the focus remains on scaling the business. In particular, Mad Street Den is keen to add to the handful of team members in San Francisco, where the primary AI talent is no doubt based. The company is aiming to grow that SF team to around five or six, while its overall staff count of 50 is likely to grow to 75.
+
+“I’m not necessarily thinking about being profitable or breakeven at this point, with the money we’ve got now we will make sure we go through it in [the agreed] period. The chances of [reaching breakeven] are high, but that’s not how I’m thinking about it right now,” Asokan said,
+
+“We want to prove the scale in next 12 months, possibly have a core AI breakthrough, and then hire the people we want to bring on,” she added.
+
+That begs the question, what kind of breakthroughs can we expect, or at least hope to expect, in the world of AI?
+
+Asokan told me that while some AI can replicate the functions of the brain, the real trick is to provide context. For example, identifying red is all well and good, but how do you differentiate between, say, blood-red, or tomato red. You need context to know that, in a food fight, that red thing flying towards you isn’t a red thing per se, it’s a tomato.
+
+“Current AI solutions are only as good as the data that you dump in there, but that isn’t how the human brain works. You start to learn new things thanks to context,” Asokan said.
+
+“We’ve made a lot of progress,” she added. “It obviously won’t be the same as vision — that is like cracking the human brain — but we are decades away.”

@@ -1,0 +1,27 @@
+Reuters is the latest large news agency to embrace content automation
+
+Reuters is the latest major news agency to embrace content automation. Reuters isn’t replacing human reporters and editors with software and self-flying cameras quite yet.
+
+But the news organization has struck partnerships with Graphiq Inc. and Wibbitz Ltd., to automate the creation of simple graphics and video clips, respectively, to run alongside relevant, human-reported Reuters news content on the third party sites that pay for and run it.
+
+Graphiq Inc.based in Santa Barbara, Calif., has integrated its free-to-use visualizations platform with Reuters News Agency to make the simple graphs and visualizations it creates in thousands of Reuters articles wherever they run on 3rd party sites.
+
+According to Graphiq GM Alex Rosenberg, Graphiq works with hundreds of publishers, including TechCrunch and now Reuters, to put dynamically generated infographics into articles. The company’s systems ingest data from public and private sources to create instant infographics.
+
+Examples might be a trend line graph reflecting changes in a company’s share price after a big announcement, a map showing home foreclosure prevalence, or Zika virus outbreaks in a certain region, and a floor plan of a basketball court showing plot points where a pro-player may have taken field goal shots and made or missed them during the playoffs.
+
+https://w.graphiq.com/w/4jJiPGWsfYx
+
+Graphiq generates revenue when readers of a Reuters or other news article see and click on a graphic, and visit the company’s own website which is ad-supported.
+
+Meanwhile, Tel Aviv-basedWibbitzuses natural language processing and algorithms to scan text captions and news articles to understand what a story is basically about.
+
+Its software-as-a-service then automatically summarizes a story, can create a voiceover or script for a story, and packages up video clips, photos and infographics available within a publisher’s platform or Wibbitz’s own, to generate a ready to publish video version of a story, in minutes.
+
+Reuters’ Bo Rosser, Global Head of Text and Data products for Reuters News Agency, said:
+
+“As every publisher knows, content performs better online when it has a visual component to it. Besides that, we want to save our editors time. If you send an editor a story with a pre-matched infographic [or video], then they do not have to spend time hunting down further content.”
+
+She said new technologies are constantly evaluated by Reuters by a team there called the Emerging Technology Group which is separate from the news agency.
+
+Reuters is not alone in its use of automation to create news. AP uses software to automate local sports reporting, and earnings reports. And ProPublica has used software to help conduct an investigation into which states are providing, or failing to provide, low-income high school students with the coursework they need to get into and succeed in college.

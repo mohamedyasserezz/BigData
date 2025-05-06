@@ -1,0 +1,23 @@
+NIST declares the age of SMS-based 2-factor authentication over
+
+2-factor authentication is a great thing to have, and more and more services are making it a standard feature. But one of the go-to methods for sending 2FA notifications, SMS, is being left in the dust by the National Institute of Standards and Technology.
+
+NIST creates national-level guidelines and rules for measurements, and among the many it must keep up to date are somerelating to secure electronic communications.
+
+An upcoming pair of “special publications,” as its official communiques are called, update its recommendations for a host of authentication and security issues, and the documents are up for “public preview.” I put the phrase in quotes because technically, a “public draft” triggers formal responses from partners and, in fact, from NIST itself.
+
+To avoid red tape, the Institute is trying out a new method for reviewing and commenting on the guidelines that isn’t quite so official:GitHub. “It only seemed appropriate for us to engage where so much of our community already congregates and collaborates,”reads an intro to the new process.
+
+The public preview, to be sure, is still very incomplete, and includes questions built right into the text — “I think we are making this too hard,” reads one piece of marginalia.
+
+At any rate, the changes are numerous, but perhaps most relevant for Joe and Jane Six-Pack is the active discouragement of using SMS as an “out of band authenticator” — essentially, a method for delivering a one-time use code for 2FA. (Emphasis theirs.)
+
+If the out of band verification is to be made using a SMS message on a public mobile telephone network, the verifier SHALL verify that the pre-registered telephone number being used is actually associated with a mobile network and not with a VoIP (or other software-based) service. It then sends the SMS message to the pre-registered telephone number. Changing the pre-registered telephone number SHALL NOT be possible without two-factor authentication at the time of the change.OOB using SMS is deprecated, and will no longer be allowed in future releases of this guidance.
+
+For now, services can continue with SMS as long as it isn’t via a service that virtualizes phone numbers — the risk of exposure and tampering there might be considered too great. NIST isn’t telling for now, but more info will come out as the comment period wears on. But before long all use of SMS will be frowned on, as the bolded passage clearly indicates.
+
+The alternative is to use a dedicated 2FA app like Google Authenticator or RSA SecurID, or a dedicated secure device like a dongle. There are plenty of options — SMS was just the easy one.
+
+Curious about the other changes?
+
+Feel free to dive into the documents themselves (links are at the top of theintro), and if you’d like to comment, useGitHub’s issue tracker.Details here.

@@ -1,0 +1,25 @@
+Yandex’s Android browser now supports third party ad-blocking extensions
+
+Another brick in the wall for themobile ad-blocking wars: Yandex has opened up its Android browser to third-party ad blocking extensions.
+
+The browser already had Yandex’s own ad-blocking tech built in but the Russian tech giant is now releasing an API for developers of content filtering software to further expand the capabilities for browser users to control what see.
+
+Yandex’s Android browser is popular in Russia — with daily active users of around five million.
+
+The company also has an iOS browser. “We are indeed considering supporting external ad-blockers on iOS,” said a spokeswoman.
+
+“In general, we see a huge problem in irritating ads on all platforms and would like to reach a balanced solution, where we improve experience for all parties involved — the users, the publishers and the advertisers,” she added.
+
+Rates of ad blocking usage have been growing significantly in the past three+ years as tracking technologies and targeting advertising have proliferated online, even as awareness about data privacy and security have grown.
+
+In a big related move last year Apple added support for ad blockers and content filters to iOS 9, which launched last fall — opening the floodgates to a raft ofcontent blocking appsbeing launched on its platform.
+
+Others followed its lead, with Opera, for example, which added a built in ad blocker to its desktop browser earlier this year,expanding that effort to mobile— starting with its Opera Mini for Android mobile browser.
+
+Third party ad blockers currently supported by the Yandex Browser on AndroidincludeAdguard AdBlockerandAdBlock Fast.
+
+The company says developers of other extensions can use its newContent Blocker APIto ensure compatibility.
+
+Commenting on the move in a statement, Yandex Browser chief Roman Ivanov said: “We want our users to feel comfortable online, but some forms of advertising hinder that. Banner ads sometimes masquerade as interface elements or hover over the page so that they cannot be closed.
+
+“Yandex’s own ad-blocking technology, built into Yandex Browser, automatically blocks aggressive and malicious advertising, but now we are taking it a step further by starting to support other ad-blocking extensions.”

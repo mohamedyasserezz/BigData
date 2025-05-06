@@ -1,0 +1,15 @@
+Reddit’s native image hosting goes (almost) site-wide
+
+Expect to see that “heavy load” message a little more often.
+
+A couple weeks back,Reddit began providingits own image hosting solution to a handful of subreddits. The experiment appears to have been a success, because the siteannounced todaythat the feature is rolling out to any SFW subreddit that wants to take advantage of it.
+
+The change might have been considered inevitable: Imgur, an incredibly popular image host spawned by a Redditor and a de facto sister site, has grown ambitions of its own beyond being Reddit’s bandwidth-rich sidekick. Statements from each obtained in May seemed to indicate a mutual desire to move away from co-dependence.
+
+Reddit’s own image hosting solution will (as previously announced) allow static images up to 20MB and GIFs up to 100MB, and will appear inline inside the post, both on the web and in the iOS and Android apps.
+
+Redditors are already kicking the tires on the system, and admin Amg137 is putting out fires:
+
+Yes, EXIF data is stripped. No, it isn’t stored. Yes, you can use third-party image hosts still. No, there are no plans to disallow them. Yes, Reddit stores a preview of its own for third-party hosts. No, images are not stored after you delete the post. Yes, you retain copyright if you had it to begin with. No keyboard navigation for subreddit images yet, but that’s a good idea. Yes, GIFs are converted to web-compatible mp4s.
+
+And yes, yes, NSFW support is coming soon.

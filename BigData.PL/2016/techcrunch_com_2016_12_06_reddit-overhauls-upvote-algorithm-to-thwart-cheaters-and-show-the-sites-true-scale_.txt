@@ -1,0 +1,13 @@
+Reddit overhauls upvote algorithm to thwart cheaters and show the site’s true scale
+
+Reddit has just completed a major redo of its scoring algorithm aimed at cracking down on bots and vote brigades while also showing just how big the site has gotten.
+
+In a self post on the site, admin KeyserSosa explained that the team felt that some of the many rules designed to prevent vote manipulation could be streamlined, especially a few that seemed to result in huge decreases in the final calculated score seen by users.
+
+Yes, it’s true: Those numbers on the site aren’t just “upvotes minus downvotes” or anything so simple. Theblue ball machine gifKeyserSosa shared as an indication of how the system works is probably closer to the truth. And he indicated in another comment that there is “some slight fuzzing” to stymie would-be reverse engineers of the algorithm.
+
+At any rate, the goal was to remove some of the rules that were resulting in scores of say, five thousand or so, on a post with far more people involved in the tallying process. After all, if 50,000 people upvoted something, shouldn’t that level of participation be reflected in the final score?
+
+The change went live a couple of hours ago and, as the post notes, everything is going haywire while the systems chew through the backlog of posts over the next week. But in the meantime, new posts will start seeing higher scores, and the front page has been updated to show a “k” instead of “000” at the end of posts with scores over 10,000. Comment scores should be largely unaffected.
+
+Expect things to be crazier than usual over there for the next few days while people figure out how to game the new system.

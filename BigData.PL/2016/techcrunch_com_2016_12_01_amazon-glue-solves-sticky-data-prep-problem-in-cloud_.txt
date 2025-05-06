@@ -1,0 +1,11 @@
+Amazon Glue solves sticky data prep problem in cloud
+
+Amazon announced Amazon Glue today at the re:Invent conference in Las Vegas. The tool has been designed to help developers process data, whether the source is in the cloud or on prem. This is sometimes known as extract, transform, load (ETL) of data, and it’s generally considered one of the toughest parts of analytics.
+
+As Amazon CTO Werner Vogels explained today on stage at the re:Invent, getting data into a form you can actually use it to perform analytics is hard work. In fact, it’s so difficult, that it’s generally accepted that you spend about 80 percent of your time getting the data ready to be analyzed and just 20 percent getting information from that data. Vogels said, the goal of Amazon Glue is to flip that equation, greatly simplifying the act of processing the data, so that you are freed to do analysis on it, regardless of the analytics tools you are using.
+
+This last point is particularly important because many analytics tools require that the data be in a specific format, and that transformation can be a lot of up-front work. Basically, Glue does all of this work for you — whether you’re using Amazon Redshift, Amazon S3, an RDS database, or any JDBC compliant database for that matter, regardless of where it’s stored.
+
+The first step is to simply point to your data sources, regardless of where they are. It builds the data catalog for you including giving you the opportunity to define access control. Next, it prepares the data by building it in the format required for your analytics package. Finally, it gives you the ability to schedule and run jobs against the clean data set, and if the source data changes, the jobs will run again automatically based on the new information.
+
+The whole idea is to remove the complexity from data preparation and maintenance, a task that has tended to be extremely labor intensive, and allow people to do what they actually want to do, and that’s run queries against one or more data sets to get answers based on that information.

@@ -1,0 +1,27 @@
+CounterCraft bags $1.1M to fire up a security decoy play
+
+Spain-based security startupCounterCraft, founded last September, has closed a €1 million ($1.1M) seed round to accelerate development of a b2b security decoy technology designed to engage hackers and keep them harmlessly occupied while also providing tools to analyze what’s going on.
+
+The startup is working on “a variety of techniques, including deception, to lure adversaries into exposing themselves,” is how co-founder and CEO David Barroso puts it.
+
+“We see counter-intelligence as a necessary stance in cyber security independent of the technology that supports it,” adds co-founder and CMO Dan Brett. “Until now it has been frustratingly manual to design and deploy campaigns to detect, study and engage with your adversaries. We offer a product to automate and manage this process.”
+
+Barroso argues there’s a step-change in security thinking underway, shifting from a ‘defend against all threats’ mindset towards permitting some attack vectors “in a controlled environment” — with CounterCraft’s particular sales pitch being the ability “to decide to eliminate them, study their movement and behaviour or even manipulate them”.
+
+The team points to investor dollars pouring into a slew of security startups also plying a nascent decoy furrow for tackling attacks — name checking the likes of TopSpin, Attivo, Guardicore, illusive Networks,YC-backed Cymmetriaand TrapX, and noting they have collectively bagged more than $100 million in VC funding since late 2014.
+
+CounterCraft is based out of Telefonica’s Wayra Madrid accelerator, and its funding comes via this program — with specific investors in the seed round including Adara Ventures, Orza Investments and Telefónica Open Future_.
+
+Its early focus for expansion is Europe and the Middle East, with Barroso noting that many of its rivals hail from Israel but are running out of the US — leaving room, he reckons, for a European team to address a less well served region with its own flavor of decoy tech.
+
+Commenting on the funding in a statement, Adara Ventures’ managing partner Alberto Gómez adds that the EMEA market “appreciates vendors with cutting-edge vision and technology, together with the focus and proximity to serve their needs”.
+
+While CounterCraft is not saying very much about what its core tech actually is (security startups do usually err on the side of disclosure caution), the team is claiming some early traction from a handful of Fortune Global 2000 clients in the financial and retail industry, and in government.
+
+“Such companies are looking for other ways to defend their organisations, along with being more active in their security posture,” says Barroso, adding: “We do not agree with the idea of ‘hacking back’ but there is a broad spectrum between being passive and ‘hacking back’.”
+
+Right now they’re running a closed beta with their early users, with a plan to open that up to more interested third parties this September. A full commercial launch is pegged for January 2017, assuming all goes to plan, as product development continues with the beta users.
+
+“Since we are still in an early stage of the product, we want to work closely with those early adopters and build a robust product that can help them when proposing active defence strategies,” Barroso adds.
+
+The subscription business model allows companies to run CounterCraft’s so-called “counter-intelligence campaigns” internally and externally. Those wanting to run internal campaigns need to install its tech inside their network, but for those wanting to run external campaigns a SaaS version is also available.

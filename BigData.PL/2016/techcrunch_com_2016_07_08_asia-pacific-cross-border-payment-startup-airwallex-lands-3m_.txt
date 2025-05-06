@@ -1,0 +1,21 @@
+Asia Pacific cross-border payment startup Airwallex lands $3M
+
+Fintech companies are continuing to draw interest from investors in Asia. The latest company to pull in financing isAirwallex, a China-Australia startup that specializes in cross-border transactions.
+
+The Melbourne-headquartered company this week announced a $3 million seed round led by Chinese investment Gobi Partners, with participation from angel investors Huashan Capital One and Billy Tam, CEO of China’s Easylink Payments.
+
+The startup aims to ease the headache and cost of cross-border purchases by enabling consumers to buy items from outside of their country using their local currency. In essence it uses the same principles asLondon-based Transferwisein that it reduces the costs that both merchants and consumers eat up when is the two parties are using different currencies.
+
+Airwallex CEO and co-founder Jack Zhang came upon the idea after growing tired of the additional cost of importing goods from overseas for a coffee shop business that he invested in while working for banks in Australia. Zhang, formerly with ANZ and NAB, decided that tech could provide a better solution and he founded Airwallex alongside four other co-founders, including CTO Jacob Dai and COO Lucy Yueting Liu, who spent time working foreign exchange for Barclays Bank.
+
+Zhang told TechCrunch in an interview that this pre-Series A round was wrapped up particularly quickly, taking just two weeks to close.
+
+“There’s a big opportunity here in Asia especially as the e-commerce is really taking off worldwide,” he said. “E-commerce players aren’t satisfied in their own country, and want to go global.”
+
+The company uses inter-bank exchanges to trade forex at a mid-market rate, something which Zhang said can save its clients as much as 90 percent on their foreign exchange rates.
+
+The service is in a closed beta right now and is expected to launch within a month, it is currently waiting on regulatory approval in Australia. The concept is similar to Braintree or Stripe, a system that sits behind the merchant — invisible to end-customers — through which payment is made. Airwallex itself will make money via a transaction fee based on the volume of payments it handles.
+
+The company has around 20 people in Melbourne, its main office, with a dozen staff in China and a handful based in Hong Kong. Zhang said the new funds will be used mainly on marketing, hiring and product development, Airwallex is also developing a wallet solution that will enable customers and merchants to hold multiple currencies at the same time.
+
+China, Hong Kong and Australia are the young company’s initial focus markets, but it has plans to expand to Singapore, Japan and Korea. The company is aiming to raise a Series A round before the end of the year to help finance that expansion.

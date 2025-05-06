@@ -1,0 +1,29 @@
+Blackmoon launches in the US to match investors with balance-sheet lenders
+
+It was only a matter of time before Tinder for balance-sheet lenders and debt investors became a thing.
+
+Financial matchmaking platformBlackmoonlaunched this week in the United States. The platform is designed to help institutional investors access non-bank balance-sheet loans. The Russian marketplace Lending-as-a-Service platform is also adding a New York office to its international footprint.
+
+Fair warning, the wordoriginatorcomes up a lot in this piece. For simplicity’s sake, let’s assume an originator is any place where a loan is issued. We encounter originators in the primary loan market when getting a car or student loan. Blackmoon, on the other hand, operates in the secondary market.
+
+An originator can hold a loan on its own balance sheet or it can sell off the loan to third-party investors. This is not new and has gone on for quite a while. Historically, mortgage originators have held on to healthy loans and sold off unhealthy loans to third-party investors.
+
+Holding a balance-sheet loan allows the originator to reap all the financial benefits of the investment. Unfortunately, greater risk comes with greater return. When a balance-sheet loan is held, the holder assumes the default risk or credit risk of the loan.
+
+Originators sell off loans to third-party investors to isolate credit risk from financial returns. Originators forgo some profit in exchange for reduced risk.
+
+Blackmoon has built a financial platform that enables institutional investors to invest in balance-sheet loans. This enables originators to offer loans to third parties without going through a complex sales process. Instead of building marketplace infrastructure, investors can integrate their existing backend with the Blackmoon API.
+
+More than 70,000 loans have been purchased through the Blackmoon marketplace from eight originators in seven countries. The company ambitiously wants to hit $1 billion in brokered loans over the next year. Most of the online lenders Blackmoon has worked with are European online lenders processing alternative loans. Blackmoon has implemented a proprietary series of algorithms to evaluate and price loans. The company facilitates the communication of lending data between originators and investors.
+
+Originators using Blackmoon maintain a relationship with borrowers while offloading credit risk. Because the connection stays intact, originators can claim a servicing fee in exchange for maintaining the relationship with borrowers. Servicing loans is a lucrative business for originators. Originators maintain these benefits while keeping loans off the books. This frees originators from being required to hold capital against debt.
+
+Unfortunately, this money comes at a cost for originators. If a loan goes bad, the originator is tasked with negotiating a restructuring. In the event of a loan default, the originator is limited in what it can do because the loan is contractually owned by the investor.
+
+One reason this market is fairly unaddressed is because of the complex legal requirements for debt transactions, according to experts in the field we reached out to. Blackmoon says that the process is currently only standardized in Europe.
+
+The process in the U.S. is dependent on the type of loan being transacted. Blackmoon uses a broker-dealer license in most cases. There is a standard, fixed amount of responsibility assumed by the originators.
+
+Most people’s gut reaction, when encountering alternative investing platforms in the fintech world, is to start prophesying a financial apocalypse. Industry experts caution that the market is so underdeveloped that it is hard to say how things will play out once institutions have access to it.
+
+Secondary loan markets have been around for a very long time and creativity, even excessive creativity, in the finance world is not ending anytime soon. Hopefully, fixation with a new type of loan investment will keep investors at bay long enough to avoid a race to the bottom in loan quality. Importantly, the platform is servicing institutional investors, not everyday investors. Right now, Blackmoon is focused on curating the best quality investments possible.

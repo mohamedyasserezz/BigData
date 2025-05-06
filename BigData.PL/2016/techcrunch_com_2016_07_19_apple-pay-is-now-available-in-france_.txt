@@ -1,0 +1,25 @@
+Apple Pay is now available in France
+
+Applel’avait déjà annoncélors de sa conférence d’inauguration de la WWDC en juin, mais maintenant c’est officiel. Apple Pay est désormais disponible pour les clients des banques partenaires possédant une carte Visa ou MasterCard. Malheureusement, rares sont ceux qui vont pouvoir s’en servir dès aujourd’hui.
+
+Parmi les grandes banques françaises,seul le groupe BPCEa accepté de travailler avec Apple pour implémenter Apple Pay pour ses clients. Les clients Caisse d’Épargne et Banque Populaire peuvent donc ajouter leur carte bancaire à l’application Wallet sur leur iPhone, iPad, Apple Watchet bientôt Mac.
+
+Apple Pay est aussi compatible avec les cartes Carrefour Banque et Ticket Restaurant, tout du moins pour ceux qui ne sont pas condamnés à utiliser des chéquiers papiers.
+
+Et pour les autres, si vous êtes clients Orange ou Sosh,Orange Cashva bientôt permettre de payer en utilisant Apple Pay. Après avoir créé un compte, vous pouvez l’alimenter en utilisant n’importe quelle carte bancaire. Ensuite, Orange Cash génère des cartes virtuels Visa qui pourront être utilisées par Apple Pay. Wirecard est le partenaire bancaire d’Orange Cash (et également deNumber26).
+
+Ce processus est plus fastidieux puisque cela rajoute une étape supplémentaire. Il faudra notamment penser à recharger son compte Orange Cash régulièrement. L’application n’est pas encore disponible dans l’App Store.
+
+Quant aux autres grandes banques françaises, BNP Paribas, le Crédit Agricole et la Société Générale n’ont pas l’air de vouloir s’intéresser à Apple Pay. En réalité, on imagine bien que des négociations sont en cours, en particulier sur les marges d’Apple.
+
+À chaque transaction, l’entreprise gérant les terminaux de point de vente reverse une faible commission à Visa, MasterCard et autre réseau de paiement. Visa ou MasterCard reverse ensuite une partie de cette commission à la banque émettrice de la carte. Apple demande aux banques de partager cette commission avec l’entreprise américaine si le paiement s’effectue grâce à Apple Pay. Et c’est là où cela coince.
+
+Après avoir été annoncé enseptembre 2014,le déploiement d’Apple Paya été plus long que prévu puisque le service est uniquement disponible aux États-Unis, au Royaume-Uni, en Chine, en Australie, au Canada, en Suisse, à Singapour et en France. En particulier, Apple a dû faire des concessions en Chine etréduire ses margespour faire plier les banques. Cela a créé un précédent et il semblerait que les banques françaises préféreraient reverser des commissions plus faibles à Apple.
+
+Mais maintenant que le groupe BPCE a accepté d’implémenter Apple Pay, ce n’est sans doute qu’une question de temps avant que les autres banques ne s’alignent. Apple travaille aussi au lancement d’Apple Pay à Hong Kong et en Espagne.
+
+Stripea déjà annoncé que ses clients français peuvent accepter Apple Pay dès aujourd’hui. Par exemple, cela veut dire que vous pourrez payer à l’aide de votre carte enregistrée dans l’application Wallet au moment de payer dans l’application de Deliveroo ou Cheerz. Il n’y aura pas besoin de rentrer à nouveau son numéro de carte bancaire.
+
+Braintree, la filiale de PayPal concurrente de Stripe, devrait également ajouter Apple Pay en France bientôt puisque Braintree traite les paiements Apple Paydans six pays déjà. Airbnb, Hotel Tonight et Uber utilisent Braintree pour gérer les paiements.
+
+En ce qui concerne les commerces physiques, tous les terminaux NFC sont potentiellement compatibles Apple Pay. Étant donné qu’Ingenico a impulsé un renouvellement de la plupart des terminaux pour les rendre compatibles avec les paiements sans contact, payer avec Apple Pay devrait être aisé… à condition d’être client de la bonne banque.

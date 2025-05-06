@@ -1,0 +1,41 @@
+Google rebrands its business apps as G Suite, upgrades apps & announces Team Drive
+
+Googleannouncedtoday that its now ten-year old service Google Apps for Work (formerly Google Apps for Your Domain), is getting rebranded yet again. This time around, the company will call it “G Suite.” Sounds more hip, right? Alongside the news, Google also noted a handful of upgrades and improvements in G Suite’s existing product lineup, which includes apps like Drive, Docs, Spreadsheets, Slides, Calendar, Hangouts, and more.
+
+But first of all:G Suite?
+
+Google claims the name better reflects the mission of helping people everywhere work and innovate together. Okay then.
+
+Ryan Tabone, Google’s director of product management for the G Suite, also told us that the company wanted to make it clear to potential enterprise users that that this is a unified collection of tools and not simply a set of individual offerings.
+
+The companythen highlighted the growing use of machine intelligence– something Google has been investing in for over a decade – across G Suite’s products. Already, this technology has been used in a variety of other efforts, includinginstant translationandphoto recognition, for example. It also powers theSmart Replyfeature in Inbox, launched last year.
+
+Today, Google says that it’s bringing machine intelligence to more services, starting with Google Drive.
+
+A new feature calledQuick Accessin Drive on Android will take 50% off the average time it takes to get to the right file, by eliminating the need to search for it, says Google. Instead, machine learning will predict which file you need before you type and then display those near the top of the screen.
+
+The technology is able to make a smart guess about the file you might need based on things like your Drive activity, as well as your interaction with colleagues and your workday patterns like recurring team meetings or regular reviews of forecasting spreadsheets, explains Google.
+
+Meanwhile, Google Calendar’s Smart Scheduling feature, which was already live on Android, isnow arriving on iOS, too, and will hit the web by year-end. This feature, again powered by machine intelligence, helps suggest meeting times and available rooms based on users’ preferences and other insights.
+
+Other improvements which have benefitted from machine learning include an Explore feature in Google Sheets, which lets you enter a question in natural language. The software then uses Natural Language Processing to translate that question into a formula and gives you an instant answer.
+
+Tabone noted that this is the kernel of what could be a very basic business intelligence system, too, but on an even more basic level, he told us that a third of Sheets users doesn’t understand how formulas work. Using natural language queries will now allow these users to bypass formulas and still get more value out of Sheets.
+
+Explore is also now arriving in Google Docsin order to recommend related topics to learn about, images to insert and more content to discover, says Google. It can point you to a related document in Drive, as well.
+
+And it’scoming to Google Slidesto offer layout suggestions. To get these suggestions, you only have to drop an image into a slide. While Google doesn’t currently analyze the content of the image, it does look at its color palate and resolution to determine the layout.
+
+Team Drives
+
+In addition to the new features, Google is launching a new product today called Team Drives.
+
+This Google Drive offering focuses on managing content ownership and sharing at a team level, and introduces new roles that allow for more granular control over the content. It essentially gives teams a shared cloud storage space. Tabone tells us that Google actually had to do a rewrite of the technology stack that powers Drive to enable this feature.
+
+While it’s almost surprising that Google didn’t already offer this capability to share drives, Tabone noted that the industry as a whole mostly focused on individual productivity until now — and only recently started thinking about how to best enable teams to work together.
+
+However, Team Drives are only now becoming available through anEarly Adopter Program, which follows a limited preview Google had run with a small number of customers.
+
+Througha similar Early Adopter program,companies can request access to an upgraded version of Google Hangouts, too. The revamped product will require no downloads or plugins, and will let anyone join from any device, even without an account or data connection. The new user interface will support up to 50 video participants. It will also integrate with Calendar and support instant screen sharing and recording.
+
+Google tells us that the team is already thinking about which other Hangouts features it can enable now that it has laid the groundwork with this new version. Tabone wasn’t quite ready to tell us about specific features, but tools like automatic transcripts and call analytics seem like especially low-hanging fruit.

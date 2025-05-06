@@ -1,0 +1,13 @@
+AppFormix now helps enterprises monitor and optimize their virtualized networks
+
+AppFormixhelps enterprises, including the likes of Rackspace and its customers, monitor and optimize their OpenStack- and container-based clouds. The company today announced that it has also now added support for virtualized network functions (VNF) to its service.
+
+Traditionally, networking was the domain of highly specialized hardware, but increasingly, it’s commodity hardware and software performing these functions (often for a fraction of the cost). Almost by default, however, networking functions are latency sensitive, especially in the telco industry, which is one of the core users of VNF and also makes up a large number of OpenStack’s users. Using commodity hardware, however, introduces new problems, including increased lag and jitter.
+
+AppFormix co-founder and CEOSumeet Singhtells me that his company’s service can now reduce jitter by up to 70 percent. “People are just starting to roll out VNFs and as telcos move from hardware to software, that’s where they run into this problem,” he noted. “Our software is designed as this real-time system where we are able to analyze how everything is performing and do optimization based on this analysis.”
+
+For VNF, this often means modifying how workloads are placed and how resources are allocated. Interestingly, AppFormix’sresearchshowed that CPU allocations have very little influence on jitter. Instead, it’s all about how you use the available cache and memory. It’s controlling cache allocations correctly that allows Appformix to reduce jitter.
+
+Singh stressed that it’s not just telcos that can benefit from this but also e-commerce sites and others who want to be able to offer their users a highly predictable experience.
+
+The new feature is now available as part of AppFormix’s overall cloud optimization platform, which currently focuses on OpenStack and Kubernetes deployments.

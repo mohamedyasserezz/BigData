@@ -1,0 +1,43 @@
+The last frontier of consumerizing travel lives in the workplace
+
+According to a2014 study by Google, 74 percent of leisure travelers relied on the internet for travel planning. That’s not surprising; it’s generally understood that most consumers make travel plans online. But that same study found that 77 percent of business travelers also started their journey online. Similarly, 78 percent of business travelers used a smartphone during travel planning, versus 67 percent for leisure travelers.
+
+Yet in many companies, booking travel still involves emailing or calling an actual travel agent, who then books with the airline or hotel. For executives, it often involves first telling an assistant, who then communicates with a travel agent, who then communicates with the airline or hotel. Unsurprisingly, this process has lengthy reaction times, is prone to errors and loses traveler preferences along the way.
+
+So if business travelers are turning to new digital channels at an equal or even greater rate than leisure travelers for planning, why is business so far behind leisure in the migration of actual booking to digital? Among the many reasons that companies cite for using travel agents are: simplifying the booking experience for employees, saving money and enforcing corporate travel policies.
+
+But it is now possible for digital tools to outperform travel agents on even those criteria for which they were once preferred. The proliferation of mobile, improvements in user interface design and the ability of computers to ingest and analyze large amounts of data have changed the game.
+
+Having direct control of travel booking can result in a vastly better experience than having an agent book on one’s behalf. There are several reasons for this.
+
+Firstly, making changes is more complicated when the reservation is booked through a third party. Anyone who has made a hotel or airline reservation via an Online Travel Agency (OTA) is all too familiar with the experience of trying to make a change directly with the provider, only to be told that only the booking agent can do so. The same restrictions apply when bookings are made through corporate travel agents. Of course, if one needs to make a change, response times via agents can be slow, because they are limited by the availability of human beings.
+
+Secondly, important traveler information and what I’ll call “micro-preferences” often get filtered out by intermediaries. For instance, not getting TSA PreCheck because the travel agents didn’t include a Known Traveler Number or because he/she did so in a way that didn’t get ingested by the airline system. Similarly, while we can tell a travel agent about our basic preferences (e.g. window versus aisle, high floor versus low floor, etc.), it is unreasonable to expect another person to internalize our specific and subtle value trade-offs. Would you prefer a window seat toward the back of the plane or an aisle seat toward the front? Would you prefer a room in a low-quality hotel one block away from the office or a high-quality hotel one mile away?
+
+Business travelers can avoid the headaches of dealing with human travel agents, but to do so they require a highly simplified and frictionless booking experience. The appeal of using an agent is not having to waste time planning travel rather than doing one’s actual job.
+
+Amazon has done a fantastic job of building an e-commerce platform with the view that, as David Jaffe wrote, “the best customer service is no service.” In other words, every instance of needing to speak to a human represents a bug. Over time, Amazon has refined the interface such that the vast majority of customer service issues can be dealt with by the average user within the digital platform.
+
+Unlike travel agents, computer servers don’t mind working 24-7, and they have near instantaneous response times. New corporate travel platforms can leverage best-practice designs from e-commerce and consumer travel to simplify complex decisions and reduce the need for human intervention. For instance, changing or canceling a reservation on theBooking.commobile app is easier than sending an email to an agent. Even in drastic situations like a flight cancellation, new consumer travel apps likeFreebirddemonstrate how computing power and a good interface outperform agents.
+
+One often perpetuated reason for the benefit of using a travel agent is that doing so results in cheaper rates than by booking individually. The logic goes something like this: Travel agents aggregate demand and therefore can negotiate better rates from the providers.
+
+The reality is quite different. While travel agents do aggregate some demand, their scale pales in comparison to that of the travel providers: giant airlines and hotel chains. Moreover, in both hotel and air, the industry standard of “rate parity” means that providers offer the same rates across different channels. Corporate travel agents book via one of three Global Distribution Systems (Sabre, Amadeus and Travelport), the same sources used by consumer-facing OTAs.
+
+In some cases, rate parity can be broken, if done so behind a pay or membership wall, and in that way, travel agents can in fact access “unpublished rates.” But those rates are no better than what consumers can get individually via OTA loyalty programs like Booking.com’s “Genius” program.
+
+Additionally, corporate travel agents make money by charging $10-50 booking fees on top of existing prices. While that may not sound like a lot, it can add up, especially when agents charge by interaction rather than by itinerary.
+
+Travel agencies are an easy tool for companies to enforce travel policies and generally control travel expenses. But the opportunity to empower the employee and incentivize him/her to save money is more powerful than any set of rules could ever be.
+
+When a company sets a dollar limit for a given flight route or hotel night, it must do so at a sufficiently high level, such that only a relatively small percentage of cases leads to an exceptions process. But by doing so, the company is leaving money on the table.
+
+New corporate travel startups are finding ways to save companies money by motivating employees to choose cheaper options. For example, startups likeRocketripandTravelBankuse data from real-time price analysis to determine cost benchmarks and split savings with the employee. Startups likeUpside Travelreward customers for choosing less expensive options by offering travel credits and perks.
+
+The use of incentives to unlock hidden savings could be the killer feature driving adoption of consumerized corporate travel apps.
+
+The incentive of saving money has always motivated individuals, but only with advances in big data over the last several years have computers gotten smart enough to reliably calculate fair cost benchmarks. Without being able to ingest and quickly analyze real-time prices, it would be hard to imagine a computer determining what one should spend for a trip.
+
+Over the last five years, consumers have become accustomed to having the power of the internet in their pocket at all times. They have come to expect mobile airline tickets, booking hotels at the last minute from their phones and planning their next trip while commuting to work. These same consumers are now carrying those expectations into the workplace. It is sometimes easy to forget that a company is actually just an organized group of individual consumers.
+
+The time has come for startups capitalizing on these advancements to consumerize the $1 trillion global corporate travel market.

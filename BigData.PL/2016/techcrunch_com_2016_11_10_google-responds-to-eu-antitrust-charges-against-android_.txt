@@ -1,0 +1,41 @@
+Google responds to EU antitrust charges against Android
+
+Google has now filed its official response to the EU’s antitrust charges against its Android mobile OS. The company hadpreviouslybeen granted a deadline extension by the European Commission, which kicked off a formal investigation into Android back inApril.
+
+According toReutersthe EC is intending to hit Google with deterrent fines over its behavior with Android, and also in another antitrust case against Google Shopping.
+
+Among the complaints about Android that the EU Competition Commission has been investigating are —
+
+In ablog postdetailing the general thrust of its arguments, Google’s SVP and general counsel, Kent Walker, rebuts these charges, arguing the Android OS has created a thriving and competitive mobile app ecosystem.
+
+“The response we filed today shows how the Android ecosystem carefully balances the interests of users, developers, hardware makers, and mobile network operators. Android hasn’t hurt competition, it’s expanded it,” he writes, going on to argue that Google’s “voluntary compatibility agreements” for Android OEMs are a necessary mechanism for avoiding platform fragmentation which would make life harder for app developers.
+
+Walker claims the EC is overlooking a large chunk of relevant competition by not factoring in Apple’s iOS when it considers the mobile app ecosystem.
+
+However Android remains the dominant mobile OS in the region, with a marketshare of around 90 per cent as the EC sees it — hence the Commission’s focus on the platform. The EC is also factoring in Google’s regional dominance in general Internet search (circa 90 per cent of that market), which it has been investigating for some six years now — with the issue being how one dominant tech platform position might be being abused to cement another.
+
+“To ignore competition with Apple is to miss the defining feature of today’s competitive smartphone landscape,” argues Walker, also referencing iOS as a motivating factor in Google seeking to simplify developing for the Android ecosystem vs Apple’s closed source platform.
+
+“The Commission’s proposal risks making fragmentation worse, hurting the Android platform and mobile phone competition,” he adds.
+
+Complainantsin the antitrust case argue that Google’s “excessive control” of Android makes it more akin to closed than open source. In a statement given toReuters, FairSearch lawyer Thomas Vinje said: “The truth is that Android is today a closed operating system, and any claim to the contrary is disingenuous. Google imposes severe sanctions on those who defy its insistence on conformity.”
+
+Responding to criticisms of how it requires manufacturers to pre-load a suite of its own apps on devices if they want access to the Google Play store, Walker says Google does this to present a competitive offering vs rival platforms, with their own apps preloaded, while also arguing it’s easy for consumers to delete preloaded apps or download alternatives.
+
+Although the competition point is really about whether the discoverability and visibility of a preload on a dominant platform is an unfair advantage, not that other apps are being blocked at a technical level.
+
+He goes on to name-checking Spotify and Snapchat as two examples of third party app successes that have been possible despite Google’s own Android preloads.
+
+Lastly, Walker says Google requiring Android OEMs to use Google search by default is effectively its payment for offering device makers use of the entire suite for free, i.e. without a licensing fee. “This free distribution is an efficient solution for everyone — it lowers prices for phone makers and consumers, while still letting us sustain our substantial investment in Android and Play,” he argues.
+
+He also describes open source platforms as “fragile” and argues the Commission’s approach risks upsetting the “balance of needs” between users and developers, as well as suggesting their action could signal they favor “closed over open platforms”.
+
+But again here, complainants would argue that the way Google controls Android makes it akin to a closed platform at this stage.
+
+The EC can fine Google up to 10 per cent of its global revenue — some $7.5 billion — if it finds the company has breached European competition law. Google has already faced antitrustfines in Russia over how it operates Android.
+
+Last weekGoogle also responded to the two other European Union antitrust charges — relating to its Google Shopping price comparison service, and its AdSense ad placement service.
+
+In the Shopping instance, Walker argued the online shopping ecosystem has evolved beyond price comparison sites — making them irrelevant in what he described as a vibrantly competitive market, focused on other channels for reaching consumers such as retailers’ own mobile apps.
+
+Regarding AdSense, Google said it has made some changes to how it operates the service — in the hopes of satisfying the Commission.

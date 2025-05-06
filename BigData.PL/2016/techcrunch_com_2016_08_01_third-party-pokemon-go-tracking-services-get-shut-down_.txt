@@ -1,0 +1,49 @@
+Third-party Pokémon Go tracking services get shut down
+
+Pokévision, and other popular third-party tracking apps that helped Pokémon Go players discover which Pokémon were nearby and see their location on a map, have been shut down. The move follows comments from Niantic’s CEO John Hanke last week, where he referred to the use of such sites as cheating, and hinted that the company was poised to take action against them.
+
+Inan interview with Forbes, Hanke had said that people are only hurting themselves because it takes some fun out of the game, when referencing the sites that showed where Pokémon were spawning.
+
+He added, “We have priorities right now but they might find in the future that those things may not work…People are hacking around trying to take data out of our system and that’s against our terms of service.”
+
+Hey guys. We wish we had some news for you
+
+At this moment, we are respecting Niantic and Nintendo's wishes.
+
+Will keep you guys posted
+
+<3
+
+— Yang (@YangEndGame)July 31, 2016
+
+According Pokévision, the decision to shut down made to respect “Niantic and Nintendo’s wishes.” The company also clarified, in response to user’s questions on Twitter,that it “didn’t quit” and thatit kept the site up“as long as reasonably possible.”
+
+Site creator Yangcheng Liuhas so far declined to saywhether Niantic had threatened legal action. It’s not clear at this time if the site will come back online. The company hastweetedthat “maybe things will change in the next few days,” but that doesn’t seem likely.
+
+Pokévision is not the only third-party tracking service affected. Others, likePokéHoundand PokéNotify, are also no more. In addition, developershave been sharingon Reddit what are reportedly emails and cease-and-desistletterssentto them from Pokémon Go creators Niantic Labs, informing them that they are in violation of the Pokémon Terms of Use.
+
+The letters inform developers that bots, mods, hacks and scripts are prohibited as is reverse engineering, as well as using Pokémon content in commercial services. (Some of the third parties, like PokéHound, were charging for their applications.)
+
+Not coincidentally, Niantic Labsreleased a significant update to the gameover the weekend, which changed how the in-game tracking feature worked.
+
+Before, nearby Pokémon were shown with either one, two or three footprints – one meaning the Pokémon were relatively close, and three meaning a bit of a walk was involved. However, a bug arose that showed all Pokémon as being three footprints away. Instead of addressing the bug, the footprints feature has now been removed entirely.
+
+Because the game has now removed the footprints feature, Pokémon Go players are understandably upset about the closure of the tracking websites and apps. After all, being able to locate and then walk to nearby Pokémon is what the game is all about.
+
+https://twitter.com/YangCLiu/status/759607552313217024?ref_src=twsrc%5Etfw
+
+Tweet from PokéVision’s creator
+
+These third-party apps may have been operating in a gray area, when it comes to their use of Pokémon Go’s API, but some have been hugely popular.Go Gear – Live Maps for Pokémon Gois the #2 paid application on the App Store, for example. PokeWhere is the #16 free app and Poke Radar is the #21 free app.
+
+Some of these apps are also not working for users, it appears. PokeWhere isn’t currently showing any Pokémon,but claims it’s just“down at the moment” and “fixing it.” Go Gear users are also reporting problems, but it’s not clear how widespread. Poke Radar, however, relies on user submissions, and is still working at this time.
+
+@celadonappshow do I get a refund?  Your app has never located a single Pokemon since I purchased your app
+
+— BrandonGBR (@herby_husker)July 31, 2016
+
+Update: On Tuesday, Niantic Labs released a statement on its Facebook page explaining why it killed third-party tracking services.
+
+“…We have limited access by third-party services which were interfering with our ability to maintain quality of service for our users and to bring Pokémon GO to users around the world…”
+
+More on that story ishere.

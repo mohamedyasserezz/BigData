@@ -1,0 +1,53 @@
+How to circumvent Turkey’s social media block
+
+Access to several social media sites was blocked for over an hour in Turkey today during a reported military coup. Although internet traffic appears to be flowing normally again, Turkey’s governmentfrequently respondsto political events byblocking certain websites or throttling traffic.
+
+“We saw the throttling of connections from Turkey to Twitter and Facebook just after the reports of the coup in Turkey,” Doug Madory, the director of internet analysis atDyn Research, told TechCrunch. “We did not see any problems with YouTube, but I have also seen others report problems accessing that website.” Livestreaming services like Twitter’s Periscope and Facebook Live appeared unaffected by the block.
+
+Overall, internet traffic in Turkey may have dropped by half, according to CloudFlare data. CloudFlare CEO Matthew Princetweeted, “From CloudFlare data, appears there’s about a 50% drop in Internet traffic coming out of Turkey.”
+
+Turkish censorship of social media has been relatively easy to circumvent in the past — users could use DNS services likeGoogle Public DNSto evade the blocks. But Turkey has become more sophisticated in how it blocks its citizens from accessing social media, according to Madory.
+
+“This time Turkey appears to be restricting bandwidth when accessing social media. This represents a more sophisticated censorship technique that is harder to detect,” Madory said. “Users should still be able to circumvent it using a VPN, but the average user in Turkey may still not have that technology readily available.”
+
+Variations in online censorship techniques may be partially due to the fact that the Turkish government orders shutdowns but does not provide technical details to service providers about how to enforce them. Blocking techniques can vary between internet service providers and telecoms, according to the digital civil liberties organization Access Now. “We believe this is because the authorities order a shutdown, but to some degree it is left to the carriers to work outhow exactly they will implement the block,” Peter Micek, global policy counsel at Access Now, told TechCrunch. Because Turkey primarily relies on DNS blocking, using a VPN is usually enough to circumvent the block, but other techniques might become necessary too.
+
+Turkey certainly isn’t the only nation with a history of cutting off access to social media in times of political upheaval — Egypt and Iran have blocked access in the past. Access Now advocates for internet access with its#KeepItOncampaign and has called on Turkey to restore internet access for its citizens. “People in Turkey will need access to information and,given the outbreak of violence, access to emergency services — all of which depend on stable communications channels,” Micek said. “To protect human rights, authorities should keep social media and the internet on.”
+
+Here are a few techniques for getting around internet blocks during times of turmoil:
+
+Tor, short for “The Onion Router,” is a service that bounces your traffic around a network of anonymous servers so that it’s difficult to track. It’s free and easy to install, but because of how it works, it can be very slow and isn’t recommended for things like streaming live video.
+
+The easiest way to use Tor is by installing itsbrowser bundle, which includes everything you need and is available for many operating systems.
+
+On Android,OrbotandOrfoxprovide similar functionality, and are also free.
+
+Here is a guideto using Tor and Orbot, written in Turkish.
+
+A Virtual Private Network routes your traffic through servers in other locations throughout the world, which is useful for getting around certain types of censorship or blockage. There are dozens of VPN providers, and TechCrunch doesn’t recommend any in particular — you may have to do a little research to find one that meets your needs and fits in your budget.
+
+Some popular paid VPNs:
+
+ExpressVPN
+
+TorGuard
+
+And free or ad-supported ones:
+
+VPNBook
+
+Hotspot Shield
+
+The TunnelBear VPN service is currently offering unlimited data for Turkish users:
+
+To our friends in#Turkey, you now have unlimited data to stay connected with#TunnelBear#coup#TurkeyCouphttps://t.co/nSZn9gxEk8
+
+— TunnelBear (@theTunnelBear)July 15, 2016
+
+VPNs are a popular resource for Turkish citizens trying to access social media during a blackout: Hotspot Shield reported a 322% growth in new installs in Turkey within the first 2 hours of the reported coup.
+
+Blocking can be done at the Domain Name System level, meaning the service many ISPs provide that connects a website name (like facebook.com) with an IP address (like 66.220.144.241). Replacing your default DNS with another, likeGoogle’s Public DNSor one from theOpenNICprojectcan get around this form of censorship.
+
+Firechatis a good thing to have on your phone in case other messaging apps like Facebook Messenger, WhatsApp, and Line go offline. Firechat forms a peer-to-peer network with nearby phones instead of using a central server, allowing people to communicate even when mobile services are being disrupted, whether by deliberate interference or something like a widespread power outage.
+
+Just because one app is blocked doesn’t mean they all are. If Twitter is down, Tumblr may be up. If you can’t upload a video to YouTube, try DailyMotion or even put it in the public folder of your Dropbox.

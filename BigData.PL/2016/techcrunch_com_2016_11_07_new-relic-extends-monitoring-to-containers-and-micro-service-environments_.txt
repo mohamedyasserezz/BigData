@@ -1,0 +1,21 @@
+New Relic extends monitoring to containers and micro service environments
+
+Monitoring used to be a relatively simple matter. Most companies had a fixed number of applications to monitor. These were usually delivered on the web and lived for a number of years on a fairly fixed number of servers.
+
+Today’s environment is far more varied and complex, andNew Relicmade a series of announcements today designed to help customers deal with new ways of delivering applications.
+
+In the modern world, companies could be dealing with mobile or web applications. These could live on prem or in the cloud with some delivered in containers as micro services. This all changes how applications performance monitoring services like New Relic approach the craft.
+
+To deal with this changing monitoring landscape, the company announced the Digital Intelligence Platform today. The idea is to give customers a broad monitoring dashboard view of the applications under their watch wherever they live and however the customers chooses to deliver them. For some, that bigger view might be divided by job into smaller slices, depending on how a given company divides the monitoring function within an organization.
+
+“We have created a single destination for operations and developers to understand the entire app — How the user is managing the app, how the containers are doing, what is the configuration [and so forth],” Bharath Gowda, senior director of product marketing at New Relic told TechCrunch.
+
+Containers add another layer of complexity to monitoring applications. They provide a way to deliver an application as a set of discrete micro services. These containers could live for microseconds or a few minutes or more, but their variable and ephemeral nature make them a monitoring challenge. How do you monitor something that doesn’t exist in a static state?
+
+To deal with this variability, New Relic has created an entirely new concept called variable tagging, which enables you to tag infrastructure as it’s created in order to track it and see if there are issues with it and how it relates to the rest of the application delivery system. This could allow a company to see a performance issue that is rooted in a micro service, even after it has disappeared.
+
+How this will all hold together remains to be seen, but in theory it gives customers much greater control over their applications and infrastructure, regardless of how they are delivering it.
+
+This new functionality will be available starting November 16th when it’s officially being announced atFutureStack, the New Relic customer conference.
+
+New Relic went public in December, 2014 after raising over $205 million.

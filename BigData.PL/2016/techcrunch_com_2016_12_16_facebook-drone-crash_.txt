@@ -1,0 +1,25 @@
+To prevent another crash, Facebook’s solar drone will get an airbrake
+
+The right wing of Facebook’s solar-powered drone Aquila failed, causing acrash landingof its first test flight, according to anew reporton the incident from the National Transportation Safety Board. In response,Facebook saysthe next version of its Internet access-spreading drone will have a spoiler or airbrake, and will prioritize safe airspeed over altitude tracking.
+
+The crash took place outside Yuma, Arizona on June 28, and while experimental aircraft can hardly be expected to work perfectly on their first flight, it was still something of an embarrassment for Facebook. It was also a setback for its plan to deliver web connectivity to remote areas of the world through its Internet.org access initiative.
+
+Due to NTSB regulations, Facebook couldn’t discuss the crash until the regulator had published its report. Journalists covering the test flight didn’t even know it happened, until aBloomberg reportlast month revealed the crash landing.
+
+Wind speeds increased during the flight, which lasted about 90 minutes, 3 times longer than originally planned. As a result, the Aquila was landing just as sunrise began heating up the air. With the drone only 20 feet above ground in a slow glide, “We were getting some really interesting thermals in that last 4 seconds,” explained Yael Maguire, head of Facebook’s Connectivity Lab.
+
+“We’ve landed a thousand times in simulation,” he told TechCrunch. “Never had that wind, though.”
+
+Facebook expected some minor damage due to the design of the Aquila, which has skids and low-slung propellers: “There isn’t a landing gear — there really isn’t even a runway, just kind of a landing patch there in the desert,” Maguire said.
+
+But as it descended, the unexpectedly high winds pushed the drone off its glide path. The autopilot responded by dipping its nose, causing it to speed up.
+
+“It exceeded the design spec of the aircraft,” Maguire said. “The right side of the wing just sort of broke.”
+
+It then struck the ground “atan approximately wings-level attitude” at below 30 miles per hour, and “the aircraft sustained substantial damage as a result of the impact and wing failure” the NTSB report says. An airbrake or spoiler would have let the drone lower its nose without increasing air speed unsafely.
+
+Maguire was upbeat: “It uncovered a bug in the system, something we didn’t catch in thousands of simulations. The fix was relatively simple.”
+
+In a post on Facebook’s Code blog, Maguire concluded “We are already designing and building second-generation aircraft with new features added as a result of our learnings, and are eager to fly again. Each successive test flight will bring both expected and unexpected technical challenges, and will teach us more about how to fly this experimental aircraft.”
+
+Facebook is still new to being a hardware company. Despite its vast resources, it will have to suffer trials and errors before it can expect everything to work perfectly.

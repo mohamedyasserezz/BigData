@@ -1,0 +1,25 @@
+Salesforce looks to the future with Einstein artificial intelligence
+
+Salesforce has a history of staying close to the cutting edge of technology, so it shouldn’t be surprising thatit announced an artificial intelligence initiativerecently, it dubbed Einstein.
+
+We caught up with some key members of the Einstein team at Dreamforce earlier this month and asked them to explain the new technology for us.
+
+Einstein isn’t a product so much as a set of intelligence functionality that underlies the entire Salesforce platform, and while the types of functionality that it’s enabling now are somewhat limited, the idea is to provide a base on top of which the company can continue to add new capabilities into the future.
+
+Today, Einstein can provide information like predictive lead scoring and opportunity insights, which alert a rep how a deal is trending — the kinds of information many CRM applications have been offering for some time — but as the technology develops, the company sees a much bigger role for it.
+
+As John Ball, GM of Einstein at Salesforce explains, it’s really aimed at making life easier for users. “What we’re really trying to do is transform the way people work by focusing on what matters and giving them time back.”
+
+Traditionally, sales reps have been expected to input data about their customers and the state of their deals into the system and this is where it’s broken down. In the end, entering that information takes sales people away from their livelihood and there was little upside for them to do this.
+
+What Einstein aims to do is flip that model, so instead of spending a lot of time entering information, the system is going to do a lot of that work for them, and because it’s intelligent, it will provide meaningful suggestions about what to do next.
+
+“AI can surface the most important information to the top and say, ‘hey, this is what you need to do next’, so the sales person can do what they do best, which is connecting with the customer, and not spend so much time entering data,” Shubha Nabar, director of data science at Salesforce explained.
+
+The question becomes why is AI taking center stage now for Salesforce and much of the software industry in general. Richard Socher, chief scientist at Salesforce (who came overwhen the company bought MetaMindlast spring) says it’s a perfect convergence of technology and compute power coming together at the right time.
+
+“AI has become really useful due to a number of small improvements on the algorithmic side, having the data, and having the infrastructure and compute to really do it,” Socher said.
+
+It’s easy to think of AI as replacing humans, but sales people are a perfect example of how computers and software can augment what humans do well — in this case, interact with other humans to sell them stuff.
+
+While we may be in the earliest days of artificial intelligence, we should start to see the technology mature over the next 5 or 10 years, and for Salesforce users, that could mean working smarter and faster and knowing the best move to make next.

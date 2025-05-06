@@ -1,0 +1,23 @@
+Bud is a UK startup that wants to re-bundle all of your fintech apps into one fintech app
+
+A multitude of startups, from newchallenger banks,payments companiestochatbots, are betting on the premise that whenever there’s disruption — in this case, following technological and regulatory changes, a plethora of new fintech companies are unbundling various parts of the banking sector — it inevitably leads to fragmentation. And then what eventually follows isconvergence.
+
+Enter: just-launchedBud, a web and mobile app that aims to make a ton of different financial services accessible from a single interface.
+
+Part personal finance dashboard, part fintech marketplace, you log in via the app to various supported current accounts, savings accounts and other financial products you currently subscribe to, such as money transfer, from which you are able to get a consolidated view of all of your spending and budgeting trends.
+
+There’s also a directory of supported fintech services that you are encouraged to sign up to, which, in the short term, is also how Bud plans to make money. It will get an affiliate kick-back for any customer it sends their way.
+
+However, the bigger picture, Bud co-founder and CEO Ed Maslaveckas told me on a call, is to make disparate financial services and apps work better together.
+
+That’s not just in the aggregated data dashboard sense, which isn’t an entirely new idea, but by being able to move money around from one supported service to another without ever leaving the Bud app. In other words,re-bundling the sprawling fintech app landscape.
+
+This level of integration is also something only made possible now that banks in Europe are being forced by legislation to open up their APIs — some faster than others, notes Maslaveckas — and is also a concept built in to many fintech startups’ business model, which sees their wares compliment rather than compete with Bud’s proposition.
+
+To that end, so far Bud has partnered with a number of fintech startups, such as Nutmeg (savings), Azimo (currency exchange) and PensionBee (pensions), in addition to some of the larger players including Western Union.
+
+Wrapping up our brief call, I asked Maslaveckas, who was previously at Salesforce, how Bud plans to compete with an increasing number of other startups and incumbents in the space who are also selling their wares on the promise of convergence.
+
+Beyond a possible first-mover advantage in the U.K., he says it will all come down to who provides the best user experience and unlocks the most value for customers, value that currently resides in a customer’s own financial data spread across a growing number of apps.
+
+“People aren’t aware that their data is hidden from them. Bud brings all of that data onto one screen, and our visuals bring it to life in a way that helps people understand their money better,” adds Maslaveckas.

@@ -1,0 +1,37 @@
+Verse banks $8.3M Series A to accelerate its p2p payments play in Europe
+
+Another player in the packed p2p payments space is announcing an $8.3 million Series A funding round today. SF and Barcelona basedVerseis gunning to be theVenmoof Europe — given Venmo hasn’t yet shown an inclination to expand its mobile social payments appoutside the US.
+
+The Series A is led byGreycroft, with participation fromSpark Capital,eVenturesandBoost VC. Verse had previously raised a $1.8M seed round from angel investors in Europe and the US.DFJ Dragonalso invested in that round.
+
+The new funding will be used to expand its team, including new hires focused on product development, aimed at accelerating its growth, says co-founder Alex Lopera.
+
+“We’re trying to be like the WhatsApp of payments,” he tells TechCrunch. “It’s really frustrating today when you want to do a transaction, when you want to pay back your friends, money that you owe them, and you don’t want to do online banking. It’s not something that’s cool or really works.
+
+“Verse is super slick and easy — you just type the amount that you want to transfer, select one of your phone contacts from your address book, click send and the money’s already there.”
+
+It’s a mobile social payments story that’s amply familiar from multiple apps these day. And not just in the US: in Europe other players here include the likes ofFrance’s Lydia,Germany’s Cookies,US-based Circle, andN26 with its MoneyBeam offering, to name just a few.
+
+But as my TC colleague Romain Dillet succinctly puts it: “Social payments is not a product; it’s just a feature” — which is another way of saying there’s a race on to see which of these startups can scale fast enough to be the winner-takes-all network for Europe. After which they’ll be in a position to monetize p2p usage via other banking features — and even by becoming fully fledged banks (N26 got its banking license this summer, for instance).
+
+Lopera touts Verse’s market footprint as an advantage vs competitors, noting it’s now in 16 European markets — which does give it greater reach than some rivals at this point, even as most of the competitive field here is also thinking outside one local European market.
+
+Verse was actually incorporated in San Francisco, and went through a local accelerator there, before relocating most of its team to Barcelona and soft launching the app this February. It now has around 550,000 users across its Android and iOS footprint, according to Lopera, relying on viral spread rather than any substantial marketing spend at this point.
+
+He says the typical size of payment Verse users are pinging to each other via the app is between €25 and €30.
+
+Verse does not have banking partners in the various markets it covers but rather holds customer funds in local bank accounts, settling euro transactions in markets where it does not have a local bank account viaSEPApayments. (So, unsurprisingly, Lopera is hopingBrexitdoes not happen.)
+
+“We think that there’s really no company today that has cracked the entire European market,” he adds. “We’ve seen other companies launching products that are fairly local. We haven’t actually seen a player that’s operating in every major European country and actually has a sleek mobile app that works across countries.
+
+“It’s a crowded space, a lot of people are interested in this space but we feel it’s a really big opportunity since there’s a lot that can be innovated in the payments industry… There’s not really a winner yet, that is taking over Europe, in terms of social payments for Millennials. And that’s really what we’re going after.”
+
+What about the potential threat of a messaging giant such as WhatsApp wading into p2p payments and sucking all the usage out of the room? WhatsApp’s parentFacebook does already offer p2p payments in Messenger in the US, for instance.
+
+“For WhatsApp to release something like this, it’s going to take ages,” argues Lopera. “Just take into account how long it took for them to launch WhatsApp calls. So… ”
+
+That doesn’t mean smaller players here might not be future acquisition targets for messaging network giants.
+
+Verse does not charge for p2p payments generally but if a user wants to send money between different European currencies — such as the euro and the UK’s pound sterling — it does charge a fee, of between 1.5 to 2 per cent “depending on the country and the currency”.
+
+Verse is using blockchain technology for its main ledger system but not for moving money around (as some other payment startups, such as Circle — which started life as a Bitcoin wallet — are).

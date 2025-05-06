@@ -1,0 +1,49 @@
+Snowden says tech companies should protect privacy no matter who is president
+
+Edward Snowden gave an extended interview today touching on numerous topics, from the Trump Presidency to his own future. Overall his message was clear: it’s not about thwarting one leader or even one government, but using technology that guarantees rights across borders and administrations. In other words: don’t hate, innovate.
+
+One of the early questions in the interview, which lasted a bit under an hour and was sponsored by Startpage.com, was posed by Phil Zimmerman, creator of the PGP encryption protocol. Trump, he said, would be inheriting a powerful surveillance infrastructure — something that worries many.
+
+“We should be cautious about putting too much faith or fear in elected officials,” Snowden said. “We’re never farther than an election away from a change in leader, from a change in policy, a change in the way the powers we have constructed into a system are used. So what we need to think about now is not how do we defend against a president Donald Trump, but how do we protect the rights of everyone, everywhere, without regard to jurisdictions, without regard to borders?”
+
+“Ultimately,” he said, “if we want to see a change, we must force it through ourselves.”
+
+Of course, until we do, there are good and bad ways of going about the business of communicating online. Snowden suggested that we need to look for companies “that see you as their primary customer.”
+
+In other words, not Facebook or Google.
+
+“Everything you type into that Google prompt is being saved forever,” he pointed out (to the evident glee of his interviewer, who represents a Google alternative). Whereas in the case of encrypted messaging app Signal, which fought and triumphed over a government gag order to reveal orders to turn over information on a user. Because Signal is end-to-end encrypted, all it could turn over — even had it wanted to give more — was a phone number (which the government already had), an account creation date, and a last login time.
+
+“The best way to defend against it,” Snowden said, in reference to the surveillance apparatus, “is to make sure you do not collect information, as a business, that you do not need.”
+
+His voice joins a chorus of others calling for companies to rein in data collection ahead of Trump’s inauguration, after which many expect an expansion of powers in law enforcement and surveillance.
+
+Snowden had very little practical advice other than using encryption and two-factor authentication. He did endorse Signal more than once, however, as he has done before.
+
+As for himself, he downplayed the idea that Trump and Putin would change the existing stalemate regarding his asylum.
+
+“I don’t worry about it,” Snowden said. “It would be crazy to dismiss the idea of this guy who presents himself as a big deal-maker, trying to make a deal. But the President of Russia has said on camera that the people of Russia consider me a human rights defender, and regardless of the position that we have on Russian politics — which obviously have a lot of problems — they said that Russia is not a country that extradites human rights defenders.”
+
+He also discussed where work needs to be done in the future.
+
+“Encryption protects what you said on a phone call as it crosses the internet, it protects what was written in a text message, it protects your picture so no one can see it,” he said. “But it doesnotdisguise the fact that you sent a photograph or made a phone call. These things on their own can be very dangerous. Metadata of your activities can often be collected even without the involvement of a court. This means you can create perfect records of private lives without ever reading what was actually said.”
+
+His suggestion: “We have to find a way to protect not only the content of communication, but to disguise the fact that the communication ever happened at all. The fact thatthisphone calledthisphone should be invisible to the vast majority.”
+
+Tor is a start, he said, but crude, like the first wheel. The very nature of how information is broadcast over radio frequency may need to be questioned, he mused.
+
+But the greater problem, in his opinion, is that we evenhaveto think about this stuff.
+
+“You as an individual should not have to make these decisions,” he said. “Privacy is the foundation of all other rights,” and as such should be fundamental. Waxing philosophical, he continued, saying that privacy has little value for the majority, the people in positions of power who don’t need to watch what they say.
+
+“Minorities, vulnerable populations, people who don’t fit in — if you disagree with the majority opinion, you are the ones privacy is for. If you argue that if you have nothing to hide you have nothing to fear, that’s no different than saying you don’t care about free speech because you have nothing to say. It’s an antisocial argument.”
+
+To protect this right, Snowden returned to the concept of privacy being enforced not through legislation, but technology.
+
+“When the law fails, when we find out that the law is not enough, that the law is only the smallest guarantee of our rights, support technology, corporations, groups, and individuals who are trying to enforce your rights directly,” he said, “through science, through math, through technology, to ensure that any government anywhere must respect your rights — because no amount of violence, no amount of military force will ever solve a math problem.”
+
+Although Snowden largely avoided addressing the risks of a Trump Presidency during his talk, the mask did crack slightly as he led up to an inspiring finish to one of the later questions.
+
+“”Despite the challenges we have in the United States, despite the changes in government, despite some of theveryconcerning statements made by our new President-elect, this is a nation that will strive to get better,” he said.
+
+“This is a dark moment in our nation’s history – but it is not the end of history. and if we work together, we can build something better.”

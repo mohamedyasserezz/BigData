@@ -1,0 +1,41 @@
+What the new NHTSA guidelines mean for self-driving cars
+
+In September, theNational Highway Traffic Safety Administrationissuedguidelinesfor the testing anddeployment of autonomous[PDF] vehicles. The important thing to remember for now is that these are merely guidelines and not rules. Complying with them is voluntary on the part of automotive and hardware manufacturers, as well as app developers.
+
+“Firms can make the decision to not comply and be within their rights to do so,” said David Strickland, general counsel for theSelf-Driving Coalition for Safer Streets, who was also an NHTSA administrator between 2010 and 2014. “This is evidence of the agency’s willingness to find tools that move more quickly than traditional rule-making, which can take four to eight years.”
+
+The document had a lot of ground to cover.
+
+“Not everybody is a well-capitalized automotive manufacturer with risk assessment built in, and not every company is a sophisticated ride-sharing company or mass innovator and disruptor,” Strickland said. “You have to build a regulatory structure that applies to four engineers in a garage. NHTSA guidance has to take into account all of that.”
+
+Katie Thompson, who served as general counsel for the agency from 2013 to May of this year, told me that the guidelines signal how the Department of Transportation wants to work with developing tech.
+
+“There’s an admonition to people developing tech to be mindful of people who will use it — designed to take that into account. If it’s unsafe, [NHTSA] will determine it’s a failure and ask you to recall it.”
+
+Or as President Barack Obama said in anop-ed, “Make no mistake: If a self-driving car isn’t safe, we have the authority to pull it off the road.”
+
+Any company developing autonomous vehicles is being asked to sign a 15-point safety checklist to pre-certify their vehicles, similar to the FAA’s system for airplanes. The NHTSA list (page 15 of the guidelines, for those following along at home) includes everything from privacy and system safety to post-crash behavior and object and event detection and response. Even ethical considerations are on the list. Each item can be marked as meeting the guidance, not meeting it, or not applicable.
+
+The agency acknowledges that pre-certification does not prevent humans from doing dumb things (and likely uploading it to YouTube), which Thomson alluded to in our interview. The guidelines do recommend that manufacturers provide consumer education and training on how to use the new technologies “properly, efficiently, and in the safest manner possible.”
+
+NHTSA also asks that black-box-type data be “stored, maintained, and readily available for retrieval by the entity itself and by NHTSA” for the purpose of reconstructing crashes. The agency wants this data to be available regardless of whether there was a crash or an event was successfully avoided.
+
+This data, and all other data collected by the vehicles, needs to be anonymized, according to NHTSA. “Generally, data shared with third parties should be de-identified (i.e. stripped of elements that make the data directly or reasonably linkable to a specific HAV [highly autonomous vehicle] owner or user).”
+
+The treatment of data is the most significant piece of the guidelines, in Thomson’s opinion. “NHTSA is dead-on accurate,” she said. “This is borrowed from the FAA and their safety management systems. All the information is de-identified, but it enables the agency to proactively identify trends and risks in the system before something happens.”
+
+But Thomson was doubtful that private automotive companies will fully comply while these guidelines are voluntary. She wondered if proprietary and security issues would trump the government’s request for data.
+
+Strickland said NHTSA is working on another document to address data privacy and cyber security beyond what’s set out in these guidelines. “Self-driving vehicles collect personally identifiable information, geographic information, and now biometric information, and that must be protected,” he said.
+
+NHTSA does request that cybersecurity data be shared with the agency and with other manufacturers. “Each industry member should not have to experience the same cyber vulnerabilities in order to learn from them,” the agency wrote.
+
+Strickland agrees. “The manufacturers are as protective as they can be, but how well do you foreclose an attack? Or rectify when it’s discovered?”
+
+NHTSA wants very badly to avoid the “patchwork of inconsistent laws and regulations” that the states have already started stitching together. Instead, “DOT strongly encourages states to allow DOT alone to regulate” autonomous vehicles and their technologies.Consumer Watchdog, among others, issued a statement noting its concerns that California’s strong regulations in this arena could be pre-empted.
+
+Avoiding a patchwork without undoing states’ regulatory innovations was Strickland’s biggest concern as well, but he’s pleased with how the guidelines dealt with the issue. “I’m happy that they listened to advisers,” he said.
+
+“The challenge for NHTSA is, will they be able to process all of this?” Thomson said. The pre-certification process alone is a new load of paperwork for the agency to keep up with, and the technology is moving fast.
+
+But the process of creating the guidelines and creating a fluid framework for autonomous vehicle safety is worth the trouble, Strickland says. “The promise of the technology is transformational,” he said. “I can’t think of an innovation that’s bigger than this. If we can reduce the number of people that lost their lives in 2015 [more than 35,000], it’s beyond the value of the investment.”

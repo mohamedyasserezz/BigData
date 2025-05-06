@@ -1,0 +1,45 @@
+Apple and Oracle vets’ Upthere raises $77 million to put a new spin on personal cloud storage
+
+Upthere isn’t your parents’ personal cloud storage service. Theteambehind the service, which is coming out of beta today with $77 million in financing from a slew of investors, believes that the cloud should be your primary storage and not just a place for keeping backups or helping you sync data between machines.
+
+Uptherewants you to think of its service as the canonical location where your data lives. It’s now generally available for OS X/MacOS, Android and iOS, with the Windows and web apps hitting beta today.
+
+The company had some help getting there with new financing led by KPCB and Western Digital, along with Floodgate, Elevation Partners, GV, NTT Docomo Ventures and Square 1 Bank.
+
+It’d be easy to ignore Upthere as yet another player in the cloud storage space that is already somewhat oversaturated with Dropbox, OneDrive, Google Drive and plenty of startups all vying for the same users. But Upthere is different, and it marks a pretty interesting departure from where the rest of the market is going.
+
+In addition, its three-person founding team is nothing short of impressive. Bertrand Serlet was the former Senior VP of Software Engineering at Apple who oversaw every release of OS X through Snow Leopard and kicked off the project that later became iOS. Alex Kushnir previously worked at MongoDB and was the founder of the banking-focused file management service Kazeon (which he then sold to EMC). Roger Bodamer previously worked at Oracle, Apple and a number of other Silicon Valley companies.
+
+The team has gone through some changes since the company was founded in 2012, though. Bodamer was Upthere’s first CEO but he left the company last December. And while Serlet is still on the company’s board and an advisor to the company, he is not actively involved in the company’s day-to-day activities anymore.
+
+After Bodamer left, Chris Bourdon took over as Upthere’s CEO. He is another Apple alumni and the former product marketing lead for OS X at Apple. Bourdon told me that part of what motivated the team was the realization that we’re not just constantly producing more data, but that as the devices in our pockets have grown more powerful, storage capacity hasn’t necessarily kept up. “Devices have gone from boat anchors to devices that you can slip into your pocket,” he said. “That’s been great, but there’s a problem that’s cropped up here. All these great things you have, you can’t keep them on your devices anymore.”
+
+So the team set out to tackle this problem at its root. Instead of relying on on-device storage, the Upthere founding team came together in 2012 and decided to look at how it could create a service that directly writes to the cloud and allows you to (mostly) bypass local storage. That way, all of your devices see the same files, be those documents, music files, photos or anything else. As you make updates or upload new documents, all the other machines see those changes in real time.
+
+To some degree, that has been the promise of virtually any other cloud storage service, too, but nobody else has taken this idea this far yet. And to build this, the team had to create a new tech stack from the ground up. That includes the servers themselves, the infrastructure technologies, the services that extract metadata from files and index them, make them searchable, all the way to the framework and technologies the company developed to allow it to quickly write directly to the cloud.
+
+“The company started with this great idea that we should be storing everything in the cloud and not on our devices,” Bourdon said about the development process. “For the first few years we were self-funded and spent our time on R&D. In the last two years, we began in earnest with a solid technology roadmap after doing the evaluations and some R&D to decide where we would go technologically.”
+
+So what is it like using Upthere? Once you install the desktop client, you can start uploading files by dragging and dropping them into the application’s window. Right from the get-go, you can also connect your photo and music libraries to the service and the Upthere will immediately start uploading them. The same goes for the mobile apps, which immediately ask you if you want to upload your photo galleries from there, too.
+
+The applications themselves are pretty minimalist and put the focus on the content. You can see a timeline with your recent uploads and three separate lists for your photos/videos, music files and other documents. Photos and videos are organized and searchable by date and location (though the team tells me that a more Google Photos-like search experience based on image recognition is also on the roadmap). If you want to organize files by hand, you can do so through what the company calls “loops” (you can basically think of them as tags or file folders), which are also sharable.
+
+What stands out most when using Upthere is how fast everything is. The team smartly caches thumbnails and files as needed, so it never feels like you are waiting for a file to download. If you ever need a file to edit on your computer, you can easily download it, work with it and, when you save an update, it’s automatically sent to the cloud.
+
+This does bring up one issue with Upthere, though: It doesn’t natively integrate into your local file system. So unlike Dropbox, for example, you are not going to see it as a file folder in Finder or the Windows File Explorer. That means when you first save a file from a desktop app, you can’t save it directly to Upthere.
+
+Bourdon argues that the team made this decision on purpose: “We really want to begin to show that this is a new way of living and working and if we were to integrate into the finder and use sync, it would be too damaging for the experience of the system we are trying to make.” He also noted that the way the file system works doesn’t fit into Upthere’s idea of directly writing and reading from the cloud.
+
+Upthere faces some other issues, of course. Chances are you aren’t always online, for example. “Where the puck is going is always connected,” Bourdon told me, but he noted that the service’s local cache should be able to give users access to the files they need and that they can always download a Word document, for example, before they know they’ll get on a plane.
+
+As far as support for different document and image formats goes, I’ve had no issues viewing any PDF or Word document right in the app. The same goes for any standard image files I’ve tried (including RAW formats, too). Over time, it would be nice to see some basic text editing features in the app as well, but for now, it’s easy enough to simply click “open with” in Upthere and use a native app.
+
+Similarly, if Upthere wants to become your central place for storing files, it’ll have to prove that it can safely store your data. That’s not an easy task for any startup, even one with impressive founders like Upthere. Bourdon acknowledges as much. “We’re a startup. People don’t know that much about us yet,” he said, and later added: “When I think of storing my things, I couldn’t imagine a better group for people to do that for me.”
+
+The Upthere team also decided to focus on offering its users first-class service.
+
+I’m massively impressed by how fast Upthere is. In addition, the service is slick and works exactly as advertised and its design clearly betrays some of the team’s experience at Apple.
+
+Current beta users will get free and unlimited access to Upthere for the next 12 months. New users will pay $4.99/month for 200GB of storage and $1.99/month for every extra 100GB they want to add. All new users also get a free three-month trial (no credit card needed).
+
+[youtube https://www.youtube.com/watch?v=ZRO9_rAxZRM]

@@ -1,0 +1,27 @@
+IFTTT recipes now embed directly on 3rd party apps like Ring, Roger and Lifx
+
+IFTTTmade a name for itself as a platform for people to easily build (or pick up pre-built) scripts to automate tasks in and between various apps — say, to turn on the air conditioner using your home’s smart thermostat when your car tells it that you are 20 minutes’ drive away. Now, as part of the company’s bid to grow in ubiquity, it is taking the next natural step: instead of expecting users to find or write those recipes themselves on IFTTT, it will now allowdeveloper partnersto embed those IFTTT recipes directly in their own third-party apps.
+
+Third-party embeds will now be open to all developers, but for today, the first group of partner companies to host IFTTT recipes are video doorbell Ring, money manager Qapital, pollution monitor Foobot, garage manager Garageio, car monitor Automatic, air quality tracker Awair, video doorbell Skybell, smart bulb company LIFX, weather info provider Bloomsky, messaging app Roger, home security startup Abode, and Stack Lighting.
+
+Initial partners are already paying to use the platform, said Linden Tibbets, the co-founder and CEO of IFTTT, and more details on pricing will be announced in the future.
+
+While IFTTT works with any app, more recently the company has seen an opportunity in working with connected hardware startups, creating recipes to automate those services and helping a fragmented market work more harmoniously. Many of the companies in this initial group are part of that push.
+
+IFTTT says that several of the companies launching today have been working on integrations in private beta for the last year (and most have been working with IFTTT already: see for exampleRoger,Qapital,Ring,Foobot,Automatic,Garageio). In the meantime, we’ve seen competitive offerings emerge from others likeMicrosoftandHive.
+
+IFTTT, which since 2010 has raised some$39 millionin funding from investors like Andreessen Horowitz, Betaworks, NEA and Norwest Venture Partners, today provides recipes for some 330 apps, but it doesn’t disclose metrics on just how many users it has or how often those recipes are tapped.
+
+But the logic of why IFTTT would flip these services out to be discovered on apps themselves is pretty clear.
+
+The mantra of what IFTTT does is to simplify some of the mechanics and automation behind how a lot of new and often siloed apps and services work today, but for the vast majority of users, actually going to another website to pick up these recipes represents a leap too far.
+
+Putting the recipes directly in the apps themselves makes it far more likely that they will be used, and giving them to users of, say, connected devices will make those devices more functional, and therefore more likely that users beyond early adopters will buy them.
+
+“We think bringing IFTTT into our app is going to be key for user adoption, and we’re excited to see how these new users react to suddenly getting so much more out of Garageio,” said Zachary Dziczkowski, CoFounder & CEO of Garageio, in a statement.
+
+The hurdle of getting IFTTT recipes to be understood — let alone used — is something that Tibbets himself acknowledges.
+
+“Our biggest challenge is that we have taken a different path to others,” he told me in an interview. “It’s taken a lot of work to explain what we do to people. We are not AI, or a smart thermostat, or a smart virtual assistant, but we believe any one of those things can benefit if they use the information locked into each one of those silos. And that is what we are focused on. That is the challenge. That is a blessing and a curse.”
+
+Updated with clarification on pricing.

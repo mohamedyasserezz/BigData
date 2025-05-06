@@ -1,0 +1,21 @@
+Stripe offers Instant Payouts to all contractors after early rollouts at Lyft, Care.com, goPanache
+
+Stripe, the startup that competes against the likes of PayPal’s Braintree and WePay to provide payment services to digital businesses, is taking the wraps off its newest product to set it apart from the rest of the pack. Stripe is launchingInstant Payouts, a service tailored specifically for marketplaces to pay their contractors “within minutes” to a contractor’s existing Visa or MasterCard debit card.
+
+Stripe’s actually been offering (and testing) Instant Payouts as a limited service with a few customers already: ride serviceLyft, helper marketplaceCare.comand barber servicegoPanache, where it has helped them provide a better service to workers, along with a more competitive edge against other rival marketplaces. (Lyft, which launched the servicelast October, actually touted last week that it’s paid out some $500 million to drivers through the scheme so far.)
+
+Now, Stripe is opening Instant Payouts as a product for any marketplace (starting first in the U.S.) that already uses Stripe’s Connect basic payments API. As with Connect, to use the Instant Payouts option, companies add in a few lines of code. And also as is the case with Connect, Stripe makes money when the transaction is made — in this case, Stripe takes 1.5% of the payout amount, with a minimum fee of 50 cents.
+
+Instant Payouts is solving a common pain point. Two-sided marketplaces like Lyft, Postmates and Airbnb — multi-billion dollar businesses that provide things like rides and takeout to consumers and also serve as a platform for people to contract to provide those things — are some of the fastest growing startups in the tech world today, popular for their quick, on-demand service model.
+
+But one thing these companies are often less good at ispaying outon-demand. It can take several days for contractors to get their money for the services they’ve provided, and that is the challenge that Stripe is aiming to solve.
+
+“As soon as we authorize a transaction, the money is guaranteed,” said Lachy Groom, Stripe’s card infrastructure lead (who is a dead ringer for Stripe’s co-founder John Collison, just FYI). He explained that this is the case because most of these payment services today (including Stripe’s basic Connect offering) use the automated clearing house network (ACH) to transfer money, whereas the new service, by virtue of Stripe’s deals with Visa and MasterCard use the “fast payment” rail.
+
+Stripe is not the only company aiming to speed up payouts for its customers. Uber earlier this year launched a program calledInstant Pay with GoBank, which originally required contractors to have GoBank debit cards to receive the money, but hassince been expandedto cover any and all debit card-based bank accounts.
+
+And PayPal’s Braintree also offersVenmo Payouts, although from what I can see that service still takes up to a day for funds to make their way to your account.
+
+But for many contractors who either work on these platforms to make a little extra money, or as their primary source of income, things like Stripe’s Instant Payouts will give them more immediate access to the money that they make, which when you think about it, should be a given in a model based on real-time, instantaneous delivery.
+
+And for Stripe, which was valued at around $5 billion when itlast raised funding in 2015, the new service is the result of one of the partnerships with strategic investor Visa, and demonstrates how the company continues to diversify what it does beyond basic payments to grow its margins. Other expansions have includedAtlasto help foreign companies incorporate in the U.S., and its otherStripe Connectproduct specifically for marketplaces to scale to new countries.

@@ -1,0 +1,15 @@
+Redis Labs raises $14M for its in-memory NoSQL database services
+
+Redis Labs, the company behind the open source Redis data structure store, today announced that it has raised a $14 million Series C round led byBain Capital VenturesandCarmel Ventures. The company’sexisting investors, including Silicon Valley Bank and Tamar Ventures managing partner Zohar Gilon, also participated in this round.
+
+With this round, which follows the company’s$15 million Series B round, Redis Labs has now raised a total of $42 million.
+
+The company says it plans to use the new funding to expand its sales and marketing efforts as it tries to get an even stronger foothold in the enterprise.
+
+The company, which was founded in 2011, also today announced that it has won 600 new enterprises customers in the first half of this year. Its customers now span a range of verticals and include the likes of Groupon, TD Bank, Verizon, HipChat, DBS, Ring Central, Menards, Twitch and flydubai.
+
+Redis is well positioned to capitalize on the growing market for in-memory data stores (and it now also offersRedis on Flash, too, which allows for running Redis on SSDs instead of the more expensive RAM). As more enterprises look at IoT use cases and how they can make the best use of real-time analytics, having access to a fast data store is obviously becoming more important, too.
+
+“Now more than ever, enterprises need solutions that can quickly process large sets of data,” said Ofer Bengal, CEO and co-founder,RedisLabs, in today’s announcement. “We foundedRedisLabs with the mission of extending the power ofRedisto enterprises who needed to simplify how they manage big and complex data. With more enterprises and developers recognizing the value ofRedis, this Series C investment enablesRedisLabs to further innovate and deliver high-performanceRedissolutions.”
+
+Like other open source-based enterprise companies, Redis makes the core database technologies available for free. On top of that, though, it also offers a number of services, included the fully managedRedis Cloudservice and support for its Redis Labs Enterprise Cluster, among other offerings.

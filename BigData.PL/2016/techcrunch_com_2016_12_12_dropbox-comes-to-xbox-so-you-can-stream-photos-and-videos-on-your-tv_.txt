@@ -1,0 +1,21 @@
+Dropbox comes to Xbox, so you can stream photos and videos on your TV
+
+Dropbox is launching a universal Windows app for Xbox, making it the first cloud storage provider to do so. The app will allow its users to view and share their files, including photos and videos, from the TV. That means you’ll be able to stream your videos from Dropbox via your Xbox, without having to download a local copy.
+
+It also means that you’ll be able to use different applications, like VLC, to access your Dropbox files on Xbox, as well as upload files to Dropbox from USB sticks or other universal Windows apps.
+
+Because the app makes it easier to stream from your own personal videos to the TV’s big screen, it may appeal to those who have amassed a large movie library — perhaps by ripping from their DVDs, or,ahem, some other means.
+
+The new app offers most of the features you would find in Dropbox on other platforms, including the ability to upload, comment on and share files. You can also save to Dropbox files you open in other universal Windows apps in order to save storage space on your devices. And it can be configured to automatically upload screenshots and pictures from Kinect to Dropbox, notes Dropbox.
+
+Because it’s meant for use on the big screen, Dropbox’s app introduces a new interface that’s optimized for use on the TV, where you can navigate using your gamepad or media remote.
+
+The launch is notable because Dropbox hasn’t focused on building TV apps in the past, possibly due to concerns around being associated with movie piracy. In fact, whenit launched an app for the Roku last summer, it turned out that the app was actually built by Roku’s own team, using Dropbox’s public APIs. The company still doesn’t have an Apple TV or Android TV app, either.
+
+In addition, the Roku app had restrictions on how it could be used — videos were truncated at 14 to 15 minutes long, for example. The move was meant to signal that Dropbox’s app is for personal use, like home movies, not feature-length films.
+
+However, the new Xbox app doesn’t have any restrictions on the length of videos you can stream, we’re told.
+
+Dropbox’s decision to ignore the TV space has allowed for other competitors to move in, such asAllCast, a third-party app that lets you “cast” to your television photos and videos from Dropbox and other cloud storage services. The app works with Chromecast, Apple TV, Xbox, Roku and Amazon Fire TV.
+
+Dropbox’s Windows app for Xbox is live today on theXbox Storeas a free download.

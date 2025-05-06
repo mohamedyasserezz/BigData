@@ -1,0 +1,31 @@
+Google’s new app PhotoScan turns prints into digital photos
+
+Google Photos, Google’s cloud photo storage and sharing service, aspires to be a single home to everyone’s photographs. But so far, that has only extended to the digital photos we take, as well as our personal videos. The company is today working to change that with the launch of a new tool called PhotoScan that can help you to turn printed photos into high-quality digital copies. The end result is that older photos detailing your family’s history and the pre-smartphone era can also become a part of your Google Photos experience.
+
+Unlike digital photos, printed photos tend to showcase more important moments, as people were more choosy about which pictures to take because of the price of film and prints, explains David Lieb, the Product Lead for Google Photos, whose team developed PhotoScan.
+
+“But it’s very likely that you’ll lose these photos permanently,” he adds. Google estimates there are trillions of print photos out there in the world, and it wants to bring them online.
+
+Currently, there are a handful of ways to turn printed photos into digital ones. You can ship them off via postal mail to a scanning service, you can buy a scanner and manually scan each one by yourself, or you can use your phone to take a picture of the existing, printed photo.
+
+The latter is what many people already do (as evidenced by the Throwback Thursday postings), simply because it’s easiest.
+
+But this doesn’t tend to lead to high-quality photos. Instead, images snapped with your smartphone camera tend to have a glare from the overhead light streaked across the image; they often are not properly aligned; and, if not cropped, may even show the table or surface they’re resting on as part of the digital copy.
+
+Google PhotoScan instead will help you take photos of these prints, then automatically address all these common problems.
+
+The way it does this is interesting. The simple mobile app, when launched, takes you directly to the camera’s viewfinder. Overlaid on top of the view of the print you’re about to snap a photo of are four white dots. You guide the phone over each dot by moving it slightly, which allows Google to take multiple shots of the photo from different angles. What you’re doing here is getting different images where the glare has been moved around, too.
+
+Above: PhotoScan in action
+
+PhotoScan then stitches those together to produce a single image without the glare. The app also automatically rotates the image, aligns it and removes the background (e.g. the tabletop). An in-app editor allows you to make a few tweaks of your own, if desired, too. The photo can be saved to your phone’s photo gallery, where you can share it as you please.
+
+It’s worth pointing out there are a number of alternatives to PhotoScan on the market, likePhotomyne, Ancestry.com’sShoebox,Heirloom,Memoriesand others. But while they may crop and straighten, none are using this idea of combining multiple angles to eliminate the glare.
+
+Though designed by Google Photos’ team, PhotoScan doesn’t directly upload to the photo-sharing service. Instead, you’ll need the Google Photos app installed if you want these print-to-digital images to upload automatically.
+
+Once in Google Photos, the company is also rolling out new, advanced editing tools, including a better “auto enhance” feature, tools for making granular adjustments to light and color in photos and a dozen new photo filters. The filters are also powered by machine learning, and will edit the photo based on its brightness, darkness, warmth or saturation before applying the new style.
+
+The updated Google Photos app is rolling out today.
+
+PhotoScan is also going live today as a free download on bothiOSandAndroid.

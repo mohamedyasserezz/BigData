@@ -1,0 +1,15 @@
+GOAT legs will let future robots handle rough terrain with ease
+
+A Master’s Thesis by CMU’sSimon Kaloucheposits a new form of robotic leg, one designed for maximum range of motion and, more importantly, an easily control method for force reduction. In other words, this is the kind of leg you want on your robot when you send it to Mars.
+
+GOAT stands for Gearless Omni-directional Acceleration-vectoring Topology and uses a single motor and planetary gear to create a highly dynamic range of motion. The GOAT system allows for each leg to move dynamically – if it splats down hard the entire leg will take the brunt of the fall and if it needs to move sideways or on a sheer cliff face like a goat it can modify its legs accordingly. I think the best way to think about this leg is as one of those expanding and contracting plastic balls made of various vertices you buy at science museums – it can shrink, grown, and handle all sorts of positioning problems in real time.
+
+Quoth Kalouche:
+
+￼Extra-terrestrial landscapes or a collapsed rubble environment, ubiquitous to war and disaster zones, will contain regions of highly rugged yet relatively level ground. In these environments using high bandwidth virtual compliance, made possible by low impedance actuators, will allow the robot’s legs to actively conform to the terrain producing a more efficient and swift mode of locomotion as compared to a statically stable crawling gait which requires accurate terrain mapping and explicit foot step planning.
+
+To achieve mobility over such a broad set of terrain topographies – spanning structured and unstructured environments – an ideal robot will employ both static, highly stable motions (e.g. dexterous crawling, climbing, walking), as well as highly dynamic agility maneuvers (e.g. leaping, inertial reorientation, controlled landing; running; etc.) to optimally traverse the terrain at hand. Therefore, a capable legged robot must be both dexterous, for precise footstep placement, and dynamic, for running and jumping when obstacles are insurmountable by static gaits alone.
+
+The video shows only one leg in action butSpectrum has an imageof a quadrupedal robot with four goat legs that can handle almost any terrain. The robot may not be as fast asBig DogorCheetahbut it’s still pretty cool.
+
+[youtube=https://www.youtube.com/watch?v=n319xVomJTQ]

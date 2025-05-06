@@ -1,0 +1,29 @@
+Photo app Ever removed its spammy SMS feature after Apple banned it
+
+Score one for the consumer against the indefatigable force of growth hacking.Ever, the photo storage app that we called out in September forspamming SMS contact lists(itrebrandedfrom Everalbum shortly after), has found its way back into Apple’s App Store after getting temporarily banned for its practices.
+
+Ever has had a lot of negative feedback — and even acoupleoflawsuits— over how it leads you into sharing your contacts with it, and then subsequently messaging them with its marketing. Despite that — or rather, largely due to that — the app has been on a popularity tear. In the last month, it has consistently ranked No. 1 or within the top 10 among all Productivity apps in both the Android and iOS U.S. app stores, according to App Annie figures.
+
+In Apple’s iTunes App store, however, there’s been a blip: it disappeared, along with its billing function, used by paying “Plus” users ($9.99/month) or those who want to purchase physical photo books (which start at $19.99). From what we understand, this was squarely down to how it misled users into providing access to their contacts list and then spamming them to use the app.
+
+According toa number of consumer complaints, Ever (then Everalbum) had duped them into spamming their friends with invites to try the service. The app’s user interface used a variety of techniques to get users to agree to this invite spam. This included a tricky button that heavily emphasized the option to “get free storage,” which then prompted you to let the app access your contacts). The following screen would show all your contacts checked by default, while the option to “Deselect All” was grayed out to make it less obvious.
+
+But it’s unclear whether users were just confused about what they were agreeing to, or if Ever had actually used different, and less transparent, onboarding flows at other times.
+
+The end result, however, was that many of Ever’s users felt they had been tricked into sending out SMS spam.
+
+In addition, Ever also sent out a number of different and misleading SMS text messages that implied your friend had given you access to view photos in their album, or threatened a link would expire if you didn’t click it soon. But users hadn’t necessarily shared albums — they were just navigating their way through the set-up process.
+
+Apple removed the app from its iTunes App Store for its bad behavior — specifically SMS spam and for being misleading. It was only allowed back in when the “invite via text” feature was removed. Google, however, never took any action, despiteits recent claims of clamping down on apps that try to manipulate their rankings.
+
+In the new version of Ever, now back on the App Store, the app no longer prompts you to sign up your friends, and it has a much clearer interface for its in-app upgrades:
+
+Now, the options for starting a free trial are clearly labeled, and the trial only begins after you enter your TouchID and confirm your commitment to the subscription terms ($11.99/mo after the trial period.)
+
+When testing, however, we found a new problem: after choosing to upgrade, but then cancelling before you continued to the trial, the TouchID prompt kept popping up. We had to hit “Cancel” on its repeated prompts to get it to go away for good. This could be a bug with the new app, or a new means of confusing the user — it’s unclear. (The new app does appear buggy, though — the album sharing button wasn’t working during tests, for instance.)
+
+However, when sharing photos (or presumably, an album), you have to explicitly type in a contact’s name or select from your “recents.” The app doesn’t indicate it’s sending a text on your behalf, but at least only the recipient — and not your entire address book — is being bothered. The text will point your friend both to a mobile web version of the app and to the App Store to download Ever via two included links.
+
+While Ever may have cleaned up its act, it’s clear that its growth hacking techniques gave it an advantage, given its continued high ranking. That, sadly, could still encourage other nefarious app developers to use similar techniques in the future.
+
+Unfortunately, the courts have not been on consumers’ side, either. Previous lawsuits related to SMS marketing citing the TCPA (Telephone Consumer Protection Act), which specifies consent requirements for marketing, have been dismissed. These include cases brought againstWhisperText(Whisper),Shopkick,Life360,Lyftand others, over the years. The suits against Ever are still pending.

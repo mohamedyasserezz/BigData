@@ -1,0 +1,41 @@
+Marketers say Facebook video metrics scandal is overblown
+
+“The issue is being hugely overblown. Marketers do not care about it, and it has zero impact on spend.” That’s the response of Jason Stein, founder and CEO of 250-employee social marketing agencyLaundry Service, to aWall Street Journalreport strongly criticizing an error in Facebook’s “average duration of video viewed” metric.
+
+The paper called the miscalculation “an embarrassment to Facebook”, which spurred a firestorm of criticismamongst the media. But TechCrunch spoke to a dozen social marketing executives that work directly with these metrics, and the consensus was that there are far more important measurements to look at, and the error wouldn’t necessarily impact spend if marketers looked at analytics more holistically,
+
+Facebook did make a mistake by defining and calculating the metric differently, which should have been spotted and corrected sooner. Facebook’s non-standard choice to count a “video view” as anyone who watches a clip for at scant three seconds or more has caused confusion for years. The error could have made Facebook look favorable in comparison to other video channels.
+
+Facebook told TechCrunch “This error has been fixed, it did not impact billing, and we have notified our partners both through our product dashboards and via sales and publisher outreach.”
+
+Facebook’s VP of advertisingapologizedfor the “average duration of video viewed” metric error, explaining that “The metric should have reflected the total time spent watching a video divided by the total number of people who played the video. But it didn’t – it reflected the total time spent watching a video divided by only the number of “views” of a video (that is, when the video was watched for three or more seconds).”
+
+However, Facebook did announce the error to marketersabout a month ago, put up an advertiser help post explaining the issue, and highlighted the error on the video metrics dashboard itself so anyone looking at the data would know. It’s also replaced the broken metrics with a clearer “Video Average Watch Time” metric that divides by all plays including ones under three-second plays, and a new “Video Percentage Watched” stat.
+
+Since advertisers are charged based on ten-second video views [Correction: Ten-second, not three-second views], no one paid for views that didn’t happen. Facebook offers third-party video verification options from Nielsen and Moat so marketers don’t have to take its word on measurement. If the issue was as big of a deal as the WSJ report implies, you might expect marketer outcry to have happened immediately rather than a month later.
+
+The “whole thing is silly”tweetedmegabrand AB Inbev’s Senior Director Of Digital Connections Azania Andrews. Stein tells TechCrunch “If a user scrolls past your video and doesn’t watch, why in the world would you want them in average view time?”
+
+Other marketers had more nuanced perspectives. Analytics providerParse.lyCTO Andrew Montalenti told us “I think the metric measurement problem that the WSJ printed about was a honest mistake on Facebook’s side. If someone didn’t watch for at least three seconds, it’s an accidental view and shouldn’t be counted.”
+
+An audience development director at a media brand who asked to remain anonymous told TechCrunch “Facebook’s metrics are definitely problematic, but no more problematic than the ratings from Nielsen the entire television industry works off of. Agencies and brands will be fine, as big video numbers generally benefit both sides.”
+
+The founders of social media advisorsFoxwell Digital, Andrew and Gracie Foxwell, told TechCrunch “There are various other metrics that advertisers likely care more about, such as return on ad spend, time a user spends on their website, cost per acquisition, etc–in other words, advertisers and business owners will care most about their overall campaign objective vs. cherry picking one metric out of hundreds.”
+
+The Foxwells did note that “some advanced Facebook advertisers could have certainly shifted budgets due to the incorrect definition”. Montalenti also noted that “When marketers were trying to do apples to apples comparisons [with channels like YouTube] it made Facebook look way better” but added “I doubt it influenced day to day ad buying activity. I think it was just to evaluate the channel.”
+
+Independent Facebook marketing strategist Jon Loomer’s perspective is that “On one hand we expect the numbers to be accurate, we need the numbers to be accurate. And Facebook, for the sake of perception and trusworthiness, needs the numbers to be accurate…That said most advertisers see reach and view time as secondary or even tertiary metrics. When determining whether something is working, we typically focus on actions like clicks or conversions.”
+
+Meredith Xcelerated Marketing‘s strategy director Joe Gizzi says the error “artificially inflates the scale in Facebook’s favor compared against other platforms and social networks. What it doesn’t do is inflate costs; Facebook doesn’t charge for views of less than three seconds in these types of campaigns.” The agency won’t be moving spend off Facebook. “We see Facebook as a strong and important part of our clients’ marketing ecosystems, and continue to use it to target consumers where they are spending a significant amount of time.”
+
+whole thing is silly. Full data by sec has always been available. We always look at 30 for comp 2 YT & 10 for Nielsen benchmark
+
+— Azania Andrews (@jewelazania)September 23, 2016
+
+Sameer Kazi, CEO of social media analytics giant Simply Measured tells us “Accurate data is always important, but for most marketers and advertisers, metrics like this aren’t the complete picture, they’re a part of a broader data set…Although the error in reporting these video metrics is regrettable, the fact that Facebook has self-reported and is reporting the correct numbers is to be applauded.”
+
+Still, regardless of the impact of the scandal, it could rattle marketer trust in Facebook, which could  in turn impact its ad revenue, which could be why Facebook’s share price is currently down about 1.6 percent today. “The doubt in accuracy may drive content and promotion elsewhere” said social analytics firm Sysomos’ Chief Product Officer Erica Jenkins.
+
+Facebook is in a tough spot. If it too forcefully contests the report, it could feed into fears that Facebook have become so big that it’s unaccountable to advertisers or publishers. But its current apologetic response might leave people with the impression that the situation is worse than marketers on the ground think.
+
+Ad and marketing platforms like Facebook should learn the lesson here that if you use non-standard metrics, you must be as clear and specific as possible about how something is measured. And if you run a company people already worry is destroying media while claiming not to be a media company, there’s little margin for error.

@@ -1,0 +1,11 @@
+Tumblr finally makes SSL connections the default for new blogs
+
+Once upon a time, in 2014,Tumblr announcedthat it was adding SSL, the standard protocol for establishing a secure connection on the web, as an option on all blogs. Two and a half years later, it’s finally the default! For new blogs, anyway.
+
+Tumblr security engineer Josh Hixsonannounced the featureon competing microblogging site Twitter:
+
+https://twitter.com/JoshHixson/status/803673098453155840
+
+Companies have been adding HTTPS and SSL (or TLS) as the default at varying speeds; Twitter and Google started early, while others have dragged their heels. Many, like Tumblr, have added the option but delayed making it the default, because it isn’t trivial to roll out at great scale.
+
+You shouldn’t notice anything different if you’re a regular Tumblr-er, although some third-party extensions or browser plug-ins might choke a bit on the updated protocol. Custom domains might also take a bit to catch up, but be patient.

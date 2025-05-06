@@ -1,0 +1,23 @@
+Breaking a myth: Data shows you don’t actually need a co-founder
+
+We are often told that starting a startup on your own is madness. There are thousands of articles out there that tell youthat, as well aswhyyou need a co-founder. Probably solid advice, but data from thousands of startups inCrunchBaseshows a different side of the story. More than half of startups with an exit did so with just a single founder. The average is 1.72 founders.
+
+To ensure that I had the most useful and well-reported data, I limited my research to “successful” startups. It’s tricky to determine what makes a company qualify for that label. There are examples of great companies that haven’t made a penny in their existence, and others that made a lot of money but still cannot really be considered successful. As such, I decided to look at two different — and admittedly slightly arbitrary — measures of success. The first group is companies that have raised more than $10 million of funding. The other group is companies that have successfully exited the business, either via an IPO or an acquisition.
+
+The numbers in both cases vary slightly, but there are some strong similarities, in both casesre-confirming data from about 10 years ago, where a much smaller data set concluded that successful companies had, on average, 2.09 founders.
+
+My deep dive into theCrunchBase APIgave me a total of 7,348 companies that have raised more than $10 million each. Of course, some of these companies will subsequently have failed, but I figured it was a good number to help whittle down the number of companies in my data set. The findings were fascinating.
+
+It turns out that almost half of the companies successful in raising funding did so with a solo founder. Just under one-third of the companies had two founders and only 22 percent of companies had three or more founders. The average number of founders is 1.85 per startup.
+
+When I started looking at a different data set — companies that secured an exit of some sort — the numbers became even more stark. I should point out that in this set of data, I’mincludingcompanies that raised less than $10 million. This set of data included 6,191 companies, but the apparent advantage for solo founders was even stronger in this group.
+
+In this case, more than half of the companies were founded by a solo founder. Again, just under one-third had two co-founders, and around 18 percent had three or more founders. In this category, the average number of founders per startup is 1.72.
+
+While the above data from CrunchBase suggests that it’spossibleto raise money and secure an exit as a solo founder, that doesn’t mean it’s a fantastic idea. In my opinion, building a company with 2-3 co-founders is probably the way to go. What the data suggests, however, is that if you fail to get a co-founding team together, it doesn’t necessarily mean all hope is gone.
+
+Let’s be frank: There is no denying that starting and running a startup is an extremely stressful endeavor. Having a team working together and challenging each other along the way means that the startup can be more than the sum of its parts. There is also a large amount of anecdotal evidence suggesting that a number of investors will reject solo founders by virtue of not having a bigger founding team, or be a lot less likely to invest without a robust team.
+
+If the accelerators of the world are anything to go by, you shouldn’t go build a company on your lonesome. Dave McCluresuggeststhat being accepted to the 500 Startups accelerator is possible, but not common, while Paul Graham of Y Combinator goes so far as to suggest thatsolo-founded startups are the No. 1 one mistake that kills a startup. Which, incidentally, didn’t stop Y Combinatorand other top-shelf acceleratorsfromaccepting a number of one-founder startups throughout the years, including some big success stories like Pebble’sEric Migicovskyand Dropbox’Drew Houston(though YC’s Paul Graham eventually had Houston find a co-founder).
+
+But hey, if you do decide to turn up the stereo to 11,play your theme tuneand embark on your next venture alone, at least you can do so with the knowledge that you aren’t the first to walk this path.

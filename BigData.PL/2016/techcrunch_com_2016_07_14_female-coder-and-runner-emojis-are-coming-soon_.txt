@@ -1,0 +1,7 @@
+Female coder and runner emojis are coming soon
+
+Thanks to Google, theUnicode Emoji Subcommittee has agreedto add 11 new emoji that represent professions for men and women across all races.Back in May, Google proposed a new set of emojis to the Unicode Technical Committee that “represents a wide range of professions for women and men with a goal of highlighting the diversity of women’s careers and empowering girls everywhere,” Google wrote in its proposal.
+
+The 11 new emojis depict a male or female farmer, welder, mechanic, health worker, scientist, coder, business worker, chef, student, teacher and rockstar. In addition to the 11 entirely new professional emojis, Unicode has agreed to add male and female versions to 33 existing emojis, like the runner emoji, which is currently only available as a male and the haircut emoji, which is currently only available as a woman.
+
+These new emojis can be integrated and deployed in upcoming versions of Android, iOS and other platforms before the end of this year, according to Unicode. Developers can learn more about how to support these new emojis in Unicode’sGender Emoji ZWJ Sequencesdocument.

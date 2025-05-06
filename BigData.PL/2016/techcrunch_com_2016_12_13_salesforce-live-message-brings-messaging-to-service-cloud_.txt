@@ -1,0 +1,23 @@
+Salesforce LiveMessage brings messaging to Service Cloud
+
+As more and more people use SMS and messaging apps like Facebook Messenger to interact with friends, it’s only logical that they want to interact with business that way too — and today Salesforce launched LiveMessage, a tool that helps customer service reps manage messaging traffic just like any customer interactions in Service Cloud.
+
+For starters, it supports SMS/MMS and Facebook Messenger, but over the next year the company expects to add support for other message apps, as well.
+
+Service Cloud customers can set up an SMS messaging interaction in less than a day through a company’s 800 number. This new functionality is built with technology that came fromthe HeyWire acquisitionin September. All of the message traffic, regardless of the tool, appears in a tabbed view in Service Cloud, just as it does with phone or web chats.
+
+The new functionality involves a couple of different approaches to messaging: talking to a human and communicating using bots. Companies could use a combination of the two, starting with bots for simple interactions, then transferring to humans for more complex questions.
+
+Salesforce is offering Service Cloud bots, or customers can plug in a third-party bot to communicate via automated interactions in messenger clients. The key here, though, is to provide avenues for two-way communication between the company and the customer via a message interface.
+
+We’ve all had the experience of getting a text that an item has shipped or our appointment is confirmed from a company or service provider, but without the ability to text back. Consumers used to having two-way communication are often frustrated by these limited interactions.
+
+Service Cloud is offering a way to give that two-way interactions between consumers and companies that we are used to having with our friends. When we get a text, we expect to be able to respond — and this new functionality allows us to do that — whether we are interacting with an automated response bot or a human.
+
+“We don’t view this as bots [versus human] agents. This can be bots for simple rules-based approaches, or it could be a real-time conversation or a combination of both,” said Meredith Flynn-Ripley, VP of product messaging at Service Cloud, who came to the company via the HeyWire acquisition.
+
+Flynn-Ripley indicated one of the advantages of going with messaging is that companies see a sharp drop-off in phone traffic when customers open a messaging channel in Service Cloud. Customers seem to prefer to interact using messaging over picking up a phone. “Live messaging becomes 15-20 percent of [customer service] interactions in a matter of weeks,” she says. What’s more, customers are seeing voice calls dropping by numbers directly proportional to the rising messaging traffic.
+
+Agents can manage up to 7 message channels at a time in the Service Cloud interface — and customer service agents who are already using web chat technology should be able to get up and running with the new messaging capabilities without any additional training.
+
+Flynn-Ripley says what it comes down to is that customers want to communicate on their terms, and texting is proving to be a popular way to contact companies with customer service issues.

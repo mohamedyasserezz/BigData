@@ -1,0 +1,11 @@
+Pusher pulls in $2.5M to push live web and app content everywhere
+
+London-basedPusher, the company powering The NY Times’ live election results and DraftKing’s fantasy scoring results, just raised $2.5 million to up its stakes further. The money came fromSaaS Capital, which focuses on debt financing aimed at the Software as a Service (SaaS) space.
+
+The company has seen strong organic growth so far, with more than 100,000 developers using Pusher to deliver content to their customers. It built a profitable business after raisinga modest seed round in 2011. The company claims it is profitable, and has earmarked the funding for product development and marketing.
+
+“We reached product-market fit organically,” says Jordan Quigley-Jones, Pusher’s product manager. “Last year we began building our enterprise salesforce and we have seen rapid expansion of our commercial growth, so we will invest further in building a sales and marketing team to execute on this growth.”
+
+The company’s product is focused on making the web more real-time. Pusher offers some suggestions for when this might be useful: cars moving around on a map, scores updating on a web page or notification messages getting pushed to the users. “Any feature within an app or a website that should just update in real time without needing to be refreshed could be built with Pusher,” the company says.
+
+“NY Times uses Pusher to power live election results — their servers push the results to all of their connected client devices in real time as they become available,” says Quigley-Jones. By pushing instead of polling for results, the servers have to do less heavy lifting. “It reduces their server request overhead while decreasing the time it takes for each device to be synced to the current results.”

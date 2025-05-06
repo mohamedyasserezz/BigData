@@ -1,0 +1,9 @@
+These custom 3D-printed topographical maps could make nice stocking stuffers
+
+If you intend on delaying your gift-buying to the degree that you have to 3D print a few just before go time, you’re in luck. This easy to use little tool lets you quickly select, customize, and print out a tiny topographical map of anywhere in the world.
+
+TopoTopo, as it’s called, is pretty easy to grok. Put in a location and it loads right up; adjust the zoom and height (a multiplier of actual altitude, for emphasis), then select whether you’d like it whole or sliced into square puzzle pieces
+
+Then you have your choice of downloading the resultant 3D model or having it printed at Shapeways. That’ll run yousomewhere north of $40, though, so you might want to just bring it to your local maker space.
+
+The service is from design agency Hush; it gets its mapping data from Google its topographical data from theShuttle Radar Topography Mission. Coverage may vary or be spotty in some places, but most of the areas I checked came up just fine, although the lack of labels may make it a little difficult to recognize what you’re looking at.

@@ -1,0 +1,27 @@
+How drones will reshape the enterprise
+
+Most people associatedroneswith troops and mad scientists tinkering around in their backyards.
+
+Thanks to technological breakthroughs — including longer and safer flights — and new federalguidelinesenacted this year,droneuse is expanding beyond military and consumer markets and is seeping into theenterprise. Analysts at PwCforecastthe emerging global market fordrone-powered business services to be valued at more than $127 billion.
+
+DJIhas ushered technical innovation into the mainstream with its popular Phantom series of off-the-shelfdrones. The newest models now have enhanced gyro-stabilization capabilities and the ability to fly for triple the duration of what was possible only a couple of years ago — at a digestible cost of $1,000.
+
+Simply put, the cost and hardware have reached a point wheredronesare easily accessible for mostenterpriseuse cases. The tipping point, however, came with the Federal Aviation Administration’s decision to passPart 107in June — now, anyone with an online certification can operate adronefor commercial purposes. Previously, the industry was limited to having individuals with a pilot’s license operatedrones(both costly and cumbersome).
+
+We’re seeing a wide range of mainstream business applications fordronescrop up, the breadth so esoteric it becomes hard to track.Inteljust unveiled adronedesigned specifically for industrial use-cases like construction site and field inspections. Oil and gas companies are usingdronesfor rig safety and maintenance, andAmazonhas made its aspirations fordronedeliveries known.
+
+Seed companies marketing to the agriculture industry are giving farmers freedronesand training them to survey their crops.UPSrecently used adroneto deliver medicine to an island near Boston. I also recently spoke with a company that mapped whole swathes of freeway in Mexico to identify sections that needed the most repair. Resolution was not high enough with satellite imagery and car-based mapping would have taken too long, butdronescompleted the project in a matter of days.
+
+There are a ton of niche applications too — from insurers assessing hail storm damage on crops to cities surveying storm water drains.
+
+The newenterprisedronemarket has created the need for an ecosystem to support it. On-demand “droneentrepreneurs” are working as consultants to companies that needdronepilots and service providers — think Uber fordrones. For example, companies are contracting withdroneoperators for remote facility inspection rather than risking the safety of an employee or hiring a specialist solely for the assignment.
+
+This cottage industry ofdronespecialistswillbe essential to the viability of theenterprisedronemarket. Nobody has yet aggregated the number of these service providers, but I have no doubt it is already in the tens of thousands.
+
+Early on, off-the-shelf hardware solutions from producers such as DJI weren’tenterprise-ready (as highlighted above). Therefore, first-moverenterprisevendors such asAirwareandKesprybuilt their own hardware in addition to the software ecosystem. This is shifting. More recently, the biggest development in thedronemarket is companies likeDroneDeploy,SkycatchandPropeller, which are only focused on software.
+
+These companies benefit from having to only focus on the software and the growing surrounding ecosystem of many software vendors. I expect a trend to play out similar to the commoditization of hardware within the smartphone industry — engineering your owndronehardwarewillrarely be worthwhile. A few promising categories for the next wave ofenterprisedronesoftware are for managingdroneflight and managingdronebehavior and compliance, as well as real-time data analytics processing.
+
+The media likes to tell a futuristic story ofdroneswhizzing through our cities, clouding our skies. While not unrealistic, this reality is quite a ways out. Less talked about is how millions ofdronesare already in use, the value that they’re creating in theenterpriseand the outcomes they’re opening up that were previously cost-prohibitive or impossible.
+
+Drones are making a real impact on a number of industries, and quietly transforming theenterpriseas we know it. Much like personal IP-based telephony quietly became ubiquitous overnight, the tailwinds are such that wewillsoon seedronesin every aspect of our lives.

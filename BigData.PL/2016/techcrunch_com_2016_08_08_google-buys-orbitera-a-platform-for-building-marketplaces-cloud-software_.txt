@@ -1,0 +1,33 @@
+Google buys Orbitera, a platform for cloud marketplaces, for $100M+
+
+Google todayannouncedanother acquisition that will help the company improve how it competes against Amazon’s AWS, Salesforce and Microsoft in the area of enterprise services, and specifically selling enterprise services in the cloud: it has acquiredOrbitera, a startup that developed a platform for buying and selling cloud-based software.
+
+Terms of the deal have not been disclosed but our sources close to the deal tell us it’s just north of $100 million.
+
+This is an acquisition of talent, technology, and existing business. The CEO Marcin Kurc (tellingly) is analum of AWS. And Google notes that some 60,000 enterprise stacks have already been launched on Orbitera.These includethe likes of Adobe, Oracle and Metalogix, who all resell cloud services from third-party vendors as part of their larger enterprise businesses.
+
+“This acquisition will not only improve support of software vendors on Google Cloud Platform but also provides customers with more choice and flexibility in today’s multi-cloud world,” Google said in a statement provided to TechCrunch.
+
+Kurc notesin his announcementthat Google will keep everything running as is, “at this time.”
+
+The startup says its focus is on providing four (end-to-end) aspects of building cloud marketplaces:Packaging and Provisioning,Billing and Cost Optimization,Marketplace and Catalogs,Trials and Lead Management.
+
+It looks like Google will continue to operate that business on behalf of existing users, and maybe to help out its own marketplace for cloud services on its owncloud platform.
+
+“Looking to the future, we’re committed to maintaining Orbitera’s neutrality as a platform supporting multi-cloud commerce. We look forward to helping the modern enterprise thrive in a multi-cloud world,” writes Nan Boden, head of global technology partners at Google.
+
+As Google has grown well beyond its earliest roots as a search company, its reached an interesting relationship with companies that are at turns friends and rivals to its own business interests.
+
+Buying a platform company that works with so many of these in the area of cloud services is an interesting development for Google, and one that it’s keen to try to tread carefully in making.
+
+In this case, Google is trying to reassure customers that even as it sells a platform to sell products, it recognises that the ultimate repository of those products might not be Google itself.
+
+(Whether or not that is the case longer term is another question — in other areas like ads, Google has walked animpartial line and then changed course— but for now there is a viable enough business for Google in remaining a neutral party.)
+
+“We recognize that both enterprise customers and ISVs want to be able to use more than one cloud provider and have a way to conduct product trials and proofs of concept before building a full production deployment, all using their trusted SIs (System Integrators), resellers and normal sales cycles,” Boden notes.
+
+“Orbitera has built a strong ecosystem of enterprise software vendors delivering software to multiple clouds. This acquisition will not only improve the support of software vendors onGoogle Cloud Platform, but reinforces Google’s support for the multi-cloud world. We’re providing customers with more choice and flexibility when it comes to running their cloud environment.”
+
+Orbitera was co-founded byFiras BushnaqandBrian Singer, who came up with the idea for the company to fix some of the “transactional and operational challenges associated with selling software” that they encountered while founding and working at previous tech companies.
+
+Based out of West Hollywood, CA, Orbitera hadraisedsome $2 million in funding from angels like Hiten Shah and Arjun Sethi, Double M Partners and Resolute.vc.

@@ -1,0 +1,19 @@
+Dropbox steps up to business users with AdminX, plans device management
+
+AsDropbox— the cloud storage company with 500 million users — gets more profitable and inches towards an IPO, the company is slowly adding more features that cater to the lucrative business market.
+
+Today, Dropbox — which already has some 200,000 companies using Dropbox Business — is taking the wraps off ofAdminX, a new dashboard aimed at IT admins to better tailor and control their companies’ files and users on Dropbox Business accounts.
+
+At the same time, the company is preparing to launch yet more services that take it beyond basic storage: soon it plans to launch mobile device management as part of the AdminX console so that admins can use Dropbox to control not just Dropbox-based files but actual devices.
+
+The news comes as we have heard from sources that Dropbox is roughly aiming for an IPO in the second half of 2017 — i.e. about a year from now — although the company declined to comment on this when we asked about it.
+
+Dropbox says that AdminX has been an internal initiative for a year already: and the premise is simple. While there have been admin tools on Dropbox Business ever since the product was launched, these have not seen much use. So taking a page from its own consumerization book, Dropbox has reimagined them with more intuition and simpler interfaces.
+
+Features include a new version of folders for individuals, teams and larger groups, all with more granular permissions across the board that can be managed from AdminX. And it also includes more enhanced controls for syncing files, letting admins choose which files will be synced locally and which are not — meaning that they can be modified depending on the device being used, and the amount of disk space available.
+
+Other features include file event logging, which lets admins get more visibility on what individuals are doing with files.
+
+Robert Baesman, Dropbox’s head of product, tells me that the upcoming mobile device management feature — which will let admins limits the number of devices that can be synced, and to therefore protect access — will not be launching until later this year. It was built internally, and is not necessarily meant to compete with or replace other MDM tools if companies are already using them.
+
+“There is not much competition there,” he told me in an interview. “We have strong relationships with our partners and we know their solutions are the right tools for the enterprise. We encourage our users to use them, but we feel that some customers don’t need as strong of solutions. We have such a broad set of customers and want to right-size the utility to address a whole variety of needs.”

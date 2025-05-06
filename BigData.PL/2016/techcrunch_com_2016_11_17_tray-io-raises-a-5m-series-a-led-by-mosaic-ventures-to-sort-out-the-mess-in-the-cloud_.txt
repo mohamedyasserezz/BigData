@@ -1,0 +1,25 @@
+Tray.io raises a $5m Series A, led by Mosaic Ventures, to sort out the mess in the Cloud
+
+The adoption of the Cloud is booming (of course). But at the same time SaaS services are exploding. That means companies need developer resources to integrate all these inter-locking services. But there’s a problem. They spend huge amounts of time and money manually transferring data between services and are, once again, hamstrung by a lack of developer resources.
+
+Playing in this space includes companies like Mulesoft, Informatica, Boomi, Tibco, Workato at the higher end, Zapier and others at the lower end. There’s also Informatica, Boomi and Mulesoft.
+
+However, UK/US startuptray.io, a next generation cloud integration provider, thinks it has come up with a ‘modern’ approach which allows companies to access their own data in the cloud and integrate many integrated services.
+
+It’s now raised $5m in a Series A round led by London-based Mosaic Ventures, with further participation from True Ventures.
+
+Existing investors include Redpoint, Passion Capital, Angelpad and Huddle co-founder Andy Mcloughlin. It had previously raised just short of $3m.
+
+Early customers include Digital Ocean, Expensify, Vox, Buzzfeed, Zycus, Meteor, Keen.IO and Northwell Health.
+
+Via email, co-founder and CEO Rich Waldron says he is ‘scratching his own itch’.
+
+“While working on a previous product back on AngelPad in 2012, we wanted to find out if any investors had signed up to our product. We realised that writing the code to figure this out (looping through Mailchimp & Angellist to create the list) was extremely time-consuming and hard to scale, we couldn’t believe there wasn’t a better, more efficient way to do it, so the idea for tray was born,” he says.
+
+The product provides a web-based interface to drag and drop connectors onto a canvas and creates workflows between services and technical functions. The product is used to create custom integrations between tools + internal data using APIs.
+
+For example by using tray.io a company can stop customer churn by tracing product usage attributes in intercom and triggering notifications in a CRM. This means that the customer success team can track when product usage has dried up and try to intervene. At the same time it notifies the sales team that a customer may be likely to churn.
+
+Simply put, it’s easier to connect the different tools you use at work, so that you can automate manual tasks and build processes to save time.
+
+You can see the product demo’dhereand it’s very ‘drag and drop.

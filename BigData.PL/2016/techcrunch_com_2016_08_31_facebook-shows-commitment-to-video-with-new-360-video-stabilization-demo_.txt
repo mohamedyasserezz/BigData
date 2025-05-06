@@ -1,0 +1,25 @@
+Facebook shows commitment to video with new 360 video stabilization
+
+With new 360 video cameras hitting the shelves — alongside matching headsets — in time for the holiday season, millions of new users will be looking to consume VR content. Facebook recognizes that one of the biggest impediments to the enjoyment of 360 video is excess motion.
+
+The companyreleased a demo today of its new 360 video stabilization technology.The new technology combines traditional 2D motion models with 3D models and a new “deformed-rotation” model.
+
+“Our investment in video is something we have talked about for a while,” said Jay Parikh, vice president of infrastructure engineering at Facebook. “We have been pretty verbal about saying this is important, we are building these experiences, VR, 360 and Live.”
+
+Johannes Kopf, the research scientist who led the effort, explained that he used a variety of open-source technologies like OpenCV and OpenGV to build the stabilization tool. While neither of these tools are new, the application to stabilizing video is unique.
+
+Moreover, both 2D and 3D stabilization have been used before, but an implementation of both in the same tool enables fast and accurate stabilization. The team decided to only use 3D analysis for key frames. Rather than equally spacing out the key frames, a tracker identifies specific frames with spikes in activity. Kopf explains that once the 3D reconstruction is applied, the system can differentiate rotational and translational camera motion. This effectively allows the final 2D optimization to be more effective. Once aligned, the key frames are locked and used as reference points. This is when the deformed-rotation model comes into play, and local deformations are fixed.
+
+While not all of us can appreciate the complexity behind the new modeling, we can all get behind reduced motion sickness from watching our favorite videos with a 360-degree field of view.
+
+In addition to increased stabilization, videos also play more efficiently. If the same playback quality is maintained, videos will have a 10-20 percent reduction in bit rate.
+
+In the old days, post-processing even a short 2D video for stabilization was a time-consuming process. Facebook prioritized speed for their new 360 video stabilization. The result is that videos can be stabilized at less than 22 milliseconds per frame. It actually takes less time to process videos than to play them.
+
+While Facebook is experimenting with the technology internally, it has not been open sourced yet.
+
+“We are still discussing plans, what we have learned, and how we handle this,” said Parikh. “There’s still lots of R&D left.”
+
+Kopf and his team are also toying around with a hyperlapse tool for 360 video. The algorithm for speeding up videos anchors playback timing to camera velocity. In layman’s terms, this means that if you film an urban bike ride with your GoPro, you can share the playback in high-speed without awkward traffic stops. Kopf says another benefit of pegging timing to velocity is the reduction of acceleration. Watching acceleration in a VR headset, when it isn’t occurring in real life, can cause fun-killing motion sickness.
+
+Also this morning, Facebook launched new open-source technology for storage and compression at its @Scale conference in San Jose.You can read more about that here on TechCrunch.

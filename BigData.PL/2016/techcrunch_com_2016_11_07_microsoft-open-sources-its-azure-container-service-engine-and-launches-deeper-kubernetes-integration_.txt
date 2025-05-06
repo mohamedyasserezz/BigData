@@ -1,0 +1,13 @@
+Microsoft open sources its Azure Container Service Engine and launches deeper Kubernetes integration
+
+The open sourceKubernetescontainer management project is probably the most popular of the various competing container management services available today. TheCloud Native Compute Foundation, which plays host to the open source side of Kubernetes, is hosting its firstKubernetes conferencethis week and unsurprisingly, we’ll see quite a bit of container-related news in the next few days.
+
+First up is Microsoft, which is not only making the source code of the engine at the core of itsAzure Container Service(ACS) available, but also launching a preview of its native integration of Kubernetes for ACS. In addition, Microsoft is also continuing to bet onMesosphere’s DC/OSand updating that service to the latest release of DC/OS.
+
+“Containers are the next evolution in virtualization, enabling organizations to be more agile than ever before,” writes Corey Sanders, Microsoft’s Director of Compute for Azure, in today’s announcement. “I see this from customers every day! They can write their app once and deploy everywhere, whether dev, test or production. Containers can run on any hardware, on any cloud, and in any environment without modification. In short, they offer a truly open and portable solution for agile DevOps.”
+
+Microsoft continues its strategy of offering its users a choice of container orchestration platforms (Docker Swarm, DC/OS, Kubernetes). As for Kubernetes, Microsoft already supported this Google-incubated container management platform on its infrastructure for the last two years. “Today, we are taking this support even further and announcing the preview release of Kubernetes on Azure Container Service,” writes Sanders. “This deeper and native support of Kubernetes will provide you another fully open source choice for your container orchestration engine on Azure.”
+
+Microsoft also today announced that it will launch a preview of the Azure Container Registry, a private repository for container images, on November 14. You could already set up your own private Docker Registry on Azure, but that was amanual processand left the management of the repository infrastructure to the developer. Given that bothAmazonandGooglealready offer this feature, it’s no surprise that Microsoft is now joining the fray as well.
+
+In addition, Microsoft also today announced that it will build more tools for deploying multi-container Linux applications from its developer tools like Visual Studio, Visual Studio Team Service, and the free and open Visual Studio Code editor on November 14.

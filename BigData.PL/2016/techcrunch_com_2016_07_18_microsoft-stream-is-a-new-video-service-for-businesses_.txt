@@ -1,0 +1,17 @@
+Microsoft Stream is a new video service for businesses
+
+Microsoft today launched Stream, a new business video service that aims to give businesses that want to share video internally the same kind of tools and flexibility that YouTube offers to consumers — but with the added benefits of the security tools enterprises expect from their document management services. The service is now available as a free preview.
+
+As James Phillips, Microsoft’s corporate VP of its Business Intelligence Products Group, told me, all it takes to get started with Stream is an email address. The user experience in Stream does take its cues from consumer services like Vimeo and YouTube, and includes a number of social features, including likes and comments, as well as recommendations.
+
+“We’ve all been trained as consumers to understand what beautiful and fully featured software looks like,” Phillips told me. “And we are now delivering on those experiences in business software.”
+
+Some of the basic use cases for using video in a company include training and employee communications.
+
+It’s worth noting that Microsoft already offered a business video service in the form ofOffice 365 Video. “Microsoft Stream builds upon the learnings success of Office 365 Video and over time the two experiences will converge with a seamless migration to ensure a consistent experience both within and outside of Office 365,” Phillips writes in today’s official announcement and also notes that current Office 365 Video users will not see any differences in the service for now.
+
+Compared to Office 365 Video, Microsoft Stream will leverage more of Microsoft’s existing technologies to offer a more consumer-like experience. Phillips tells me that team is looking at work being done in Microsoft Research and by the Azure Machine Learning teams, for example, to bring features like speech-to-text, automatic translations, and support for face recognition to future versions of Stream. Phillips tells me the team is also looking at adding support for live streaming in the future.
+
+What’s even more important for enterprises and their IT admins, though, is that Stream treats videos like every other enterprise document. For them, a video is just like any other digital artifact in the enterprise and they can assign rights to videos, set access groups, remove access, and ensure that videos aren’t shared outside of the company.
+
+Developers will also be able to take the Microsoft Stream API and build new applications on top of it. In this first stage, this mostly means they will be able to embed videos, but over time, the team will likely add more features to the API.

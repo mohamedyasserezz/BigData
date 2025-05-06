@@ -1,0 +1,35 @@
+Why the Trump administration needs a chief data officer
+
+After President-elect Donald Trump’s surprising win — despite almost all national polls showing Democratic nominee Hillary Clinton a virtual lock for victory — a narrative has emerged that the stunning result was a loss for big data, too. “Tonight, data died,” Republican strategist Mike Murphy said on MSNBC.
+
+In truth, reports of data’s death are greatly exaggerated. Sure, there is and should be a great deal of hand-wringing over and re-examination of the value ofpollingdata. (More on that later.) But the election’s outcome has no bearing on the fact that big data continues to grow as a disruptive, transformational force across corporate America.
+
+IDCpredictsthat the amount of data created annually in the world will soar to 180 zettabytes (or 180 trillion gigabytes) in 2025 — 18 times more than today. How big is just one zettabyte? It’s equivalent to the contents of 80,000 rows of four-drawer file cabinets reaching to the moon.
+
+With the number of connected devices expected to grow from 20 billion today to 80 billion by 2025 — “Everything we have of value will be connected to the internet,” IDC says — the world is only beginning to harness data for everything from market and customer intelligence to building World Serieschampions.
+
+Big data offers huge opportunities to identify new markets and revenue streams, innovate in areas like healthcare and scientific research and even bolster cybersecurity defenses. It deserves an advocate and leader at the top of the federal government, which is why President-elect Trump should appoint the nation’s first chief data officer.
+
+For Trump, who has not been known for embracing technology beyond Twitter, backing a major initiative around data could build his bona fides as a job creator and forward thinker.
+
+Trump is at heart a businessman, and the opportunities in big data are eye-popping.
+
+Big data and business analytics’ worldwide revenues will soar by 50 percent, from nearly $122 billion last year to more than $187 billion in 2019, IDC hassaid. Forresterforecaststhe big data technology market will grow three times faster than the overall IT market.
+
+By naming a chief data officer, Trump also could signal his commitment to technology as a key economic engine in his new administration, and smooth over bruised feelings with Silicon Valley over his campaign promises toinitiateantitrust actions against Amazon andbadgerApple into making its products in the United States.
+
+While it’s highly doubtful we’ll ever see Trump as cozy with Silicon Valley as President Obama has been, the appointment of a chief data officer could be one of the moves that helps him win some fans in the Valley, where he currently seems to have few. Not that I think Trump necessarily cares about his reputation in the Valley, but it’s clearly good for America if Trump and Silicon Valley find ways to work together.
+
+Obama established anOffice of the Chief Technology Officerin April 2009, three months into his first term, to help oversee the delivery of digital services to Americans, coordinate federal investments in tech R&D and encourage opportunities in science, technology, engineering and math (STEM).Aneesh Chopra,Todd ParkandMegan Smithhave led the office.
+
+Trump should retain that office and add the new role to work with the CTO and oversee areas specific to data. He would have a number of qualified candidates from both the public and private sectors from which to choose the data chief role, such as:
+
+By establishing the chief data officer position, Trump can show he understands the strategic value of big data and what it can do to grow the economy and pave the way for new products and business models — and it could help reverse the incorrect notion left by the incorrect polling that the power of big data is overrated.
+
+Polling isn’t big data, it is tiny data. The number of data points in a typical poll is small enough to analyze in Excel. It’s like the difference between 1,200 households included in a 1960’s TV ratings survey and Netflix’s gathering of millions of data points about what everybody is watching 24×7.
+
+As the election and the Brexit vote in June showed, polls are questionable in delivering reliable analysis because they are subject to the answers people give, which don’t always match how they act, as opposed to most business data that is based on actual behavior, such as which links a customer clicked on a retailer’s website. Pollsters further bias the data by weighting it based on what they’ve observed in previous polls. The problem with the polls is that the data was wrong going in.
+
+Polling has rightly taken it on the chin in this election. The current approach has failed and needs a complete overhaul. Perhaps the answer is to use modern approaches that leverage social platforms such as Facebook that would provide data from tens of millions of people to improve accuracy. Big data didn’t cause the polls to fail, but perhaps in 2020, it could be the solution that brings polling into the cloud era.
+
+Big data is a transformative movement in business. If there’s one thing Trump needs to understand about technology, it’s that.

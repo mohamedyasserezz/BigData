@@ -1,0 +1,17 @@
+Copy and paste trick could unlock iOS 10 devices in Lost Mode
+
+Lost and stolen iOS devices could be at risk if ne’er-do-wells learn of this blunt-force method of getting past Activation Lock. No special equipment or technical know-how is required, which means any geek off the streets can do it. Fortunately, it’s easily fixed — but until that happens, you might want to be a little extra careful about leaving your phone unattended.
+
+The latest exploitis described by Benjamen Kunz-Mejri, founder of German security outfit Vulnerability Lab. An earlier variation, discovered bySlash Secure’s Hemanth Joseph, affected iOS 10.1 and was reported to Apple in October. Although the company attempted to fix the problem in 10.1.1, adding a twist — literally — the the attack means devices are still vulnerable after the update.
+
+When an iOS device’s owner activates Lost Mode through Find my iPhone/iPad, the device is remotely put into Activation Mode, requiring your Apple ID for it to unlock and return it to normal. But logging in requires an internet connection, and for that purpose you can opt to use wi-fi. So the attacker goes to the wi-fi network select screen, and selects “other network.”
+
+This is where things get hot. The network name and password fields here have no character limits!
+
+Apple wasn’t silly enough to allow arbitrary code execution from the fields, so there’s no serious buffer overflow attack here. But if you put enough characters into both fields (upwards of 10,000) the device will slow down and eventually freeze. Put the device to sleep with a cover, wait a few seconds, and open it up — voila, the home screen!
+
+That method worked on 10.1, but with 10.1.1, you have to do a bit of screen rotation and use Night Shift mode. The home screen only shows up for a fraction of a second, but Kunz-Mejritold SecurityWeekthat one can get it to stay visible with a well-timed button press.
+
+The problem could be fixed with a simple character limit on those fields, a fix Apple apparently overlooked or didn’t have time to implement in the update.
+
+TechCrunch has contacted Apple for confirmation and further details, and this post will be updated if we hear back.

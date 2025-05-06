@@ -1,0 +1,29 @@
+Big data and its developer fallout
+
+As the internet social turf wars continue to mature, the land grab is becoming much better understood. With a few companies controlling 95 percent of the socialdata, the internet is more closed and much more controlled than ever before.
+
+The term (and concept behind)bigdatahas been thrown around a lot over the past 15 months. What I’m referring to here is userdata, primarily from social businesses that can be leveraged to build other apps and businesses if done within the confines of a company API.
+
+A few basic examples. Let’s take Facebook: Adeveloper, product architect, entrepreneur, etc. may want to analyze names, pictures or shares. How about Snapchat: shares or number of sent items.  Instagram: users, hearts or comments. Tesla: car location, energy consumption, last charge. The list goes on and on. The modern web has been built on an opendataexchange.
+
+I regularly get asked what I think makes a good app. The answer is simple:data. More specifically: users and their respective meta-data. Users aredata. Without them, no matter how flashy your app is, it won’t work. Period.
+
+The follow up question is always, “OK, how do I get users?”
+
+That’s the billion-dollar question. The existing social sites want you to believe that by connecting to them and through them that users will come. If only that were true.  Just to set the record straight, you can’t buy users. And you can’t connect to existing sites to leverage users or anything in between. Users aretired of new, yet more of the same, software. Distribution (i.e. finding and retaining users) is the hardest part of creating a successful app.
+
+Asdevelopers, we used to be able to go deep into the social graph on Facebook. Developers used to be able to inject meaningfuldatain a sophisticated way to all sorts of web and app products and, most importantly, we used to be able to requestbigdatasets without getting throttled by bandwidth limitations. Just because a fewbigcompanies say you can use theirdatadoesn’t mean it’s accurate.
+
+Over the past few years there’s been a massive shift. Sadly, the best way to illustrate such change is to look at the the rise and fall ofZynga. As Facebook opened their API and enabled users to do deep penetration into the Facebook Graph, Zynga, more than any other company, took advantage and built an incredible gaming business directly through the Facebook Graph API. Over time, Facebook began making changes to how developers could interact with specificdataand just as quickly as Zynga grew, they fell — and fell far. There are many companies,bigand small, that have suffered a similar demise.
+
+The modern socialbigdataplayers lure you in like a kid in a candy store with no coin to spend, just endless temptation and promises of sweet solutions. The declaration of high-quality and fastdataexchange or deep penetration into graphs are the prose of all modernbigbusinesses’ API documentation. However, like most things in life, the devils are in the details, and boy, watch out.  Sure, you can have thedataat desired speed, but once you hit the API threshold, the feed will go from Niagara Falls to a leaky sink faucet. If your business relies onitsability to quickly retrievedata, now what?
+
+Similarly, yes, you can access set graphs and do deep analysis, but dig a little deeper and you’ll find, they’ll give you only 1-3 percent of anything meaningful about a specific location, person, hearts, shares and so on. What good is only a small sliver of an overall user and his or her activity across the app?
+
+Finally, Zynga and many other lesser-known businesses illustrated that if you build a business on top of another business, you are at the whim of their decisions. They can and will change the way you interact with theirdata,which has major implications on the longevity and profitability of your business.
+
+The promised land of green pastures, endless and fastdatarequests and deep penetration of userdatais over. The actual pasture is a tease, at best. As the internet and social businesses have matured, the value is the walled garden. By keeping userdatawithin the confines of the core business, the ability to market and sell advertising wins every time. It’s true that some of these businesses do advertising better than others, but a model where you can pay for robust versions of access is never going to survive. The markets are just too small to support that model.
+
+So where do we go from here? There is still a huge amount of potential, we just need to think in a more evolved way. You can’t simply think, “I’m going to come up with an idea and leverage an existing community to make it thrive.” APIs just don’t allow that type of development anymore.  Like Uber has done most recently, as well as Pinterest and Snapchat, the mindset of the entrepreneur needs to be one of a new community, a more vertical, specialized approach — a “community around an interest.”
+
+Don’t make social be the single pillar of your business; have it be a feature. Thinking purely social without an overarching premise is ironically solitary, and surely the fastest way to the back of the app store.

@@ -1,0 +1,7 @@
+Square hopes to ease the EMV transition with faster transaction times
+
+You’ve likely seen the headlines about consumer frustration with the transition to EMV payment cards in the U.S., most of which centers around how long the payments take versus good old-fashioned swiping. Those of us living in countries where EMV has been a fixture for a while might just shrug at this, but not Square: It’s focused on cutting transaction times to alleviate customer impatience, and it now boasts a4.2-second total timefrom when you put your card in the reader to when you’ve successfully checked out.
+
+This is one of those things that seems small, but in aggregate could have a big impact on customer satisfaction at the register, and Square says it’s focused on bringing that time down further still, to hopefully achieve a 3-second total transition time. Indeed, 4.2 seconds is already 25 percent faster than its previous low of 5.7 seconds, so Square says it’s making good progress.
+
+It’s now been one year since the U.S. shifted liability for card-related fraud from card issuers to merchants, which prompted the widespread adoption of EMV. Square says it’s seen the number of cards with chips processed via Square in the U.S. jump from 40 percent a year ago to 75 percent today, meaning it’s essentially reaching saturation.

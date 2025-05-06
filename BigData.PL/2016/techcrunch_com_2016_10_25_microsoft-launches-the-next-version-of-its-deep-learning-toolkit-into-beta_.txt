@@ -1,0 +1,19 @@
+Microsoft launches the next version of its deep learning toolkit into beta
+
+When it comes to machine learning frameworks, Google’s Tensorflow is clearly the most popular option right now, but withCNTK, Microsoft also released its own internal framework at the beginning of the year. The company is launching the first beta of the next version (2.0) of CNTK today and with it, it hopes to challenge Tensorflow’s leadership position.
+
+CNTK used to stand for ‘Computational Network Toolkit’ but the software has now been renamed toMicrosoft Cognitive Toolkitinstead.
+
+Xuedong Huang, Microsoft’s Chief Speech Scientist, told me that he believes CNTK/Cognitive Toolkit has always had plenty of advantages over Tensorflow and similar frameworks — especially with regards to performance.
+
+According to Microsoft’s benchmarks, Cognitive Toolkit continues to outperform its competitors in most tests and unsurprisingly, this new version is faster than the previous releases, especially when working on big data sets. That’s true for single-GPU performance, but Huang argues that what really matters is that CNTK could already scale up to using a massive number of GPUs and that’s obviously true for the new version as well. “If you just work on a toy problem, other toolkits are enough, but if you want to scale out, CNTK is the only solution,” Huang argues.
+
+Speed isn’t always enough to capture developer mindshare. The first version of CNTK was essentially the same version Microsoft had used internally before and that meant developers had to write their code in C++ or C#. That seriously limited CNTK’s appeal, especially given that Tensorflow also allows developers to work in Python. Huang freely admits this. “We prioritized internal efficiency — and internally we’ve been using C++ all the time,” he said. “We open-sourced the internal tool and shared that with the public.” What the team quickly realized once it released the software, though, was that developers were really looking for Python support.
+
+Knowing this, it’s no surprise that the Cognitive Toolkit will natively support Python. In addition, the Cognitive Toolkit also now allows developers to use reinforcement learning to train their models.
+
+With Azure’s GPU instances now in beta, Microsoft can offer developers a full package of software tools and the hardware to run them on. Huang stressed that the Cognitive Toolkit isn’t bound to Azure in any way, though, and that Azure’s GPU instances will also work with other toolkits.
+
+Huang repeatedly stressed that Microsoft relies on the Cognitive Toolkit for a lot of its internal service and that it was the work on this project that allows Microsoft Artificial Intelligence and Research to get to a point where its software can now recognize words in a conversationas well as a person. It also forms the basis of some of the tools available through Microsoft’s Cognitive Services.
+
+The code is now available onGitHub.

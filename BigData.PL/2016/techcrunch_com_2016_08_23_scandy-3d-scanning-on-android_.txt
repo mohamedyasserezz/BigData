@@ -1,0 +1,13 @@
+Scandy is bringing 3D scanning to Android phones near you
+
+Not content with letting you3D print your images on demand,Scandyis today launching a beta program for its $500 device to make it easy to scan objects in 3D, all from your Android device. The company is using 3D sensors frompmdto get 0.3mm feature precision, putting resolutions from far more expensive machines in the hands of consumers.
+
+“As a maker, the potential for creating dimensionally accurate models on a sub-millimeter scale from a system that costs less than $500 is something I’ve been dreaming about for years,” Scandy’s co-founder and CTO Cole Wiley says. “I’m really proud we are able to provide this solution.”
+
+The company is making its Scandy Core SDK available to developers, hoping that others will run with its technologies to create innovative implementations of 3D scanning. The software is able to scan around 3 frames per second in full 3D, compiling and rendering the scans in-app. From there, the models can be exported for use in video games or for AR/VR applications.
+
+The new Scandy app is throwing itself into a market with quite a few established players already.Autodesk’s 123D Catchsports far lower resolution, but doesn’t rely on additional hardware to do its 3D scans, and Microsoft hasa similar productin the works in its labs. On the hardware-enabled side, Structure, which has been around for a while,retails at a similar price pointand also hasan SDK available.
+
+I think it’s fantastic that the 3D scanning market is finally heating up a little bit; more competition breeds better technology — which will, in turn, make a lot of the challenges on the AR/VR content side easier. Everybody wins!
+
+The beta program is open now, available onandroid3dscanning.comand the company tells me it’s hoping to start shipping the new product by the end of the year.

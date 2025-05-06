@@ -1,0 +1,21 @@
+Box introduces “New Box” at BoxWorks
+
+Boxhas always been known as the irritant in the content management industry, that plucky cloud upstart ready to take on the staid and conservative on-prem competition, but after more than a decade in the business,a public company for 18 months, perhaps the company felt it was time to disrupt itself.
+
+Today, at theBoxWorkscustomer conference, it announced a “new Box” with an updated file system design, new Notes collaboration tool functionality andBox Relay (announced yesterday) for business process creation.
+
+The three taken together provide a range of content management functionality that puts it on par with its more mature competition. When you combine it with the announcements over the last year aroundgovernance,enterprise key management,Box Zones(the ability to store Box in-country, even on another storage service) andBox Shuttle(to move legacy content to the cloud), you have a much more complete set of services, one expects from a fully developed content management vendor.
+
+None of the updates announced today with the exception of thenew Box Relay toolare all that innovative, but they do simplify the act of working with files and collaborating with team members around content stored in Box. In general, they talked about things being more streamlined and running much faster (but of course we won’t know how fast that is until the final products are actually released over the coming months). They are also improving search and using metadata associated with files to help understand, locate and move content inside of Box.
+
+Box announced updates to all three of its access points on the web, the desktop and mobile. The web gets a new media viewer including the ability to view 3D and 360 degree images (mobile gets this too) and HD video. There’s a new Excel viewer too and real-time co-authoring in Office 365.
+
+The desktop also will get its share of enhancements including new favorites and recents folders to make it easier to find the documents you work on most frequently. It’s not fancy, but it’s useful and the idea here is to improve the end user experience.
+
+The morning keynote also emphasized its partnerships with IBM, Microsoft and Google. In fact, representatives from all three companies appeared on stage including Diane Greene, head of Google Cloud. Google announced a fresh partnership with Boxto integrate Google Docs more directly into Box, something they had been able to do in the past, but the new integration is being billed as much smoother.
+
+The companies also announced integration with Springboard, Google’s search tool.
+
+Some of the web enhancements will be available today, but most of the other changes will be rolled out over the next six months with the mobile changes coming in October or perhaps later, and the desktop won’t be ready until some time next year.
+
+That delay has to disappoint users hungry for the updates now, but substantive change doesn’t come easily, and this level of updates will take some time to come to market. Box is shooting for transformative change, and apparently that takes time to bring to fruition.

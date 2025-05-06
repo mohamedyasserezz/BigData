@@ -1,0 +1,197 @@
+How Google Analytics ruined marketing
+
+Marketers in the high-tech world who use phrases such as “social media marketing,” “Facebook marketing” and “content marketing” do not understand the basic difference between marketing strategies, marketing channels and marketing content. And Google Analytics is to blame.
+
+In the just over 10 years since therelease of the platform in November 2005, too many tech marketers now ignore the difference between strategies and channels, favor digital channels that often deliver lower returns than traditional channels and think that direct responses are the only useful ROI metric.
+
+And all of that is wrong.
+
+Imagine that it is the 1990s and I want to reach the people who watch “Friends” on television. I would have these three available strategies out of the five that comprise the traditional Promotion Mix:
+
+Advertising
+
+Publicity (in the form of a product placement)
+
+Direct marketing (in the form of a direct-response infomercial)
+
+I could run an advertisement during an episode of “Friends.” I could pay NBC to have the coffee house hold an event that would feature my product in an episode. I could hire a “Friends” actor to appear in an infomercial that would air directly after an episode. And so on.
+
+Now, none of this would be “television marketing” because “television marketing” is not a “thing.” “Television” is a marketing channel, not a marketing strategy. If I choose to advertise on television, “advertising” is the strategy, the advertisement itself is the content and “television” is the channel over which I transmit the advertisement.
+
+In the same way, “Facebook marketing,” “social media marketing” and “content marketing” are not “things.” “Facebook” is a marketing channel. “Social media” is a collection of marketing channels. “Content” is a tactic, not a strategy. “Content” is produced in the execution of strategies such as advertising, SEO and publicity. Here are two examples.If a tech marketer creates a video and spreads it on Facebook, here is what he is doing:Strategy = Advertising (one of the parts of the traditional Promotion Mix)Content = The video itselfChannel = FacebookIf someone creates informational material that aims to rank highly in Google search results, here is what he is doing:Strategy = SEO (which may need to be added to a new, modern Promotion Mix)Content = The blog postChannel = The company’s blog/Google search resultsWhy is this important? The terms that we use reflect the assumptions that underlie our approaches to marketing — and bad assumptions lead to bad marketing at best, and spam at worst. This is what I believe thatMark Ritsonmeant when he wrote his recent, controversial Marketing Week column stating thatmarketers need real marketing qualifications.After all — and as I think Ritson was implying — too many online marketers do not know basic principles such as the few that I have mentioned so far. And it was the introduction of Google Analytics that led to these poor assumptions and this bad terminology today.The traditional marketing analytics bucketsMarketing campaigns have always involved the creation of a message, the insertion of that message into a piece of content and the transmission of that content over a channel to an audience.And as I wrote in my prior, much-discussed TechCrunch column that discussedhow too many marketers in the tech world do not understand basic marketing terminology and practices, that overall process occurs within the strategic frameworks of the five “buckets” within the Promotion Mix (“promotion” is one of the four Ps in product marketing): direct marketing, advertising, sales promotion, personal selling and publicity.In this lengthy tutorial on integrating traditional and online marketing on Moz, I described how each of these “buckets” has pros and cons, as well as best practices:When marketers brainstorm campaigns, they typically ask these questions, in this order:Who is our target audience and what are our goals?What is the best message for that audience?In light of our goals, which strategies within the Promotion Mix — advertising, direct marketing, sales promotion, direct selling and publicity — should we use to communicate that message?What are the best online and/or offline channels for that strategy to reach that audience?What marketing collateral and creatives should we create and transmit based on the answers to the prior four questions?How can we measure the results based on which metrics are relevant to each strategy within the Promotion Mix that we will use?The strategy, message and marketing collateral matter more than the channel.Here’s a publicity example. Say that someone uses the various tacticsthat I describe in my publicity tutorial on Mozto get a New York Times reporter to write about his company. The resulting article will appear in print, on the website and on the Amazon Kindle. The article will be spread on social media and shared in online forums and news aggregators. And so on. This is why there is actually no such thing as “digital PR.” It’s just “PR.” The best publicity practices to get coverage never change, regardless of the channels over which the coverage will appear.Here’s a direct marketing example. Say that one writes advertising copy to generate direct-response leads. That same copy will often deliver similar results — subject to specific, individual format restrictions of each channel — across platforms, including direct mail, email, Facebook ads and Google AdWords, because human nature does not change.There is no “digital marketing” and “traditional marketing.” There is only marketing — just ask Campbell’s, which has nowconsolidated all offline and online work under the CMO.Google Analytics changed the bucketsAccording toW3TECHS, Google Analytics is used by 55 percent of all websites and has a traffic analysis tool market share of 83 percent. More than half of those websitesuse GA as their only source of marketing data.Google transformed the marketing industry. However, the introduction and widespread adoption of GA pushed marketers to change their focus from the strategy to the channel (this is a screenshot from an old client of mine back when I was a consultant):Traditional marketing allocates activities based on the strategies that comprise the traditional Promotion Mix: direct marketing, advertising, personal selling, sales promotion and publicity. Google Analytics replaced those “buckets” with these entirely new ones: direct, organic search, social, referral, paid search, email and display.However, that shift in assumption has led to poor marketing because almost any strategy can be executed over any channel — and it is strategies, not channels, that have associated best practices and deliver results.Take “social media marketing,” a vague, useless phrase that refers to channels but not to any specific strategy:Direct marketing campaigns (that are inaccurately called “advertising campaigns”) get direct responses from a specific set of people on social media based on their demographics and what they “like”Advertising campaigns put paid media published by an identified sponsor in front of a mass audience on social mediaPublicity campaigns gain mass exposure through earned or owned media that is spread on social mediaPersonal selling campaigns have salespeople contact prospects and leads over social mediaSales promotion campaigns circulate coupons, discounts and codes on social media to generate immediate salesEach of these five things can be deemed “social media marketing” — but when a term means everything, it means nothing. The five traditional strategies have best practices, as well as times and places to use — and NOT to use — them within an overall marketing plan.By not using and knowing the traditional terminology that the marketing industry uses for precise reasons, marketers are only hurting themselves and their own campaigns.When one now looks at Google Analytics and sees the results, for example, in the “Social” bucket, it’s rarely clear which of these strategies and activities delivered which results. The same is true for almost all of the “buckets” that appear in online marketing analytics. The strategic activity matters more than the communications channel. The channel merely dictates the format of the marketing collateral and content that one creates within an overall strategy.To ask “What is the ROI of social media?” makes as much sense as asking “What’s the ROI of the telephone?” Activities, not channels, generate ROI. But after Google Analytics and every other marketing platform defined “social media” and other channels as buckets, and therefore as marketing strategies, people have confused strategies and channels ever since.The positive thing about GA is that we can know which channels tend to perform the best. The negative thing about GA is that we know less about which specific, overall strategies and activities over those channels lead the best results.Google Analytics pushed everyone onlineGoogle Analytics did not only confuse marketers in terms of the difference between strategies and channels — the platform also trapped our industry into focusing more and more on digital channels at the expense of offline ones.Of course, GA can be a very useful tool. The basic version is free, so it is no wonder that countless tech startups use the platform. But it comes with a limitation: It can only track online channels. If someone, for example, runs a television advertisement, he will see zero information in Google Analytics on the results that he can attribute directly to the advertisement.So, people now have a subconscious bias toward using online channels — just like everyone else in the tech world. In just one example from the Internet Advertising Bureau in the United Kingdom, spending on digital advertising there increasedfrom roughly £500 million in 2003 to £7.2 billion in 2014. The more we rely on Google Analytics, the more we will use strategies such as direct marketing over AdWords that are easily trackable in GA rather than strategies that are less trackable — as I will explain below.A more cynical person might think that this has been Google’s intention all along. After all, the more time we spend online — especially over our commutes onceour cars will drive themselves— the more money that the search engine makes.But as Mitch Joel tweeted, prioritizing online channelsoften comes at a cost in terms of negative branding and marketing quality:Booked a rental car. Now, all I see are ads for that company. Everywhere. Ugh. This is what will drive the use of ad blockers.— Mitch Joel (@mitchjoel)April 14, 2016AsAd ContrarianBob Hoffmanonce described the industry: “Theaesthetic lineage of online advertisingis not “Madison Avenue,” it is the maddening tackiness ofjunk maildirect response.”Direct marketing is the most annoying form of marketing over any channel. It’s the junk mail that people throw away. It’s the automated email spam that is now called “lead nurturing.” It’s the ads that interrupt you on social networks when you’re trying to connect with friends and family. It’s having the same advertisement follow you around the internet.For all of the excitement overthe rise of so-called marketing automation platforms, people should realize that all these platforms do is send and resend all of this direct-response material based on a predefined timetable and workflow. There is absolutely no creativity — and creativity is what builds brands and sells products.People tolerate offline advertising and publicity campaigns — and they even fondly rememberthe few that are the most creative. But people hate online advertising — which is actually almost always direct marketing by another name — andincreasingly rush to block it however possible.The online advertising industry is committing slow suicide through the use of intrusive platforms that are so invasive that people are choosing to block ads altogether.Google Analytics gives only direct ROIDirect marketing may be the most annoying form of marketing, but it is the strategy whose direct ROI is the easiest to track. Here’s a basic and hypothetical example:I sent catalogues/emails/Facebook ads to 10,000 people for $5,000 and that directly resulted in 100 new customers (who are projected to generate a total of $12,000 in lifetime revenue).Such direct-response results online are easy to set up and see in Google Analytics. But the picture is more muddled when one uses other marketing strategies.To illustrate the point, here’s an example that I have seen in my company’s high-tech marketing work. I’m amarketing speakerwho presents at marketing conferences such asContent Marketing MastersandMozCon. My company’s executives frequently discuss the open sourceELK Stackat tech conferences.It is very difficult to attribute the precise results of all of this specific marketing activity in Google Analytics:If someone sees us and types our brand into a search engine, the visit will be included under “Organic Search” in Google AnalyticsIf someone sees us and types our brand into a web browser or takes a brochure and visits our site directly a week later in a city 5,000 miles away, the visit will be shown as “Direct”If someone sees us, searches for and visits our Facebook page, then comes to our website, the visit will fall under “Social Media”If a reporter at a conference meets with us and then writes an article about us, the traffic will be seen as coming from “Referral”What does this mean? In many circumstances, it is impossible to determine in Google Analytics what exactly and precisely happens as a result of a given marketing activity.The fault of marketing analytics platforms such as Google Analytics is that they track the source of traffic but not the cause of that traffic. In my conference example, we have four different sources of traffic that come from a single marketing activity. How does one quantify these results of that strategy?If there were software that could isolate the direct, organic, social and referral traffic that comes to our website specifically as a result of such conference activity (or as a result of any other marketing strategy), I would purchase that platform in a digital heartbeat.There are many other problems with typical Google Analytics data. In the interest of space, I will link to further information about them:Maggie Malekdiscusses “dark search” and “dark social” trafficon Search Engine LandAnnie Cushing of Annielyticsshows how to solve some of these issues by creating custom groupingsStill, too many marketers view GA data as the digital Holy Grail because the Google Analytics API is used in countless other marketing platforms, and the same set of misleading “buckets” is used in other web analytics software, as well.Google Analytics hooked us on direct metricsRightly or wrongly, the startup world cares mainly about direct-response metrics — and that is reflected in the “Goals” and “Events” triggers in Google Analytics.In “Disrupted,” the memoir by former tech journalist and “Silicon Valley” TV show writer Dan Lyons that describes his ill-fated time at the marketing software company HubSpot, he describes their blogging strategy in this way (pg. 74-75):[HubSpot’s former CMO] has one goal: to get leads. If our software analytics were to indicate that our best conversion rate comes from publishing a blog post that just says the word dogshit over and over again… then [the former CMO] would publish that post…I realize there probably is a legitimate business model to be made from churning out crappy content. But that is not something you hire the former technology editor of Newsweek to write for you.This is the problem that arises when startups and other companies use direct-response metrics such as the direct sales, leads or downloads that are shown in Google Analytics as the primary or only success metric.Blogs, for example, have become one of the primary communications channels for many companies, so integrated marketing and communications strategies need to incorporate branding and PR into those outlets, as well. To use Lyons’ example, a blog post that just repeats “dogshit” over and over might actually generate the greatest number of marketing leads — but it would be terrible for PR and branding, and those metrics are not shown in Google Analytics.A focus only on GA metrics often leads startups to move toward publishing not informational material but rather more and more “clickbait.” And clickbait might get more traffic, but will only reflect poorly on the brand and cause other damage, as well.Besides, the number of pageviews is a useful metric only for websites whose main business model is online advertising (such as news websites), because each page view sends a server request for ad impressions. Companies, on the other hand, whose goal is to obtain more customers, often see that clickbait delivers a lot of traffic but fewer conversions in the end.Integrating online and offline channelsElsewhere, I have written onhow marketers and communicators should operate in a world with numerous available traditional and digital channels. Here is a flowchart that summarizes my process:The overall theory: Segment the target demographic and create a persona. Decide the 4 Ps. Create an overall strategy that assigns weights to each part of the Promotion Mix. Choose the messaging. Select the best online and offline channels. Produce the marketing collateral. Transmit to the audience. Measure the results.But the problem is when online marketers often drink their own digital Kool-Aid, ignore traditional channels and exaggerate the effectiveness of modern channels. (And I’m not even takingall of the online advertising fraud in the industryinto account.)Remember Oreo’s famous Super Bowl tweet? Ritson ran all of the numbers and calculated thatit was seen by less than 1 percent of Oreo’s target market. And that example is held up as “social media marketing” at its very best. In another example from Hoffman, Pepsi lost enough market shareto drop to thirdwhen it moved its budget from TV to social media.But social media consultants and agencies are always going to say that “social media is the answer,” because their livelihoods depend on it — even though Ritson notes thatit is often not the answerand Hoffman says, perhaps too bluntly, thatit’s part of modern marketing’s bull—-. Digital video platforms are always going to claim that “TV is dying” because their success depends on it — even thoughTV has never been more popular than it is today.Few take the time to research the facts, and instead just regurgitate whatever spews forth from the digital marketing echo chamber. And most people are selling something. An advertising consultant or SEO agency is always going to say, respectively, that advertising or SEO is the solution to everything.Tying it all togetherAs an in-house marketer, I have the luxury of not being forced to favor a given marketing strategy or channel. In my work life, I have no bias and will do whatever builds our brand and gains more users. Most consultants and agencies are tied to specific strategies, tactics and channels because of their singular expertise.As a former journalist in my first career, I also have the luxury of being able to use those past skills, turn a critical and neutral eye toward the high-tech and marketing industries and then write my thoughts in contributed columns here onTechCrunchand elsewhere onMoz.The more than half of all commercial websites that use Google Analytics as their only source of marketing analytics will find that their options are limited and that they are applying faulty metrics to the wrong marketing strategies.That is what happens when people get locked into a single software platform — be it Google Analytics or anything else. Their entire worldview and business processes wrap themselves around that platform despite any limitations, flaws and mistaken assumptions.There is a whole world of marketing out there beyond attempts to answer the flawed question: “What content should I publish on my website to get the most traffic and customers?” Here is the real question to ask:https://twitter.com/samueljscott/status/636246169644089344
+
+In the same way, “Facebook marketing,” “social media marketing” and “content marketing” are not “things.” “Facebook” is a marketing channel. “Social media” is a collection of marketing channels. “Content” is a tactic, not a strategy. “Content” is produced in the execution of strategies such as advertising, SEO and publicity. Here are two examples.
+
+If a tech marketer creates a video and spreads it on Facebook, here is what he is doing:
+
+Strategy = Advertising (one of the parts of the traditional Promotion Mix)
+
+Content = The video itself
+
+Channel = Facebook
+
+If someone creates informational material that aims to rank highly in Google search results, here is what he is doing:
+
+Strategy = SEO (which may need to be added to a new, modern Promotion Mix)
+
+Content = The blog post
+
+Channel = The company’s blog/Google search results
+
+Why is this important? The terms that we use reflect the assumptions that underlie our approaches to marketing — and bad assumptions lead to bad marketing at best, and spam at worst. This is what I believe thatMark Ritsonmeant when he wrote his recent, controversial Marketing Week column stating thatmarketers need real marketing qualifications.
+
+After all — and as I think Ritson was implying — too many online marketers do not know basic principles such as the few that I have mentioned so far. And it was the introduction of Google Analytics that led to these poor assumptions and this bad terminology today.
+
+Marketing campaigns have always involved the creation of a message, the insertion of that message into a piece of content and the transmission of that content over a channel to an audience.
+
+And as I wrote in my prior, much-discussed TechCrunch column that discussedhow too many marketers in the tech world do not understand basic marketing terminology and practices, that overall process occurs within the strategic frameworks of the five “buckets” within the Promotion Mix (“promotion” is one of the four Ps in product marketing): direct marketing, advertising, sales promotion, personal selling and publicity.
+
+In this lengthy tutorial on integrating traditional and online marketing on Moz, I described how each of these “buckets” has pros and cons, as well as best practices:
+
+When marketers brainstorm campaigns, they typically ask these questions, in this order:
+
+Who is our target audience and what are our goals?
+
+What is the best message for that audience?
+
+In light of our goals, which strategies within the Promotion Mix — advertising, direct marketing, sales promotion, direct selling and publicity — should we use to communicate that message?
+
+What are the best online and/or offline channels for that strategy to reach that audience?
+
+What marketing collateral and creatives should we create and transmit based on the answers to the prior four questions?
+
+How can we measure the results based on which metrics are relevant to each strategy within the Promotion Mix that we will use?
+
+The strategy, message and marketing collateral matter more than the channel.
+
+Here’s a publicity example. Say that someone uses the various tacticsthat I describe in my publicity tutorial on Mozto get a New York Times reporter to write about his company. The resulting article will appear in print, on the website and on the Amazon Kindle. The article will be spread on social media and shared in online forums and news aggregators. And so on. This is why there is actually no such thing as “digital PR.” It’s just “PR.” The best publicity practices to get coverage never change, regardless of the channels over which the coverage will appear.
+
+Here’s a direct marketing example. Say that one writes advertising copy to generate direct-response leads. That same copy will often deliver similar results — subject to specific, individual format restrictions of each channel — across platforms, including direct mail, email, Facebook ads and Google AdWords, because human nature does not change.
+
+There is no “digital marketing” and “traditional marketing.” There is only marketing — just ask Campbell’s, which has nowconsolidated all offline and online work under the CMO.
+
+According toW3TECHS, Google Analytics is used by 55 percent of all websites and has a traffic analysis tool market share of 83 percent. More than half of those websitesuse GA as their only source of marketing data.
+
+Google transformed the marketing industry. However, the introduction and widespread adoption of GA pushed marketers to change their focus from the strategy to the channel (this is a screenshot from an old client of mine back when I was a consultant):
+
+Traditional marketing allocates activities based on the strategies that comprise the traditional Promotion Mix: direct marketing, advertising, personal selling, sales promotion and publicity. Google Analytics replaced those “buckets” with these entirely new ones: direct, organic search, social, referral, paid search, email and display.
+
+However, that shift in assumption has led to poor marketing because almost any strategy can be executed over any channel — and it is strategies, not channels, that have associated best practices and deliver results.
+
+Take “social media marketing,” a vague, useless phrase that refers to channels but not to any specific strategy:
+
+Direct marketing campaigns (that are inaccurately called “advertising campaigns”) get direct responses from a specific set of people on social media based on their demographics and what they “like”
+
+Advertising campaigns put paid media published by an identified sponsor in front of a mass audience on social media
+
+Publicity campaigns gain mass exposure through earned or owned media that is spread on social media
+
+Personal selling campaigns have salespeople contact prospects and leads over social media
+
+Sales promotion campaigns circulate coupons, discounts and codes on social media to generate immediate sales
+
+Each of these five things can be deemed “social media marketing” — but when a term means everything, it means nothing. The five traditional strategies have best practices, as well as times and places to use — and NOT to use — them within an overall marketing plan.
+
+By not using and knowing the traditional terminology that the marketing industry uses for precise reasons, marketers are only hurting themselves and their own campaigns.
+
+When one now looks at Google Analytics and sees the results, for example, in the “Social” bucket, it’s rarely clear which of these strategies and activities delivered which results. The same is true for almost all of the “buckets” that appear in online marketing analytics. The strategic activity matters more than the communications channel. The channel merely dictates the format of the marketing collateral and content that one creates within an overall strategy.
+
+To ask “What is the ROI of social media?” makes as much sense as asking “What’s the ROI of the telephone?” Activities, not channels, generate ROI. But after Google Analytics and every other marketing platform defined “social media” and other channels as buckets, and therefore as marketing strategies, people have confused strategies and channels ever since.
+
+The positive thing about GA is that we can know which channels tend to perform the best. The negative thing about GA is that we know less about which specific, overall strategies and activities over those channels lead the best results.
+
+Google Analytics did not only confuse marketers in terms of the difference between strategies and channels — the platform also trapped our industry into focusing more and more on digital channels at the expense of offline ones.
+
+Of course, GA can be a very useful tool. The basic version is free, so it is no wonder that countless tech startups use the platform. But it comes with a limitation: It can only track online channels. If someone, for example, runs a television advertisement, he will see zero information in Google Analytics on the results that he can attribute directly to the advertisement.
+
+So, people now have a subconscious bias toward using online channels — just like everyone else in the tech world. In just one example from the Internet Advertising Bureau in the United Kingdom, spending on digital advertising there increasedfrom roughly £500 million in 2003 to £7.2 billion in 2014. The more we rely on Google Analytics, the more we will use strategies such as direct marketing over AdWords that are easily trackable in GA rather than strategies that are less trackable — as I will explain below.
+
+A more cynical person might think that this has been Google’s intention all along. After all, the more time we spend online — especially over our commutes onceour cars will drive themselves— the more money that the search engine makes.
+
+But as Mitch Joel tweeted, prioritizing online channelsoften comes at a cost in terms of negative branding and marketing quality:
+
+Booked a rental car. Now, all I see are ads for that company. Everywhere. Ugh. This is what will drive the use of ad blockers.
+
+— Mitch Joel (@mitchjoel)April 14, 2016
+
+AsAd ContrarianBob Hoffmanonce described the industry: “Theaesthetic lineage of online advertisingis not “Madison Avenue,” it is the maddening tackiness ofjunk maildirect response.”
+
+Direct marketing is the most annoying form of marketing over any channel. It’s the junk mail that people throw away. It’s the automated email spam that is now called “lead nurturing.” It’s the ads that interrupt you on social networks when you’re trying to connect with friends and family. It’s having the same advertisement follow you around the internet.
+
+For all of the excitement overthe rise of so-called marketing automation platforms, people should realize that all these platforms do is send and resend all of this direct-response material based on a predefined timetable and workflow. There is absolutely no creativity — and creativity is what builds brands and sells products.
+
+People tolerate offline advertising and publicity campaigns — and they even fondly rememberthe few that are the most creative. But people hate online advertising — which is actually almost always direct marketing by another name — andincreasingly rush to block it however possible.
+
+The online advertising industry is committing slow suicide through the use of intrusive platforms that are so invasive that people are choosing to block ads altogether.
+
+Direct marketing may be the most annoying form of marketing, but it is the strategy whose direct ROI is the easiest to track. Here’s a basic and hypothetical example:
+
+I sent catalogues/emails/Facebook ads to 10,000 people for $5,000 and that directly resulted in 100 new customers (who are projected to generate a total of $12,000 in lifetime revenue).
+
+Such direct-response results online are easy to set up and see in Google Analytics. But the picture is more muddled when one uses other marketing strategies.
+
+To illustrate the point, here’s an example that I have seen in my company’s high-tech marketing work. I’m amarketing speakerwho presents at marketing conferences such asContent Marketing MastersandMozCon. My company’s executives frequently discuss the open sourceELK Stackat tech conferences.
+
+It is very difficult to attribute the precise results of all of this specific marketing activity in Google Analytics:
+
+If someone sees us and types our brand into a search engine, the visit will be included under “Organic Search” in Google Analytics
+
+If someone sees us and types our brand into a web browser or takes a brochure and visits our site directly a week later in a city 5,000 miles away, the visit will be shown as “Direct”
+
+If someone sees us, searches for and visits our Facebook page, then comes to our website, the visit will fall under “Social Media”
+
+If a reporter at a conference meets with us and then writes an article about us, the traffic will be seen as coming from “Referral”
+
+What does this mean? In many circumstances, it is impossible to determine in Google Analytics what exactly and precisely happens as a result of a given marketing activity.
+
+The fault of marketing analytics platforms such as Google Analytics is that they track the source of traffic but not the cause of that traffic. In my conference example, we have four different sources of traffic that come from a single marketing activity. How does one quantify these results of that strategy?
+
+If there were software that could isolate the direct, organic, social and referral traffic that comes to our website specifically as a result of such conference activity (or as a result of any other marketing strategy), I would purchase that platform in a digital heartbeat.
+
+There are many other problems with typical Google Analytics data. In the interest of space, I will link to further information about them:
+
+Maggie Malekdiscusses “dark search” and “dark social” trafficon Search Engine Land
+
+Annie Cushing of Annielyticsshows how to solve some of these issues by creating custom groupings
+
+Still, too many marketers view GA data as the digital Holy Grail because the Google Analytics API is used in countless other marketing platforms, and the same set of misleading “buckets” is used in other web analytics software, as well.
+
+Rightly or wrongly, the startup world cares mainly about direct-response metrics — and that is reflected in the “Goals” and “Events” triggers in Google Analytics.
+
+In “Disrupted,” the memoir by former tech journalist and “Silicon Valley” TV show writer Dan Lyons that describes his ill-fated time at the marketing software company HubSpot, he describes their blogging strategy in this way (pg. 74-75):
+
+[HubSpot’s former CMO] has one goal: to get leads. If our software analytics were to indicate that our best conversion rate comes from publishing a blog post that just says the word dogshit over and over again… then [the former CMO] would publish that post…
+
+I realize there probably is a legitimate business model to be made from churning out crappy content. But that is not something you hire the former technology editor of Newsweek to write for you.
+
+This is the problem that arises when startups and other companies use direct-response metrics such as the direct sales, leads or downloads that are shown in Google Analytics as the primary or only success metric.
+
+Blogs, for example, have become one of the primary communications channels for many companies, so integrated marketing and communications strategies need to incorporate branding and PR into those outlets, as well. To use Lyons’ example, a blog post that just repeats “dogshit” over and over might actually generate the greatest number of marketing leads — but it would be terrible for PR and branding, and those metrics are not shown in Google Analytics.
+
+A focus only on GA metrics often leads startups to move toward publishing not informational material but rather more and more “clickbait.” And clickbait might get more traffic, but will only reflect poorly on the brand and cause other damage, as well.
+
+Besides, the number of pageviews is a useful metric only for websites whose main business model is online advertising (such as news websites), because each page view sends a server request for ad impressions. Companies, on the other hand, whose goal is to obtain more customers, often see that clickbait delivers a lot of traffic but fewer conversions in the end.
+
+Elsewhere, I have written onhow marketers and communicators should operate in a world with numerous available traditional and digital channels. Here is a flowchart that summarizes my process:
+
+The overall theory: Segment the target demographic and create a persona. Decide the 4 Ps. Create an overall strategy that assigns weights to each part of the Promotion Mix. Choose the messaging. Select the best online and offline channels. Produce the marketing collateral. Transmit to the audience. Measure the results.
+
+But the problem is when online marketers often drink their own digital Kool-Aid, ignore traditional channels and exaggerate the effectiveness of modern channels. (And I’m not even takingall of the online advertising fraud in the industryinto account.)
+
+Remember Oreo’s famous Super Bowl tweet? Ritson ran all of the numbers and calculated thatit was seen by less than 1 percent of Oreo’s target market. And that example is held up as “social media marketing” at its very best. In another example from Hoffman, Pepsi lost enough market shareto drop to thirdwhen it moved its budget from TV to social media.
+
+But social media consultants and agencies are always going to say that “social media is the answer,” because their livelihoods depend on it — even though Ritson notes thatit is often not the answerand Hoffman says, perhaps too bluntly, thatit’s part of modern marketing’s bull—-. Digital video platforms are always going to claim that “TV is dying” because their success depends on it — even thoughTV has never been more popular than it is today.
+
+Few take the time to research the facts, and instead just regurgitate whatever spews forth from the digital marketing echo chamber. And most people are selling something. An advertising consultant or SEO agency is always going to say, respectively, that advertising or SEO is the solution to everything.
+
+As an in-house marketer, I have the luxury of not being forced to favor a given marketing strategy or channel. In my work life, I have no bias and will do whatever builds our brand and gains more users. Most consultants and agencies are tied to specific strategies, tactics and channels because of their singular expertise.
+
+As a former journalist in my first career, I also have the luxury of being able to use those past skills, turn a critical and neutral eye toward the high-tech and marketing industries and then write my thoughts in contributed columns here onTechCrunchand elsewhere onMoz.
+
+The more than half of all commercial websites that use Google Analytics as their only source of marketing analytics will find that their options are limited and that they are applying faulty metrics to the wrong marketing strategies.
+
+That is what happens when people get locked into a single software platform — be it Google Analytics or anything else. Their entire worldview and business processes wrap themselves around that platform despite any limitations, flaws and mistaken assumptions.
+
+There is a whole world of marketing out there beyond attempts to answer the flawed question: “What content should I publish on my website to get the most traffic and customers?” Here is the real question to ask:
+
+https://twitter.com/samueljscott/status/636246169644089344

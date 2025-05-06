@@ -1,0 +1,27 @@
+RideGuru includes driver payouts in its price comparison service for ride hailing apps
+
+When you hail a cab via an on-demand app there’s more to consider than how much it’s going to cost you. How much the driver is getting paid is something you might want to think about, given howcontentious the issue of pricingcan be in the gig economy space where platforms do all they can to avoid adding actual employee headcount to their books.
+
+So meetRideGuru: a site offering price comparison for ride-hailing with the aim of increasing transparency in what can be avery murky industry, given the swings of surge pricing and complex pay formula��for the ‘partners’ actually toiling on the tarmac.
+
+It’s not just providing price comparisons for how much the different ride-hailing services available in a particular city might charge for a particular journey, but how much drivers on some of the different services will earn from your particular ride.
+
+Although it’s a fairly bare bones display of the data — and would benefit from spelling out the percentage earned by the driver vs the company, and maybe also showing a guesstimate of driver costs (e.g. based on vehicle type and petrol consumption) .
+
+The site is the latest launch from Boston-based company Unleashed, which already operates a cab fare-related website with a fare calculator feature, calledtaxifarefinder.com(and another focused solely on Uber:uberfarefinder), but says its mission with RideGuru is to “bring transparency to the rideshare industry” — hence spinning out a standalone price comparison site spanning multiple ride-sharing services.
+
+The user inputs their start and end point to be served a selection of available fares. Mousing over the ‘overview’ chart at the left hand side of the page brings up the additional details on driver payouts. Users can also simulate the impact of surge pricing on the fares by clicking to increase or decrease the rate.
+
+As well as price and driver payout comparison data, RideGuru lets users click through to book a ride directly after they’ve determined which service suits their wallet and conscience.
+
+The site, which is formally launching this week, also includesa sectionwhere users can ask questions of a panel of so-called ‘Ride Gurus’ (aka “experienced riders, seasoned drivers, and industry experts”) — to satiate curiosity on things like where drivers wait between fares, or ask questions like whether they can bring their dog in an Uber.
+
+The Ride Guru Q&A feature is being powered by eight driver contributors at this point, according to CEO and Co-Founder Ippei Takahashi, with another four “non-driving contributors” pending to start providing content soon.
+
+He says RideGuru is also relying on its “community of drivers” to prove intel to power the driver payouts comparison — although he won’t say exactly how many drivers are feeding it data (described it only as a “significant number of drivers mostly driving Uber and Lyft”).
+
+“We are trying to bring together two communities, the one of the drivers and the other of the passengers,” he adds. “We have many drivers on board, and now we are spreading the word to the riders who are curious about finding more about the ridehail/rideshare services.”
+
+In terms of ride-sharing services covered by RideGuru so far, it’s: Uber, Lyft, Curb, Hailo, Ola, Fasten, Didi Chuxing, Flywheel, Go-Jek, Grab, MyTaxi, RideAustin, InstaRyde — across more than 70 countries and “thousands” of cities.
+
+“We are positioned and have relations with more [ride-sharing services], but we are trying to be cautious about adding too many, in order to avoid confusion among the users,” Takahashi adds.

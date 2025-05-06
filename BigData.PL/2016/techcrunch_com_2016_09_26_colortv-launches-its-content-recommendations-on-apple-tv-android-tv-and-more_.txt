@@ -1,0 +1,11 @@
+ColorTV launches its content recommendations on Apple TV, Android TV and more
+
+ColorTV is an SDK for marketers and developers to analyze the shows you watch and provide content recommendations within the same vein. Raising $1.5 million in seed funding from Foxconnearlier this year in July, ColorTV is set to support Apple TV, Android TV, Amazon Fire, Roku and Chromecast today.
+
+It might be surprising to some, but broadcast networks more or less guess which ads to serve to viewers, instead of relying on data much like online advertisers do with banner ads and video. ColorTV is calling this content recommendation system Spectrum.
+
+In a phone call with ColorTV CEO, Giancarlo Maniaci, I was able to confirm how Spectrum actually sources the data from viewers connected TV devices. Specifically, ColorTV is looking at audio from the video stream, and using image recognition technology to parse together a general idea of what’s being shown on screen. The rest is up to Spectrum’s coded ability to serve more content of the same type.
+
+Recommendations are made in-app or cross-app: if you’re watching Formula 1 and are looking for highlights from other races, ColorTV would be able to take you to another channel or even to another app, say YouTube or Netflix.
+
+Some of ColorTV’s current clients include NBC via Pivmo and some of the top 50 Apple TV game devs like Final Kick and MyTunerRadio. ColorTV also gives analytics, cross-promotion tools and the SDK for free, if you’re under a certain company size, thus attracting new developers might not be a painful process early on in the company’s lifespan.

@@ -1,0 +1,47 @@
+$67 billion Dell-EMC deal closes today
+
+Last Fall,rumors began circulating that Dell was interested in acquiring EMC. On October 12th, the rumors proved true when Dell announcedit was buying EMC for an astonishing $67 billion, a record price for a tech acquisition. Almost a year later, for better or worse (richer or poorer),that deal is official today.
+
+While the partiesmight like to frame this as a deal with little drama, the truth is that Dell faced several major legal and regulatory hurdles along with EMC and VMware stock holder skepticism along the way, but last weekwhen Chinese authorities gave the go-ahead, thedeal was finally all-systems-go.
+
+Now comes the hard work of integrating the two companies. What remains to be seen is whether this is ultimately a good deal for Dell, and if it can mold the two organization into a cohesive operation. There are certainly no guarantees here.
+
+When you pay a record price, you are going to attract attention, and not all of it is going to be positive. Regulators and investors alike had lots of questions andit didn’t take long for problems to crop up.
+
+Part of the problem is the way EMC is structured. Unlike most big corporations with internal divisions operating under a single corporate structure with a single stock, EMC is a federation of affiliated and sometimes independent companies. Chief among them is VMware, the virtualization giant, which is run as an entirely separate company to the point of being its own publicly traded stock.
+
+VMware stockholders didn’t take kindly to the deal, at least initially,and the share price began to plungefrom $82.09 a share on the day before the sale was announced, all the way down to $43.84 on February 9th, its post-announcement low point. After that, the stock began to recover slowly but steadily, and as of Tuesday, the price had rebounded all the way back to $73.39 a share. That recovery had to be an enormous relief for Dell executives and its financial backers because VMware is an important piece of this puzzle. EMC, and by extension Dell, owns 80 percent of the company, and the larger deal was structured in an unusual way that makes VMware extra important.
+
+[graphiq id=”FvUsw3zvL” title=”Vmware Inc. (VMW) Stock Price – 1 Year” width=”600″ height=”463″ url=”https://w.graphiq.com/w/FvUsw3zvL” link=”http://stock-screener.findthecompany.com/l/8825/VMW” link_text=”Vmware Inc. (VMW) Stock Price – 1 Year | FindTheCompany” ]
+
+Dell agreed to pay EMC shareholders $24.05 per share. In addition, it agreed to pay what’s called a tracking stock, an amount that tracks against the share price of VMware. As the stock price dropped, it made the provision less valuable and shareholders increasingly nervous. With the stock price back close to its pre-acquisition announcement level, this should no longer be an issue.
+
+Another key independent piece is Pivotal, a company launched in a partnership involving EMC, VMware and GE, which helps companies become more digitally focussed.It announced a massive $650 million influxof outside funding from the likes of Ford and Microsoft last spring, and rumors have been circulating thatit could go public at some point. While that’s not necessarily a bad thing, it did add another level of difficulty in getting the deal to the finish line.
+
+Shortly after the deal was announced, EMC and VMware announced that they were spinning out Virtustream,a company EMC bought for $1.2 billionin May, 2015, as yet another quasi-independent piece. The new company will help customers manage their cloud operations, whether public, private or hybrid — no doubt, an attractive piece for Dell — but the deal quickly ran into trouble as already-agitated VMware stockholders began to balk, unhappy that the new company’s financials would be reported as part of VMware’s earnings. Two months later, VMware walked away from their part of the ownership stake. EMC decided to go it alone, but it certainly raised eyebrows at the time.
+
+There were also questions abouthow the deal would be taxed, and how Dell, the smaller of the two companieswould pay such a huge debt load, reported to be in the $40 billion range (which is why it has to feel pretty good about that recovering VMware stock price).
+
+In January,VMwareandEMCannounced layoffs ahead of the deal being finalized in separate actions. There are sure to be more to come as the two organizations consolidate and get rid of redundant positions. The good news is that the two companies product lines are quite complementary without a lot of overlap.
+
+In spite of the issues,the deal edged steadily forward, and today it’s finally complete. The combining of the two companies is mostly seen in a positive light by industry observer’s because along with a strong enterprise storage component, EMC could give Dell an avenue into the valuable hybrid cloud computing market. Many of the traditional technology vendors like HPE, Dell, Cisco and VMware; wary ofthe growing power of AWS(and to some extent Microsoft and Google) in the public cloud have tried to take a different approach by offering companies a private cloud — that is, the ability to run like a public cloud with all that entails around self-provisioning and billing based on usage, but in the comfort and security (at least theoretically) of a private data center.
+
+Beyond that, there is a realization that companies are in the cloud already today, and more likely than not, over the next decade (or more) will run some combination of their workloads in the public cloud and some in the private data center — otherwise known as the hybrid cloud.
+
+Dell thinks that by teaming with EMC, it can capture a substantial piece of that lucrative market, even as its server business begins to slip with the rest of the market.Gartner had mixed news for server vendors like Dell in its June report with shipments up 1.7 percent, but revenue down 2.3 percent.IDC’s June report was even worsewith revenue down 3.6 percent in its survey.
+
+While it will take some time to truly sort out the winners and losers in this deal, the consensus is that Dell did well to grab EMC, even at that exorbitant price.
+
+Oracle chairmanLarry Ellison was an enthusiastic supporter, saying he shed more than a few tears that he couldn’t offer a rival bid because Oracle has been tied up with its own transition to cloud computing. He believes the price was a bargain and Dell and its investors could make a substantial amount of money when all is said and done.
+
+Alan Pelz-Sharpe, an analyst with Digital Clarity Group, isn’t quite as bullish on the deal as Ellison, but he still likes what he sees, especially in terms of long-term stability for the two companies. “Margins in the hardware world are tight and likely always will be, but it’s still big business. Taking EMC out of the publicly traded world and into Dell’s private world provides a relatively stable environment to consolidate and ultimately achieve some kind of long-term growth,” he said.
+
+Glenn O’Donnell, an analyst with Forrester sees the real value for Dell in the independent pieces in the EMC federation — VMware, Pivotal and Virtustream. He also likes the impact of the deal on Dell’s cash flow. “EMC produces a whopping $5.5B in free cash flow, sweet music to a private company like Dell.”
+
+While the consensus is that it will all work out eventually, combining two companies the size of Dell and EMC is going to take a substantial amount of time to pull off. The politics will likely be stunning and getting both companies moving as one is going to be a huge organizational challenge.
+
+In the meantime, while they struggle with that monumental transition, their competition will be moving forward. Dell and EMC are bigger together and provide a wider breadth of enterprise offerings, but can they can continue to innovate while pulling together a deal like this — andoffloading some pieces to help pay for it? It’s an awful lot to juggle and it will take time to judge if it was worth the substantial investment Dell made to get EMC in the fold.
+
+Regardless, it’s going to be up to the two companies to figure out how to make this all work, and ready or not, the future starts now.
+
+Note: According to Dell PR, the actual  deal value is $58.1B based on the value of the cash consideration and opening price of DVMT ($45.07).  The original value when the deal was announced  was $67 billion.

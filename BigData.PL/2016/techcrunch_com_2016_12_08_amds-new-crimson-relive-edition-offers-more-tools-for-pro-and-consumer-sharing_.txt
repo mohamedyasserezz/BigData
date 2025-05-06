@@ -1,0 +1,11 @@
+AMD’s new Crimson ReLive Edition offers more tools for game sharing
+
+AMD’s big graphics software update this year is called Crimson ReLive, and comes in both Pro and standard formats. The annual huge improvement dump adds a lot of oomph under the hood for Radeon graphics hardware, including performance increases of over 8 percent in terms of specific title gaming performance on the same generation of hardware
+
+Radeon Pro and Radeon Relive includes a new set of features that give you graphics hardware built-in DVR-style controls, including an always-on or hotkey assignable Overlay for accessing settings, capturing an instant replay of up to 20 minutes of past footage at a tap, or recording a file going forward at various frame rates and resolutions. A screenshot option allows you to easily capture what’s on your screen and store it to a folder of your choosing (a Dropbox folder could work well in a high-speed production environment). Finally, a stream option allows you sot start and end a stream right from the overlay, with settings like Twitch and YouTube end points, resolution, audio quality and more customizable in settings.
+
+Instant Replay and DVR features are off by default, and ReLive stuff might require additional system resources when compared to having it off, but it is building a buffer of up to 20 minutes of so you can capture those instant replays reliably. AMD’s testing also says that its own native tools are much faster than third party options like Camtasia and SnagIt in testing – up to almost 200 percent faster in fact.
+
+Radeon Chill is also new, adaptively up and downscaling frame rate depending on what’s going on in-game in order to save GPU energy and heat, without having any visible effect on game quality for the player. This could help with everything from fan noise to system life. Frame rates can be customized by the player for this, too, and it can be assigned to a hotkey for easy on/off selection.
+
+HDR 10 and Dolby Vision support is also supported in this release, meaning the next generation of display hardware and monitors will be able to show off games with more impressive dynamic range.

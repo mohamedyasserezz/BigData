@@ -1,0 +1,61 @@
+How Facebook Messenger clawed its way to 1 billion users
+
+Facebook’s gamble of forcing users to download Messenger has paid off. Despite the backlash, Messenger has doubled its user count in 20 months to reach theone billion user mark five years after its debut. Messenger joins Facebook, its acquisition WhatsApp and Google’s YouTube in thebillion usermobile user club.
+
+The app has racked up some other impressive stats. Each month, 17 billion photos are sent and 1 billion messages pass between people and businesses, 380 million stickers and 22 million GIFs are sent each day and 10 percent of all VoIP calls go through Messenger. Messenger’s new platform now has 18,000 bots, and 23,000 developers have signed up for Facebook’s Wit.ai Bot Engine.
+
+Hitting the 1-billion-user milestone could help Facebook attract brands and developers to Messenger’s platform. Meanwhile, its mounting ubiquity means that each additional user makes the app more attractive to others who still might be using SMS or a competitor.
+
+No one does network effect quite likeFacebook.
+
+Messenger originally launched as a re-skinned version of Beluga, a three-person chat app startup built by ex-Googlers that Facebook acquired in March 2011. Beluga co-founder Lucy Zhang tells me “It was very hard to imagine we’d get to 1 billion people, but we knew we wanted it to. That was our vision. We wanted everyone in the world to connect this way.”
+
+“You’d think everyone would jump up and celebrate this stuff,” Facebook’s current head of MessengerDavid Marcustells me. “But there’s almost more of a big sense of responsibility to serve those people, to build the right things and do it well, and do it in a way that helps them in their everyday life.”
+
+There will be one little celebration everyone can participate in, though. Send aballoon emojion Facebook and you’ll see the screen light up to commemorate the announcement.
+
+Zhang and Marcus tell me Messenger’s ascent has been the result of constant iteration on everything from flashy features to accessibility initiatives to boring but critical performance improvements. Here’s a timeline of the most important moves that got it this far:
+
+Back in 2010, group chat was on the rise, but SMS was terrible at it. After being conceived at a TechCrunch Disrupt hackathon, mobile app GroupMe began to gain traction. But it relied heavily on expensive SMS rather than native apps.
+
+Beluga was founded in July 2010 to focus on chat over data. By December, it was gaining steam. Zhang says, “It came out of our own need and our own wanting to stay close with our friends.” At the time, Facebook Chat was more of an asynchronous messaging service buried inside its clunky mobile apps. Sensing the opportunity for a dedicated product,Facebook acquired Belugain March 2011.
+
+“We spent three to four months heads-down trying to launch the first version of Messenger,” Zhang recalls. At the time, the Messenger team was just her, her co-founders Jonathan Perlow (still at Facebook) and Ben Davenport, plus one engineer, one product manager and one designer.
+
+Messenger launched in August 2011, centered around quick cross-platform delivery of messages whether recipients were on desktop or mobile. It touted few of the shiny features in Messenger today except for photo and location sharing. A year later it introducedread-receiptsto make chat more like talking face-to-face.
+
+As Facebook’s first separate app, it would soon prove the value of streamlined mobile products that nail one important feature.
+
+Soon Facebook honed in on a strategy to make Messenger big. It would add more flexibility so you could communicate however you wanted. Through 2012 and 2013, it started todrop the requirement to have a Facebook account to use Messenger. It let youcontact people via SMSwith their phone number if you weren’t Facebook friends. It introducedVoIP audio callingas it began its bid to replace your default phone communication tools. And it began distancing the design of Messenger from Facebook proper, giving it a cleaner design for speed and simplicity.
+
+Growth was slow those initial three years. But just before announcing Messenger had hit 200 million users in April 2014, Facebook rattled its community with a heavy-handed announcement: It wouldremove chat from its main app, forcing people to download Messengerinstead. The rhetoric was that you and your friends would respond faster and be less likely to miss messages if you had a dedicated app.
+
+People were pissed. They accused Facebook of strong-arming them into letting it dominate their home screens. Why should they be required to have two Facebook apps when they were doing fine with just one? Messenger became the No. 1 app in the app store despite a 1-star average review.
+
+But by liberating Messenger from the bloated Facebook app, the company would soon be able to pack it full of new features. And eventually, users came around. They found themselves opening Messenger more and more frequently in way that would have been annoyingly cumbersome if it had to be dug out of the main app. Messenger rocketed to500 million usersby November 2014.
+
+While it didn’t draw much attention, in late 2014 Facebook completed asignificant engineering upgradefor Messenger. At the scale of billions of messages sent, even shaving milliseconds off their delivery makes a big difference. In more colorful language than I’ll publish, Marcus tells me the team invested A LOT of time into performance and reliability to reduce end-to-end latency. It was his first project after leaving his role as president of PayPalto lead Messenger.
+
+To make it crystal clear where your message was, Messenger introduced little circles next to the messages. Empty means sending, empty but checked means sent, filled in and checked means delivered to the recipient and their face in the bubble means they’ve seen it. Again, this seems minor, but it eliminated the ambiguity that plagues SMS — which was emerging as Messenger’s true competitor afterFacebook acquired WhatsAppearlier in 2014.
+
+2015 was the year Messenger became more than just chat. It was an effort to make SMS look archaic, and get people to live more of their lives through the modernized Messenger. With video taking off everywhere, but video chat options like FaceTime or Google Hangouts restricted to certain platforms, Messenger launched video chat. Marcus cites it as a driver of growth that turns Messenger into a more multi-faceted communication tool that can replace your phone.
+
+Facebook introduced a Venmo-esquefriend-to-friend paymentsoption. And at F8, Facebook unveiled theMessenger platform. Starting with content sharing apps like Giphy, the platform eventually blossomed to encompassUber hailingand airline customer service. By 2016,chatbot developers and news publisherswould jump aboard Messenger. Meanwhile, Facebook courted businesses, poising Messenger as a modern alternative to frustrating touchtone phone trees for customer service.
+
+While people are still getting accustomed to chatbots , Messenger has recently refocused on making itself a serious connection utility for the whole planet. “We assume that everybody has their own phone… but that’s not true in all parts of the world,” says Marcus. He chalks up some recent growth to the launch ofaccount switching, so family members sharing a single phone in the developing world can all use Messenger.
+
+To replace your phone number, Messenger launchedMessage Requests, a gatekeeper that allows anyone to message anyone but that filters pings from strangers into a holding pen. NewMessenger usernames, shortlinks and QR codesmake finding everyone simple.
+
+Together, these represent a fundamental transition from needing a dedicated, arbitrary piece of “contact information” to reach someone, to unlocking communication based on widely used names alone. For better or worse, this eliminates the need for an awkward request for someone’s phone number, and instead empowers the recipient to block anyone they don’t want to talk to.
+
+Hoping to drive a nail in the coffin of SMS, which has been in decline, Facebook recently began allowing Android users to set it as theirdefault text messaging app. And just this month, Facebook began offeringend-to-end encryption“secret messaging” for transmissions requiring extra security.
+
+With these steady advances, Facebook Messenger has outpaced its mobile app competitors. KakaoTalk has more than 50 million users, Kik has 175 million and LINE has 218 million. Messenger’s opposition now mostly boils down to WeChat’s 762 million users in China, where Messenger can’t operate, and Snapchat’s 150 million daily users, who are mostly concerned with photo messaging and Story sharing rather than core utility.
+
+That leaves Facebook’s Messenger and WhatsApp to dominate the straight-up chat game outside of China, except for one resilient foe: SMS. Marcus concludes that for Facebook to beat the original texting standard, it must achieve absolute ubiquity. Otherwise, even a single friend holding out on Messenger will lure you back into iMessage or the default Android messaging system.
+
+“If there’s a pretty high percentage of people that you want to talk to that are on one platform and you don’t need a phone number but you can find them by name and you can send more things and go live with audio and video,” Marcus believes, “it’s becoming an important communication tool for the world.”
+
+In terms of what Messenger needs now, Marcus says “The biggest thing is time. You need people to start shifting how they’re thinking about Messenger. For a lot of people, it’s how you message your Facebook friends you don’t have the phone number for. We have a lot of work to do to shift the mindsets of over 1 billion people. But gradually, the numbers are pointing in the right direction.”
+
+Never before in human history have so many souls been so vividly connected for free. One billion people can instantly communicate with each other without anything but a name and internet access. Fear has historically been a by-product of separation, the unknown. But with Messenger, we can all get to know each other a little more easily.

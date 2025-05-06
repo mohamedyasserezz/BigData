@@ -1,0 +1,35 @@
+Google hits the reset button
+
+For eight years, Google always held its biggest event of the year, its I/O developer conference, in San Francisco.
+
+This year, however, it moved it out (and outdoors) to an amphitheater in Mountain View, right next to its campus. Looking back, that move now feels symbolic. In many ways, 2016 was a year of change for Google: It was the first full year after the surpriseGoogle/Alphabet reorgand the year that saw Googleget seriousabout its own hardware,the cloudand theenterprise. Across the industry, 2016 was also the year of AI and machine learning — and Google was very much at the forefront of this.
+
+Let’s get Google’s misses right out of the way: the launch of itsAlloandDuomessaging apps only led to mass confusion and very little adoption; smartwatches are struggling and the fact that Googledelayedthe launch of Android Wear 2.0 to early next year isn’t helping its wearables strategy; Project Ara, Google’s Lego-like smartphone project, alsodied a sudden death.
+
+But given the amount of products Google offers, it’s no surprise the company occasionally misses the mark. So let’s get to the good part.
+
+Google used the last year to sharpen its product portfolio and to go after potentially lucrative markets that it previously allowed to linger. Hardware is an obvious example here. After years of working with different hardware manufacturers to produce what were essentially Android reference phones under the Nexus brand, Google ditched that effort this year and launched itsPixel phonesunder its own name and brand.
+
+That itself would have been a big deal, but Google also launchedGoogle Home(its Amazon Echo challenger),Google Wifi, a new version of the Chromecast dongle and theDaydream VR headset. That’s an unprecedented amount of hardware from Google — and even more so because virtually all of these were developed from the ground up.
+
+If you needed any evidence that Google is serious about making its own hardware, just read over that list again (and you could maybe even add the Pixel C tablet to it, though that launched late in 2015 and has lingered ever since).
+
+At the core of a lot of these products and Google’s overall AI ambitions is theGoogle Assistant, Google’s effort at building a conversational personal assistant that’ll work across its product line.
+
+The company’s interest in machine learning and AI isn’t new, of course, and the Assistant built on years of developing the Google Knowledge Graph and other projects (which include Googlebuilding its own machine learning chips).
+
+But in 2016, Google found a bunch of new surfaces to highlight its AI smarts that actually make sense to consumers. While the Assistant in Google Home wasn’t first to market, I find it to be smarter and more useful than Amazon’s current efforts. And withTensorFlowand other projects, Google has also found a way to seed the developer community with the tools to replicate and improve upon its own work (which will eventually flow back into its own products, too).
+
+As Google competes with Microsoft and others in the productivity space, it has also started to bring some of those AI smarts to its own productivity tools. Those tools previously fell under the Google Apps for Work (or Education) moniker. This year, Google decided that name wasn’t good enough, so it went for “G Suite” instead. I’m not a fan of that name, but that, too, shows how Google is trying to reset expectations.
+
+Indeed, maybe the one area that most clearly shows the changes Google went through last year is itsGoogle Cloud(there’s another new name) division. As Googleannouncedat a small and exclusive event in late September, both the G Suite and all of its products for developers and small businesses now fall under the Google Cloud umbrella. Internally, Google had been using “Google Enterprise” as the name for all of these efforts, but somehow decided that wasn’t the right name, either.
+
+A lot of that change — and Google’s clearly renewed efforts to finally take the enterprise seriously after letting both its productivity tools and cloud platform linger for a bit as both Amazon and Microsoft made huge strides in the last few years — comes down to Google bringing Diane Greene onboard in 2015. Her arrival signaled that it wasn’t going to cede a lucrative market like that to its competitors.
+
+Over the course of the last year, it finally started opening up more data centers for its Cloud Platform, launched a slew of new cloud products (including a series ofmachine learning-based services) to better compete with AWS and Azure, made Firebaseits core developer platform, andbought a training companyto help enterprises teach their employees how to useGoogle Appsthe G Suite apps. It even launched low-code enterprise app development tools. It also made a number of updates to the G Suite apps to help make them more useful for large enterprises.
+
+Most of these are small moves, but taken together, they show Google has hit the reset button on its enterprise efforts and started to go after this market.
+
+The Alphabet/Google reorg probably helped to push some of these changes along, but it also complicates things. Waymo, formerly known as Google’s self-driving car project,is now an Alphabet company, for example. It does seem to have served its purpose in getting Google itself to look at its own projects, though, and search for revenue opportunities beyond the advertising machine that continues to print virtually all of its money.
+
+As for next year? Google I/O will be at Moscone again (according to what I’ve heard), but I don’t think Google is done reinventing itself just yet.

@@ -1,0 +1,13 @@
+NHTSA releases raw 2015 traffic fatality data, calls for tech companies to analyze
+
+The number of traffic fatalities in the U.S. in 2015 was up 7.2 percent from the year prior, to 35,092, and the National Highway Traffic Safety Administration is doing things a little differently this year with respect to that data, since it’s a troubling departure from the overall recent trend of a decreasing total number of annual traffic-related deaths.
+
+TheNHTSA is today offering an open data set of anonymized but detailed info regarding these accidents, three months earlier than it typically does. It’s also asking directly for input from outside organizations in analyzing said data to help identify what’s causing the significant and unusual increase, and hopefully provide some answers about what might be done to turn things around.
+
+The government agency is asking for feedback from pretty much anyone, be they “a non-profit, a tech company, or just a curious citizen,” and it’s outlined some specific questions that might help in determining how to go about sifting through the data:
+
+Already, the NHTSA has some committed partners, including Google’s Waze, StreetLight Data, CARTO and Mapbox. And while the bulleted questions it asks above tend to shy away from identifying automated driving technology as one possible solution, it does acknowledge this as one specifically interesting line of inquiry farther down in its official announcement of the news of the data set’s availability:
+
+We’re also looking to accelerate technologies that may make driving safer, including connected and highly automated vehicles.
+
+It’s clear that the NHTSA wants to do something as urgently as possible to address this disturbing change in the trend of the past few years. Asking tech companies and others to participate in this call to action, and providing the data to work with, could indeed be an effective first step.

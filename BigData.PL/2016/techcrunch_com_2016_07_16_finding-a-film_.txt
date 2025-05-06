@@ -1,0 +1,237 @@
+Finding a film
+
+Have you ever stopped to think about what it takes to bring an animated fish to life? How a team of people can take a spark of an idea and make it a reality so millions of pairs of eyes can stare in amazement at the big screen?
+
+I spoke with Pixar’s president Ed Catmull and one of the tech leads on “Finding Dory,” John Halstead, to find out more about the creative and technical journey behind the brilliant barrage of brightly projected pixels.
+
+In “Finding Nemo,” Dory helped Nemo’s dad find his wayward son. In Pixar’s latest film, it’s Dory’s turn: In a flash of clarity, our yellow-finned friend remembers she has parents and sets out on an adventure to find them again.
+
+Pixar’s history is deeply rooted in technology, tracing its lineage back to a division withinLucasfilmcalled the Graphics Group. It was founded the late 1970s and among its first few employees was Ed Catmull who began to research how the company could use computers in filmmaking in general and especially how it would be possible to make a computer-animated film.
+
+Back then, the technology wasn’t ready for making movies, so we started selling our technology instead.
+
+— Pixar President Ed Catmull
+
+It was spun out from Lucasfilm as its own company in the mid-1980s, at which point Steve Jobs invested $10 million into the company. Half of the money went toward the intellectual property rights from George Lucas, and another $5 million served as runway for Pixar. went into Pixar’s bank account to give it some runway.
+
+“Even all those years ago, we all just wanted to make films right from the start,” Catmull told me. He’s still on the company’s payroll, 30 years later, now in the big chair as president. “But back then, the technology wasn’t ready for making movies, so we started selling our technology instead. We were making little short films right away and when the technology was finally good enough, we could start making feature films.”
+
+“Luxo Jr.” was the first animated short Pixar created, and it was released in 1986. The two-minute short film shimmied into history as one of the world’s first computer-animated shorts, and it received a standing ovation on its debut.
+
+The technology it started selling was thePixar Image ComputerandRenderMan. The former was a tremendously advanced computer made especially for data visualization. It only sold 300 units, but was popular for specialist uses in geophysics, medicine, and meteorology.
+
+RenderMan is a software package that calculates how light moves through a computer-generated scene, so the computer can generate images that look “real.” It has had tremendous longevity — the newest version of RenderMan, still developed in-house by Pixar, was used to make “Finding Dory.”
+
+A movie at Pixar starts with an idea, usually in the minds of one of the Pixar directors. The director comes up with a fraction of a story they want to tell, and it all grows from there. The first phase is called development, where the idea is sown in fertile ground, doused in some creative juice and poked and prodded for a while to see what it grows into.
+
+This is an example of a storyboard, drawn by story supervisor Max Brace.
+
+In development, the idea is subjected to a breadth of talent, trying to flesh out the idea, exploring which way it develops. There may be a little bit ofstoryboarding, sketching and painting that gives a feel for what the movie will look like, but the plan at this point is to turn the idea into something that can begreen-litand developed into a full-fledged movie.
+
+“The main criteria for us feeling good about green-lighting a movie is that we feel it’s going to be a great movie,” explains John Halstead, the supervising technical director of “Finding Dory.”
+
+Our goal at Pixar is to tell the best story that we possibly can. It is sometimes painful, but ultimately, if it leads to a better movie, it’s worth it.
+
+— John Halstead, supervising technical director on ‘Finding Dory’
+
+Once everyone starts feeling the love for a project, the early pre-production process is wrapped up. There will usually be an idea of what the tone of the film is going to be and what core ideas will get explored, and there will be an outline of a story and maybe some art. This is the point where people like Halstead are attached to the project.
+
+“I represent the technical effort on the film,” Halstead explains modestly. In reality, he is the director’s right-hand person on all things technical, providing direction, vision and resources to all the technical teams on the film, which explains why he gets a shiny title credit front and center as soon as the film ends.
+
+There is a script of sorts from day one, but at this point in the process it’s not set in stone. From what I’m hearing from some members of the Pixar team, it’s barely even set in rapidly melting soft-serve ice cream.
+
+Script changes are a fact of life in the world of movie-making, but Pixar has a particular reputation for making significant edits in the story even quite late in the production process. That often causes friction among the artists and legendary amounts of work that needs to be (re)done in the process. But ultimately, it’s all done for a reason.
+
+Color scripts are used in the production to help guide the feel of the story through lighting and color. These ones are examples from “The Good Dinosaur” and were painted by Sharon Calahan in the pre-production phase of the movie.
+
+“Our goal at Pixar is to tell the best story that we possibly can. Our entire production process has been centered around that goal, and we to bend over backwards to accommodate that,” says Halstead. “It is sometimes painful, but ultimately, if it leads to a better movie, it’s worth it.”
+
+Once the script, or a portion of it, is given the go-ahead, the real work begins. It’s handed over to the story department, which takes the specifics of that portion of the story to heart, aligns it with the overall feel of the movie and creates a set of storyboards.
+
+The storyboards are like comic book versions of a shot, drawn by story artists for the purpose of pre-visualizing the film. They are placed in sequence by the editorial team, so that they convey scenes and deliver a rough sense of how the story unfolds. It’s a big job, too; more than 100,000 story panels were created just for “Finding Dory.”
+
+This is a concept art painting showcasing the exploration of color and the design of new characters and new environments. It was drawn by production designer Steve Pilcher.
+
+From here, the story team considers what each shot would look like, and how they would transition from one scene to the next. There’s also a series of drawings created with various degrees of detail. These drawings are mostly digital paintings made in Photoshop that help visualize what everything will look like. Each sequence gets a set of mood boards and concept drawings, too, to help illustrate the colors, lighting and feel of the scene.
+
+With all of that in place, it’s time to nail down the audio; everything is animated around the voice track, so it’s important to get that right early on. However, big stars like Ellen DeGeneres, Diane Keaton, Idris Elba and Willem Dafoe are very expensive, so for the early stages of the production, Pixar uses “scratch voice” — someone from the production team who voices the character so the animators have something to animate to.
+
+Sometimes, the scratch voice feels so right to the directors that they decide to not replace it with that of a “real” voice actor. When that happens, they keep (or re-record in higher quality) the original voice track for the final versions of the movie; that’s how you sometimes end up with a producer’s assistant receiving actors-style royalties for a Pixar movie they worked on.
+
+[youtube https://www.youtube.com/watch?v=5T3yamWBJuo?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent&w=640&h=390]
+
+Once there is a voice track, the progress is shown to the director. At this point, the visuals are very simple. You have boxes moving around on the screen, perhaps some still drawings, and the scratch audio; it will be barely recognizable as a movie, but it’s enough to start getting some actual, er,directionfrom the directors. Up to this point, most things in the movie are all in two dimensions — paintings, drawings and so on — but the next step is to start building everything in 3D.
+
+With all of those things ticked off, it’s time for layout to step in. The layout department sets up the cameras and the basic lights and environment. But, you guessed it, given that Pixar creates digital movies, “setting up cameras” and “creating lights” and “prepping the environment” involves clicking mice and pressing keyboard keys, and not a lot of gaffer-taping long coils of cables to the floor for health and safety reasons.
+
+The lighting team will start setting up master lighting — the big light sources in a scene — to start creating the mood. The lighting process is actually tremendously complex. In earlier movies, Pixar could have thousands of light sources in a single scene, and it is possible to use a single additional light source just to get that perfect sparkle in a character’s eye. With the new rendering technology in use on “Finding Dory,” the number of light sources has gone down significantly, which saved a ton of time.
+
+I made it half-way through my interviews with Pixar staff before I had a mind-blowing realization: Nothing you see on screen on “Finding Dory” actually exists.
+
+Every hint of a smile playing across a character’s face, every hair, every chip in the paint in the scenery, every fan coral waving gently in the water, hell,every drop of water you see— the minutest detail, every single last pixel you see on the screen — is the result of somebody clicking a mouse, moving a pen across a tablet, or typing merrily away at a keyboard. Yeah, I know. It’s incredible.
+
+To get a better feel for the characters, some will be created in clay so the digital artists can look at the characters from all angles.
+
+With that in mind, it’s the character department’s time to shine; every aspect of every character has to be created, and if you’ve never played with building worlds in 3D on a computer before, you’d be amazed at how much work happens at this stage.
+
+First comes the design, which is usually done in 2D first — sketches in Photoshop — followed by some basic 3D drawings. The most prominent characters also have clay models made of them to help bring them to life and to ensure they look right from all angles.
+
+With a good feeling for what the characters all look like, the general shape of the characters is modeled in a 3D design package, and then they are animated and brought to life by the animation department. Animators create the personality and “acting” of the characters.
+
+Another vital part of the character-making is rigging, which is the creation of a series of variables on a character that enables the animators to do their job. The rigging process is fascinating. If you were rigging a human arm for example, you can define the range of motion that is possible for an arm, a wrist or a finger, but you’d also need to think about what would happen with the skin and muscles around the arm as you move it.
+
+Try it now: Look at your arm as you bend your elbow; your muscles bulge slightly, the skin and fat around the inside of your arm creases and deforms. And if you turn your wrist, you’ll see that your elbow also changes its look. All of this needs to be reflected in the models on screen, and a tremendous amount of time is spent here to ensure that when an animator makes a character come to life with motion and emotion, it continues to look realistic.
+
+The final step of making a character come to life is shading. This is the process of making sure the surface layers of the characters are painted with the right color, texture and other characteristics. For example, a jelly fish might need to be mostly see-through, some fish are shiny, while others are more matte; and various body parts of the characters need different characteristics.
+
+There’s also a layer of simulation that happens after the animation stage. If a character is hairy, for example (Sully, we’re looking at you…), an animator can’t be expected to animate each individual strand of hair. The simulation team and riggers need to work together to give the animator enough tools to be able to do what they need to do. The simulation department adds the “secondary motion” of the fins and tentacles, and this simulation allows the characters to move naturally to complement the acting.
+
+In layout, the basic lighting and sets are put in place, so the animators have a framework to work in. This is also when the virtual lights and cameras are created and the rough camera angles are selected.
+
+Time to make the characters move: It’s animation time!
+
+The lighting department is responsible for integrating all of the elements – characters, sets and effects – into a final image.
+
+The fascinating thing about animation is how backward the lighting process is. In live action filmmaking, lighting tends to be one of the first things considered in a scene. In animation, it’s one of the last parts of the job. The lighting department uses virtual light sources in the scene to illuminate the characters and the set. Technical directors set up the lighting to draw the audience’s eye to story points and to create the correct mood.
+
+Of course, the characters don’t live in isolation; they also need a rich environment to live in. If you’ve seen the first 10 or so minutes of “A Good Dinosaur” (or even “Piper,” the short that is shown before “Finding Dory” in cinemas), you know what I’m talking about; you never quite know whether you’re looking at a computer animation, or one of the most fantastic drone fly-overs that was ever filmed. Allow me to spoil that one for you: It’s all made on a computer, and that’s precisely what is so incredible.
+
+The world changes all the time, and we have to relentlessly keep trying new things.
+
+— Ed Catmull
+
+Just like the characters, the environments have to be created from scratch: Modeled, shaded and, in many cases, animated to look perfect as the backdrop to the action happening in the foreground. Granted, the sets don’t get the same level of attention — neither from the moviegoers nor the filmmakers — as the characters driving the story forward. The backgrounds and environments are still important, however: If anything detracts from the story being told, or seems out of place, it jars the audience out of the magic.
+
+[youtube https://www.youtube.com/watch?v=Cecx5HVtUDY?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent&w=640&h=390]
+
+“We have to up the bar,” Halstead says, when I note that I thought the water on ‘The Good Dinosaur” looks better than the water in most live-action movies I’d seen. “On ‘The Good Dinosaur,’ we did a lot of things we’ve never done before, but that is true for every film we create, including ‘Finding Dory.’ The things we learned about water for ‘The Good Dinosaur’ came in handy, but with ‘Finding Dory,’ most of the film takes placeinwater, and we had to raise the bar again.”
+
+“Innovation has always been part of animation,” Catmull adds, going back to the very beginning of the film genre to make his point: “Don’t forget that when Walt Disney started making movies, itwasnew technology. It’s easy to forget that when looking back, but he was the person who originally understood that in order to further the artistic side, you have to look to technology.
+
+“All along, the technology has changed,” Catmull says about the last thirty years of animation. “The world changes all the time, and we have to relentlessly keep trying new things.”
+
+I would much rather be proven wrong by my own team than by another studio.
+
+— Ed Catmull
+
+Of course, with trying a lot of new things, you’ll find a lot of things that don’t work, too.
+
+“We are trying to foster a culture where it is okay to fail,” Catmull says. “Most of the time, I don’t even hear about the failures, and if I do, it is because someone is making a big deal out of something that went wrong. That isn’t what we are trying to do.”
+
+“Finding Dory” utilizes a lot of technology that wasn’t available even a few years ago.
+
+I try to dig deeper into whether it is the art that’s driving the technology forward, or whether it’s vice-versa, which is met by a hearty laugh from the Pixar veteran.
+
+“Problems only really occur when people don’t understand it’s a yin yang,” Catmull says, insisting that at Pixar, technology and art are driving each other forward. “We have reached a virtuous cycle now where artists expect new tools to be available to them that can help push their art forward. The tech teams, in turn, thrive because they are being pushed to their limits, too.”
+
+Of course, having a large number of artists and technical people experimenting with new and exciting technology and techniques is all fine and dandy, but ultimately, there’s a deadline, too: Pixar is a business like all others. Films need to get shipped to theaters, money has to be made and mortgages have to be paid.
+
+“They all know there is a deadline. But if someone has an idea, and I think they are wrong, I am not going to stop them,” Catmull considers. “I will fund the project anyway. If it doesn’t work, I would never say ‘I told you so’. It’s counter-intuitive, but here’s the thing: If the team believes they are right, they will work very hard to prove me wrong, and I would much rather be proven wrong by my own team, than by another studio.”
+
+“Animators get acting notes, much like directors would give to actors,” says Halstead, giving a series of examples. A director might ask a human actor to show more emotion, to speak with more fervor, to turn slightly or to show conflicting emotion — and the same is true for director’s notes on an animated film. “It is all about getting the characters to perform in a way that tells the story in the best possible way. That is true both for live action and animated films.”
+
+Animated characters get director’s notes much like live actors would. The only difference is that it isn’t a case of getting the actor back out of their trailer for another take, it’s sending an animator back to their workstation to make the tweaks.
+
+Once the dialogue is recorded by the talent — the famous performers you’ve likely heard of — it gets a lot more expensive to make changes, so it becomes more and more important to solidify the story and the script as the process moves on.
+
+“Calling Ellen back to record some additional lines is expensive, for sure, but the main challenge is scheduling,” says Halstead. “The bigger the star, the busier they are, and we have to be mindful of that.”
+
+“Finding Nemo” was a huge technological accomplishment in its own right when it came out, but Pixar’s debut fish movie was released over 13 years ago, and a lot has changed in the world of animated film since then.
+
+“’Nemo’ was the first film I ever worked on,” Halstead says, and briefly falls into a memory hole as he relives the days of writing code that would help fish to swim along paths, building the anemones and modeling coral, etc., before eventually moving into more of an effects-driven role, including water effects.
+
+Story-wise, “Finding Nemo” stands the test of time. Visually, the difference between “Finding Nemo” and “Finding Dory” is astonishing.
+
+“Everything has changed since ‘Nemo.’ Absolutely everything,” Halstead says, unable to pinpoint exactly what the biggest development is. Software and algorithm changes were enabled by much more powerful hardware, which drove further innovation.
+
+“We benefit not only from 13 years of advancements in the underlying technology, but also from 13 years of production experience, and finding better ways of making great movies.”
+
+In the “Nemo” days, water simulation, for example, was in its infancy, and while the movie does stand the test of time, seeing the difference between the water on “Nemo” and “Dory” is pretty spectacular.
+
+Everything has changed since ‘Nemo.’ Absolutely everything.
+
+— John Halstead
+
+“On ‘Finding Nemo,’ we actually had to scale back the number of shots where we had characters interacting with the surface of the water,” Halstead recalls, “And we had to be very careful with things like breaking waves and other movement. Today, we have the flexibility to do as much of that as we want.”
+
+The computer-generated water splash in the video below illustrates how far we have come in the 13 years since “Nemo” was released. This short video would have been all but impossible back then.
+
+[youtube https://www.youtube.com/watch?v=oc9YGMHQxqU?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent&w=640&h=390]
+
+In addition to the new tools Pixar developed themselves, the teams involved took on some new external tools. For lighting and shading, the company started usingThe Foundry’s Katanafor the first time. For water effects, the company relied heavily onSideFX’s Houdini, a procedural tool for animation. “Procedural” in this case means that everything Houdini outputs is the result of math: simulations and equations all the way.
+
+Below is a demo reel for what can be done with Houdini, a software package that’s used extensively in VFX and animated films. It is heavily focused on simulations and makes computers do the heavy lifting to make effects look spectacular.
+
+Another new technology introduced on Dory is USD —Universal Scene Description. It’s a technology that helps describe and share geometric information between software packages; it keeps all the assets for a movie together all in the same file formats.
+
+It also helps ensure that if you make a change to an asset in one place (say, for example, you tweak the design of a cup in one scene) that the changes are carried through to all other scenes, as well. Pixar uses USD extensively, but is also hoping it will become a broader standard,releasing it as open sourcelater this year.
+
+One of the biggest changes in the past decade, Halstead tells me, is Presto, Pixar’s own home-grown animation software package. It was first used on “Brave” and has been used in all of Pixar’s movies since.
+
+The video below is probably only for the most hard-core animation nerds, but it is a rare glimpse at what Presto is like to use.
+
+https://vimeo.com/90687696
+
+The final big change is that Dory is the first Pixar film that is made with a brand-new version of its RenderMan engine, Renderman RIS. You’d have to be a truly profound film nerd to care about different types of rendering, so I’m going to skip that for the sake of this article, but if you really want to vanish in a deep (if beautifully rendered) hole of visual artistry,check it out.
+
+Now let’s stop for just a second; imagine you’re creating an animated movie. That’s pretty daunting in itself, but also having three different in-house developed software packages to support? That’s just downright mind boggling.
+
+Of course, at some point the time comes to actually put the final movie “in the can,” ready to be shipped to theaters. Before that happens, you need to make some pretty big decisions about what the film looks like. One of the big challenges the team had was related to Renderman RIS.
+
+“When using path-tracing technology, one of the things you have to deal with is that the rendering algorithm generates a certain amount of noise,” says Halstead, comparing this “noise” to film grain on photographic film. “You can reduce the noise by rendering for longer and eventually the noise gets cleaned up.”
+
+Pixar’s render farm is racks on racks on racks of powerful computers ready to turn a jumble of assets into gorgeous final renders for the movie theaters.
+
+The problem is that this is an exponential process: It might take you just a few seconds to get a picture that’s good enough to get a feeling whether the animation works. Perhaps after an hour it looks pretty good or after a few hours it starts looking very good. But if you’re aiming for perfection, you’ll be running the poor farm of rendering computers ragged for ages.
+
+We could play the vinyl version of the movie, with a little bit of grain, or we can get you the CD.
+
+— John Halstead
+
+So the technical team decided to try an experiment. What if they rendered the same scene with different durations of rendering time, getting various amounts of grain, and then see what actually looked best? Ultimately, the feel of the film was going to be a subjective decision, and obviously, if the director insisted on near perfection, that would potentially mean putting the film’s release date back, or sending someone to the nearest RadioShack to buy another load of servers.
+
+“Our director of photography, Ian Megibben, had a great idea,” Halstead recalls with a smile. “The director loves music. He loves playing music. He loves listening to music. We figured that perhaps the best way to pitch this was to say that we could play the vinyl version of the movie, with a little bit of grain, or we can get him the CD.”
+
+The screening room must have been holding their breaths; if the decision would be to get the film as clean as possible, it would have had tremendous financial and timeline implications. But luckily writer Andrew Stanton chose to embrace a bit of grain, preferring the look of the movie that hadn’t been rendered to computer-enhanced perfection.
+
+Even with a bit of grain, “Finding Dory” wasn’t a lightweight. The average render time on the movie was around 53 hours. On average. For every single frame in the movie, rendered out in the final 2K resolution needed to show the film in cinemas.
+
+“We had some frames that were pretty fast compared to 53 hours,” says Halstead, “but we also had scenes where there was so much going on that it took 10 times more — 500 hours or more to render a single frame.”
+
+In “Finding Dory” there are 24 frames per second, 60 seconds per minute, 102 minutes in the film. And there are two cameras to render, because the film is in 3D.If we’ve done the math right, that means you’re talking about a render time of, oh, 1,800 years, give or take.
+
+Of course, you can parallelize a lot of that; if you are rendering on a high-end, 16-core gaming rig with a ton of RAM, you might be able to get that time down to just a century or so. Eager as we are to see “Dory,” I’m pretty sure few of us would be willing to wait a few hundred years to enjoy the film, so it’s a good thing Pixar has a pretty beefy rendering farm.
+
+I had to get a picture of the sign outside Pixar’s render farm. Open 24 hours, indeed!
+
+More important than rendering out the final film: Imagine you are working on a scene, and you’re having to wait 53 hours to see what the changes you made to the scene actuallydid. Of course, that’s no sensible way to work, which is why Pixar has an incremental rendering technology.
+
+Yes, the full, final, all-bells-and-whistles render will still take a long time, but you can get a good feel for what it is you’ve just changed much, much faster than that. A version with a lot of noise could be back in the order of seconds or minutes.
+
+Below you can see how progressive rendering works: At first, the picture is basically useless, but it rapidly becomes clearer. Whenever the animator moves the light source, it restarts the rendering from scratch.
+
+One of the core characters of the movie is Hank, a seven-legged octopus (“That means you’re a septopus,” as Dory points out in the film), which caused some tremendous challenges for the team overall. Think back for just a second to the bit where I explained what a rigger does: putting joints and bones and constraints for movement and all that fun stuff.
+
+Well, if you’ve ever spent any time looking at octopuses (and you should –search for octopus on YouTubeor get some Scuba-diving lessons and find one yourself), you’ll quickly realize that “constraints of movement” aren’t really a thing for an octopus. They’llgladly squeeze through the tiniest holes; their arms can stretch, expand, twist and turn, and they can practically turn their whole bodies inside out.
+
+Hank was a fun character to create, but how, exactly, do you animate a seven-legged octopus pushing a baby buggy?
+
+Now imagine the day at work where someone taps you on the shoulder and says “Hey, Jim, it’s your lucky day. Could you just rig this octopus for me really quickly? That’d be great.”
+
+“We were just kind of scratching our heads,” Halstead says. “We had no idea how to even approach this character; how do you make it appealing from a design standpoint in terms of making it a character people would feel was approachable and likable, fun to watch on the screen and can deliver a performance?”
+
+The team had to figure out even more basic challenges, like where his mouth is and how they would make Hank speak. To take but one example: An octopus’s mouth is in a place that wouldn’t make for a great kid’s movie close-up. But once the character was fully designed and rigged, then came a new generation of challenges. For example, there are scenes where Hank needs to be in a baby’s stroller or move across land. You won’t be surprised to find that Pixar’s animation team was unable to find footage for those particular actions on YouTube that they could use as reference.
+
+About a minute into the “Finding Dory” trailer below, you can see Hank in action.
+
+[youtube https://www.youtube.com/watch?v=cxskm6dDfIY?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent&w=640&h=390]
+
+The film has been a long time in the making, but the hard slog seems to have worked out. Pixar’s movies take on average five years to make, an eternity compared to the two-year turnaround you’d expect from your average Bond film. “Finding Dory” netted the company itsbiggest opening weekend in Pixar history. It is so successful, in fact, that even though it opened just weeks ago,Dory is already snapping at the heels of Toy Story 3, which is the company’s most commercially successful film ever.
+
+“So, could I save the movie on a memory stick?” I ask Halstead, naively, and get a slightly nervous laugh in return. It would have to be one hell of a memory stick.
+
+“The whole film takes up more than 500TB,” Halstead points out. To be fair, that number includes all the final renders, assets, cached data, computer models, digital paintings, etc. — but it’s all data Pixar keeps for reference in the future. Let’s put it this way: If you were to put a backup of all of that data on Blu-Ray discs and you line them up on a shelf, your shelf would have to be as long as a football field. If you’d be dumb enough to try to back it up to CDs instead, you’d need quite a ladder to stack them all: your neatly piled pillar of CD cases would reach half-way to outer space.
+
+But ultimately, a movie isn’t a stack of zeroes and ones, just like a painting isn’t just blobs of pigment on a canvas. Like all art, it’s about what it makes you feel, and that’s where the real magic happens. To me, the most impressive part of “Finding Dory” is that you don’t think about the hundreds of people involved in making it, the render-farms whipped to within an inch of their lives, or the software that brought it all together.
+
+There are a lot of people and a lot of tech that made the movie possible, but it’s all invisible, stepping aside so we can just enjoy the film and keep on swimming.

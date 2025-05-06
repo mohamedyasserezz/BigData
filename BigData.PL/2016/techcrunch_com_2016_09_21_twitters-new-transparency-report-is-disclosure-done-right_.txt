@@ -1,0 +1,27 @@
+Twitter’s new transparency report is disclosure done right
+
+It’s common practice these days for companies that hold significant amounts of user data to publish transparency reports. Google, Facebook, Dropbox and Slack all put out their numbers on a regular basis, breaking down government requests for user data by country and type (platforms typically receive requests for law enforcement investigations, as well as copyright takedowns and other removal requests).
+
+But the question always remains — what are users supposed to do with this information?
+
+It’s commendable that tech companies chose to make information about government requests public, but transparency reports often feel too nebulous to be useful. We know, for instance, that the U.S. government requested information on 30,041 users’ accounts during the final six months of 2015.
+
+But we don’t know which government agencies asked for the data, or whether our own account was among those snooped on by the government. We don’t know if all of those 30,000 people live in the U.S., or if our government is more interested in the accounts of people who live abroad. All we can really do with the data is draw the conclusion that, as one of Facebook’s 1.71 billion monthly active users, our odds of having our personal data exposed to the U.S. government are extremely low.
+
+The transparency reports don’t give us many options except to shrug, go about our business, and hope it doesn’t happen to us. (Google and Facebook are starting to give users the option to encrypt their messages, which is a nice step toward privacy, but not having this option enabled by default means that most users aren’t going to reap the benefits of encrypted messaging.)
+
+Twitter’slatest transparency report, released today, is different. Twitter is giving users more detailed and useful information than ever before. For the first time, the platform is outing the specific U.S. law enforcement agencies that are the most data-thirsty.
+
+The U.S. is Twitter’s biggest data requester, submitting 44 percent of the total requests received by the company, so it’s a useful case study into how Twitter protects or surrenders user data. Twitter receives 46 percent of those requests under seal, which prevents the company from notifying users. Only 7 percent of users received notification of a U.S. government request for their data.
+
+According to theU.S. portionof Twitter’s report, the U.S. agencies requesting the most information are the Federal Bureau of Investigation, the Secret Service, and the New York County District Attorney’s Office. In an unprecedented move, Twitter breaks down the data requests by state and shows whether the request came from a federal or local agency.
+
+This is a subtle change, but it’s something more companies ought to do. It enables users to transition from tinfoil hat “the government is after me” territory to informed and engaged advocates for their own data.
+
+It allows users in California, for instance, to think about whether federal agencies like the FBI should be making 281 requests for their data over a six-month period, and push for reform if they think a specific agency is asking for too much data. It gives users insight into how state and local law enforcement agencies request and access their data, which is valuable information that they can then present to their city council or local police commission. It lets users make more informed decisions about the conversations they have over DM (which, by the way, still doesn’t offer users an encrypted option) and the tweets they publish. It also allows international Twitter users to better understand how the U.S. government seeks their data, and how it shares that data with their home countries via mutual legal assistance treaty (MLAT) requests.
+
+The decision to name specific law enforcement agencies also might give Twitter users a window into how Twitter is monitored during the U.S. election cycle. The Secret Service is responsible for responding to online threats against the presidential candidates, and it’ll be interesting to see if Secret Service requests decrease after the November election. (Of course, Twitter hasn’t broken out the number of requests it receives from particular federal agencies, but the Secret Service might drop off the list of most prominent requesters if election-related requests made up the bulk of their overall demands for data.)
+
+Twitter didn’t stop at outing its major U.S. data requesters — it’s also giving users lots more details about how their information is requested, including “the number of preservation requests received for user data, more insights into requests that we formally or informally challenge, a breakdown between emergency and non-emergency requests, and the percentage of requests where basic account information is provided versus the production of the contents of communications (e.g., Tweets, DMs, media, etc.).”
+
+Together, these new disclosures make up a transparency report that’s actually somewhat useful for the people who use Twitter. Now, if we could just get encrypted DMs.

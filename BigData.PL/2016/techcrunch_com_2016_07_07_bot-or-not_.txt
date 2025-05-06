@@ -1,0 +1,55 @@
+Make way for more bots: Ex-Evernote CEO Phil Libin leads seed rounds for Butter.ai and Growbot
+
+Earlier this year, Phil Libin, the former CEO of Evernote who is now a venture capitalist atGeneral Catalyst, laid outplansto fund and support (and maybe even build?) his own startups in the burgeoning world of bots — services that use conversational interfaces and varying degrees of artificial intelligence to provide users with information, products and more. Now those investments are coming to light.
+
+Butter.ai— started by a team of ex-Evernoters — has raised a seed round of $3 million from General Catalyst for a productivity app that is still in stealth. AndGrowbot, a messaging bot designed for congratulating co-workers via Slack, has raised a seed round of $1.7 million, with other investors including XSeed Capital and Inventus Capital Partners.
+
+Growbot has been in the market for about a year and has4,800 companiesusing its free bot, writes founder Jeremy Vandehey. A paid version is still in the works. Growbot’s motivational tool essentially works in the background, letting you rack up and chart praise for people, with the service triggered by certain keywords.
+
+Butter.ai, meanwhile, should launch later this year, and, according to ashort post from Jack Hirsch(Evernote’s former VP of product who is now CEO of Butter.ai), it sounds like the idea will be to give users a way of finding things in their trove of work documents and other data by asking the Butter bot questions.
+
+The two come on the heels of Libin’s first investment at GC, foranother productivity bot service still in stealth called Begin, co-founded by Ryan Block (a serial entrepreneur who has sold two past companies to AOL, which also owns TechCrunch) and Brian Leroux. That is due to launch in the autumn.
+
+But those three are just the tip of the iceberg.
+
+As you’ve probably seen, bots have been appearing everywhere of late. Larger companies likeFacebook,Google,Microsoft,Amazon,Yahooand even to some extent Apple are all trying their hand at ways of providing more to users in an automated way by way of voice and conversational interface. Startups and others are also building hundreds of bots, either as standalone services or as small apps that sit on larger platforms like Slack or Facebook’s Messenger.
+
+The rush of bots may be exciting to contemplate — there is a lot of promise in the idea of combining artificial intelligence, natural conversation and super fast computing to make our lives easier. But as with otherhype cycles, the reality so far hasn’t been entirely great: There are too many out there, and way too many not working as planned.
+
+Libin told me in an interview that he’s been pitched about 200 bots in the last few months. With that in mind, I talked to him about his new investments, and why he thinks some bots are hot, and some are not. (Interview is edited for clarity.)
+
+Are bots the future?
+
+I think they are a big part of the future. Twoyears from nowit won’t be possible to say, I’m focusing on bots because the underlying ideas will have gone into the fabric of things. But for the next couple of years you can still have a specific set of things that you can call bots and focus on those.
+
+I think we are in a relatively slow period right now, similar to 2007-2008 when the economy was slow there was all sorts of turmoil in the world, and people were asking if the important period for tech was over, that all the important companies were already built. But now think of all the brands today, the Ubers, Airbnbs and others established in that period. Now what’s being created is the tech that will power the next wave of innovation. In 2008, it was mobile and social, now it’s AI, messaging and conversational AI. And if you draw a line around it, it’s called bots.
+
+I was looking at agraphicabout the bot hype cycle. Do you think it’s risky to be investing during what seems to be a swift approach to the trough of disillusionment?
+
+Everything with bots is ahead of schedule. It usually takes years to get from the technology trigger, to peak inflated expectations, to trough. But with bots it’s all been compressed. It took weeks. But I’d refer you back to apps. The first generation versions didn’t make any sense. They were trivial and predictable, there were fart and flashlight apps, and they were basically translations of the older paradigm, which was the web, and people were disappointed.
+
+But at the same time, there were real world-changing use cases being built. Bots I think are kind of the same thing: You can see how they might become world-changing but for the most part many are not supposed to be serious.
+
+You will see more serious use cases emerging in the next couple of months. The three investments I’ve made so far, in Begin, Butter.ai and Growbot, are all around the same hypothesis, which is making it much easier to do work. That is the paradigm they are tackling. But I think we will go through more cycles before this thing irons itself out.
+
+So how do you decide as an investor what is garbage and what might be the real deal?
+
+I’ve been working on a bot atlas. It’s a way to map what different types of bots there are. There are different dimensions: consumer to enterprise, or human-assisted to fully automated. There are bots on every spectrum.
+
+With the human-assisted bots, there are humans who are answering questions and you are getting a mix between human and AI. There are a lot with humans in the mix. For the high-value services, having humans there makes a lot of sense, but I’m not that interested personally in the human-assisted stuff right now. I’m interested in the fully automated bots. In these three that I’ve funded and in the other stuff I’m hatching, there are no humans in the loop.
+
+I personally don’t believe that the human assisted models are as good as what you can get with AI eventually. I want bots to be superhuman.
+
+One of the other rules I use involves guidelines and standards. There should be a rule about a bot never being deceptive to you. For example, you should never really think you are talking to an AI bot when it’s actually a human. I hope that as the industry matures there will be some clear rules for this. I don’t object to humans helping, but it needs to be transparent.
+
+On the superhuman front, there isn’t any bot that’s quite up to that task yet. How close are we with the tech?
+
+Oh, I don’t think we are very close at all. But I also don’t think that we’ve had the right approach. I kind of think that the industry took a massively wrong turn 70 years ago with theTuring test. That we should build a machine as smart as a person is a really damaging idea. It’s hard to do and I don’t believe that the goal should be anything like human intelligence, it should be single-purpose efficiency.
+
+Right now you seem to be investing mainly in the consumer-facing part of the bot world. What about the technology that will power all these bots of the future?
+
+The three I’m investing in now are products, yes. I am definitely interested in the full stack, and the tech that powers these things. I’m looking at a bunch of companies there right now, but I am a bit skeptical of these things. I’ve heard 200 bot pitches over the last couple of months. A large percentage of them are tools, and this makes me suspicious: Some of the most interesting products are created the hard way. At Evernote we weren’t using any of the tools that existed; we built it all ourselves.
+
+You have superstar apps, and then you get the tech to make it easy to build subsequent versions everywhere. But I’m skeptical of tools that happen before the superstars. That said, there are a lot of tools out there that say we are helping to build bots. But I am very open-minded about this, so if I see some tools that are great I would be happy to invest.
+
+I think the real power of bots will come when it’s not just about you talking to an app, but the bot doing things for you, or multiple people talking to each other with the bot inline and helping us. Growbot is a bit like that: it’s an assistant in your team’s Slack channel, which wakes up and collects positive feedback inline with the conversation. If it wasn’t there [picking up in the background], I would never use it as a standalone app.

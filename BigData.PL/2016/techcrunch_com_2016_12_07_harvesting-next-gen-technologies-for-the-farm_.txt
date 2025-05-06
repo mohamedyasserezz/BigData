@@ -1,0 +1,43 @@
+Harvesting next-gen technologies for the farm
+
+It’s entirely possible — even probable — that the evolutionary, cutting-edge developments in the 21st century world of agriculture over the past few years have slipped under your radar. Fair enough, you’re busy. We get that. But that doesn’t mean that a massive and relatively stealthy disruption isn’t happening as we speak.
+
+In fact, you could argue that the period between right now and the arrival of the next Sustainable Development Goals (SDGs) in 2030 will be as fundamentally transformative to the world of farming as the one that earned “The Father of the Green Revolution,”Norman Borlaug, a Nobel Peace Prize in 1970.
+
+In the 1950s and 1960s, the Green Revolution brought smallholder farming into the modern age. Modern seed stocks, industrial fertilizers and mechanized farm tools increased agricultural production across the globe. But that revolution may have also reduced agricultural biodiversity and increased the use of pesticides and herbicides, both of which threatened global food security.
+
+How have things changed since then, and how might they apply to both smallholder and industrial farming?
+
+Because of a confluence of global trends and macroeconomic indicators, the way we grow and harvest food for an increasingly exploding population couldn’t be at a more critical juncture than it is today. Here are the sobering facts: Right now, there are almost 7 1/2 billion people in the world. By 2050, that number is expected to mushroom to nearly 10 billion — more and more of whom (60 percent) will live in urban centers, where they’ll be much less likely to produce their own food.
+
+At the same time, as incomes are going up and extreme poverty recedes (the world’s poorest population has gone down by about 10 percent over the past decade), people’s diets will change. Higher incomes will lead to a greater consumption of meat. Meat production requires tons of land, energy and water — resources that could be used for smarter calorie production. So not only will there be shifting demands and a more selective approach to consumption, there will be growing needs to find sustainable solutions.
+
+To help meet this increasingly yawning gap between supply and demand, farmers need to be smarter and more efficient. That’s where technology comes in — the point on the X-Y axis whereagmeetstech.
+
+We recently completed an investigation into the complex and promising field of agtech. With an eye to where technology can best address the gap, we talked to farmers, agriculture startups and robot makers to uncover insights for what might usher in the next agricultural surge forward.
+
+Using existing farmland to grow more food isn’t sustainable. And it also isn’t as easy as it sounds. In fact, you could argue that it’s becoming harder for three main reasons.
+
+First, yield growth rates are beginning to plateau amongst richer, more developed countries that set the modern standard for agricultural production. This raises questions about our ability to meet the needs of a growing population with current methods. Second, the economics of agriculture are getting tighter (input prices are growing faster than commodity prices). Third, weather has become more variable as a result of climate change, making yields more unpredictable.
+
+But while it might seem obvious to some that technology can help mitigate some of these challenges, the fact is that agriculture is the least digitized major industry in the U.S. (according to 2015studyfrom the McKinsey Global Institute).
+
+The good news is, that’s changing. Agricultural technology is beginning to force industry-wide digitization that could usher in an era of more sustainable production:
+
+Maybe it’s taken longer than it could have (or should have), but agriculture has become the latest industry to be unbundled by technology and the Internet of Things.
+
+Large companies and venture capital have heard the ring of the agtech dinner bell and have responded as you’d expect. Monsanto (agreed to acquisition by Bayer) and Syngenta (undergoing sale to ChemChina) recognized how the industry was changing and began actively investing in and acquiring startups with the focus of inserting themselves in the agtech chain.
+
+Recognizing the instability and potential financial upside of the moment, VCs have responded by pouring money into the category (to the tune of a record $1.6 billion in 2015). Data is the new coin of the realm, and agtech companies are seeking new ways to use data to create value for farmers across four key areas:
+
+Visibility:Unlike buying a home with a research tool like Zillow (which provides a level of visibility that didn’t exist a decade ago), agriculture remains an opaque marketplace. Until recently, farmers had a hard time benchmarking their costs for seed and fertilizer, and expected yields based on inputs and soil type. They relied on word of mouth. Now, with companies likeFarmers Business NetworkandAgrible, platforms exists for viewing data about other farmers’ costs and yields and global market factors. The result is greater transparency and farmers making more informed decisions.
+
+Expertise:Farmers access experts routinely in the form of agronomists, meteorologists and financial advisors. However, now farmers can use products built upon expertise in data science, computer vision and machine learning. Without needing to understand these complicated subjects and their technology, farmers can use innovative products to capture the information they need.
+
+Companies likeaWhereare using these to provide farmers across the globe highly localized and accurate weather predictions customized to their specific fields. Hardware companies likeBlue River Technologyare making smart boxes that attach to the hitch of a tractor, which then uses computer vision and machine learning to scan crops as they pass over them, pinpointing the optimal place to plant and fertilize, as well as identify the ideal time to harvest crops.
+
+Automation:Automation crept into farming in the form of auto-steering tractors powered by GPS, but the industry still lacked simple business intelligence and workflow tools common to run-of-the-mill technology companies. Automation is now penetrating agriculture not only in the form of fullyautonomous tractors,crop-counting machinesanddrones, but also in the form ofstreamlined work flowsthat move away from Excel spreadsheets, sticky notes and white boards.
+
+Precision:“Doing more with less” is a mantra farmers have followed for generations. With productivity slowdowns occurring in wealthier nations, the magnitude and variability of weather impacts increasing and general resource constraint, precision is more important than ever. Agtech uses technology to manage commercial farms more like other 21st–century businesses. That can mean customized nutrient addition andsoil sensorsthat tell you how hard your plant has to work to suck water out of the ground. The result is the kind of precision that gives farmers a level of control they never had before.
+
+So what does this mean looking forward? We’ll leave you with four predictions for where agtech might take us by the time the 2030 SDGs roll around:

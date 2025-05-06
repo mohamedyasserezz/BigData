@@ -1,0 +1,19 @@
+Google’s Cloud Machine Learning service is now in public beta
+
+Googleannounceda number of updates to its cloud computing services at a small event in San Francisco this morning. These updates touch Google’s machine learning services, as well as its database and analytics services, and include an update to how it supports its users.
+
+The company’s focus today, though, was clearly on machine learning. Google launched the private alpha of its machine learning services a few months ago and today, Google’s infrastructure chief Urs Hoelzle announced thatCloud Machine Learningis now available to all businesses as a public beta.
+
+The service allows you to train machine learning models and promises that you can train models with terabytes of data within only a few hours.
+
+Cloud Machine Learning also now includes two services: the Machine Learning Advanced Solutions Lab that allows Google customers to talk to Google when they run into complex problems, as well as the Cloud Start program that offers workshops for businesses that want to learn about the basics of how they could use machine learning to solve their own problems.
+
+Google is also launching acertification programthat is based on Google’s own internal machine learning programs and that will be taught by Google engineers. It’s aimed at Google’s partners, businesses and data scientists.
+
+The idea here is clearly to democratize access to machine learning services. That’s something Google’s competitors like Microsoft and Amazon are also trying to do, of course, but few other companies have the kind of reputation for their machine learning smarts as Google currently has.
+
+“If you use Google ML, even in its beta version, it can deliver incredible value,” Hoelzle said during his keynote this morning. And the company spent much of the morning discussing how its partners like Airbus are using its services to improve their own products already.
+
+Google BigQuery, the company’s fully managed data warehouse, is also gettingan update. Users can now use standard SQL queries to analyze their data, for example. In addition, BigQuery is making it easier for businesses to manage access to their data and Google is launching a new flat-rate pricing model that combines support for unlimited queries with set data storage costs.
+
+Besides product updates, though, Google is also now giving its customers better support. The company now gives businesses the option to work with its Customer Reliability Engineering team (a new role in the Cloud Platform group). These Google engineers will work directly with Google’s customers “to share the reliability responsibilities for critical cloud applications.” Google’s engineers actually worked with Niantic to support the company when it launchedPokémon GO.

@@ -1,0 +1,11 @@
+OurMine hacks Netflix, Marvel Twitter accounts
+
+OurMine is up to its old tricks again, with an attack on Netflix’s official U.S. Twitter account. The hacking team has been responsible for taking over a number of high-profile Twitter accounts during the past year or so, including Google’s Sundar Pichai, actor Channing Tatum – and us,TechCrunch dot com.
+
+The team is made up of a small group of young people (one of whom might be aSaudi teen) according to aninvestigation by our own Kate Conger, and their stated mission is to test the strength of passwords for accounts with a lot of followers and potential influence. OurMine typically doesn’t do much once it gains access to an account, short of posting messages advising the account’s owner to contact them via an email address for more info about how to put better security practices in place.
+
+OurMine seems to operate by testing various accounts belonging to these high-profile vulnerabilities for use of weak passwords, which may have been leaked in previous credential dumps resulted from hacks like the LinkedIn password breach from earlier this year. The hacking group might take control of a target’s Twitter account or website directly, or could exploit connected apps and services to push content to those destinations indirectly.
+
+Netflix’s Twitter account had posted a number of OurMine-created messages as of this morning, with its actual social team clearly moving to delete them as quickly as possible. Even changing your primary password might not prevent access in instances like this, because of previously authorized apps connected to Twitter – it’s a good idea to occasionally checkwhat apps are authorized to access your account and shut down ones that aren’t necessary.
+
+Update:Marvels’ Twitter account was also taken over by OurMine later on Wednesday, with a similar message posted about reaching out for help regarding their security. Again, this is likely due to password reuse from leaked credentials – so change those if you think you might be in the same boat.

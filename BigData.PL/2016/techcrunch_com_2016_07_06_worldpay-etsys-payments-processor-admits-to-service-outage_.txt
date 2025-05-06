@@ -1,0 +1,37 @@
+Worldpay, Etsy’s payments processor, admits to service outage
+
+Worldpay, the third-party payments processor for Etsy, has come forward after six days of silence, acknowledging that it is experiencing a service disruption.
+
+A significant number of Etsy transactions have been disrupted by ongoing payment processing outages. Over 7000 posts have been made by frustrated merchants in an Etsy forum dedicated to the problem. This is almost twice the volume from last night whenwe first posted about the payment processing saga.
+
+We are aware of a short delay in settling some deposits and refunds, affecting a small number of customers. 1/2
+
+— Worldpay Global (@Worldpay_Global)July 6, 2016
+
+Worldpay has not directly connected itself to the specific Etsy outage, but sources close to the company have confirmed that Worldpay is responsible for the outage.
+
+Unfortunately, it doesn’t appear Etsy users are going to get much closure from the Worldpay statement. The outage is affecting all of Etsy’s credit, debit, and gift card transactions.
+
+While Etsy doesn’t release transaction numbers, we estimate that the company likely handles a few hundred thousand transactions per day. Generously assuming that half originate from a card, the number of affected transactions is rapidly approaching a million. This is hardly a small outage, “affecting a small number of customers.”
+
+It appears that most customers impacted on July 1st have had their payments processed. The issue is that because the payment processing system is still experiencing outages, new transactions are continuously being delayed.
+
+Etsy suffered a similar payment processing outage in February, but that time it was addressed rapidly.
+
+An anonymous source has told us that Worldpay does not have an estimated time to resolving the payment processing failure.
+
+Even if Etsy were to implement a new payments processing solution this late in the drama, it would take weeks to implement the system into the Etsy backend.
+
+Payment processing is working on Etsy but is working on a delay that has fluctuated from a few hours to a few days for individual customers. Orders that were not processed from the last few days will be addressed by the company first.
+
+Etsy merchants can remain confident that they will receive their money…eventually. Etsy did deliberately address potential negative reviews born out of the outage in a blog post on its Bugs Community Forum.
+
+“If a buyer affected by this issue mentions it in a review or contacts you directly about it, please contact Etsy Support for assistance,” said Etsy engineer Bill Massie.
+
+The Etsy spokesperson we spoke to gave the following statement:
+
+Etsy has their hands in a bind since all their eggs are in the Worldpay basket. It seems the relationship is growing strained between the two companies given the delayed and half-baked response from Worldpay. Etsy users are clearly frustrated and are rightly demanding a solution. In a world of instant gratification, a six-day payment processing failure, on one of the worlds most prominent e-commerce sites, is unacceptable.
+
+Worldpay has yet to respond to our request for comment. We will update this post when we get a statement from them.
+
+***Update: Worldpay sent the following statement to TechCrunch.

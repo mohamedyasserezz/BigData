@@ -1,0 +1,15 @@
+Uber debuts Compliments, letting riders give drivers specific positive feedback
+
+Uber has a new product feature going live across its app today, called ‘Compliments.’ The new systems will prompt riders to give a specific, additional piece of positive feedback in addition to the star rating they assign their driver, including things like “Excellent Service” or “Awesome Music.”
+
+The new Compliments system will send a notification to the driver when they receive one, and tell them which the rider selected. The pre-set list includes nine total canned compliments, which simplifies the process on the user end and should make it a lot more likely for riders to actually engage and use the new feature. If you’re in a test market where it was rolled out in an earlier version, you may already be familiar with the multiple choice added feedback options.
+
+There’s an element of positive reinforcement here, where compliments could serve to help drivers know what it is about their good trips that are generating strong number ratings, making them more likely to repeat that behavior in the future. Compliments are totally optional, but could help a lot in terms of adding more depth to the feedback mechanism Uber employs, and that might mean more useful data on the Uber side, too.
+
+Each piece of feedback is tied to a specific type of action on the driver’s part, covering general quality of service; conversation; navigation; entertainment; car quality; music choice; cleanliness; amenities or extras; and added services beyond standard expectations.
+
+Star ratings on their own are essentially a black hole of quantified data – sure you have a number score, and you can aggregate number scores across geographies and see trends in individual and group performance over time, but you really have little to go on in terms of figuring out what’s influencing those scores.
+
+Doubtless Uber has done good work building inference models about what factors impact scores, but even this simplified additional feedback layer should help expand considerably its horizons in terms of qualifying factors that contribute to the numbered rating.
+
+Uber says in a blog post announcing the news that it’s adding the feature in time for Thanksgiving as a way of letting riders give thanks to their drivers, but it also definitely stands to deepen the type of data the company can gather about rider preferences and trip quality.

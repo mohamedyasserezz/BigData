@@ -1,0 +1,11 @@
+Spatial helps users navigate like a native
+
+Lyden Foust was an ethnographer traveling the world on behalf of corporations, living in a city for months at a time to learn what he could, and reporting back to the people who hired him. “I realized people were telling their social media more than they would ever tell me as a researcher,” Foust said. And so he partnered with his friend Will Kiessling, a jet engine software engineer used to dealing with vast amounts of data, to createSpatial.
+
+Spatial pulls data from “tons and tons of social sources,” Foust said, then uses it in aggregate to help users understand the city like a local would. Spatial pulls from more than 30 sources, including Instagram,Twitter,Facebook,Flickr, andTinder, but also from apps likeStravato find out where people are riding their bikes and weather apps to learn what people do when it’s sunny or rainy or snowing. “If you look at one source, it’s totally junk ,” Foust said. “You can’t understand it . But looking at them in aggregate, you can ask what’s happening on Instagram when it’s raining.”
+
+Foust noted that there are many apps that try to get people from point A to point B, from their car’s navigation system to websites like Yelp. “The market is endless,” he said. So rather than building yet another app, Spatial is an API that any app maker or automotive company can license for their own use. In 2016, Spatial participated in theTechstars Mobility Acceleratorprogram, and on Demo Day, the company announced a deal with Ford.
+
+“If you ask any of these apps, Where’s a Chinese restaurant?, that’s fine ,” Foust said. “But if you ask anything beyond that – conditional questions – you end up on Google for an hour.” Spatial pulls data from its dozens of sources to tell users which bars have sunset views over the water, or which neighborhoods have the best Christmas lights.
+
+Spatial is based in Detroit, which Foust said “makes it really difficult to raise money for an app.” Thus the decision to provide the API and sell directly to businesses. It’s a strategy that seems to have worked —Fordis the 9-month-old company’s largest customer, and Spatial expects to close a $2 million round of seed funding next week.

@@ -1,0 +1,51 @@
+Sunrise was the best calendar app ever and now I feel lost
+
+It’s no secret, IlovedSunrise. Today, the team is shutting down the servers and you won’t be able to use Sunrise as your calendar app anymore.
+
+Update:Sunriseisn’t shutting downjust yet. Servers will keep running until more Sunrise features are ported over to Outlook’s calendar feature, then they’ll shut down.
+
+I’ve been looking for a good replacementfor a few months. While there are many mobile calendar apps out there, none of them come close to Sunrise as they’re not as polished and well-designed. Let’s break down what made Sunrise great.
+
+Today sounds like a good time for a post-mortem on Sunrise. In October 2012, shortly after Hurricane Sandy hit New York, I met up with Pierre Valade in a coffee shop near Columbus Circle because Lower Manhattan was still in the middle of a multi-day power outage. At the time, Sunrise was a side project. You could sign up to the Sunrise website by linking you Google Calendar account. Every morning, you’d receive a newsletter with all your calendar events of the day.
+
+Even though it was a pretty basic product, the design was already polished. There was a sunrise emoji in the email subject line so you’d spot it more easily in your inbox. Your event descriptions already included LinkedIn profiles so that you could learn more about the people you were going to meet today. And it looked like this compared to the default Calendar app:
+
+Remember, this was in 2012. The iPhone was a tiny 4-inch device (if you had bought the newly introduced iPhone 5), only Microsoft cared about flat design at the time. And yet, the default calendar app on iOS 6 hasn’t functionally changed much since then.
+
+Thousands of people signed up to the Sunrise newsletter. There were even a few articles about them here and there. Back in October 2012, Valade was working at Foursquare with Jeremy Le Van. They both were already thinking about leaving Foursquare and turning Sunrise into a native app. They eventuallyleftand later teamed up with Joey Dong to work on the iOS app.
+
+Later that fall, they applied to Y Combinator and got to the interview phase. They flew to San Francisco and pitched in front of multiple Y Combinator partners. Y Combinator eventually rejected them, saying that a calendar app would never replace the default calendar app on your phone. Default apps were too powerful.
+
+And then, visa issues got in the way. The two co-founders had to move back to Europe while they were applying for a new American visa. They basically locked themselves away in Belgium and worked on the version 1 day in and day out.
+
+A few months and a successful visa applications later, theinitial versionwas available in the App Store:
+
+The initial reaction was… interesting. Their App Store page was flooded with one-star reviews, saying that they would never use Sunrise because you could only sign up with your Facebook profile. It was fixed a couple of weeks later.
+
+But the basic user experience was a breath of fresh air. What you can’t see on the screenshot is that all the basic interactions were already there. Instead of tapping a stupid arrow to move from one month to another, you could simply swipe with your finger. It would expand the two-week grid at the top and turn it into a scrollable month view. You could swipe on an event to get directions or send a message to the person you were meeting. It doesn’t sound like much, but app design has come a long way since then, and Sunrise was ahead of many app developers.
+
+Even more important, Sunrise chose a radically different approach compared to existing calendar apps in the App Store. Instead of relying on native iOS APIs and letting iOS handle the calendar syncing part, Sunrise chose to handle it. Once you connected your Google account, Sunrise’s Heroku servers would handle event creation, modification and more. With this server component, Sunrise could go one step further than the competition on the App Store and add more features later down the road.
+
+Luckily,Mailboxwas released right before Sunrise, making productivity apps sexy again. With these two apps, people started to think that you could replace default productivity apps with better alternative. A couple of months later, the companyraised$2.2 million.
+
+Even after raising, the team remained surprisingly small. On the product front, Sunrise launched apps for theiPad,Androidand the desktop (using a web wrapper like Slack). The product evolved with major iOS versions — a flat design, a Today widget, more integrations. Balderton invested$6 millionin 2014.
+
+But it hasn’t always been an easy ride. Valade often told me that he thought his startup could die overnight if Google cut them off and they couldn’t use the Google Calendar API anymore. I don’t think anyone else in the world was making as many Google Calendar API calls as Sunrise. Similarly, very few people were usingSunrise Meeteven though the team had been thinking about this scheduling feature for many months.
+
+And of course, the end game was unclear. Sunrise never charged for anything. It wanted to get as many users as possible. Maybe Sunrise could have expanded to other productivity products. Or maybe it could have worked on collaboration features for teams and charge companies. Eventually, Microsoftacquiredthe small startup for a very comfortable price.
+
+Last year, Microsoft acquired a bunch of productivity apps — Acompli, Sunrise, Wunderlist. The company thought it was lagging behind on mobile apps. Sure, many people were still using Outlook on their computer. But Microsoft couldn’t say the same thing for iPhone and Android users at the time.
+
+Shortly after the acquisition, Microsoft re-released Acompli under the Outlook brand and told the Sunrise team that its app would befolded intothe Outlook app. And the result is today’s server shutdown.
+
+In March, I’ve alreadywrittenthat I was switching to Fantastical on the desktop. It’s quite a powerful app with a timeline, a week view, and a native CalDAV engine so it doesn’t rely on OS X’s calendar process. I still miss the LinkedIn profiles and some integrations with third-party services, but this current setup works well for me. There areother alternativescoming soon on the desktop as well.
+
+On mobile, the state of calendar apps is quite sad. On iOS, Fantastical, Readdle’s Calendars 5 or even Outlook’s calendar lack features or polish. Fantastical and most of the other calendar apps rely on the default iOS calendar API. They don’t have a server back-end so they can’t develop powerful features.
+
+Outlook doesn’t even have all the features that were in last year’s version of Sunrise. And the default Calendar app lacks basic gestures and navigation features.
+
+On Android, many are using Google Calendar, which is great but not really useful if you don’t use Google Calendar as your backend. Also Ihateall the calendar apps that try to mix to-dos with events. To-do lists and calendars are two very different things, and if you have a lot of meetings, the last thing you want is to clutter your calendar with to-dos.
+
+Finally, I don’t understand why many calendar apps force you to use your phone in landscape in order to load a week view. Many, many people lock rotation on their phones, so they have to give up on the week view.
+
+It’s frustrating to see that I’ve become less productive on my phone now that I can’t use Sunrise anymore. I feel lost and it shouldn’t be like that. Maybe one day a company will develop a modern calendar app that plugs with all sorts of internet services, gives you useful information in a compelling way and lets you effortlessly move from one day to another. But for now, I’ll just try and deal with the frustration that Sunrise is shutting down.

@@ -1,0 +1,23 @@
+Mischief managed: 5 hackathon hacks for Potter fans inspired by the Marauder’s Map
+
+Great news, Potter fans: Hogwarts School of Witchcraft and Wizardry is no longer the only place in the world where you can find a workingMarauder’s Map, the magical piece of parchment that let Harry Potter and others track the movements of people as they went around the Hogwarts campus and its many public and secret passageways.
+
+This weekend at the TechCrunch Disrupt Hackathon, several groups of intrepid of developers, under the spell of APIs from the likes of PubNub, IBM’s Watson, ESRI and Mapbox, built Marauder-Map inspired games, messaging networks and more. We solemnly swear they were up to no good (but the inspired results are actually quite cool):
+
+Marauders Techis an augmented reality interactive map and game that taps into some of the huge popularity of Niantic’s Ingress and Pokemon Go. The world is transformed into a scavenger hunt of sorts, where you travel around an area looking for the ingredients for potions and spells, and compete against your friends to do so. You can also create your own potion recipes for people in the same area as you, and name them using Watson-based image and voice recognition. And when you encounter friends, you can in turn have interactive spell battles for extra points.
+
+Marauder Toursis an app that lets tour guides and school teachers track people during a tour, and also create activities (“treasure hunts”) for tour guides to present to their groups to help them interact with and experience their locations by way of looking for and responding to specific objects and locations in the specific space. While this is less of a play on the Harry Potter theme than some of the others, it’s inspired by the central idea of the original Potter partchment of being able to track people on a map. The idea, it seems, is to give the group in question either access using a phone or other device that can be picked up on the map, although in theory the guide or a member of the group can also turn off the tracking.
+
+https://www.youtube.com/watch?v=VXj5RPoeWM8
+
+Marauder’s Mapis less game, and more communication: the app is built on the premise not only of seeing where your friends might be at that very moment, but then being able to leave messages for them when they get to another specific place. Why wouldn’t you simply send them messages wherever they happen to be? That wasn’t exactly addressed, nor is the fact that there are already some interesting takes on the location-aware social mapping challenge, such as Foursquare’s Swarm and Zenly out of France. But on the other hand, the proliferation of these services speaks to an opportunity and perhaps a need for one killer service. Plus, there are times when you might want to suggest a specific dish to your friends at a restaurant, or something else that you don’t necessarily care if they see, unless they are at the location in question.
+
+https://www.youtube.com/watch?v=mMC5PbX3Q8Y
+
+Maurauder’s Battleis an app brings us back to the gaming theme and anchors us firmly in Harry Potter’s world. In this case, you can challenge your friends to see who is the top wizard. You find other would-be wizards on a map, and then you whip out your phone and use gestures to essentially turn the handset into a magic wand controller. It looks like you can encant spells using the handset’s microphone, and the one who successfully blocks the opponent’s spells and casts her/his own is the victor.
+
+https://www.youtube.com/watch?v=U6lGGZNH5tU
+
+Marauder’s Magichas a nice starting point: a blank page, inspired by the original map created at Hogwarts by Harry’s dad and his friends. To start the game you tap the screen and say aloud, “I solemnly swear I am up to no good.” This brings up a map of where you happen to be. On it is a key to several places to which you can walk, and by saying more spells aloud once you get to these places, you can open secret passageways to continue playing the game. This seems like a less social game than the others, which in a way is also good because it doesn’t rely on having other players involved to get it to work for you. Mischief managed.
+
+https://www.youtube.com/watch?v=A9Z1aNWBuhk

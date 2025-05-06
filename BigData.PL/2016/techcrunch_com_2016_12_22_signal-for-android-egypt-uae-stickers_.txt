@@ -1,0 +1,19 @@
+Signal for Android update ducks censorship, adds stickers and doodles
+
+As mainstream interest in online privacy expands,Signalwants to grow along with it. This week, the app added two features, one a serious response to international censorship and the other a light, fluffy feature set meant to make the app even more user friendly for those who might be new to this whole encryption thing.
+
+As detailed in a post on theOpen Whisper Systems blog, the latest Signal update (Android only for now) circumvents state-sponsored censorship in Egypt and the United Arab Emirates by building indomain fronting, a way for the app’s usage to disguise itself as Internet traffic to another service altogether.
+
+“With enough large scale services acting as domain fronts, disabling Signal starts to look like disabling the internet,” Signal explained in the blog post. “When those users send a Signal message, it will look like a normal HTTPS request to www.google.com.”
+
+Beyond its censorship workaround, Signal updated its Android app with a few fun features, allowing users to now add stickers and doodles to photos à la Snapchat, Facebook and other mainstream social apps.
+
+Here’s the full list of changes toSignal version 3.25.3 for Android:
+
+As far as truly private messaging services go, Signal is particularly well positioned for widespread adoption right now. For one, the app’s user interface resembles something like Apple’s Messages app far more than it does more arcane forms of encrypted communication, likePGP. Open Whisper Systems also powers the new the end-to-end capabilities of better known apps likeFacebook Messenger,Allo, andWhatsApp. Beyond that, Signal itself has taken off in recent months, with considerableuser growthfollowing the election.
+
+I use Signal every day.#notesforFBI(Spoiler: they already know)https://t.co/KNy0xppsN0
+
+— Edward Snowden (@Snowden)November 2, 2015
+
+Signal’s open source roots and robust privacy protections make it a favorite among big names in privacy, which boosts adoption too. A perfectEFF scorecard rating(the old ratings, the organization is working on a current scorecard) and Edward Snowden’s stamp of approval don’t hurt either. And if that wasn’t enough to convince you, look, stickers!

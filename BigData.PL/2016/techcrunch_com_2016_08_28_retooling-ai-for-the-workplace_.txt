@@ -1,0 +1,103 @@
+Retooling AI for the workplace
+
+One of the first computers required punch cards. I repeat, punch cards. Yes, you would take a piece of paper with tiny holes and use it to interact with the device.
+
+Now we have computers the size of soda cans that sit in your house and control your lights, provide weather updates, solve math equations and tell jokes, all by simply speaking to them… and some of them have better jokes than my actual friends.
+
+In many ways, we all should have seen this coming — we can thank our Hollywood friends for that.
+
+We had C-3PO and R2-D2 running around the galaxy with Luke trying to help him save the universe from his dad.
+
+“Artoo says that the chances of survival are 725 to 1. Actually Artoo has been known to make mistakes… from time to time… Oh dear…”
+
+More recently, we’ve had others as full-fledged assistants that are smarter than most humans, like TARS from Interstellar and Jarvis from Iron Man.
+
+As you’re reading this, you’re probably doing some kind ofwork. It’s a thing we spend one-third of our lives doing, after all. (Sleep and Netflix supposedly make up the other two-thirds.)
+
+Given the massive chunk of our lives spent atwork, shouldn’t we enjoy the tools we need to use for our jobs? Shouldn’t they feel more human and delightful, like Amazon’s Alexa or some of the other consumer-facing applications we rely on daily?
+
+I think so.
+
+And how much more effective and productive could you be if you had something like TARS or Jarvis helping you with your job?
+
+I think the answer is… a lot!
+
+Many of the consumer-facing AI solutions we see today are built on the backs of generic APIs.
+
+Let’s take something like Siri, for example. If you wanted to know the weather, you would simply ask: “Siri, what’s the weather?”
+
+Siri could then transcribe your question and reach out toweather.comor another weather service for the answer using your location as a proxy.
+
+Based on the answer, you’d have the immediate information you need to determine whether you should take an umbrella toworkor not.
+
+However, introducing a similar, frictionless AIassistantin the enterprise is a bit more challenging. Things are a bit more complex because each organization uses varying degrees of tools and workflows to run their business.
+
+Borrowing from the weather example above, let’s say you wanted to know how much revenue was booked for the business in the first quarter. You might ask: “Siri, how much revenue did we book in Q1?”
+
+If this “Siri forwork” existed, it might give you an answer along the lines of “$100mm.”
+
+From here you might want to drill deeper into revenue generated from each product line. If you were the Chief Revenue Officer of Microsoft, you might want to know how that revenue breaks out between Office 365, Windows and Xbox… and you might want the answer to be in top-line revenue because that’s how you like looking at the forecast.
+
+Do you see how nuanced this can become? As we start to account for organizational preferences, things get complicated very quickly.
+
+It’s easy to see how replicating “Siri forwork” is a much heavier problem to solve because of the variance amongst organizational processes, systems and preferences. For consumer applications, there isn’t nearly as much divergence in the answers users expect (see above); this does not hold true for businesses.
+
+This same issue applies in the context of scheduling. There are companies likex.aiandClara Labstrying to take the simplicity of Alexa or Siri and apply it to the tedious task of scheduling meetings.
+
+It’s one thing to say: “Siri, book me a meeting with Jon for some time next week.”
+
+But all of a sudden you realize there are a handful of non-trivial variables this “scheduling Siri” would need to take into account. Things like the location of the meeting, preferences of the person taking the meeting, the availability and coordination of both parties instead of just one and so on.
+
+And let’s take one more vertical application similar to  “Jarvis forWork.” Within the legal industry, an AI-powered lawyer calledROSShas emerged. Firms can ask ROSS questions like they would their colleagues on important data, like citation resources, and it returns an answer. Their secret sauce is based on using natural language processing (NLP) to query publicly available law documents.
+
+But can ROSS adopt to the style of the firm and specificity of a given case? Maybe some firms have found that very recent court rulings tend to be the best support, while others rank searches based on credibility and prominence.
+
+In all the instances, there is nuance, which means some level of unique configuration and intelligence is required. This should comfort those fearful of waking up one day and having their job completely replaced by a robot. More realistically, the robot will allow them to be 10x more productive and allocate more time to higher-leverage tasks.
+
+We’ve seen this story before; each time we experience new technological breakthroughs, we learn that people’s jobs are changed but not altogether replaced.
+
+From a 1928 issue of The New York Times:
+
+In all these different instances, the end result and goal for a user remains the same.
+
+A perfect “Siri forwork” would help reduce complexity and guide the end user to more quickly arrive at the information they need to make a decision or take an action. In the enterprise, even slight improvements can mean huge revenue increases and significant cost savings.
+
+But, let’s take it a step further and explore how thisartificiallyintelligentassistantatworkevolves and becomes moreintelligentover time.
+
+The previous example highlighted the ability to look up information. What about having the AI suggest and take actions for you?
+
+Say the VP of Sales at Microsoft needs to forecast her revenue for the quarter. We’ll call her Samantha. To do that, Samantha would need to have accurate close dates of when she thinks her deals will close. In this hypothetical example, she has five deals that are supposed to closein one week, but the AI knows there has been no communication with those accounts for more than four months because it understands your email, social media and phone communications.
+
+Is it likely those deals will close? Probably not.
+
+Therefore, the AI would know to automatically change the close dates for forecasting purposes, or make a suggestion like, “Hey Samantha, I noticed a discrepancy between your sales activity and your proposed close dates. Would you like me to change the close date for you?”
+
+Voilà. The dates are closed and Samantha doesn’t look like a slouch at the next forecast meeting.
+
+It’s easy to see how facilitating this level of workflow is entirely too complex for an out-of-the-box plug-and-play solution like Amazon’s Echo or Apple’s Siri. It requires a greater degree of configuration that is specific to the organization and which becomes smarter over time based on user input and data.
+
+To facilitate this there needs to be a middle layer or conversational run-time between the various systems and data sets in an organization so an end user can quickly and easily do their job without having to open a new app or piece of software.
+
+As Satya Nadella, CEO of Microsoftputs it: “In software development terms A.I. is becoming a third ‘run time ’— the next platform.”
+
+I couldn’t agree more.
+
+So what does this all mean?
+
+The next frontier of software development and technological breakthrough will happen in a conversational run-time. I call it “conversational CRM.” It is the inevitable evolution of the technology stack for the enterprise.
+
+This next era will occur on top of conversational interfaces because it is whereworkis already getting done and everyone already knows how to use them. This is why we are building on messaging platforms like Slack, which will serve as the conduit to facilitate enhanced intelligence atwork.
+
+Moreover, there will be even more companies, big and small, that crop up to help power some of the underlying technology that makes this intelligence and conversational workflow happen.
+
+For example, Google recently unveiledTensorFlow, which is an “open source software library for numerical computation using data flow graphs.” To break that down in English, this sort of technology enables computers to do computations that more closely mirror the way human brains think and make decisions. Some people call this “deep neural networks.”
+
+There’s also IBM Watson, which provided the backbone for ROSS mentioned above.
+
+Within the realm of smaller startups, you have companies likeAPI.aiand Wit.ai,which was recently acquired by Facebook, that have built a simple natural language processing API that helps developers turn speech and text into actionable data. This sort of technology will help bring that “Siri-like” experience to many other applications and experiences.
+
+So as computers continue to shrink, and eventually shift from robots the size of soda cans to no interface at all, the next area of innovation will live in the messaging context (voice, text, email). Interactions between humans and machines will occur in the same place, side by side, all working toward a common goal of driving businesses forward.
+
+The lines will get blurry, and, just like the movies, we, too, will have our own R2-D2 or Jarvis atwork —no matter where “work” may be.
+
+There was once a vision to put a personal computer in every home. Many companies today have a similar vision, which is putting a personal AIassistantforworkin everyone’shands. Think of it as a “Jarvis forWork” of sorts, except Jarvis will have cousins that each specialize in their own, unique vertical.

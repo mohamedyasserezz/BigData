@@ -1,0 +1,19 @@
+CNN’s new Alexa skill delivers an audio version of its TV news, 5 minutes after broadcast
+
+CNN islaunchinga new app for Amazon’s Alexa platform and its line of Echo speakers that will connect the news network’s TV network more directly with the voice-based computing platform. With the new CNN skill, the company is making its on-air content available to Echo owners and other Alexa-powered devices as quickly as five minutes after it has been broadcast on television, the company claims.
+
+After enabling the skill, you can ask Alexa about any news story CNN is currently covering, like the U.S. elections or other breaking news. These news stories will then be delivered to Alexa device owners by CNN’s anchors, including Anderson Cooper, Wolf Blitzer, and John King, and others.
+
+To use the new CNN skill, you have to first switch it on by saying “Alexa, enable CNN skill.” Afterwards, you can ask for specific updates by using the command, “Alexa, Ask CNN for the…” followed by the news you want to hear.
+
+For example, say “…the latest on the election,” or “…the latest on Clinton,” or more generally, just “…the latest news.”
+
+This represents the first time that CNN has offered a standalone skill for Alexa devices and Echo, though the news organization’s content is already integrated with Alexa’s built-in Flash Briefing as well as through the TuneIn audio service.
+
+However, what really makes this skill interesting is that CNN isn’t actually developing custom content for Echo – it’s pulling content from its live streaming platform,CNNgo, in real-time. The company says it’s curating the best segments from its daily and weekly programs, like AC360, New Day, Fareed Zakaria and State of the Union, for use in the Alexa skill.
+
+All this content is tagged and curated by the same team that produces CNNgo, which is itself a part of the 40-person video programming team that works across multiple platforms. And it’s able to port this audio content to Alexa because of the technical infrastructure it already developed over the past three years to power CNNgo.
+
+CNN declined to say how many people are today listening to its network’s news on Alexa, across TuneIn and the Flash Briefing, combined. The company would only say that’ it’s “very happy” with where it is now, and that CNN is one of the more popular news sources in the built-in Flash Briefing skill.
+
+The new skill is live now on all Alexa-powered devices, including Amazon’s connected speakers, Amazon Echo, Amazon Tap, and Echo Dot.

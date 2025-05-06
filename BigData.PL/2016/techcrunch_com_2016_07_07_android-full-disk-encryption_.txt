@@ -1,0 +1,57 @@
+Qualcomm says it issued patch for Android encryption flaw over a year ago
+
+Cracking encryption is a topic of perpetual fascination.
+
+Congress has made several efforts to legislate it. The FBI tried to force Apple to do it. New messaging apps constantly debut with claims about strong encryption, and controversy bubbles when they neglect it.
+
+So when a researcher discovered a flaw in Android’s full disk encryption scheme last week that allowed for decryption of the device, it seemed at first like a revolutionary security discovery.
+
+But chipmaker Qualcomm now claims it told Google about the vulnerabilities in November 2014 and February 2015. Google issued patches in January and May of this year — meaning that the company may have known about the problem for over a year before rolling out fixes.
+
+The patches came as the Federal Trade Commission and the Federal Communications Commission announced parallel investigations into the pace at which Google and other smartphone makers roll out security updates. The FCCcitedtheStagefright bugin Android as one of the security vulnerabilities that inspired the investigations.
+
+With so much national focus on strong encryption, the year-long delay seems like a glaring problem. But to understand why users didn’t get their hands on a fix until May, you have to understand a little bit about the complex supply chain that goes into Android devices and Android’s approach to securing its massive ecosystem.
+
+Android is an open-source platform, so lots of smartphone manufacturers are building devices to run Android. Those devices are in turn made up of lots of different components from manufacturers of chips, cameras and other hardware.
+
+Android frequently gets compared to its largest competitor, the iPhone, but the comparison is a bit sticky. iPhone is essentially just one device (okay, maybe a dozen devices if you want to count every 5s, 6 and 6 Plus as unique). While Apple tightly controls its manufacturing, Android is on thousands of devices over which Google has little to no control.
+
+This diverse supply chain is what led to the exploit used to break Android’s full disk encryption.
+
+Security researcher Gal Beniamini discovered several issues in the implementation of Android’sfull disk encryptionthat would allow an attacker to decrypt an Android device with a Qualcomm chip. The decryption exploit involves a complicated process, but the heart of the issue is that Android devices powered by Qualcomm chips store their encryption keys in software rather than in hardware.
+
+The hardware-software distinction became a key part ofApple’s fight with the FBIover unlocking an iPhone used by the San Bernardino shooter. Because Apple stores encryption keys in hardware, investigators couldn’t circumvent some of the features the company uses to protect its devices, like time delays between password attempts and a device wipe after 10 incorrect password attempts.
+
+If Apple stored the keys in software, investigators might have been able to pull the keys off the device and run password guesses more quickly and without the risk of losing all the data on the phone. (Although it’s possible that the FBI did find a way to do this anyway, the method it used to break into the phone has not been made public.)
+
+In ablog postpublished last week, Beniamini outlined the process of breaking Android’s full disk encryption; he exploited several weaknesses in Qualcomm’s security to pull the encryption keys off an Android device.
+
+Beniamini disclosed the issues to Android and Qualcomm and was paid through Google’s bug bounty program for his work.
+
+“We appreciate the researcher’s findings and paid him for his work through our Vulnerability Rewards Program. We rolled out patches for these issues earlier this year,” a Google spokesperson said. Google issuedtwopatchesearlier this year to fix the problems Beniamini discovered.
+
+But according to Qualcomm, Google should have known about the vulnerability since 2014. A Qualcomm spokesperson said the company discovered the same vulnerabilities exploited by Beniamini as early as August 2014 and made patches available to Google in November 2014 and February 2015.
+
+Still, the vulnerability lingered in Android long enough for Beniamini to discover his exploit. (Google didn’t comment on the exact timeline that lead up to the patches.)
+
+“Apparently, even though they fixed the issue internally, OEMs [Original Equipment Manufacturers] did not apply the fix (perhaps they forgot or simply missed it),” Beniamini told TechCrunch in a message.
+
+It’s not totally clear why Android’s fix was so delayed. It’s possible that the Android team didn’t realize how the Qualcomm flaw could be exploited in Android until Beniamini pointed it out. It’s also possible that the slow fix was the result of Android’s approach to security. With Android running on such a vast ecosystem of devices, its security team has never taken a black-and-white approach.
+
+“The model of good and bad—white and black—that the security community prescribes?” Android’s security lead Adrian Ludwig toldWiredlast month. “It’s going to be all black unless we accept that there are going to be shades of gray.”
+
+Rather than taking Apple’s hardware-centric approach to security, Android’s attitude fits with Google’s reputation as a leader in artificial intelligence: Android wants to use machine learning to advance security. With so many different Android devices on the market, security flaws are bound to slip through the cracks — so Android wants to improve detection of those flaws rather than eliminate them altogether.
+
+But Beniamini notes that there are some scenarios in which his exploit may still work: if the device hasn’t been updated; if the chip manufacturer is compelled to cooperate with law enforcement; or if the device can be downgraded. None of the circumstances that enable the exploit are simple, and most of them require prolonged access to the device, meaning the average user isn’t likely at risk. Still, Duo Securityestimatedthat a large number of devices may still be vulnerable because they haven’t received patches.
+
+“The issues themselves reveal that OEMs can be coerced to create signed firmware images that enable the attack I outlined without needing a vulnerability,” Beniamini explained. “There are more complicated scenarios where devices that have been patched can still be attacked (if they can be down-graded to a previous, vulnerable, firmware version).”
+
+Because Google doesn’t tightly control the manufacturing of every component in Android devices, vulnerabilities can be inadvertently introduced at the OEM level. As Beniamini points out, this could result in a scenario where a law enforcement agency can pressure a manufacturer to crack a device without going through Google.
+
+“I think just having closer integration with manufacturers could help prevent such issues in the future. It’s not ideal, but I think all parties involved are doing a very good job, it’s just a matter of co-ordinating expectations,” Beniamini said.
+
+Android’s openness is what makes it unique and, in some cases, desirable. “Of course, if Google were to manufacture their own hardware, it would be easier, but I think that solution can’t scale. My opinion is that Android is the operating system that it is partially because of the wide selection of devices and OEMs,” he added.
+
+Android is working to improve security with its OEMs. Yesterday, Androidannounceda series of updates for Nexus devices that address critical security issues across several OEMs. Researchers discovered a number of privilege vulnerabilities in hardware supplied by Qualcomm, NVIDIA and MediaTek, which Android is patching. But until it finds a way to move patches to its broad array of devices more quickly, Android will lag behind on security.
+
+Editor’s note: We have updated the headline to clarify that Qualcomm simply reported the Android vulnerability a year ago and did not say explicitly say that Google left a flaw unpatched. We apologize for the confusion.

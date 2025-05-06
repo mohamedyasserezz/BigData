@@ -1,0 +1,47 @@
+Twitter quietly launches tags to location feeds with Foursquare
+
+Finally Twitter will let you see when tweets are from a specific place, like a business, sports stadium, or music festival. After a reader tipped us off, Twitter confirmed to TechCrunch it’s now rolling out this new location feature to all iOS users, with other platforms coming later.
+
+Finally Twitter will let you see when tweets are from a specific place, like a business, sports stadium, or music festival. After a reader tipped us off, Twitter confirmed to TechCrunch it’s now rolling out this new location feature to all iOS users, with other platforms coming later.
+
+Location feeds linked to from these tags could inspire people to tweet more while out and about, fuel Moments about particular places, and improve Twitter’s ad targeting data. Better location functionality could be an important building block for Twitter’s future products and revenue potential.
+
+[Update: What’s new is that specific location tags now appear in the main Timeline and on profiles, clueing people in to the fact there are location feeds to browse. The Foursquare branding and design of the location feeds is new too. Despite confirming the news to us previously, Twitter says a basic version of location feeds was available before, but there was no way to tell a tweet was tagged with a location unless you opened its detail view. We’ve updated the article to reflect this.]
+
+Foursquare is powering precise place identification for the Twitter feature. In exchange it gets prominent branding, links back, and the ability to improve its own database.
+
+Foursquare CEO Jeff Glueck tells us “We’re excited about this integration, which has been getting deeper over time. Location can provide important context for any moment, and our location intelligence is best-in-class. We’re proud to support Twitter in the US, Canada, Brazil and many other geographies. Stay tuned for more to come.”
+
+Following renewed interest in location from Twitter’s role tracking the Ferguson #blacklivesmatter unrest,Business Insiderreported in late 2014 Twitter and Foursquare would strike a partnership. The two officiallyannouncedthe deal in March 2015, and previewed a prototype of the feature.
+
+But underscoring Twitter’s trouble getting products out the door, specific location tags appearing in the timeline is only rolling out now, 15 months later. TechCrunch reader Carlos Gil (TheCarlosGil on Snapchat), gave us the heads up.
+
+Now when you tag a specific location (powered by Foursquare), it will be visible in the main Twitter Timeline.  If you click through to the tweet detail and then click the location, you’ll be brought to a location feed with a map up top. There you’ll see a tab of tweets from that place or city, with the option to check tab dedicated to media such as photo from there.
+
+Getting to these location feeds can be a bit tricky. City-level location, which many users leave on all the time, still isn’t shown on tweets in the main timeline or profiles. You have to click into a tweet’s detail view to see it, then click on the city name to see its feed.
+
+Specific location tags will show up inside tweets on mobile as “- at [the location]”. But tapping them brings up a un-stylized list of recent tweets also tagged there. You’ll have to tap into one of the tweet’s detail view and then on the location in blue beneath the tweet to pull up the new Foursquare location feed.
+
+Twitter Location Feeds: From a tweet detail page/embed, tap the tag of a specific place to see the Foursquare-branded location feed
+
+— Josh Constine 📶🔥 (@JoshConstine)June 24, 2016
+
+There’s currently no easy way to Twitter Search for location feeds. Typing in “San Francisco, CA” or “TechCrunch HQ” doesn’t give you the option to check these feeds, though that seems like a sensible next step. Twitter already does this when you type a name, showing an option to follow that account above search results of tweets mentioning the name. It could do the same for places.
+
+In some countries where Foursquare data is thin,Twitter is using Yelp’s placesdatabase. One is issue is that places are not geofenced, so unfortunately anyone can say they’re anywhere and spam the new location feeds.
+
+Location feeds accessed through the new tags will unlock the ability for users anywhere to immerse themselves in a place. You could drop into a sporting event, see what people think about a museum, find the favorite dish from a restaurant, check the vibe at a local park, virtually visit a concert, or even become engulfed in a protest.
+
+Instead of browsing a noisy hashtag with tweets from everywhere, you can discover what people on the ground are saying. Tis ability to immerse yourself in an unfiltered sea of information has always been one of the best parts of Twitter.
+
+Twitter has long struggled to get more users tweeting, not just lurking. Now suddenly there’s a better reason to tweet if you tag a place and city.
+
+Thanks to people browsing the new location feeds, your tweets could get extra visibility. With many Twitter users lacking a large audience and feeling like they’re yelling into the void, the chance to amplify their voices through location feeds could incentivize people to pull out their phones and tweet when they’re somewhere interesting.
+
+Eventually, getting more place-tagged tweets could help Twitter create location-specific Moments. Right now, Moments are heavy on the Internet’s commentary about real-world events and light on primary sources actually at the events. Done right, these curated location Moments could compete with Snapchat’s Live Stories to take you inside water cooler-worthy events.
+
+You probably don’t want to follow Chipotle, but might be happy to check in there on Twitter. This gives the company a way to improve its interest-based ad targeting even if you don’t interact with a place or business’ tweets.
+
+As Twitter lacks much volunteered biographical data, it needs what information it can get on what you care about. Location could help target you with hyperlocal advertising for nearby businesses, or marketing about similar places.
+
+Twitter has always been obsessed with hosting the what and the when. Here it’s finally getting a grip on where.

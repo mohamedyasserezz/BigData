@@ -1,0 +1,21 @@
+Facebook partners with Google, others to launch a new JavaScript package manager
+
+Facebook todaylaunchedYarn,a new package manager for JavaScript. If you’ve every worked with JavaScript and Node.js, chances are that you’ve used thenpm package managerto find and reuse existing code (or maybe publish your own libraries, too). At Facebook’s scale, though, npm didn’t quite work for the company, though, and it started developing an opinionated alternative for its internal use. Over time, the team got help from developers at Google, Exponent and Tilde.
+
+It’s worth stressing that Yarn, which promises to even give developers that don’t work at Facebook’s scale a major performance boost, still uses the npm registry and is essentially a drop-in replacement for the npm client.
+
+As Facebook software engineer Sebastian McKenzie and engineering manager Tom Occhino told me, the company had developed lots of internal infrastructure around npm. “But over time, as we bolted new pieces to this, we realized it didn’t work so well,” McKenzie said. So instead of hacking around npm’s limitations, Facebook decided to rewrite it from scratch.
+
+Given that npm works well for millions of developers, why did it not work for Facebook? The team told me there were a couple of fundamental problems with npm for the company’s workflow. Performance was one of those, so Yarn does a better job at caching files locally, which ensures it doesn’t have to hit the network quiet as often as before. Yarn is also able to parallelize some of its operations, which in turn speeds up the install process for new modules, too.
+
+At Facebook, npm slowed down the company’s continuous integration workflow. Early on, engineers had to run the ubiquitous “npm install” command manually, but that didn’t work in the sandboxed and isolated continuous integration environments the company uses for security and reliability reasons. Checking all of the modules into a repository was also inefficient because even a minor change could easily trigger massive commits. React Native, for example, currently has 68 dependencies (which themselves have their own dependencies). Once you’ve unspooled all of those, you end up with 121,358 files. That’s obviously not very efficient.
+
+Another issue Facebook ran into was that npm is, by design, nondeterministic — yet Facebook’s engineers needed a consistent and reliable system for their DevOps workflow. Depending on the modules you have already installed, thenode_modulesdirectory that is part of every project can look very different depending on which developer’s machine you’re looking at. Yarn uses lockfiles and a deterministic install algorithm to create consistent file structures across machines.
+
+By default, npm also allows developers who write these packages to execute other code that’s needed as part of the install process. That creates security issues, though, so Yarn does not have this feature.
+
+As McKenzie told me, the team tried to “fix” npm for its purposes, but at the end of the day, many of the features of the existing npm client that didn’t work for Facebook were not bugs, but features. Occhino added that many of the features the team wanted to build were not the kind of changes that the npm community would’ve likely accepted.
+
+Npm, the commercial entity that backs the npm project, is obviously aware of this new project, but given that its business model revolves more around the registry than the client, there is far less conflict here than one would initially think.
+
+Yarn is now available on GitHub. Given that a number of other companies contributed to the project, the team decided to host it outside of Facebook’s own repository. It’s not clear what the governance model for Yarn will look like, though. “Our hope is that all of the folks who have been contributing to it so far can help us figure that out,” Occhino said.

@@ -1,0 +1,27 @@
+The carrot and stick of data breaches
+
+Data breaches are on the rise. Just recently we sawnew reportsconfirming Yahoo! suffered another large, embarrassing breach (this time of more than one billion user accounts in August 2013). And the story continues to unfold around whether or not Russia breached United States cyber systems in hopes of influencing the 2016 presidential election. It seems like putting personal information in a website today feels a bit like getting into a car 50 years ago — with minimal seatbelts, no airbags and no testing, you just had to hope to avoid a crash.
+
+In the same vein, we just have to hope to avoid a data breach. Would we continue to go to a store that let strangers shop with our credit cards? Go to a psychiatrist who disclosed our confessed affairs in public? Work for a company that allowed anyone to access our confidential personnel records? Not a chance.
+
+Yet, Target had 40 million customers’ credit card numbers stolen and put on sale online; Ashley Madison’s records on 37 million married users and their personal affairs were taken and published online; and the US Office of Personnel Management had all records on past, present and potential employees stolen.
+
+The impact of these breaches is profound and lasting. Some users lost time and money protecting from theft  their finances and their identity; others saw marriages dissolve and even committed suicide; and others may be subject to blackmail and exposure.
+
+All were let down by the very organizations they had entrusted with their personal information.
+
+Even worse,according to one study, 93 percent of data breaches could have been prevented. Systems are not always protected from known bugs; employees are not always trained to avoid phishing emails targeting their password. And when a breach does occur, steps were not taken to avoid harm, such as minimizing the amount of data stored and encrypting the data that was kept.
+
+Theresulting cost to organizations is significant; up to US$500 billion per year in costs for the organization, including a strong reputational effect.
+
+So, the question is, in some ways, a simple one: Why are many organizations not taking at least the basic steps to protect the personal information they hold? Is it because organizations do not bear all the costs of the data breach? Is it because there is not enough benefit for organizations in better protecting their users’ data?
+
+The answer to both questions is yes.
+
+Take the problem of password security as an example. Many of us have hundreds of accounts, and human nature being what it is, may use the same user id and password repeatedly, providing easy pickings for an attacker who learns one of our passwords. A password manager can help protect us by generating and remembering unique passwords for each of our accounts.
+
+Before putting all your eggs in the same basket, however, consider this: Many password managers include strict limitations on their own liability in their terms and conditions, as low as zero. A breach, exposing all passwords, which may be personal as well as professional, may create far more in losses, which the password manager would not have to cover. At the same time, while there is little doubt that password managers still have an incentive to invest in security, how can customers determine which password managers are the safest?
+
+To increase the incentives to invest in security requires a carrot and a stick. First, the stick — organizations holding data should bear more of the cost of a breach, so that they have increased accountability. At the same time, there should also be a carrot — organizations should be able to provide credible security signals to the market so they can benefit from their increased security levels.
+
+Cars today are much safer than 50 years ago. They have been tested for safety, they have been rated, the car companies and suppliers understand the liability they may face if there is a defect and they have a marketing incentive to compete on providing new safety features. This has evolved through increased awareness and demand, government standards and independent assessments. We expect this for our precious personal cargo; we should expect no less for our precious personal information.

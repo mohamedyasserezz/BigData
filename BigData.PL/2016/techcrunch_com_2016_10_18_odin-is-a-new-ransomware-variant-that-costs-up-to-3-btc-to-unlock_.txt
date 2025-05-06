@@ -1,0 +1,9 @@
+Odin is a new ransomware variant that costs up to 3 BTC to unlock
+
+A variant of the Zepto ransomware exploit – essentially a powerful system for encrypting everything on your hard drive until you supply an expensive key – is making the rounds and can cost you up to 3 bitcoins to unlock.
+
+The new variant, called Odin, sends a message with the subject line like “Re: Documents Requested,” “FW:Documents Requested,” or “Updated invoice” with a random number. The payload is an executable file that downloads the encryptor and a small obfuscated file that serves no clear purpose. Write the folks atOpenDNS:
+
+The most interesting thing about this ransomware is that it seems to be an update to the powerful Ransomware product Zepto which in itself is a version of the Locky ransomware system. Like versions of Linux, there are branches of ransomware that exist in the wild that are still uncategorized and are just a little bit more powerful than the last.
+
+The worst part is that Odin users charge up to three bitcoin to unlock their victims’ computers or about $1,800. They recommend using services like LocalBitcoins to convert your cash, further besmirching the already besmirched name of cryptocurrencies and ensuring that when you think of bitcoin you’ll think of ransomware.

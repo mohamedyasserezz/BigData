@@ -1,0 +1,29 @@
+Microsoft gives Salesforce a shove with new Dynamics 365 integrated cloud platform
+
+Microsoftannounced its intention today to combine the Dynamics CRM and ERP products into an integrated platform on top of which it is hoping third parties will build applications.
+
+It’s a complex announcement with many pieces, but Dynamics 365 shares more than its name withOffice 365, it also has deep connections with the cloud office suite, as well as to Cortana voice intelligence and PowerBI data visualization — all of it built on a common platform and data model.
+
+In order to break down this rather elaborate system into more manageable chunks, the company is offering discrete applications on top of the platform including specific apps for finance, field service, sales, operations, marketing, project service automation and customer service.
+
+In addition, the company announced it’s launching the obligatory app store it’s calling Microsoft AppSource where developers can build and distribute their own apps, giving them a complete solution. The store will open with over 200 apps developed by early adopters.
+
+What Microsoft offers here that even Salesforce can’t is the ability to marry process and productivity, taking advantage of its strengths (just as Salesforce’s recent moves tobuy DemandwareandSteelBrickplay to theirs).
+
+While the two approaches may seem similar on the surface — providing a broad platform play to build business-focused apps — there is a difference in Microsoft’s strategy, according to Rebecca Wettemann, vice president at Nucleus Research.
+
+“The [advantage] of Microsoft’s approach is that it’s not just CRM data, but ERP data and the Office productivity suite unified, enabling users to access just the data and functions they need — be they from inventory, a customer record or e-mail — to get work done,” she explained.
+
+This is distinctly different from Salesforce, which takes a customer-centered approach, says Brent Leary, a partner at CRM Essentials.
+
+“At Salesforce Analyst Day earlier this year they were quite emphatic that they weren’t going to buy a traditional ERP app because there are way more things to focus on and go deeper in with customer engagement and customer experience,” Leary explained.
+
+Perhaps Microsoft decided to go back to the drawing board and try a completely different approach because it’s just not doing all that well in the CRM market. Microsoft’s CRM marketshare was a dismal 4.3 percent, accordingto the most recent data from Gartner. That leaves them in fourth place looking up at Oracle and SAP with Salesforce at the top of the heap with almost 20 percent of the market.
+
+That said, R Ray Wang, founder and principal analyst at Constellation Research says there is still room to maneuver in this market. “In the enterprise, Salesforce is winning, but in mid-to-large businesses, Dynamics is still king,” he said. Plus he says he’s seeing some clients shy away from Salesforce because of rising costs. Regardless, Microsoft still has a long way to go before it catches Oracle in third place with 7.8 percent.
+
+It’s worth noting that Microsoft will continue to maintain separate on-prem versions of both the CRM and ERP products, which they try to spin as an advantage giving customers what they want while helping them get to the cloud a step at time as they are ready. In reality, it’s got to be a challenge for Microsoft to maintain two code bases.
+
+It’s also important to remember that while competitors,Microsoft and Salesforce are also partners, making them classic “frenemies.” There were rumors last year thatMicrosoft was interesting in buying Salesforce, but that never materialized. Last Fall,Satya Nadella appeared on stageat Salesforce’s Dreamforce conference. It’s a complex relationship.
+
+Today’s announcement is actually a preview of coming attractions. The new platform won’t be available until some time in the fall. Make no mistake though, this is a big move by Microsoft to take advantage of the pieces it has purposefully built over the last several years  — Office 365, Cortana and PowerBI — and to try to advance some of its enterprise applications in the never-ending battle for marketshare — even if it means shoving a frenemy.

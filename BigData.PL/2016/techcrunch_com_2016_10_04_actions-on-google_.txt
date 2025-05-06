@@ -1,0 +1,11 @@
+Actions on Google opens Assistant to third-party developers
+
+On the face of it,today’s big Google eventin San Francisco was all about hardware, but let’s be real here – there’s always something bigger going on with Google below the shiny glass and metal exterior.
+
+Much of the event was devoted to the company’s play for the smart home – a direct shot Amazon’s Echo/Alexa offerings, and to a lesser extent (for now, at least), Apple Home. From a hardware perspective, the company will be taking that first step forward via its simply namedGoogle Homedevice.
+
+The real secret sauce, however isGoogle Assistant, the Alexa/Siri-like AI offering at the heart of most of the product announced today, Pixel included. And much like Alexa, the company is set to open its smart helper to third-parties. The company’s answer to Amazon’s Skills is the ironically passively namedActions on Google.
+
+The program will open Assistant’s SDK to developers starting this December. With it, devs will be able to create two kinds of actions – Direct and Conversation. The former entails simple requests like home automation, while the latter is more of a back and forth interaction utilizing API.ai.
+
+The open system will also make it possible to utilize Assistant on third-party hardware, from home-brewed devices to large-scale consumer electronics. Interested parties cansign up for the serviceand updates through Google starting today.

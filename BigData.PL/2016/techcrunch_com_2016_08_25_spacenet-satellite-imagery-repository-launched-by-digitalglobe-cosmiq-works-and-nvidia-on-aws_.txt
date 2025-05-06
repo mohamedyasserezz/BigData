@@ -1,0 +1,21 @@
+SpaceNet satellite imagery repository launched by DigitalGlobe, CosmiQ Works and NVIDIA on AWS
+
+A consortium of companies, includingDigitalGlobe,CosmiQ WorksandNVIDIA, today launchedSpaceNet, an open-data initiative aimed at improving image analysis tools. The data are being hosted by Amazon Web Services as part of a partnership.
+
+With an increase in the number of CubeSats, high-resolution satellites and drones of every shape and size, we have accumulated petabytes of imaging data that can be processed with analytics to solve myriad problems.
+
+DigitalGlobe, which operates imaging satellites, has built out partnerships with companies like Facebook to target rural villages with internet access using photography as a guide. Satellite imaging has also been analyzed to help the Navy find Somali pirates, crowdsource the hunt for Malaysia Airlines flight 370 and identify deforestation zones.
+
+Just this week,CrowdAI graced the stageof Y Combinator Demo Days with a platform that promises to leverage computer vision and machine learning to automatically annotate and quantify data hidden within satellite photography.
+
+The satellite imagery in the SpaceNet database will be able to serve as training data for new generations of intelligent analytics tools for deconstructing large quantities of imagery and quickly generating insights.
+
+As our processing capabilities grow in availability, and our algorithms and statistical tools become more efficient, so-called “training” time for machine learning is decreasing. As a result, for the first time, it’s becoming possible to work through massive, complex data sets in hours and minutes instead of years and months.
+
+The consortium of companies that contributed to SpaceNet want to make sure that the imaging data exists to take advantage of advancements in computer vision and machine learning. As of now, DigitalGlobe is offering 200,000 building footprints across the city of Rio de Janeiro, at no cost. The curated set will eventually include more than 60 million labeled high-resolution images.
+
+In addition to DigitalGlobe, NVIDIA and CosmiQ Works are also supporting the rollout of SpaceNet. NVIDIA is going to provide researchers and developers with tools to take advantage of the new images. CosmiQ Works is affiliated withIn-Q-Tel, the venture capital arm of the CIA, and helps the intelligence community onboard tools from startups focused on space. Both the public and private sector have a lot to gain from better post-capture analysis tools to help automate processes previously relegated to crowdsourcing or painstaking individual search.
+
+“Innovation of AI algorithms is fueled by large, high-quality, labeled datasets like SpaceNet and flexible, open-source machine learning tools,” said Dr. Jon Barker, Solutions Architect at NVIDIA. “Researchers will be able to create high-impact geospatial applications by applying our DIGITS deep learning tool to the SpaceNet data corpus.”
+
+The project and its name are a play off of ImageNet, a similar database of images created to help catalyze early advancements in computer vision.

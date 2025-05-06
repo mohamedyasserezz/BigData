@@ -1,0 +1,41 @@
+The human role in a bot-dominated future
+
+Imagine a world where bots are ubiquitous… a world where nearly every online interaction takes place with a Siri, Alexa, Cortana or some soon-to-be-named artificial being. Here, banking is a breeze, as a customer service bot can quickly extrapolate your banking preferences from your online search history. In this world, your cupboards and refrigerator are always full, because your groceries are reordered every week automatically, based on consumption data.
+
+But in such a world, where bots provide the ultimate convenience of a futuristic lifestyle, is there still room for human help?
+
+At the most recent F8 Conference, Facebook CEO Mark Zuckerberg made somebold claimsabout a bot’s place in the future of commerce. Using 1-800-Flowers as an example, Zuckerberg argued that by integrating bot chats into the sales process, a customer would never have to dial 1-800-Flowers or speak to a human again. In theory, using chat with bot support can expedite the buyer-seller interaction and bring the consumer closer to a sale. While Zuckerberg may be correct to say that customers much prefer chat interaction to using the phone, we can’t necessarily leap to the conclusion that their preference includes chatting with a robot.
+
+Human interaction is, and has always been, vital to a high-quality customer experience. Even Facebook supports this claim, as they’ve partnered with several companies to help with the hand-off from bot to human during live chats. Facebook COO, Sheryl Sandberg, has publicly stated that, “…we simply don’t have the technology yet to actually imagine that a bot could replace humans in the sales process.”
+
+So, what is the human role in a bot-dominated future?
+
+Remember that frustration every time you call customer service and end up with an automated voice (IVR)? That’s where we are with bot chats. And guess what happens every time a bot fails? You end up talking to a real, live customer service representative — back to square one.
+
+There’s no doubt we’ve come a long way with artificial intelligence, but for the strides we’ve made, we’re still a ways away from the creation of a bot that can successfully pass all facets of theTuring test. While a bot can handle a good portion of a conversation with a human, there will undoubtedly be times when it gets confused and fails (especially when it comes to switching from one topic/area to another). In these situations, your bot chat gets handed over to a human to complete your engagement.
+
+Even with all the buzz today, the bot is nothing new. In the late 1990s, when AOL Instant Messenger was all the rage, I remember chatting withSmarterChild. At its core, SmarterChild was essentially an early version of a bot. You could chat with it about school, life or sports — much like you would do with your real friends. SmarterChild worked great (most of the time) and seemed quite sophisticated. Though, in fairness, a majority of the chats were conducted by twelve-year-olds.
+
+So, the real question today is whether the bot is really going to define the future, or are we all just falling for the same hype we did when we were ‘tweens?
+
+To answer this question, it’s important to understand the technology behind a bot. While we’ve seen tremendous strides and advances in computer technology and software development over the last 20 years, bot technology has essentially been siloed into two categories: those based on simple logic trees (SLT) and those that rely on natural language processing (NLP) or machine learning (ML).
+
+An SLT bot relies on the traditional logic tree to gather information and redirect the user. For example, an insurance bot may ask several questions to determine which policy is ideal for you. If your answers match what the bot has anticipated, the experience will be seamless. However, if your answers stray from those predicted and stored in the bot database, you might hit a dead-end. If you’re lucky, you’ll be handed off to a human to complete the interaction. If you’re not, you’ll end up in bot purgatory. Most bot technology today relies on SLT.
+
+An NLP and machine learning (ML) bot is meant to function more like a real conversationalist by picking up keywords and phrases from the user’s input to gather information, instead of requiring direct answers to specific questions. In theory, this category of bot sounds like the better option. Examples of this type of bot are Apple’s Siri and Amazon’s Alexa.
+
+While Siri and Alexa are pretty good at simple functions like giving the weather or telling a joke, they still have a ways to go with complex functions and lengthy commands.
+
+Regardless of whether you are engaging with an SLT or NLP bot, the likelihood of ending up needing to speak to a real person is incredibly high. SLT bots often lack the complexity we expect from technology today, while we are unable to fully utilize the technology necessary for NLP or ML bots at this point.
+
+Fortunately, customers enjoy the efficiency of interacting with a real person. While the trend is moving away from long, formal conversations, customers still expect the same quality of service from chat, whether live or bot. In fact, a recent study by American Express found that78 percent of customershave bailed on a transaction or not made an intended purchase because of a poor service experience. The same study also found that 67 percent of customers have hung up the phone out of frustration when they could not talk to a real person. In most of those cases, the customer was forced to endure a dialogue with a bot.
+
+We will likely see a two-stage industry transition as we attempt to adopt bot technology into daily transactions. The first will be very human interaction-intensive, as real people will be required to take over every interaction that a bot fails to handle. The risk of a poor customer experience is simply too much for top brands to stomach, so staffing their engagement centers to take over when the bot fails will be a very real side effect.
+
+It seems inevitable that at some point ML and NLP will allow for a bot to become more intelligent, to a point where the failure rate is minimal. At that time, it isn’t unreasonable to believe that a majority of interactions will take place on bot channels. Will the bot channels stand alone, or will they be integrated into the existing channel landscape? If they exist on their own, what happens to the other channels?
+
+In a scenario where the preferred customer engagement moves away from a brand’s website and onto a bot channel like Facebook Messenger, a question of scale is presented. Even with low failure rates, the number of human hand-offs will most likely grow because of the sheer volume of engagements that will likely occur.
+
+It’s more than likely that we’ll see exponential adoption of bot technology, but human capital for engagement is both inevitable and necessary for sales and customer support. Depending on the lifetime value of the customer and the margin of the product, the specific value of an engagement with a real person can be very significant.
+
+As we prepare for a more automated future, it’s important to not forget about the role of the human in engagement. And, as great as R2-D2 was in “A New Hope,” we all must remember that there was ahumanin that bot.

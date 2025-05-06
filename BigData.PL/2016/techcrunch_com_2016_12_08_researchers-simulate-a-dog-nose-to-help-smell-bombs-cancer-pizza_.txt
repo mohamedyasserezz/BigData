@@ -1,0 +1,15 @@
+Researchers simulate a dog nose to help smell bombs, cancer, pizza
+
+Like most of us, researchers at the National Institute of Standards and Technology had always wondered why dogs had wet noses. Further, they wondered why they could sense vapors better, allowing them to sniff out bombs, drugs, and even cancer. They tested the second question by 3D printing a dog’s nose including the “nasal vestibule, external nose, lower jaw, and about 10 cm of the snout.”
+
+The sensor – which looks just like a dog’s nose – shows why and how a dog can sniff things out so easily. The researchers discovered that the nose was able to sense odors up to 10cm away while still taking in air around the snout, a fact that means first that dogs can localize odors directionally and, further, they can grab odors that would be inaccessible to other animals.
+
+“During the expiratory phase of sniffing, turbulent air jets vectored ventrally and laterally entrain odorant vapor from tens of centimeters ahead of the nose that would otherwise be inaccessible to the dog,” the researchers write. “During the inspiratory phase of sniffing each nostril draws in air from all directions, including odorant-laden air that was drawn toward the nose during expiration.”
+
+Why is this important? While technological biomimicry is fairly normal these days something so basic as sniffing hasn’t been quite brought over from the natural realm to the digital. By creating an artificial dog nose researchers can take advantage of the dog’s amazing sense of smell. In fact when the researchers added a dog-like schnoz to a vapor sensor they were about to pick up eighteen times more vapor.
+
+“Active sniffing using the bioinspired inlet clearly extends the aerodynamic reach of the detector inlet, enabling odorant acquisition over a much larger distance compared with continuously drawing in air,” they write. With the exception of when the vapor source is located directly beneath the inlet, this simple modification significantly enhances the performance of the device.”
+
+You can read the entireNature article hereand figure out why a dog’s noseis wet here. Sadly NIST stopped their research at nose shape and vapor inhalation and refrained from figuring out why dogs are such good boys and girls aren’t you so cute atta boy atta boy you are a cutie aren’t you!
+
+[youtube=https://www.youtube.com/watch?v=Eb1aWTqwDr0]

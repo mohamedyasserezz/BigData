@@ -1,0 +1,13 @@
+White House’s DJ Patil wants to disrupt the criminal justice system with data
+
+At TechCrunch Disrupt SF 2016 today, I had a chance to chat with DJ Patil, the nation’s deputy chief technology officer for data policy and chief data scientist. We talked about what he’s been up to at the White House lately, the criminal justice system and a recently-launched data justice initiative.
+
+Since the launch of the White House’s Police Data Initiativein May 2015, 75 police jurisdictions have collectively released more than 150 data sets about policing, including information around the use of force and traffic stops.
+
+“The trick here and one of the big problems we don’t talk about is the technical challenges that police departments even face from collecting and opening the data,” Patil told me. “They don’t have a top-tier technologist who’s helping them think about these problems. So what we’re doing is creating community practices that help them see how to do this and make it replicable across the 18,000 jurisdictions that we have.”
+
+In June,the Obama Administration launched the Data-Driven Justice Initiativeto help ensure people with mental health issues, who have committed low-level crimes, don’t get locked up in the criminal justice system simply because they can’t afford a bond.
+
+“You can go through the (criminal justice) system and find all sorts of like, ‘why is that there?’ The key to that is how we use this data,” Patil said. “One of ones we’re doing is saying, ‘police departments, criminal justice system, move that data over to the health system.’ Just pass the spreadsheet over. See how many people are what we call ‘high utilizers’ of the system and get them into the appropriate care they need on the mental health side.”
+
+Check out the video interview above to hear more of Patil’s thoughts about data-driven justice and criminal justice reform.

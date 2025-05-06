@@ -1,0 +1,23 @@
+Gamer chat app Discord hits 25 million users, can now be used in developers’ own games
+
+Jason Citron, who previously founded and sold the early mobile social gaming network OpenFeint,returned to gaming startups with the launch of Discordin May 2015. Thisvoice and text chat app for gamers— a challenger to incumbents like Skype and Teamspeak — has since grown to 25 million registered users, who are sending 100 million messages per day across its platform. Now, Discord is launching its next product:GameBridge, a set of tools that bring voice and text chat to the games themselves.
+
+Available as a free SDK, GameBridge offers a new, simpler way to power voice and text in-game, while also allowing for community interactions.
+
+It lets players engage with one another by doing things like posting their game replays, loops and achievements in a text channel. Meanwhile, developer tools let them manage their gaming channels. For example, GameBridge can add or remove players for channels, it knows who’s in a voice channel and when people are talking, and it can control the local audio settings like mute and volume.
+
+Developers can also use the product to expand their community outside of their game through its support for custom bots for guild chat, and they can build up a community for a pre-launch title by bringing testers into early builds to chat about their experiences and give feedback.
+
+Developers, of course, can pick whichever features they want to use when they integrate GameBridge into their own applications.
+
+“Before GameBridge, devs had three options when it came to voice and text chat — build their own tools — which is time and resource draining; license some other tech — generally limited in what they will then actually have access to and what they can customize; or do nothing,” explains Discord CMO Eros Resmini. “GameBridge gives them a really strong fourth option.”
+
+The SDK, like Discord’s chat app, is free. That’s because Discord is currently a company that’s funded through investment. Eventually, the plan is to sell cosmetic items (think stickers or sound packs, e.g.) to generate revenue, but it’s not at that point yet.
+
+Thanks to this nature of being a free product, Discord has seen strong growth in recent months.
+
+Its number of registered users doubled in the last five months to 25 million, and it crossed 2.3 million weekly peak concurrent users, as well. Discord also has several community servers with more than 20,000 active members. One even has more than 40,000 members, in fact.
+
+At launch, 10 developers and publishers have already signed up to integrate GameBridge into their properties, including Nexon/Boss Key Productions with their first-person shooter game LawBreakers, Trion’s Atlas Reactor and several other indie developers.
+
+The SDK is now in private beta. Interested developers can sign up to test it out on the Discord websitehere. In the long term, the plan is to open it up to all.

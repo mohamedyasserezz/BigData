@@ -1,0 +1,13 @@
+AWS lets developers execute Lambda functions on edge locations with Lambda@Edge
+
+Today, Amazon said it was rolling out a tool called Lambda@Edge, that allows developers to execute Lambda functions at edge locations on a content delivery network, cutting down the time needed to make a process.
+
+With Lambda@Edge, developers can do processing at the edge locations without having to go back to the original source. These functions are able to inspect HTTP requests and take actions on them. By literally cutting the physical distance that information has to flow through in order to execute parts of an application, developers will be able to improve the performance of their applications running with AWS Lambda. Amazon unveiled the new product at AWS:reInvent today.
+
+“Can we do something about the speed of light, no,” Amazon.com CTO Werner Vogels said. “But Maybe we can cut the path in half.”
+
+With Lambda, developers can simply write and run code without having to provision or manage servers. And yesterday, Amazon said it would bring its Lambda compute tools thatallow it to work on IoT devices. Traditionally, developers would write it in Python, but C# is also now available. This moves the computation to the edge of the network to avoid the latency that a round trip between the device and the cloud would incur.
+
+All this is important because, as users start to demand more performance and efficiency, ever millisecond between operations is going to count. By skipping the round trip, users will be able to feel more comfortable that the services they’re tapping into their devices in a more real time fashion. It could also remove the cost of bandwidth that companies — or their users — might incur in order to complete those round trips.
+
+It also looks like this is available with CloudFront, which means that Amazon is once again rolling up a bunch of functions within a whole operational suite for developers. That, too, helps give Amazon a competitive advantage over its rivals.

@@ -1,0 +1,19 @@
+FiveAI picks up $2.7M to build AI-driven software for autonomous vehicles
+
+FiveAIis a rather ambitious U.K. startup that’s building AI-driven software to help accelerate the development of autonomous vehicles. The young company wants to apply the latest developments in computer vision and AI/machine learning to enable self-driving cars to do more of the heavy-lifting in regards to understanding and navigating their immediate environment.
+
+To enable FiveAI to continue building out its autonomous vehicle software stack and grow its team of AI/machine learning and other software engineers, the startup has raised $2.7 million in funding. The round was led byAmadeus Capital Partnerswith participation from Spring Partners andNotion Capital.
+
+Specifically, FiveAI wants to use AI/machine learning and computer vision to remove the need for highly detailed “prior 3D mapping” of environments, which I’m told is the predominant method used in autonomous vehicle navigation.
+
+Instead, the startup’s software stack, coupled with an array of onboard sensors/cameras, aims to enable autonomous vehicles to safely and accurately navigate even complex urban environments with much simpler maps. Should it work properly, this approach would have a major advantage of negating the need to survey, maintain and share detailed 3D maps of the world’s roads.
+
+Given the size of the task, however, it might be fair to conclude that $2.7 million won’t get FiveAI very far and is dwarfed by the amount of money Silicon Valley, such as Google and reportedly Apple, is pumping into autonomous vehicles.
+
+That’s a point I put to Stan Boland, co-founder and CEO of FiveAI, who told me that the startup could have raised a larger round but wanted to balance the runway required to reach the first stage of development with the current valuation of the company.
+
+The plan, he says, is to get to simulatorandsupervised road testing before raising a larger round. The startup will then begin working with vehicle OEMs to develop production-ready software.
+
+On that note, Boland has a track record shipping huge software projects, albeit this is his first AI or auto-industry startup. He’s previously co-founded and was CEO of two European tech/comms success stories: Element 14 (acquired by Broadcom) and Icera (acquired by NVIDIA). And, for those of you who like me are old enough to know a little about the history of the British computer industry, he was also CEO of computer-maker Acorn.
+
+Meanwhile, Boland is talking up the U.K. and FiveAI’s potential as an autonomous vehicle leader. He says the country has the software engineer talent and AI expertise required, not least because of the high standard of AI/machine learning teaching at leading universities, such as Oxford, Cambridge and Imperial. He also thinks the U.K. is well-positioned to develop a regulatory environment to help accelerate the development of self-driving cars.

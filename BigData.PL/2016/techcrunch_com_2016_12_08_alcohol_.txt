@@ -1,0 +1,19 @@
+Joe Lonsdale pours $4.55M for alcohol IoT startup Nectar
+
+Nationally, bars today lose billions of dollars from improperly managed alcohol inventory. These losses add up quickly as a result of oversized pours, spills and even theft.
+
+Nectar, a stealth connected-device startup operating out of a Palo Alto dentist’s office (of all places), just locked down a $4.55 million seed funding round from the likes ofJoe Lonsdale(8VC + Palantir),Lior Susan(Eclipse Ventures) and the founding family ofModelo Group(brewery) to complete development on a new IoT solution for the hospitality and consumer packaged goods industries.
+
+I took a trip down to the company’s headquarters to speak with founders, Aayush Phumbhra and Prabhanjan “PJ” Gurumohan, and to do a bit of preliminary due diligence on the company’s product. The Nectar team is keeping the details of their product under wraps for the time being, so I can’t say much, but the problem they’re looking to solve is well-defined and their approach is both scientific and minimally invasive — two words rarely seen together.
+
+The value of a bottle of liquor to a bar is not just the cost of the bottle, it’s the potential revenue the bottle presents. If a bar pays $40 for a 750 ml bottle of Laphroaig, and a serving is 44 ml, each bottle contains roughly 17 servings. At a 5x markup, that bottle is worth $200 in potential revenue and $160 in profit. Large bars can stock hundreds of bottles of alcohol, so even a few heavy-handed pours can represent thousands of dollars in lost money.
+
+Solutions on the market today require bar owners to do a lot of work that’s not part of their existing daily routines. Some systems use expensive weights to track inventory, while others have tried to leverage smartphone cameras, but the bottom line is that these solutions are invasive.
+
+This is not to mention the millions of dollars that bars spend on their own to duct tape this problem with employee redundancy. All those people in the chart to the right exist, in part, to manage large liquor inventories. Some are in charge of cataloging what alcohol needs to be ordered, others spend their days looking for trends in consumption and some even exist just to look over the shoulder of others doing the stocking to make sure no supply goes missing.
+
+The device Nectar is building serves a purpose similar to that of anAmazon Dash. The goal is to reduce the barriers standing in the way of the ordering process and to provide an efficient means of collecting real-time inventory data. The key difference between Nectar and Dash is the complexity of what’s being tracked. A Tide Dash button requires a human in the loop to determine when laundry detergent is running low. Nectar aims to track inventory with a combination of hardware and software in addition to building out seamless order fulfillment.
+
+Phumbhra and Gurumohan came to Nectar with previous startup experience. Phumbhra previously co-founded the now publicly traded textbook rental companyChegg, while Gurumohan ledGenwito support publishers. Both co-founders say that they drink minimally in their free time and the two even built a robotic pourer to pass off the responsibility of making drinks.
+
+In the short-run, Nectar will help bars and restaurants regain control of their overwhelming liquor supply needs, but, in the long-run, the data generated from moving a traditionally pen and paper process online will be critical for industry-wide forecasting. Unlike online shopping, you cannot (yet) consume a fine glass of Cognac off your Facebook News Feed. For distillers, applying predictive analytics to consumption data is a tantalizing proposition. We’ll look for more from these guys soon.

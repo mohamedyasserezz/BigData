@@ -1,0 +1,35 @@
+Review: Google’s Daydream View VR headset is comfy and uncomplicated
+
+Just when bigly recent events made you think you must be living in a dream, Google introduces a virtual reality product called Daydream.
+
+Google’s overarching, extensive VR platform is at last here in the form of the $79 Daydream View headset. It’s simple, (relatively) stylish and a big ‘ole step forward from Google Cardboard.
+
+The Daydream View has an unconventional look. I have more sweaters that remind me of the headset than I do gadgets.
+
+The soft, flexible fabric-covered design of the Daydream View is a philosophical decision just as much as a design choice. Google doesn’t want VR to be “a gadget,” the company wants the headset to be an extension of your phone’s capabilities. The View feels the least alien of any VR headset I’ve tried from a design standpoint and it’s also proven to be one of the more comfortable ones.
+
+The headset is comfortable when it’s resting on your face. The weight is comparable to other mobile headsets even with the somewhat chunky Pixel XL loaded in. Speaking of which, there are not ports, no plug-ins, no cords on the View. The headset is more of a phone case than it is a VR device, at least in the terms we’ve been used to. You really just pop the phone into the headset and everything else is taken care of.
+
+One design quirk that proved to be quite annoying for me was the width of the View itself. For all the flexibility its fabric design presented, I found that it was a bit too rigid when it came to either side allowing light leakage from light sources directly behind you. Annoying, but not a deal breaker by any means.
+
+A very notable inclusion with the View is the Daydream controller which brings a much deeper level of interaction to the system. Like the headset, it’s a 3 degree-of-freedom piece of hardware meaning that it’s place in space can’t be tracked, but it can sense movement thanks to an onboard accelerometer and gyroscope. The device really operates in a strikingly similar manner to a Nintendo Wiimote. It also has a clickable touchpad which gives potential for even more complex controls in addition to a couple buttons. Battery life has been great on the controller so far in that I haven’t had to recharge it after several days of heavy use, it supposedly lasts quite a while.
+
+At the end of the day, the View is just a headset while Daydream is a highly critical VR ecosystem. Mobile VR was always going to be Google’s to lose in the beginning because of the ubiquity of Android. It seems this fact has not been lost on the big G, which has spent the past couple years moving conservatively as its waited for phone hardware to begin the catch-up before introducing anything past Cardboard.
+
+If you’ve tried Cardboard, which Google first showed off in June 2014, it likely didn’t take you too long to realize its limitations. Other than the fact that cardboard as a building material doesn’t really lead to the most comfortable experience, the experience was jittery enough that any demo lasting longer than 10 minutes often left one with a wicked headache. The reason for this was the head-tracking latency which ensured that the phone display didn’t quite keep up with head movements.
+
+In Android Nougat, Google has employed some software wizardry that brings Daydream-ready phones head-tracking latency below 20ms which is about as good as it needs to be to keep VR comfortable for longer stretches of time. My longest sessions ended because of the phone overheating, not from any sort of queasiness.
+
+A big part of the Daydream system is its emphasis on being frictionless. Unlock your phone and drop it in the headset. You’re done. Navigate to an app that looks cool and click download. You’re good. Everything is always just a couple of steps or button clicks away and that design ethos of quick access is baked into this system and the hardware it couples with.
+
+When it comes to comparing the Daydream View against other products, high-end VR headsets like the HTC Vive, Oculus Rift and PS VR are not the systems to be stacking up against. The more fair comparison is against the host of other slot-in mobile VR headsets, including most popularly the Samsung Gear VR.
+
+With Daydream in view, the limitations of Oculus and their current mobile strategy come into full view. The Gear VR, which is made by Oculus in partnership with Samsung, has sold over a million headsets but there was a self-imposed limit to its success based on the fact that you needed a Samsung Galaxy or Note phone to use it. Now this wasn’t an imminent problem until that whole Note 7 debacle took place and Oculus realized the dangers of carrying all one’s eggs in a single basket. Moving forward it’s unclear what Oculus’s mobile strategy is or what it can become. Samsung will likely soon start Daydream-certifying its newer phones and as more and more phone manufacturers adopt OLED screens and other mobile VR ingredients, the advantages are sure to stack up for Daydream.
+
+It perhaps would have been nice if Google could have hit a slightly lower price point than $79 for the View. It’s a great headset certainly, and plenty of them will be given out for free, but in terms of approachability a $49 headset that was priced more in line with a high-end phone case would have garnered much more attention. For nearly all consumers, VR is something geeky that they’ve heard about and might be curious to try but have been discouraged from examining more closely because of the high costs. $79 is fine, but it doesn’t quite hit the no-brainer price point that something like Chromecast had when it launched at $35.
+
+Daydream is not the end for VR at Google. Amidst rumors galore that the company is pursuing new product categories like all-in-one headsets, there’s some very interesting potential for a world offered by a smartphone incorporating Daydream compatibility alongside Tango’s host of live object mapping and positional tracking. The tracking tech which launched officially this month is being built beneath the larger virtual reality team at Google. These pieces of technology are soon to merge quickly enough but we’re likely waiting on mobile compute power to catch up with ambitions.
+
+Right now, the Daydream View is a niche product for gadgeteers that took the pixel plunge, but soon every Android manufacturer will begin pushing their high-end “Daydream-ready” devices and the View will be set to work with any of them. Google managed to build a durable, stylish mobile VR headset that prioritizes simplicity over all else.
+
+The only limitations of the Daydream View are its own ambitions. In many ways Google is still following the lead of Oculus and HTC in terms of interface design and user experience and there is still a lot of room for Google to grow VR from a hardware and sensor perspective, but it’s clear that with Daydream the company is looking to take its time and gather the attention of the Android herd without being too loud about it.

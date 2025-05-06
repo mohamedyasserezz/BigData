@@ -1,0 +1,21 @@
+Dear Air Canada: a systems analysis of a comically colossal cascading failure
+
+I’ll be blunt; I’m here to vent my fury. On your behalf, dear reader! Honest. When a corporation gets things terribly wrong, those of us with platforms need to turn our wrath upon them. It’s the only feedback that actually matters. But there’s a larger issue here: the way that poisonously rigid corporate software, when it meets reality, can cause whole companies to plummet into death spirals.
+
+I’m a software developer. I understand that systems have bugs. I can even, if I squint and furrow my brow alot, vaguely envision the kind of bug that might cause an airline to send luggage to Korea three days after its owner traveled from San Francisco to his final destination of Toronto, and two days after he, forewarned, expressly told them not to do so. (Yes, that’s actually what happened. Details in tweetstorm triptychhere,hereandhere.)
+
+But the real measure of a company, or any organization, is not whether things go wrong. Things always go wrong. The real measure is how they react. Do you quickly recognize it, adapt and mitigate? Or do you set off a staggering cascade of miscommunication, noncommunication, denial, buck-passing and further errors? More importantly: Which of those two approaches do your systems and software incentivize?
+
+…Yeah, I think you already know where I’m going here.
+
+It has become fashionable to offer customers support via Twitter. Or, in Air Canada’s case, “support,” which consisted of telling me to call a phone number that emanated a busy signal (abusy signal!I haven’t heard that inyears!) rather than ringing; then, a phone number for people who informed me they were completely unable to help me; then, endless vague assurances that furthered neither helped the situation nor my understanding of it, along with admonishments that they were not really able to assist me further.
+
+There was a web site, of course, which, 30 minutes before the luggage was finally (and miraculously) delivered, it still said “TRACING IN PROGRESS – CHECK BACK LATER.” There was a brief period, midway through the saga, when it actually reported useful information instead, but this was soon corrected. When I did reach phone support, after hours on hold, they called the wrong airports, sent emails and then failed to check the replies, and lied to me that they would call me back.
+
+Once I got word that my bag had been sent to Korea — for literally no reason whatsoever — I achieved a kind of Ron Burgundy-esque satori in which I wasn’t even mad any more; I was actually kind of impressed by the dysfunctionality of a system that could fail so totally in so many different ways. I don’t know the inner workings of Air Canada’s “support” software and systems, obviously. But I can tell you from the outside that it robs its employees of any context, nuance, understanding or actual authority. The failure mode of a poisonous system is a death-spiral feedback loop that quickly infects your employees, until they become amoral bureaucrats.
+
+Any business process, no matter how automated, always has to leave space for human judgement, nuance and contextual understanding. (Yes, even bitcoin.) In the last ditch this sometimes becomes, de facto, a developer running a handwritten custom SQL statement. Speaking as the guy who has been that developer, I can assure you this is not a good solution. And the more your process interacts with the scary, unpredictable real world, the more space — and the more human beings — you need.
+
+The alternative is what happened here; people who vaguely wanted to help — inasmuch as the oppressive nihilism of their automated professional constraints had left them with any sympathy at all — but were completely unable to do so, because their software and business processes gave them no tools, no levers with which they might do their job in any meaningful way.
+
+Big businesses don’t have to be this way. (United Airlines, on whose codeshared ticket I flew the Air Canada flight, was terrific about all this from start to finish.) But when they are, in my experience, it tends to be symptomatic of a rot that started at the top.

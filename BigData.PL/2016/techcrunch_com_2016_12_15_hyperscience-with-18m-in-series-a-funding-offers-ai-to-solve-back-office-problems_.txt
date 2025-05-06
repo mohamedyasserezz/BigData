@@ -1,0 +1,23 @@
+HyperScience, with $18m in Series A funding, offers AI to solve back-office problems
+
+You can’t swing a bag of cats these days without hitting a company that’s working on AI.
+
+The latest, HyperScience, is today coming out of stealth for the first time. Based in New York city, HyperScience is bringing relatively general-purpose AI to market to solve the problem of data processing for its clients.
+
+Sometimes, problems aren’t actually too complex to solve, but rather too boring. That’s where HyperScience comes in.
+
+These back-office problems often cost large sums of money to complete, but mostly involve loads of data entry. So HyperScience is bringing three new products to market to help large companies and government organizations speed up this type of work.
+
+The first product, HS Forms, is built to replace the tedious task of data-entry. HS Forms lets any organization process large amounts of forms, and the AI can instantly turn hand-written forms or applications into digital text. For example, HSForms can take a hand-written Wal-Mart application and extract the fields and field values with better-than-human accuracy.
+
+HS FreeForm is actually the opposite to HS Forms, with a much broader use-case. Instead of introducing the same form over and over again for digitization (like a job application), HS Freeform can not only understand the text of an email or letter, but it’s meaning. This way, large organizations can filter through dense amounts of hand-written or typed content and designate the right department and work flow for that particular document.
+
+The last product HyperScience is bringing to market is called HS Evaluate. Evaluate is meant for organizations that do complex claims or applications approval, like an insurance company or government. HS Evaluate can parse through the language of a claim and determine relevant information from irrelevant information, highlighting all the content that is need-to-know based on the organization’s pre-set requirements.
+
+For example, many doctors offices and insurance providers ask about prior surgeries when evaluating a claim. Surgeries like tonsillectomies and appendectomies are pretty standard procedures that usually make little difference in determining the validity of a claim. HS Evaluate can understand that and relay it to the employees at an organization without them laying a finger.
+
+The underlying technology here is based on computer vision and image recognition. In a demo, HyperScience CEO Peter Brodsky showed me how HyperScience can not only identify an image of a dog, but can also understand that a sliver of an image of a dog (cropped down to just the ear) is still a dog.
+
+HyperScience has also raised new funding. FirstMark Capital and Felicis Ventures have put $18 million in Series A funding into the startup, joining existing investors such as Third Kind Ventures, AME Cloud Ventures, Slow Ventures, Box Group, and Acequia Capital.
+
+You can check out HyperScience for yourself righthere.

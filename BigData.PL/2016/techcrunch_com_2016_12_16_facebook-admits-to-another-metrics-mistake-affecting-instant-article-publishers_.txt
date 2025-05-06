@@ -1,0 +1,23 @@
+Facebook admits to another metrics mistake affecting Instant Article publishers
+
+For a metrics powered company, Facebook is pretty bad at metrics. The company justannouncedits third metrics-related issue in the past two months with today’s reveal that it also experienced problems providing accurate numbers to publishers on its Instant Articles platform.
+
+Instant Articles are those thatfast-loading, interactive articlesthat can be loaded directly in the Facebook News Feed. Theformatis today used by a large number of the major media publishers, including The WSJ, BBC News, The Huffington Post, The NYT, NBC News, BuzzFeed, and many others.
+
+According to a report from Facebook this morning, the company uncovered an issue that affected a “small group” of Instant Articles publishers, causing those numbers to be underreported. The problem was brought to Facebook’s attention by comScore, as it was tied to a comScore product.
+
+Facebook says the issue only affected those publishers who were using its “legacy comScore integration” who also supported HTTPS on their websites. From September 20th, 2016 to November 30th, 2016, this caused Instant Articles’ iPhone traffic numbers to be underreported. iPad and Android traffic was not affected, it said.
+
+The company claims it has now fixed the issue and is working with comScore to provide updated estimates to the group of partners who were impacted.
+
+According toa report from The WSJ, the error impacted less than 1% of the traffic for the majority of the affected publishers. But it was more of a concern for larger publishers, as some saw their traffic undercounted by as much as 10% to 20%. One site even saw traffic off by around 30%, a source told The WSJ.
+
+While Facebook’s announcement tries to downplay the problem by noting only a “small” number of partners were impacted, that list had some big names. The WSJ report says affected publishers included Washington Post, BuzzFeed, Mic, Entrepreneur, Foreign Policy, Inverse, PopSugar and Variety.
+
+This is the third sizable error in metrics that Facebook has uncovered in the past 60 days. Earlier this month, it announcedissues with metrics affecting ad reach, streaming reactions, and like and share counts.In November,it found problemswith video and Page metrics, referrals in Analytics for Apps, as well as – again – Instant Articles. That time, Facebook was over-reporting average time spent on Instant Articles by between 7 percent and 8 percent. It had been doing so since August of 2015, it said.
+
+And prior to all three of these more recent reports, Facebook came clean back in Septemberabout problems with its video metricsthat had led to significantly inflated average video view times.
+
+Independently, none of the problems are the sort of thing that can’t be worked through, but taken as whole, it’s likely these issues could shake marketers’ trust in Facebook’s system. And that could impact Facebook ad revenue.
+
+Additionally, the problems speak to how Facebook seems to have positioned itself more as a technology company that prioritizes shipping new products and innovations over what’s happening on the backend. Mark Zuckerberg has also stated repeatedly, in response to complaints about its role in spreading fake news,that Facebook is not a media company.With metrics issues like these, that seems to be true.

@@ -1,0 +1,49 @@
+Understanding debt
+
+Without leverage, the private equity sector as we know it wouldn’t exist. While some tech execs and VCs recoil at the thought of using leverage, the truth is that the Innovation Economy has accessed debt for more than 35 years.
+
+Airbnb,Uber,DidiandSpotifyhave all made headlines of late by raising enormous debt rounds. This has served to stimulate the thinking of first-time founders in particular:“When is debt the right funding solution and should my company use it?”
+
+Let me assuage any fears. When starting a company and seeking that first customer, you’re not meant to take on a $1 billion debt financing (and the accompanying terms/bells and whistles) anytime soon. But for mid- to later-stage firms, the macro backdrop has never been better to prudently utilize leverage.
+
+“Debt” elicits a broad range of emotions amongst VCs and tech company founders. The “venture debt” moniker is often misunderstood and miscategorized. Simply put, “venture,” in this case, suggests that the capital is being used to fund growth and burn; “debt,” obviously, telegraphs that the capital comes at a substantial discount to the cost of equity and will have to be repaid eventually.
+
+As a product, venture debt is not to be confused with senior secured debt provided by commercial banks, which is primarily secured by the cash raised in a recent equity round that’s already on the balance sheet. If used in the right situations and for the right kinds of companies, venture debt is the perfect tool for raising growth capital while avoiding dilution and maximizing the potential financial return of the equity already invested in the business. It is also a very timely tool to finance acquisitions.
+
+Many growth-stage software companies have used debt very effectively;Square, Xactly Software, Maxymiser andBoxall used forms of growth debt to minimize dilution on their path to IPO or exit. So let’s answer the first big question…
+
+Venture debt takes on many different forms, just like venture capital. There are the $1 million to $4 million debt financings for early-stage companies that usually come during (or immediately after) a larger equity round; the structure may also have a feature that allows it to convert to equity.
+
+One complaint about this form of debt is that some lenders are lending to companies solely based on which VCs are involved, rather than the underlying business itself.  If you’ve got the Tier 1 VCs on your cap table, you’re far more likely to get debt (and probably more than you think) than if you have Tier 3 investors or have bootstrapped your business. I agree withFred Wilson’s opinion in these cases: A company should take on debt based on its own market opportunity and creditworthiness, not based on who their VCs are.
+
+There are also senior lines of credit, which are secured by accounts receivable, minimum cash levels or the expectation that your VC investors will continue to support the burn in your business. These structures take many forms, and sometimes masquerade as monthly recurring revenue (MRR) lines, based upon the training three months of your business’ recurring revenue. To some, an MRR line looks the same as a non-amortizing term loan — something that bank inspectors traditionally frown upon.
+
+In a separate-but-related category is “growth debt,” which can be $5 million-$50 million debt financings that are truly growth capital for late-stage companies with revenue in the $10 million-$100 million range.
+
+The answer lies in the sector which you call home, the nature and quality of your revenue and the scale of your business.
+
+If you’re a consumer application without a monetized business plan, debt is not a good fit. Nor is debt a great fit, in my opinion, for earlier-stage companies with less than a few million dollars of revenue.
+
+Debt becomes a much better fit when you have a high degree of visibility into your revenue forecasts, have proven product-market fit and have achieved scale (as a rule of thumb, generally more than $5 million in annual recurring revenue). As a result of this, debt generally ends being a better fit for SaaS, enterprise and B2B technology and software companies. That said, if your business plan doesn’t pan out, whether you financed it completely with equity or a combination of equity and debt, the business will still hit the wall.
+
+I moved to Silicon Valley just under a year ago and in that short time the tone of funding conversations has changed dramatically. Eighteen months ago, Valley headlines quantified the number of newly minted “unicorns.” Today, the chatter is about how venture capital has become tougher to come by and the contraction of valuations for all but the most cherished of unicorns.
+
+These are not unsubstantiated claims, either (check outthischart from Mattermark). The multiple on revenue upon which public SaaS businesses are valued (a proxy for what the private markets price off of) has nearly been cut in half since early 2014.
+
+That means that the dilution that founders, employees and current investors face raising equity today will be higher than expected, even for those businesses that are “shooting the lights out.” Many companies that raised equity 12-24 months ago and are back in market are likely to face a flat or decreased valuation, even if they grew the business.
+
+For example, if a company with $10 million ARR raised capital 24 months ago at 8x ARR, they were worth around $80 million and would have had to sell 12.5 percent of the company to receive that $10 million. Now they have $20 million ARR, but valuations are ~4x ARR, the business is still only worth $80 million… despite doubling its ARR. No one likes a “down round,” particularly when things are going well.
+
+This scenario is one where growth debt is a powerful tool. Whether you delay or even skip an equity financing altogether, this form of capital provides your business the financial runway required to wait for more favorable equity valuations, without suffering anywhere close to the same amount of dilution.
+
+As you’d see in an equity financing, with its ratchets and liquidation preferences, there are many components to a debt deal: term of the facility, whether the principal amortizes or not, interest rate, warrant coverage and what kind of covenants come along with it. And even that gets confusing, as some covenants are transparent and discussed up-front, while others are of the sneaky-hidden type, such as sudden amortization triggers, material adverse change (MAC) or “investor abandonment” clauses.
+
+If you have no existing debt and you’re securing a line of credit or senior loan, expect single-digit interest rates. These facilities are fairly cheap and carry lower (or no) warrant coverage. They will also have more restrictive rules around the use of capital, and be prepared for the available portion of the line to be lower than your cash on hand.
+
+If you’re seeking a larger amount of debt, or a subordinated facility (as in a senior bank line combined with a junior venture debt tranche), you can expect all-in cost of the junior debt to be low double-digit with higher warrant coverage. In general, you should be able to attract more capital this way (we see anywhere from 25-75 percent of annual recurring revenue, for example). The structure will certainly be more flexible and longer interest-only periods.
+
+In either case, your cost of capital is substantially lower than the 40-plus percent IRR that equity investors seek, with none of the same board roles or budget approval rights that you’d universally see via an equity term sheet.
+
+Equity-based venture capital is the most flexible and patient form of capital to start and scale a company, along with the strategic help that comes from a good VC. In the later stages, however, growth debt can be an incredibly impactful, lower-cost source of growth capital.
+
+Did I mention it will help you preserve ownership in your company, as well? When you do sell your unicorn for $1 billion, which is of course inevitable, the difference in saving yourself even just a few percentage points in ownership is tens of millions more in proceeds for you and your employees. Given that, debt is worth spending the time to understand.

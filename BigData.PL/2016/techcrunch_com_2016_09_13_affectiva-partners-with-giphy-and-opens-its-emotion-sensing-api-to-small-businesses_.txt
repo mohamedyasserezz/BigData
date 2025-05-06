@@ -1,0 +1,11 @@
+Affectiva partners with Giphy and opens its emotion-sensing API to small businesses
+
+Affectiva CEO Rana el Kaliouby made a pair of announcements at TechCrunch Disrupt today that should bring the company’s emotion-detecting systems to quite a few new people. First, the Affdex SDK and APIs are now free to any company that learns less than a million dollars a year.
+
+These are Affectiva’s emotional analytics platforms — you can build it into your chat app so that it can check the sentiment of your users while they reply to a chatbot, or get complementary data to a survey by watching whether the user is confused by a question. If think you can find a way to make it work and you’re not making a ton of money, it’s at least worth taking a peek at.
+
+Affectiva’s second announcement is perhaps a little closer to home. “Apparently people share a billion gifs a day,” said el Kaliouby on stage (with a hard “g,” by the way). “So we’ve partnered with Giphy. and we’re auto-encoding all their content for emotions.”
+
+Obviously plenty of gifs are already tagged #angry or #confused or #crying but what Affective is doing is analyzing the faces of each human in the animation and adding any emotions it detects to the Giphy metadata. You’ll be able to search for Kim Kardashian gifs by doing a duckface, even. Isn’t the future great?
+
+Look for more details on the updates at theAffectiva blogand in updates to your Giphy apps and bots.

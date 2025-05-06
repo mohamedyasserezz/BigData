@@ -1,0 +1,25 @@
+Brave, the browser with built-in ad blocking, tries again on Android
+
+Brave, thenew web browser companyco-founded by former Mozilla CEO Brendan Eich, has launched a do-over on Android. Theearlier versionof the ad-blocking browser utilized an odd user interface involving floating link bubbles, which didn’t sit well with all users. The design made the experience more cumbersome and confusing, when what people really wanted was an alternative browser with built-in ad-blocking along with privacy and security protections.
+
+Now Brave is out witha different version of its Android browserthat offers a more traditional, tabbed browser experience.
+
+For those unfamiliar, Brave,backed by $4.5 million in funding, is largely an interesting experiment in moving away from the ad-supported business model of today’s web, and the privacy concerns it accompanies.
+
+Its web browser offers a variety of security and safety features, like support for encrypted data traffic via HTTPS Everywhere, fingerprinting shields, phishing protection, malware filtering and script blocking, in addition to its ability to block cookies and ads. Instead of ads, the company proposes that users directly fund their favorite sites through built-in micropayments. (This featurelaunched into beta on the desktop last month.)
+
+But on Android, where users were at least interested enough to download the app 800,000 times, Brave’s interface turned off many early adopters.
+
+When you clicked a link in the app, Brave would load the link in the background. It did this by way of floating “link bubbles” that hovered over top of the page you were currently visiting. You could then drag these bubbles around on the screen to do things like share them, close them, or post to Facebook, for example.
+
+The browser’s design was based on LinkBubble, an app Brave acquired last year.
+
+Though that app had a number of downloads, many of those who newly arrived to Brave on Android have been complaining about this user interface for weeks.
+
+Said one, “I hate the link bubble UI soooooo much…please, Brave, switch to a regular browser UI.” Another suggested making the feature optional. “It’s difficult to get to the bottom or top of the window with it, and it interferes with other apps,” they said.
+
+To address these complaints, the company has now launched an alternative version of the browser that ditches these link bubbles entirely.
+
+While the old app will remain, the new version is a more typical tab-based browser, and will also support private, incognito tabs, like Google Chrome. It will still carry the same feature set as the older app, including the privacy and security protections, like its pop-up and ad blockers, tracking protection, Https Everywhere, script blockers, third-party cookie blockers, and more. The app is also optimized to save battery and data consumption, as before. (The one exception is fingerprinting protection, which will hit a later release.)
+
+The new version of Brave is availableon Google Playand theAmazon Appstore. The company doesn’t have any current plans to pull the original at this time, they said.

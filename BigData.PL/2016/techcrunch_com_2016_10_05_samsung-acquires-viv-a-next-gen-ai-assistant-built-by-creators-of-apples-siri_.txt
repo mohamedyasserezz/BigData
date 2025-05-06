@@ -1,0 +1,61 @@
+Samsung acquires Viv, a next-gen AI assistant built by the creators of Apple’s Siri
+
+Samsunghas agreed to acquireViv, an AI and assistant system co-founded by Dag Kittlaus, Adam Cheyer and Chris Brigham — who created Siri, which was acquired by Apple in 2010. The three left Apple in the years after the acquisition and founded Viv in 2012. Pricing information was not available, but we’ll check around.
+
+Viv has beenbilled as a more extensible, powerful version of Siri.
+
+Viv will continue to operate as an independent company that will provide services to Samsung and its platforms.
+
+The first of two main pillars to Viv’s special sauce is its interconnected nature — other agents like Siri are only starting to allow multiple silos of information across apps and services to start talking to one another and become links in a user’s command chain. This allows more conversational and complex queries that more closely resemble how people actually talk.
+
+The second is the programmatic nature of Viv’s back-end systems. Utilizing “breakthroughs” in program synthesis, Viv says its AI is capable of writing its own code to accomplish new tasks. This “software that builds itself” is not new in many other verticals, but Viv was one of the first big splash announcements using the technique that we had seen in AI. Viv calls this “dynamic program generation,” and it allows Viv to understand the intent of the user and to create programs to handle tasks on the fly, even if it’s never heard that particular one in the past.
+
+The system was shown off in itsfirst live demo at our Disrupt NY conference earlier this year.
+
+“Instead of having to write every code instructed, you’re really just describing what you want it to do,” said Kittlaus in aninterview with me after the demo. “The whole idea of Viv is that developers can go in and build any experience that they want.”
+
+When Kittlaus left Apple, he wrote an article called “Siri Is Only The Beginning,” and later wrote that there would be a “Cambrian Explosion In AI,” enabling the technology to power many existing and new systems.
+
+Ubiquity, Kittlaus said in an interview, is the reason Viv is trundling into Samsung’s bosom. Specifically, when I asked him why Samsung, he said this:
+
+“They ship 500 million devices a year. You asked me onstage about what our real goal is, and I said ubiquity.
+
+If you take a look around what’s going on in the market these days, and our readiness to really expand on our distribution, it made perfect sense when we discovered that our visions are so completely aligned, and our assets using the core technology in this huge distribution, the opportunity that now is the right time, and Samsung’s the right partner.”
+
+Samsung, of course, has been locked in a battle with Apple over the very top shares of the smartphone sales volume market. As a single manufacturer, it is the only competitor on the planet giving them any fight (and it’s still not even close in the actual profit department). Samsung has seen its smartphone fortunes wane and then wax recently as its slumping sales recovered with two solid models. Unfortunately, those sales have been marred by a recall of the Galaxy Note 7 due to exploding batteries.
+
+Outside of that, though, Samsung has been looking at a larger struggle as it wrestles with how to take control of its own software destiny. Google is becoming more and more of a direct competitor (or at least making a sincere attempt) every day. Whether it uses Tizen or some other software package based on Android, Samsung’s future looks much brighter when it owns the hardware and what runs on the hardware than when it is beholden to Google for updates and features.
+
+“This is an acquisition that is being done by the mobile team, but we clearly see the interest across our devices,” says Samsung SVP Jacopo Lenzi in an interview. “From our perspective and from the client’s perspective, the interest and the power of this really comes from taking advantage of the Samsung scale overall, as well as the richness of the touch points we have with consumers.”
+
+Acquiring Viv gives them an honest-to-god competitor to Siri and Google’s Assistant . With the caveat, of course, that Vivhas not yet launched— making it impossible to tell how it will hold up in real-world usage just yet. As we’ve seen over the past 12 months, such an AI-powered assistant is going to be instrumental for any mobile platform. Apple’s AirPods work incredibly well with Siri given how easy they are to wear for long periods and the multiple beam-forming microphones that make input more accurate. If Samsung wants (duh) a competitor in this space, it could do worse than Viv and its team.
+
+Though this acquisition is being made by the mobile group, there are opportunities beyond that, as well. The Amazon Echo, Google’s Home and the smart home hub Apple has been preparing are good examples of how big companies are fighting tooth and nail to secure a place on your counter top. Samsung’s release explicitly calls out areas like home appliances in addition to mobile and wearables.
+
+Samsung, of course, purchased SmartThings for around $200 million back in 2014. Viv as a cross-platform agnostic brain that can power the half-dozen or so main SmartThings verticals makes a ton of sense. And Samsung has washers, refrigerators and all kinds of other home appliances. We’re seeing more and more that the “Internet of Things” play is less about the “Internet of Things” — which is a dumb term that should actually die in a fire. Instead, it’s about what happens when nearly everything isguaranteedto have some sort of microprocessor and radio and how those devices recognize you, their context and their integration into your life.
+
+“Without talking about specifics, we do see the evolution of the customer experience being enabled by AI particularly as we continue to add devices to their system, to IoT, and the importance of something like this to really allow you just to engage with technology in the way they really want to which is simple conversational interface,” says Lenzi.
+
+And those smarts are not about the devices, but about the brain that controls them. A brain that could easily be powered by Viv.
+
+I asked Kittlaus specifically about whether Samsung would be locking Viv away inside its ecosystem, to bolster its differentiation from Google’s flavors of Android or iOS.
+
+“No, definitely, the system and the philosophy are to keep this as open as we can and to add value everywhere possible. Clearly we will take full advantage of Samsung’s presence in both services and of course the devices and the integrations that are possible to make the experience really good,” he said.
+
+“The whole idea here from day one was to make this system where the word can plug into it and create this incredible new market place that as we discussed on stage really becomes the next paradigm, websites, mobile apps, and then this.
+
+“Having an open system is required to take it from today’s basic versions of what you see in the market and having people in a self-service way plug-in, in all the different markets around the world in all the different devices. Imagine how that affects the scale of what this assistant will do for you.
+
+“You are going to go from a few dozen capabilities to thousands, tens of thousands or more over the coming years. In order to do what it is to get to that scale you need to have thought through all those technology and platform choices that you’ve made. That’s what we’ve been doing for the last four years.”
+
+If, in fact, Samsung is looking to go beyond just “adding an AI assistant” to its platforms, there are plenty of signals to see here. The press release even says flat-out that “with Viv, Samsung will be able to unlock and offer new service experiences for its customers, including one that simplifies user interfaces, understands the context of the user and offers the user the most appropriate and convenient suggestions and recommendations.”
+
+That’s PR-ese, but there are tea leaves to be read.
+
+When I asked Kittlaus about what kind of differentiation Viv might bring for Samsung software across its devices he said, “one way to think about this is that you’ve got this massive app ecosystem out there. What you’ll find in this effort is that we’re going to be slowly moving over to this post-app world.”
+
+“Samsung is clearly…very well positioned to take a leadership position in that space because for this entire new space of things — vision, having this assistant everywhere, the seamless interactions and conversational commerce, and all the things that we’ve talked about — it requires a new backbone. Pull these together, we’ve got an opportunity to create critical mass around that.”
+
+Samsung’s purchase of Viv, then, might be less about creating a voice-powered assistant to rival Apple or Google’s offerings and more about a voice-poweredinterfacethat remains the same across all of its devices, from phones to home hubs to doorknobs to refrigerators. That would catapult it directly into the very, very small group of companies that are vying to use AI as a way to acquire and retain customers.
+
+If Apple, Amazon and Google can boil the frog on the concept of AI as the core operating system and devices assimple armatures attached to that core, then why can’t we, is Samsung’s question.

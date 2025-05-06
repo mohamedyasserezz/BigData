@@ -1,0 +1,21 @@
+Oh, the humanoid! Don’t worry, this blimp-bodied robot can’t crash
+
+Generally one thinks of robots as powerful, rigid things packed with motors and actuators. But they don’t have to be like that, and in fact it may be freeing for engineers to work outside those constraints. What if, for example, your robot was almost lighter than air? That’s the concept tested inthis highly buoyant prototypecreated by roboticists at UCLA.
+
+BALLU, or buoyancy assisted lightweight legged robot, is really more a proof of concept than anything, but that doesn’t make it any less fun. The idea was to challenge the fact that most robots that try to walk… well, end up falling down. What if theycouldn’tfall down? What if gravity went the other way?
+
+The result of this little thought experiment is BALLU. The helium-filled body is just barely counteracted by the spindly legs and feet. The feet hide the actuating cables that bend the legs along a single degree of freedom, with very limited force. But it’s enough to put one foot in front of the other, or hop in place and a few other little tricks.
+
+“This may be the safest walking robot that exists today,” wrote Dennis Hong, who leads theRobotics and Mechanisms Laboratoryat UCLA. RoMeLa has created other humanoid and non-humanoid robots both for experimentation and competition.
+
+BALLU won’t be doing any heavy lifting, but it would be easy enough to stick a tiny camera and solar cell on there to make a little lightweight ambulatory drone.
+
+“Think of this as a walking information device — walk around the house to check on things, take air quality samples in a plant, walking information kiosk, etc.,” wrote Hong.
+
+Changing its locomotion style (four legs instead of two, for instance, or giving a bit more power) could allow it to go faster, jump higher, even walk on water — and versions with these capabilities are all being pursued by the lab. Although in all cases there’s the risk of it blowing away.
+
+That isn’t the only new robot from RoMeLa. Yet another fundamentally different approach to locomotion is demonstrated by NABiRoS, a bow-legged bot that walks like it’s been riding a horse for too long.
+
+If you watch the whole video, however, you’ll see that this unique (if awkward-looking) configuration affords the bot many interesting advantages when getting around.
+
+These strange and hilarious robots were presented by Hong and grad student Sepehr Ghassemi at theInternational Conference on Humanoid Robotsin Cancun.

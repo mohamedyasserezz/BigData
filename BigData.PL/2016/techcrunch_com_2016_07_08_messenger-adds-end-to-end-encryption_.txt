@@ -1,0 +1,41 @@
+Facebook Messenger adds end-to-end encryption in a bid to become your primary messaging app
+
+Facebook Messenger wants to be your primary messaging app. As people become more and more concerned about security, being the best messaging app means being the most secure. That’s why Facebook is finally adding an option for users to encrypt their chats in Messenger.
+
+Messenger will begin to offer an end-to-end encryption feature to a limited test group of users today. It’s a security option that’s been a long time coming for Facebook, which has considered making end-to-end encryption available for several months. The so-called “secret conversations” debuted today will be only visible to the sender and the reader, which means Facebook can’t enable some of the chatbot and payment features that are normally a part of the Messenger experience. However, end-to-end encryption boxes out law enforcement and even Facebook itself from reading users’ chats, ensuring that their conversations remain private.
+
+Messenger has also taken steps to make sure that chats remain secure, even if a user’s device gets lost or stolen. In secret conversations, Messenger will allow users to set an expiration date for a message so that it won’t be visible in the conversation forever. Once the time runs out, the message will vanish from the devices of all users in the conversation. Facebook released technical details about its implementation of secret conversations in a white paper (PDF).
+
+Secret conversation mode will only be available on iOS and Android, not in Messenger.com, Facebook chat, or the desktop Messenger app — at least for now. Facebook’s vice president of messaging products David Marcus told TechCrunch that the addition of end-to-end encryption is intended to help Messenger become everyone’s go-to app.
+
+“We wanted to make Messenger your primary messaging platform, and while we currently were already using a lot of security to ensure that your messages are safe and confidential, we felt that we needed to go one more extra step with this new mode,” Marcus explained. The combination of end-to-end encryption and a message countdown clock “will truly empower people to have any type of conversation they want to on Messenger,” he added.
+
+Secret conversations will bring stronger security to some of Messenger’s nearly 1 billion users — but only if they turn it on.
+
+Like Google’s chat appAllo, end-to-end encryption will not be enabled by default in Messenger, and that decision may draw criticism from the security community. When Google announced that Allo would only offer end-to-end encryption as an opt-in feature, Edward Snowden tweeted that it was “unsafe” and one of Google’s own security engineers wrote in a blog post he would push for end-to-end encryption to become the default (he lateredited out that portion of the post).
+
+But Marcus says end-to-end encryption needs to remain optional so that users can access other popular Messenger features, read their messages on multiple devices, and access a backup of their chats if they lose their device — and that security experts Facebook has consulted with about its end-to-end encryption implementation have been sympathetic to those needs. Facebook also notes that “rich content” like GIFs, videos and payments won’t work in secret conversations.
+
+“The reality is you probably don’t need end-to-end encryption for all the conversations you’re having. Like if you’re following the Euro 2016 game right now and you’re chatting — so people are just having fun and they’re sending stickers and doing all these things where you want the full-fledged functionality and you’re moving from your computer to your mobile. Why would you need end-to-end encryption?” Marcus asked.
+
+“It’s that extra layer that you’ll want for those special conversations where you send a Social Security number, a username or password, checking account information for a payment, medical data of some kind. For those types of things, you want to have a little bit more peace of mind. We feel like the approach for us, given how people use our product, is really the right one and the security experts out there have been very supportive of the approach we’ve taken.”
+
+Messenger’s secret conversation feature is built on the Signal Protocol developed by Open Whisper Systems. The partnership with Open Whisper Systems is a natural progression for Facebook — WhatsApp, a chat platform owned by Facebook, also uses the Signal Protocol for encrypted messaging.
+
+Secret conversations are slated to become available to all Messenger users over the course of the summer, with access expanding to all by early September. “During this test, we will gather feedback about the functionality, measure performance, and introduce tools to enable you to report objectionable content to us,” Facebook said in a blog post announcing secret conversations.
+
+To start a secret conversation, just tap on your friend’s name at the top of your current message thread. If you’re part of Facebook’s test group, you’ll see an option called “Secret Conversation.” Once you click it, a new conversation thread opens, with a notice at the top informing you that the chat is end-to-end encrypted.
+
+The timer feature that allows messages to be erased after a certain time period has elapsed is located right next to the text field. It offers a drop-down list of times you can select for how long you want your message to last before it expires, ranging from 5 seconds all the way up to 6 hours.
+
+Facebook sees quite a few benefits to using the Signal Protocol; it’s free and open-source, it’s widely considered one of the best in the security industry and the company building its own cryptography would be quite a challenge.
+
+“Typically when companies try to build their own security and encryption end of things, they’ll find problems sooner rather than later,” Tony Leach, a product manager on Messenger, told TechCrunch. “The Signal Protocol has evolved to be the best-in-class method of encrypting asynchronous messages between people, and so we wanted to follow what we see as the industry standard in helping protect people’s conversations.”
+
+For Open Whisper Systems, making end-to-end encryption easily available to large companies that don’t specialize in cryptography has always been the goal. “Our thesis is that organizations haven’t deployed end-to-end encryption in their products because it has just been hard to do until now,” Open Whisper Systems founder Moxie Marlinspike told TechCrunch. “Our hope was that, by developing the technology, designing a protocol from the ground up, and writing the open-source software, that would make it easier and people would actually deploy it. To some extent, that’s what’s happened. We’re getting to the point where it’s easier and easier.”
+
+Although rumors have swirled that Messenger would include end-to-end encryption, several technical kinks needed to be ironed out before Facebook could debut the feature.
+
+“These essentially are new types of conversations that we’re building, so a lot of the messaging architecture that we originally built that would automatically fan out your messages to lots of different devices, we had to work around so that we could enable this new device-to-device kind of communication,” Leach said. “Also we’re used to relying on our servers to act as backups for all your messaging. So now in the end-to-end encrypted world, we can’t really do that. We had to make sure we maintained the same level of reliability without relying on backing up your messages on our servers for these encrypted conversations.”
+
+Consumer demand for strong encryption is driving Facebook, Google, Apple and other companies to reassure users that their communications are secure. “It’s a really good time to do this,” Marcus said. “We felt this was the right time to do it, to complete the capabilities with something that enabled people to have the conversations they wanted to have on Messenger.”

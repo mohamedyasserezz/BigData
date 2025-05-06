@@ -1,0 +1,29 @@
+Machine learning and “molecular Tinder” may change the game for OLED screens
+
+To say there are a lot of molecules out there is kind of an understatement. So searching for one or two in particular is like looking for a needle in a galaxy-spanning haystack. Fortunately, the science of machine learning and the irrepressible need for humans to swipe left and right on things make the search a lot easier, as Harvard and MIT researchers have found.
+
+The molecules they’re looking for are blue organic phosphors, a critical component for organic light-emitting diodes — likely the next big step in display technology.
+
+OLEDs rely on molecules that produce light of a specific wavelength when introduced to a current, obviating the need for the backlights found in ordinary LED displays. This means the screen could be thinner, more flexible, and more power-efficient, among other things.
+
+Suitable phosphorescent molecules have been found for creating red and green light, but making blue has been a tough proposition for years. Existing OLED screens use expensive elements and their longevity isn’t so hot — it’s one of the main challenges to widespread adoption of the technology.
+
+Researchers feel sure that the molecule they want is out there — and many have found ones that are suitable in one way or the other (the one up top is a recent example from theUniversity of Michigan), but no one has found one that does everything right.
+
+“Molecules are like athletes,” said Harvard’s Alán Aspuru-Guzik, lead researcher on the project,in a news release posted by the university. “It’s easy to find a runner, it’s easy to find a swimmer, it’s easy to find a cyclist but it’s hard to find all three. Our molecules have to be triathletes. They have to be blue, stable and bright.”
+
+To begin with, the team built a library of some 1.6 million organic molecules that could conceivably fit the bill. This huge database was scoured by machine learning algorithms designed by Ryan Adams, also from Harvard, in order to thin the herd.
+
+“Since the early stages of our chemical design process starts with millions of possible candidates, there’s no way for a human to evaluate and prioritize all of them,” said a co-author of the paper, David Duvenaud. “So, we used neural networks to quickly prioritize the candidates based on all the molecules already evaluated. This was a natural collaboration between chemistry and machine learning.”
+
+This elite cohort of molecules was then simulated, at a rate of about 12 hours per molecule, to find out more or less how bright and how blue each was likely to be. Then it was time to ditch the artificial intelligence and bring in the human kind.
+
+The 2500 candidate molecules had their data summarized into cards, and the team and collaborators (from MIT and the Samsung Advanced Institute of Technology) voted on which they thought were most promising. They nicknamed the process “molecular Tinder.”
+
+The result is a group of potentially hundreds of molecules that are the absolute cream of the crop skimmed from a sea of millions — and no one even had to draw their micropipette or spin up a centrifuge. Well, that part comes next, anyway.
+
+“This research is an intermediate stop in a trajectory towards more and more advanced organic molecules that could be used in flow batteries, solar cells, organic lasers, and more,” said Aspuru-Guzik. “The future of accelerated molecular design is really, really exciting.”
+
+It’s unlikely these molecules will be ready for manufacturing in time for the rumored OLED conversion of the iPhone, but they could very well contribute to the all-but-inevitable migration of the industry in that direction over the next few years.
+
+The paper describing the research was published today in the journalNature Materials.

@@ -1,0 +1,29 @@
+Productboard raises $1.3 million to help product teams prioritize what to build next
+
+Productboard, the makers of a product management system that helps to organize user research and prioritize development tasks, has raised $1.3 million in seed funding to further its business. The round was co-led by Index Ventures and Credo Ventures, and included participation from Spread Capital.
+
+The service only officiallylaunched last month at TechCrunch Disrupt SF 2016, following its beta testing period where it was already being used by over 100 paying customers. Today, productboard claims over 150 customers are now on its service.
+
+The idea with productboard is to offer a better way of aggregating and organizing feedback requests and other input from a variety of channels, including customer support tickets, emails, input from internal teams, direct user research and more, and then connect those tasks to the features that would need to be built to address customers’ needs, as well as with the business’s larger strategic goals.
+
+Productboard can also work with other systems where businesses collect feedback, including Zendesk and Intercom, plus it even includes a Chrome extension from grabbing snippets from the web. A Zapier integration, meanwhile, lets you pull in data from a broader set of third-party apps.
+
+Once in productboard’s online dashboard, an algorithm helps to sum up the feature requests in an organized way, and it displays a user impact score that can help the business better determine how to rank the incoming requests.
+
+Overall, the tool is meant to upgrade a process that often done more manually in organizations, where more generalized tools – like spreadsheets, wikis and note-taking apps – tend to be used to help keep track of the feedback requests and future development plans.
+
+Since its launch at TechCrunch Disrupt, productboard added a new feature of its own – a contributor role that allows product managers to invite others across the organization to submit feedback and collaborate over feature ideas within its app.
+
+“Today, product managers are at the receiving end of an endless stream of feature requests coming in from teams representing the needs of different types of users,” explains productboard founder and CEO Hubert Palan, of the new feature.
+
+“By allowing contributors to input these requests and ideas directly, productboard removes product managers as the bottleneck of feature idea management and helps product teams harness more inputs to inform feature prioritization,” he says.
+
+Palan declined to comment on the company’s revenue, but as of September’s public launch it was being used by Envoy, Avast, Shopkeep, BambooHR, Marqeta, Sprout Social, Trifacta, Striim and DotMailer.
+
+Pricing starts at $24 per month, and is then $99 per month for the “startup” plan. For larger companies, custom pricing is available.
+
+“In order to be successful, product teams need to create roadmaps based on customer needs. However, given the lack of centralized tools today, too many product teams don’t understand what their users actually want and end up struggling with how to effectively prioritize,” says productboard’s new investor, Ilya Fushman, a Partner at Index Ventures, and the previous Head of Product at Dropbox. “With productboard, product teams have one primary location to channel customer inputs into winning product strategies.”
+
+The company plans to use the new funds to advance its own product development and validate its customer acquisition strategy, says Palan.
+
+To date, productboard has raised $1.7 million, including a prior convertible note from Rockaway Capital.

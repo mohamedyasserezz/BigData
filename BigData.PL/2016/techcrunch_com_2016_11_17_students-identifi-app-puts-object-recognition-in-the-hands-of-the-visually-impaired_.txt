@@ -1,0 +1,23 @@
+Student’s iDentifi app puts object recognition in the hands of the visually impaired
+
+For someone who is blind or partially sighted, everyday tasks can be a pain — choosing the right can from the pantry, for instance, or picking up the right book from the table. A smartphone could help them with this kind of problem, of course, if it knew how to identify objects and describe them to the user — which is precisely whatthis app from a 12th-grade student from Torontodoes.
+
+iDentifi, out now and free on iOS, lets users point the camera at an object and receive a description of it shortly after: “Red headphones,” or “a bottle of Darigold milk on a wood table.” It isn’t the only app out there that can tell what it’s looking at, but it has the advantage of being aimed at visually impaired users and multiple languages from the start. Anmol Tukrel began working on it a year ago after learning about the possibilities of machine learning and computer vision.
+
+He started making his own neural network, but found that publicly available APIs provided enough speed and accuracy that he could focus on the other parts of the app without having to start from scratch. iDentifi uses Google Vision, CloudSight and Google Translate, so the AI bits are trusted resources. They also have been trained on a wide variety of objects and expressions, so it won’t be stumped easily.
+
+The rest of the app is carefully designed to be operable by someone who has limited or no sight: bright colors and large regions with spoken cues when you tap them make it easy to navigate the main menu, a familiar camera interface and options to change object recognition mode (fast or accurate, basically) and text read-off speed.
+
+“Feedback from the visually impaired community has been overwhelmingly positive,” Tukrel wrote in an email to TechCrunch. “They find it useful in doing day-to-day tasks, reading and browsing the web. For example, if they went grocery shopping and wanted to find out if the can of soda they were holding was Coke or Pepsi, normally they’d have to find someone and ask, however, with iDentifi they can just take a picture of the can and get an audible description within a few seconds.”
+
+The app also reads text, so signs, menus, pages of books, magazine covers and other things that might have required close inspection or the help of someone nearby can be identified easily. Braille is a great standard, but not always present or easy to find.
+
+iDentifi has been on Canadian TV and radio, and has collected accolades from a number of universities up there. Tukrel also has been working with several organizations representing the visually impaired, which he says have been happy to collaborate with him.
+
+Although the app is out today, Tukrel plans to keep developing it.
+
+“My short-term goal for this app is to bring it to Android,” he wrote. But beyond that, he suggested a number of features he’d like to add:
+
+“Finally,” he wrote, “I hope to keep this app completely free, in order for it to help as many people as possible.”
+
+We hope so too.Check out iDentifi on the App Store, and I’ll update this post when an Android version is available.

@@ -1,0 +1,15 @@
+Microsoft wants to crack the cancer code using artificial intelligence
+
+Cancer is like a computer virus and can be ‘solved’ by cracking the code, according to Microsoft. The computer software company says its researchers are using artificial intelligence in a new healthcare initiative to target cancerous cells and eliminate the disease.
+
+One of the projects within this new healthcare enterprise involves utilizing machine learning and natural language processing to help lead researchers sift through all the research data available and come up with a treatment plan for individual cancer patients.
+
+IBM is working on something similar using a program calledWatson Oncology, which analyzes patient health info against research data.
+
+Other Microsoft healthcare initiatives involve computer vision in radiology to note the progress of tumors over time and a project which Microsoft refers to as its “moonshot” aims to program biology like we program computers using code. The researchers plan to discover how to reprogram our cells to fix what our immune system hasn’t been able to figure out just yet.
+
+Microsoft says its investment in cloud computing is a “natural fit” for this type of project and plans to invest further in ways to provide these types of tools to its customers.
+
+“If the computers of the future are not going to be made just in silicon but might be made in living matter, it behooves us to make sure we understand what it means to program on those computers,” Microsoft exec Jeanette M. Wing said.
+
+Indeed, with all the research data available, the Microsoft project, likemanyothers in the healthcare machine learning space — including incancer cure discovery— could help speed up medical discovery for this debilitating disease.

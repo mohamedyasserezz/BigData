@@ -1,0 +1,77 @@
+UK’s new cyber security centre to debunk scare tactics and lead by example
+
+The UK government has had enough of clichédcyber dementor imagery, scary-sounding industry rhetoric and impossible security advice that the average consumer has no hope of following.
+
+And it’s hoping that by taking a less hyperbolic, data-driven approach to tackling cyber security it can encourage industry to follow suit and focus on persistent and prolific security problems — with the overarching aim of reducing harm at scale and boosting consumer trust in the digital economy.
+
+The philosophy behind the UK’s newNational Cyber Security Centre(NCSC) was set out by the centre’s technical director, Dr Ian Levy, speaking at theWired Securityconference in London yesterday.
+
+A full National Cyber Security Strategy is due to be published imminently, according to Levy, but he gave a taster of how the government is thinking here. Levy has moved from his role as technical director of cyber security at UK intelligence agency GCHQ to take up the same post at the NCSC, which formally opens its doors this month.
+
+Putting the security threat in context
+
+“The biggest future threat we have is keeping talking about cyber security the way we do today,” he argued. “There is no other piece of public policy where the narrative is set by a massively misincentivized set of people.”
+
+He said the core idea for the centre is to provide a one-stop-shop for “consistent, coherent advice”, and do so “in public, transparently” — a freedom clearly not afforded the spy agency where he used to work (in the “ivory donut” as he dubbed it, riffing on academics in their ‘ivory towers’). The NSCS will, for example, be publishing data on its learnings. Although it will also report to GCHQ, so clearly not all its discussions will be open to the public.
+
+“One place to go for everything,” said Levy, describing what the centre will offer. “At the start when you want threat information and understand about how to design a system, through building it, operating it, to when you get pwned how do we help.”
+
+In a straight talking presentation, which threw more than a few sardonic barbs at the current practices of the security industry, he attacked some of the language and media attention paid to critical and zero day security flaws — such as theHeartbleed cryptography flaw that emerged in 2014— arguing this sort of ‘doomsday scenario’ reportage engenders confusion and panic in the public, and is shifting attention (and resources) away from tackling more mundane yet persistent security threats which cause ongoing problems for web users.
+
+“Buffer overflows today are still one of the most prevalent software defects that lead to security exploitation,” he said. “Forty-odd years of buffer overflows. We have to start remembering that software vulnerabilities are axiomatic. You’re always going to have them because software’s written by people — the question is how you manage them.”
+
+“Fifty-four zero days in 2015. Let’s put it into context… In the same year [searching theNational Vulnerability Database] there were 6,488 other vulnerabilities. I should probably care a bit more about those — because there’s a shed load more of them,” he added.
+
+The UK government announced its intention to draw together cyber security expertise under one rooflast year— when it named cyber security a priority area, saying it would nearly double spending on the area to £1.9 billion by 2020.
+
+Last month, giving his first public speech at a security conference in Washington, NCSC CEO Ciaran Martin also told delegates the aim with the centre is for government to play a leadership role in developing pro-active security measures, and — via that push — to aim to encourage industry to up its game.
+
+“Something is not quite working yet in the marketplace in terms of cyber security,” he argued. “There are great companies, great people, there’s great innovation, and barriers to information sharing are being broken down. But given the record of the past few years it’s hard to say that we’ve got ahead of the threat.
+
+“If we’re to maintain confidence in the digital economy, we’ve got to tackle this end of the problem. I believe there’s a legitimate role for the government in taking a lead… at least temporarily. This is the thinking behind our strategy.”
+
+Yesterday Levy went further by couching the cyber security problem as partially one of “contextual perception”.
+
+“The way you talk about something fundamentally changes the way you evaluate risk about it,” he said. “The context in which you judge something also determines how you interpret it. So if you’re told that cyber security attacks are purported by winged ninja cyber monkeys who sit in a foreign country who can compromise your machine just by thinking about it you’re going to have a fear response. And that’s where we are today.”
+
+His premise is that a “fear response” is overriding a more rational analysis of security problems and leading to ineffective or misdirected solutions. The government’s hope, therefore, is to reset the security narrative to something closer to reality.
+
+“The security companies are incentivized to make it sound as scary as possible because they want you buy their magic amulets,” Levy added. “This is what we’re doing today. You buy a cyber security product and you throw it at the problem because you’ve not idea what the problem actually is anymore.
+
+“If we talk about things as they really are, we have a different set of responses to them.”
+
+Tackling the tediously persistent problems
+
+Discussing one of the early projects the NCSC has been working on — trialling a DMARC policy on UK government email to stop emails from the wrong IP sets or with the wrong key from being delivered — he said that the first day it was switched on for the gov.uk domain, diverting spoof emails to the NCSC (instead of their intended victims), around 50,000 were received.
+
+But a few days later the emails had stopped for good — after the attacker presumably realized their phishing attempts were being cut off at the root.
+
+“Every single cyber attack — whether it’s crime, whether it’s defacement, or whether it’s a national state, is run on a return on investment calculation. A risk calculation. But by doing things like this we can screw around with the attackers’ ROI,” said Levy.
+
+Following this trial, he said the NCSC now intends to put DMARC on every government domain — all ~5,700 of them — to end phishers’ ability to spoof emails from any gov.uk address in future.
+
+The step after that will be to apply pressure to industry — by way of example — focusing on other “high value” domains in the commercial sector to get them to follow the government’s lead.
+
+“I’m going to point and laugh at everybody who doesn’t do the same — publicly,” said Levy. “Because there is no excuse not to do DMARC on a high value domain any more.
+
+“So when you get an email from gov.uk it will be from gov.uk. When you get one from, [UK retailer] John Lewis say, I want it to be sure it’s come from John Lewis. And then we’ll have receptive domains as well.”
+
+Add to that, because the NCSC is now in receipt of a wealth of phishing email data Levy noted it can also analyze the domains that attackers are trying to send people to — and plans to make use of this cache of phishing site intel to build “a massive scale recursive DNS server for public sector”.
+
+“I’m going to become the DNS provider for public sector. So central government, local government, maybe health, maybe education — we’ll see,” he continued. “So again, do it for government first and then go and talk to the ISPs and say ‘hey guys, it’s probably not okay for you to allow your customers to be harmed without knowing. How about you do something similar, by default, for the citizens of the UK?’
+
+“By default I want the ISPs to take some responsibility and not allow their customers to go and hurt themselves without knowing.”
+
+Security researchers would be able to opt out of the DNS filtering, according to Levy’s plan, but the idea is that the general public — which typically suffers the most at the hands of phishers — would be better protected as a result of ISPs taking similar, pro-active action to block access to data-stealing sites.
+
+“By default let’s protect people. Because my grannie doesn’t know what the hell’s going on and I want to protect her,” he added.
+
+Other areas where Levy said progress has already being made by his team is in shortening the window of time a phishing site can be online — by the NCSC contacting ISPs to get them to take down phishing sites — using, in his words, “a very complex cyber method of asking the hosting company to remove it”.
+
+“Any phishing anywhere in the world that pretends to be UK gov brand has gone down from 49 hours to 5 hours,” he added.
+
+He also hit out at “stupid advice” given to web users — such as telling them they should be reading the full length email header in order to determine whether an email is genuine or not; or asking them to remember “the equivalent of a 600 digit number every month” because of password requirements to create a unique, multi-character, multi-string password for every service they use and change them all frequently — as ludicrously unfit for the average web user.
+
+“We tell people to do something they cannot possibly do,” he argued, adding that the centre would be “outing stupid advice” — and aiming to change the system “so it’s better for people, rather than geeks”.
+
+“Let’s do this in public, let’s do this transparently, let’s publish data, let’s publish what we have done, what effect it’s had, and the cost,” he added. “I want people to really, really understand what the cyber security threat picture looks like. What their risks really are, and how better to protect themselves.”

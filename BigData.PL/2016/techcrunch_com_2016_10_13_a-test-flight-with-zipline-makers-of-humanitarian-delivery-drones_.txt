@@ -1,0 +1,69 @@
+A test flight with Zipline, makers of humanitarian delivery drones
+
+[tc_unified_video code=”1f7220f9-b1d8-3bb0-9224-43736e763d14″]A maker of delivery drones calledZipline Internationalbegan nationwide delivery of blood and other critical medical supplies in Rwanda today, through a partnership with the Rwandan government.
+
+The program strikes a hopeful note about drones, followingnews earlier this weekthat members of ISIS packed a hobbyist drone with explosives in Iraq, killing two Kurdish fighters who captured and disassembled it.
+
+Before the founding team of Zipline departed the United States to be present for the program’s launch in Rwanda, they gave TechCrunch a tour of their testing site, a base on a private cattle ranch just outside of San Francisco.
+
+On a hillside dotted with grazing cows, horses and farm dogs, TechCrunch also got a first look at Zipline’s unique robotic systems for launching and landing their “Zips.”
+
+Because of security concerns, Zipline asked TechCrunch not to disclose the specific location of this ranch where it has set up its headquarters and conducts its test flights.
+
+Executives at the startup actually prefer to call their technology “flying robots,” “small planes,” or “Zips” and not drones.
+
+That’s because they use a fixed-wing, rather than quadcopter or other multi-rotor design.Quadcoptersare the default image people get when you say “drone,” now, as they’ve become mainstream in consumer electronics.
+
+Other startups, includingMatternetandFlirtey, have created multi-rotor drones to deliver everything from food and building supplies to medicine and biological samples.
+
+None have yet established a national delivery service and become operational as Zipline has today in Rwanda.
+
+According to co-founder and CEO Keller Rinaudo, the fixed-wing design of Zipline’s drones allows them to fly greater distances on less power than any quadcopter design, and allows them to launch and fly reliably through variable weather.
+
+That detail is critical when you’re flying in areas of the world that do not have the infrastructure to allow frequent recharging, he said. The Zips are also battery-powered, so they don’t have to be refueled where it’s hard to find any reliable supply of diesel.
+
+Zipline CTO and co-founder Keenan Wyrobek said the company expects to get 1,500 flights out of each of its small planes before they need a new battery.
+
+The Zips don’t land when they drop off their payload, whatever it is, most commonly blood or vaccines that need to arrive quickly in order to save a life. Instead, they hover over a “mailbox,” or an area about the size of two parking spots, delineated by a clinic, and drop off the package in a simple box from about 40 feet in the air.
+
+That way, Rinaudo explained, healthcare professionals on the ground do not have to learn how to operate drone technology, or worry that a landed drone may be raided for parts and taken out of commission, or even damaged or eaten by a curious wild animal.
+
+With a 40-employee operating team today, most in the U.S. and others based in Rwanda, Zipline has raised both grants and venture capital to support the development of its planes and software to run fleets of them.
+
+Rather than taking donations to deliver humanitarian aid, Zipline is focused on demonstrating its value to, and working directly with governments in nations that lack infrastructure, such as roads and railways that they would need to efficiently distribute medical supplies on the ground.
+
+A Zipline investor, Paul Willard, a partner withSubtraction Capitaland former Boeing engineer, said a great deal of the company’s magic is to be seen in its practicality and pragmatic approach to the market and engineering.
+
+One big technical problem the company had to solve in order to make a difference in developing nations, Willard said, was around landing small planes where there would be no runways or roads to do so.
+
+The company took a page from the playbook of aircraft carriers, he said.
+
+Aircraft carriers out on the ocean are equipped with four wires above a landing deck. Pilots aim to catch the second wire, but frequently fail and just fly around. When they succeed, the plane is rapidly pulled down.
+
+In an early design, Zipline set up deep-sea fishing rods on either side of a table and tested the concept at a small scale.
+
+The ultimate solution they came up with looks more like a bouncy castle or giant inflatable mattress set out in front of two robotic arms that bob up and down raising a wire in the wind.
+
+The arms of the “Bob,” as Zipline employees call this rig internally, receive a signal from approaching Zipline planes, and can raise to a level where they will likely snag the plane and land it safely on the mat.
+
+Zipline planes use a precise kind of GPS technology, called RTK GPS, to land in that small space, and to precisely target “mailboxes” whenever they make a drop.
+
+The company has set up its launchers and landing rigs next to medical supply warehouses in Rwanda, which serve as a central distribution point to reach the nation’s clinics and hospitals.
+
+Zipline employees pack the drones, launch them and recover them at these distribution centers.
+
+Wyrobek explained the company’s focus on medical supplies comes from a wish to make an immediate, positive income on health outcomes around the world.
+
+He recounted that in his travels throughout Latin America and Africa, families in remotely located communities can’t just go to a pharmacy to get a common antibiotic ointment, let alone blood for a transfusion or a rabies vaccine.
+
+If a clinic doesn’t have even simple things in stock in these places, a simple infection can escalate very quickly. To restock, a pharmacy would have to send someone two hours down a dirt road to catch a small boat, and then catch a bus that only runs twice a day up another road, and so on.
+
+“Too many people die from very curable diseases or injuries,” the CTO said. “When you think that most blood and vaccines need to be refrigerated, we have another problem. We focused on speed and reliability to solve that problem.”
+
+When fully loaded, a Zipline plane weighs about 14 kilograms and flies at variable speeds, aiming to make every delivery within 25 minutes. The company flies about 15 to 30 of its planes simultaneously in Rwanda.
+
+A back-end system tracks the whereabouts of each Zip, and the inventory they carried. The planes are also aware of each other’s position and routing in-flight.
+
+Rather than using vision or depth-sensors like cameras and LiDar for navigation, the planes use data provided by GPS and by the local government’s answer to the Federal Aviation Administration; in Rwanda, that is the Civil Aviation Authority.
+
+Zipline is aiming to set up 20 distribution centers by the end of next year and to be operating in at least two more countries. Hopefully, others will become willing to try and invest in drone technology, Rinaudo and Wyrobek said, after seeing Zipline’s technology and its impact in Rwanda.

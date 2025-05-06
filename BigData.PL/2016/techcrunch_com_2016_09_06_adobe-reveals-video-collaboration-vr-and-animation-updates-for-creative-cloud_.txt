@@ -1,0 +1,23 @@
+Adobe reveals video collaboration, VR and animation updates for Creative Cloud
+
+Adobe has a host of new features for itsCreative Cloud video toolsit’s debuting at IBC 2016 this week. The improvements include new team collaboration features, as well as new improvements to its VR video workflow, as well as updates to its beta Character Animator software. There are also performance improvements throughout, hopefully helping speed up your video editing workflow.
+
+The new collaborative features let teams working on Premiere Pro, After Effects and Prelude access shared Team Projects, which can operate without dedicated server hardware. They include smart version control, including automatic intelligent conflict resolution so that even when you’re all working on the same files no one’s rewriting one another’s work. Reversions are made easy in case there are any issues, and Creative Cloud or local storage of project files are both supported. You can also easily turn legacy project into Team Projects.
+
+Beyond the team-focused features, there’s a big emphasis on tools built for VR, 3D and animated content creation. One big new change for Adobe Premiere is that it will automatically detect VR source video on ingest and correctly set it to either stereoscopic over/under, left/right or monoscopic output and apply the right settings.
+
+Newly improved Live Text Templates make it easier to work on lower thirds and other simple motion graphics right within Premiere without jumping out to After Effects, and there’s a new file format for Live Text Templates that makes for easy sharing (even if you only have a Premiere license, and aren’t a subscriber to After Effects). It’s generally way easier to create and edit captions, as well as target other languages, which is huge for the growing trend of silent caption videos for use on Facebook.
+
+Adobe is also bringing more of Audition’s fine-tuning features to Premiere for direct audio editing, which further helps with making it a one-stop solution for your entire video editing workflow.
+
+Premiere also gets a Behance publishing option, giving you an easy way to post your videos directly to your portfolio on the Adobe-owned creative professional network, and support for HDR10, which will let creators better control how their content looks on HDR-enabled TVs and other displays.
+
+After Effects gets a new 3D Render Engine, which is designed to improve rendering performance across a range of devices from low-end to high, and other improvements to the workflow tools now allow real-time raw footage playback, dropping the need for a preloaded cache. More features now take advantage of GPU acceleration, too, to speed up those times when you have to wait for an effect to process and load.
+
+Adobe Character Animator, which was launched as a public preview last year, also gets some updates (as well as a ‘Beta’ tag in place of the ‘Preview’ label). The software almost magically lets you use your computer’s webcam to animate a cartoon puppet of your own creation, which is terrific for creating quick and easy animated segments.
+
+The new updates include faster puppet creation, letting you “mash-up” different body components from different illustrations to generate a range of puppets more quickly. It’s also easier to edit using Photoshop and Illustrator with a better round-trip workflow. I still think this is one of the coolest things Adobe has done in recent memory, so it’s great to see it getting some attention.
+
+Audition gets some improvements, too, though these are focused more on highlighting existing features for new users. Onboarding walkthroughs will now show new users how to remove background noise or produce a podcast, for instance, among other tasks. It’s a good idea for a powerful piece of software than can seem a tad inaccessible at first glance.
+
+All of the updates announced today are currently planned for a roll-out via Creative Cloud sometime before the end of 2016, though specific availability dates have not yet been announced.

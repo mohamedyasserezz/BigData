@@ -1,0 +1,19 @@
+Twitter launches an Alexa app
+
+Too lazy to read your tweets? Now, Amazon Alexa can just read them to you instead. Yes, that’s right: Twitter today haslaunchedanapp for Amazon’s voice platform Alexa, which means you can listen to the latest from Twitter right on your Echo speaker or other Alexa-powered device. The new app can give you general information on trends, or deliver information from your own account, says Twitter.
+
+According to the app’s description (or its “Skill’s description, in Amazon parlance), you’ll need to authenticate with your Twitter account in order to get started.
+
+Afterwards, you can launch the app by saying “Alexa, open Twitter.”
+
+The virtual assistant can then read your home Timeline to you, as well as your Mentions, Retweets, and Likes. As with other Alexa Skills, you’ll have to learn how to ask for these items, by saying things like “Alexa, ask Twitter for my own tweets,” “Alexa, ask Twitter has anyone retweeted me?,” “Alexa, ask Twitter for my Mentions,” “Alexa, ask Twitter what is happening?” and so on.
+
+In addition, the app can provide more general information from Twitter’s service, like the current trends or the local trends — meaning, trends for your particular location (e.g. “Alexa, ask Twitter for trends in Seattle”).
+
+None of this seems to be a particularly efficient way to consume the rapid-fire information that’s published to Twitter’s network, but the fact that Twitter felt compelled to launch an app on Alexa speaks to the growing importance of Amazon’s voice computing platform in consumer’s lives. As of June, Amazonsaidthere were tens of thousands of developers working on Skills for Alexa, whoseapp store had grown to house over 1,400 of these add-ons.
+
+Of course, we all wish that Twitter was spending its time building a feature that would let us edit our tweets, instead ofrolling out things like Read Receipts for messages(the horror!) or new ways to hear our tweets read aloud, but I guess Alexa was a box the company felt the need to check.
+
+You can switch on the new Twitter Skill in the Alexa app on mobile or web, then authorize it to access your Twitter account.
+
+https://twitter.com/twitter/status/774276250407886848

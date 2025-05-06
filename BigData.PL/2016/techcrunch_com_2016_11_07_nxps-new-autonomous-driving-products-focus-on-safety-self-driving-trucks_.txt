@@ -1,0 +1,11 @@
+NXP’s new autonomous driving products focus on safety, self-driving trucks
+
+NXP Semiconductor, which made headlines recently after entering into an agreement to beacquired by Qualcomm, unveiled a series of new products today that make it clear why they were a high-value target for the mobile chip giant. Each of three new products NXP announced today promises to advance tech related to self-driving vehicles.
+
+In the autonomous car market, NXP revealed a new microcontroller product for use with vehicle radar that will supply four times more computing power to these systems, which will lead to better performance and higher accuracy for radar detection features, which include automatic braking, lane change and cruise assist. NXP also says this will help considerably improve the speed of detection and tracking of objects that might get in an autonomous vehicle’s path, including pedestrians and bikes. The new micro controller is already in testing with some of NXP’s top customers, and will hit wide availability later in 2017.
+
+The second new product is a trucking solution developed in partnership with DAF Trucks, Honda and Siemens, which uses vehicle-to-everything (V2X) communication to improve reaction time for connected autonomous truck platoons to achieve 30 times faster reaction time when compared to human-controlled vehicles by 2017. This would allow trucking companies to operate convoys of transport trucks with much higher efficiency when compared to similar arrangements that rely on human reaction time to do things like keep distance, and deal with unexpected events like personal vehicles cutting in between members of the convoy.
+
+NXP and Cohda Wireless are teaming up for NXP’s third product announcement. The new partnership will let NXP make use of Cohda’s V2X development algorithms, which will make it a lot easier for customers of both companies to use their technologies together to build in smart decision-making systems that involve culling data from infrastructure like traffic lights, radar detection and other vehicles around them, for instance.
+
+As we suspected, it looks like NXP will continue to act as an industry leader in autonomous driving tech under Qualcomm, which should definitely help it return value for its new owner.

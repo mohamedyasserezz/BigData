@@ -1,0 +1,41 @@
+Facebook admits it must do more to stop the spread of misinformation on its platform
+
+Facebook has responded to widespread criticism of how its Newsfeed algorithm disseminates and amplifies misinformation in the wake of the Trump victory in the US presidential election yesterday.
+
+Multiple commentators were quick to point a finger of blame at Facebook’s role in the election campaign, arguing the tech giant has been hugely irresponsible given the role its platform now plays as a major media source, and specifically by enabling bogus stories to proliferate — many examples of which were seen to circulated in the Facebook Newsfeed during the campaign.
+
+https://twitter.com/riptari/status/796491164283244544
+
+Last weekBuzzfeedreported on an entire cottage industry of web users in Macedonia generating fake news stories related to Trump vs Clinton in order to inject them into Facebook’s Newsfeed as a way to drive viral views and generate ad revenue from lucrative US eyeballs.
+
+This enterprise has apparently been wildly successful for the teens involved, with some apparently managing to pull in up to $3,000 and $5,000 per month thanks to the power of Facebook’s amplification algorithm.
+
+That’s a pretty hefty economic incentive to game an algorithm.
+
+As TC’sSarah Perez wrote yesterday, the social network has become “an outsize player in crafting our understanding of the events that take place around us”.
+
+In a statement sent to TechCrunch responding to a series of questions we put to the company (see below for what we asked), Adam Mosseri, VP of product management at Facebook, conceded the company does need to do more to tackle this problem — although he did not give any indication of how it plans to address the issue.
+
+Here’s his statement in full:
+
+We take misinformation on Facebook very seriously. We value authentic communication, and hear consistently from those who use Facebook that they prefer not to see misinformation. In Newsfeed we use various signals based on community feedback to determine which posts are likely to contain inaccurate information, and reduce their distribution. In Trending we look at a variety of signals to help make sure the topics being shown are reflective of real-world events, and take additional steps to prevent false or misleading content from appearing. Despite these efforts we understand there’s so much more we need to do, and that is why it’s important that we keep improving our ability to detect misinformation. We’re committed to continuing to work on this issue and improve the experiences on our platform.
+
+Facebook has previously been criticized for firing the human editors it used to employ to curate its trending news section. The replacement algorithm it switched to wasquickly shown to be trivially easy to fool.
+
+Yet the company continues to self-define as a technology platform, deliberately eschewing wider editorial responsibility for the content its algorithms distribute, in favor of applying a narrow and universal set of community standards and/ortrying to find engineering solutionsto filter the Newsfeed. An increasingly irresponsible position, given Facebook’s increasingly powerful position as a source of and amplifier of ‘news’ (or, as it sometimes turns out to be, propaganda clickbait).
+
+Pewresearch earlier this year found that a majority of U.S. adults (62 per cent) now get news via social media. And while Facebook is not the only social media outfit in town, nor the only where fake news can spread (see also: Twitter), it is by far the dominant such platform player in the US and in many other markets.
+
+Beyond literal fake news spread via Facebook’s click-hungry platform, the wider issue is the filter bubble its preference-fed Newsfeed algorithms use to encircle individuals as they work to spoonfeed them more clicks — and thus keep users spinning inside concentric circles of opinion, unexposed to alternative points of view.
+
+2016 was a close election where filter bubbles & algorithmic funneling was weaponized for spreading misinformation.https://t.co/QCb4KG1gTVpic.twitter.com/cbgrj1TqFb
+
+— zeynep tufekci (@zeynep)November 9, 2016
+
+That’s clearly very bad for empathy, diversity and for a cohesive society.
+
+The filter bubble has been a much discussed concern — for multiple years — but the consequences of algorithmically denuding the spectrum of available opinion, whilst simultaneously cranking open theOverton windowalong the axis of an individual’s own particular viewpoint, are perhaps becoming increasingly apparent this year, as social divisions seem to loom larger, noisier and uglier than in recent memory — at very least as played out on social media.
+
+We know the medium is the message. And on social media we know the message is inherently personal. So letting algorithms manage and control what is often highly emotive messaging makes it look rather like there’s a very large tech giant asleep at the wheel.
+
+Questions we put to Facebook:

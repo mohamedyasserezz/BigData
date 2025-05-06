@@ -1,0 +1,23 @@
+It’s okay for Pikachu to watch you — as long as you want it to
+
+Millions who downloaded the new Pokémon Go app are living in a brave, new, augmented reality world. For the early adopters (meaning apparentlyeveryone you know) on iOS devices, it meant unknowingly granting Pokémon Go the permission to fully access their Google accounts.
+
+You’ve got to risk it all to catch ‘em all, right?
+
+Wrong. Thankfully Niantic, the company that developed Pokémon Go, acknowledged the mistake and issued a fix. Pokémon Go modified its implementation to request only “basic profile data” — user ID and email address — from Google accounts.
+
+This brings me some peace of mind as my 15-year-old roams the park, my office, the supermarket and the park again in search of furry creatures. Yet, although the company’sprivacy policyis thorough, I am left with the lingering sense of unease I feel with almost every other app. I am okay with their treatment of my son’s data today, but it’s up to the company if they want to change the way they use or share his data tomorrow.
+
+Developers need to collect data from users to create apps and experiences like Pokémon Go, but we often feel resigned to choose between Pikachu or privacy. A University of Pennsylvaniastudypublished last year found that 58 percent of Americans have come to accept that they have little control over what companies can learn about them, even though they would like to be in control.
+
+It doesn’t have to be this way. Businesses must be intentional, responsible and clear about the data they collect, and provide their customers with real choices. Powerlessness breeds mistrust, and a system based on mistrust benefits no one. On the other hand, earned trust drives adoption and lasting success.
+
+There are three simple steps companies can take to earn trust:
+
+This doesn’t mean consumers are off the hook. We shouldn’t just shrug and breeze through privacy notices accepting whatever permission levels are required. We don’t realize just how powerful we can be if we take full ownership of our data. Replace “data” with the word “dollars” and the value exchange becomes a lot more tangible. Indifference and inaction toward data collection become a lot more absurd. Information is currency.
+
+As the lifeblood of any business, consumers have a unique opportunity to leverage their trust as a way to regain control of their data. Opting out is the most direct path, but not necessarily the right one for you (or the most fun).
+
+Here are a few other things people can do to take back control of their data:
+
+Today I am choosing to trust Pokémon Go with my son’s data, because I have read and understood the terms. But I am just one person, and I happen to be a lawyer. In the long term, we need a commitment from both companies and consumers to make conscious choices about data.

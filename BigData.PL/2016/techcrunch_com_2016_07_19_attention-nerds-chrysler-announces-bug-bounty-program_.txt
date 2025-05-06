@@ -1,0 +1,13 @@
+Attention nerds: Chrysler announces bug bounty program
+
+If you like poking, prodding, and proving big corporations wrong, has FCA US got a challenge for you. FCA US is the umbrella company for Fiat, Chrysler, Jeep, Dodge, and Ram, and it wants you to find potential vulnerabilities in their vehicles’ cybersecurity systems. And they’ll give you money for it.
+
+FCA US put its bounty program up onBugcrowd, a community of cybersecurity researchers. There are only a few rules for bug bounty hunters, including providing the information FCA US would need to reproduce and validate the identified vulnerability. The company also asks that bounty hunters not destroy data, interrupt FCA US services, or “modify, access, or retain data that does not belong to you.”
+
+What do you get in return for following these basic guidelines? First of all, you get cash money, between $150 and $1500 per bug, depending on its severity. Also, you get FCA US’s promise that it “will not take legal action against nor ask law enforcement to investigate researchers participating in the program” — as long as you follow the rules.
+
+FCA US is specifically looking for bugs found in UConnect systems, especially apps for iOS and Android. They’re also asking the community to test for bugs in hardware they own or have access to for testing, like tire pressure sensors and remote keyless entry systems. Basically, if you think you can hack into an FCA US vehicle and compromise its cybersecurity, you stand to make a few hundred bucks.
+
+There are some off-limits areas, like dealer websites and DDOS attacks. To see the exact parameters, check out the Bugcrowd page for theFCA US project.
+
+You may recall the infamousJeep hacklast summer, which FCA USresponded toquickly if not elegantly. The company apparently decided that if hackers gonna hack, it might as well harness their nerd power and pay them for finding holes in the code.

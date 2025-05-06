@@ -1,0 +1,39 @@
+Adding encryption to cameras won’t solve photojournalists’ problems
+
+When the Freedom of the Press Foundationpublished an open letter to Canon, encouraging the company to implement encryption features into its cameras, it missed the point. Yes, encryptionper seis a great idea, but when dodging bullets in war zones,gravity friction-lock batonsin tin-pot dictatorships or nasty cutlery if you’re filming gangs, it isn’t going to help you.
+
+As a photographer, you need gear that is absolutely bomb-proof, and super fast to operate. For photographers who enter conflict zones, sometimes “bomb-proof” is meant literally. You need to be able to flick a switch and be ready to shoot the second the action hits. Anything that gets in the way of that will simply not be used by photographers. When weighed against speed and getting the photo, everything else loses.
+
+Even if the camera manufacturers by some miracle are able to implement encryption that takes no time at the photography stage, using encryption will cause delays when reviewing footage, and that is where we run into a couple of issues. Photographers and videographers regularly review the photos they are taking. Reviewing on-the-fly is part of the advantage of digital photography over shooting on film, after all. That review process is usually a single button-click away. The other thing to know is that professional photographers will know their gear well enough to be able to operate it blindly. They’ll be aware of their surroundings, only stealing very quick glances at the screen to check settings or to check whether a photo is exposed roughly correctly.
+
+Adding an encryption step to the process makes things complicated, and it shows that the letter-writers over at the Freedom of the Press Foundation fall into thefaster horse fallacythat many startups also experience.
+
+People experience problems every day, which are solved by companies all around us. Your taxi company is pissing you off (Uber!). You want a more genuine experience when traveling (Airbnb!). Sometimes, your taxi has to drive on roads rather than soaring through the air (Vahana!). The problem you quickly run into as a startup is that your customers usually don’t have a clue. They experience the problem, but as a startup, you own the solution. Which means that, sometimes, the solution you come up with is different from what the customer had in mind, but as long as the problem is solved, they don’t usually care.
+
+The faster horse fallacy can be traced back to Henry Ford, who (actually never) said that “If I had asked people what they wanted, they would have said a faster horse.” The joke, of course, is that if he had done customer studies, he would never have invented the first mass-produced car.
+
+The Freedom of the Press Foundation is onto something — thereisa problem:
+
+On countless occasions, filmmakers and photojournalists have seen their footage seized by authoritarian governments or criminals all over the world. (…) This puts ourselves, our sources, and our work at risk.
+
+The thing is, encryption only solves part of the problem, and that is the question of sources. If a photojournalist or filmmaker is able to keep someone from watching the footage, they can protect their sources. But that is the only problem that is solved.
+
+The letter suggests that Google and Apple’s operating systems make it easy to encrypt their contents. Which is true, but there are a couple of quirks about that. Most phones use fingerprint recognition to keep the data encrypted. That is useful because it is incredibly fast, but it isn’t extortion-proof. It is relatively trivial to force someone to unlock a phone at gunpoint, for example. If that doesn’t work, you can knock them unconscious and get the fingerprint that way, or simply force someone to place their finger on a pad.
+
+The way around that is to use a PIN code or a proper password, but that brings us back to my original point: Photographers and videographers need to be able to review footage on-the-fly. If you’ve ever had the misfortune of trying to enter a Wi-Fi password on an SLR camera, you know that passwords aren’t really the way forward. PIN codes, come to think of it, aren’t much better; they require your attention (which you don’t want when bullets are flying).
+
+Either way, all of this assumes that your adversaries are more or less playing by the rules. If you find yourself in a place where there’s more people with guns that cameras, those rules are, shall we say, open to interpretation. Given enough time, you could probably beat a fingerprint or PIN code out of someone.
+
+Don’t get me wrong, I believe in source protection, but I’m not sure how many digits I’d be willing to lose to a set of bolt cutters in exchange for a 4-digit PIN code. One? Two? Zero? I’ve never been put in that situation, and I’m keeping my (remaining) fingers crossed to hope that never comes up.
+
+Okay, so imagine Canon somehow comes up with a military-grade encryption method that is fast to encode, fast to decode, with a quick way of entering a password to unlock it to review footage and an equally fast way of re-locking the footage if a photographer should be snatched on the street… Now what?
+
+Encryption prevents the assailants from being able toseethe footage, but that’s only part of the problem. Even if data is encrypted, it’s trivial to destroy or steal it. You can break an SD card with two fingers, you can smash a camera with a rock or a bullet, or you can strip-search a photographer, take every piece of electronic equipment they have and throw it in a lake.
+
+The only real way to preventthatfrom happening is real-time off-site encrypted backups. Imagine taking photos and them immediately streaming to an armored car or — better yet — to the cloud. There are a number of challenges here, of course, not least that Wi-Fi or data plans in war zones can be absent, unreliable or both.
+
+The way war-zone photographers currently deal with this is by shooting on small cards (8-16GB) and using dead drops regularly. Leave the cards at your hotel or at an embassy, ship them home in the post, shoot on two cards and leave one of them with a friend.
+
+Yes, photographers get hassled all the time. Yes, data can be seen, destroyed or stolen. But demanding Canon (why not Nikon? Leica? Sony?) implement encryption doesn’t help. It lets them off the hook. Imagine if the next pro-level camera had encryption built in, would that stop photojournalists from getting hassled, kidnapped, murdered? Would it prevent data from being stolen or destroyed?
+
+By prescribing a solution, the Freedom of the Press Foundation is showing that they don’t fully grasp the problem. As startups, we recognize that. Let’s just hope that Canon does, too.

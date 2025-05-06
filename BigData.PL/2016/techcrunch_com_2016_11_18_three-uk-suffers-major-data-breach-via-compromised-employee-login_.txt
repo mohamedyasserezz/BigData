@@ -1,0 +1,69 @@
+Three UK suffers major data breach via compromised employee login
+
+Update:Three has now said it believes information was obtained from a total of 133,827 customer accounts — and has confirmed that “no bank details, passwords, pin numbers, payment information or credit/debit card information was stored on the upgrade system in question”.
+
+“We believe the primary purpose of this activity was not to steal customer information but was criminal activity to acquire new handsets fraudulently. However, as part of this attempt, the criminals did obtain some of our customer’s personal details,” it adds.
+
+Three said it will be contacting all affected customers today.
+
+See below for a full statement from the company’s CEO, and more details on the types of data that might have been compromised via the breach.
+
+Original story follows…
+
+Three UK is the latest company to suffer what looks to be a major data breach — potentially exposing the personal information of millions of customers.
+
+As many as two-thirds of Three’s customers are thought to have had their information compromised after hackers obtained an employee login.
+
+The U.K. mobile network operator has some 8.8 million active customers, and 4,400 employees.
+
+TheTelegraphreports that hackers successfully gained access to Three’s customer upgrade database using an employee login. They then used the login to trigger bogus upgrades for premium smartphones — with the aim of intercepting devices before they reached customers.
+
+Three customer data accessed is said to include names, phone numbers, addresses and dates of birth but no financial information.
+
+In astatementgive to the newspaper, Three said it has seen an increased level of attempted handset fraud over the past month — confirming that 400 high-value handsets have been stolen via burglaries at its retail stores over this period, with a further eight devices “illegally obtained through the upgrade activity.”
+
+“In order to commit this type of upgrade handset fraud, the perpetrators used authorised logins to Three’s upgrade system. This upgrade system does not include any customer payment, card information or bank account information,” it added.
+
+We’ve reached out to Three with additional questions and will update this story with any response. A spokeswoman was unable to confirm whether the breach only affects pay-monthly customers versus SIM-only customers at this point, saying they do not yet have “that level of detail.”
+
+In an update about the breach posted to itsFacebookpage today, Three adds:
+
+We’re aware of an attempted fraud issue regarding upgrade devices and are working with police and relevant authorities on the matter. The objective was to steal high-end smartphones from Three, but we’ve already put measures in place to stop the fraudulent activity. We’d like to reassure customers that their financial details are not at risk. We are investigating how many customers are affected and will be contacting them as soon as possible. We’ll update with further information once we have this.
+
+Three men have been arrested for the hack, according to the National Crime Agency.
+
+A spokesperson for the U.K.’s data watchdog, the ICO, said: “We’re aware of this incident and are making enquiries. The law requires that organisations take appropriate measures to keep people’s personal data secure. As the regulator, it’s our job to act on behalf of consumers to see whether that’s happened.”
+
+The breach followsa record fine by the ICO for U.K. ISP TalkTalk, which suffered a major breach in 2015 when hackers stole around 157,000 customer accounts using a SQL injection technique on vulnerable webpages. In that instance the breach was blamed squarely on TalkTalk having poor website security, rather than on a compromised login.
+
+But as security systems are bolstered against external hacking threats there is growing chatter about rising threats inside corporate networks — when a compromised employee login can offer hackers a far easier route to acquiring sensitive data versus trying to penetrate expensive security systems.
+
+One mitigating measure is to deploy two-factor authentication for employee logins.
+
+There are also a growing number of security startups pitching machine learning-powered network monitoring systems which alert IT managers to suspicious behavior, such as by analyzing patterns of employee activity. One example is U.K.-basedDarktrace.
+
+Update:Three’s CEO Dave Dyson has now put out the following statement:
+
+As you may already know, we recently became aware of suspicious activity on the system we use to upgrade existing customers to new devices and I wanted to update all our customers on what happened and what we have done.
+
+I understand that our customers will be concerned about this issue and I would like to apologise for this and any inconvenience this has caused.
+
+Once we became aware of the suspicious activity, we took immediate steps to block it and add additional layers of security to the system while we investigated the issue.
+
+On 17thNovember we were able to confirm that 8 customers had been unlawfully upgraded to a new device by fraudsters who intended to intercept and sell on those devices.
+
+I can now confirm that the people carrying out this activity were also able to obtain some customer information. In total, information from 133,827 customer accounts was obtained but no bank details, passwords, pin numbers, payment information or credit/debit card information are stored on the upgrade system in question.
+
+We believe the primary purpose of this was not to steal customer information but was criminal activity to acquire new handsets fraudulently.
+
+We are contacting all of these customers today to individually confirm what information has been accessed and directly answer any questions they have.  As an additional precaution we have put in place increased security for all these customer accounts.
+
+We have been working closely with law enforcement agencies on this matter and three arrests have been made.
+
+I understand that this will have caused some concern and inconvenience for our customers and for that I sincerely apologise.
+
+In an Q&A emailed to reporters, the company also notes that criminals gained access to its systems using “authorised log-ins”, and says its investigation of the breach shows that for 107,102 customers (whether handset or SIM only), the following information could have been obtained: Contract start and end date, handset type, Three account number, how long they’ve been with Three, whether the bill is paid by cash or card, billing date and name.
+
+For a further 26,725 customers it says the following information could have been obtained: Name, address, date of birth, gender, handset type, contract start and end date, whether they are a handset or SIM only customer, telephone number, email address, previous address, marital status, employment status, Three account number and phone number and how long they’ve been with Three.
+
+It advises customers to be cautious about anyone contacting them, including any service providers — suggesting customers take the precaution of calling back any companies rather than assuming a call is genuine.

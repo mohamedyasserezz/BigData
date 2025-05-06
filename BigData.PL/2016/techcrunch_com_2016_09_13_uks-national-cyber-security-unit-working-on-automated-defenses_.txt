@@ -1,0 +1,41 @@
+UK’s national cyber security unit working on automated defenses
+
+The CEO of the UK’s new National Cyber Security Centre wants industry and government to work more closely together to combat cyber crime.
+
+Giving his first public speech as CEO of the NCSC, at theBillington Cyber Security Summitin Washington today, Ciaran Martin warned that far too many unsophisticated cyber attacks are succeeding, going on to discuss the government’s new more pro-active cyber security strategy — including looking into large scale DNS filtering as a potential method to automate blocking malware at scale.
+
+“The great majority of cyber attacks are not terribly sophisticated. They can be defended against. And if they get through their impact can be contained. But far too many of these basic attacks are getting through. And they are doing a lot of damage,” he said.
+
+And while he praised the efforts of the security industry to tackle cyber crime to date, he said the fact so many basic attacks are prevailing points to a systemic problem with the private sector’s approach — arguing there’s therefore a need for government to take a lead.
+
+“Something is not quite working yet in the marketplace in terms of cyber security,” said Martin. “There are great companies, great people, there’s great innovation, and barriers to information sharing are being broken down. But given the record of the past few years it’s hard to say that we’ve got ahead of the threat.
+
+“If we’re to maintain confidence in the digital economy, we’ve got to tackle this end of the problem,” he continued. “I believe there’s a legitimate role for the Government in taking a lead… at least temporarily.This is the thinking behind our strategy.”
+
+The UK government named cyber security a priority area, back inNovember 2015, announcing a plan to nearly double spending, to £1.9 billion by 2020, including funding the setting up of the NCSC, which reports into spy agency GCHQ and is due to formally open its doors this fall.
+
+Martin described how the UK is taking a three-pronged approach with its cyber security strategy, beginning with what he dubbed the “organisational coherence” of establishing a central hub in the form of the NCSC.
+
+Next he said it’s prioritizing the defending of “the most serious threats” — such as cyber attacks on national infrastructure. (On the most serious cyber attacks side, he confirmed the UK has not yet faced “a single stand-out incident of hostile foreign cyber attack” but said he’s expecting one, adding: “Last year we detected twice as many national security level cyber incidents – 200 per month – than the year before.”)
+
+The third plank of the strategy is focused on improving the digital security ecosystem as a means to tackle the “unsophisticated, prolific threats” that he warned post a threat to consumer trust in the digital economy. This includes the government seeking to foster and even directlyinvest in relevant security startups.
+
+“Like the US and other allies we have a chronic cyber security skills challenge that can only be addressed through sustained, long-term action,” he noted.
+
+Detailing some of the NCSC’s work aimed at combating the broad funnel of low grade cyber crime, he said the unit has been looking at what “a more activist and automated approach” can achieve — citing automated spam filters and content filters as some of the inspiration for its thinking here.
+
+Automated measures the NCSC is looking at include trialling aDMARC policy on UK government email to stop emails from the wrong IP sets or with the wrong key from being delivered.
+
+“We’re also piloting ways of tackling commodity attacks, where we’re sending automated takedown requests to hosters, registrars and others. And we’re starting to see real, measurable results: looking at phishing attacks against UK government brands, the median time the phishing site is up has dropped from 49 hours to 5 hours.This is a clear, objective protective result,” he added.
+
+The unit has also been working with the private sector on a voluntary basis aimed at developing other automated defenses, according to Martin.
+
+“We’re currently working with the UK telecommunications industry to stop the well-known abuse of the BGP and SS7 protocols to reroute traffic.If we’re right, this will mean it’s much more difficult for UK machines to participate in a DDOS attack. And if we’re right then everyone else can do it,” he said.
+
+He also mentioned an exploratory “flagship project” to scale DNS filtering to try to block consumers from coming into contact with “known malware and bad addresses” — albeit noting it would need to be opt-out based to ensure consumer choice.
+
+“It’s crucial that all of these economy-wide initiatives are private sector led. The Government does not own or operate the Internet,” he added.
+
+In the speech, Martin also took time to laud the partnership between the US and UK intelligence agencies.
+
+“There’s no closer, more important, or more successful partnership in global security,” he said, before adding: “As the world faces many uncertainties, our transatlantic alliance is as important as ever.”

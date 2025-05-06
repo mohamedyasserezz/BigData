@@ -1,0 +1,25 @@
+U.S. federal guidelines for self-driving cars say they will lead to safer roads
+
+The U.S. government revealed its much-anticipated Federal Automated Vehicles policy on Monday evening, detailing its 15-point Safety Assessment to be rolled out fully on Tuesday, which is designed to give manufacturers hoping to build and ship self-driving vehicles proper expectations around what will work for regulators in terms of meeting safety requirements.
+
+The Obama administration’s primary goal in setting out these guidelines is outlining policies that will encourage safe operation of autonomous vehicles, as well as guidance about including proper safety measures in their design; but it’s also designed to be flexible, giving companies and researchers working on self-driving tech the room they need to try different approaches and evolve their systems as needed.
+
+What might be most interesting about the U.S. Department of Transportation’s overview document outlining its policy choices are that they begin by unequivocally expressing the view that the DOT believes “that automated vehicles hold enormous potential benefits for safety, mobility and sustainability.”
+
+Picking up on that thread, President Barack Obama wrote an op-ed published in thePittsburgh Post-Gazettethat includes the following passage:
+
+Right now, too many people die on our roads – 35,200 last year alone – with 94 percent of those the result of human error or choice. Automated vehicles have the potential to save tens of thousands of lives each year. And right now, for too many senior citizens and Americans with disabilities, driving isn’t an option. Automated vehicles could change their lives.
+
+Obama goes on to talk about not only safety and accessibility benefits, but also corrections to urban congestion and pollution as benefits that can come out of self-driving tech, but he adds that getting there must be handled safely and responsibility, and with transparency between the companies creating the technology and American citizens.
+
+The President also notes that Government can often over-regulate when the pace of technology moves too quickly, and this policy is derived to avoid that and provide room for growth and innovation.
+
+The15-point Safety Assessmentthat the DOT is asking automated carmakers to opt into when devaluing their systems includes a request to document how, where, and when the car should operate, what happens when it fails, how its object detection system works, what its testing process includes and data captured by its onboard crash sensors, cybersecurity measures included in the system and more.
+
+Already, private industry players are responding to the new guidelines, and much of the response seems to suggest Obama’s administration hit the right balance in crafting the new policy. Lyft’s Joe Okpaku, VP of Government Relations, provided this statement to TechCrunch, for instance:
+
+Very soon, autonomous vehicles will improve the way we live and travel.  As regulators begin to focus on this exciting technology, Lyft believes that safety must be of paramount importance. Flexibility and innovation must also be preserved as this entirely new form of transportation comes to market. Much work remains ahead, but NHTSA’s guidelines are a step in the right direction.
+
+The new policy also includes a model pointy that the DOT is hoping will help individual states craft legislation that’s more harmonious and consistent with its own national framework, and regulatory tools that can help interpret existing laws of the road in light of automated vehicle use, as well guide the creation of new regulation and statutes in service of safely deploying self-driving tech.
+
+To discuss with private sector stakeholders how the policy will impact their work, the Obama administration is hosting a White House Frontiers Conference on October 13.

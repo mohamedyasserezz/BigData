@@ -1,0 +1,25 @@
+Facebook’s new ad tool helps target people who will actually use, not just install, mobile apps
+
+Getting people to download apps on their phone is hard enough. Getting to use them and return is even harder. And getting valuable users who spend money in the app or take other actions that the developer wants to encourage, is the most difficult task of all. Today, Facebook announced plans to attack that latter problem with the debut of more advanced ad targeting options for mobile app install ads on its social network.
+
+With a new product it’s callingApp Event Optimization, the company is now allowing advertisers to more directly reach those users who will be valuable to their application in the longer term – well after the installation, that is.
+
+This is critical to building an app business, Facebook points out, because of mobile’s growing footprint. The company says,citing third-party data, that nearly 90% of time spent on mobile is now taking place in apps, and 58% of mobile purchases in the U.S. are made within apps.
+
+However, other research shows that 30 days after an app is installed, only 6% of those people who downloaded the app are still using it.
+
+The new ad tool works by letting developers choose which in-app events they want to target. This lets them reach those users who are more likely to do things like complete an in-app registration, initiate a checkout session, make a purchase, add items to a cart, view content, earn achievements and more.
+
+Then, their mobile app install ad will be served only to this target audience on Facebook.
+
+To use App Event Optimization, developers must have theFacebook SDKinstalled, the company notes. The option is also available in both Facebook’sPower Editorfor ad creation and via itsAPI.
+
+Early adopters of this system claim to have seen notable results. Clothing resale marketplace Poshmark, for example, said that Facebook helped them find users who were more likely to make purchases, decreasing the company’s cost per event by 24%. Smule, meanwhile, said that App Event Optimization improved its cost per purchase by 32% and its revenue per user by 22%.
+
+In addition to the news of the product launch, Facebook also today introduced two new ways to advertise apps. Dynamic ads will now allow advertisers to reach people via app install ads who have already shown interest in a particular product or website – increasing the chances that these people will make in-app purchases.
+
+Canvas ads, which allow advertisers to show more of the app through more immersive ad experiences, will also be available to those businesses looking for increased app installs or re-engagement with existing users.
+
+These two ad experiences are rolling out worldwide in the next few weeks. However,App Event Optimizationis live now globally.
+
+For Facebook, improvements to its mobile app install ad business can have a significant effect on its bottom line.According to some analyst estimatescited by Business Insider recently, 1.15 billion apps will be downloaded through marketing on Facebook properties this year, up 33 percent from last year. And mobile app install ads accounted for 17 percent, or $2.9 billion, of Facebook’s total ad revenue in 2015.

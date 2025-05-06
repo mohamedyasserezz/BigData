@@ -1,0 +1,19 @@
+Spotify acquires Preact to fuel its subscription business
+
+Spotify— the music streaming service with 40 million paying subscribers — has made an acquisition that it hopes will help it hold on to them, and build up those numbers against encroaching streaming music competition from Apple, Pandora, Google, Amazon and more. The company hasacquireda company calledPreact, a cloud-based platform and service developed for companies that operate on subscription models (like Spotify!) reduce churn and build up their subscriber numbers.
+
+Terms of the deal are not being disclosed but we will try to find out. It looks like Preact actually may have ceased operations sometime in the autumn of 2015.
+
+Preact, based out of San Francisco, had raised $16.7 million since being founded in 2012, according toPitchBook(CrunchBase notes a lower figure, $12.5 million). InvestorsincludedTrinity Ventures, Launchpad LA, and Atlas Venture.
+
+There are a lot of B2B companies in the market today aimed at reducing churn and improving relationships with subscribers. One key difference with Preact seems to be that it’s basing a lot of its interactions on machine learning, big data analytics and behavioral science.
+
+“Finding the trends and behavior patterns in our data that correlate with paid subscriptions is incredibly valuable,” said Jason Richman, VP Product at Spotify, in a statement. “The addition of Preact to Spotify’s team will help us design experiences that grow our premium customer base.”
+
+For Spotify, enhancing its subscription back end is an interesting move: today subscriptions account for the bulk of the company’s revenue generation in a freemium model that also serves ads to its larger free user base of 60 million users. As companies like Tidal move in eschewing the freemium model that has been the engine of Spotify’s growth, it’s clear that the company would like to figure out how more of its casual users might be better converted and locked into a closer, paying relationship.
+
+The deal appears to have already closed, and the Preact team will work across both San Francisco and New York — but notably, not London, where Spotify has another office.
+
+As we noted inOctoberwhen Spotify’s co-founder Martin Lorentzon stepped down as chairman and Daniel Ek, CEO, took on double duty, the company has been gradually moving its center to the U.S., possibly ahead of a public listing there rather than its original homebase of Europe.
+
+This is Spotify’sseventh acquisition, and a rare one to enhance the company’s back-office, rather than its customer-facing product. Other recent acquisitions have includedCrowdAlbumto improve artwork and overall UX between artists and fans;Cord Project and Soundwavefor messaging and social features;Seed Scientificfor analytics tools; andThe Echo NestandTunigofor better music discovery.

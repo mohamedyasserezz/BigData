@@ -1,0 +1,43 @@
+Dyn DNS DDoS likely the work of script kiddies, says Flashpoint
+
+Business risk intelligence firm Flashpoint has put out a preliminary analysis oflast week’s massive denial of service attack against Dyn DNS, and its conclusion is it was likely the work of amateur hackers — rather than, as some had posited, state-sponsored actors perhaps funded by the Russian government.
+
+The DDoS attack against Dyn’s domain name system impacted access to a range of sites in parts of the U.S. last Friday, including PayPal, Twitter, Reddit, GitHub, Amazon, Netflix, Spotify and RuneScape.
+
+Aside from suspicion falling on Russia, various entities have also claimed or implied responsibility for the attack, including a hacking group called the New World Hackers and — bizarrely — WikiLeaks, which put out a (perhaps joke)tweetsuggesting some of its supporters might be involved.
+
+Flashpoint dubs these claims “dubious” and “likely to be false”, and instead comes down on the side of the script kiddies theory.
+
+Its reasoning is based on a few factors, including a detail it unearthed during its investigation of the attack: namely that the infrastructure used in the attack also targeted a well-known video game company.
+
+“While there does not appear to have been any disruption of service, the targeting of a video game company is less indicative of hacktivists, state-actors, or social justice communities, and aligns more with the hackers that frequent online hacking forums,” writes Flashpoint’s Allison Nixon, John Costello and Zach Wikholm in theiranalysis.
+
+The attack on Dyn DNS was powered in part by a botnet of hacked DVRs and webcams known as Mirai. The source code for the malware that controls this botnet was put on Githubearlier this month. And Flashpoint also notes that the hacker who released Mirai is known to frequent a hacking forum called hackforums[.]net.
+
+That circumstantial evidence points to a link between the attack and users and readers of the English-language hacking community, with Flashpoint also noting the forum has been known to target video games companies.
+
+It says it has “moderate confidence” about this theory.
+
+The personalities involved in these community are known for creating and using commercial DDoS tools called “booters” or “stressers.” The hackers offer these services online for pay, essentially operating a “DDoS-for-hire” service. One of the few known personalities that have been associated with Mirai malware and botnets is known to frequent these forums. A hacker operating under the handle “Anna-Senpai” released the source code for Mirai in early October, and is believed to have operated the original Mirai botnet that was used in the attack against “Krebs on Security” and hosting provider OVH earlier this month. The hackers that frequent this forum have been previously known to launch these types of attacks, though at a much smaller scale.
+
+The firm also argues that the attacks do not seem to have been financially or politically motivated — given the broad scope of the targets, and the lack of any attempts to extort money. Which just leaves the most likely being motivation to show off skills and disrupt stuff. Aka, script kiddies.
+
+Mikko Hypponen, chief research officer for security firm F-Secure, agrees with Flashpoint’s analysis. “I think they are right,” he tells TechCrunch. “I don’t believe the Friday attackers were financially or politically motivated. It was such an untargeted attack, it’s hard to find a good motive for it. So: kids.”
+
+While some of the webcams involved in the attackare being recalled, the IoT’s huge insecurity problem is far greater than any single device maker. Nor does it evidently require the high level skills of professional hackers to execute a high impact attack using botnet control software made widely available. Although professional cyber criminals would likely be a lot more targeted in their attacks, and less keen to draw public attention, given their motive is economic gain — rather than watching the world burn.
+
+Security firm BullGuard, which this summeracquired IoT security startup Dojo-Labs, offers afree IoT scanner toolfor consumers to check whether any of the devices connected to their home network have been indexed by theShodansearch engine, which lists publicly accessible IoT devices that may be vulnerable to hackers.
+
+The company says consumers have scanned more than 100,000 unique IPs via this tool so far — with 4.6 per cent of these scans revealing vulnerabilities. Extrapolating that sample to the circa four billion connected devices that exist globally, BullGuard claims this could equate to around 185 million vulnerable IoT devices.
+
+“Real solutions for IoT are still very much in the air,” continues F-Secure’s Hypponen. “We need a new way of defending against IoT risks but there is no pull in the market from customers to secure these things.”
+
+Despite the lack of consumer pull to lock down the IoT, F-Secure is working on a consumer security product, calledF-Secure Sense, though it’s really testing the waters of demand at this point, says Hypponen. He agrees the real drive to secure IoT devices is more likely to come from businesses worried about risks to data on their corporate networks.
+
+“What will change it is that when there will be some large scale attacks where attackers are not targeting the devices themselves but are targeting the network behind it — so when people’s home networks get infected by ransom Trojans which will encrypt their holiday pictures and the attack came in through their IoT washing machine, then they will realize ‘oh, maybe I should do something about this’,” he adds. “And that’s going to happen.
+
+“So IoT devices are not really a target for the attackers — they are a vector. This is how they get in to the network behind it. And IoT devices are almost always the weakest link in the chain.”
+
+Philip K Dick's "Ubik"(1969)manages to explain in half a pagewhy the Internet of Things will suck under capitalismhttps://t.co/Np9XgSX7Ot
+
+— Matthijs Pontier🏴‍☠️Piratenpartij🤖PhD (@Matthijs85)October 26, 2016

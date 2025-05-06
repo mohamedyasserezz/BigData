@@ -1,0 +1,17 @@
+Viewing links shared in Messenger just got easier
+
+Reading the links your friends share with you in Messenger is getting a little easier, starting today.Facebook saysit’s beginning to roll out support for “Instant Articles” – the fast-loading, distraction-free versions of publishers’ sites – in its popular mobile messaging app. The Android version of Messenger will be the first to receive this functionality, with support for iPhone promised in the “coming weeks.”
+
+In case you’re not familiar, Instant Articles – Facebook’s answer to Google’s Accelerated Mobile Pages Project (or AMP) – are a way to make using the mobile web faster.
+
+Over the years, publishers’ sites have become bogged down with advertisements, tracking tools, and other rich media. This makes them slow to load, especially when visitors reach the site on a mobile device that may have limited bandwidth.
+
+Google’s solution to this problem has been a new version of HTML (AMP HTML), an open framework that allows for more lightweight pages while keeping the needs of publishers in mind. The technology hassince been adopted bya large number of major publishers, technology companies, ad and analytics providers and others.
+
+Facebook, meanwhile, introduced its own variation on fast-loading pages withthe launch of Instant Articles last year.In this case, Facebook hosts the publishers’ content itself, so users don’t have to wait for websites to load in a browser. That means when users click an Instant Article in their News Feed, the content would just quickly appear – up to 10 times faster, in fact.
+
+Facebook claims that those publishers using Instant Articles have seen 20 percent more clicks, 30 percent more shares, and 70 percent of readers were less likely to abandon the site because of loading issues. This April,at the company’s F8 developer conference, Facebook also broadened access to this format so all publishers could get on board. Additionally, publishers can sell ads that are hosted in their Instant Articles and keep all the revenue, or have Facebook sell the ads for a 30 percent take. Instant Articles support native ads, too.
+
+Now, Facebook has expanded Instant Articles to Messenger, which may boost publisher sign-ups given Messenger’s reach as a top five mobile application on the App Store.
+
+When an Instant Article is shared in Messenger, users will see a lightning bolt at the top right corner to indicate that the page will load using this speedy format. Instead of opening up the mobile browser, as is the case today, the articles will load in the app. The feature will be available to the over 900 million Messenger users worldwide when the rollout completes.

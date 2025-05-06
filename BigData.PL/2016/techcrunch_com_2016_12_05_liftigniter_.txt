@@ -1,0 +1,21 @@
+LiftIgniter wants to rid the web of garbage link recommendations
+
+We’ve all seen it before. You read an interesting story and at the bottom of the article is a grid of links to trashy celebrity news or ‘mass market’ content that is completely different to the host website. And thanks to the appeal of viral content, many people will click these links, guaranteeing a level of income for the publisher for referring traffic to other websites. However, there’s a cost: These kinds of spammy links damage a website’s reputation and lower the chance that readers will return regularly.
+
+LiftIgniter, one of the startups competing in the Battlefield competition atTechCrunch Disrupt Londonthis week, wants to fix the system by making websites better customized. The three-year-old company, which graduated Y Combinator and has raised close to $2 million from investors, dispenses with garbage links and makes websites more dynamic and personal to readers using its machine learning model.
+
+Adam Spector, LiftIgniter co-founder and head of business, explained to TechCrunch that the service functions much like humans do. During a conversation, every piece of information — whether it be body language, tones, language and more — helps us evaluate where a discussion is headed and how to maintain engagement with the other person/people. In that respect, services like Outbrain and Taboola — which serve links using a very rigid set of identifies — are replaced by the LiftIgniter system, which studies reader patterns in real-time to help better categorize content that appeals to them.
+
+“It would be crazy to be build a website and not have personalization part of it,” Spector said.
+
+Adam Spector, third from left, and the LiftIgniter team
+
+Under the hood, the technology was created by Indraneel Mukherjee, the startup’s founder and CEO, who holds a PhD in machine learning from Princeton and worked at Google, where his “small team” built a personalization engine that added billions of dollars to Google’s bottom line, according to Spector.
+
+LiftIgniter’s tech is “inspired” by Google, but is by no means a copycat, Spector added. It looks at around 100 signals — including the device and browser a page visitor is using, the link they came from, etc. — to identify a user. Rather than rigid content suggestions powered by tags or keywords, it develops consumer data patterns based on machine learning to help match a reader with others. For example, having studied thousands of users and their activity on a website, LiftIgniter works in real time to work out what other readers are most like them. As it identifies them, the link and content suggestions change to fit what past readers have done.
+
+Some of LiftIgniter’s clients include DailyMotion, Time, CondeNast and Vevo. The startup claimed it can increase click-through rates by 80 percent using its technology, which can be deployed within a day and is charged through volume of API calls. It claims its monthly recurring revenue has reached six figures in U.S. dollars and it is now past break-even.
+
+While media is the most obvious implementation — and especially interesting to this writer, as a new media reporter — LiftIgniter focuses on other verticals, including B2B business and e-commerce. In particular, Spector said its service had helped men’s fashion siteJackThreadsmore than double its direct revenue on-site by serving smarter recommendations.
+
+Looking forward, LiftIgniter is looking to increase its marketing capacity in 2017, right now around half of its team of 11 are PhDs with the rest engineers such is its focus on product and R&D. The startup also plans to raise its next round of funding, Spector told TechCrunch. He added that the company’s monthly recurring revenue has now reached six-figures in U.S. dollars, which means LiftIgniter is currently profitable.

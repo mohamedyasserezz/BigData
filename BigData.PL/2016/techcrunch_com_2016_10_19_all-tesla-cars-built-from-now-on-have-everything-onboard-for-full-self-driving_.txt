@@ -1,0 +1,21 @@
+All Tesla cars built from today on have all hardware needed for full self-driving
+
+Elon Musk revealed the Model 3 in March, revealing details of the $35,000 base model including a sub-six second 0-60 time and a minimum 215 mile range. The basic picture of the Model 3 inspired a pre-order frenzy unlike anything seen previously in the car world, but now Musk has dropped what he referred to earlier as Part 2 of the Model 3 unveiling after a lengthy pause, as promised, and it’s a doozy.
+
+Musk announced that all Tesla cars being produced as of today, including the Model 3, will haveeverything they need onboard to achieve full Level 5 self-driving in the future. The news means that every Tesla vehicle, including the Model S and X as well as Model 3 cars made after today will eventually be able to achieve full autonomous driving, with what Tesla refers to as “a safety level substantially greater than that of a human driver” via nothing more than a software update at some point in the future.
+
+The hardware required to make this possible includes a sensor loadout complete with eight surround optical cameras, which can see up to 250 meters out from the vehicle on all sides, and a dozen ultrasonic sensors to assist the optical system. These are capable of twice the range of previous hardware, and can detect both “hard and soft objects” according to the company. Also included is the radar hardware that provides forward-facing detection of hazards even through potentially obfuscating conditions.
+
+The biggest change might be the new onboard computer that provides over 40 times the processing power of the existing Tesla hardware, which actually runs the in-house neural net the car maker has developed in order to handle processing of data inbound from the vision, sonar and radar systems. Musk said on call discussing the most recent update to the existing driver assistance Autopilot software that it basically stretched computing power to the limit, which is why the upgraded CPU is required for full Level 5 autonomy. The new GPU is the Nvidia Titan, Musk said on the call, though it was a “tight call” between Nvidia and AMD.
+
+The validation required for full autonomy will still take some more time, but Musk said on a call that it’s actually already looking like it’ll be at least two times as safe as human driving based on existing testing.
+
+While it’s being developed, the self-driving system will operate in the background in “shadow mode,” essentially working virtually behind the scenes in order to demonstrate where it would’ve been able to avoid accidents that a person driving could not.
+
+While the hardware will be included in all Tesla cars made from now on, which includes the Model 3, it will be an $8,000 add-on for vehicles to enable the software.
+
+The reason for building in full autonomy capability across the lineup, according to Musk, is entirely to increase driving safety and reduce traffic-related accidents. Musk spoke passionately about this aim going so far as to admonish broad media coverage of Autopilot-related accidents, while the ongoing and persistent issue of human-fault car deaths receives far less attention from press.
+
+In fact, the National Highway Traffic Safety Administration reported sharp increases in traffic deaths in both 2015 and 2016, and asked for help parsing the data to determine the causes of the rise. And when the Department of Transportation released its federal guidelines for autonomous driving technology, it also strongly indicated that the government believes autonomy in vehicles will ultimately lead to safer roads.
+
+Musk said in a conference call in August regarding Tesla’s advancements in creating a car with Level 4 autonomous capability that “what we’ve got will blow people’s minds, it blows my mind,” and added that “it’ll come sooner than people think.” He’s certainly delivered with today’s announcement.

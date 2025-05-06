@@ -1,0 +1,17 @@
+Bots are waging passive-aggressive war on Wikipedia
+
+Bots are a useful tool on Wikipedia: they identify and undo vandalism, add links and perform other tedious tasks set by their human masters. But even these automated helpers come into conflict, reverting and re-reverting each other on the same topic — sometimes for years.
+
+It’s not exactly all-out war: This is more like the kind of war you have at home over the thermostat. One person sets it to 70, then the next day the roommate sets it to 71; the next day, 70, then 71 again, on and on. While it isn’t exactly urgent, it’s still worth studying, according to researchers at Oxford and the Alan Turing Institute. Simple bots, they found, can still interact in unexpected ways.
+
+They tracked edits over a 10-year period and found that bot activity differs from human activity in several ways.
+
+The simplicity of their functions means they have no real insight into what they’re doing, and a pair of bots may routinely undo the other’s work for years, producing no net change whatsoever and effectively canceling each other out. Humans, on the other hand, tend to have a mission, and rather than mutual reversion, one human will change hundreds of instances of another’s work with little or no response from them.
+
+Different countries also have different revert rates: Over the 10 years, German bots were relatively polite, only reverting each other about 32 times on average per bot. Portuguese bots, however, were at each other’s throats, producing an average 188 reverts per bot. Take from that what you will.
+
+In the end, these little spats are of little consequence, but the researchers warn that this is largely because Wikipedia is such a carefully controlled environment. Yet even with a relatively small population of well-mannered, approved bots, conflict was constant, complex and variable. In the wild it could be even more so. The artificial intelligence community, the researchers suggest, would do well to learn from this example:
+
+It is crucial to understand what could affect bot-bot interactions in order to design cooperative bots that can manage disagreement, avoid unproductive conflict, and fulfill their tasks in ways that are socially and ethically acceptable.
+
+The full paper, “Even Good Bots Fight,”is available for free on Arxiv.

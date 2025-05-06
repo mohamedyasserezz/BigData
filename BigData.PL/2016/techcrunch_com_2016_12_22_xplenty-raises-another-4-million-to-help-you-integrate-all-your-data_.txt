@@ -1,0 +1,19 @@
+Xplenty raises another $4 million to help you integrate all your data
+
+The internet has changed a lot over the last two decades, but many companies are still using legacy technologies to extract, transform and load their data into warehouses. One new entrant,Xplenty, is hoping that its fresh approach, prioritizing cloud services, will provide a solid foothold in the massive market for data integration tools. Having grown to serve over 100 customers, Xplenty was able to secure an additional $4 million in financing fromBain Capital Ventures,Rembrandt Venture PartnersandTrue Ventures.
+
+Yaniv Mor, founder of Xplenty, explains that his product is differentiated from its sea of competitors because it provides the flexibility for anyone to use it. Every day, more and more non-technical employees are getting exposure to basic business intelligence tasks like running SQL queries and using reporting tools like Tableau. These analysts can operate Xplenty’s graphical interface without being forced to grind out code, while traditional data scientists retain the freedom to insert their own special sauce.
+
+Continuing with a theme of usability, the team has included over 100 data source integrations with relational databases, NoSQL tools like MongoDB and cloud services like Salesforce, Zendesk, Google Analytics and Google AdWords.
+
+Mor conceded that adding integrations is a never-ending game, but Xplenty is storming out of the gates with a list that small and medium businesses, particularly those in the tech sector that have embraced the cloud with open arms, will find appealing.
+
+“The trending use case is pulling data from social channels, Facebook and Twitter ads,” explains Mor. “You can pull data from sources using Xplenty, combine it with sales and usage data, integrate it in a warehouse and track how successful social campaigns are.”
+
+Back in 2014, when the Tel Aviv-based startupraised its first $3 millionfromMagma Venture PartnersandWaarde Capital, who also participated in today’s round, it counted just 15 customers.
+
+Though many things have changed since then, the company’s business model has remained resolute. Rather than force customers to sacrifice on integrations or data volume, users simply pay for the compute power they use.
+
+Today’s round comes at a healthy time. Large enterprises are doubling down on business intelligence, and companies like Xplenty are providing necessary background services. Mor gives the example of AirAsia, a large airliner that found value in using Xplenty to streamline the transition of its operations to the cloud. New, North American investors, should help the company to build out sales and marketing infrastructure in the region.
+
+Separate from today’s round, the company is also announcing its acquisition ofDriven, a startup specializing in cloud monitoring. Both Driven and Xplenty run on Hadoop, so the purchase should bring new performance management functionality.

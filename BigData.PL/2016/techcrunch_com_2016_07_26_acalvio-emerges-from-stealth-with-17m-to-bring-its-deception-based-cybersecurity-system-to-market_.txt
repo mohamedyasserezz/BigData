@@ -1,0 +1,33 @@
+Acalvio emerges from stealth with $17M to bring its deception-based cybersecurity system to market
+
+Acalvio Technologies, a new start-up stocked with cybersecurity veterans, is emerging from some two years of stealth with $17 million in combined series A and B funding and a security product which the team claims leapfrogs existing solutions.
+
+TechCrunch spoke with founder and CEO Ram Varadarajan and CMO Rick Moy ahead of the announcement. The two believe, and indeed the company is built around the idea, that cybersecurity needs a bit of a reboot.
+
+“There’s a fundamental shift happening. Prevention was the game, what all the dollars were being spent on,” Varadarajan said. “I think detect and respond is the new game. The perimeter guys, firewall guys, sandboxing guys, they’re locks on doors. What we are is the motion detector inside the house.
+
+It’s not like we won’t lock our doors any more, he hastened to add, but a robust security system has more to it than strong locks.
+
+Deception is another layer in security that assumes the attacker has already gotten past perimeter anti-intrusion measures. It’s aimed at preventing would-be attackers from lying latent on a system for days or even months, as post-mortems on major hacks show is often the case. Imagine a burglar hiding in your pantry and coming out every night to raid the cookie jar. (This probably happens in real life, too, and I know there have been movies.)
+
+It presents the adversary with duplicates of real systems, but doped with fake data aimed at making the hacker reveal themselves with visibly hacker-like behavior. If the decoy systems are accessed, you know you’ve got an intruder, and you can expel them — or better still, feed them fake info while you gather your own data to share with your friends at the FBI.
+
+The trouble is that these decoys can be very resource-hungry, since they need to look like the real thing. If 9 out of 10 servers have abnormally high pings or run some random lightweight Unix, a hacker might smell out the deception — a particularly bad implementation might even point the attacker in the right direction.
+
+It’s a difficult and labor-intensive task creating and managing all these decoys — plus, if you leave them one way for too long, an experienced attacker can dance right through. Acalvio’s tech addresses these shortcomings.
+
+“The idea,” explained Varadarajan, “is to make all this programmatically possible. We’re automating the minefield. And we do all this with machine learning.”
+
+The company’s “fluid deception” or “Deception 2.0” software analyzes the network and automates the production of a unique and always-changing array of decoys. It has to take all kinds of things into account, from the ratios of machines and operating systems to banal things like naming conventions. After all, who wants to steal “dummy_file_001.dat”?
+
+It also does this without having the computational cost rise linearly with the security level. If you want to have 10 decoys for every real server, it’s unfeasible to have that much duplicate hardware — so Acalvio’s software also includes a specialized virtual machine paging system that the company claims can swap in the appropriate platform when it’s required. It’s sort of like having a room full of dummy doors and the ability to conjure up a convincing room behind whichever one an attacker pulls open.
+
+“We think we’ve done some incredible things to make it scalable and applicable in a devops fashion,” said Moy.
+
+As for funding, the $17 million comes from two rounds — Accel led the Series A in September, and Ignition led the Series B in June. Elieses also contributed to the B, picked because of their specialization in financial tech, a sector Acalvio plans to target. (The company declined to provide a more detailed breakdown of the funding.)
+
+“Accel has had excellent prior success with Ram Varadarajan and is proud to again be his partner as he guides Acalvio to be the market leader,” said Accel Partners founder Arthur Patterson, who is also on the board at Acalvio, in a press release. Accel also funded Varadajan’s previous company, Arcot Systems.
+
+“There were a lot of suitors available, by the way, I’m happy to say,” added Varadarajan.
+
+The core product is already built, so the funding will be used to do outreach, perform trials, and scale up the operation. Expect to hear more from Acalvio over the next few months when the company is up to full speed.

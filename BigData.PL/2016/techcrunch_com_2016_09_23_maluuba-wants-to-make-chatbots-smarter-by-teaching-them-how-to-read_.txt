@@ -1,0 +1,17 @@
+Maluuba wants to make chatbots smarter by teaching them how to read
+
+Maluubalaunchedits first Siri-like personal assistant at TC Disrupt San Francisco four years ago. Since then, the company has raised $11 million and has licensed its technology to a number of handset manufacturers that now use it to power their own personal-assistant features.
+
+As Maluuba’s head of product Mo Musbah told me, the company spent the last two years doubling down on how it could utilize deep learning in the context of natural language processing. To do so, it recently opened an R&D office in Montreal, for example. As Musbah told me, “our vision there is to build one of the largest deep learning labs in the world,” so the company is definitely not lacking in ambition.
+
+It has the luxury of focusing on R&D because its voice assistant OEM business is creating steady revenue for the company; today, it’s showing off the result of this R&D work for the first time.
+
+Over the course of the last few years, its team of researchers built a system that can take a text and then allows you to ask questions about it, using natural language queries. For the post you are reading right now, for example, you could ask: “Who is Maluuba’s head of product?” and it would return the right answer.
+
+Here is what Maluuba’s tool, which the company sadly isn’t quite ready to release to the public yet, can do:
+
+That’s a very hard problem to solve because the system has to work without the advantage of lots of training. This kind of machine comprehension, Maluuba’s head of research Adam Trischler told me, is what the team believes will help make today’s personal assistants much smarter. “We realized two things: first, the current experience with personal assistants is fundamentally broken. You can’t inject external knowledge,” he said. “Second: the conversations you have are very limited. We wanted to have a more conversational experience — and a more powerful experience.”
+
+The problem he is hinting at here is that when you ask a service like Siri or the Google Assistant any question outside of its domain, it simply passes you off to the web to do a search there. If these assistants could actually understand these unstructured documents better, then they could actually answer more questions. If it could do this in real time, even better. Maluuba’s technology can now do this and that’s a pretty big step forward, especially because the system doesn’t rely on external information when it analyzes a text to answer your questions.
+
+Musbah tells me that the company is looking at applying this technology to its personal assistant, but one of the lower-hanging fruits is actually understanding manuals (to help both customers and the call-center agents that often help them, for example). “The consumer application of this is really awesome,” he told me. “But the first step for us is the enterprise use case.” The company is already working with what Musbah called “some pretty large partners,” though he couldn’t disclose who this partner is.

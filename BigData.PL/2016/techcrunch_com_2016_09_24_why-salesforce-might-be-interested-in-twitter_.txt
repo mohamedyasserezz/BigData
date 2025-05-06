@@ -1,0 +1,27 @@
+Why Salesforce might be interested in Twitter
+
+Rumors were flying all day yesterday that Twitter is up for sale, and Salesforce.com could be a chief suitor. At this point, with so many possible bidders being reported, it’s hard to know what’s going to happen (if anything). But the big question for many is why Salesforce would even be interested in the consumer-facing social network.
+
+While nobody could say with certainty that the deal would happen, most of the industry experts we spoke to believe that if Salesforce were to win this deal, Twitter would be an excellent fit.
+
+R Ray Wang, principal analyst and founder at Constellation Research, says that for him it’s about the battle for what he calls ‘the relationship graph’ where the consumer graph and the enterprise graphs converge. “This is what made LinkedIn so attractive to both Microsoft and Salesforce. The graph is activated by artificial intelligence (AI) and this is why there is mass interest. Twitter, like LinkedIn, provides a very large and active graph,” Wang explained.
+
+That AI component could be key. Just this week, both Salesforce and its chief rival Oracle announced major AI initiatives withSalesforce announcing Salesforce EinsteinandOracle announcing its intelligent cloud applicationsat Oracle Open World.
+
+Meanwhile,Oracle has been collecting data startups over the last couple of years, buying AddThisfor audience tracking,BlueKaifor advertising data andDatalogixfor marketing data, while Salesforce’s other primary rival,Microsoft acquired LinkedIn for $26.2 billion in June. Up to this point, Salesforce hasn’t had a data source like this to call its own.
+
+“Salesforce’s competitors are snapping up [data sources] and will integrate them into their platforms to add additional perspective and intelligence,” Brent Leary, co-founder at CRM Essentials told TechCrunch. “If this deal with Twitter happens, it’s to add a constant flow of information into their AI platform, to marry it with their transactional and customer information,” he added. That combination could provide additional data fuel for Einstein.
+
+There’s also plenty of room to use Twitter data across the Salesforce platform and product family, says Dion Hinchcliffe, chief strategy officer at 7Summits, an online enterprise community platform, built on top of Salesforce.
+
+“The enterprise social play for them is that there’s good alignment with Marketing Cloud and Service Cloud on social channels, though it could certainly augment their Community Cloud offering as well,” he said.
+
+As TechCrunch’s Ingrid Lunden pointed outin her article yesterday on the acquisition rumors, “Twitter is not that big in the greater scheme of things compared to Facebook and the aggregate of other platforms where “conversations” are happening.” Still, Hinchcliffe argues, it remains the most powerful platform for large-scale marketing and customer service and this could be what Salesforce is hoping to take advantage of by owning it.
+
+Of course, Salesforce has access to all that Twitter data now, but if a competitor got its hands on the social network, it could make it more difficult (or expensive) to take advantage of. Owning Twitter certainly would give Salesforce the integration upper hand, but Alan Pelz-Sharpe, an analyst with Digital Clarity Group, thinks it’s a risky proposition for Salesforce to take this course.
+
+“Licensing access to the data source is in my opinion a better and much more affordable route to actually buying the company. Twitter has over $2B in revenue and likely would demand a big multiple in any sale. Though a firm like Microsoft could absorb that kind of deal and barely be bruised if it backfired, it would be a massive [financial] risk for Salesforce,” Pelz-Sharpe told me.
+
+While nobody knows what will happen, the deal could make more sense for Salesforce than it appears at first blush. The problem for the cloud CRM giant is that the rumors alone are likely driving up the price to the point that the cost of acquiring Twitter may end up being too rich for its blood. That’s especially true when you look at the deep-pocketed rivals — including Google, Microsoft and Verizon — reportedly lining up for a chance to buy it.
+
+[graphiq id=”aXgOd4E9tvT” title=”Twitter Inc. (TWTR) Stock Price – Current Day” width=”600″ height=”561″ url=”https://sw.graphiq.com/w/aXgOd4E9tvT” link=”http://listings.findthecompany.com/l/445483/Twitter-Inc-in-San-Francisco-CA” link_text=”FindTheCompany | Graphiq” frozen=”true”]

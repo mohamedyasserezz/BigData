@@ -1,0 +1,15 @@
+Updating to iOS 10 is bricking some iPhones and iPads
+
+Update:It seems this error is fixed, according to Apple. The company provided the following statement to TechCrunch.
+
+“We experienced a brief issue with the software update process, affecting a small number of users during the first hour of availability. The problem was quickly resolved and we apologize to those customers. Anyone who was affected should connect to iTunes to complete the update or contact AppleCare for help.”
+
+Apple just released iOS 10 to the masses, and its seems the update is bricking a bunch of iPhones and iPads.
+
+Hundreds of people have taken to Twitter tocomplain to Apple Support’s accountthat the update has bricked their device. The bug is not affecting everyone, but judging from the reaction on Twitter and from fellow iPhone users it seems like a pretty widespread error.
+
+I just updated my iPhone 6S Plus from 9.3.3 to iOS 10 (which is technically 10.0.1) via an over-the-air update, and my device was bricked upon the update ending.The “connect to iTunes” screen showed up, and even an update via iTunes failed and sent the iPhone back to the same “connect to iTunes” screen. I then did a restore, but even that failed once. After two or three tries my phone finally restored to a clean iOS 10 build.
+
+There seems to be no rhyme or reason to the errors, with some people on Twitter saying it bricked their iPhone but not iPad, and some saying the opposite.
+
+We’ve reached out to Apple for comment, and will update this post when we hear back. For now you should probably hold off on updating your iDevice until more information is known about the bug.

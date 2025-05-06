@@ -1,0 +1,17 @@
+Self-healing electric ink refuses to die when cut
+
+Some clever researchers — perhaps too clever — have created a printable, self-healing conductive material that repeatedly fixes itself after being snipped in half. Perhaps this will lead to cut-resistant hunter-killer robots, but more likely it’ll just be used for smart jeans.
+
+The UC San Diego engineers were looking into making improved self-healing materials, which may take hours or days to repair serious damage, or require heat or some other catalyst in order to work.
+
+“We wanted to develop a smart system with impressive self-healing abilities with easy-to-find, inexpensive materials,” explained Amay Bandodkar, one of the researchers,in a UCSD news release. And that they did: printable ink was impregnated with microparticles of neodymium, a commonly used metal with strong magnetic properties, and carbon black, which is highly conductive.
+
+A clever fabrication process ensures that printed strips of the ink act as permanent magnets, and cutting them only separates them into twosmallerpermanent magnets with similar orientations. The result is that when two pieces are separated, the north pole of one remains by the south pole of the other, attracting each other. If they aren’t far apart, or are brought near each other, the two pieces of printed material will join up — although they won’t form a permanent connection, unlike some more exotic self-healing substances.
+
+Even so, this could make for circuits and sensors that can instantly and easily heal simple damage — great news for flexible and wearable electronics, which are constantly being bent and broken.
+
+The proportions in the ink can be changed easily to make it more magnetic, more conductive and so on — and other, cooler microparticles can be added, as well.
+
+“The generic self-healing ink formulation technique discussed in this work can be easily applied for developing inks containing other fillers for printing self-healing devices that cater to a wide range of applications and printed electronic devices,” reads the paper.
+
+The researchers are currently looking into how to create a battery that self-heals, as well. You can read the full paper — if you’re up on your electrochemistry —at Science Advances.

@@ -1,0 +1,19 @@
+Removing the human element from autonomous commercial drones
+
+Since the industrial revolution, economic advancement has been achieved by increasing efficiency and reducing human labor through greater mechanical autonomy driven by technological innovation.
+
+For many, commercial drones represent the next enabler of economic benefit using robotic platforms. The applications are many: filming, surveillance, delivery and many other tasks that can improve efficiencies. Yet, most of these tasks require a person in the loop.
+
+RecentFAA drone regulationshave started paving the way for commercial drones. However, the true economic potential will not be realized unless further changes are made. The concept of autonomous robots only works if several levels come together, each of which either replaces or improves human-based tasks with software or hardware. But to better understand what autonomous drones truly mean and where things stand today, you must break down the contributing elements.
+
+Autonomous flight, takeoff and landing.This is the keystone of the drone industry, both commercially and recreationally. It allows the drone to perform predetermined routes (waypoint based), from takeoff to landing, with many on-flight fail-safe protocols. One might add obstacle avoidance technology, relevant for some applications, such as offered by recent TechCrunch meetup winnerArbe RoboticsorSkydio. Basically, it replaces traditional navigation provided by a trained human.
+
+Autonomous ongoing operation.Drones also face the limitation of their battery life, requiring human intervention to swap batteries or charge and place them in a container protected from the elements. This is crucial to allow ongoing performance in many applications, without the need for an on-site operator to take care of it.
+
+Autonomous task performance.Taking this capability a step further is to use computer vision or other analytics and basic AI capability, where the drone not only operates, but also creates insights based on the data it has harvested, and translates them into actions. Moreover, the drone may even perform basic tasks, without any human intervention. For example, imagine a drone constantly monitoring piles of construction materials and seamlessly ordering supplies on a real-time basis as they are needed.
+
+The first level, autonomous flight, is one of the most basic capabilities, but islimitedin the U.S. by a “line of sight” regulation, while thriving inother regionslike Africa. Leading drone companies such asDroneDeployandSkycatchuse the above autonomous level to create ongoing data collection that is processed and provided to the end-user as a decision tool.
+
+Many startup companies are tackling the second level of autonomy by offering element-protected charging stations; most recently,Airobotics’premium-level solution. Yet, the true fulfillment of this charging station is to allow end-to-end autonomous capabilities, which requires taking the person out of the loop to operate in a scalable and unlimited way.
+
+Today, innovation is taking place in the area of offering real-time solutions, where on-the-fly analytics takes place, allowing real-time understanding and response. This requires solving an algorithmic challenge of real-time detection while in flight. Once solved, the on-flight detections create, over time, a cloud-based database that can be used to create useful insights and rule sets, allowing real-time responses.

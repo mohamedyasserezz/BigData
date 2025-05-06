@@ -1,0 +1,29 @@
+Here and Microsoft extend mapping deal, expanding into connected car data
+
+Here— the mapping business that wassold by Nokiato a consortium of automakers including Audi, BMW and Daimler for $2.8 billion in 2015 — today announced that it has extended a mapping deal with Microsoft. Microsoft was already using Here data in Bing Maps (used in Bing.com, Cortana and other services) and the Bing Maps API. Now, it plans to expand that to use Here mapping data also in its future connected car services.
+
+The deal comes on the same day that Microsoft alsoinked a deal with TomTom, in which TomTom will integrate its “enterprise-grade” location services, based on TomTom’s maps, traffic and navigation software, into Microsoft Azure, for developers to use them in applications where locations services are needed. (Things have definitely cooled down between the two companies since theirpatent-disputing days.)
+
+The financial terms of the deal are not being shared, a spokesperson from Here told me, but the agreement is being described as a “multi-year strategic commercial agreement.” Recall that earlier this year, Daimler confirmed thatMicrosoft (along with Amazon) was in talks to take a minority shareholding in Here. However, we have confirmed with the Here spokesperson that “Microsoft does not have a minority stake in Here” at this time.
+
+The deal between Microsoft and Here is the latest chapter in a multi-year relationship between the two businesses.
+
+Microsoft was once a close strategic partner of Nokia, as the two worked together on making mobile handsets that could compete against the collective might of Apple’s iPhone and a vast sea of smartphones powered by Google’s Android.
+
+Using Here was very much a cornerstone of that effort. Eventually, however, whenMicrosoft acquired Nokia’s handset businessoutright in 2014 for $7.2 billion, it left Here behind, keeping the relationship intact only as part of a mapping and location data deal.
+
+In the interim, that relationship has not been perfect. While the Here Maps app made anappearance in Microsoft’s Windows 8.1— the first of the ‘new generation’ of its operating system — by 2016 Hereseemed to be dropping app supportfor Windows 10 and Windows Phone.
+
+At the same time, though, Here’s mapping data seems to have gained prominence in Microsoft’s backend. As Microsoft has moved deeper into new areas like AI, with Cortana, it has embedded Here location and mapping data into that, along with Bing Maps and other services; and it’s playing a significant role in Microsoft’s developer play powering the Bing Maps API in the Azure Marketplace.
+
+“Bringing the highest quality maps and geographical services to our consumers and developers is of paramount importance to Microsoft,” said Jordi Ribas, Corporate Vice President, Bing Program Management, Microsoft, in a statement.
+
+The expansion into doing more in automotive plays into that. Here says the deal will include not just maps, but real-time traffic flow and public transit data.
+
+Today, Microsoft is not necessarily the most prominent tech name in the rapidly accelerating world of automotive technology, but it’s clear that itwants to have a placein that race. Both the TomTom deal, and the expanded deal with Here, could be signs of what it wants to be doing (naturally, more with in-car maps and location services, and providing those tools to developers to build their own apps) but also possibly a sign that we may be hearing some more engine revs from that part of its business soon.
+
+For Here — which at its lowest point was a loss-making business thatcost $1 billion a yearfor Nokia to run — this will give it another route to revenues and profit.
+
+“Our goal is to enable global access to the best mapping and location services for consumers and businesses, and we are delighted to extend our partnership with Microsoft, supporting its product innovation into the future,” said Bruno Bourguet, SVP of Sales and Business Development at HERE, in a statement.
+
+Updated with more detail from Here about the terms of the deal.

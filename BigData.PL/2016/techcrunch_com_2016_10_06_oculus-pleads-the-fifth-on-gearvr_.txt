@@ -1,0 +1,19 @@
+Hands-on, camera-off with the Oculus ‘Santa Cruz’ standalone VR prototype
+
+Upon being guided into the inner-sanctum at the Oculus Connect developer conference, I was told to leave my phone and backpack behind. The powers that be told me I would not be allowed to take any photos or video of my demo with Oculus’s new inside-out-positional-tracking-standalone-virtual-reality-headset-prototype (more simply code-named “Santa Cruz”) once I was inside.
+
+Now, I had two phones on me at the time so I could’ve easily put one away as a decoy and snapped some sneaky product shots with the other, but sadly I complied with the nice PR person’s wishes. Perhaps it was partially out of fear that the device would be discovered in a subsequent strip search. No such strip search followed.
+
+What did follow was a very interesting look into the prototype of a product what will likely become very important to the company down the road.
+
+The demo itself was just 3-4 minutes and involved chilling in a little neighborhood where I got to walk around on the top of a few buildings. The cell-shaded animation wasn’t too robust with detail, though the actual resolution seemed identical to that of the Rift. It was a very passive experience — more of a room-scale movie than a game — but the feature prototype unsurprisingly completed the prototyped feature with ease.
+
+While the tracking tech was certainly impressive, it wasn’t abundantly clear whether anything I was witnessing was actually a major breakthrough. Inside-out tracking has been a tough nut to crack, but others already have. It seems that the toughest computer vision problems to plague others’ solutions in the space are still things Oculus is struggling with, as well.
+
+The team admitted that the tracking only worked optimally when certain environmental conditions were met. The room in which I demoed “Santa Cruz” was very well-lit, which was hinted to be somewhat essential to this particular prototype. It was also a fairly tight space, with plenty of knick knacks on the walls that likely operated as clear points of reference for the computer vision that was actively mapping the space — I was also told open spaces were not ideal for this prototype.
+
+A lot of people were surprised by the announcement today, largely because they’d been expecting to see the positional tracking tech be demoed on a Gear VR mobile headset. “Santa Cruz” was certainly acool announcement from Zuck, but it was also a bit of a disappointment. Today’s reveal suggests that Oculus hasn’t solved the compute-efficiency problems related to bringing the tech to smartphone VR, and now it’s also unclear whether this is still a problem that’s actively being approached.
+
+In an interview with Oculus VP of Product Nate Mitchell, the exec not only deflected my questions about whether positional tracking on Gear VR was in the product pipeline, he questioned my assertion that the company had ever been working on the tech for smartphone VRat all, something that the company’s own CTO has talked abouta lot.
+
+The standalone headset phase is clearly in its earliest stages and, though this demo was quite cool, there are no signs that this Frankenstein’d prototype is anywhere close to being a real consumer product, especially until more details emerge regarding some of these technical issues.

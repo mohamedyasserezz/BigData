@@ -1,0 +1,13 @@
+Android will now send push notifications when new devices are added to your account
+
+Googletoday rolled out a new featurefor Android users designed to keep their accounts more secure: notifications about newly added devices. That is, when a new device is added to your Google account, you’ll receive a push notification on your current Android device about the security event. The notification will ask, “Did you just sign in?” If the activity appears suspicious, you’ll then be able to take immediate action.
+
+To do so, users can tap on the “Review Account Activity” option on the notification itself to be taken to a page where they can view the recently used devices associated with their account. This screen will show what kind of device was used, when, the location, IP address, and even which browser was used to perform the sign-in.
+
+From here, you can either confirm the device was okay by selecting “Yes, that was me” or you can tap “No, Secure Account,” if you think you’ve been hacked or someone else is using your password.
+
+Device notificationswere launched last year,via email notifications. However, according to Google, by providing this information via push notification, users are more likely to take action. In fact, the company says that users are up to four times more likely to review the information compared with email notifications. In addition, these alerts will be sent out in real-time, so users will be able to quickly stop their account from being compromised.
+
+Google today offers other security features for user accounts like two-step verification and single sign-on, but, until now, it didn’t have native new device alerts. Apple, however, has offereda similar new device notification featurefor years, alerting users by email or notification when their Apple ID is used to sign into a device they didn’t recognize or didn’t sign into recently.
+
+The new Android feature is gradually rolling out over the next two weeks to all end users, says Google.

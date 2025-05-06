@@ -1,0 +1,25 @@
+You can now get daily election updates on Messenger, with NYT Politics’ new chatbot
+
+If you can’t get enough presidential election news – that is, you’re some kind of glutton for punishment – there’s now a new way to get automated updates with the latest poll numbers, along with other election news via Facebook Messenger. The New York Times has launched a new elections news service via itsNYT Politics Botfor Messenger that will text you every morning with the new numbers, as well as offer on-demand access to the latest news, key takeaways, and more.
+
+The service aims to be a simpler way to get the latest about the U.S. Presidential election, without having to spend time browsing the web and reading articles, but it’s limited, of course, to NYT’s coverage.
+
+To use the service, you’ll first have toadd the NYT Politics Bot to Messenger. Afterwards, around 9 AM EST every day, the bot will send NYT’sUpshot election forecastto the mobile messaging client, if you opt in to receiving these alerts.
+
+You can change these subscription preferences at any time by typing “unsubscribe,” the company says.
+
+In addition to the daily updates, the bot also offers “Quick Reply” buttons that let you ask for specific information, like “forecast,” “polls,” or even “state forecasts,” if you want to see information related to your own state. Here, the bot lets you pick from suggested key states – like Florida or Ohio, for example – or you can type in another state directly.
+
+While many news bots rely solely on users clicking on prompts or texting pre-configured commands, what’s interesting about NYT’s Politics bot, which was built by Chatfuel, is that it’s powered by an A.I. engine that also lets you talk to the service more conversationally. That is, you can say things like “Will Hillary Clinton win?” or “I live in Texas,” and it will return the Upshot forecast or the state’s forecast, respectively.
+
+In addition, NYT reporter Nicholas Confessore will contribute his own musings to the news service, including thoughts on some of the pivotal moments and other takeaways, from now until Election Day. Users will be able to respond to these messages as well, but using only pre-written responses.
+
+This commentary will arrive later in the day, following the data sent in the AM, says The NYT.
+
+This is the only NYT bot built specifically for news and storytelling purposes, the company notes, but it’s not the first time the news organization has experimented with bot-based news delivery. The company previously usedSMS storytellingto deliver news about the 2016 Olympic Games in Rio, and it used to runan NYT Election bot on Slack, which is no longer live.
+
+The biggest difference between this new effort and the older Slack bot is that it’s now combining both automated and human elements in delivery of the news. This is meant to address one of the issues with today’s chatbots – that the bots’ automation combined with their clunkiness can often make youveryaware that you’re chatting with a machine. And not knowing the right commands to use can sometimes lead to frustrating experiences, as well.
+
+That said, Facebookearlier claimedthat news chatbots are some of the most popular ones live on Messenger today, and NYT’s internal numbers seem to support this, too. Though the company won’t say how many subscribers the new bot has, it has achieved their signup goal within only two days of being live. However, The NYT stresses that for now, the larger agenda with this news experiment is not necessarily achieving a sizable user base, but tracking the interaction and engagement levels from those who do decide to participate.
+
+If all goes well, the bot may be put to further use even when the elections – mercifully – come to an end. The NYT hasn’t yet decided what the bot’s future functions may include, though, but says it will decide in the days after the elections.

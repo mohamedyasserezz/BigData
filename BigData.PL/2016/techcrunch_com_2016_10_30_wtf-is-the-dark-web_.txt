@@ -1,0 +1,21 @@
+WTF is the dark web?
+
+Maybe you heard your LinkedIn, Tumblr or Dropbox password was floating around there. Or maybe you read a news story about that guy who got busted for running Silk Road, that site that sold drugs and other illicit goods. Chances are, you’ve seen the words “dark web” splashed in a headline or heard them mentioned by a friend. But WTF is the dark web? How do you get there? And what makes it “dark”?
+
+The dark web consists of sites that generally allow users to remain anonymous and require particular software to access. You’re not going to stumble upon these sites by googling — they’re not indexed by search engines. Anonymity is the unifying factor of the dark web, and it’s used for all the purposes you might imagine, from the relatively benign (whistleblowing, cryptocurrency) to the more nefarious (child porn, narcotics sales).
+
+Is this the same thing as the deep web?
+
+Nope. What’s known as the deep web is everything online that’s not indexed by search engines. Your email inbox, for instance, is part of the deep web because nothing I google will ever land me in your inbox. Same thing goes for sites that live behind a paywall and so on. “Deep web” and “dark web” have been conflated a lot since Silk Road, but they’re not the same thing.
+
+How do I see it?
+
+Depending on what part of the dark web you’re trying to access, you’ll need to use different services. The one you’ve most likely heard of is Tor. The Tor browser is a modified version of the Mozilla browser, and you can download ithere. Unlike your normal browser, though, the Tor browser allows you to connect to the Tor network and access dark web sites. There are other services you can use, too, like I2P.
+
+Tor has anin-depth explainer, but we’ll hit the highlights here. The Tor network is pretty cool — rather than connecting your device directly to a website you’re visiting, Tor routes your traffic through a series of relay servers and encrypts it at each step of the way. Tor stands for “The Onion Router” and you can think of its routing process like the layers of an onion. The organization compares its routing process to driving a random, zigzagging route to make it more difficult to follow you, rather than driving straight from your home to your destination.
+
+Can I get in trouble for looking at the dark web?
+
+Well, TechCrunch is definitely not your lawyer. And while yes, in theory, you’re anonymous on Tor, people get arrested for doing dumb stuff on the dark web every once in a while. You’re a big kid and hopefully you know the difference between legal and illegal behavior without asking a tech blog to guide you.
+
+That said, there are lots of things on the dark web that will definitely not get you in trouble. Tor is a powerful anti-surveillance and anti-censorship tool, and companies likeFacebookhave Tor addresses to allow activists and human rights defenders to connect to their sites in a more secure fashion.

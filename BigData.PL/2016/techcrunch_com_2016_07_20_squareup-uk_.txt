@@ -1,0 +1,67 @@
+Square quietly sets up for a UK launch, now takes payments in pounds on Square Register
+
+The UK is sometimes called anation of shopkeepers, and soon mobile payments companySquaremay be putting that to the test in the search for new business.
+
+Square Register — the company’s point of sale app used by merchants to manage their inventory, make invoices and take payments from customers — has quietly started to allow users to make payments in the UK, in UK pounds. It provides evidence that Square, founded back in 2009, may finally, quietly be starting to turn on its first services in Europe, and specifically the UK, to take on rivals like iZettle, SumUp and Paypal, and expand beyond Square’s existing footprint in the U.S., Canada, Japan and Australia.
+
+A launch of Square in the UK on its own comes after we have heard from sources that Square also considered coming here by way of acquisition, buying a European player like iZettle as a way to enter the market.
+
+There are some other indications of an imminent launch in the country. Square Register’s listing on the UK App Store now features screenshots showing UK pounds (pictured above); and while there are still no signs of live UK website, Square has set up geofencing to redirect UK visitors to its dedicated UK site and URL forwhere it will live.
+
+There is also what appears to be a new Twitter account,@SquareUK, which follows the same name format as Square’s accounts forJapan,CanadaandAustralia. The UK account was created last month.
+
+The new functionality comes as details have emerged about Square’s business status in the country. As uncovered yesterday byReutersyesterday, Squareup Europe is nowlisted at Companies House, the UK body where all commercial enterprises must register. It has also listed itself with the country’sFinancial Conduct Authority. Reuters also found that there was some evidence the company had already started limited trials with some merchants.
+
+The story actually goes back a bit further. In 2014, wereportedthat Square was taking steps into more international markets with the launch of Square Register outside the U.S. — but with no option to process payments using the app.
+
+In fact, it seems that Square has been stealthily in the UK for some time, although most likely as a dormant, non-active company. Digging through the registration on Companies House, we found that it was only last week, on July 13, that Squarefiled to officially change its nameto Squareup (UK) Ltd in the UK. Before this, the company was trading under the generic and unassuming name of “Employee Services Professionals Ltd”.
+
+Employee Services Professionalsfirst registered as a business in May 2014, about six months before Square Register first appeared in the UK app store.
+
+It also seems that the UK operation is still in some flux. In our search,we found two “SquareUp” listingsat Companies House — Squareup Europe and Squareup (UK). Both list the same London address — the law firm Osborne Clarke — and both have the same Square employees as directors — Business Lead Francoise Brougher; and Daniel Harper. Harper describes himself as “International” at Square on his LinkedIn profile. And Brougher, you might recall, joined Squareback in 2013after holding VP roles in sales and strategy at Google.
+
+There is another London address for Squareup listed with the FCA, which is in abuilding in Bloomsbury. We’ve called the number listed for that office, but only reached a voicemail for Squareup Europe.
+
+There has been some other groundwork laid down by Square to prepare to do business on this side of the pond. In May of this year, the companyappointedUK-based financier Lord Paul Deighton to its board of directors, replacing Magic Johnson. Deighton’s roles have included UK Commercial Secretary to the Treasury, CEO of the London Organising Committee for the Olympic Games and Paralympic Games, and partner at Goldman Sachs.
+
+For now, Square is not actively selling hardware in the UK market. Youcan take payments without a physical card, but it’s much more likely that Square will start to offer and distribute these before a wider launch of its service.
+
+Today, Square provides merchants with a product that aligns with local regulations for chip-and-PIN. But hardware, in fact, may have been one of the gating factors for why Square held off expanding into markets like the UK sooner.
+
+Square’s initial reader, a cute square ‘dongle’ that plugged into your iPhone, iPad or Android smartphone/tablet, relied on a swipe of a card’s magstripe, but that system had already been phased out in the UK and Europe in favor of a more secure, EMV-standard chip-and-PIN solution.
+
+And when Square launched its firstEMV readersin 2014, it appeared to use asignature for authenticationrather than a PIN. This, as we pointed out at the time, was not ideal in Europe, where another would-be rival,iZettle, found itselfunable to process Visa cards in certain marketsbecause chip-and-signature is considered more liable for fraud than the chip-and-PIN combination.
+
+It’s never been completely clear why Square chose to hold off on launching in Europe for so long. One source tells us that Square wasn’t very enthusiastic about the idea early on. Interestingly, the company, we’re told, had been in discussions to come in by way of acquisition, say of a company like iZettle. Ultimately those talks went no where and the company instead decided to formulate an organic expansion plan.
+
+Now, Square’s entry into the UK comes at an notable time for the company, for the UK and for mobile payments in general in Europe.
+
+Publicly-traded Square, which is led by Jack Dorsey in a double CEO role with Twitter, is gearing up for its next quarterly earnings at thebeginning of August. The company is not yet profitable, and it is trading at thelower end of its range. But last quarter, Square’s second as a public company, saw it beat analyst expectations and also report strong growth, both signs that there is still more to come from the company.
+
+One of the obvious areas for growth (and to show the market that it has a long way to go still) is international expansion. Square has done that very slowly up to now, with the service currently only available officially in four markets, the U.S., Canada, Japan and Australia.
+
+The UK itself is a key market for commerce and for tapping SMBs, which are Square’s target customer. Aside from Napoleon’s prescient aphorism, about 99.9% of all businesses in the country are classified as small and medium enterprises, according to arecent study from the UK government. That’s approaching 5.5 million businesses, and some £1.8 trillion in collective annual revenues.
+
+But in years between Square first launching its groundbreaking mobile-based payment services and today, there has been a lot of movement in the market, both boost and bust.
+
+Tapping into what was clearly pent-up demand outside of the U.S. — many smaller UK merchants and businesses have traditionally found taking card payments too expensive or too difficult with the nature of their businesses — a bunch of other companies have started services that very closely resemble Square’s. In the UK, some of the bigger rivals areiZettle(which has raisednearly $245 millionin funding) andPayPal.
+
+And while there was definitely a lot of hype about which Square clone would come out on top, things have definitely sobered up in recent times (just as they did for Square itself, which saw asignificant markdownon its valuation before it listed).
+
+These companies make a lot less noise today as they get down to the business of building scale on what are relatively thin margins for service — iZettle, for example, takes afeeof between 2.75% and 1% on each transaction. And two of them, Groupon-backed SumUp and Rocket Internet’s Payleven, ended upmerging earlier this year.
+
+Other close observers and entrepreneurs in the world of payments believe that Square should have made this move years ago. Could it have missed its window by stretching an entry out for so many years?
+
+@TechCrunch@ingridlundenMike, to be fair this is one of the largest strategic mistakes the company made. The window was in 2010.
+
+— Brian Roemmele (@BrianRoemmele)July 20, 2016
+
+All of this points to a tighter market that may be more challenging to covert quickly today.
+
+And perhaps all the more so, considering the wider economic climate and uncertainty in the UK in the wake of the Brexit referendum, which has had a direct impact on the value of the UK pound, and has left many wondering about what might come next in terms of how money is spent and invested here. In the most positive spin, a new company opening for business here could be one sign of confidence.
+
+We have reached out to multiple people at Square for comment and will update this story as we learn more.
+
+Update: Square responded, sort of: “We are declining to comment, but appreciate you asking.”
+
+Updated with extra comment and clarification on number of quarters that Square has been public.

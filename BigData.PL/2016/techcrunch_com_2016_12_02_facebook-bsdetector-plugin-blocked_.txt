@@ -1,0 +1,25 @@
+Facebook blocks links to B.S. Detector, fake news warning plugin
+
+Not only is Facebooknotproviding little red warningsalong with links to potentially specious news—it’s now blocking links to theplugin that did.
+
+Over the past week, some Facebook users reported seeingcontent warningsnext to links from established fake news domains, apparently without realizing a third party was responsible. We reported this phenomenon, later clarifying that B.S. Detector is in fact a third party plugin that both we and a number of Facebook users mistook as a testing feature. Irony!
+
+Now, if you attempt to share a link toB.S. Detectoron Facebook, you’ll be met with this message. Apparently, blocking fake news (detectors) is quite simple!
+
+“I believe they are doing this because of TechCrunch article that came out yesterday, falsely identifying a screenshot of my plugin as a Facebook feature under development,” Daniel Sieradski, design technologist and creator of B.S. Detector, told TechCrunch. “It would seem I’ve caused them some embarrassment by showing them to be full of bull when it comes to their supposed inability to address fake news and they are punishing me for it.”
+
+For now, the B.S. Detector plugin itself remains functional, as do links to the plugin onProduct Huntand theChrome app store. As recently as four hours ago, links to B.S. Detector were functional on the site.
+
+https://twitter.com/selfagency/status/804737519720038400
+
+“They could feasibly block the plugin, sure. They just need to counteract it with their own JavaScript or change the way they handle links in their code,” Sieradski said. “If blocking ads doesn’t violate their TOS, why should flagging fake news?”
+
+Under considerable duress following the election, Facebook hasexpressed its intentionsto combat the myriad forms of fake news that run rampant on its massive social platform. In the meantime, those efforts remain to be seen.
+
+We’ve reached out to Facebook for an explanation about the blocked link and will update if we receive a response.
+
+Update 1:38 p.m. PT:Roughly two hours after this post went live, Facebook reenabled links to B.S. Detector. We have yet to receive word from the company about why it blocked the links to begin with.
+
+Update #2 3:15 p.m. PT:Facebook just contacted TechCrunch with the following comment:
+
+“We maintain a set of systems to help us detect and block suspicious behavior on our site. We temporarily blocked people from sharing the domain bsdetector.tech because of other abuse we have seen from the .tech top-level domain. We have corrected the error.”

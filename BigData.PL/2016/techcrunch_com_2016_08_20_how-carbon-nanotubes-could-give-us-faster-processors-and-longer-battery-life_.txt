@@ -1,0 +1,27 @@
+How carbon nanotubes could give us faster processors and longer battery life
+
+Carbon nanotubes are one of those supermaterials — a cylinder with a diameter of one or two nanometers — that are full of dreamy applications, ranging from supercomputers to ultra-efficient smartphones. The problem is, they are difficult to manufacture, and commercializing these applications may require 10 or 15 years.
+
+A nanotube is a tube-like molecular structure made of one element, usually carbon. In particular,carbon nanotubes(which were accidentally discovered in 1991) are known for their exceptional electrical and mechanical properties.
+
+These properties arise from nanotubes’ structure. In nanotubes, carbon atoms are organized in a helix made of hexagonal arrays. Visualize the typical honeycomb structure: lots of hexagonal cells of wax. Then, imagine wrapping this honeycomb texture in a small cylindrical roll, more than 25 million times smaller than a sushi roll. There you have a wire of carbon nanotube.
+
+The symmetry of this “honeycomb-like roll,” along with its tiny diameter, introduces significant changes in the electronic density of states, and hence provides a unique electronic character for the nanotubes, professors Pulickel M. Ajayan and Otto Z. Zhouwrite.
+
+The potential for applications is huge.MIT researchers, for example, developed a wearable toxic sensorbased on a circuit loaded with carbon nanotubes. In a world where computers have to run faster at lower energy, carbon nanotubes promise better performance than silicon as a micro transistor.
+
+“Carbon nanotubes are excellent candidates to complement silicon,” said Subhasish Mitra, associate professor of Electrical engineering and Computer science at Stanford.
+
+Mitra and his Stanford colleague H.-S. Philip Wong, a professor of electrical engineering,are working with IBMand other collaborators to develop a new generation of computers that have processors based on carbon nanotubes. Their goal is to build a prototype of a computer that works with carbon nanotubes and shows improvements in energy efficiency.
+
+“If you replace silicon transistors with carbon transistors, the margin of energy efficiency improvement could go up to 1000X,” Mitra said.
+
+Smartphones are computers too, Mitra noted. “You could have a smartphone that has the computational capability of an ideal Watson machine. You can even have situations with millions of sensors collecting data, and the smartphone can do massive computing on that.” If you can offer a massive computer capability, Mitra said, people are going to pay for it. This new generation smartphone could be 30 times faster than today, and would only need one charge a month.
+
+After having mentioned applications in “Internet of Things and beyond,” Mitra is eager to draw a line between research on carbon nanotubes and basic incorporation in manufacturing. Even though research has seen progress, smartphone manufacturers don’t probably want to jump into new things “unless they’re absolutely sure,” Mitra concluded. “We hope they’ll start experimenting on this soon.”
+
+Ten or 15 years, Mitra said, could be a realistic schedule for commercial implementation. Any new technology, Mitra said, has a range of implementation of comparable size.
+
+Manufacturing carbon nanotubes is the issue, but other universities are working on the solution, as well. The lab of Rice University, for example, discovereda process called Teslaphoresisto create self-assembling carbon nanotubes.
+
+“What we discovered is that nanotubes can actually string together and form wires by themselves under this electric field,” Paul Cherukuri, assistant professor of chemistry at Rice, saidin a video put out by the university. “There’s new science coming out of this as we go.”

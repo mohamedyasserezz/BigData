@@ -1,0 +1,49 @@
+Why non-internet companies are buying into adtech
+
+Research shows that the flurry of M&A in the advertising industry is nowhere near slowing. In Q1 2016 alone there were 72 merger and acquisition events among advertising technology, marketing technology and digital media firms.
+
+It’s clear much of this deal activity is about industry consolidation, with giants like Google and Facebook (and before their own buyouts — AOL and Yahoo) buying up small or medium-sized firms to bolster or establish their own audience, round out their tech stack or neutralize potential threats.
+
+Looking at the data, three clear giants emerge: Verizon, Walmart and Oracle. But why are companies from industries as diverse as telecom, retail and enterprise software investing in adtech in a serious way? Looking at these companies reveals wider trends stretching across their respective verticals, as the lines between adtech and other verticals blur.
+
+Verizon has distinguished itself as an aggressive acquirer in the adtech sphere, purchasing AOL in 2015 for $4.4 billion and Yahoo in July 2016 for $4.8 billion. And they’re not alone.
+
+SingTel, which is the largest telecom company in Singapore, is another example of a major telecom provider jumping on the adtech trend. Kontera, Adconion andAmobee, companies thatSingTel purchased, each help SingTel better exploit their vast collection of consumer data, enabling potential advertisers to more easily reach their target audiences and deliver relevant messages, deals and promotions.
+
+In addition,Telenor, the main telecom company in Norway,acquired Tapad, a cross-device retargeting solution, to help it better understand its users’ behavior. Lastly,Ooyala, which is asubsidiary of Telstra, the largest telecom company in Australia, acquired the video SSPVideoplazain 2015.
+
+Facing a wireless market that is largely tapped out, and prevented by the FCC and DOJ from making mergers and acquisitions within the telecom space (see: the federal lawsuit against AT&T for its attempt to purchase T-Mobile USA), telecom providers are looking to find new ways to create revenue.
+
+Acquiring adtech companies allows telecom providers to leverage and profit from their biggest asset — unique consumer data. With the right adtech infrastructure, they can build targeting and cross-device matching solutions for advertisers and tap into the lucrative demand for connecting to consumers on mobile. What sets Verizon’s play apart is that it’s also looking to own a larger audience, through the portfolio of content properties (like TechCrunch, The Huffington Post and Yahoo! Finance) that the AOL and Yahoo acquisitions brought on.
+
+In this way, Verizon is attempting to replicate the way that Google and Facebook own both the audience and the means of connecting to and monetizing them.
+
+Walmart has been acquiring multiple marketing, engagement and analytics solutions over the past few years. In 2014,WalmartLabs purchased Stylr, a fashion app that pulls inventory from local stores to help customers find clothes they love, and thenAdchemy, an e-commerce technology company.
+
+These were followed in 2015 byPunchTab, a platform that collects data about in-store activity and customer loyalty and, more recently, by e-commerce startupJet.com, highlighting the importance Walmart places on becoming more digital in how they approach their customers.
+
+Priceline Group similarly acquired Qlika, a localized ad targeting startup, for $3 million in 2014. Qlika, which was absorbed into the company, is helping Priceline bring their advertising in-house. Specifically, the online travel provider is using Qlika’s algorithm to optimize their advertising — which includes personalized messaging, ad targeting and keyword bidding — based on micro-locations.
+
+These B2C moves into adtech seem to be designed to bring media buying, digital advertising and marketing automation capabilities in-house in an attempt to solve media agency transparency issues, and gain a competitive advantage over other companies in their space.
+
+Many large-scale brands see value in developing in-house programmatic capabilities and avoiding a reliance on external tech and media partners, losing more of their spend with each middleman. By controlling all aspects of the programmatic ecosystem themselves, they can guarantee a better use of their marketing budget, and more ownership over the data.
+
+As B2C advertisers allocate more spend to digital and mobile, (CPG advertisers alone areestimated to spend nearly $6 billion on digital advertisingthis year), B2C brands could be well-advised to follow in Walmart’s footsteps and aggregate their advertising capabilities in-house. It could minimize extra margins and significantly reduce costs.
+
+Oracle has invested heavily in consumer data and advertising technology, with theBlueKaiacquisition for $400 million andDatalogixfor $1.2 billion in 2014,Maxymiserin 2015 andAddThisfor $200 million in 2016.
+
+By adding critical marketing data and capabilities into the Oracle Data Cloud and allowing them to better compete with other cloud advertising competitors like Adobe, these acquisitions bolster Oracle’s position as a data-as-a-service company.
+
+Similarly, Salesforce has been acquiring adtech companies to support its product offering, with theMetaMindandExactTargetacquisitions serving to add marketing automation and personalization services and accelerate the growth of the Salesforce Marketing Cloud.
+
+IBM has been even more bullish about marketing and advertising tech. They are turning Watson into a digital marketing powerhouse, and building out their Interactive Experience (iX) division into the largest digital agency network in the world. In a span of a single week in February, iX acquired three digital advertising and design companies; iX now has1,100 designers and 10,000 employees.
+
+The company is moving aggressively because they’ve recognized a huge opportunity in digital marketing, and because they’re focused on transitioning swiftly from hardware to cloud-based analytics.
+
+For enterprise software giants like IBM, Salesforce and Oracle, investing in building out a strong suite of cloud-based marketing services to expand their existing service portfolio is a becoming an increasingly important priority, likely reflecting the growing importance their client companies place on digital marketing as a central concern of their business.
+
+In looking at big players in adtech M&A it’s impossible to ignore China. In the past year alone, Chinese companies were responsible for three major adtech acquisitions;Mobvista bought NativeX for $24.5 millionin February,Spearhead Integrated Marketing Communication Group bought Smaato for $148 millionin June andMiteno Communication Technology purchased Media.netfor $900 million in August.
+
+While this increase in Chinese M&A activity could be attributed to too much local dominance from the BAT companies, or Chinese companies looking to invest in existing U.S. technology which is scaled, what is clear is that the purchasing power of giants in the west is now being matched with money from the east.
+
+In most cases, industry consolidation is a natural and systematic process. The unpredictability often lies within who the acquirers will be and from which industries, histories or geographies they originate. As the adtech space continues its evolution, we know that telecom, B2C, SaaS/DaaS and Chinese firms will remain active, along with new, yet-unknown entrants.

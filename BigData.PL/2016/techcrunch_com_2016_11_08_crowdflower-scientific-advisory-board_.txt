@@ -1,0 +1,19 @@
+CrowdFlower announces a scientific advisory board as it works to combine AI and crowdsourcing
+
+When crowdsourced labor companyCrowdFlowerrecentlyraised funding from Microsoft, co-founder Lukas Biewald told me his team was focused on technology that allows businesses to supplement algorithms and artificial intelligence with human judgment from crowdsourced labor pools.
+
+Now CrowdFlower bringing on more experts to shape the development of that technology. Specifically it’s formed a three-person scientific advisory board, made up of Barney Pell (founder/co-founder of startups including Powerset, LocoMobi and Moon Express, who also led an artificial intelligence team at NASA), Anthony Goldbloom (founder and CEO of Kaggle) and Pete Warden (a staff research engineer at Google, where he’s the technical lead on the TensorFlow Mobile machine learning project).
+
+“With all these different customers and all these different applications, we wanted them to be confident that they’re going to get a high-quality algorithm,” said Biewald. (He was previously CrowdFlower’s CEO and now serves as its chief data scientist and executive chairman. He’s also a friend of mine from college —although we really only talk about CrowdFlower now, which is kinda sad when you think about it.) “One way to make sure all the product decisions we make really reflect the cutting edge was to get some of the world leaders come in and look at our product.”
+
+Pell, who will be co-chairing the advisory board with Biewald, has a long history with CrowdFlower — he’s already an investor in the company, and he noted that Biewald first came up with the idea while working at Powerset. He said CrowdFlower’s “human in the loop” approach, where humans can help provide training and quality control to AI, could become increasingly important.
+
+“When people think about AI, they’re generally thinking about 100 percent automated solutions,”  Pell said. But the reality is, “If there’s people in the loop somewhere, then where you’re really confident, [the algorithm] can handle those cases, and then the rest of the marginal cases go to people.”
+
+Pell added that CrowdFlower (which launched at the TechCrunch50 conference) works with customers whose technology might seem fully automated at first, such as self-driving cars — but even in that case, they still need humans to help with train the vision systems and help with the labeling.
+
+As for the board’s role, Pell said it will both look at individual products under development and at the broader CrowdFlower roadmap.
+
+I brought up another possible benefit: In an industry where “artificial intelligence” and “machine learning” have become buzzwords thrown around by every startup, this kind of board can add an important layer of credibility.
+
+“The real challenge here for any company that’s trying to do machine learning is that there’s so much research that it’s impossible for anybody to synthesize it all,” Biewald replied. “I think you’ll see more and more companies trying to adopt an approach like this.”

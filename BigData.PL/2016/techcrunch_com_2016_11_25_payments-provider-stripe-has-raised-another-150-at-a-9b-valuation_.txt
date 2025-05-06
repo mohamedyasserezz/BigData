@@ -1,0 +1,35 @@
+Payments provider Stripe has raised another $150M at a $9B valuation
+
+Stripe— the company that lets websites and apps incorporate payments services by way of an API and a few lines of code — has raised another round of funding, a Series D of $150 million at a $9 billion valuation pre-money; $9.2 billion post-money.
+
+At a time when many have questioned whether the most valuable so-called “unicorns” of the startup world are being overinflated, this is a significant upround for the company. Its previous valuation, from a round in the summer of 2015 when it tied up with Visa,was $5 billion.
+
+In addition to the funding round today, Stripe is getting a revolving credit facility of up to $250 million secured with J.P. Morgan Chase & Co., Goldman Sachs Group Inc., Morgan Stanley and Barclays PLC. The idea here is that this extends Stripe’s borrowing capacity at a time when interest rates are low, but not its debt. There is no obligation to use it.
+
+The news of the funding comes at an interesting moment. We’re at thefirst days of the holiday shopping season, when companies like Stripe, which take a cut on every transaction made on its platform, will hope to make its biggest revenues of the year. Thanksgiving Day alone isprojected to break $2 billionin sales for the first time in 2016.
+
+Some might think it a little strange for this news to come out the in the middle of a news-lite holiday weekend — theWSJwas the first to report it earlier today.
+
+But to me it makes perfect sense: Stripe will eventually want to go public, or be acquired by an even bigger commerce (or tech, ahem, Google?) behemoth, and this is its way of saying, at a key moment for online shopping: We’re here, and we’re coming for you.
+
+This round was led by two VCs: previous investorGeneral Catalystand new backer “CapitalG” — the new name for Google Capital post Google’s restructuring of its search, mobile other businesses under the new Alphabet brand. This round also includes Sequoia Capital and other previous investors that Stripe hasn’t named.
+
+This brings the total amount of funding in San Francisco-based Stripe — which was founded in 2010 by Irish brothers Patrick and John Collison (respectively its CEO and president) — toabout $460 million.
+
+While Stripe has built its business mainly around its payment services, it has also been developing a number of other features to fill out a larger ambition to position itself as a financial services platform.
+
+These have included tools toincorporate businesses from outside the U.S.;fraud preventiontools; and ways ofspeeding up payoutsfor merchants and marketplaces using its platform. The platform play helps the company both increase its margins (transactions on the Stripe payments service alone having very small margins), and increase its touch-points with its customers.
+
+To that end, Stripe says the funding will be used to build this out further, with more developer tools, acquisitions and other services to help entrepreneurs run their businesses. It’s also going to ramp up its hiring, the company said.
+
+While Stripe is not specifying what it may launch next, when the company was rolling out Radar, its fraud prevention tool, at the end of October, John Collison hinted that there could be more coming out to improve buyer and seller protection, to build more trust into e-commerce.
+
+“This is an area of active development and there is a long list of things we want to do,” he said. “We haven’t ruled out [launching it as a separate service] but want to see how people use it and what works and what doesn’t first.”
+
+It’s also more generally taking an Apple-like approach to the concept of online commerce and running businesses on the internet: it sees an opportunity to compete against the likes of PayPal by simplifying currently complicated things.
+
+The company’s mission, Collison told me last month, is to “take out the complexity from growing your business… We are going to see this as a major part of Stripe’s product offerings in the future. It is how we think about the world. What makes life hard for businesses, and why aren’t they growing faster? How can we change that?”
+
+The company still is not being that transparent about how many users it has globally, or how much it’s making in revenues or total funds processed through the Stripe platform, except to say that these users now span 110 countries and that Stripe has processed at least one payment for half of all U.S. internet users.
+
+In other words, it has a fairly extensive list of customers implementing one or more of its services, and those include mass-market internet brands. Some of those clients are SAP, Macy’s, Missguided, GE, Adidas, DocuSign, Slack, Medium, Daily Mail, Yelp, NASDAQ, UNICEF “and both presidential campaigns.”

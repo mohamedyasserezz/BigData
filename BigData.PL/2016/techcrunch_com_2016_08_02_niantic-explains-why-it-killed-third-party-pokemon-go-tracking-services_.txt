@@ -1,0 +1,29 @@
+Niantic explains why it killed third-party Pokémon Go tracking services
+
+Pokémon Go creatorNiantichas releaseda statementon its Facebook page explaining some of therecent changes. You may have noticed on Twitter, Facebook and Reddit that some of these changes have been quite controversial. Hence today’s statement.
+
+First, the ‘3-step’ indicator in the nearby Pokémon screen is gone for good. Yes, it was broken. But Niantic doesn’t have any good alternative for now. The company promises that it’s going find a way to improve this feature and bring it back in some other form.
+
+And it brings us to the second point. Third-party tracking services, such as Pokévision, PokéHound and PokéNotify receivedcease-and-desist letters. While I haven’t been using these services, my friend Arthur thinks they are pure evil and should die in a fire. But they existed for a reason — if the ‘3-step’ indicator was broken, players needed some kind of hints about where to find Pokémon. Otherwise it’s just pure luck.
+
+Sure, Pokévision and others probably went too far. But as a colleague who shall remain nameless wrote, “it was the only thing keeping their game playable while tracking is broken. It’s like suing the locksmith for helping you get into your house when you’ve got a pot on the stove about to burn your house down.”
+
+Anyway, Niantic has the final say regarding this issue. The company says these services were making the servers unreliable. Pokémon Go doesn’t have an API, so it seems like Pokévision and others created countless of accounts on many servers around the world using Android emulators. With these emulators, they could fake movements around cities and reverse-engineer the game to create a sort of lightweight API and gather Pokémon data.
+
+Quite a cool trick. But it’s clear that these services were using a ton of server resources. Pokémon Go doesn’t need additional server load as Niantic is still trying hard to make the game scale. And it could also be a nice excuse to kill them anyway.
+
+Here’s the full statement:
+
+Trainers,
+
+As many of you know, we recently made some changes to Pokémon GO.
+
+– We have removed the ‘3-step’ display in order to improve upon the underlying design. The original feature, although enjoyed by many, was also confusing and did not meet our underlying product goals. We will keep you posted as we strive to improve this feature.
+
+– We have limited access by third-party services which were interfering with our ability to maintain quality of service for our users and to bring Pokémon GO to users around the world. The large number of users has made the roll-out of Pokémon GO around the world an… interesting… challenge. And we aren’t done yet! Yes, Brazil, we want to bring the game to you (and many other countries where it is not yet available).
+
+We have read your posts and emails and we hear the frustration from folks in places where we haven’t launched yet, and from those of you who miss these features. We want you to know that we have been working crazy hours to keep the game running as we continue to launch globally. If you haven’t heard us Tweeting much it’s because we’ve been heads down working on the game. But we’ll do our best going forward to keep you posted on what’s going on.
+
+Be safe, be nice to your fellow trainers, and keep on exploring.
+
+The Pokémon GO team

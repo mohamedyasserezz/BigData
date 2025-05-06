@@ -1,0 +1,11 @@
+Ford acquires SAIPS for self-driving machine learning and computer vision tech
+
+Ford outlined a few of the ways it’s aiming toship driverless cars by 2021, and part of the plan involves acquisitions. CEO Mark Fields revealed at a press event in Palo Alto today that the automakeracquired SAIPS, an Israeli company focusing on machine learning and computer vision. It’s also partnering exclusively with Nirenberg Neuroscience, to bring more “humanlike intelligence” to machine learning components of driverless car systems.
+
+SAIPS’ technology brings image and video processing algorithms, as well as deep learning tech focused on processing and classifying input signals, all key ingredients in the special sauce that makes up autonomous vehicle tech. This company’s expertise should help with on-board interpretation of data captured by sensors on Ford’s self-driving cars, and turning that data into usable info for the car’s virtual driver system. SAIPS’ offerings include detection of anomalies, persistent tracking of objects detected by sensors, and much more. The company’s past clients include HP and Trax, but its partner group doesn’t appear to have included much in the way of driving-specific applications.
+
+Ford noted during today’s announcement event that it identified SAIPS as a potential target through a tech scouting operation it began in Israel in 2013, and quickly determined that the company’s machine learning expertise would help bolster its own efforts.
+
+The Nirenberg partnership similarly takes research applied in a different area to the problems of full autonomous driving. Dr. Sheila Nirenberg’s research focuses on restoring sight to patients with degenerative retinal disease, but Ford thinks the tech can be used to help its virtual drivers greatly improve their own vision systems, and process information in ways similar to how human drivers would.
+
+Ford also noted their previously-annouced investment in Civil Maps to augment their 3D mapping capability. High-res 3D maps are a key ingredient in any full-fledged self-driving efforts.

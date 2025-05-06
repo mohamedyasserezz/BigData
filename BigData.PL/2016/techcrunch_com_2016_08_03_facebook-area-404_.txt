@@ -1,0 +1,35 @@
+Inside Facebook’s new “Area 404” hardware lab
+
+This is where Facebook will prototype its solar drones, Internet-beaming lasers, VR headsets, and next-gen servers.
+
+The problem with moving faster than most companies is that Facebook was plagued by delays whenever it had to outsource prototyping and testing of its gadgets and gizmos. With so much hardware on its 10-year roadmap, and quarter after quarter of profits stacking up, it made sense to build a dedicated laboratory within its Menlo Park headquarters.
+
+Check out what we saw on our tour:“40 photos from Facebook’s ‘Area 404’ mad science laboratory”
+
+So yesterday, Facebook gave a group of journalists the first look insideArea 404.
+
+Packed with giant, expensive, dangerous machines like a computer-controlled 9-axis drill, Area 404 houses one of the few rooms at FacebookMark Zuckerbergisn’t allowed in. It’s too unsafe despite all the precautions, certifications, and training Facebook offers its hardware engineers.
+
+Luckily Facebook rigorously adheres to a 5S safety system — sort, set in order, shine, standardize and sustain. Every single tool is laid in a labeled square of tape.  Spencer Burns, one of the lab’s CNC Model Maker, explains that Facebook can’t move fast if it can’t find its tools.
+
+Jay Parikh, Facebook’s Head of Engineering and Infrastructure, tells me the 22,000 square foot space is named Area 404 after the “Not Found” error code. Facebook engineers kept needing to prototype new hardware devices, but the resources necessary were unfortunately “not found” at Facebook.
+
+After enough requests, Facebook burrowed out a bunch of offices in Building 17 of its headquarters, drilled giant support columns down to the bedrock to support the heavy machinery, and turned the space into a gleaming white, futuristic hack center.
+
+It’s a massive upgrade from where Facebook’s tinkering in the physical world started. “Our first hardware lab was a big as a desk in the old mail room” laughs Parikh. His favorite piece of the new lab? An electron microscope with 10,000X magnification for inspecting teeny, tiny failures in hardware. Construction began 9 months ago under the supervision of Facebook’s Mechanical And Power Manager Mikal Greaves, and now the first teams are moving in.
+
+Parikh explains that there are two main objectives for Area 404:
+
+To build a state-of-the-art hardware laboratory with the equipment necessary to prototype and fail test the early designs of Facebook’s forthcoming gadgets
+
+Both will cut down the time it takes Facebook to get from device conception to working prototype it can then mass produce. The Internet.org Connectivity team that tests apps under weak connections, the Oculus VR squad, Facebook’s mysterious new Building 8 pioneer tech division, and its Infrastructure teams that build servers and data center can now bounce ideas off each other in a shared home. The lab has 50 work benches to accommodate them all.
+
+Inside the lab we saw everything from 3D design software modeling stations to computer-controlled lathes and mills for forging metal into prototypes to an MRI machine for looking inside a device for errors. Half of the lab is dedicated to electrical engineering experimentation, while half is for prototyping workshops for shaping, cutting, and bending metal as well as manipulating wood, stone, or glass if necessary.
+
+What will be built here? Data infrastructure like Facebook’s open rack network switchWedge, itsOpen Vaultstorage solution, and the sensors for its Telecom Infra Project’sOpenCellular platform. Connectivity Lab inventions like theTerragraph wifi nodesandProject ARIES antenna, as well as parts for theAquila solar-powered dronethat just had its first successful test flight. Plus Oculus will prototype future version of theRift headsetand theSurround 360 camera.
+
+Area 404 doesn’t do everything. There’s no welding tools here, and it won’t be processing its own circuit boards. When devices are ready for scaled production, the prototypes built at Area 404 will be sent elsewhere to be copied. At that point, there shouldn’t be any extra back-and-forth iterations necessary. All the kinks will have been worked out at HQ.
+
+Hardware isn’t a new endeavor for Facebook. It has an Oculus hub in Seattle and an airplane hangar in the UK for its Aquila drone. But with Area 404, it can bring its creations in the physical world up to the same pace of creation and iteration that’s driven Facebook’s success in the software world.
+
+Take the Area 404 tour yourself by checking our pictorial:“40 photos from Facebook’s mad science laboratory”

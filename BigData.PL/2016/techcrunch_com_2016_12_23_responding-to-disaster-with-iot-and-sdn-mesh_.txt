@@ -1,0 +1,43 @@
+Responding to disaster with IoT and SDN mesh
+
+Communication is always important, but during a disaster it becomes paramount.
+
+Hard phone lines are an afterthought, if they’re still standing. If phone lines go down, we’re left with cellular networks that quickly become overloaded.
+
+Indeed, the internet is the backbone of contemporary communications, from email and Twitter to Instagram and WhatsApp. If we suffer an internet outage, we’re at a loss for how to communicate with the connected world.
+
+During the aftermath of the Boston Marathon bombing, which didn’t affect hard phone lines in the area, mobile networks couldn’t handle the surge in activity. One provider went so far as to suggest sticking to texts and emails. I can’t think of anyone who would bother to email during such a crisis. In any disaster, man-made or natural, power can go out, servers can go offline and systems like cellular networks can get overloaded. This communication outage effectively means isolation — the last thing anyone in a disaster zone wants.
+
+When cellular networks and internet infrastructure are impaired, the current solution is to jerry-rig hardware replacements to act as a kind of stop-gap until the infrastructure can be restored to its original state. This approach to communication restoration has several faults, though.
+
+It takes time to implement these provisional solutions. The equipment needs to be transported, deployed and initialized. Until this happens, communications throughout the disaster area are incapacitated.
+
+Even if the deployment is a success, i.e. it was initialized without a problem, the solutions themselves can be faulty. Sometimes the solutions that are deployed interfere with communications more than they actually repair communications. After the Haiti earthquake in 2010, local ISPs restored 90 percent of the network, but NGOs broke the same network by taking over the wireless spectrum.
+
+Even if jerry-rigged solutions do work, they still take time to implement. In a disaster zone, there needs to be an immediate, dynamic and reactive way to communicate when the internet goes down. The solution might be right in front of us — or at least on our wrists.
+
+The adoption of IoT has led to more than 5 billion connected devices (wearables, sensors, implantables, etc.) in use today. There are varying accounts of how quickly these devices will proliferate, but everyone agrees the number is poised to increase rapidly over the next few years. These devices are perfect candidates to communicate with the outside world in isolated disaster zones.
+
+Low-power IoT devices and sensors have the potential to communicate with each other through Bluetooth, meaning they won’t have to go through the public internet to connect with each other. The possibility exists that these devices can form their own network — a sensor-based network that can, at the very least, provide some basic functionality during periods of extreme network stress.
+
+IoT devices can retain the capacity for low-bandwidth communication in the event that internet and power are cut off to the user, making the devices resilient in a disaster. Because they run on battery power, they aren’t affected by blackouts like many wired communication devices. And broken wiring won’t affect their ability to communicate with other wireless communication devices. While they certainly don’t have staggering amounts of power, they can enable basic communication in a pinch. Bluetooth Low Energy can handle more than 1,100 tweets per second, giving users a way to quickly communicate with a large group of people outside the disaster zone.
+
+Even nodes in the IoT that are exclusively sensors can help in the event of severed lines of communication. Large portions of the IoT are sensors that monitor the environment they’re in. These sensors can be used to relay information about the nature of the disaster, extracting data from temperature and radiation sensors to give responders a better idea of what they’re dealing with. In the event that a wide swath of sensors have been destroyed, that information also gives responders valuable, if harrowing knowledge.
+
+The devices that make up the IoT are an eclectic bunch, so managing them effectively is a complex task. The diversity of devices will increase the chances that some will survive, but without a way for them to talk to each other, they’ll be useless. Differences in networking hardware and software need to be overcome, and the only way to do that is to put the data traffic controls in the capable hands of software-defined networking (SDN). SDN separates the data plane from the control plane, and with a standard SDN protocol, IoT devices will be able to communicate with each other, even between disparate devices.
+
+IoT devices need to dynamically respond to the sudden lack of internet with compulsive wireless networking. SDN software can be built into these devices so they can search and re-route based on the information they have. This routing information can be sent to responders, as well, so they have a better understanding of the communication pathways that remain. The dynamic IoT network can use cell phones as SDN routers. If SDN protocols are programmed into the cell phones and the devices, a responsive and automated network can respond to the needs of its users.
+
+Cell phones and tablets have multiple network interfaces (like Wi-Fi and Bluetooth), so they should be able to bridge gaps between radio technologies. Every device in the disaster zone can be repurposed to form a geo-locating mesh network, funneling data out of (and into) the disaster zone while giving precise locations for the people who need help. The phones and tablets become mobile routers, giving preference to critical information and allowing for the local caching of data, which reduces the load on the (already strained) network.
+
+IoT has built-in redundancy — it’s basically a mesh network of very low-bandwidth devices. If you lose nodes in the mesh, it will still function, especially with the added direction of SDN routing that optimizes node hopping through the mesh. It’s possible for responders to track the number of nodes and how they’re moving to gain insight into the disaster and how the people in the disaster zone are reacting. This is all for low-power, IoT mesh networks. For a more robust post-disaster network, software-defined wireless mesh networks might be a more versatile solution.
+
+Mesh networks reconfigure the typical hub-and-spoke model of the internet into a more diffuse method of internet access. This diffusion avoids any single point of failure by allowing the network to dynamically reroute data through the mesh. Multi-hop routing is easy to implement, but the hardware involved is not.
+
+Wireless mesh networks need line-of-sight communication pathways, which is why they’re usually deployed on the tops of buildings. It’s possible to use this requirement to our advantage following a disaster. Battery-powered mesh routers can be dropped on top of buildings. Once they’re in place, we can use them to communicate with the ground network of mobile phones and IoT devices. Only a few nodes need to be connected to the internet, so effective deployment comes down to extending the reach of the internet throughout the disaster zone.
+
+The main appeal of a mesh network is its versatility. Network nodes can be nearly any wireless-enabled device, from wireless routers to mobile devices like laptops or smartphones. These networks also can be set up quickly and easily because they don’t require a fixed infrastructure. What this all comes down to is that, in a disaster, people prefer to communicate with the devices they’re accustomed to using. Maybe it’s the comfort factor of a familiar device — we almost always have at least one mobile device on us — but people reach for their mobile phones first when disaster strikes.
+
+After the Tōhoku earthquake in 2011, 50 percent of the photos related to the disaster were uploaded to Flickr in less than 24 hours. The reflex to capture evidence of disaster and inform other people of it has two purposes: it informs people in the area of the risk of staying nearby, but it also helps rescue teams identify particularly affected or precarious regions within the larger disaster zone, which helps them make informed decisions about next steps in the rescue effort.
+
+The general public, equipped with billions of connected devices, is our best weapon to mitigate disaster. The network should evolve with this in mind, injecting SDN protocols into IoT and mobile devices to take advantage of the undulating sea of potential mesh nodes already out in the world.

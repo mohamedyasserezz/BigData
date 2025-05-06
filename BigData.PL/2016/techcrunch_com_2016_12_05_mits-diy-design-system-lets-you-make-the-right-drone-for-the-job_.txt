@@ -1,0 +1,13 @@
+MIT’s DIY design system lets you make the right drone for the job
+
+Drones are fairly off-the-shelf affairs for most people; there’s a wide range of companies making them for both commercial and consumer uses, but ultimately these are all remarkably similar. They tend to favor a quadcopter structure, and are often configured with photography in mind as a primary use.
+
+But MIT’s Computer Science and Artificial Intelligence lab has come up with a new system that wants to make drones a lot more customizable depending on a user’s needs. Everything from size, to shape and structure can be tweaked according to the planned use of the drone, using an interface that allows people to combine rotors and rods in different ways to end up with a drone. The system also checks for take-off, hover and land capability, assuring a designer that their creation will actually be able to function when built.
+
+[youtube https://www.youtube.com/watch?v=oTKABMVlaCw&w=680]
+
+People who want a bigger carrying capacity can add more rotors to provide more lift strength, but they have to consider that they’re also going to cut battery life as a result. The point is, however, that they’re able to actually make these calls, which is more than can be said for current available options, which rely on either off-the-shelf product use, or working directly with a drone company with a back-and-forth custom design process.
+
+MIT CSAIL’s system is designed to make the customization process much easier, taking out the need for plenty of trial-and-error runs to iterate on the device’s mechanics. To do this, the team had to overcome a key challenge in making it possible to decrease the number of variables that a designer needs to consider when creating their drone. It does this by establishing a kind of baseline of optimization assumptions that let people skip the first, most complicated step in the process on focus on their project needs.
+
+What’s the ultimate benefit? Easier, more task-specific drone design for things like scientific surveys, for instance. The project had support from the National Science Foundation, the Air Force Research Laboratory and the EU’s Horizon 2020 research program, which gives you an idea of the kind of organizations interested in being able to leverage this kind of flexible drone design.

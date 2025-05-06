@@ -1,0 +1,17 @@
+Microsoft hits a speech recognition milestone with a system just as good as human ears
+
+It’s a red-letter day at Microsoft Research: a team working on speech recognition has hit a serious symbolic goal with a system that’s as good as you at hearing what people are saying.
+
+Specifically, the system has a “word error rate” of 5.9 percent, on par with professional human transcribers. Even they don’t hear things perfectly, of course, but 94 percent accuracy is more than good enough for conversation.
+
+“This accomplishment is the culmination of over twenty years of effort,” said Geoffrey Zweig, one of the researchers,in a Microsoft blog post.
+
+Indeed, speech recognition is one of those tasks that’s been pursued for decades by pretty much every major tech business and research outfit. The quality has been steadily creeping up over the years, and the latest advances come courtesy of — you guessed it — neural networks and machine learning.
+
+“Our progress is a result of the careful engineering and optimization of convolutional and recurrent neural networks,”reads the paper. “These acoustic models have the ability to model a large amount of acoustic context.”
+
+The team used Microsoft’sopen-source Computational Network Toolkit, clearly to great effect.
+
+Naturally this is sort of a best-case scenario measurement: the systems can’t hear as well as us in noisy environments, for instance, and may stumble on accents — although the latter problem is more easily approached with neural networks by adjusting the training data set.
+
+Congratulations to the Microsoft Research team — but I doubt they’ll stop here. Computers were created to exceed human capacity at certain tasks, and it looks like we can add another one to the list. No word on how soon we can expect this improved speech-to-text to hit Microsoft products.

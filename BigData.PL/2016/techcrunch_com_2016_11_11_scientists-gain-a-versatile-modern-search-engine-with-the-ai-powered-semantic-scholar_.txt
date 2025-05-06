@@ -1,0 +1,23 @@
+Scientists gain a versatile, modern search engine with the AI-powered Semantic Scholar
+
+Scientific papers come out with such frequency that keeping up with the literature is practically a full-time job for anyone at the cutting edge of a major field.Semantic Scholaris a search engine that reads the literature on its own, picking out topics and influences, ranking citations, and making it much easier to find both the latest and what you’re looking for.
+
+If you’re a scientist, you need something like this. And while Google Scholar and PubMed are helpful resources, they aren’t particularly sophisticated when it comes to metadata: how frequently has this author or paper been cited? What organism was this tested on? Does the paper mention this or that confounding variable?
+
+Semantic Scholar analyzes the full text of the article, looking for key phrases that it knows, from reading a hundred thousand other articles in the field, are important to track. It uses natural language processing so it understands when a paper is discussing its own results or those of another experiment, and from there can extract critical details like methods, materials, animal types or brain regions tested, etc. It pulls figures when it can, attempting to identify the contents so they too can be searched and sorted.
+
+And because it’s also juggling info from the many other articles on the topic, it can make intelligent judgments on, for example, which related or cited papers are most relevant, or what other work the current paper has helped lead to. Twitter is even linked in so you can go straight to the author or department and DM them or see followup discussion.
+
+Results are fast, relevant, and easily sorted or drilled down into. For a scientist who frequently consults such articles, this is a huge advance. And millions of searches have been done on the service since it entered beta last year.
+
+That was strictly in computer science, the first field Semantic Scholar was instructed to consume. But today it was announced that the engine is making its way to the biomedical community, focusing on neuroscience to start. After that, it will ingest the whole of PubMed’s biomedical library during 2017. Of course, there are also plenty of papers behind paywalls, which the likes of Elsevier and Springer seem unlikely to drop. Deals along those lines are under negotiation, however, I was told.
+
+Semantic Scholar is made by the Allen Institute for Artificial Intelligence (AI2), a small operation of several dozen, yet at the same time the largest nonprofit AI research organization in the country. The motto there is “AI for the common good,” meaning a focus on advancing the field with an eye to both pure and more directly socially beneficial research.
+
+“Medical breakthroughs should not be hindered by the cumbersome process of searching the scientific literature,” said Paul Allen in a press release. “My vision is for Semantic Scholar is to give researchers more powerful tools to comb through millions of academic papers online, to help them keep up with the explosive growth of science.”
+
+Eventually, explained AI2’s CEO Oren Etzioni, with whom I spoke on the topic while visiting the Institute’s offices in Seattle, the search engine could become a hypothesis engine. Not in any highly insightful way that would put researchers out of work, he added, but rather like that of a department head that sees the big picture and says, “This method was effective on the sensory cortex, but no one has tested it on the motor cortex — maybe we should try that?”
+
+Etzioni also oversees ahandful of other projectsbringing AI to bear on other topics, many involving natural language processing.Euclid, for example, understands mathematical queries in ordinary language — “what is the lowest positive number that is the sum of three cubes?” Another is working at taking on standardized testing, reading and solving problems exactly as they’re put to, say, fourth-graders. These are deceptively difficult problems, but interesting ones that could produce useful services — tutoring software, or automated test production.
+
+You can test out Semantic Scholar right now, though if you’re not in CS or neuroscience you may not find many results to your liking. If you are, however, it might prove a revelatory experience.

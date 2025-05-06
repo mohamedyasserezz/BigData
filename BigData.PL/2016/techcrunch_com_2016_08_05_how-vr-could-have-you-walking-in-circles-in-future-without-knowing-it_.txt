@@ -1,0 +1,27 @@
+How VR could have you walking in circles in future without knowing it
+
+[youtube=https://www.youtube.com/watch?v=THk92rev1VA&w=853&h=480]
+
+VR’s promise of boundless virtual worlds to explore is, in practice, rather more tethered to reality, given physical limits on play spaces  — meaning you can only walk so far in the corresponding virtual world before you’re out of sensor range and/or about to bump into a (real) wall. So how to square the circle of infinite virtual worlds versus finite play space?
+
+One technique involves the player reorienting their visual perception by turning on the spot and stopping after a few turns facing in a new direction, allowing them to carry on walking straight again. However spinning around can make people dizzy so isn’t exactly an ideal solution given VR’s extant nausea problem. This method also inevitably breaks up play.
+
+A team of Japanese researchers reckon they have come up with a better idea — which they’ve namedUnlimited Corridor. The technique uses visual and haptic feedback to trick gamers into perceiving they are walking in a straight line, when in fact they are walking in circles. Which in turn allows for VR game worlds to appear to have infinitely long passageways. The gamer merely has to tap their way along one side of a (real) wall in the play space, an action which naturally orients their walk alongside it, to perceive they are walking straight within the game. But in fact the wall is a circle. The team’s test world was developed on the Unity platform.
+
+The project, which has been led by Dr Takuji Narumi of the University of Tokyo along with Unity Researcher Yohei Yanase, does still require a rather large real-world installation (of said circular wall unit) in the VR play space — and works best with mobile or portable VR (they used a high performance gaming laptop in a backpack on their testers) — so it’s not without its own real-world limits. But the team say they’ve now managed to shrink the wall to a radius of 2.5m, and reckon they could squeeze it further by increasing the strength of the visuo-haptic interaction — the other key component of the technique.
+
+So what exactly is visuo-haptic interaction? Narumi describes it as “a kind of illusory effect in our brain” — which allows for a particular perception/sensation to be generated by combining sensory inputs in different ways.
+
+“It alters our proprioceptive sensations corresponding to visual sensations by the combination of visual and haptic stimuli,” he tells TechCrunch. “It has long been thought that different sensory modalities operate independently of each other. However, recent behavioral and brain imaging studies are changing this view, now suggesting that cross-modal interactions have an important role in our perception. In cross-modal effects, the perception of a sensation through one sense is changed by other stimuli that are simultaneously received through other senses.”
+
+The team has also developed what Narumi describes as a “flavor display,” also using cross-modal interaction, that alters the perceived taste of food — allowing for people in VR to virtually select a choice of cookie flavoring and taste that when they eat the real world (plain) cookie in their hand. (Although “augmented gustation,” as they dub this, also requires the VR player to have an olfactory cap on their head which puffs flavored air into their nostrils at the moment of mastication, corresponding with their taste choice, in order for them to experience the sensation of a eating a chocolate cookie, for example. So it’s getting pretty out there, even by VR standards…)
+
+“In the case of ‘Unlimited Corridor,’ we can reduce the required space for forever walking with a cross-modal (visual and haptic) VR. Therefore we believe the utilization of cross-modal effects becomes a key technology for next generation of VR,” adds Narumi, who has also conducted research into theperceived metamorphosis of shape, again using cross-modal interactions.
+
+The team used a split circle design for their Unlimited Corridor wall which allows the player to make turns within a game, and also enables the installation to accommodate multiple players at a time without them bumping into each other. (Watching that part of the video it’s almost impossible not to be reminded of Pac-Man ghost-avoidance tactics.)
+
+The core tech on the visuo-haptic side is a method for simultaneously matching the visual and haptic stimuli being presented to the player. The timing between visual and haptic presentation has to be within 200ms, according to Narumi, who notes the team investigated the acceptable gap between the visual and haptic curvatures via “various experiments.”
+
+While the researchers assert the illusion of their Unlimited Corridor is “very strong,” they concede a few people will still sense the wall is round based on touch. So the technique won’t work for everybody. There’s also no absolute guarantee against warding off VR sickness, although the team claims this occurred “much less often” with their system than with normal VR or redirected walking (RDW), i.e. turning around on the spot, experiences.
+
+While Unlimited Corridor is primarily a research project to explore how the boundary between reality and the brain’s perception of it can be manipulated, the team envisage their technique having potential outside the lab, for entertainment, education and simulation use-cases — noting that entertainment companies have expressed interest, including one that has started experimenting.

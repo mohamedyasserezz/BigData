@@ -1,0 +1,45 @@
+Big data’s humble beginnings
+
+Clicks. Once upon a time they were the most powerful tool in assessing online ad performance. A humble beginning, but much has changed. The data-driven measurement and predictive analytics technologies that launched adtech andexpanded to marketingare now being applied to nearly everything — and yet, it’s easy to forget the road that led here.
+
+October 27, 1994: The first ad to hit the web is published.
+
+It was difficult to recognize the significance at the time, but that single, floating rectangle at the top of my computer screen would bring into being an entirely unique market.
+
+Adtech was invented — designed for this emerging sector, and built to measure the return of the new media creators produced.
+
+Finally, ads could be understood.
+
+Adtech has a reputation for being overcomplicated and overpriced; however, it is largely misunderstood. It is not only underappreciated, but undervalued. Adtech is to big data what the Big Bang is to the universe. The collective origin story of all productivity measuring data begins with adtech. From measuring the performance of ads, we can now measure the performance of most anything — even people.
+
+It didn’t take long for those in the industry to realize how much potential their new data-measuring technology had. The applications are endless, as we continue to see today.
+
+Big data software and services are predicted to grow to a$41.5 billion market in 2018. And as the appetite for data grows, so too will the demand for sophisticated tools to interpret and refine it.
+
+Following the example set by adtech, other sectors are leveraging big data and predictive technologies to drive efficiency and accuracy.
+
+In 2014, Uber launchedUberPool, which uses algorithms to match riders based on location and sets the price based on the likelihood of picking up another passenger.
+
+The latest generation offinance management softwarelearns from consumers’ transaction history and spending patterns, and provides intelligent recommendations and personalized advice.
+
+Human resources departments are bringing analytics into the tasks of corporate hiring, retention and promotion, and the insurance sector isusing data to influence customers into better driving habits.
+
+Similarly to the way theLUMAscapeevolved for adtech, new ecosystems are poised to coalesce around other industries. Businesses that rely on data to make key decisions will want better, more granular insights. So the shift to predictive analytics in multiple sectors will form a virtuous cycle, driving demand for tools to further enrich and interpret all that data.
+
+Enterprises are already embracing big data and predictive analytics to hire and retain talent, forecast staffing needs and improve employee satisfaction. In the next two years,6,400 organizations with 100 employees or moreplan to implement big data analytics, providing ample opportunities for a new crop of startups that collect, refine and interpret data to populate the HR analytics landscape.
+
+Startups are leveraging Watson’s technology todeliver data-driven recommendations to consumers and healthcare providers; this pattern will soon extend to the health sector at large. People are generating more health-related data than ever before, and doctors, patients and researchers need tools to make sense of it. Physicians will be able to compare patients’ data with health trends in the general population and provide data-driven advice for treatment or prevention of illnesses.
+
+Just as we’ve seen with adtech, social and now messaging, the dominant players will evolve their products into platforms as the spaces mature, forming the connective tissue of these new ecosystems.Salesforce, for example, started as a CRM database, but expanded to offer Platform as a Service, enabling customers to build their own applications on the Salesforce framework.
+
+We’re witnessing a similar scenario unfold in the health sector, where Apple has created three new platforms for enabling data collection and analysis (HealthKit,ResearchKitand nowCareKit). Medical studies built on the ResearchKit framework are enrolling greater numbers of participants, improving the quality of the data collected. CareKit, on the other hand, is intended for a broad spectrum of patients; any health app developer can make it easier for people to share health information with physicians and caregivers.
+
+One example isOneDrop, a personal care app built on the CareKit framework that helps people with diabetes track their food intake, activity levels and glucose readings so they can better manage their blood sugar. Similarly, small, specialized data analytics companies will emerge and build off of larger platforms in verticals like finance, staffing and transportation.
+
+As more verticals embrace data-driven, predictive tech, we’ll see cross-pollination and interoperability between sectors, exponentially increasing the amount of data, and thus the need for more data mining and analysis.
+
+We’re entering the AI Age — predictive modeling has already proven critical for solving a diverse set of challenges for both businesses and consumers, and it has the potential to transform every industry. As we approach a period of exponential growth, formerly siloed verticals are abandoning legacy systems and embracing analytics.
+
+The combination of cloud computing and interoperable data providers and platforms will form the foundation that will allow data-driven ecosystems to thrive, unlocking an era of frictionless innovation.
+
+With the applications of big data emerging as a new frontier, it is especially important now for us to remember how it all started — with a click.

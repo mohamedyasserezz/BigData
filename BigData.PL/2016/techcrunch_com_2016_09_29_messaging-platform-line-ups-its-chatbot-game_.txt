@@ -1,0 +1,29 @@
+Messaging platform Line ups its chatbot game
+
+Line is ramping up incentives for third party developers to make chatbots, and thereby expand the utility of its platform, as the great scramble of messaging giants applying AI to keep users engaged continues.
+
+The South Korean company behind the platform announced its plans to open up to chatbots back inMarch, going on to allow the first developers to start building bots inApril, on a first come first serve basis, with an initial limit of 10,000 bots. (Although it subsequently expanded that cap to 20,000.)
+
+It’s now taken the stabilizer wheels off its chatbot developer initiative, launching a new Messaging API at a conference in Japan which it’s touting as simper than the prior bot API.
+
+The mobile messaging giant, which competes with the likes of WhatsApp and WeChat and has 218 million monthly active users, is most popular in Asia, withtwo-thirds of Line users in Japan, Taiwan, Thailand and Indonesia.
+
+The new Line Messaging API introduces three new message types aiming to structure and simplify bot development:
+
+“These new message types sent by chatbots allow companies to realise a smootherLine-based contact point with users for their services and content,” it said in a press release. “Line plans to introduce even more message types in the future.”
+
+The new Line Messaging API also supports chatbots being used in group chats with multiple users.
+
+Line also announceda chatbot competition— with a deadline of January 2017 for applications and winners to be named next February.
+
+It’s not the only messaging platform using cash to incentivize developers to build bots: Telegram announced a$1M bot giveaway back in April, with a focus on utility.
+
+Line said its aim is to reward chatbot developers whose creations provide “new value to its user experience”. The competition will pay out a maximum of 10 million yen (around $98,000) to the overall winner, with other rewards intended for additional categories.
+
+Also today, Line announced it has also been working on developing some chatbots itself internally, and with external partners, flagging up two for the Japanese market: a train times bot, called Navitime, and a music search bot that hooks into its music streaming service, Line Music.
+
+It also announced an official SDK, with support for five languages (Java, Go, Ruby, PHP and Perl 5) — claiming this makes it “easier than ever for developers to create chatbots”.
+
+Another announcement was Line Notify: aka an API-based service that enables external web services and applications to send notifications to users asLineaccount messages. So basically another line in (pun intended) for external services to reach users of the platform without users needing to actually leave.
+
+“Starting today, this service is connected with the web-task automation toolIFTTT, which means that users can receive weather information, e-mails including specified keywords or other notification messages from various services without anyone performing any additional coding,” it noted of Line Notify.

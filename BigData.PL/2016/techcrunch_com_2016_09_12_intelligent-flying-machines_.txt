@@ -1,0 +1,15 @@
+Keeping track of warehouse inventories with an army of fully autonomous drones
+
+When they wanted to stash the Ark of the Covenant away at the end of the firstIndiana Jonesfilm, the government did what any self-respecting bureaucratic institution would, filing it away in a giant warehouse.
+
+Navigating even the most well-appointed warehouse spaces can get tricky, and keeping tabs on missing inventory a downright nightmare, requiring full staffs over several day-long periods to count and re-count pallets, in hopes of determining whether anything has gone missing. And let’s be honest for a minute: Humans just aren’t great at counting. Robots, on the other hand, well, that’s what they’re designed to do.
+
+“Lost inventory costs companies billions of dollars every year,” explains Marc Gyongyosi. TheIFM(that’s Intelligent Flying Machines) CEO founded his company in hopes of applying lessons learned for time spent working on human-robotic interfaces at BMW to the problem of costly warehouse inventory depletion.
+
+“From my background in industrial robotics, I very often saw that with the systems they current have in warehouses, things get lost all the time,” he continues. “You wouldn’t believe how often things get lost. And when they do go and search for stuff, they have to go and climb up forklifts and ladders. They even bring binoculars to find things.“
+
+IFM’s solution to the issue of costly inventory depletion is a small army of drones, high-accuracy counting robots with onboard systems that allow them to navigate the insides of warehouses without direct human oversight. IFM’s drones are designed to deploy between warehouse shifts, taking off autonomously, scanning the aisles and landing themselves for a recharge.
+
+The process depends on the size of the warehouse and number of drones deployed, but on average, it should take around 20 minutes. The information gathered via scan is uploaded and cross-referenced with the company’s inventory software. Errors are noted and alerts are sent to tablets posted at the end of aisles, which workers check at the beginning of their shift to see if anything has gone missing.
+
+IFM has already begun a pilot program with different companies, including some unnamed automakers, and is planning its first commercial roll-out for next year. Gyongyosi adds that the system could have implications beyond its initial inventory solution. “We have Google Maps for the outdoors,” the exec explains. “But we don’t have anything like that indoors. And all of manufacturing is indoors. There’s a lot of data to be collected indoors, and this technology is the first step in creating a system that can collect this information autonomously. “

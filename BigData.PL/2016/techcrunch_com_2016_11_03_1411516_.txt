@@ -1,0 +1,25 @@
+Intel acquires Voke VR as it moves into immersive sports tech
+
+Intel has made another acquisition to build out its virtual reality strategy and business: the chip giant hasacquireda startup calledVOKE, which specialises in immersive sports video experiences, and counted both Intel and theSacramento Kingsamong its investors.
+
+Financial terms of the deal are not being disclosed but Intel tells me that it is acquiring VOKE’s technology, talent and existing business, which includedbroadcasting NBA gamesin the U.S. andKabaddi tournamentsin India. Voke will become a part of a new division called Intel Sports Group, the company tells me.
+
+The core of VOKE’s business is a product it markets as TrueVR, which is based around a special stereoscopic camera that is used to record experiences, as well as software to then deliver it to various devices. (The camera is pictured above.)
+
+In Intel’s view, it’s the special lens and capturing system, along with the fact that the final product can be viewed on a range of devices and through different channels (Internet, broadcast, etc) that is what attracted Intel. “VOKE’s technology lets fans be where the action is without ever leaving their living rooms,” said James Carwana, GM of the Intel Sports Group, in a statement. Notably, the VR experiences can be delivered live, which opens up an interesting market for how VR could be used in a number of real-time, mass market use cases.
+
+Sports, with its focus on action and close-up visuals, is an obvious end point for VR technology, and Intel has been positioning itself as a large player in the latter market as it looks to find a place in newer, emerging areas to offset declines in its legacy business. So it’s no surprise to know that Intel has been wedging itself into a number of sports-related activities in recent times. They have included theX-Games in Aspenand theNBA All-Star Weekend.
+
+The new Intel Sports division will also include its freeD technology team, which joined Intel when the company acquiredReplay Technologiesearlier this year. “We’re making great progress bringing innovative technology and amazing experiences to the world of sports, but there’s more to come,” Carwana notes.
+
+Intel has some pretty ambitious goals when it comes to bringing immersive sports entertainment to people’s living rooms. VOKE and Replay Technologies will be a big part of that.
+
+Intel CEO Brian Krzanich spoke to TechCrunch recently about his goals for taking the massive amount of 3D data from Replay and turning it into an immersive live sports experience for fans.
+
+“Right now we have about a two-minute delay between when the [Replay data] comes off the field and when we can finish the stitching,” Krzanich told TechCrunch. “We think in two, maybe two-and-a-half years, we can get it down so that there’s milliseconds of latency and we can compress the files such that it’s more easily managed.”
+
+With that in mind, he says, you could create an entire 3D stitch of the stadium, and a viewer could capture the perspective of the game from anywhere. Companies likeNextVRare already setting up stereoscopic camera rigs on the sidelines to give viewers points-of-view they wouldn’t normally have, but with this tech Krzanich hopes viewers can one day jump right into the play or watch the game straight from the players’ bench.
+
+Voke, which was founded back in 2004, had only disclosed$12.5 million in funding, with other investors in addition to Intel and the Kings including A&E Television Networks LLC, Nautilus Ventures, F50 and the Cowles Company.
+
+Other recent Intel acquisitions in the VR space have included computer vision specialistsItseezandMovidius. The company has acquired some 83 companies to date.

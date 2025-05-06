@@ -1,0 +1,19 @@
+HazMap wants to be like Pokémon Go for reporting hazards in public spaces
+
+No one wants to be that person who falls in a ditch when they least suspect it. WithHazMap, a project that came out of the Disrupt London 2016 Hackathon, you can ensure you’re not that person.
+
+Created by software engineer Oras Al-Kubaisi and risk management insurance provider Craig Polley, HazMap usesEsrito let people crowdsource public hazards and maintenance issues in public spaces through Pokémon Go-like gamification and badges.
+
+“We gamify,” Polley told me. “It’s like Pokémon Go.”
+
+With the HazMap app, users snap a picture to report risks and other hazards to the most appropriate authority or agency based on geo-location. On the web, you can see a live, detailed map of the current risks and hazards in your area. There’s also a dashboard that ranks how municipalities are doing based on how quickly they address user-submitted reports.
+
+By trade, Polley is an insurance adjustor who deals with natural catastrophes, and trip and fall accidents.
+
+“We have statutory liability and that means that if somebody reports a hazard and it is not dealt with properly, there’s negligence on part of land owner that results in a liability claim,” Polley said. “Not mention that results in injury of the public.”
+
+Right now, HazMap works throughout the UK, but the plan is to make it available globally. When people submit a report or hazard in the app, HazMap contacts the local council on your behalf. If there’s a sharp hazard in a children’s playground, you would expect a prompt response. But if it’s something like a pothole in a desolate road, the agency might decide to deal with that a bit later. No matter what the hazard, the public will be able to see if and when the agency addresses the problem.
+
+“Allowing the public to view it will create a sense of urgency for the council to fix it,” Al-Kubaisi told me.
+
+Al-Kubaisi and Polley also envision there being some sort of competition between the councils to be the most responsive to public safety issues. HazMap is currently available for Android, but the two plan to develop an app for iOS.

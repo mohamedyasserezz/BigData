@@ -1,0 +1,21 @@
+Replicated raises $5 million for its product taking SAAS products out of the cloud
+
+Los Angeles-basedReplicatedhas raised $5 million to build out its service that takes software-as-a-service companies down from the “cloud”, TechCrunch has learned.
+
+The company, which operates under the somewhat contrarian belief that not all services are going to be delivered in the cloud, provides a toolkit that lets software companies offer their products on premise behind a corporate firewall rather than delivered remotely.
+
+Replicated recently launched from beta and will use the fresh $5 million commitment from Amplify Partners and Webb Investment Network to continue its sales and marketing and product development efforts.
+
+Customers are already using the service, including Sysdig, CircleCI, Jama Software, Readme.io, Waffle.io, and Plot.ly. These startups — along with roughly 30 other beta users are providing software to over 300 enterprise software customers.
+
+Using Replicated’s container-based service, software developers can manage and distribute installable versions of their products on premise. What’s more, the company says it can use a software vendor’s existing codebase and cloud deployment processes.
+
+The company previously raised $1.5 million in a seed round from BoldStart Ventures, Founder Collective, TenOneTen, Mucker Capital and other undisclosed investors.
+
+As my colleague,Ron Miller noted at the time of the company’s launch, it’s the second startup for co-founders Grant Miller and Marc Campbell.
+
+The two had previously launched Look.io, a customer service chat app bought by LivePerson in 2012.
+
+The new service has a potentially bigger market, according to Rob Witoff, a director at Coinbase and an end-user of the Replicated service.
+
+“Smart companies protect their data while giving staff a first-class experience with the latest tools,” said Witoff. “We’ve been able to efficiently and securely manage a suite of modern, well maintained internal applications that our team loves by deploying these applications through Replicated. This kind of efficiency just wasn’t possible before.”

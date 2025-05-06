@@ -1,0 +1,19 @@
+Cisco to acquire API-based app security startup CloudLock for $293M
+
+Twilioisn’t the only company banking on API-based services as the way forward for enterprises. Today, Ciscoannouncedit plans to pay $293 million in a mix of cash and equity to acquireCloudLock, a cloud-based security provider that uses APIs to let enterprises apply and monitor security on documents and other content that they share and store in cloud-based applications.
+
+CloudLock works with Office365, Google Drive, and Salesforce applications, among thousands of other apps and software. Its focus is on offering security and enforcing policies to protect documents, regardless of device used to access it, and allowing for specific controls based on location. In that regard, CloudLock is tapping into another big trend beyond the use of APIs to implement services: that of “consumerization” in IT, where people are using their own (unsecured) devices for work purposes, and in a range of environments from their homes to places where they are connecting by (also unsecured) public WiFi networks. The company has more than 700 customers, Cisco says.
+
+CloudLock is not alone in trying to tap into APIs to solve security issues, or fill the need of securing documents in enterprise clouds. Others that compete with CloudLock includeSkyhigh Networks,CipherCloud,Netskope, and Microsoft by way of itsAdallom acquisition.
+
+The API aspect of CloudLock’s business is interesting in that it helps harness some of the key networking and operational blocks of today’s apps, and means that implementing CloudLock itself is relatively straightforward.
+
+“CloudLock rose to leadership in the cloud security sector with a pure play approach of being cloud-native while leveraging other cloud platform APIs in a collaborative fashion,” noted Luke Burns, a general partner at Ascent Venture Partners, which was one of the VCs that invested in the Massachusetts-based startup. “They were a trailblazer of this approach while the competition often focused their efforts on extending legacy methods.”
+
+CloudLock’s employees will join Cisco’s Networking and Security Business led by SVP and GMDavid Goeckeler.
+
+While Cisco has built its reputation in sever architecture and server services, this is part of the company’s other play in enterprise IT, where it has largely chosen to grow inorganically.
+
+“‘Buy’ has been a key part of ourinnovation strategy, alongside significant internal product development, to drive towards a fully integrated security portfolio,” noted Rob Salvagno in ablog postannouncing the news. (But as this is the person in charge of M&A, I guess I wouldn’t expect anything less than that point of view!) The company has made several other acquisitions in the security space, includingLancope,OpenDNS, andSourcefire, the latter of which it acquired for $2.7 billion.
+
+Prior to this, CloudLock hadraised $35 millionin funding with other investors including Cedar Fund, Salesforce, Bessemer Venture Partners and others, making this acquisition a strong return for the company and investors.

@@ -1,0 +1,6 @@
+@BigData.PL_HostAddress = http://localhost:5239
+
+GET {{BigData.PL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

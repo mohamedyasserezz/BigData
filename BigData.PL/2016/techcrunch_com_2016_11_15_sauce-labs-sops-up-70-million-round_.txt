@@ -1,0 +1,19 @@
+Sauce Labs sops up $70 million round
+
+Sauce Labs, a cloud-based software testing service, announced a $70 million round today. The investment is more than double the $31 million the company had raised across four previous rounds and brings the total investment to $101 million.
+
+Centerview Capital Technology, IVP, and Adams Street Partners all participated. Under the terms of the deal, Buno Pati, partner at Centerview and Sandy Miller, general partner at IVP, will join the Sauce Labs Board of Directors.
+
+Sauce Labs has been around since 2008, but CEO Charles Ramsey says in some ways the company was offering an automated approach to software testing before the broad market was ready for it. Back in the dark ages of 2008, many companies were still using the Waterfall approach to development. It was a deliberate methodology in which you finished one release before you started the next. In that world, testing was done manually by a QA department who checked each feature to make sure it worked across a number of devices and browsers.
+
+“What we provide essentially is infrastructure as a service and software that allows developers to write their own tests and to manage the [testing] process,” Ramsey explained. Once the script is written, it can automatically test across whatever devices, browsers and operating systems the developer chooses.
+
+As we’ve moved forward, the world has changed and moved more toward Sauce Labs’ automated approach. Companies have embraced Agile development methodology, which is more of a continuous development approach than a defined one. When you combine this with a growing number of devices, operating systems and browsers (and a legacy history to support), the idea that you could manually test against all of these contingencies became much more challenging. As companies moved to Agile, they couldn’t have testing be the bottleneck.
+
+In essence, the market has caught up with Sauce Labs, Ramsey explained, and they believe they are poised to take off, being a company in the right place with the right product at the right time. Apparently their investors saw it that way too because they wrote an enormous check to give them the cash to take the company to the next level.
+
+The company currently has 3500 customers and 140 employees. With this influx of money, they plan to hire engineers, sales people and customer success personnel over the next year, which should allow them to take advantage of the growing demand in a more controlled fashion.
+
+As for why the company took so long to get to this point, Ramsey says things always move more slowly in the wider industry than we think. There is a tendency among technologists to think everyone is moving en masse to the next big thing, whether that’s the cloud, mobile or Agile development. Large companies tend to be more cautious than that (or at least they have been until recently).
+
+Companies are recognizing that to be competitive, they have to update their development methodologies, and when they do, Sauce Labs now has $70 million to help convince them to move to their testing products.

@@ -1,0 +1,29 @@
+The AWS juggernaut
+
+After last year’s AWS re:Invent conference, we posed the question, “Is Amazon the Most Important Enterprise Company?”
+
+Having just returned from re:Invent 2016, we can say the answer is a resounding “Yes”.  In terms of both enterprise adoption and the pace of innovation, AWS is a juggernaut. This year again the company highlighted several organizations including McDonald’s, WorkDay, and CapitalOne that are betting their businesses on AWS.
+
+It is no longer a question of “if” enterprises are moving to the cloud, but rather “when”.  Despite this, the company is not resting on its laurels, far from it. Case in point: in 2013, AWS launched 280 services, but this year, they’ve already released nearly 1000 — a stunning achievement which is striking fear in the hearts of everyone from incumbents to upstarts.
+
+AWS has reported a revenue run rate of almost $13 billion with an astounding growth rate of 55%.  As a standalone company, something that big growing that fast would command a valuation approaching $150 billion.  The business is now large enough to see just how disruptive the public cloud has become.
+
+The old guard of the enterprise data center — Cisco, Dell EMC, IBM, HP Enterprise, Oracle and VMware – have collectively seen meaningful declines in their businesses.  In 2012, the year of the first re:Invent conference, these companies generated $221 billion in revenue.  In 2016, in re:Invent’s fifth year, these same companies will record $206 billion in revenue.  That equates to a stunning $15B reduction in revenues with the group on average shrinking by 3% per year.
+
+Coincidence?  These results stand in stark contrast to years of impressive growth as enterprises made huge investments in their own data centers.  Now, the old guard is desperately attempting to leverage their relationships to slow down their customer’s move to the cloud.  But in light of the extraordinary pace of innovation at AWS and accelerating adoption of public cloud by enterprises across all industries, it seems — and the numbers back it up — they are fighting a losing battle.  To put all of this in perspective, AWS, in its relative infancy, is likely already worth as much as Oracle.
+
+The picture isn’t much rosier for upstarts competing for enterprise budget dollars. Back when Steve Jobs would speak at Apple’s WWDC announcing the next generation iPhone, a common joke amongst VCs would be how many startups would be left by the wayside following his keynote. Now a similar trepidation permeates the room when Andy Jassy and Werner Vogels go on stage.
+
+Entrepreneurs building for the enterprise must be aware of the specter of AWS which can massively subsidize the cost to develop, deliver and manage these services for customers large and small.
+
+A common question those building infrastructure, monitoring and management, developer tools, and data analytics products must be prepared to answer is: “why won’t AWS have a superior product in the next twelve months?”
+
+This year at re:Invent the company put several startups in its crosshairs with major product announcements including:
+
+Between the cloud and the deflationary nature of open source, opportunities for value generation in infrastructure software are becoming fewer and farther between so entrepreneurs must be that much more thoughtful on not only what they develop but also how they bring it to market.
+
+The good news is a disruption of this scale will undoubtedly unlock tremendous opportunities in spite of the challenges outlined above, particularly in layers higher up the stack. Companies that enable enterprise migration to the cloud likeOktaandDatadogare drafting off AWS’s momentum.
+
+Highly specialized infrastructure like our investments in portfolio companies likeTwilioandStripe, orAuth0, which deliver services as code are flourishing. SaaS companies, which are standing on the shoulders of cloud providers, are excelling. And even more traditional infrastructure vendors, those that enable hybrid/multi-cloud workflows and architectures are seeing rapid adoption in the enterprise.
+
+It is a fascinating time watching the rise of AWS and the emergence of the public cloud at this breathtaking pace.  The world of infrastructure software is being fundamentally rearranged disrupting over a trillion dollars in market capitalization.  As the dust settles, we fully expect to see startups benefit from this movement, but it will be a bumpy ride.

@@ -1,0 +1,73 @@
+Cognovi Labs will study the presidential debates tonight with their emotional sentiment tool
+
+TechCrunch first reported on Cognovi Labs back in Junewhenthe Dayton, Ohio-based analytics startupcorrectly predicted theBrexitoutcome hours ahead of the final vote — and counter to what traditional polling had suggested was going to happen.
+
+Tonight, the company is partnering with Applied Policy Research Institute and the Kno.e.sis Center at Wright State University and has set up a war room of 30+ political and technical experts to study the presidential debate, in real-time, to track how Twitter chatter is expressing the emotional mood of the nation.
+
+I found this pretty interesting, soI asked them if I could get a feed of their results and update this story as they post them.They agreed, so if you are also interested, just bookmark this story and refresh it as you watch and we’ll see what happens.
+
+The tool the company uses to determine emotional segmentation is called Twitris. It was developed at Wright State University and is able to take large swaths of Twitter data and not only deduce sentiment (positive, negative, neutral) but can also add a layer of emotional response on top of that sentiment. Many companies already do sentiment analysis, but Cognovi Labs’ emotional analysis is what they claim to be their novel technology.
+
+For example, the startup can suck in all the Twitter data that is expressed as a reaction to an event, like a presidential debate, and then determine how many people felt positively about that, negatively about it or neutral. Then, within those sentiment divisions, they can determine emotional response that lay in each division.
+
+Here is a data sample they took about how people are expressing emotion about each presidential candidate over the last 8 days:
+
+Cognovi Labs is also able to segment by location, as well, so they can see where on a map these specific emotions are being felt.
+
+So load up this page while you tune in tonight and I’ll update it with emotional data that’s being pumped out as this debate happens.
+
+LATEST DATA
+
+8:05 pm
+
+Ahead of the debate, the emotions being expressed on Twitter about the candidates are listed above in aggregate. With Trump, the emotion being most expressed is Joy (40.05%). With Clinton the emotion being most expressed is Anger (43.59%). I have questions of course like,are the same people that are expressing joy for one candidate the same people that are expressing disdain for the other? Or are these unique users?
+
+I heard back from Cognovi Labs about this. The logged info is based on single emotions. For example it could be the same user that issues a tweet that says “Hillary rules and Trump sucks”. However that will be counted as Joy for Hillary and Anger for Trump…two separate emotions would be logged.
+
+9:06 pm
+
+And here we go. The debate has started.
+
+9:26 pm
+
+Latest update. When it comes to Trade–in terms of general sentiment…positive, negative or neutral–Donald Trump is receiving higher positive sentiment on Twitter, following the discussion, according to Cognovi Labs.
+
+9:43 pm
+
+Latest update. Here is the general Twitter sentiment tracked by Cognovi Labs, based on the first 20 minutes of the debate that focused jobs, trade, budget (prosperity).
+
+9:58 pm
+
+Latest update. Emotional sentiment data for the debate so far. Some changes are visible when compared to pre-debate emotional sentiment in the chart at the top.
+
+10:06 pm
+
+This is a sentiment update that shows a drop in sentiment for Hillary Clinton that corresponds with her comment that “I have prepared for the debate, and you know what I have also prepared to be president.”
+
+10:13 pm
+
+Mostly negative tweets for both candidates. Cognovi Labs points out that Trump supporters are way more active on Twitter.
+
+10:58 pm
+
+The#NeverTrumpfaction on the right not persuaded by@realDonaldTrumpperformance this evening.#Debates2016pic.twitter.com/eGbuoEBg5R
+
+— Cognovi Labs (@CognoviLabs)September 27, 2016
+
+11:00 pm
+
+Here's the wrap. When normalizing for volume@HillaryClintondominated@realDonaldTrumpthroughout from the opening bell at 9.#debatenightpic.twitter.com/ZoGp1Cdcv5
+
+— Cognovi Labs (@CognoviLabs)September 27, 2016
+
+11:07 pm
+
+Here is the post-debate emotion analysis.
+
+11:23 pm
+
+OVERALL RESULTS
+
+While Cognovi Labs was analyzing Twitter data as early as 6 pm, you can see in the tweet above that they are calling the debate as a win for Clinton (after normalizing  for volume). From 9 pm on, the data shows a steady incline for her in sentiment, derived from Twitter traffic.  In terms of a wrap up on how their emotional analysis culminated the team provided this summary:
+
+“What the Emotion component tells us is that the debate began with Hillary in a negative position. Anger comprised almost half of the tweets for and about her. This factor decreased throughout the debate andJoytoward her slightly increased. On the other hand, Trump started withJoyas a high factor and eventually he settled into a position whereJoy/Anger/Sadnesswere equally distributed. This shows us that, though his fan-base is strong, there is still a significant wing of opposition toward Trump. Also, it appears that enthusiasm ‘toward’ a particular candidate is not as strong a driving factor as emotion against the candidates.”

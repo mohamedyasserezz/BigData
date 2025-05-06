@@ -1,0 +1,23 @@
+Yahoo asks government to explain email scanning order
+
+Yahoo secretly scanned its users emails at the behest of a U.S. government agency — and now it wants the government to explain why.
+
+In aletterto James Clapper, the Director of National Intelligence, Yahoo carefully avoids admitting that it scanned users’ email or that it received an order to do so, but asks Clapper to “clarify this matter of public interest.”
+
+The program had access to all incoming email and may have been able to access outgoing mail as well, a source told TechCrunch, and was terminated just days after it was discovered by the security team. The implementation of the program was poor and could have been exploited by external hackers, the source said. TheNew York Times reportedthat the program was searching for a specific signature tied to a terrorist organization.
+
+Of course, Yahoo can’t fess up to the email scanning or describe the order that led to it — National Security Letters and FISA court orders are typically accompanied by gag orders that prevent companies from talking about the requests they receive from government. Yahoo’s letter is carefully sprinkled with plenty of ifs, most notably in the section where it asks Clapper to clarify several points:
+
+“We urge your office to consider the following actions to provide clarity on the matter: (i) confirm whether an order, as described in media reports, was issued; (ii) declassify in whole or in part the order, if it exists; and (iii) make a sufficiently detailed public and contextual comment to clarify the alleged facts and circumstances.”
+
+But there are still plenty of hints dropped in the letter, penned by Yahoo general counsel Ron Bell, about what went on at Yahoo during the spring months of 2015, when the email scanning took place.
+
+The biggest revelation is that Yahoo was likely ordered to scan users’ email through a FISA court order rather than a National Security Letter. This distinction was previously a topic of debate, with The New York Times reporting that the order had come from a FISA court and other outlets claiming that the email scanning stemmed from an NSL. Although Yahoo is, of course, constrained from clarifying this point, Bell does seem to address it in the letter. “Transparency is critical to ensure accountability and in this context must include disclosing how and under what set of circumstances the U.S. government uses specific legal authorities, including the Foreign Intelligence Surveillance Act, to obtain private information about individuals’ online activities or communications,” Bell writes.
+
+Although NSLs and FISA orders can result in similar forced disclosures from companies, NSLs require no court approval and FISA orders do — which means, presumably, that a judge approved the Yahoo order in this case (the FISA court has been viewed as a rubber stamp because itvery rarely denies requests).
+
+Yahoo began scanning all its users’ emails last spring at the behest of the U.S. government, Reuters reported. Bell was reportedly one of the Yahoo employees who approved the scanning, along with CEO Marissa Mayer. The scanning program was implemented by Yahoo’s mail team and was discovered by members of the company’s security team shortly thereafter, a source confirmed to TechCrunch. Security engineers initially thought the program was the work of external hackers and investigated it as a high-severity issue.
+
+Alex Stamos, who then led Yahoo’s security team and decamped shortly thereafter for Facebook, reportedly discovered that the program was installed by Yahoo’s own mail engineers. The bombshell led to his departure from the company, and influenced other security team members in their decisions to leave, as well.
+
+The email scanningdoes not appear to have been disclosedin Yahoo’s biannual transparency report on government requests for user data, but Bell argues in his letter that Yahoo maintains its commitment to transparency and user privacy.

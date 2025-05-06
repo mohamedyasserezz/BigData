@@ -1,0 +1,9 @@
+Here’s how Montréal is turning to Bluetooth to address traffic congestion
+
+Connected city infrastructure and cars that talk back could potentially do a lot to help ease traffic conditions, but in the meantime, the city of Montréal in Quebec, Canada is using a more immediately available tech to try to address its urban traffic problem: Bluetooth. The city has installed over a hundred Bluetooth signal detectors over the past couple of months, with the aim of being able to monitor and analyze traffic patterns in real-time daily, instead of just once a year during an annual traffic study.
+
+The new project, described byRadio-Canada, will track Bluetooth devices being used by people in vehicles, tagging their unique MAC address and then looking for it again at other sites to judge how quickly cars are moving through traffic. The data gathered isn’t tied to any specific individuals, but can help the city keep an eye on how the flow of cars are moving through a city.
+
+Keeping a closer eye on traffic patterns is definitely helpful in terms of city planning, making it possible to do stuff that could positively impact congestion throughout the year, instead of just as the result of a once-annual review. And Bluetooth tracking hardware is relatively cheap to install, and doesn’t require any special vehicle-to-infrastructure communications tech to be built-in to cars on the road.
+
+Montréal has another plan to put Bluetooth to use in helping with roadway traffic, too – it hopes to install hockey puck-sized sensors in street spaces starting in 2018, so that it can know when a spot is empty and direct drivers to those locations. City transportation officials have found that a significant percentage of congestion results from drivers circling looking for a spot, so being able to guide them directly could potentially cut down on a lot of unnecessary cars on the road.

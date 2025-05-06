@@ -1,0 +1,37 @@
+Uber snooping lawsuit exposes data and security practices
+
+Uber fired Ward Spangenberg this February on his 45th birthday. Now he’s suing the tech giant, claiming that he was terminated as a result of age discrimination and because he blew the whistle about insecure data practices at Uber just a few weeks before his shares vested. Spangenberg has also made some of his own user data public in court filings leaving Uber scrambling to keep that data secret.
+
+Spangenberg’s allegations, first reported byReveal News, represent yet another dent in Uber’s reputation when it comes to data protection. Uber executives have been accused of spying on reporters’ trips and the company’s recentincrease in location data collectionriled privacy advocates. But Uber says its past mistakes are just that — in the past — and that it has taken steps in recent months to improve data security.
+
+Spangenberg and Uber have accused each other in court filings of mishandling data. Spangenberg says Uber did not take the necessary precautions to prevent employees from snooping on their ex-girlfriends or querying the accounts of celebrities. Uber claims that Spangenberg inappropriately accessed HR emails and deleted important company data from his computer.
+
+Uber began building out its security team roughly eighteen months ago, so many data protection initiatives are relatively new for the company. In his lawsuit, In his lawsuit, Spanginberg says his troubles began when Uber hired John “Four” Flynn as chief information security officer, poaching him from Facebook last July. Flynn implied Spangenberg’s age impeded him from fitting in to Uber’s youth-driven culture (prompting Spangenberg to include age discrimination claims in his lawsuit) and said that his work was deficient after he reported the security problems, Spangenberg claims.
+
+“Much of the information is out of date and doesn’t accurately reflect the state of our practices today,” Flynn wrote yesterday in an email to Uber employees discussing the Reveal report.
+
+“Like every fast-growing company, we haven’t always gotten everything perfect. But without the trust of our customers we have no business,” Flynn added.
+
+He also noted that Uber presents employees with a pop-up each time they access customer data which warns them not to abuse their access to look for information about personal acquaintances or celebrities, that access to data is limited based on employees’ roles at the company, and that access is audited regularly to detect abuse.
+
+“All employees are required to acknowledge and agree to a data access policy, including at on-boarding. You’re reminded of this policy every time you access internal data tools once you have the required permission (see below). All data access is logged and routinely audited, and all potential violations are quickly and thoroughly investigated. We have terminated employees in the past for violating this policy,” Flynn said.
+
+Spangenberg’s lawyer, Barbara Figari, says that Uber employees had an easy way to get around the data access policy — they’d simply pull the customer’s data into a project, making the query look like a product test rather than plain old snooping. “It wouldn’t show as a deviation for security purposes. It would show as an error test in a project,” Figari said.
+
+During Spangenberg’s employment, Figari admitted, there was no pop-up warning employees not to improperly access data. Uber says that pop-up now appears routinely, including when employees pull data into projects to run tests.
+
+Figari said that customer data could also be accessed by employees who exported the information to Google Drive, where its use could no longer be observed by auditors, to tinker with it. “If you’re agreeing Uber can have the data, there’s an assumption made as a consumer the there have been appropriate measures put in place to keep that secure,” she said.
+
+Spangenberg suggested one alternative to securing user data from prying employees, Figari said — requiring employees to fill out a request before they viewed the data. “You should have to fill out a request to view someone’s data. Someone could lie on the form, but it’s a gatekeeping function,” Figari explained.
+
+Spangenberg also claims that Uber ordered him to encrypt data to prevent foreign authorities from accessing it during raids on Uber offices abroad.
+
+“We’ve had robust litigation hold procedures in place from our very first lawsuit to prevent deletion of emails relevant to ongoing litigation,” an Uber spokesperson told TechCrunch. “It’s not a secret that Uber has trip coordinates and other personally identifiable information about riders and drivers, and it’s our obligation to protect that. We cooperate with authorities when they come to us with subpoenas.”
+
+In a declaration filed Oct. 5, Spangenberg included36 pagesof his own Uber data to demonstrate the amount of information employees could access. The data includes Spangenberg’s location and the time when he hailed his rides, his email address, and his credit card provider and issuing bank. The information included in the filing appears to include more comprehensive Uber than users themselves can access — researcher and Uber userPaul-Olivier Dehayerecentlypublishedhis own Uber data, which included location, speed, credit card information, and phone battery level.
+
+However, Uber immediately demanded that Spangenberg’s user data be re-filed under seal.
+
+“Exhibit A contains customer data collected by Defendant and constitutes Defendant’s confidential, proprietary, and private information about its users — the very existence, content, and form of which are of extreme competitive sensitivity to Defendant in that they demonstrate what data Defendant considers important enough to capture, how that data is stored and organized, and could, individually or in the aggregate, provide Defendant’s competitors with insights into how Defendant views, analyzes and executes certain aspects of its business,” Uber wrote in a court filing.
+
+Now, as Uber adds security measures to keep employees from looking at user data, the company also has to worry about keeping the public out.

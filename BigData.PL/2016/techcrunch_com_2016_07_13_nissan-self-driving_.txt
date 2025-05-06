@@ -1,0 +1,15 @@
+Nissan’s highway self-driving system hits Japanese roads in August
+
+Nissan has a new autonomous driving system called ProPILOT, and it’s coming to its first production vehicle in August. ProPILOT, a self-driving feature designed for use in single-lane highway driving situation, arrives in the Nissan Serena first, which is currently set to go on sale next month.
+
+Likely in light ofrecent events faced by Teslaaround its own Autopilot self-driving tech, Nissan is very clearly laying out what ProPILOT is – and what it isn’t. In apress release, the company notes that ProPILOT is single-lane, as mentioned (Autopilot can manage lane changes) and that it controls steering, acceleration and braking, and is designed to be used when traffic is heavy and the going is slow, or during extended commutes.
+
+Like other cruise-assist features you may have seen before, ProPILOT can automatically manage the distance between your car and any leading car, between speeds ranging from about 18 mph to about 60 mph. It also keeps the car in the lane, using a monocular 360-degree camera system communicating with an on-board processing system provided by Mobileye (the same tech provider that powers Tesla’s Autopilot, as well as drive-assist features from BMW, GM, Volvo and others) to watch for lane markers and vehicles out front.
+
+One of ProPILOT’s features is to fully stop when the car in front stops, and Nissan notes that the brakes remain engaged when this occurs even if the driver doesn’t have their foot on the brake pedal. To resume driving requires direct driver input, either by lightly hitting the gas, or by touching the switch to engage self-driving again, even if the car in front begins driving again.
+
+Unlike Tesla’s Autopilot can’t switch lanes, which Autopilot can do when a driver hits the turn signal in either direction and the system detects that it’s safe to do so. But perhaps more importantly, it sends warnings to the driver if their hands leave the wheel, and will actually shut down the autonomous driving and return full control if those go ignored for just a few seconds.
+
+Nissan still has plans to gradually introduce more autonomy, but it’s staging the release of additional features. Lane switching in highway conditions is set to come to ProPILOT in 2018, and city driving, including full intersection negotiation, is supposed to make its debut in 2020.
+
+What Nissan is offering here isn’t dramatically different from what’s been available in cruise-assist on newer model vehicles in the past, but it is a step forward, and an interesting middle-ground between those systems and Tesla’s Autopilot. Nissan says it has tested ProPILOT on Japanese and U.S. roadways, and the company says that in addition to a European debut aimed for 2017, there are roll-out plans with less defined dates for both U.S. and China.

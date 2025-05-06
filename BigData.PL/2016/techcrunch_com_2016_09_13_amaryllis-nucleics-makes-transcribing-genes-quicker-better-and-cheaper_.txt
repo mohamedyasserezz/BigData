@@ -1,0 +1,39 @@
+Amaryllis Nucleics makes transcribing genes quicker, better and cheaper
+
+The ability to read and record genes sits at the base (base pair, if you will) of biotech companies worldwide. So improvements to that ability are kind of like upgrading the specs of the industry itself. That’s whatAmaryllis Nucleicsaims to do with its vastly improved method of transcribing genes from RNA.
+
+Now, it’s worth noting before we start that this doesn’t really fall under the definition of “technology” we usually find on stage at Disrupt. These guys deal with chemicals and pipettes, not code and product. But someone has to put the bio in biotech, and it’s as important to update the molecular machinery behind it as it is the usual chips and software.
+
+Amaryllis was founded by two PhDs, Brad Townsley and Mike Covington, who were in the field for years and were frustrated by the speed and expense of acquiring genetic data from RNA — which, if your high school biology is a little rusty, is the intermediary between the cell’s data storage (DNA) and its manufacturing facilities (ribosomes).
+
+“When we were at UC Davis, we were doing a lot of RNA sequencing — too much to be able to afford to do it all, plus it was taking too much time,” said Covington. “So we ended up developing a new protocol for making RNA machine readable — not only is it cheaper and faster, but it also is more accurate than a lot of the other kits.”
+
+If all it took was some frustrated researchers, the science would have advanced a long time ago. But it’s not that easy. Fortunately, as with so many interesting discoveries, this new technique was discovered “more or less by accident.”
+
+In the process of streamlining an existing protocol for sequencing RNA, they noticed some weird data. “Mike was able to use his informatics background to dig into the underlying mechanisms. We were able to optimize that until we got something that worked really well,” said Townsley.
+
+This isn’t just a little boost, either: We’re talking anywhere from half to a tenth the time needed with other techniques, and for a similar reduction in cost.
+
+It was too good to keep to themselves, they decided.
+
+“We started doing this just to make life easier,” said Covington. “We didn’t have any intentions of making a company.”
+
+“Yeah, we set out completely altruistically, then realized it was also a good opportunity for us,” Townsley added. “But it’s also the best way to get it out there, to commercialize it yourself. A lot of good new technologies will wither on the vine at a university tech transfer office. You have to hope someone is looking for exactly what you have and happens to be browsing the catalog.”
+
+They entered theIndieBio acceleratorand came out with a bit of cash. With that and their new “composition of matter” patent, the two started putting together kits that they could ship to researchers, universities and private institutions. All you need to do is follow the instructions and the RNA transcription will proceed apace, faster and more accurately than the competition.
+
+Amaryllis will also do the work for you, though the resulting data is so voluminous — hundreds of gigs — that it often makes sense to ship a drive across the country rather than host the files. It’s not scalable, they admit, but it helps build relationships. If they can get a few repeat customers, word could spread fast.
+
+Between the kits and transcription they do themselves, Amaryllis could do upwards of $100,000 in business a month just at current levels of production. But with just the two of them and their mostly academic backgrounds — Covington has done web app work, but nothing like building a whole service — the company is in the earliest of stages.
+
+Eventually they hope to make the kit business self-sustaining, outsourcing its production entirely. And with no one dedicated to sales, marketing, support or labor, they need staff.
+
+“We have a robot here…” Townsley offered. “And we’re close to UC Berkeley so we’ve put in for a few interns.”
+
+Ultimately, they’ll need money, he admitted.
+
+“We are looking to raise, because growth will be very slow if we can’t immediately start hiring people to do stuff. We’re two people, and there’s really 10 people’s worth of work to do. It might make a lot of sense for us to not worry about the kits at all, and for us to just focus on developing new products,” said Covington. “We’d be scaling by adding some technicians and some dedicated people in sales.”
+
+Amaryllis is a company as young as they get, but its product leapfrogs existing ones by a huge margin. With biotech companies bringing in billions in funding and revenue, that’s a hot commodity, and because of the serendipity involved in its origin, a highly rare one. Don’t expect these guys to be pipetting their own vials a year from now.
+
+https://www.youtube.com/watch?v=KQePQMfWZwA

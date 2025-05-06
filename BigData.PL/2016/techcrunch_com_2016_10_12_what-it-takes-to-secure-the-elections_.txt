@@ -1,0 +1,93 @@
+What it takes to secure the elections
+
+While virtually every industry and domain is flourishing and being revolutionized by technological advances, more than three-quarters of U.S. citizens will vote for their next president on paper ballots this November.
+
+The main reason for this is concern overcybersecurity threats against the electoral system and process. In the wake of major breaches, such as thehacking of the Democratic National Conventionandattacks against voter registration databases in at least two states, it is now feared more than ever that the presidential elections might beinfluenced or compromised by nation-states such as Russia.
+
+And that’s why any form of technology being used in elections is generally frowned upon and regarded as a potential attack vector for malicious actors. But is this a pattern that has to repeat itself every four years? Are we doomed to choose our leaders in settings that one expert described to me as reminiscent of the dark ages for fear of major hacks, or is it possible to see future elections leverage the full power of the newest tech without fearing cyber threats?
+
+To answer the question, we must know what are the vulnerable components of an election, what are the threats and how can we leverage technology to protect one of the most valuable achievements of mankind against those threats?
+
+To guarantee the full integrity of an electoral process, you need to protect two things: the results and the process. Results account for technologies that directly affect the vote counting and the outcome of the elections.
+
+This is the area where cyber attacks can have the most damaging effect, because, if possible, a well-placed hack can bring into question the integrity of the entire electoral system. Electronic voting machines, which replaced the older punch card system following the2000 presidential election’s vote-counting debacle, are beingshunned for their outdated and vulnerable technology. Most are more than a decade old and are running Windows XP, which isno longer supported by Microsoft. And they are beingdecertified by statesfor their security issues.
+
+The main concern is, of course, vote tampering.
+
+“In terms of voting equipment, manufacturers must secure their code and physical components used to execute the code,” says Edward Robles, CEO of cybersecurity tech companyQondado. “Could someone reprogram the equipment to alter the vote tally, redirect votes, or simply fail to record certain votes at intervals, etc.? Unfortunately all of this has been proven possible and researchers have gone so far as tohack a voting machine into a working Pac-Man arcade game.”
+
+In another case,researchers found vulnerabilities in voting machinesthat would allow anyone within half a mile to modify every vote, undetected. And the steps to do so required no technical expertise.
+
+And vote switching isn’t the only problem that electronic voting equipment can cause.
+
+“On election day, DDoS is likely to be the most damaging attack scenario, as it can severely cripple the voting process by taking down crucial supporting services and infrastructures,” says Igal Zeifman, director of marketing atImperva Incapsula, referring to the type of attack that would take down servers and machines by overloading them with remote requests. “Consider what would happen if the attack was used to take down the voting system itself or even one of the local election agencies. The result could be catastrophic.” And there is precedence ofdevice malfunctioning disrupting the voting process.
+
+Why aren’t voting technology and equipment updated? Part of it has to do with the way the voting system is managed in the U.S. “There is no singular regulatory body that oversees what occurs on election day,” Robles says. “The voting process is regulated at the state level with guidelines from NIST as well as the Election Assistance Commission. The result is an underfunded process reliant on old technology and a lack of uniformity in a world of growing technical complexity and thus, vulnerability.”
+
+The EAC is the agency that verifies and certifies the integrity and security of voting machines. But its guidelines are voluntary, and states decide which standards they want to adhere to. At least 28 states are using systems that were never certified by the EAC.
+
+“Because elections use state rules and are done by county-level officials, there are almost always going to be mistakes made,” says Sean Sullivan, security advisor atF-Secure. Sullivan refers toproblems with the 2014 mid-term electionsas an example.
+
+However, despite all premonitions surrounding electronic voting machines, there is little known evidence or history of direct tampering of voting equipment or results. And as Sullivan explains, the fragmented way that elections are administered actually make it virtually impossible to stage a systematic attack against the elections. That’s why Republican presidential nomineeDonald Trump was ridiculedwhen hesuggested that the elections could be rigged.
+
+But ludicrous as it might sound, Trump’s presumption is not completely without merit. As it happens, you don’t need a full-scale attack to undermine the integrity of the elections.
+
+“To ‘hack’ a US presidential election, all you need to do is to obviously tamper with one county’s system, then leak that the tampering occurred,” Sullivan says. “Many people will rush to assume that all of the other typical issues that occur may also be the result of hacking — and thus, you’ll end up delegitimizing all of the results.” The outcome, Sullivan further explained, would be “a damaged winner who will be undermined in the international political arena.”
+
+This could become a major point of contention in swing states, where the winner is decided by a few hundred votes. By not having an uncontestable method to verify votes, chaos could ensue if a recount is called for.
+
+As 100 percent security can never be guaranteed, the only way to deal with the threats involved in voting is to include auditing mechanisms that could eliminate doubt. The most basic and impulsive reaction is to revert to paper-based voting ballots or involve some sort of paper trail that could be used to cross test results.
+
+“The threat of cyberattacks on elections in conjunction with lack of funding have essentially kept voting technology limited to offline systems with paper backups where chain of custody and physical security are crucial,” says Robles. “It would appear that our smartphones and tablets are far more sophisticated and secure than the voting technology in use. We should consider ways to leverage popular technology with strong authentication to enable a secure and easy way to deploy the democratic election process.”
+
+However, there are barriers to introducing and implementing technologies that will literally affect the entire population. “Any technical solution must take into account that a significant percentage of the electorate is not technology-literate,” says cybersecurity expert Jeffrey Carr. “Things like encryption keys, two-factor authentication, and even using a mobile device may be a bridge too far for the elderly or the unskilled.”
+
+That’s why experts believe that elections can leverage technologies such as smartcards — aka chip and pin in the U.S. — which have been tried and tested in the financial industry, a domain where the user base and threats are in many ways similar to the elections.
+
+“Smartcard technologies are available in several European countries for online identity authentication,” says Sullivan. “They aren’t widely used. If a country such as the United States were to get serious about rolling out such tech, it would be a game changer.”
+
+Countries like Estonia are alreadyusing the smartcard approachto ensure the integrity of their e-voting system.
+
+“Everyone knows how to use a debit or credit card, and with the advent of chip and pin authentication this might be the best way to introduce a more secure electronic voting system,” Carr concurs. “One that functions in a similar way as making a purchase with all the same fraud prevention mechanisms in place that banks use.”
+
+The supporting infrastructure needs a revamp, as well. In the wake of recent hacks,security and counterterrorism expertshave urged the government to grant voting processes and results protection akin to what is being used in critical infrastructure, such as banking. Sullivan underlines the need to secure servers and back-end networks that support the voting system. “Network monitoring is rapidly becoming a requirement,” he says, and stresses the role that emerging technologies such as artificial intelligence can play.
+
+Sullivan’s firm, F-Secure, is focusing on building a service that will monitor network activity with machine learning and report to human experts who will filter out the noise. Theman and machine combinationwill help network admins detect and stop breaches before they become damaging.
+
+“This is the sort of service that many organizations such as banks are now moving to adopt,” Sullivan says. “In my opinion, government can’t afford to lag behind.”
+
+In terms of developing electronic voting systems that are auditable and tamperproof, a notable effort has been the use ofblockchain, the immutable, distributed ledger that powers the bitcoin cryptocurrency.The general ideawould be to issue a wallet and digital coin to each voter, which they will send to the wallet of their candidate of choice in order to cast their vote. The vote will be irreversibly stored on the blockchain, and voters can verify that their vote has been counted. Startups such asFollowMyVoteand V-Initiative are leading efforts in this regard, and the technology has already been used in elections in Norway,Denmark,Europe’s Pirate Partyandthe Spanish Congress.
+
+Waiting for an absolutely secure system before moving on to online or electronic voting would be wishful thinking. A more realistic approach though, would be to use a mix of reliably tested technologies along with provisions to ensure auditing and recounting in case of failure or doubt.
+
+Because of their short lifespan, campaigns are for the most part woefully weak in securing their data against cyber attacks. The focus is rarely on cybersecurity, there’s little or no federal and local oversight on security practices, office workers are undertrained in avoiding attacks against themselves and their data and there’s no proper security staffing and infrastructure to protect the networks and servers against data breaches.
+
+Meanwhile, the information stored by campaigns, which includes donor information, internal emails, opposition research and vulnerability studies, is quite sensitive, and makes them attractive targets for powerful parties such as nation-states, intelligence agencies, hacktivist groups and black-market hackers, all interested in swaying the elections in their favor or laying hands on valuable information.
+
+“An information leak about campaign strategy, candid communication not meant for public consumption and private data about candidates and those backing them can all have a significant impact on a campaign,” says Robles.
+
+The starkest example might be the DNC hack, which leaked opposition research, painted a divided image of the Democratic Party and led to theresignation of DNC Chairwoman Debbie Wasserman Schultz. But that’s only a prelude to what else hackers have in stock for the elections, many have warned,including Director of National Intelligence James Clapper.
+
+While the hackers who breached the DNC campaign were well-resourced andprobably backed by a nation-state, the attack could’ve most likely been prevented if the campaign had setbetter security practices in place. A more recenthack of the Illinois Board of Elections websitewas carried out through aSQL injection vulnerabilityand tools that can be easily obtained online.
+
+And the effects can move well beyond U.S. borders. “Tampering and leaking of documents is undoubtedly sending a very clear message to European leaders — some of whom have important elections coming up next year,” says Sullivan.
+
+Aside from data breaches and data leaks, campaigns should be wary of other types of attacks. “I don’t think an attack can severely undermine voters’ trust,” says Incapsula’s Zeifman. “However, there are some examples in which cyber criminals were able to influence public opinions in voting scenarios.” Zeifman warns of thethreat of botnetsand points toa recent bot attackthat registered 80,000 fake votes and undermined an online petition seeking a second post-Brexit EU referendum in the U.K., which had gained a total of 3.6 million signatures.
+
+Campaigners are loath to spend a hefty part of their limited budget on buying equipment and software to secure a campaign that will last mere months. An alternative would be to use cloud-based security, a sector thathas been steadily growingsince the previous elections. Cloud-based security such as web application firewalls (WAF) and DDoS protection services do not require any upfront investments and can be paid for in an on-demand model, which makes them especially advantageous for election campaigns.
+
+“These solutions use traffic inspection to filter out malicious bots, by identifying visitors based on their behavior, point of origin and HTTP/S signature,” Zeifman says, whose company offers a suite of cloud-based security solutions. “This is enough to ensure that whoever accesses the system is, at the very least, a human and not a piece of attacking software.”
+
+Another characteristic of cloud-based security is the ability to scale based on the changing needs of clients. As an example, as Zeifman explains, Incapsula combines traffic analysis with on-demand scalability by sharing its 2 Tbps network capacity with any server or website that comes under a DDoS attacks and is suddenly dealing with more traffic than it can handle. This can become crucial if a campaign gets attacked by opponents such as state-backed APTs.
+
+“This will ensure that no website on our service will ever go down to DDoS attacks,” Zeifman says.
+
+Compromised user accounts can also deal terrible damage to campaigns.Hundreds of millions of email and social media accountsare being compromised every year, including some that belong towell-known figures. A well-placed account compromise can badly hurt campaigns, which largely rely on social media networks and online services to disseminate news and information to supporters. Again, security practices in this sector leave a lot to be desired.
+
+Robles refers to theleaked emails of former Secretary of State Colin Powellas a recent example. “Powell’s opinion matters to many people and the release of this information will arguably have an impact on this election,” he says. “For public figures, much of their personal information is known or easy to find and it may be easy to reset a password based on basic security questions. This highlights the need for strong, easy to use authentication technology.”
+
+Robles believes thatauthentication methods need to evolvein order to prevent the hacking of accounts. His own company is focused on providing reliable and easy-to-use authentication based on mobile technology.
+
+Presidential elections happen every four years. We tend to talk about security issues while the campaigns are running, and forget about them after the elections are done. But the threats will remain, and come to haunt us again with a vengeance when the next cycle begins.
+
+Hopefully, by leveraging the right set of technologies, policies and practices, we’ll be able to see future elections take place in a safer environment and without the fear of being influenced by malicious parties, whether foreign or domestic.

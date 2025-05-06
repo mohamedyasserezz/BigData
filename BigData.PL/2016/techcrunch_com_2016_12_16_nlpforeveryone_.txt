@@ -1,0 +1,19 @@
+RASA NLU gives developers an open source solution for natural language processing
+
+For better or worse, 2016 was another year of bots. I probably got more pitches for bot startups than anything else. And yet, bots are far from hitting their stride. If we hope to break beyond the rigid functionality of today’s tools, a prerequisite is going to be giving bot developers a bit more open source love.
+
+RASA NLU,a new open source API fromLASTMILE, supports developer’s bot efforts by reducing the barriers to implementing natural language processing. 25 companies have been using RASA NLU in closed beta, but now everyone will be able toaccess the libraries on Github.
+
+Existing tools like Wit.ai, Api.ai and LUIS provide the same critical service, but they are all tied to major tech companies — Facebook, Google and Microsoft respectively.
+
+For most developers, this is completely fine. Wit.ai is already free and doesn’t place any limits on requests. Most of the other natural language APIs are free for tinkerers at the start and only start charging after a predetermined number of requests. But, if you’re looking to push a bot to market you probably want more ownership over your product.
+
+“RASA NLU is really just what you need beyond that prototyping phase,” explains Alexander Weidauer, co-founder of LASTMILE.
+
+Companies large and small are building on top of RASA, in-part because it’s customizable by nature. Developers can tune their models to make them fit specific use cases. Ultimately, this enables the creation of better final products.
+
+LASTMILE’s team is based in Berlin, Germany but Weidauer and his co-founder Alan Nichol hope their project can bolster the entire bot ecosystem. To date, LASTMILE has raised seed capital from Techstars and a few angels. In addition to RASA, the group has a dedicated product for enterprise customers.
+
+For folks who don’t spend a lot of time with engineers, APIs allow developers to rapidly create products without having to reinvent the wheel. Natural language processing, i.e converting human language into something a computer can understand, is pretty difficult but incredibly necessary for creating bots. If you had a billion dollar idea to revolutionize conversational AI, you would probably want to hire some PhDs and build your product from scratch. But for everyone else, natural language APIs are more than sufficient for pulling structured data out of human language.
+
+The team agrees that right now we are struggling to find good use cases for bots. It doesn’t take a genius to realize that even the best conversational AIs available today are little more than glorified voice-activated remote controls. RASA won’t solve this, but it might make it easier for an unconventional player to get into the game.

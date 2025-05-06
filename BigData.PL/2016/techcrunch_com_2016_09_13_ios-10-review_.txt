@@ -1,0 +1,41 @@
+iOS 10 review: the coming of age of apps
+
+Chances are somebody has already told youeverything you need to knowabout iOS 10. The new version of iOS has been available in beta for a few months, and Apple has beenvery publicabout the upcoming changes in new iOS versions. So let’s try something new. Instead of describing every single new feature, I’ll tell you what it’s been like using iOS 10.
+
+I’ve installed iOS 10 on my main iPhone back in June and I’ve been using iOS 10 all summer. It’s a free update, it’savailable now, and it featuresa ton of new emojis. Every time I hear “new emojis,” I picture millions of people rushing to the Settings app to update iOS to the latest version. It’s probably Apple’s best trick to get people to update to new iOS versions.
+
+But these new emojis are just the trees that are hiding the forest. When I first installed iOS 10, three changes immediately jumped at me. When you pick up your phone, the phone automatically wakes up without having to press a button. The home button on the lock screen doesn’t work the same way — you need to press it to trigger Touch ID and unlock your phone. More importantly, the lock screen itself has been completely redesigned.
+
+Gone are the wallpaper-hiding notifications. Now, each notification is a bubble, a bit like macOS notifications. Apple can fit more information in these bubbles. The best part is that they expand. If you deep press on a notification, a tiny baby interactive app will open. Not all app developers support these widgets yet, but these have a lot of potential.
+
+For instance, you can press on a message to open a tiny Messages app with just the current conversation. This way, you can look at your lock screen, load up a conversation and text back and forth with someone. You can basically have a full conversation without even opening the Messages app. Or see if your Uber is around the corner. Or load an Instagram photo.
+
+Similarly, you can load tiny widgets from the home screen. Again, without launching a single app, you can look at the weather, fetch your next calendar events and more. You can add these widgets to the Today view just like before. But now, they are right here, on your home screen.
+
+And then, there are all these extensions. Essentially, Apple is expanding the tentacles of the App Store to many core apps. You can install extensions that are going to add features to Siri, Messages, Apple Maps, the Phone app and even a brand new Home panel in the Control Center.
+
+This overarching change is significant as you don’t have to find a specific app to do one specific thing. This way, Apple’s own apps become portals for third-party apps.
+
+With iOS 10, you can pay back your friend using Siri, or send them a message on WeChat. In Maps, you can now order a ride, or look at restaurant reviews. In the Phone app, you can call your long-distance besties with Skype.
+
+I’ve been trying all these new features with beta versions of various apps. This is probably going to be the biggest change in the way you use apps since the introduction of the App Store.
+
+Apple might be late to the party, but the company is going all-in when it comes toMessages as a platform. Yes, you can draw on your photos, use bubble effects and even send effects that simply take over the screen. People are quickly going to discover these new features as messaging features are viral by design.
+
+But more importantly, I’m quite impressed with the new iMessage apps. In a few months, everything you would do with someone else in a dedicated app will be possible in iMessage. Sending a Citymapper itinerary, playing chess, sending money, exchanging stickers and many, many more things will live inside the Messages app.
+
+The killer feature is that these are real native apps. WeChat and Messenger are quite limited when it comes to apps. Developers are using web technologies to build “apps” that will run in these messaging apps on iOS and Android.
+
+Apple is going the other way and saying that you should be able to scan a document using Scanbot and send it to someone without leaving the Messages app. It’s the reason why many people are going to buy iPhones.
+
+Based on the current state of the Messages App Store, developers have just scratched the surface of what you can do with these apps. It’s a whole new playing field.
+
+All of this leads me to my last point. App fatigue is a real thing, and it has become virtually impossible to convince my friends who don’t work in tech to install new apps. Nobody wants to go to the App Store anymore.
+
+It’s clear that the real focus of iOS 10 has been revitalizing the App Store. It starts with simple changes. Review time is dramatically shorter and developers can buysearch ads. Apple is alsoremovingabandoned apps from the App Store because nobody wants to eat a stale baguette.
+
+And now, you can install apps from your iMessage conversation or from Apple Maps. These trimmed down versions of the App Store are much less daunting.
+
+I haven’t even told you half of the new features in iOS 10 — new Photos app! New Home app! Apple Music redesign! Deletable default apps! New control center! There are also a ton ofneat hidden features. If you’re fascinated by iOS updates, other writers have spent months working onhyper technical reviews.
+
+Here’s my take: Apple is turning its operating system into a flexible platform with apps that can transform the way you discover, install and use apps. These new hooks are slowly but surely redefining the App Store.

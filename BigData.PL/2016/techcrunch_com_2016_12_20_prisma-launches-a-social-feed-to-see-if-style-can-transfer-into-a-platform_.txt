@@ -1,0 +1,57 @@
+Prisma launches a social feed to see if style can transfer into a platform
+
+Prisma, the app that popularized style transfer to apply art-esque filters to photos and videos afterlaunching this summer, is finally attempting to turn itself into more than just a cool tool. In a big update being released today for itsiOSandAndroidapps it’s adding it’s own social stream with a focus on location-based sharing.
+
+Latelast monththe startup told TechCrunch it had a social feature in the works, after having its access to the Facebook Live API cut off, shuttering a livestreaming broadcast feature it had launched via Facebook’s platform. Now Prisma is hoping to build its own walled garden. The Feed, as they’re calling the new social feature, lets users share photos they’ve stylized with other Prisma users.
+
+The location-based twist is that shared photos are organized by proximity, so you’ll get to see nearer imagery by default. So shades ofColor, then — aka the photo-sharing app that failed to build momentum behind location-based social sharing all the way back in 2011. Still, five years is several ice ages in tech terms so perhaps the novelty-seeking mobile users of today can be convinced of the value of proximity-based image sharing now they’re a lot more accustomed to eyeballing content from around the global web.
+
+Although the strength of location as a pure social connector is pretty questionable IMO. And it remains to be seen whether an entire social feed of photos stylized with the same set of algorithmic filters will be able to pull users away from the places they can and do already share stuff — e.g Instagram, Snapchat, Facebook, Twitter etc. (Not to mention all the lesser used social sharing options, be it Ello, Google+, Path etc…)
+
+Prisma says it’s been testing the new social Feed in several countries, with some 15,000 users, and claims feedback so far has been “amazing”. But such positivity papers over the huge challenge ahead of it in trying to make its art effects stand on their own two feet as a fully fledged social platform — rather than, as it has so far been, a tool for injecting a little visual novelty into other, more popular platforms.
+
+Part of what makes Prisma so appealing is also arguably its simplicity — and it’s now sacrificing some of that as it seeks to transform into platform by requiring users register so they can be looped into the community it’s hoping to build.
+
+The app originally rocketed to attention this summer when its eye-catching effects grabbed millions of Instagram users’ eyeballs as people shared its art filtered photos with their existing networks. But while piggybacking on other social platforms generated early momentum for Prisma, allowing it to rack up more than 70 million downloads and garner some 2M+ daily active users in a matter of months, it also resulted in fast following copy-cats —including Facebook, which started rolling out its own style transfer features this fall.
+
+So Prisma is caught between a rock and a hard place; if it sticks to its knitting as just a cool tool it risks becoming redundant as others clone its USP. But turning a cool feature into a social platform in a digital world dominated by so many well resourced social giants is a task that would have Sisyphus sweating.
+
+To their credit, though, the Prisma team are shouldering the boulder and putting their feet on the mountain path — so you have to admire their pluck. They’re hoping to fire up a community of Prisma sharers quickly by building in viral rewards. So this means content shared to the Feed can be liked by others — and the more likes a photo garners, the greater potential visibility it gets by “further increasing its range of appearing on people’s feed”, as they put it.
+
+“Theoretically, a user can post a picture, get likes and watch his or her post spread and cover the whole world,” says the team.
+
+Popularity carries over too, so the more likes a shared picture gets, the more impressions that user will have for their next share. Ergo, it’s engineered to encourage sharing. But they really do need to create all the shortcuts to that all important ‘network effect’ they can.
+
+As well as being algorithmically pulled into the proximity/location-based Feed, shared content will also be viewable via an interactive map within the Prisma app — so users will be able to browse content shared near landmarks such as the Eiffel Tower, for instance. But in the version I tested ahead of the launch, the map only shows where in the world likes are coming from so the ability to browse shared content across the map is yet to come.
+
+“For the time being, the map shows likes from all over the world, and Prisma Labs is planning on expanding its functionality,” the team says.
+
+I also found the test version of the app to be pretty buggy — with a lot of Prisma’s filters failing to display or work properly. That’s a worrying development; if your USP is being a tool for fast stylizing content then anything which gets in the way could easily irritate your user-base and encourage them to switch to one of the alternative style transfer apps and options now in play.
+
+But the really big issue for Prisma’s social gambit is undoubtedly the lack of incentive to share within the app. Location seems a pretty weak bond to encourage users to invest in building a community of followers. While the fact you’re sharing imagery with the same set of filters applied as everyone else undermines the visual appeal of Prisma imagery in the first place — making it seem pointless to share here vs sharing elsewhere, on other social platforms, where Prisma’s effects might have more of an effect because they’ll be more likely to stand out amid other shared content.
+
+Other smaller issues include photos being automatically cropped to squares to share within the Feed when your original image is larger, and caption details being stripped out/not displayed.
+
+The Feed also does not currently support video sharing, though Prisma says that’s next on their list. The new photo cropping tool also didn’t seem to be working properly yet.
+
+It’s very clearly an MVP at this point, but even ignoring early teething issues (which it said it was busy “polishing” out in time for today’s launch) I’m not convinced this is a sharing concept that can scale into a social platform — and I’m a huge fan of Prisma’s core style transfer tech. As co-founder Alexey Moiseenkov conceded to me in an interviewback in June: “There are a lot of platforms and we don’t need any other social networks for today.”
+
+Moiseenkov also flagged “simplicity” as a key USP for Prisma. But six months later the team is U-turning on that early thinking, which underlines how tricky it is to create a sustainable business out of a “simple app” (as he described Prisma then) — even when you’ve gained widespread recognition; won Apple and Google’s ‘best app of the year’ awards; and bagged a couple of million active users. And they sayhardwareis hard…
+
+“Prisma’s Feed is something different,” says co-founder Aram Airapetyan now, when I ask what makes the team confident it can turn its style effects app into a social sharing platform. “The main idea is to make people try and share only amazing artworks. Only sharing a gorgeous picture a user can get lots of likes and have his or her post spread to the whole world. It’s about trying to cover as much people as you can.”
+
+“We’ve created a unique algorithm for this and are going to make it better after we launch and see the first results,” he adds.
+
+Another big update Prisma is launching today — coming to its iOS app first — is the ability to apply its effects to a free aspect ratio and full screen camera, rather than the previous square-only crop format. The team says this has been the “number one request from all our users”.
+
+They have also doubled the resolution of Prisma artworks to improve the visual quality.
+
+Here’s one sample image they shared:
+
+And another I made with the app:
+
+The ability to stylize free aspect ratio photos is definitely very welcome — although to get it you’ll need to update to the new Prisma platform app and go through the registration process. Which means losing the simplicity of the earlier version of the app… So swings and roundabouts there.Update:Prisma has confirmed it is still possible to use the app without needing to login — it says registration is only required if you want to access the Feed.
+
+Next up the team says they’ll be working to bring offline video processing and the new free aspect ratio feature to the Prisma Android app. They say they’ll also keep working to improve the quality of Prisma styles and resolution — along with the biggie: sweating on their new social platform — touting lots more things to come there. “This is just a beginning. There are so many mind-blowing things coming!” says Airapetyan.
+
+It’s fighting talk, for sure, but time will tell whether Prisma’s platform has any legs or not, however artfully crafted.

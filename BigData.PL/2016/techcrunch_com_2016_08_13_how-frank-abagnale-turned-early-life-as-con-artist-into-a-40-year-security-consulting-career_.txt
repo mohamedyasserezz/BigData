@@ -1,0 +1,33 @@
+How Frank Abagnale thinks like a con artist to improve security
+
+Frank Abagnale, Jr’s ignominious youth as a clever con artist was made famous in the 2002 movie,Catch Me If You Can, starring Leonardo DeCaprio as a young Frank, but Abagnale, as you might imagine, would rather talk about the life he led after he got caught, went to jail and paid his debt to society.
+
+It was then that he turned his conning skill to good and began a 40-year career as a security consultant. As the movie pointed out (which I recently rewatched ), he went from jail to working with the FBI under the terms of a court order, but he stayed there decades after the court order expired because he found a vocation he loved. Over the years, by his reckoning, he has conducted 3000 security seminars, trying to help business and law enforcement keep up with the latest cons — it’s not an easy job.
+
+When Abagnale was pulling his cons as a teen back in the 1960s, there was no internet, of course — there was only paper and his own cunning.  He cleverly worked the system using bad checks, forged letters of recommendation and fake badges and other forms of ID. He also used the telephone or brazenly manipulated people to get what he needed.
+
+He says that today with the internet, it’s actually much easier because social engineering lets you access someone else’s information with relative ease (if you know what you’re doing). “I taught at the FBI for four decades — how to think outside of the box and deal with social engineering. There is no technology today that cannot be defeated by social engineering,” he told me in an interview a few months back.
+
+His adolescent experience gave him a base of knowledge he would use for his entire career. Even when the practice switched to the internet, he found the general principles remained the same.
+
+“I’m not a cyber expert, but I know a lot about identity theft and how [people] use the internet to commit crimes. Nothing changes,” he said. Part of the problem, as he reminded me, is that the majority of people out there are honest and don’t think deceptively, and that’s precisely what criminals exploit, and why he is so in demand. He can think like the bad guys and show companies, law enforcement and individuals where it can go wrong.
+
+“If you tell me your name and date of birth, that’s all I need to steal your identity,” he said confidently, and with all of the data breaches in recent years across various sites, he says that there are data warehouses run by serious criminal syndicates chock full of credit card numbers, social security numbers, dates of birth and other personally identifiable information.
+
+When he conducts a seminar, he often does a test where he drops some USB drives marked “confidential” in the parking lot where he’s speaking, and inevitably several people pick them up and stick them into their company laptops. They get a message that says, “This was a test and you failed.” He says he doesn’t do this to embarrass people, but to point out that one move like that could have cost the company billions of dollars.
+
+This jibes with whatCrowdStrike CTO and co-founder Dmitri Alperovitch said at the RSA security conference last February. No matter how much training you do, their research found that 5 percent of employees will always click a malicious link. Maybe the same employees will also pick up an infected memory stick and pop it in their USB drives. Regardless, it becomes clear that it’s tough to protect your network in the face of this kind of data.
+
+That’s why Abagnale sees it as his mission to travel the country and educate people and try to help them understand how to make themselves as safe as possible. “You certainly remind people that you have to be smarter, whether you’re a consumer or CEO. You have to think a little smarter, be proactive, not reactive,” he says. But he admits that well-funded crime syndicates are no match for individuals or even most companies.
+
+Even at 68, he continues to expand his horizons working with a startup calledTrusona.The company hasdeveloped an authentication platform, aimed at making it impossible to use fake identification to conduct transactions over the internet. The company is so sure of its technology that it guarantees transactions using its products. Abagnale admits that he doesn’t know much about software — he leaves that part to founder Ori Eisen — but he thinks about how to defeat it and Eisen has made adjustments based on his suggestions.
+
+That’s what he brings to the security after all these years, after all the technology shifts, he can still think like the bad guys and figure out the security vulnerabilities, but Abagnale says what amazes him now is not what he did between the ages of 16 and 21, but what came after.
+
+He’s certainly not proud of his early life of crime, and what he did as an adolescent. As he told theCloud Identity Summitin New Orleans last June, “I always knew I would get caught. Only a fool would think otherwise.”
+
+He’s turned down three separate presidential pardons because he believes no piece of paper will erase what he did. All that said, Abagnale is grateful for the opportunities he’s had and that he was given a chance to turn his life around, allowing him to get married and raise three sons of his own.
+
+“We live in a great country, where you pay your debt to society and start over and do something positive,” he said. For over 40 years now, Abagnale has certainly done that.
+
+[youtube=https://www.youtube.com/watch?v=95sy9XVDGG8&w=560&h=315]

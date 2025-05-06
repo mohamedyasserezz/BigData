@@ -1,0 +1,25 @@
+MIT researchers develop wearable toxic gas sensor
+
+A team of four MIT researchers has developed a new wearable sensor that can detect toxic gases and talk to smartphones or other wireless devices to warn users when they are in danger.
+
+Using these sensors, the researchers hope to design badges that weigh less than a credit card and can be easily worn by military personnel on the battlefield.
+
+“Soldiers carry a lot of equipment already, and a lot of communication devices,”said Timothy Swager, Professor of Chemistry at MIT and lead author on a paper describing the sensors that waspublishedin theJournal of the American Chemical Society. The paper’s co-authors are post-doc student Shinsuke Ishihara and PhD students Joseph Azzarelli and Markrete Krikorian.
+
+“Soldiers have no wearable sensors to detect toxic gases. They use a variety of detectors, but they’re not the kind of thing you can carry around. Our sensors weigh less than a piece of paper,” Swager said.
+
+In layman’s terms, the system works as follows. The sensor is a circuit loaded with carbon nanotubes. Carbon nanotubes are cylindrical molecules that look like little wires.
+
+“Let’s think about the wires we’re familiar with, such as electric wires,” Swager explained. “They’re wrapped in plastic.” As a result, the actual wire is insulated from the external environment and users are safe. In the carbon nanotubes case, insulation is not achieved thanks to a plastic case. “We wrapped the nanotubes with a polymer,” Swager explained.
+
+When exposed to toxic gases, such as Sarin gas, the polymer breaks apart and the insulation disappears. Consequently, the nanotubes touch each other and become conductive. When this happens, a signal is sent to the smartphone.
+
+To detect the signal, the smartphone or the wireless device must be equipped with near-field communication (NFC) technology, which allows the devices to transmit data over short distances without the need for internet connection.
+
+The sensor’s response is irreversible, meaning that users can see they’ve been exposed to a certain amount of toxic gas even though the gas is not detected anymore in the air.
+
+“There are sensors that give reversible response, so things go up and if you take away the signal they go back again. But this one is different: The response is irreversible, so you can get the total dosage,” Swager said.
+
+The toxic-gas detector — composed of the wearable badge and the communication device — may also have civilian applications in refineries, where workers might be exposed to toxic chemicals.
+
+According to Swager, the technology to develop the product has already been licensed byC2Sense, a company based in Cambridge, Mass. Swager said the company is working on commercializing the product: “I think it would be at least a year.”

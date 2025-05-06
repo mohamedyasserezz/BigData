@@ -1,0 +1,13 @@
+Start your speculation engines, Apple is discontinuing its Thunderbolt Display
+
+Apple today announced that it is discontinuing its Thunderbolt Display, the large external display many use to connect to MacBooks or other Macs for extra screen real estate. This is very likely to fuel speculation (which has beenongoing) that Apple will soon launch a 4K or 5K version of the display.
+
+The current Mac’s display is 5K and can be extended (in lower res) to the existing Thunderbolt Display, which runs at 2560×1440 — but I can tell you from personal experience that the difference in resolution sucks from a usability standpoint.
+
+One of the technical hurdles has been which connector such a new display would use, or whether it would just feature an internal GPU. Current Thunderbolt tech may (or may not, depending on who you ask) work for it if you run cables in parallel, or customize it using a wireless chip methodsimilar to Apple’s Lightning digital AV Adapter. It might make sense, for instance, to use an internal GPU to enable laptops and other Macs without a powerful graphics processor to use such a high-res display.
+
+“We’re discontinuing the Apple Thunderbolt Display. It will be available through Apple.com, Apple’s retail stores and Apple Authorized Resellers while supplies last. There are a number of great third-party options available for Mac users,” said an Apple spokesperson in a statement given to TechCrunch.
+
+There is still stock left, but once that stock runs out it will no longer be available. If you’re in the market for one either buy it on Apple.com now or try to score one at a third-party retailer.
+
+Why Apple would make an explicit announcement about this is anyone’s guess — though the most obvious is big corporate orders and education. We’re getting into buying season for the new year and they want people to be drafting orders with this in mind.

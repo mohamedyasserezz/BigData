@@ -1,0 +1,41 @@
+Talking self-driving cars, IPOs and what’s next, with True Ventures
+
+A few weeks ago,True Venturesclosed its newest, early-stage fund with$310 million, which is just a slight step up from its last, $295 million fund, despite some enormous wins like Fitbit, whose first check came from True. (As you likely recall, the wearable device maker staged ahighly successfulpublic offering last year.)
+
+We weren’t able to catch up with firm co-founders Phil Black and Jon Callaghan at the time, but we talked this week about the firm’s strategy and how it views the startup world right now. For example, we discussed its $100 million “opportunity” fund, Select One, which True has been investing since last year to take outsize positions in roughly eight of its portfolio companies. Among them is four-year-oldPeloton, whose stationary bike with built-in console allows users to live stream instructional cycling content;Ring, the four-year-old video doorbell company; andNamely, a nearly five-year-old HR, benefits and payroll platform. “All three are achieving a level of operational excellence that we’re just thrilled by,” says Black.
+
+True — which is currently raising a second Select fund and this time targeting$175 million— also talked about what it sees as the next big frontier; whether there’s too much money in the market; and why WordPress parentAutomattic, which is one of True’s earliest and most richly funded portfolio companies, has yet to announce any kind of plan to go public.
+
+TC: You’ve been early to a lot of things, from 3D printing to wearables. What about the autonomous driving future, which now dominates the headlines. Where have you placed your bets?
+
+JC: We’ve been in that category for a while now. We invested in Renovo,the all-electric supercar, in 2011. We also invested inNexar, an app that lets camera phones video and monitor and intelligently score in real time all the cars on the road around you, so if a Blue Prius cut you off yesterday in Palo Alto, [everyone on the platform] will know not necessarily that that Prius is bad but that you should watch out. It’s AI for hybrid roadways. [Editor’s note: More on the companyhere.]
+
+TC: True has traditionally written checks of between $1 million and $3 million for between 22 to 25 percent of a company. Is that still possible to pull off in 2016?
+
+JC: Yes. We start small, but we don’t think small. We’ve been the first investors in a lot of very big markets.
+
+TC: Where might founders be surprised to learn you’re focusing a lot of time right now?
+
+JC: I guess neuroscience might be perceived as out there, but we’ve invested in four neuroscience applications that are really fascinating, includingNeosensory[which gives people new senses via haptic feedback] andSonicSensory,a stealth company that’s doing more neuroscience in entertainment. We also loveTuild, which specializes in brain acuity, and there’s another out of MIT that we haven’t announced yet.
+
+TC: And early-stage valuations are where right now?
+
+PB: Valuations have gone up over the last 10 years [since we launched True] but not unreasonably so. I kind of feel like there’s a bit of a stasis in terms of good companies getting funded. Meanwhile, it’s becoming rare for high-value late-stage companies to go off at some price that’s well outside of [where their public market counterparts are trading].
+
+Nutanix[whose devices combine storage and computer servers in one unit], just set its IPO price at [belowits last private market valuation] and it doesn’t take many of these for late-stage investors to say, “There are limits on the price I should pay.” So I think the market is self-correcting, I think we’re in a fine spot — which could change in two months. [Laughs.] Solid companies don’t have a hard time getting funding, but it’s not being done in two calls, either.
+
+TC: Benchmark’s Bill Gurley is worried that Silicon Valley isstill being floodedwith too much money. Do you agree or, given your very early-stage bets, is that not a concern right now?
+
+JC: I’m not sure the same sources of late-stage capital are there, but yes, it’s still comparatively easy and cheap for companies to raise money privately, and that’s not the best thing for companies or the economy and the country, by the way. It’s important for investors to get more democratic access to healthy, small, growing private, risky companies.
+
+PB: I do think we’ll see many more IPOs in the next five years than in the past five years. It’s a function of supply and demand. There was and remains a tremendous supply of capital for privately held companies in the system, but I think everyone would like companies that have raised a lot of capital to go public. Liquidity is an element of investment. There’s absolutely nothing wrong with a company going public with a market cap of $750 million to $1.25 billion, but it seems like that’s a late-stage venture round now, and I don’t think that’s right, particularly given the many good reasons for going public: You’re better managed, you enjoy better liquidity, you likely have more capital on your balance sheet…
+
+TC: Why hasn’t Automattic gone public? It’s 11 years old and has raised close to $200 million from investors. Is it a question of revenue?
+
+PB: [Founder] Matt [Mullenweg] is continuing to build a very large and successful company. It now has north of 500 employees; it made a very successfulacquisitionlast year of WooCommerce, so it’s now in the e-commerce business and doing something very similar to whatShopifydoes, and they did a big product revamp calledCalypsothat’s allowing them to do new things that they didn’t before. WordPress now powers more than 26 percent of the Web.
+
+We’re in a situation where there’s no need for outside capital. We raised $160 million in 2014 and we’re only slightly negative on a cash flow basis; in the meantime, I think we want to get our proverbial ducks in a row [before contemplating an IPO]. Calypso was a huge undertaking, and [between] that and Woo, which is producing revenue on a slightly more rapid pace, and havingnewly hired[renowned designer] John Maeda [away from his last role as design partner at the venture firm Kleiner Perkins Caufield & Byers], there are a few things operationally that the company wants to nail down.
+
+TC: Foundry Group announced its biggest fund to date on Monday, and it confirmed plans to invest aquarter of the moneyin other venture funds. That’s an interesting new wrinkle. Would you ever do the same?
+
+JC:  Do we want to own a fund of funds? No. But Foundry is one of our investors, and we’re very glad to have them in the mix.

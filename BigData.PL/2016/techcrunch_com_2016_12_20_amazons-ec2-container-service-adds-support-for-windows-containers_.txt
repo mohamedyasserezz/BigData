@@ -1,0 +1,11 @@
+Amazon’s EC2 Container Service adds support for Windows Containers
+
+With the launch of Windows Server 2016 three months ago, Microsoft gave its users the ability touse the Docker engine to run containers on Windows server. This meant developers could now package their Windows executables into containers and run them on Windows Server (though obviously not on Linux machines), using the same Docker engine and commands they were already used to. Today, AWSannouncedthat it its EC2 Container Service (ECS) now alsosupports Windows Containersin beta.
+
+To enable this feature, Amazon developed its own Windows version of the ECS container agent. In what is still a pretty unusual move for Amazon, the code for the agent isavailable on GitHubunder the Apache 2.0 license.
+
+Microsoft and Docker workedclosely togetheron getting the Docker engine to work on Windows (including Windows 10 with the Anniversary Update). The Docker Engine is even commercially supported on Windows Server 2016 and Microsoft will offer enterprise support for the Docker Engine, too. You can, however, also manage Windows containers through PowerShell without touching Docker’s management tools.
+
+It’s worth noting that while containers are generally considered to be rather lightweight, Windows Server Docker images tend to be pretty large (Amazon says to expect about 9.66 GB). Getting started with Windows Containers on ECS is also still a bit more involved than using Linux containers.
+
+As enterprises look into how they can take their older applications and bring them to the cloud, Windows containers could prove to be an easy way to lift and shift them from legacy hardware to the likes of AWS, Google Cloud Platform and Microsoft’s own Azure platform (which has supported Windows Containersfor quite a while now). Amazon clearly wants to get a piece of this market by adding support for Windows Containers now.

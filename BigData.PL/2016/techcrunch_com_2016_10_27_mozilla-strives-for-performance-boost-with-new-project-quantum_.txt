@@ -1,0 +1,17 @@
+Mozilla strives for performance boost with new Project Quantum
+
+As the web becomes less about static webpages and more about intricate web apps, browsers are being pushed to their limits to display interactive content without lag and erratic frame rates. Today,in a blog post, Mozilla outlined the development ofa new project it is calling Quantum, a browser engine designed to address these changes at a fundamental level. When the project is completed, it’s promised to bring a smoother browsing experience to Firefox users.
+
+Work on Quantum is leveragingprevious work on ServoandRustto deliver a smoother browsing experience on more intensive websites. Rust, a programming language, was initially created as the side project of a Mozilla employee. It was designed to be fast while ensuring thread and memory safety when developing parallel programs.
+
+This is important because Servo, the second piece to the puzzle, is a Mozilla-sponsored, community-based parallel web engine. Servo will be the source of many of the underlying components for Quantum that will actually improve the rendering of webpages.
+
+Separate from this endeavor, Mozilla has been hard at workrolling out Electrolysisto bring the benefits of a multiprocess architecture to Firefox users for quite some time. Though Mozilla has put a large amount of its resources into the development of Electrolysis,the company has remained consistent about insisting there was more up its sleeve.
+
+Electrolysis is being painted as a necessary first step that laid the groundwork for Quantum development. From here, Mozilla wants to throw out major components of its Gecko engine, replacing them with more efficient components that will play better with parallelization and GPU offloading.
+
+“We’ll be re-engineering foundational building blocks, like how we apply CSS styles, how we execute DOM operations, and how we render graphics to your screen,” said David Bryant, Head of Platform Engineering at Mozilla.
+
+The new engine will also focus processing power more effectively to prioritize the most important web content. Together with Electrolysis, set to roll out to all Firefox desktop users in the coming months, Quantum should improve the stability, security and overall quality of the browsing experience.
+
+Mozilla hopes to push out an initial iteration of Quantum by the end of 2017 for Android, Windows, Mac and Linux Firefox users. That means that, for now, iOS users are not going to be invited to the party, but Mozilla says they are hopeful they can be included in future releases.

@@ -1,0 +1,13 @@
+Rebelmail launches an API to bring more interactivity to emails
+
+Rebelmailis now making its interactive email capabilities available through an API, allowing developers to take advantage of the technology and incorporate it into other applications.
+
+The startup works with customers Airbnb, Casper and HP to help them include things like photo galleries, quizzes and purchasing capabilities in their emails — and make sure the experience works across different email clients.
+
+Co-founder Joe Teplow said the goal is to help marketers “treat the inbox as an extension of [their] website.”
+
+With the API, Teplow said Rebelmail can go even further in that direction, so that it’s not just about helping marketers sell things via email. Instead, a dating app could allow users to rate potential dates over email, or an e-commerce company could enable customers to post reviews directly from an email.
+
+“The reason why the API allows that is less a technical reason and more a business reason,” Teplow added. “Our customers now are marketers — they’re not sitting in a place where they’re able to augment product.”
+
+With the API, Rebelmail is hoping to reach “product and engineering people.” You canread more in this company blog post.

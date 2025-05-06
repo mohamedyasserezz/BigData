@@ -1,0 +1,33 @@
+VR and inclusivity
+
+For Brits of our generation, the first understanding of virtual reality might have been the VR glasses used by Lister in the TV series Red Dwarf to have “sex.” Those a little older might remember the 1960s invention theSensoramamachine, which played stereoscopic 3D films accompanied by sound, wind, aromas and chair-tilting.
+
+Approaching 2017, Apple is rumored to be exploring VR, Google is expected to launch a new standalone VR headset to succeed Google Cardboard and PlayStation recently launched itsVR headset.
+
+According to areportfrom Digi-Capital, investment in augmented reality and VR reached $1.1 billion in the first two months of this year.
+
+A billion-dollar industry is taking off, and we are excited that it has the potential to transform the lives of disabled people. But whatever the promise of this amazing tech, the industry has to move quickly to understand the needs and abilities of a full range of people and make sure it can offer a great experience for every possible user.
+
+For the 285 million people in the world who are blind or have sight loss, there’s a lot to consider in a virtual reality that relies heavily on eyesight. We would, of course, hope to see screen readers and voice tools like Siri incorporated into VR products as the standard. It’s also increasingly common to see screen interfaces that allow users to adjust the text size and contrast for different vision abilities, and we’d like to see this translated to VR.
+
+It might prove a little more tricky, but attention to detail is vital if VR is going to be something that everyone can use.
+
+We’re excited at the prospect of this technology helping people with certain eye conditions see things again — by defining objects with greater contrast and clarity. Or if someone is blind and visual information can be represented in other ways, then this is a powerful method to allow the person to be aware of their surroundings and make informed decisions on navigation and interaction.
+
+There have been some big breakthroughs. For example, Bonny, the woman in the video below, was diagnosed withStargardt’s disease10 years ago and hadn’t been able to see any faces for eight years. The disease causes a reduction in your central, or detailed, vision. The video shows her using an Android app calledNear Sighted VR Augmented Aid, which works with a phone camera and displays the front image to the phone screen in stereoscopic.
+
+Although sight loss might be the biggest inclusivity issue for developers to think about, it isn’t the only one.
+
+For the 360 million people in the world with hearing loss, VR developers should be looking to sync up/provide real-time captions without delays, as well as offer alternatives to sound effects, such as vibration/haptic feedback — both of which would be beneficial for all users. The integration of recently inventedSignAloudgloves would also be useful in VR to enable people who use sign language to communicate within the experience.
+
+While a lot of the focus of VR is sensory, there are a number of considerations for those with physical disability rather than a sensory loss. Users in a wheelchair, for example, might enjoy VR as a way to “move” more easily around places their wheelchair can’t go, enabling them to climb mountains, or skateboard perhaps.
+
+However, for those parts of a VR experience that do require a physical movement and which aren’t possible for some people, developers need to find ways through. We would suggest this include such measures as enabling a user to send signals or “move” using an eye tracker.
+
+We love the fact that VR is already being used in some cases to help aid muscle memory recovery for things like stroke, too. Synthesized environments help people simulate walking and other movements. The video below shows a prototype of the Teslasuit — a wireless outfit that uses electro muscular stimulation and combines it with VR to make a more engaging experience.
+
+But inclusivity can be a lot more than basic accessibility. We think VR is a ripe opportunity to think outside conventions and make a world that is more user-friendly for all. At the moment, for example with the HTC Vive virtual reality headset, the head height (and controller location) of the user is automatically tracked, placing the camera level of the user at something closely approximating their natural head height, whether in a wheelchair or otherwise.
+
+What if there was a way to adjust the head height so that people in wheelchairs could choose to have a higher point of vision than they do in everyday life, enabling them to see and reach more clearly within the VR world, and have more access to their VR surroundings?
+
+It’s an exciting new world that is still in its infancy — very few of the big players are even mentioning inclusivity. But like any area of digital accessibility, there is a huge opportunity in getting this right, and we’re confident that the next few years will see serious investment from companies looking to capitalize on the inclusive potential and really use this technology for social good.

@@ -1,0 +1,21 @@
+Skymind raises $3M to bring its Java deep-learning library to the masses
+
+Skymind, a company developing an open-source deep-learning library for Java, along with tools for implementation, today closed $3 million in financing fromTencent,SV Angel,GreatPoint Ventures,Mandra Capital,Hemi VenturesandY Combinator. Skymind was previously part of Y Combinator’s Winter 2016 batch and has taken money from Joe Montana’sLiquid 2 Venturesand a number of other prominent angels.
+
+Chris Nicholson, the company’s co-founder and CEO, decided to start the company after he noticed the steady stream of deep-learning researchers leaving the halls of academia for the six- and seven-figure salaries of large tech companies. With human capital becoming a finite resource, the challenge quickly became about helping companies leverage existing resources to play in the world of deep learning.
+
+Eighty percent of the world’s programmers are versed in Java programming. Nicholson, and his co-founder Adam Gibson, began to question whether it would be possible to build a library that would let those developers put their skills to work on AI challenges. This idea became Deeplearning4j, and it remains the core of Skymind.
+
+Nicholson describes his company as the Red Hat of deep-learning.Red Hat, a company that produces open-source software for the enterprise community, has grown to become an over $14 billion company.
+
+For startups that produce software for the Fortune 100, the pressure to create in open-source has never been higher. Not only does open-source allow companies to stay competitive, it allows the startups producing the technologies to hire the best engineers.
+
+Skymind employs 15 people, but they are not all centralized in a single opulent Palo Alto or SoMa headquarters like most startups these days. Instead, members of the team operate out of Japan, South Korea and Australia. Many of these engineers came directly from the Skymind open-source community, where they were working on their own challenges with the library. Of course, the company does have a small SoMa headquarters, but it’s not nearly as integral to the core business.
+
+$42 billion French telecom Orange SA is already using Skymind and its Skymind Intelligence Layer (SKIL) to build and deploy production code for deep-learning projects. SKIL facilitates the digital interactions between Skymind and existing tools like Hadoop. Nicholson also notes interest from medium-size companies in traditional data-rich sectors like financial services and e-commerce.
+
+One sector that will not be leveraging Skymind is the top layer of large tech companies that have poured billions of dollars into developing their own open-source technologies. Google’s TensorFlow, Amazon’s DSSTNE and Baidu’s Paddle have all found their way into a number of external applications. Importantly, however, none of these tools are built for Java.
+
+Skymind libraries were downloaded 22 thousand times last month, and that number is growing at 17 percent month over month. Nicholson wants the company to continue to develop tools for  data scientists. These tools could eventually include packages to better democratize access to reinforcement learning, a categorization of reward-based machine learning, for existing businesses.
+
+Other investors in the party round include Muse’s Matthew Bellamy, Hemi Ventures, JPush’s Chris Lo, Wei Guo, Rising Tide Fund, Ullas Naik’s Streamlined Ventures, Soma Capital, Lookout’s Kevin Mahaffey, GMO Venture Partners, FundersClub, S2 Capital, former head of Google search Amit Singhal and Google News creator Krishna Bharat.

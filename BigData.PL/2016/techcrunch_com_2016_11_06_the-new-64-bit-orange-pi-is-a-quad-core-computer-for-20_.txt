@@ -1,0 +1,7 @@
+The new 64-bit Orange Pi is a quad-core computer for $20
+
+Need a teeny tiny computer that can run Android or Linux? Only have $20? Well you’re in luck. When we first met theOrange Pi(get it?) the company was selling a nice Raspberry Pi clone for $15. Now they’re selling a souped up version with all the trimmings.
+
+Theboard includes an Ethernet port and three USB ports. It has 1GB of memory, H5 High Performance Quad-core 64-bit Cortex-A53, and a standalone graphics chip. It supports camera input as well as HDMI out and even has a physical power switch and IR blaster. In short it’s a mini computer that can probably play some games, display some HD video, and generally be used in all sorts of home-brew projects.
+
+You cancheck out the specs hereand order online. If you only have $5 you canpick up an Orange Pi Zero with Wi-Fi and Ethernet built-in.It’s no Raspberry but who doesn’t love oranges?

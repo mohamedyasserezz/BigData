@@ -1,0 +1,11 @@
+Self-driving cars take to UK streets for first public road tests
+
+Self-driving car startup and Oxford spinoffOxboticaput a modified Renault car with autonomous driving tech on UK roads for the first time, in a trial in England’s Milton Keynes at a very slow 5 miles per hour. It’s a tentative start, but it’s a start nonetheless, as the car handled cornering and breaking for pedestrians all on its own.
+
+The test is the result of British government encouragement in autonomous tech development, according to Reuters, with the ultimate aim of fielding self-driving cars in real-world use by 2020. Part of the goal of starting slow is to help gain public trust before proceeding to more difficult tests, according to one of the program organizers, and paving the way for even this humble beginning involved getting buy-in from local lawmakers via comprehensive mapping of the entire town, and running safety planning sessions with local council members.
+
+[youtube https://www.youtube.com/watch?v=qmcvEPmaexg]
+
+Internationally, the race to field self-driving vehicles has clearly begun in earnest. In the U.S., testing is being conducted by Uber on a fairly large scale in Pittsburgh, for instance, and California is licensing companies for road testing, as well as considering edits to its rules for said testing that would allow fortesting in vehicles which lack steering wheels and manual driving controls entirely.
+
+Oxbotica’s test vehicles run self-driving software developed at Oxford University called Selenium, which employees sensor data collected from visual spectrum cameras and LIDAR systems in combination with each other to map the vehicle’s surroundings. The trials are part of theLUTZ Pathfinder project, which aims to eventually feed into the UK-wide Auotdrive project which will field a fleet of 40 self-driving “pods” across Milton Keynes and Coventry.

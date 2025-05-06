@@ -1,0 +1,25 @@
+Blackmore raises $3.5 million to build better eyes for your self-driving car
+
+A Bozeman, Montana startup calledBlackmore Sensors and Analytics Inc.has raised $3.5 million to build lidar systems that can help vehicles see more details about what’s in front of them than existing sensors do today.
+
+The company spun out of a research and development firm calledBridger Photonicsthat developed lidar systems for micron-precise laser cutting and welding, originally, and then for military surveillance.
+
+Generally lidar systems “see” by emitting beams of light every nanosecond. When the light bounces back, based on how long it takes to return, lidar determines how far away an object is.
+
+Blackmore’s lidar systems are distinct from others on the market because they employ what’s known as frequency modulation, rather than amplitude modulation. So the light beams that Blackmore’s systems transmit will vary in color. When those colored light beams bounce back off a person, object or structure, they give Blackmore’s lidar system enough data to understand not just how far away a thing is, and how big it is, but also how it is moving.
+
+Blackmore President and co-founder Randy Reibel said, “Because we simultaneously get range to target, and how fast a target is moving, we can get a lot of information without having to do a lot of extra computation. This is important for autonomous vehicles because you can quickly tell if there’s someone walking with a velocity signature that is normal, or slow, in a crosswalk. Or you can tell if there’s a person riding a bicycle.”
+
+Reibel said the company’s existing lidar system is about the size of a soda can. The company will use its funding, in part, to create new systems that are miniaturized, and won’t require mechanical parts within, namely rotating mirrors to move beams of light around.
+
+Next Frontier Capitalled the Series A investment in Blackmore, joined byMillennium Technology Value Partners.
+
+According to Next Frontier General Partner Richard Harjes, his firm sees Blackmore as “seriously ahead on the tech” that could make self-driving cars safe and a mainstream reality sooner rather than later.
+
+The investor said he expects the company to use its funding for ongoing research and development, but also to strike strategic relationships in 2017 with original equipment manufacturers, startups working on autonomous vehicles and tier 1 suppliers to the automotive industry.
+
+“We already have a working system, now we need to get it dialed in on a vehicle,” Harjes said.
+
+One reason his firm backed Blackmore, the investor noted, was because of its dual-pronged approach to the market: “Blackmore has a serious lead using lidar for security applications given its defense background and this strength will drive the non-automotive aspect of the firm. This sets Blackmore apart from most others.”
+
+The startup, which employs 22 full-time today, competes with well-funded lidar makers like Quanergy and Velodyne.

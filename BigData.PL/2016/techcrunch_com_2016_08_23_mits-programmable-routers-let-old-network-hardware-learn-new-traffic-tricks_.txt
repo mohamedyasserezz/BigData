@@ -1,0 +1,13 @@
+MIT’s programmable routers let old network hardware learn new traffic tricks
+
+Researchers atMIT’s CSAIL research labmight help future network hardware better keep pace with ever-increasing network data demands. Where typical network router hardware directing traffic in larger server farms prioritize speed, they often feature hardwired algorithms, but the new CSAIL design are making programmable routers that don’t sacrifice speed, but can be updated if new, improved algorithms come around.
+
+The key to MIT’s development is that it doesn’t require any pro-off in network speed in exchange for the greater flexibility.
+
+“This work shows that you can achieve many flexible goals for managing traffic, while retaining the high performance of traditional routers,” Hari Balakrishnan, the Fujitsu Professor in Electrical Engineering and Computer Science at MIT explains in anMIT News articleabout the research. “Previously, programmability was achievable, but nobody would use it in production, because it was a factor of 10 or even 100 slower.”
+
+Basically, network routers hardware has to know what packets to drop, and when, and how to prioritize the back-and-forth communication of other packets it’s connecting between users and servers, and this becomes even trickier at the kinds of super-high volumes which occur in big server farms.
+
+Researchers working on the project arrived at specifications for seven different circuit types, ranging up in complexity, which can handle experimental traffic-management algorithms aimed at tackling even the trickiest network traffic negotiations. The result is an adaptable system that can roll with the punches and grow over time in response to changing network demands, which can do away with the need to swap out actual hardware when network situations alter in response to shifts in the way server farms are being used.
+
+The ultimate use this could help address? MIT cites Pokemon Go, which choked on unprecedented server demand early on, leading to the need for major infrastructure overhaul on the server side to get things running smoothly, a process which would’ve been far less painful with the kind of flexible router MIT has devised.

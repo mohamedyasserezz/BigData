@@ -1,0 +1,25 @@
+Polybit’s stdlib helps developers spend less time on infrastructure, more time coding
+
+A startup calledPolybithas introduced what it’s calling the Standard Library of the Internet in open beta, a resource to make back-end coding easy for developers, even beginners.
+
+The Standard Library,or the “stdlib” as the startup is calling it, allows developers to upload the functions they write to the cloud, and make their “microservices” or logic portable, and re-usable, no server management required.
+
+Polybit founder andKeith Horwoodearlier created Nodal, the open source node JS framework. He said, “I was pretty invested in the back end, API space for so long. Now my goal is to make it so software developers never have to worry about infrastructure whatsoever.”
+
+It’s a complex process to write code and make it accessible to millions online today, Horwood explained. It involves implementing the logic you want to write, figuring out how to host it online, putting it on a server (and most likely paying some company to do this for you), then constantly worrying about your servers and how to make sure the web service you built can be discovered by developers.
+
+The Standard Library is a repository of functions, the building blocks of any application, that lets developers make the functions they write instantly accessible online.
+
+Here’s an example ofa functionHorwood shared from the stdlib. It shows Rio Olympics gold medal standings.
+
+A developer could grab this “microservice,” and change the country name from Canada to any other quickly, or alter it to show thetop 5countries by medals won so far.
+
+Other examples of what people can build and share on stdlib, he said would be: functions that connect hardware to the cloud, or relay info to third parties, or manipulate data. http://www.youtube.com/watch?v=XRrwTGq6SbE
+
+Horwood thinks that making functions available online easily will also help IT teams to address the “de-prioritized” requests within a given organization.
+
+If a sales team wants IT to take disorganized customer data to score potential leads and generate a spreadsheet, that’s not as important as keeping a company’s critical e-mail and benefits systems running. But the Standard Library may hold pre-built software packages that can be quickly adapted for that sales team’s needs.
+
+While Polybit’s Standard Library has been in open beta for just about a week, it has already seen 500 functions deployed by approximately 1,500 registered users. The stdlib also has access to all of NPM’s 300,000 node.js software packages, Horwood noted.
+
+Polybit is a graduate of theAngelPad accelerator.

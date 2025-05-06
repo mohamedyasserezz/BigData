@@ -1,0 +1,19 @@
+Rackspace expands its managed security services to Microsoft’s Azure cloud
+
+Rumor has itthatRackspaceis about to get acquired, but that isn’t stopping the company from hosting a major customer event in San Francisco today.
+
+At the event, the company announced both a few milestones around itsOpenStackdeployments and that it is expanding its multi-cloud security services to Microsoft’s Azure cloud.
+
+While Rackspace also offers its ownhostingandcloud services, the company’s focus these days is on service and that includes offering support for applications that run on third-party clouds, too.
+
+The managed security service launched back in September 2015 and until now, it only supported AWS, Rackspace’s own dedicated hosting platform and Rackspace Managed VMware Cloud.
+
+“In today’s cybersecurity landscape, organizations are no longer asking if they should have a security solution in place, but rather whether they should do it themselves or partner with a trusted managed security service provider,” said Brannon Lacey, general manager of emerging businesses atRackspace, in today’s announcement. “We are proud to extend this security solution to Azure, as it represents the continued growth of our Managed Security capabilities and aligns with the overallRackspacemission to provide the best expertise and service across the world’s leading clouds.”
+
+Amazon’s AWS is the clear leader in the cloud computing market. Gut plenty of enterprises are also using Microsoft’s Azure platform, so it makes sense for Rackspace to expand this service to Azure, too, especially given that it also offeredmanaged services for Azure anyway. It’s unclear when (if ever) Rackspace will offer support for the Google Cloud Platform.
+
+It’s important to note that this is not simply an alerting service. Rackspace also helps customers respond to incoming security threats and helps them remediate security issues.
+
+In addition to announcing this expanded security offering, Rackspace also today announced some milestones around its OpenStack private cloud services. The company, which founded the open-source OpenStack project together with NASA back in 2010, says it has now reached one billion server hours of operating OpenStack clouds.
+
+“Over the past six years,Rackspacehas gained more experience building, operating and improving OpenStack clouds than any other company,” said Scott Crenshaw, senior vice president of strategy and product atRackspace. “The one billion managed server hour milestone is an exciting accomplishment and further validates that we are ahead of competition in OpenStack leadership and expertise.”

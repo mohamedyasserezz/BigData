@@ -1,0 +1,53 @@
+Viber adds one-touch video messaging, in-chat bots with Wikipedia, Giphy and more
+
+On the heels ofKikandFacebook’s Messengeradding in new video features yesterday, one of their old rivalsViberis announcing a new video tool of its own: users can now use Viber to send each other videos as messages with the push of a button — the messaging app video equivalent ofpush-to-talk.
+
+The feature is coming out in a new version of the app that will also include Chat Extensions — Viber’s equivalent of chat bots or Slack’s Slash Commands — which will let people call in information from external services — starting first with six apps, including Giphy, Wikipedia, and TheMovieDB — into their ongoing chats with contacts; as well as a wider refresh of all of the app’s iconography.
+
+Viber’s COO Michael Shmilov said that the app updates for iOS and Android should be live any day now as they make they way through the approval phase. The new edition comes as Viber — which has over 800 million registered users and around 260 million active users — continues to look for ways to compete with and differentiate itself from a sea of other messaging services that include not just Messenger and Kik, but WhatsApp (also part of the Facebook stable), WeChat, Line and many more.
+
+You could argue that these latest additions of video messaging and chat extensions, however, are examples of how Viber is, in this case at least, trying to keep up.
+
+Today, there are already ways for people on Messenger, WhatsApp and the rest to send asynchronous video messages — and that’s without considering the fact that you could also use old-school carrier-based MMS on your phone (the app equivalent remains more attractive because it doesn’t charge you based on the geography that is being travelled).
+
+And the same goes for information bots. Facebook was early to launch (growing pains and all) and hascontinued to evolvethese. And Slack’s Slash Commands have proven so popular in the workplace that it has started to feel like something is missing from your collaboration tool of choice if you can’t call in information from third-party services as easily as you can on Slack.
+
+But there are a few advantages to Viber’s implementations of these, which Viber hopes will be enough to keep current users from migrating away, and those who download the app to keep using it.
+
+In the case of video messaging, Viber has created it as a standalone service that you access directly from the messaging screen: it appears alongside the paper aeroplane icon that you press to send a text message. You press and hold down the video camera icon, record yourself and let it go to send it, or slide it to cancel the whole thing, as in the video below:
+
+[youtube https://www.youtube.com/watch?v=6lrjmV45V5g]
+
+By comparison, sending a video message on Facebook or WhatsApp requires a couple of the following steps, depending on the app: selecting images or video, turning the camera around to make a selfie, recording the actual video, and then selecting who to send it to.
+
+Shmilov said that Viber expects that the video messaging feature will get used in long conversations, or in cases where it’s less convenient to type a message. It will be interesting to see if it proves more popular than Viber’s existing Facetime-like video calling feature, which he said only accounts for about 10% of all calls on the platform these days.
+
+As for the chat extensions, Viber is taking a measured approach by launching only a few at first, and essentially building the extensions themselves or working closely with the third-party developers to do so.
+
+The reason for this, Shmilov said, was partly because of the encryption that they have built into that app — it’s not that easy to simply integrate services into that. And partly it is because Viber is trying to be selective in what it does.
+
+“The challenge here is not just to run and copy everything from others but to look at what we can build for our users, the right things for Viber users to enrich their experience,” he said. “Pushing more and more things is not the agenda for us.”
+
+The chat extensions work by way of the @ button at the bottom of the screen: when you want to, say, provide some info onStrepsirrhiniin Wikipedia, you would write “@wikipedia strepsirrhini” and a short version of the entry will come up.
+
+While there are only around six extensions currently available, Viber said that there will be more added over time. When you hit the @ button the directory will come up so that you can pick the one you need.
+
+These will also integrate with another thread of something that Viber is developing — Public Accounts for businesses, which is an enterprise service that the companylaunched in Novemberthat will let companies use Viber to communicate with their customers as a complement (or even replacement) for customer support.
+
+Shmilov said that since its launch in November there have been 10,000 Public Accounts for businesses created to date, which is a very impressive number to be honest, although many of these are not yet fully active.
+
+“We have 10,000 opened business accounts, which is nice traction, but the challenge is on the other side, how the businesses can manage this,” he said. Viber is currently working on integrating “all the biggest CRM solutions” so that Viber can integrate on the backend and become a part of the larger CRM dashboards that larger businesses use to manage and help their customers when they have questions or problems. “It’s a process of opening more than just an API, but creating the right environment for a business to join.”
+
+Having said that, there are already some implementations.Vixt(which creates videos from texts) has created a video plug-in, and Shmilov said a bank in Russia is using it for customer services and limited transactions.
+
+Looking to the future, the company —acquired by Rakutenin 2014 for $900 million — will soon be adding in more features that play into the fact that it is owned by an e-commerce company, and also that it has a lot of users in emerging markets like Russia, Eastern Europe, Vietnam, the Philippines and Sri Lanka.
+
+Specifically, this will include the ability to offer more financial services, be they the ability to buy goods or to move money.
+
+Money moving is something that Rakuten has already demonstrated an interest in: the company’s fintech investing armjust last weekinvested in loaning service Kreditech, and earlier this year invested inremittance service Azimo(once rumored to be an acquisition target for Facebook, which is also doing work in this area).
+
+For now, Viber is already running small trials with Western Union in select markets for a service that we understand will be coming to market more fully very soon.
+
+A video of how chat extensions work is below:
+
+[youtube https://www.youtube.com/watch?v=6lrjmV45V5g]

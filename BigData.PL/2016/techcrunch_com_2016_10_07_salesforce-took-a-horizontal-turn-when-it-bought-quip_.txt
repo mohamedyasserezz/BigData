@@ -1,0 +1,23 @@
+Salesforce took a horizontal turn when it bought Quip
+
+WhenSalesforce purchased Quip last summerfor $750 million, it seemed at face value to be an unusual acquisition for the cloud CRM company — Salesforce tends to concentrate on more vertical targets.
+
+In fact, at a press conference this week at Dreamforce, Salesforce president, vice chairman and COO Keith Block — yes,he has all those titles— said when asked about the company’s acquisition strategy, “We go very hard into vertical markets.” He then usedthe company’s $2.8 billion Demandware purchase as a prime exampleof this approach.
+
+Quip is the opposite. It’s a productivity app, designed to be mobile first, and which builds in collaboration and communication right at the document level. Quip founder and CEO Bret Taylor said they really wanted to put the communication component front and center when they were designing the app.
+
+Block has said in the past that when it comes to acquisitions, his company is always looking for better ways to serve the customer — theirs and those of their users. He admits Quip may not seem obvious as a product that serves the customer, but it’s about productivity, and that’s something that could touch every part of the Salesforce platform.
+
+“Quip is very compelling. Some people think it’s an unorthodox acquisition, but it’s in the context of driving productivity for customers,” he said.
+
+Taylor unsurprisingly agrees. “One way to think about it is that a lot of their products are vertical. Productivity is horizontal. Ours is a separate product and can integrate into all the Salesforce products,” he said.
+
+There was also a good cultural match, and Salesforce liked the Quip team, a point that Block says the company looks at very closely when making acquisition decisions.
+
+When Quip was sold, it came as a bit of a surprise, but Taylor said he and his team saw an opportunity to reach a scale that would have taken years on their own. He points to the scope of theDreamforceconference as a prime example of the reach of Salesforce. The company boasted that 175,000 people registered for the event. It’s doubtful that many showed up, but even so, it’s an enormous event and Quip had a big presence there, which wouldn’t have been possible before the acquisition.
+
+The idea of a deeper relationship began shortly after Quip agreed to build a Salesforce Lightning module earlier this year. It didn’t take long for the discussions to advance beyond that, and they began to talk about something deeper. It didn’t hurt that Taylor and Salesforce CEO and chairman Marc Benioff have known each other for a long time, and that really helped advance the discussion.
+
+At Dreamforce, Quip announced some direct integrations with Salesforce, including (as you would expect) single sign-on and the previously mentioned Lightning module to enable users to link, access and create Quip documents, spreadsheets and task lists inside of Salesforce. Finally, it includes what they are calling “rich mentions.” These are live Salesforce fields that live inside Quip documents, so if you drag closed deal data into your document, it will update automatically each time the deal data info changes in Salesforce.
+
+For those who aren’t interested in Salesforce, Quip is still available as a standalone product, and in fact continues to operate as a separate company within the larger entity. But it’s clear that the integrations announced this week at Dreamforce are only the beginning of what we will see in the future, and Quip is very much an important part of the Salesforce product family — even if it might seem like an atypical one.

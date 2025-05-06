@@ -1,0 +1,29 @@
+Flock is building a risk assessment platform for drone flights
+
+Engineering problems can sometimes appear simple beside the amorphous challenges of regulating and managing cutting edge technology use within existing societal structures. But early-stage startupFlockis viewing the knotted intersection of technology and regulation as just another business opportunity.
+
+The London-based big data startup is building a platform for performing real-time quantified risk analysis of of drone flights, including by applying AI to tracking data sourced from urban environments. Currently it’s focusing its efforts on the U.K. market.
+
+It’s not building a sense-and-avoid object detection system — rather it’s licensing data pertaining to the position of buildings, people and cars in urban environments, as well as weather conditions, and feeding that into its risk assessment platform. Idea being for itssoftware to analyze a planned drone flight in real-time and perform a “cost/benefit” analysis — to help insurers set premiums or drone operators decide whether or not to undertaken a given flight or not.
+
+That’s Flock’s first product push. Down the line it’s also intending to apply machine learning algorithms to the urban data it’s getting in order to generate “real-time risk reduction” for drone operators via predictive assessments for drone flight scheduling — which it reckons could be used to power fully autonomous drone flights zipping along risk-minimized routes.
+
+“The idea is to have a robust trend analysis built in to the system so we can analyze historic data on all the data sources that we collect over a given period of time, and then build up a really good understanding of how cities move generally, how cities breathe, and how populations and traffic conditions change over time,” says Ed Leon Klinger, CEO.
+
+“Therefore we can calculate the best route to take and the exact time to go, which is most efficient — both for internal logistics purposes and for external risk assessment purposes. So we’ll be using machine learning to formulate the predictions that we need that allows drones to intelligently navigate through cities and also be intelligently scheduled.”
+
+All that’s yet to come. The team is still building the platform at this stage, with Klinger saying it’s hoping to have an MVP launched within six months. In the short term the plan is to partner with insurance and drone companies to run pilot schemes once it has that up and running. And if you’re wondering where it’s getting its data on city inhabitants’ movements, well it’s not disclosing that yet.
+
+The startup was founded in March last year and has been funding development by bootstrapping and multiple R&D grants fromInnovate UKthus far. They’re in the process of raising a seed round.
+
+On the competition front, there’s AirMap in the market already, which raised a$16 million Series A round back in April— and which provides drone operators with airspace information to help them figure out when and where to fly. But Klinger argues Flock’s focus on real-time analytics of urban data is different vs AirMap mapping “static regulation”, as he puts it.
+
+(Although AirMap disagrees with Flock’s characterization — noting it does provide real-time data to drone operators, such as hyperlocal weather conditions, wildfire alerts, traffic alerts, stadium events, presidential movements and other “flight-critical events”, via partnerships with The Weather Company and the US Department of the Interior.)
+
+Flock targeting insurers and risk assessment makes for a bit of a different spin though, with AirMap focusing more on airports and drone makers.
+
+“In four or five years time we want to be embedded in every single autonomous drone globally. We want to be the company that’s providing contextual data in cities and urban environments generally, and keeping drones safe,” says Klinger.
+
+“There’s huge potential that drones can serve in urban areas… you’ve got congested traffic, you’ve got pollution and smog, it would help so much if we could take some of the strain off the road and put it in the air. There’s also a tonne of data to be collected by drones and aerial photography that could be done by drones in urban areas, but it’s just so difficult because of the fact that it’s risky,” he adds.
+
+This story was updated with additional comment from AirMap

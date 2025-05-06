@@ -1,0 +1,33 @@
+Global counter-terrorism database World-Check leaks online
+
+At least one non-authorized person obtained sensitive information following the leak of global counter-terrorism databaseWorld-Check, owned by Thomson Reuters.
+
+Chris Vickery, a security researcher at the software company MacKeeper,posted on Redditthat a copy of the World-Check database from mid-2014 had come into his possession.
+
+“No hacking was involved in my acquisition of this data,” Vickery pointed out. “I would call it more of a leak than anything, although not directly from Thomson Reuters.”
+
+Vickery described the database as a 2.2 million-record copy of “heightened-risk individuals and organizations.”
+
+World-Check provides banks, corporates, law enforcement, governments and intelligence agencies with security screenings about people and entities.
+
+“We monitor over 530 sanction, watch and regulatory law and enforcement lists, and hundreds of thousands of information sources, often identifying heightened-risk entities months or years before they are listed,”Thomson Reutersexplainson its website.
+
+According to Reuters, World-Check is updated by more than 350 research analysts based in 11 research centers across five continents.
+
+https://vimeo.com/132166180
+
+Thomson Reuters spokesperson David Crundwell confirmed the leak to TechCrunch, adding that it was due to — as Vickery said — a “third party.”
+
+“Thomson Reuters was yesterday alerted to out-of-date information from the World-Check database that had been exposed by a third party,” the company said in a statement. “We are grateful to Chris Vickery for bringing this to our attention, and immediately took steps to contact the third party responsible. As a result, we can confirm that the third party has taken down the information. We have also spoken to the third party to ensure there will be no repetition of this unacceptable incident.”
+
+Reuters declined to answer further questions regarding what the leaked information was about and how the third-party let the leak happen.
+
+In an email to TechCrunch, Vickery revealed that the leak was due to a CouchDB instance that was “perhaps mistakenly” configured for public access.Apache CouchDBis an open source non-relational database software.
+
+The company that is likely responsible for the exposed CouchDB, according to Vickery, is SmartKYC, a London-based financial services firm.
+
+“Thomson Reuters did confirm to me early this morning that they have been working with SmartKYC to secure the data and it is believed to now be offline,” Vickery emailed TechCrunch.
+
+Vickery also declared he still has a copy of the database.
+
+In August 2015, BBC’s Radio 4 alsowas grantedunauthorized access to World-Check thanks to “a client who has deep reservations about its methods,” journalist Peter Oborne reported.

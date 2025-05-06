@@ -1,0 +1,93 @@
+The Mirai botnet’s internet takedown opens up a new market for attackers and defenders
+
+When Amazon, Twitter, PayPal, Spotify and other major websites were rendered inaccessible on Friday, thousands of Americans learned firsthand what a DDoS attack feels like.DDoS — distributed denial of service — is an unsophisticated form of attack that overwhelms sites with spam traffic so legitimate users can’t get through. DDoS is a war of economics: whoever has the most computing power, defender or attacker, usually wins.
+
+When Amazon, Twitter, PayPal, Spotify and other major websites were rendered inaccessible on Friday, thousands of Americans learned firsthand what a DDoS attack feels like.
+
+This makes DDoS a useful tool for censorship of small and mid-level publishers, but major sites usually have defenses in place and aren’t susceptible to these attacks. However, Friday wasn’t business as usual. Theseries of attacks that took out Dyn, the DNS service that provides the backbone of many major sites, were powered in part by a botnet of hacked DVRs and and webcams known as Mirai. Mirai first emerged several weeks ago during a DDoS against Brian Krebs, a cybersecurity journalist who runs his own publicationKrebsOnSecurity.com.
+
+The DDoS attack on Krebs, the scramble for protection that followed, and Friday’s massive attack mark a new chapter in DDoS. More and more websites are being forced to seek shelter behind a shrinking number of powerful DDoS protection providers. But that centralization means that, as potent botnets like Mirai become stronger, larger sections of the internet can be knocked offline during attacks.
+
+Mirai is irritating for the American internet users who couldn’t access their favorite websites Friday, and a thorn in the side of companies that are nowforced to recalltheir easily hacked IoT devices — but the botnet is also influencing the market for DDoS protection.
+
+In late September, Krebs’ website was hit with a DDoS attack of unprecedented scale. The content delivery network Akamai had protected KrebsOnSecurity from more than 250 DDoS attacks over four years, but it struggled to withstand this record-breaking onslaught of fake traffic and, after several more attacks, booted Krebs from its service.
+
+“It was the biggest attack we’d ever seen. We were protecting someone for free and it was taking a lot of resources,” Akamai security advocate Martin McKeay told TechCrunch. “That was when the decision was made — this was a customer who we were protecting for marketing reasons but it was taking too much of our resources to make this a viable thing longterm. He looks into criminals who do DDoS, who do carding and skimming. It just was not worth the good will for us to protect someone who was thumbing their nose at the bad guys.”
+
+But Akamai’s decision wasn’t just about conserving its human and technological resources. The DDoS attack was so large that it was overloading surrounding internet infrastructure, McKeay said. The attacks had the potential to cause slowdowns for the company’s paying customers. Many of the attacks that had hit Krebs’ website previously were sending 3-4 gigabits per second, but the Mirai attacks were in the 500 – 600 gbps range.
+
+Still, Akamai tried to stick with Krebs. The company asked some of its paying Prolexic customers to temporarily turn off the service to make more bandwidth available in the Krebs fight, and to avoid issues on their own websites. Such requests often come during maintenance, according to Akamai, and shouldn’t cause alarm. But TechCrunch is aware of at least one Akamai customer who was shaken by the request — the company contacted a competing DDoS protection service days later.
+
+However, Akamai says it lost no customers due to the Krebs DDoS. “After having successfully protected Krebs’ site during the attack, his was the only site that was then transitioned to another solution,” Akamai spokesperson Jeff Young told TechCrunch. “It’s common to proactively notify customers anytime we perceive the possibility of unexpected traffic flows.  The vast majority of notifications sent are welcomed by the customer.”
+
+When the news broke that Krebs was leaving Akamai, other DDoS protection services swarmed, offering their services. With the massive DDoS attack making headlines and Krebs without protection, it was the perfect opportunity for another provider to make a name for themselves.
+
+DDoS protection services protect against online attacks that use large networks of computers to spam a site with junk traffic, ultimately knocking the site offline. Claiming Krebs as a client would be a powerful marketing moment for a DDoS protection provider, enabling the company to say they stood up to the strongest DDoS attack the internet had ever seen. Several free and paid DDoS services approached Krebs in the days following the attack on his site.
+
+In the end, Krebs went to Project Shield, a Google-backed DDoS protection service that works exclusively with journalists, human rights organizations and elections monitoring sites. Cloudflare’s Project Galileo, which protects public interest websites that feature political or artistic content, also made a bid to protect Krebs. An unnamed company offered two weeks of free protection, followed by services that would cost $150,000 – $200,000 per year,Krebs reported.
+
+Krebs wrote that Akamai gave him just two hours to migrate off its network, and Akamai later told theBoston Globethat the attack could have ended up costing the company millions of dollars. “We made a business decision to no longer keep this customer on our platform and prioritize our resources on our paying customers,” Young told the Globe.
+
+Krebswrote:
+
+I do not fault Akamai for their decision. I was a pro bono customer from the start, and Akamai and its sister company Prolexic have stood by me through countless attacks over the past four years. It just so happened that this last siege was nearly twice the size of the next-largest attack they had ever seen before. Once it became evident that the assault was beginning to cause problems for the company’s paying customers, they explained that the choice to let my site go was a business decision, pure and simple.
+
+Protecting Krebs is a big win for Project Shield, a project run by Google’s humanitarian think tankJigsaw. In the DDoS arms race, Project Shield has the advantage of being backed up by Google’s massive network. “Shield is a reverse proxy,” project lead George Conard explains. “We run virtual machines in the Google Cloud Platform that are doing the reverse proxying.”
+
+Project Shield had to go up against competition from Cloudflare’s Project Galileo to win Krebs’ business. Galileo, like Shield, is a free DDoS protection service that aims to protect sensitive content from being knocked offline.
+
+However, getting Krebs on Project Galileo was a long shot to begin with, Cloudflare CEO Matthew Prince says. Prince and Krebs butted heads at the Black Hat security conference in 2013, when Krebs criticized Cloudflare for allowing DDoS attackers to take refuge behind the company’s paid DDoS protection service. If Cloudflare kicked them out, Krebs argued, they would be taken down by DDoS themselves. Prince, who was in the audience, jumped on stage to defend his company. The ensuing debate was painfully awkward to watch, and likely cost Prince the chance to take over Krebs’ DDoS defense after the massive attack.
+
+[youtube https://www.youtube.com/watch?v=wW5vJyI_HcU&w=560&h=315]
+
+Prince says he offered Galileo’s protection to Krebs, but Krebs declined, claiming that accepting Cloudflare’s help after criticizing them would feel hypocritical. (Krebs did not respond to a request for comment from TechCrunch.) “During the first 24 hours, Google was struggling to keep it up,” Prince said of Krebs’ website. “We would have stopped it, absolutely.”
+
+The competitive feeling runs both ways. Asked about Project Galileo, a Jigsaw employee demurred, “As I’m sure you know, competition drives innovation.”
+
+“We want a little competition on the side of people building the services, because a lot of people are figuring out how to take down websites,” the employee added.
+
+Because DDoS is an unsophisticated yet effective means of censorship, independent journalists like Krebs often become high-profile targets. Companies like Google, Cloudflare and Akamai have a good-will interest in protecting them, but protecting someone like Krebs is also good marketing. The message is: If we can handle this massive attack on this worthy publisher, we can handle whatever scary mess the internet hurls at your enterprise.
+
+For Project Shield, the calculus is a little different. Unlike Cloudflare and Akamai, Google isn’t selling DDoS protection.
+
+But Google is working hard to sell its reputation as a neutral party that can be trusted with the news. As it puts its Accelerated Mobile Pages (AMP) head-to-head against Facebook’s Instant Articles, Google needs to prove it’s a company that’s on the side of publishers against censorship and avoid the missteps Facebook has made withTrending Topicsanddeleting newsworthy content.
+
+Google CEO Sundar Pichai appeared to acknowledge this during a February speech in Paris, when he announced the official launch of Project Shield in tandem with AMP. “There are times when news content is impossible to get to, not because the page loads slowly but because you’re under attack,” Pichai said, explaining that Shield would “provide a more sustainable news ecosystem.”
+
+Google’s mission of organizing the world’s information and making it accessible is fundamentally in line with the mission of journalism. “We’re in the same business, Google and the news. The more news organizations, the better the internet is,” a Jigsaw spokesperson told TechCrunch.
+
+The chance to protect Krebs came at an opportune time for Project Shield, which has worked hard this year to regain trust from journalists and human rights defenders abroad. Shield has to overcome the perception that Google is part of the American surveillance state.
+
+“We’ve definitely encountered that,” the Jigsaw spokesperson says of the distrust. “Our philosophy is to be transparent about what data we collect, what data we never collect, why we collect, when it will be implemented and how. We let them explore if it is in their best interest. Never is it in our interest for someone to sign up for Shield more than it would be in their interest.”
+
+Since its beta launch several years ago, Project Shield has worked to expand its presence. The service officially launched in Europe after Pichai’sspeech, where it protects a few hundred sites, and in Latin America about a week ago. “It’s a tool that requires explanation,” Conard says. “We’ve learned how best to reach the people for whom this matters. We have learned a lot more about the threats these organizations are facing, how often they are DDoSed and how seldom they know why or from where.”
+
+The expansion has come with opportunities to build trust — Project Shield now protects John-Allan Namu, a Kenyan investigative journalist who works onAfrica Uncensored, and project engineers spent time in Kenya during the 2013 election to learn about the DDoS protection needs of journalists and election monitors. Jigsaw employees also stress that, as the Project Shield team collects information about the websites it protects, none of that data is shared within Google.
+
+However, Project Shieldnotably missteppedin 2014, when it offered DDoS protection in partnership with Cloudflare to the Hong Kong pro-democracy website PopVote but then pulled out of the deal just 24 hours before an important referendum. Along with journalists, Shield also protects elections monitoring sites and PopVote, which faced a DDoS attack from the government, seemed like the perfect candidate.
+
+Deciding who does and does not deserve DDoS protection is a difficult process for Google and other companies that provide the service. For Akamai, Krebs was worthy until he spent too much time “thumbing his nose” and became too expensive to protect. Cloudflare’s all-inclusive approach for its paid service was partially responsible for the debate between Krebs and Prince, and when it comes to Project Galileo, the company is similarly hands-off. Cloudflare chooses not to weigh the worthiness of Project Galileo candidates at all, instead outsourcing the decision to an external cohort of human rights and free press organizations.
+
+“It’s really important that our whims on good and bad content don’t come in,” Prince explained. “We’re not picking winners and losers.”
+
+Although Google abandoned the PopVote project, Project Shield is trying to take a more inclusive approach these days. Conard says Project Shield doesn’t discriminate against media outlets based on content, pointing out that it protected pro-Russian and pro-Ukrainian publishers during the Crimean conflict. “DDoSing someone is never a legitimate or reasonable thing to do. I am happy to protect people we disagree with,” Conard told TechCrunch. “In general, because we don’t think there’s a legitimate use case for DDoS, I feel relatively good about taking an inclusive approach here and keeping information accessible.”
+
+Individuals who want to put their sites behind Project Shield’s protection go through an application process and are vetted by the Jigsaw team. Jigsaw runs publishers and organizations seeking protection through an internal screening process that includes checking them against a terrorist watch list, and says it would stop short of protecting a publication like Dabiq, the online magazine published by the Islamic State. “That’s an organization that we’re not by law allowed to provide service to,” Conard says.
+
+As enormous DDoS attacks become more common, charitable protection programs will be faced with challenging questions about who deserves protection from censorship and who doesn’t. While the propaganda arm of the Islamic State clearly falls under the U.S. definition of a terrorist group, the Chinese government might categorize an organization like PopVote in a similar way — and controversy-shy tech companies will have to decide whether they want to stand up to governments that DDoS their own citizens.
+
+The Mirai attacks haven’t just been an opportunity for protection providers to make a name for themselves and expand their client list — there are also clues in the attacks that suggest Mirai has been good for the DDoS business.
+
+The attack on Krebs’ website may well have been an act of censorship, intended to silence his reporting. But Cloudflare’s CEO Prince argues that Krebs might also have been targeted because taking down his site was a good way to advertise a new DDoS service. What better way to get out the word about your botnet than to take down the site of the preeminent voice on DDoS attacks? Mirai does seem to be for hire. “The targets have been really random,” Prince explains. “Attack lengths are in five-minute increments,” he added, which suggests that attacks are priced in a tiered way.
+
+When the source code for Mirai became public, Cloudflare analyzed it and found that five percent of the code was written to get around the company’s defenses — indicating that the botnet was designed with more than just Krebs in mind.
+
+But Akamai’s security advocate McKeay dismissed the idea that the attack on Krebs was intended as an advertisement for Mirai. “I don’t think it’s a reliable theory,” he explains. “You could have been a lot quieter in the attacks and not drawn the law enforcement attention that the attacks on Brian’s site have done. You have to know that if you are making the biggest attack ever seen, your botnet is not going to survive that. It’s going to draw law enforcement action globally.”
+
+Rather than publicly knocking down major websites and grabbing headlines, a safer DDoS business model is the extortion-based attacks that have been on the rise over the last year, in which attackers threaten to DDoS a site unless they receive payment.
+
+But the Mirai attacks have been huge and public, making the intentions of the attackers unclear. “You can’t launch an attack this big and not get arrested,” Prince says.
+
+It’s possible that the attacks are meant to send a message to the DDoS defenders themselves. “It’s going to make companies that provide protection think twice,” McKeay says. “If you are a company that provides a terabyte of protection worldwide, you are really going to have to think twice about providing DDoS protection. If it’s a secondary product line, they are going to have to think about the large attacks. This is just a precursor of what we’re going to see over the next few years. You have to think about investing a lot more in infrastructure, or decide it’s not worth the investment and get out of DDoS. A lot of smaller providers are going to see these attacks coming and get out of the business.”
+
+As smaller providers shut down, it clears the way for larger players like Cloudflare, Akamai and Google. But, as the Dyn attack demonstrated, that centralization can be dangerous.

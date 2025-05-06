@@ -1,0 +1,37 @@
+MacOS Sierra update fixes MacBook Pro graphics issue and ditches “battery time remaining” estimate
+
+Apple today is rolling out anupdate to macOS Sierrathat addresses several issues with MacBook Pro computers, including thegraphicsproblems on late-2016 MacBook Pro computers. Plus, in response to reported battery life concerns on these devices, Apple will now remove the “time remaining” display from the menu bar pull-down on the Mac, noting it was an inaccurate representation of how much battery life is left.
+
+Additionally, the update changes the setup and opt-out experience for using iCloud Desktop and Documents — a feature that alarmed users by removing files from their desktop when iCloud syncing was turned on.
+
+The most visible consumer-facing feature change is the removal of the battery’s “time remaining” display.
+
+Battery life complaintshave plagued the 2016 MacBook Pro devices, with users taking to Apple’s support communities and internet forums likeRedditto discuss the matter. While users in some cases reported they wereonly getting battery life of 3 to 6 hours, many were relying on the estimated battery life figures shown when clicking on the battery icon in the menu bar.
+
+This estimation is not all that accurate, which is why Apple is removing it. The change seems like the sort of thing that’s only meant to silence the pesky complaints, but in reality, it’s fair to say that there are discrepancies between the estimations and actual battery life.
+
+This is due to a number of factors. Apple’s newer Intel CPUs have dynamic power states, which means they can respond to calls from the OS with variable speeds, effectively eating up more or less juice from moment to moment. This ability to switch between low and high performance on-the-fly happens at the system level rapidly, and ultimately helps these machines save battery life by only using the power needed.
+
+However, this switching between performance modes also impacts the system’s ability to provide an accurate battery life estimate. When you click to view the battery life estimate, the computer responds based on what you’re doing at the time. So, for example, if you were launching a program or opening up a big file, the time remaining would be low.
+
+Other issues that affect battery life, especially on new computers where things are just being set up, include iCloud photo syncing and Spotlight search’s indexing of files.
+
+We understand that Apple has actually examined the battery life data from installed systems, and found that battery life is behaving as expected.
+
+In other words, the implication here is that the faulty battery life estimations are largely responsible for the bad reports. But it’s unclear what proportion of consumers’ complaints were based on real-world tests that took place after the initial setup period where Spotlight search and other background tasks have been completed, versus how many were based on simply looking at the battery life indicator.
+
+Another significant fix in the new update addresses the graphics issues on MacBook Pro models. Some users were affected by “flickering, full-screen checkerboard patterns, screen tearing, and other visual artifacts,”MacRumors had reportedearlier this month, describing the problem.
+
+Some speculated that graphics issues were hardware related, but the issue was addressed by a software fix instead.
+
+The other notable change in the Sierra update is a change to the messaging around iCloud syncing. This isn’t really about something that was going wrong, per se, but it was confusing users.
+
+When you turn on iCloud syncing after you’ve already enabled it on a different Mac, Sierra creates a new folder on iCloud containing your Desktop and Documents files. But it moves files from your Desktop off to this new location. What this looks like to the end user, however, is that your files have just disappeared from the desktop.
+
+The update rewords the messaging around this process, so as to be less misleading and alarming to users.
+
+Another point of confusion is that Sierra has a feature that will delete files as needed to free up local disk space, if they’ve already been backed up to iCloud. The messaging and the timing around Optimized Storage alerts will also be fixed with the update.
+
+While the above three items are the main changes arriving today, the Sierra update includes several more tweaks and fixes, including:
+
+The macOS Sierra 10.12.2 update rolls out today.

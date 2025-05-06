@@ -1,0 +1,31 @@
+Tesla Autopilot 8.0 uses radar to prevent accidents like the fatal Model S crash
+
+Today, Tesla revealedVersion 8 of its Autopilot software, going live in one to two weeks. Version 8.0 includes updates to the signal processing tech used to interpret images received from the onboard radar. The update focuses primarily on the radar component of the Autopilot sensor system, turning it from a supplementary part of the overall tech, designed to complement the cameras, into a primary control sensor that, according to Elon Musk himself, should prevent accidents like the one that resulted in Josh Brown’s death.
+
+“We’re making much more effective use of radar,” Musk explained on a press call regarding the updates. “We weren’t confident that we could resolve false positives where the radar would think that it should brake, but it shouldn’t.”
+
+But after getting upgraded components from Tesla’s suppliers, they found they could combine that with their real-time fleet learning system and almost entirely eliminate false positives. That means radar alone can initiate a braking event, rather than requiring the camera component to also provide a positive image recognition result of a potential object.
+
+Musk said that the new system should detect “any thing that’s metallic, anything that’s large and dense,” and then brake the vehicle, “as long as it’s not large and fluffy.” If Autopilot is active, the system will be better able to predict the car’s path and then produce a gradual brake that Musk said should be “much more comfortable” and able to “brake entirely” in most cases, but even if Autosteer is not engaged, it should also result in a emergency brake that will “mitigate” rather than completely avoid collisions in most cases.
+
+The system is able to brake even when it doesn’t recognize what the object is, and that’s the key to why he suggests it would’ve avoided the accident that resulted in Brown’s death. It could recognize anything from unusual vehicles, to “an alien spaceship,” “to a pile of junk metal” or even a multi-car pileup. It can also detect it through obfuscation like rain, fog, or haze.
+
+Tesla’s new Autopilot can also bounce its radar signal off of the roadway or its surroundings and receive an echo signal back to provide a view around any cars you’re driving behind, which means it should have “superhuman” object detection abilities, according to Musk. It’ll also register false positives using Tesla’s network of fleet vehicles, geocoding stuff that’s confusing the system like billboards to prevent them causing unnecessary braking events.
+
+The entire Autosteer upgrade will be done via over-the-air software, free to existing  Tesla owners, and will work with Tesla vehicles from 2014 and on, since those all include the necessary radar hardware. Fitting this software and the new processing power onto the existing computing hardware in the vehicle will be a special “challenge,” according to Musk, but he’s confident they’ll be able to manage.
+
+Musk also noted that beginning soon, even when Autosteer is not actually turned on, Tesla will enable a feature that allows the car to nudge you back towards the road automatically when it’s “highly confident” that you’re in danger of veering off a roadway.
+
+While he did say that “we believe [the update] would have” saved Josh Brown’s life were it in place prior to the fatal May accident in which his Autopilot-driven Model S collided with the broad side of a truck on a highway, Musk also cautioned that it’s not a panacea for safety.
+
+“I do want to emphasize that this does not mean perfect safety,” he said. “Perfect safety is really an impossible goal. It’s really about improving the probability of safety, that’s really all you can accomplish.”
+
+Other features coming in the 8.0 update include a new safety mechanism that actually fully disables Autopilot if a driver repeatedly ignores the warning to keep your hands on the wheel. This is because, Musk notes, unlike what many consumer watchdog and regulator organizations might think, “it’s not the neophytes, it’s the experts” that have the highest likelihood of Autopilot-related accidents, because they become used to ignoring things like these warnings as they get more comfortable with the tech.
+
+Asked about LiDAR, a tech that some have speculate Musk might employ in future version of the Autopilot system, the Tesla CEO was fairly transparently dismissive.
+
+“We do not anticipate using LiDAR,” he said, noting that LiDAR does not penetrate occlusions like rain, fog, dust and snow, whereas radar does.
+
+“Radar also bounces, but LiDAR doesn’t bounce very well, so you can’t do the look in front of the car in front of you thing,” he added. “So the obvious thing is to use radar and not use LiDAR.”
+
+While Musk said he didn’t want to speak for NHTSA, he did say that the regulatory agency has seen the update, and appears to be “quite happy” with the update overall.

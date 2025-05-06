@@ -1,0 +1,17 @@
+MIT’s new way to make metal could significantly lower air pollutants
+
+Serendipity has long been a staple of scientific study, and a new discovery by MIT is no exception. Researchers at the school were trying to build better batteries, butinstead found a better way to smelt metal. The study resulted in a brand new, far less polluting way to make antimony, which itself isn’t very applicable in a broader manufacturing context, but the method could be applied to copper and nickel, which are common ingredients in everyday electronics.
+
+MIT says that the new smelting method “virtually eliminate[s]” the greenhouse gas emissions that come along with traditional means of producing metals. Those emissions are consistently a source of concern from watchdog agencies likeGreenpeace, which monitors the environmental record of electronics manufacturers.
+
+The new process isn’t just better in terms of producing hazardous byproducts, it’s also cheaper according to MIT, which provides an additional incentive for commercializing it and applying it to more metals than just antimony.
+
+The smelting process itself isn’t entirely new; it’s a variant of the electrolytic process used to make aluminum. But it hasn’t been used to make antimony before, andMIT Newsexplains why:
+
+“Antimony sulfide is a very good conductor of electrons,” [research paper author Donald] Sadoway says. “But if you want to do electrolysis, you only want an ionic conductor” — that is, a material that is good at conducting molecules that have a net electric charge. But by adding another layer on top of the molten semiconductor, one that is a very good ionic conductor, it turned out the electrolysis process worked very well in this “battery,” separating the metal out of the sulfide compound to form a pool of 99.9 percent pure antimony at the bottom of their cell, while pure sulfur gas accumulated at the top, where it could be collected for use as a chemical feedstock.
+
+While the original goal of the project was to charge this so-called battery, what happened instead was the production of antimony, with the added benefit of capturing the sulfur, which ordinarily bonds with oxygen in the air during the process used to smelt the metal today, resulting in a pollutant that’s a major contributor to acid rain.
+
+Theoretically, the process could be applied to much larger volumes of material, and to metals like copper and nickel, as mentioned. The types of metal it might work with are essentially limited by melting point — antimony’s is very low, while those of copper and nickel are slightly higher. Other metals like steel might be harder to make, because of the much higher melting point of the key steel ingredient iron.
+
+Still, it’s a promising discovery and one that could act as yet another reminder that accidental outcomes are the best kind when it comes to scientific research.

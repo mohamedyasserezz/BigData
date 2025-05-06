@@ -1,0 +1,21 @@
+In a first, FAA allows PrecisionHawk to fly drones where pilots can’t see them
+
+The Federal Aviation Administration has given permission to a drone tech startup calledPrecisionHawkto fly its unmanned aerial vehicles beyond the visual line of sight (BVLOS) in U.S. airspace.
+
+The exemption represents a first in the country, and comes on the same day that the FAA implemented itsPart 107 rulesgoverning the way that businesses can use small drones, up to 55 pounds, in their operations.
+
+PrecisionHawk, based in North Carolina, makes fixed-wing drones for use in agriculture, and cloud-based software called DataMapper to helps businesses save and analyze the aerial images and information they collect using drones.
+
+Verizon Ventures, an investment arm of TechCrunch’s parent company Verizon Communications Inc., is a stakeholder in PrecisionHawk. The company has raised $29 million inventure funding to dateaccording toCrunchBase.
+
+PrecisionHawk’s Lancaster drones compete with the likes of so-called agridrones fromKespry,Parrot,GIS UAV Ltd.and others.
+
+The company’s DataMapper product competes with an increasing number of map-tech and data analytics platforms catering to drone users, includingDroneDeployand3DR’s Site Scan.
+
+PrecisionHawk EVP Thomas Haun said, “In agriculture, now that we have an exemption to fly beyond the visual line of sight, we can fly an entire farm, not just one field, efficiently.”
+
+The exemption does not mean PrecisionHawk can fly outside of other rules outlined in the FAA’s newly implementedPart 107regulation, Haun noted. The company will still have to yield to other aircraft, avoid flying over people, fly only during daylight hours and the like.
+
+Instead of giving drone operators a first person view with video cameras, PrecisionHawk uses what it calls a low altitude traffic and airspace safety system (LATAS) to help drone operators automatically avoid air traffic or any other obstacles during flight. That system is powered, in part, by air traffic data fromHarris.
+
+The Part 107.31 waiver for PrecisionHawk was the first “VLOS” waiver the FAA granted. The administration issued 76 total waivers on the day that Part 107 went into effect, most of which applied to operators flying at night.

@@ -1,0 +1,41 @@
+Viber follows Messenger, launches Public Accounts for businesses and brands
+
+Viber, the messaging app with 800 million users owned by Japan’s Rakuten, is today taking the next step in expanding its platform as it seeks to compete against the likes of Facebook’s Messenger and WhatsApp not just for audience — but revenues. Today, Viber is launching Public Accounts, a new account format for businesses and brands who want to communicate with Viber users for marketing, customer service — or a bit of both, without a user needing to add that account as a contact first.
+
+There are some 1,000 Public Accounts that are debuting at launch, including accounts for The Huffington Post, Yandex and The Weather Channel, to send out updates and other information to users who choose to subscribe to them.
+
+The customer service component, meanwhile, will be coming soon. Michael Shmilov, COO of Viber, told me in an interview that by the end of November, Viber’s API will be integrated with between 10 and 15 popular CRM packages. Businesses can then send and read their Viber messages alongside all of their other social media, email and messaging interactions.
+
+Public Accounts will also open the door to Viber hosting bots as well — although Viber itself will not be building these, Shmilov tells me.
+
+“We are focused on building the best chat experience with a scalable API, so we are not building bots ourselves,” he said. “We provide the tools for bot developers [to place them there].”
+
+Public Accounts — which Shmilov formally announced today at at the Web Summit in Lisbon — are building on a feature that Viber added back in 2014 called “Public Chats.” This essentially let personalities — or anyone, really — run a conversation with the public, although only those who actually had the speaker as an actual contact were able to interact with him or her.
+
+Public Accounts, Smilov pointed out, will be the first time that you (and a business) will be able to interact with each other without having each other as a contact.
+
+Public Accounts puts Viber among several other consumer-focused messaging apps that have already started to court brands and others with special features to “speak” to those apps’ user bases.
+
+They includeWeChatandLine, which have been offering business account options since 2014 and 2015, respectively. And while Facebook Messenger camesomewhat later to the partywith its business launch, it’s been quick to expand and update the service with bots and other features, most recentlyupdating the platformjust yesterday.
+
+There is a bigger trend where social media platforms are leveraging their audiences and analytics data to provide more direct services, as they look to expand their revenue potential beyond basic in-stream and display ads. Twitter also has beendeveloping customer servicefunctionality.
+
+But if this is a certified trend, not all messaging apps are on board quite yet. WhatsApp has yet to announce any business services, although it said it was planning toback in January of this year. (The latest date on that seems to beby the end of this year.)
+
+Interestingly, the fact that all the other messaging apps are jumping on the business bandwagon seems to make sense and is even a good thing, in Shmilov’s mind. The company has around 266 million active users among its 800 million overall users, and he sees Viber’s CRM functionality as simply complementing what the others are doing, creating a framework for all messaging apps to be legitimate channels for communication.
+
+“When Viber is one of the few apps you use, we want to make sure it’s part of how you can engage with a business,” he said.
+
+The reason for why businesses want to do more in messaging apps is pretty clear: for a good proportion of the population who use messaging apps, they have replaced a lot, if not all, email use, and for some the more direct format has replaced their use of more open platforms like Facebook and Twitter as the central place for interacting directly with others in a text-based format. And those interactions happen in real-time, a key way to ensure engagement (a holy grail for businesses).
+
+On top of this, mobile-friendly messaging platforms are evolving into all-seeing, multifunctional platforms, with the ability to send media like stickers, make phone calls, and speak to bots that can give you recommendations for places to eat, among so much more.
+
+So for businesses, brands or others that need or want to speak to a large group of users, or have direct interactions in cases of customer service, it makes sense that they would look to messaging platforms to try to do that. With 266 million active users, Viber is substantial enough for businesses to target.
+
+But equally clear is the reason why these may not be to all users’ liking.
+
+As we’ve writtenbefore, messaging platforms have risen almost as a counterbalance to open-ended platforms like Facebook’s. Whereas you can see anything and everything on Facebook or Twitter, you essentially choose who you want to talk to on messaging platforms. Having businesses start to engage on there and use it to send you stuff could pollute that experience, if it’s not handled correctly.
+
+As for how Public Accounts will be priced, Smilov was not entirely specific on this point with me, but it sounded like it will be modelled on a freemium idea: creating the account will be free, but adding in features or using it to send things will come at a price.
+
+“We already enable businesses and brands to publish their own content on Viber with Public Chats, and we make revenues from things like Sponsored Stickers and other promotions,” he said, explaining what will be likely the first areas where Public Accounts may also generate sales. “Apart from that, we won’t charge for Public Accounts at this stage.”

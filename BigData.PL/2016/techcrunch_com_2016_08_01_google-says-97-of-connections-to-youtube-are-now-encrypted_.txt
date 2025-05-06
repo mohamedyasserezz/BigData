@@ -1,0 +1,11 @@
+Google says 97% of connections to YouTube are now encrypted
+
+Earlier this year, Googlelauncheda new section to its Transparency Report that highlighted the use of HTTPS to encrypt connections between its users’ devices and its servers. At the time, the report only showed data for Google Drive, Finance, Gmail, Maps, News and the company’s advertising products. Today, Googleaddeddata for YouTube and Google Calendar, as well.
+
+For YouTube, HTTPS now accounts for 97 percent of all connections to the site. For Calendar, that number is 93 percent.
+
+Given its massive scale, YouTube obviously presents some extra challenges for Google. But the company argues that its Global Cache content delivery network is able to handle encrypted connections relatively easily, in large parts because hardware acceleration forAES, the algorithm at the core of the HTTPS protocol, is now ubiquitous.
+
+Google also argues that using HTTPS connections has improved the user experience on YouTube. “You watch YouTube videos on everything from flip phones to smart TVs,” the team writes today. “We A/B tested HTTPS on every device to ensure that users would not be negatively impacted. We found that HTTPS improved quality of experience on most clients: by ensuring content integrity, we virtually eliminated many types of streaming errors.”
+
+Still, because YouTube is being used on so many different devices, YouTube isn’t quite able to hit 100 percent yet. Over time, though, Google will phase out insecure connections to YouTube, just like ithas done with Gmail. As a Google spokesperson told me, though, the company doesn’t currently have a timeline for when that will happen, but it’s likely still a long way out.

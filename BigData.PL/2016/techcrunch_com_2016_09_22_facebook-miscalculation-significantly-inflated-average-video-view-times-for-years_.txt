@@ -1,0 +1,27 @@
+Facebook miscalculation significantly inflated average video view times for years
+
+Facebook has come clean on a slight error in how it presented video view time on its platform. A mismatch in how average video view time iscalculatedand how it isdefined— resulting in that number being reportedly inflated by half or more, for a short period of two years.
+
+The issue came to light in a post toFacebook’s advertiser help page:
+
+We had previously *defined* the Average Duration of Video Viewed as “total time spent watching a video divided by the total number of people who have played the video.” But we erroneously had *calculated* the Average Duration of Video Viewed as “the total time spent watching a video divided by *only* the number of people who have viewed a video for three or more seconds.”
+
+In other words, they said they were presenting the average of all views, but what they were actually doing was presenting an average that doesn’t include the billions of views under 3 seconds — the inclusion of which would have dragged that average down considerably.
+
+As a purely illustrative effort to show how this could play out for a brand interested in promoting your videos on Facebook, here are some imaginary numbers. Really, I’m just making these up.
+
+You have a thousand videos online, and they got a million views collectively. Your dashboard says the average duration of video viewed is 20 seconds.
+
+As it turns out, a quarter of those views were under 3 seconds, and got thrown out of the average. If you were to include them, as Facebook does in its revised metric, your average duration viewed may look something more like 16 seconds. Does that affect your decision-making process? Maybe, maybe not.
+
+ButThe Wall Street Journal was told by Publicis Mediathat the miscalculation resulted in inflation more along the lines of 60 to 80 percent. So that 20 goes down to something like 12 or 14.
+
+Do advertisers care about this statistic? It seems like a pretty significant one: how long to people actually engage with my videos for? And the disparity between the numbers Facebook showed for 2 years and the ones it intends to show from now on is not minor.
+
+Nor is the volume of content affected: 100 million hours a day or so, which if you divide by the 8 billion views per day, gives you about 45 seconds per view. Is that 45 really 30? Is that 100 million really 75? At this scale even minor errors come with 6 or 7 zeroes on the end.
+
+On the other hand, Facebook fessed up to this error a month ago, and no advertisers have been publicly tearing out their hair or suing the company for fraud. Maybe they don’t care, or maybe these revised numbers tally better with their internal metrics and they’re patting themselves on the back.
+
+I sincerely doubt Facebook was deliberately juicing its video views, even though to do so would have been hugely beneficial for them in promoting advertising around them. But the fact that such a significant, user-facing error was allowed to persist for two full years of intense development, auditing, and growth is surprising and no doubt worrying to many brands and users.
+
+Facebook says that the error did not affect billing, nor is there any reason it should. But it did present a very different picture of engagement than what was actually taking place. The company has made the required adjustments to the metrics; users can assess for themselves how much they matter, and take appropriate action. But the trust Facebook tested with this lapse is a tenuous one, and further errors of this scale may not meet with this type of disappointed acquiescence.

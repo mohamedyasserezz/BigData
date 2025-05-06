@@ -1,0 +1,19 @@
+Facebook Workplace announces enterprise collaboration app platform
+
+Facebook will compete directly with Slack through a full-fledged new collaboration app platform built atop its pay-per-user enterprise communication productWorkplace. Exclusively announced on stage today at TechCrunch Disrupt London, the Facebook Workplace platform will support integration with apps for CRM, file sharing, email, calendars and more.
+
+By allowing clients’IT teams to customize their versions of Workplace, Facebook could make the product flexible enough to handle any business. And because the integrations with outside tools are built by IT teams rather than offering a generic app store, enterprise app developers won’t have to build anything special to support Workplace.
+
+WhenFacebook launched Workplace in October, it came with a few IT security partnerships for single sign-on and identity management like Okta, Google’s G Suite, and Microsoft’s Azure Active Directory. Service partners like Deloitte and Edelman could help Workplace clients get set up.
+
+But now, Facebook’s head of Workplace Julien Codorniou explained it will offer a full platform of integrations with SaaS services in the enterprise collaboration space. It could support Box for file sharing, Salesforce for CRM, or Google for email and calendaring, though these partnerships are just potential examples that haven’t been set up yet.
+
+By combining the familiarity from Facebook’s similar consumer features with enterprise-grade security and platform apps, Workplace becomes a serious threat to the Slack rocketship.
+
+Slack has emerged as an enterprise social, collaboration and identity layer connecting tools from the industry; however, itsgrowth has slowed slightlyas it recently hit 1.25 million paid users and 4 million daily users. It raised $200 million in April to value the 650-employee company at $3.8 billion.
+
+The Slack platform has been one of its core draws, with over 746 apps in its App Directory, which receive 415,000 installs per month and have been installed a total 6 million times. Slack even set up an $80 million Slack Fund with help from its investors to back Slack-integrated apps, and its done at least 14 investments so far in apps like Abacus and Bird.ly.
+
+But Facebook’s ubiquity and resources could give it the chance to catch up and potentially dampen Slack’s growth. It can direct engineering, product, sales, and partnership talent at Workplace, and outspend Slack on advertising. Most companies already have a presence on Facebook, giving the tech giant an inroad to signing them up for Workplace.
+
+And since most people already know how to use the Facebook News Feed, Groups, Events and Messenger, it’s simple to onboard them. Workplace’s biggest challenge might be convincing employers that they actually want their teams Facebooking all day. Collaboration app integrations with the new platform could become its hub for tools that help companies get work done, not just socialize.

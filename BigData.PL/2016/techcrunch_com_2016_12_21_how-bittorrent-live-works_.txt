@@ -1,0 +1,15 @@
+BitTorrent Live’s “cable-killer” P2P video app finally hits iOS
+
+Cable companies rule TV because they control the expensive wires and satellites that can deliver low-latency live content at scale. Cable companies can then dictate how much per monthly paying subscriber they offer the channel owners for access because there are few alternatives for live distribution. And the cable companies can charge consumers exorbitant prices because they’re sometimes the only game in town.
+
+But BitTorrent has now done for live video what it did for file downloads: invented peer-to-peer technology that moves the burden of data transfer from a centralized source to the crowd. Instead of cables and satellites, BitTorrent piggybacks on the internet bandwidth of its users.
+
+Since P2P live streaming is so much cheaper than traditional ways to deliver live content, BitTorrent could pay channel owners more for distribution per viewer. And BitTorrent can offer that content to viewers for free or much cheaper than a cable subscription. The transfer technology and the app that aggregates these channels are both calledBitTorrent Live.
+
+Now, almost a year after the protocol’sdebuton smart TVs, and six months after it was supposed to arrive on iPhone, the BitTorrent Live app quietly became available oniOSthis week. Until now it’sonly existedon Mac, Apple TV and Amazon Fire TV — much less popular platforms. And that’s after being in developmentsince 2009.
+
+The app features 15 channels, including NASA TV, France One, QVC Home and TWiT (This Week In Tech) that you can watch live. The latency is roughly 10 seconds, which could be faster than terrestrial cable, as well as systems like Sling TV that can delay content more than a minute.
+
+The problem right now is that BitTorrent Live has a pretty lackluster channel selection. It’s still working on striking deals with more name-brand channels. It could offer some for pay-per-view, but cheaper than the same content on traditional TV due to the reduced broadcasting costs.
+
+To get channels to sign on, BitTorrent Live will need more viewers… which will require better content. That’s a bit of a chicken and egg problem. But with today’s launch bringing it to a massively distributed mobile platform, it could start to attract an audience worthy of luring in better channel makers.

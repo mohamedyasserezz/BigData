@@ -1,0 +1,185 @@
+As Symantec flexes its muscle in security, who will step up to the challenge?
+
+Intel wants to sell its McAfee security business, which was acquired for $7.7 bn in 2010. And Symantec just acquired Blue Coat for $4.7 billion.
+
+As the security market shakes up in more ways than one, who wins, who struggles and who will get acquired next?
+
+“The Symantec-BlueCoat transaction is the second largest M&A transaction in history for enterprise security. The security market chessboard is evolving right before us,” said Eric McAlpine, Founder ofMomentum Partners, a Silicon Valley based M&A advisory firm with a long list of security deals.
+
+“Symantec has paid handsomely to make a major move to maintain its position as a leader in the space.  While the headline price was indeed full by financial standards, it was the deal structure that was more interesting, with solidarity and support by two very smart private equity firms with deep experience investing in security,” McAlpine said.
+
+Intel’s acquisition of McAfee for $7.7 billion in 2010 is the largest security transaction to date. Yet, the sale of Intel’s security business would unlikely fetch $7.7 billion today by any measure.
+
+PE funds with an edge in security – Thoma Bravo, Bain Capital and Vista Equity Partners – may well benefit as the security chessboard shuffles.Vista Equity Partners just acquired Ping Identityand Blue Coat was a PE playground of sorts. Blue Coat was bought, sold, and bought again by PE firms (and finally sold it again…to Symantec) with each firm making out well with each flip.
+
+Blue Coat Acquirer
+
+Transaction Year
+
+Blue Coat Acquisition Value
+
+Blue Coat Revenues
+
+Multiple of Revenue (EBITDA)
+
+Thoma Bravo
+
+Dec 2011
+
+$1.3 billion
+
+$467.1 million
+
+2.1x (14x)
+
+Bain Capital
+
+Mar 2015
+
+$2.4 billion
+
+$650 million*
+
+3.7x* (N/A)
+
+Symantec
+
+June 2016
+
+$4.7 billion
+
+$755 million
+
+7.8x (21x)
+
+(Source: 451 Research.  *Estimated based on multiples)
+
+Bain Capital nearly doubled their entry value in just over a year.  While Bain has agreed to roll over $750 million back into the company, they’re now playing with house money. Bain Capital’s timing for market consolidation was spot on and their investment has paid off handsomely. By all accounts, Symantec has paid a hefty price to remain relevant. Which begs the question…does ‘yellow’ and ‘blue’ make green ($$$) for this tie up?
+
+Symantec’s overall business has largely been driven by its Norton AntiVirus consumer security suite, which fetches roughly 50% of its revenues or $1.9 billion annually. But Norton is a shrinking brand in a struggling market as consumers have flocked to free or freemium offerings by AVG, AVAST, Malwarebytes, etc.  The other half of its revenue comes from Symantec’s enterprise security offerings, which primarily consist of endpoint protection and data loss prevention.
+
+With Blue Coat under its belt, Symantec gets a missing and much needed web and cloud security product portfolio. Symantec can now bring an integrated enterprise suite of offerings for web, email, endpoint, cloud, and network security, albeit some of Blue Coat’s products are not as bleeding edge. Blue Coat itself has grown by acquisition and consolidation. The company closed 11 acquisitions for nearly $400 million in total since 2007.
+
+Value =Post money of the last roundRevenues + Growth rate + “X”
+
+As the markets soften and consolidations start, acquirers are not looking just at the post-money of the last financing round.  “The M&A markets value a combination of market leadership, revenue growth, predictability, and scale,”says McAlpine. “In our research, the correlation of revenue growth to value alone is currently a mere 22%, which is historically low as valuations have traditionally correlated much higher (70%+) to top line growth.  It’s as artful as ever to determine value in the context of M&A as one must consider a variety of factors beyond just growth.”
+
+Momentum Partners’research of the Symantec / Blue Coat transactionhighlights the value drivers of buyers-sellers and value drivers of security acquisitions.
+
+Who’s Next In Line To Be Acquired?When we take a hard look at the leading security vendors like Cisco, IBM, Microsoft, and HP, each has utilized M&A to a different extent to remain atop the security leader board.
+
+Cisco has spent north of a billion dollars in the past 12 months to augment threat protection and network behavior analysis with the 2015 acquisitions ofOpenDNS($660 million) andLancope($453 million) giving Cisco a head start.
+
+Cisco is also priming up its security services business with acquisitions like Portcullis and Neohapsis. Cisco’s aggressive security M&A posture dates back to 2013 with the$2.7 billion acquisition of Sourcefireat ~11x trailing twelve months revenues making it the 4th largest security transaction (3rd at the time) in history and one of the priciest at its scale.
+
+So what’s next for Cisco? Should Cisco extend from its core networking security roots to the endpoint? Ciscohas been rumored to kick the tires on FireEyeas have some others. Other notable endpoint players include disruptive Cylance,which recently earned its hornand unicorn status raising $100 million, as well as Tanium, CarbonBlack, and Invincea.
+
+Or, will Cisco look to move away from hardware and jump into web gateways? Morgan Stanley and Gartner estimate that cloud security will outpace on-prem growth by orders of magnitude. Cloud security is growing at 19% CAGR for the next four years as compared to a 3% CAGR for on-premise solutions.
+
+The top three companies in Gartner’s Magic Quadrant for Secure Web Gateway are Zscaler, Websense (now Forcepoint), and Blue Coat. With two of the three now acquired (Websense was acquired for $1.9 billion by Raytheon in 2015), the scarcity value increases forZscaler, which is formidable cloud player and a leading M&A target. Symantec was rumored to be mulling an acquisition of Zscaler earlier this year.
+
+Appliance vendors will be relevant for the foreseeable future, but cloud incumbents are increasingly a major threat.  Palo Alto Networks leads the Next Gen Firewall (NGFW) market and its growth rate has been very strong, albeit showing signs of deceleration recently. Palo Alto has used M&A as a tool to extend beyond the network with itsacquisitions of CirroSecure(cloud) and Cyvera (endpoint).  CirroSecure gives it an edge in the crowded Cloud Access Security Brokers (CASB) space, while independentsSkyHigh NetworksandNetskopeare fighting to gain a bigger slice of the CASB pie. Two other notable CASB vendors were acquired last year (Elastica acquired by BlueCoatfor $280 million andAdallom acquired by MSFTfor $290 million) giving each an early exit and big payday to their founders and investors.
+
+The Endpoint Still Matters.
+
+While enterprise endpoint protection sounds antiquated, it still garners decent revenues for the likes of Intel Security (formerly McAfee) and Symantec. Innovators likeCylanceandCrowdstrike, both valued above a billion dollars, are tackling the endpoint security problem in novel (non-signature based) ways.Taniumhas positioned itself as Endpoint Systems Management and is rumored to have rejected bids from VMWare and Palo Alto Networks.
+
+The ‘Insider Threat’ & Behavioral Security Gets Attention.
+
+A new emerging security category known as User & Entity Behavior Analytics (UEBA) is tackling the insider threat problem (think Snowden) as well as anomalous network and endpoint behavior previously undetected by existing security solutions.  Founders and VCs have taken notice launching and funding a wave of start-ups likeFortscale,Exabeam,RedOwl, andSecuronixpoised to take advantage of this rapidly expanding segment within security.  Gartner predicts M&A fever for UEBA vendors in 2016 after the surprise acquisition of Caspida by Splunk ($190 million) last year.
+
+Tying this back to the endpoint, the endpoint is poised to become contextual with identities, applications and user behavior patterns, which will drive consolidation within the endpoint, application and security analytics vendors. The larger companies like IBM, Intel, Dell+EMC, HP, and CA will have to augment their portfolios with the innovators to stay relevant as technology takes leaps forward.
+
+Identity Makes A Comeback.
+
+Identity and Access Management (IAM) has witnessed the likes ofOkta,SailPoint,Thycotic, andAuth0making waves in this segment, includingPing Identity acquisition by Vista Equity. But what does Identity even mean in this day and age? And who cares? Compliance has been a driver for IAM adoption yet they are being pushed to deliver more. Single Sign On (SSO) and physical Two-Factor tokens do not necessarily cut it anymore.
+
+Social identities derived from Google and Facebook are increasing the need for more comprehensive next-gen solutions. Adaptive IAM and role-based access control is rapidly growing although economic value remains a challenge. With EU data residency rules coming into effect, we will see more opportunities arise. Key Management will be integral offerings at the infrastructure layer.  Access control to applications and services in dynamic environments is an opportunity that has yet to be tapped in a meaningful manner. Okta has reportedlyhired Goldman Sachs to prepare for an IPO.  Will they choose the Blue Coat route and sell instead?
+
+Automate and Orchestrate, Or Else.
+
+The growth of point solutions, integration / policy challenges and shortage of talent will drive the need for automation tools. By 2019 there will be a need for 6 million security professionals predicts (ISC)2, but only 4.5 million will have the necessary qualifications for those jobs.  Earlier this yearFireEye was first to pull the M&A trigger and acquired Invotas, which has become their orchestration hub to aid with security team fatigue. Several other startups are rapidly building automation / AI offerings.
+
+Below is a look at some of the major security segments and their incumbents who must stay relevant through product development and/or M&A. Meanwhile the innovators are looking to disrupt them rapidly.
+
+Security Segment
+
+Incumbents
+
+Innovators
+
+Network Security
+
+Cisco, Checkpoint, HP, Fortinet, Palo Alto Networks, FireEye
+
+Forescout, Protectwise, Venafi, Tempered Networks, RedSeal
+
+Endpoint Security
+
+Symantec, AVG (Consumer), Intel McAfee (Enterprise), IBM, Trend Micro, FireEye
+
+Cylance, Crowdstrike, Carbon Black, Tanium, Cybereason, Invincea, Morphisec, Lastline
+
+Application Security
+
+Imperva, Qualys, Rapid7, IBM, HP, Veracode
+
+Prevoty, Synack, WhiteHat Security
+
+Web Security
+
+Blue Coat, Cisco, Forcepoint, Intel, Barracuda Networks
+
+Zscaler, iboss, Shape Security, Distil Networks
+
+Security Operations & Incident Response
+
+Splunk, IBM, Intel, HP, LogRhythm, EMC/RSA
+
+AlienVault, Skybox Security, DFLabs,  Sumo Logic
+
+Specialized Threat Analysis & Protection
+
+Intel, IBM, HP, Symantec, FireEye
+
+Fortscale, Sqrrl, RedOwl, Exabeam, E8 Security
+
+Identity & Access Management
+
+Oracle, CA, EMC/RSA, IBM, CyberArk, Ping Identity
+
+Okta, Auth0, onelogin, Thycotic, SailPoint
+
+Data Security & Data Loss Prevention
+
+Symantec, Intel, Forcepoint
+
+Digital Guardian, Identity Finder, Datashield Protect, Code42
+
+Cloud Security
+
+Cisco, Check Point, HP, Microsoft
+
+Skyhigh Networks, vArmour, Netskope, CipherCloud, Dome9
+
+Beyond The Traditional Buyers
+
+As the next wave of security innovations occur, we will see underlying trends of deep learning & automation integral to the bleeding edge products. Cloud security, data security and VM / microservices security are growing categories in and of themselves, and beneath it all, and DevSecOps is a new thing already.
+
+These newer segments will create new opportunities, which in turn will bring new attention by new and traditional acquirers alike. Cloud / data center providers like AWS and Microsoft will build out their portfolio as the market grows. The Telcos are pushing for a slice of this pie.SingTel’s $800 million Trustwave acquisitionis indicative of this trend as wasNTT’s acquisition of Solutionary. And while defense contractors have a checkered history in security, they recently have gotten hot for the sector including Raytheon (via Websense/Forcepoint), Thales (acquired Vormetric for $400 million) and BAE Systems (acquired SilverSky for $233 million) to build up their security offerings.
+
+And The Winners Will Be…
+
+Cisco clearly is ahead of the pack in this security chess game. Symantec just bought a new life line. Or it bought a CEO for $4.7 billion depending on how you look at it. And Greg Clark is no stranger to acquisitions so it’s expected that Symantec will continue its shopping spree once the dust settles.
+
+In another corner, IBM – the Bigger ‘Blue’ – is beset with its own challenges and moves slowly, but has a cash war chest and its own impressive multi-billion dollar M&A track record in security (ISSX, Q1 Labs, Trusteer). It most recentlyacquired Resilient Systemsto strengthen its Automation & Incident Response capability. Yet the company has some ground to cover. Its Watson AI meme could play out if it can get its act together.
+
+Even as Intel gets out of the business, HP and Juniper have been largely unable to react in any substantial manner. The former undergoing a major corporate transformation and the latter being largely silent in security M&A since their acquisition of Netscreen.Juniper acquired Netscreenin 2004 for a whopping $4 billion, making that still the 3rd largest security deal of all time.
+
+And then there’s Microsoft who had historically had a terrible record in security under prior CEOs. However, Satya Nadella says no more.Microsoft has committed to spend $1 billion annuallyon a ‘holistic’ security strategy. This includes acquisitions, hiring new execs, building a new state of the art facility, and creating a new security group within Microsoft.
+
+Yet the elephant in the room is clearly Amazon. The ‘AWS effect’ on security is profound and companies likevArmourhave taken advantage.  Amazon has built up its own portfolio of basic security tools (such as AWS WAF, CloudHSM, Cloudwatch and IAM) largely through partnerships and in parallel created an AWSsecurity marketplace of over 200 security vendors.
+
+It’s a brilliant play. Amazon will win no matter how the vendors thrive, survive or crash and burn. Other companies like Intel may divest, some will overpay, acquire, integrate, and disintegrate while AWS will laugh its way to the bank.  In this $75 billion market growing to $170 billion by 2020, the winner’s circle will expand beyond just PE firms.
+
+(The author gratefully acknowledges the team atMomentum Partnersfor providing data and research for this post.)

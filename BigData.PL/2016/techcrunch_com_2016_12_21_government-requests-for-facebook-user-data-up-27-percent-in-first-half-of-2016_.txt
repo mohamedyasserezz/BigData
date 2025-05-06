@@ -1,0 +1,23 @@
+Government requests for Facebook user data up 27 percent in first half of 2016
+
+Facebookreleasedits latest transparency report today, detailing government requests for user data for the first half of 2016. According to the report, government requests for account data increased by 27 percent globally ascompared with the last half of 2015. The number of requests grew from 46,710 to 59,229, Facebook said.
+
+The majority of the requests (56 percent) received from U.S. law enforcement contained a non-disclosure clause that prevented Facebook from notifying the user in question, the company noted.
+
+As with prior transparency reports, Facebook also detailed the number of content restriction requests — that is, the requests from governments in response to postings that violate local laws.
+
+These actually decreased by 83 percent from 55,827 to 9,663. However, those figures don’t point to a general decline in these sorts of requests from governments. Instead, the last cycle’s numbers were elevated more than usual due to a sharp increase in requests related to a single image from the terroristattacksin Paris last November.
+
+For the first time, Facebook additionally tracked how many times it was asked by governments to preserve account data pending receipt of formal legal processes.
+
+What this means is that, in some cases, law enforcement will reach out to Facebook and ask the company to take a snapshot of account information before they submit the appropriate forms to have that information released. Facebook notes that, while it will comply with a preservation request like this, it will not release these records until it receives “formal and valid legal process.”
+
+The company said that it received 38,675 preservation requests for 67,129 accounts.
+
+Also new this time around, Facebook expanded its reporting of emergency requests to countries outside the U.S. These are requests for user data where law enforcement believes there is imminent risk of serious injury or death. During this period, Facebook received 3,016 emergency requests for 4,192 accounts.
+
+Additionally, thanks to reforms this year by the USA Freedom Act, Facebook was able to offer information on National Security Letters (NSLs). The changes allowed Facebook to exercise its own discretion in revealing that it had received an NSL, when and how it responded, as well as the customer account information that was requested, if it chose.
+
+Facebook posted the original NSLherefrom the Jacksonville, FL FBI office, along with the government’s authorization letter, but the information about the account information is blacked out. It also updated the range of NSLs in the second half of 2015 from 0-499 to 1-499, as a result of the lifting of the gag requirement.
+
+The company reiterated that while it complies with legal requests, it will fight back against those it thinks are “deficient or overly broad” and it refuses to offer government “back doors” or direct access to user information. The full report is available onlinehere.

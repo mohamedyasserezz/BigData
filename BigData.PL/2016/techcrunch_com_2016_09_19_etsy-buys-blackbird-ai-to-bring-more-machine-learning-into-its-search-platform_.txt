@@ -1,0 +1,23 @@
+Etsy buys Blackbird Technologies to bring AI to its search
+
+It’s not just gigantic search engines that are looking toacquire tech and talentaround emerging areas like speech recognition. Even design and craft marketplaces can use a little machine learning and artificial intelligence to make their wheels turn a little better.
+
+Today, the popular handmade-goods siteEtsyannounced it hasacquireda startup calledBlackbird Technologies, which developed algorithms for natural language processing, image recognition and analytics — similar to those used by Amazon and Google for product and other searches — and then “democratized” them to be used by any company of any size. At Etsy, the tech will be used to improve its own search features.
+
+Financial terms of the deal have not been disclosed, but we’re asking and will update if we learn more. The company’s employees — it appearsthere were around 10— will all be joining Etsy. “The team possesses a deep expertise in Artificial Intelligence, search, and distributed systems and has direct experience working in these areas for some of the largest technology companies in the world,” Etsy said in a statement.
+
+Little is known about Blackbird — no listings on Crunchbase or AngelList, a fairly unspecific website for Blackbird itself — and even Etsy’s announcement of the deal is light on company details. According to LinkedIn, though, the two co-founders areNikhil Raghavan(CEO) andManju Rajashekhar(CTO), who collectively had worked on similar technologies across places like Google, Twitter, Microsoft, Oracle and Yahoo.
+
+Because Etsy is going to be using Blackbird’s tech for its own platform, it seems that Blackbird’scurrent business plans, which deployed its tech by way of an API, will shut down. Customers hadincludedNasty Gal, ThredUP, and Tophatter.
+
+Etsy has had afairly strong year so far, beating analysts’ expectations in two consecutive quarters on the back of growing sales and customer base.
+
+But at the same time, it’s facing some heat in the form of other competitors hot on Etsy’s crafty tail with their own marketplaces. The biggest of these is Amazon (perhaps every e-commerce company’s worst nightmare) with its ownHandmadestorefront that will vie for the same producers, the same customers, but throwing in some attractive Prime shipping (and one-stop shopping) into the mix.
+
+This is why buying Blackbird is a smart move. It will essentially help Etsy improve its search and discovery to point shoppers to items better matched to their tastes, and keep them from abandoning their shopping carts, a common pain point for any e-commerce enterprise.
+
+“Buyers come to Etsy.com for items they can’t find anywhere else and our goal is to help them discover exactly what they want among our 40 million unique listings. Leveraging Blackbird’s technology, we believe we can enhance the buyer experience by making search quicker and easier and by surfacing even more relevant, tailored product recommendations,” said Chad Dickerson, Etsy, Inc. CEO, in a statement. “Our team has already made substantial enhancements to the search & discovery process on Etsy, especially through features like Exploratory Search, and we are excited for Blackbird’s world-class team and technology to accelerate our progress in this key area.”
+
+Longer term, it seems that Etsy will look to use some of Blackbird’s tech in other areas beyond search, too. “In addition, longer-term, we believe there may be opportunities to deploy Blackbird’s Artificial Intelligence technology in areas beyond search that will help strengthen our markets and seller services platform,” the company said.
+
+This is Etsy’ssixth acquisition, but only its first since going public in 2015. Interestingly, it looks like the first Etsy has made that points directly to its technology around its product (Adtuitive, Etsy’s first buy, was a move to bring in some adtech to the business).

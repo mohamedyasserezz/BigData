@@ -1,0 +1,29 @@
+Europe’s top court to weigh in on Facebook privacy ‘class action’
+
+Europe’s top court, the CJEU, has been asked to rule on whether a privacy-related legal action brought against Facebook can be treated as a class action or not.
+
+The suit kicked off in Austriaback in 2014with European privacy campaigner and lawyer Max Schrems calling for non-commercial Facebook users located outside North America to join the class action —thousands of whom quickly did so.
+
+Technically the suit is not a class action as there is no law on class actions in Austria. However Schrems’ lawyers came up with the idea of grouping claims by “assigning” them to one person who  can sue on behalf of everyone else. Meaning Schrems is the single plaintiff — but would later redistribute any damages to everyone else.
+
+Thus far, Facebook has focused on trying to get the case dismissed on procedural grounds — arguing that the class action is inadmissible, and that the Austrian courts have no jurisdiction in this case. The suit has moved from Vienna’s Commercial Court to its regional court and then the Austrian Supreme Court which has now referred two legal points to the CJEU for a ruling.
+
+One of the points the Court is asking the CJEU for an opinion on is whether a consumer loses their rights to sue in their home court if they engage in a public fight.
+
+Commenting on this point in a statement, Schrems said: “Facebook is obviously trying to argue that I am some sort of ‘commercial activist’, so that I can’t sue them in my home court. In simple terms, Facebook says you have to sit at home and be quiet about your claims — if you make your case public, you lose your rights as a consumer.
+
+“The Austrian courts have highlighted, that the class action is organized on a pro bono basis and that I used my Facebook account in a private capacity. The preliminary question, if I am a consumer, is therefore simple to answer, as I have never made a single Cent though this procedure –- to the contrary I invested hundreds of unpaid hours of work.”
+
+The second point the CJEU is being asked to rule on is whether Austrian law allows plaintiffs to transfer their claims to another person to create a defacto class action. On this Schrems’ lawyers are arguing it is far more reasonable for consumers to be able to file collective actions, rather than having to file thousands of individual procedures in different courts around the world.
+
+It’s not the first legal issue Schrems has managed to bring before Europe’s top court. Last year theCJEU struck down a fifteen-year-old data transfer agreementbetween the EU and the US after a 2013 legal challenge by Schrems, arguing that US mass surveillance programs were violating European privacy law.
+
+The Austrian suit also uses the NSA’s PRISM surveillance program, which loops US tech companies into government surveillance programs, as a route to target Facebook on privacy grounds.
+
+Other complaints in the suit include Facebook’s own tracking of web users on external websites through its like buttons (something that has alsocaused problems for Facebook with European DPAs). The company is also accused by Schrems of an absence of effective consent to many types of data use, a data use policy that is invalid under EU law, and unauthorised passing of user data to external applications, among other allegations.
+
+At the time of writing Facebook had not responded to a request for comment about the development in the case. We’ll update this post with any response.Update:A Facebook spokesperson emailed the following statement on the latest development in the case: “Schrems’s claims have twice been rejected on the grounds that they cannot proceed as ‘class action’ on behalf of other consumers in Austrian courts. We look forward to addressing the procedural questions presented to the CJEU to resolve these claims.”
+
+Schrems told TechCrunch the average timeframe for the CJEU to issue a ruling is between one and one and a half years. The court’s decisions are binding on all 28 EU Member States.
+
+Schrems has other legal irons in the fire focused on Facebook’s use of Europeans’ data. Following the strike down of Safe Harbor hefiled new complaints against the companytargeting the alternative mechanisms it is using to authorize personal data transfers from the EU to the US. The Irish data protection agency hasreferred those complaintsto the Irish High Court to also request a ruling from the CJEU.

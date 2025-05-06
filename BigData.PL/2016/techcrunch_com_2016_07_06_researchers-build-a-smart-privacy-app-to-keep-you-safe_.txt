@@ -1,0 +1,21 @@
+Researchers build a smart privacy app to keep you safe
+
+If you’re anything like me you want your apps to let others follow you around but refuse to let them share photographs of your food. But how can you tell each individual app on your phone what you will and won’t share? Researchers at CMU have some ideas.
+
+Their app is a smart privacy system that learns your preferences (“Don’t share pictures from delis”) and then automatically sets privacy features on all the apps in your phone. This means Facebook, Tinder, and Snapchat will know exactly what you will and won’t share.
+
+“It’s clear that people just can’t cope with the complexities of privacy settings associated with the apps they have on their smartphones,” said Norman Sadeh, professor of computer science at Carnegie Mellon. “And it’s not just smartphone apps. The growing number of sensors and other smart devices that make up the so-called internet of things will impact privacy and make it even more challenging for users to retain control over their data and how it is being used.”
+
+The system is essentially a one-stop shop for privacy. Because each individual app has its own settings it’s almost impossible to make everything work together properly. By creating one screen that connects with your preferences the team is able to pass your privacy preferences among all the apps on your phone.
+
+￼Sadeh’s research has shown people’s preferences can generally be organized in a small number of categories or “profiles” that differ based on people’s willingness to grant different types of applications access to their information.
+
+The privacy assistant can determine to which of these categories a person belongs. Machine learning techniques enable the assistant to analyze a user’s response to a small number of questions focusing on the particular apps they have on their phones, said Bin Liu, a Ph.D. student in the Societal Computing Program in the School of Computer Science’s Institute for Software Research.
+
+The system also sends “nudges” reminding users that their location or other data are being shared by running apps. This resulted in an uptick in privacy-seeking behavior in the testers who tried the app.
+
+Sadeh explained in an email to TechCrunch that the goal is not just better controls for users, but an intelligent agent that learns your preferences and automatically applies settings. But since app and platform makers don’t want to make privacy controls any more granular than they already are (which, judging from the success of this app, is already too granular) the computer models don’t have enough to work with right now.
+
+“You could develop even more accurate recommendations for users if you distinguished between the different possible uses/purposes associated with each permission,” Sadeh wrote. “While in theory distinguishing between different types of purposes would seem to make the settings even more difficult to control, our research suggests that with machine learning you could actually make the settings easier to manage by differentiating between the different purposes associated with a permission.”
+
+For now a rooted Android phone is required to use the app, and Sadeh said the team plans to release a version requiring root on the Play Store later this summer.

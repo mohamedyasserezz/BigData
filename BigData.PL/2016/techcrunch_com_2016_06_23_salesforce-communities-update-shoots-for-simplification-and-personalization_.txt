@@ -1,0 +1,21 @@
+Salesforce Communities update shoots for simplification and personalization
+
+As companies try to move to more of a self-service approach to customer service, online forums become more important than ever to help users find the right answers quickly, whether troubleshooting a problem or making a buying decision.
+
+Today, Salesforce released an update to its Community Cloud service that makes it easier for community managers to update pages and put the right information in front of the visitor as he or she makes his way through your website.
+
+The update, which includes so-called “intelligent Lightning themes” is focused on helping Salesforce Communities customers create a highly personalized web experience, a goal companies have been shooting for, for some time with varying degrees of success.
+
+Salesforce’s approach with this update is to make it as simple as possible for community managers to personalize a page with drag and drop components and built-in intelligence, a word the Salesforce marketing team bandied about quite a bit during the announcement briefing. In this case, it means it’s supposed to help deliver meaningful content to the visitor automatically based on what you know about them already, their path through the site and the questions they may be asking.
+
+That makes this a significant update, says Vanessa Thompson, research vice president for IDC’s Collaboration & Communities program.
+
+“The intelligent themes part of the update has made it much easier for community managers to align the brand of the community with other owned digital assets of the company. The self-service and drag-and-drop nature of the interface makes it much easier for users and importantly reduces the reliance on developers (in-house IT or third party) to create a consistent brand experience,” she explained.
+
+Photo courtesy ofSalesforce
+
+By making it easier to make updates without a lot of heavy lifting or outside help, it’s playing to the fact that many community managers are focused on multiple roles, making it more important to be able to perform these kinds of maintenance tasks quickly. From that perspective, it’s really making it easier for these folks to manage their schedules.
+
+“Part of the challenge in the communities market is that the community managers often have other day jobs, meaning they might work in marketing or service and don’t have a lot of dedicated time to spend on the community. Making it easier for community managers to add content, change the look and feel of the site, spot anomalies or unwanted content, are all a great help to those folks looking to get some time back,” Thompson said.
+
+Where it gets really interesting though is that these experiences are designed to link the systems of record like the CRM database with the system of engagement, the community piece. That means as a customer takes action, assuming the company has Salesforce CRM and Salesforce Service, the information can be shared across the various records creating a much more holistic view of the customer and allowing companies to target more specific offers based on this knowledge.

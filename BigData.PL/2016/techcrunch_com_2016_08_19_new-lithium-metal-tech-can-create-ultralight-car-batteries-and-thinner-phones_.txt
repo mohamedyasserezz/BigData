@@ -1,0 +1,19 @@
+New lithium metal tech can create ultralight car batteries and thinner phones
+
+Soon cars, drones, phones, and almost anything with a battery are about to get a boost from a new MIT spin-out,SolidEnergy Systems. The company promises to double the battery life of basic lithium ion batteries and will also offer smaller batteries with the power of bigger cells.
+
+Why is this technology important? Because it is better than current battery tech and can maintain an energy density of 400 Wh/kg, it’s non-flammable, and it can be manufactured inside existing factories. In short, it’sLi-ion 2.0.
+
+MIT’s Qichao Hu founded the company while at MIT and spun out the technology in beta last year. The full origin story is pretty cool:
+
+￼While working as a postdoc in the group of MIT professor Donald Sadoway, a well-known battery researcher who has developed several molten salt and liquid metal batteries, Hu helped make several key design and material advancements in lithium metal batteries, which became the foundation of SolidEnergy’s technology.
+
+One innovation was using an ultrathin lithium metal foil for the anode, which is about one-fifth the thickness of a traditional lithium metal anode, and several times thinner and lighter than traditional graphite, carbon, or silicon anodes. That shrunk the battery size by half.
+
+But there was still a major setback: The battery only worked at 80 degrees Celsius or higher. “That was a showstopper,” Hu says. “If the battery doesn’t work at room temperature, then the commercial applications are limited.”
+
+So Hu developed a solid and liquid hybrid electrolyte solution. He coated the lithium metal foil with a thin solid electrolyte that doesn’t need to be heated to function. He also created a novel quasi-ionic liquid electrolyte that isn’t flammable, and has additional chemical modifications to the separator and cell design to stop it from negatively reacting with the lithium metal.
+
+The end result was a battery with energy-capacity perks of lithium metal batteries, but with the safety and longevity features of lithium ion batteries that can operate at room temperature. “Combining the solid coating and new high-efficiency ionic liquid materials was the basis for SolidEnergy on the technology side,” Hu says.
+
+The company raised $12 million last year and is going to market in November. They’ll be releasing cell-phone batteries first in 2017 and then move on to car and drone batteries in 2018. They’ve begun manufacturing in Woburn, Massachusetts, in a factory big enough to “house the wings of a Boeing 747.”

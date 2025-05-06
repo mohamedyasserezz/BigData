@@ -1,0 +1,9 @@
+Here and Mobileye team up on self-driving mapping tech
+
+More companies working on autonomous driving have decided to work together to pursue their goals; Nokia mapping spin-out Here is working with Mobileye, the company that creates computer vision chips, cameras and other tech to support self-driving development on mapping service collaboration.
+
+The companiesannounced the partnershipon Thursday, noting that they’re going to be pairing Mobileye’s Roadbook, which identifies and maps drivable routes in real-time using crowdsourced data, with Here’s HD Live Map, as a layer that can add to its existing data. Autonomous tech uses high-definition mapping to supplement info from onboard sensors, providing a continually updated look at what the car should expect to see on the road in addition to what it’s able to observe in its immediate surroundings.
+
+Mobileye’s also going to be using Here’s Open Location Platform as part of the deal, and Here will gain access to raw sensor data from vehicles equipped with Mobileye’s REM tech for real-time monitoring of road conditions. This should help Here’s HD Live Map get updates even faster, leading to them better reflection actual real-time driving settings for autonomous cars.
+
+Maps are a key ingredient in self-driving, and this should help both companies become more attractive supply partners to automakers as they seek to deploy self-driving vehicles and fleet services.

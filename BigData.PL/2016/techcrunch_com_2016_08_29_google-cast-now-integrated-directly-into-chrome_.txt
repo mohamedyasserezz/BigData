@@ -1,0 +1,9 @@
+Google Cast now integrated directly into Chrome
+
+Google just took a big step in tying together your computing world, with full integration of itsGoogle Cast capability directly into its Chrome browser. This is a step up from the Cast extension it has offered for the past two years, which allowed users to broadcast content from their Chrome browser to Cast-enabled devices like the Chromecast. Now, you don’t even have to download any additional software – the Cast icon now shows up whenever you’re on a site that supports it, and you can Cast anything at all using the Chrome menu.
+
+Cast has come along way in the past two years, and is now available on third-party hardware include speakers and TV, in addition to Google’s own Chromecast and Chromecast Audio dongles. You can even cast to other apps, like Google Hangouts, and the Cast for Education app, giving more options for use in multi-user settings like classrooms and virtual meetings.
+
+Google says that “casting” from Chrome is a popular activity even before this integration; over 38 million casts have been sent from Chrome in the past month alone, the company said via its blog, with a total video viewing/audio listening time of over 50 million hours. That’s likely to go up now that the feature’s built-in, especially since sites like Google Play Music and Netflix will show you an icon right in the address bar, no menu digging required.
+
+Direct Chrome integration definitely broadens the reach and potential usage rates of Cast, bringing it a step closer to being a seamless transit channel for your digital life. Given enough time and improvement of local network bandwidth and reliability, Cast could become the underpinning for a whole-home client based computing experience where things like TVs and smart appliances get all their smarts from a single brain (the smartphone in your pocket?) but for now, this is mostly just an easier way to get your tunes on the tube for a party situation.

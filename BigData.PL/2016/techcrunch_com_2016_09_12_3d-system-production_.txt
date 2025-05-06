@@ -1,0 +1,27 @@
+3D Systems outlines plans to shift 3D printing from prototype to production
+
+The 3D printing industry has had a rough go of it, of late. In a few short years, it’s gone from technology darling to victim of its own industry hype, a move that has had serious implications for some of the industry’s biggest players.
+
+But as the consumer-facing wing of the space has seemingly hit the skids, another aspect of the technology is gaining serious momentum. Late last month, industry giant Stratasys announced a pair of new technologies and manufacturing partnerships with Boeing and Ford. Three months prior, HP showed off a pair of washing machine-sized devices aimed at taking on more established industrial 3D printing companies.
+
+Last week, GE dropped $1.4 billion to acquire European 3D printing firms SLM Solutions Group and Arcam, nearly matching the amount of money it’s pumped into the technology over the past half-dozen years.
+
+All of the moves point toward the perceived way forward for the industry: 3D printing for production, moving past a single-minded focus on prototype to an end use product. For GE, the move means the flexibility to build custom parts like fuel caps, built with the latest metal-based additive manufacturing.
+
+For 3D Systems’ CEO, Vyomesh Joshi. GE’s massive investment marks a new sort of legitimacy for the next major application for 3D printing. “GE’s acquisition validates the shift to production,” he told TechCrunch in a call ahead of today’s big unveiling.
+
+The executive is a new addition to the company that is created with having invented 3D printing more than three decades ago. Joshi started the gig back in April, after a 30 year career at HP, where he served as the Executive Vice President of the Imaging and Printing Group. After five months with the company, Joshi is revealing some major changes for the company, which had devoted the past several year to building a consumer business, going head to head with companies like MakerBot by offering up its own line of desktop 3D printers and scanners.
+
+“I don’t think the consumer business is real, because there’s no use for it,” Joshi told TechCrunch matter of factly, adding that he believes the company’s extension into plastic desktop printers was a wrong move. “I have no interest right now in going after the consumer business. You buy the printer and you’re using it once a year. That’s not exciting to me.”
+
+His statement echoes moves by the company to discontinue production of its Cube desktop 3D, back in lateDecember of last year.
+
+Instead, the company is doubling down on the recent trend toward 3D printing as a small run production technology, teaming with CAD (computer aided design) software developer PTC to create an end-to-end solution for companies looking to embrace the relatively recent additive manufacturing trend. “The 3D printing industry is at an inflection point,” says Joshi. “As customers are flipping from prototyping to production. 3D Systems is the center of that paradigm shift, and we can capitalize on it.”
+
+The other major piece of the end-to-end solution is an update to the company’s Figure 4 technology. The tech, which draws its name from a reference to 3D Systems’ founder/3D printing inventor Chuck Hull’s 1984 patent filing for SLA (Stereolithography – a form of rapid prototyping that builds structures by curing resin with light), promises print speeds up to 50 times faster than older models. The technology will be adapted to fit in with the new focus on production.
+
+The company is also using the opportunity to announce a major restricting at the executive level. “I am reorganizing,” says Joshi. “I’m augmenting the management team I have with exceptional people that helped me to grow and scale HP’s printing business. I’m hiring regional mangers. I’ve already hired a CFO. I already hired a supply chain manager.”
+
+In addition to the recent appointment of a new CFO, Joshi has named a half-dozen new members of the company’s management team. But for all of the major changes being implemented, the CEO admits that 3D printing for production won’t mainstream over night. He predicts the initial push taking a few years to really take hold.
+
+“It’s going to be done by use case,” he explains. “I think the next two to three years, you’re going to see a significant shift, especially in aerospace and healthcare. I do believe the needs are real.”

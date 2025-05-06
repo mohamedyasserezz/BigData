@@ -1,0 +1,13 @@
+GitHub gets built-in project management tools and support for formal reviews
+
+GitHubis hosting itsUniversedeveloper conference in San Francisco today. Unsurprisingly, the company used this event to announce a number of new features for its Git-based code hosting service. The company calls it its “biggest update to the platform yet,” though how important these changes really are probably depends on how you use GitHub.
+
+If you’re working on a team, then GitHub’s support for reviews will probably be the biggest news of the day for you. Developers and maintainers can now formally approve (or ‘request changes’ to) all pull requests on the service. In addition, they can leave review summaries and moderate comments. Even without a formal review, though, you can now leave inline comments.
+
+“This also means you can have multiple conversations per line of code—creating more explicit feedback loops, smarter conversations, and better code review,” GitHub CEO and co-founder Chris Wanstrath writes in today’s announcement. “These changes are only the first step of a much greater roadmap toward faster, friendlier code reviews. We’re working on a handful of follow-up feature improvements—including the ability to request reviews from your peers.”
+
+With this update, GitHub is also moving beyond code by adding some basic Kanban board-like project management features. GitHub always featured support for integrations with a number ofproject management tools, but now you will also be able to use this new built-in tool to move cards with pull requests, issues and notes between columns like “in-progress,” “done,” and “never going to happen” (or whatever else you want those columns to be called). Like Trello and similar tools, you’ll be able to drag and drop cards between columns as needed.
+
+Other updates today include improvements to GitHub’s API that will, for example, allow third-party services to more easily integrate their services with GitHub. The company will now also run an early-access and pre-release program that will give developers who want to live on the cutting edge access new features and APIs before the general public.
+
+For enterprise users, GitHub today also added the ability to force all members on an account to use two-factor authentication. In addition, the company promises that it will soon support SAML-based single sign-on options, too, though it didn’t say when exactly that will happen.

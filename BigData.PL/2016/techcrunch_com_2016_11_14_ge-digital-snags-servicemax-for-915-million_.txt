@@ -1,0 +1,19 @@
+GE Digital snags ServiceMax for $915 million
+
+GE Digitalannounced today it was buyingServiceMax, a cloud-based field service management company, for $915 million. GE Ventures had been an investor in the company as part of the $82 million Series F round in 2015.
+
+The two companies have more in common than you might think. GE is building the Predix Platform, on top of which it hopes companies will build applications that take advantage of sensor data coming off of Internet of Things-connected devices. GE has made a huge bet on the Industrial Internet of Things, using data on huge machines like MRI machines, wind turbines and airplane engines to give customers the data they need to proactively maintain these mega systems.
+
+In fact, when I spoke to Athani Krishnaprasad, co-founder and chief innovation officer at ServiceMax recently, we talked about a future vision where sensors on IoT devices fed information to companies, allowing them to build entirely new business models. In Krishnaprasad’s vision for his company, a hospital would subscribe to an MRI machine instead of buying it and pay for guaranteed up time instead of the physical hardware.
+
+It would be up to the vendor to proactively monitor the device and keep it up and running. Data coming from sensors would let the company know when a part was about to break or that it was time for regular maintenance. He called this “outcome-based services.”
+
+“Analyzing the data to change business process to gain efficiencies or service customers better is a big win,” Krishnaprasad explained.
+
+And as GE transforms from a company simply selling those big machines to one that fits so well with ServiceMax’s future world view, the two companies coming together makes so much sense.
+
+“This acquisition builds upon our ongoing efforts to enhance our overall technology stack around the Predix platform and advance our Industrial Internet vision,” Bill Ruh, GE Digital CEO said in a statement. “Improved productivity is critical for the Industrial Internet and digitizing field services is a cornerstone of a successful digital industrial strategy,” he added.
+
+ServiceMax CEO Dave Yarnold says this move gives his company resources he couldn’t imagine, and he still gets to run it as a separate entity within the larger organization. “Bill [Ruh] wants to run this as a separate business and really invest it. We want to build an operating system for the service economy. To be able to accelerate that and work with one of the best companies in the world and increase investment in the marketing and the product, it allows us to accelerate that vision — and I’m excited about taking that forward.
+
+ServiceMax has raised over $200 million since it was founded in 2007. It would seem on its face, that getting $915 million for the company is a pretty decent return for its investors.

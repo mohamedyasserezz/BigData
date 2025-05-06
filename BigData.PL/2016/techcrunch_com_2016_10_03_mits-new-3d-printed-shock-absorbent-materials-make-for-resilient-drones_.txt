@@ -1,0 +1,13 @@
+MIT’s new 3D-printed, shock-absorbent materials make for resilient drones
+
+[youtube https://www.youtube.com/watch?v=zrRs4GXxjVA&w=640&h=360]
+
+It’s not the fall, it’s the sudden stop – the effect of an impact has similar negative effects on people and on the sensitive electronic parts of robots. Anew research project from MIT’s Computer Science and Artificial Intelligence Labcould help lessen the damaging effects of sudden physical shocks, for both humans and robots alike.
+
+The new technique devised by the MIT CSAIL research team allows a user to program parts made of soft materials, including plastic and rubber, for an exact degree of stiffness and elasticity, giving it a specific quality of bounce and energy transfer depending on the needs of the final product.
+
+This is possible thanks to 3D printing, which allows a user to dictate the exact size, shape and amount of impact damping they provide – previously, users have generally had to make do with off-the-shelf shock absorbing components mass manufacturing using techniques like injection moulding, which means you basically have to choose from a menu of pre-set options.
+
+With 3D printing, the MIT team found it could actually incorporate materials with varied mechanical properties into their designs, exactly where needed to change the absorptive properties of the base material. And this also meant you could target specific parts, not only protecting sensitive equipment, but also making it easier to control robots by giving them more predictable motion – a cube robot they built that moves by bouncing showed a much more precise landing pattern, for instance, and you could see how footfalls for a running robot with legs would also benefit from greater accuracy in determining where its extremities will meet the ground.
+
+That’s not the only use case, however; MIT CSAIL researchers suggest possible applications for delivery drones, to make them more resilient in case of contact with their surroundings, and even for use in human-helping tech like running shoes and helmets, which need extreme shock absorption in some areas, but a focus on comfort in others.

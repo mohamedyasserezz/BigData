@@ -1,0 +1,55 @@
+SwiftKey officially unwraps its emoji prediction app 🎁😆💃🔛
+
+Keyboard app maker Swiftkey, which wasacquired by Microsoft for $250 million in February, has officially launched its first product since that acquisition — and it’s an emoji-predicting keyboard app, called Swiftmoji.
+
+We spotted the company’s foray into emoji predictionsback in May, when it was running Swiftmoji as a closed beta. The free app is now available for general download oniOSandAndroid. It only supports English language use for now.
+
+Emoji predictions are crowdsourced, based on Swiftkey’s keyboard usage data, but will also draw on each user’s own emoji preferences over time.
+
+Swiftmoji offers emoji suggestions based on what the user has just typed, with the idea being to speed up the hunt for the perfect visual punctuation to your text — so less swiping through ever-expanding screens of smilies, objects and symbols looking for that elusive French flag, for instance.
+
+The app offers a range of potential emojis, based on your recent text — tapping on one of these  will add it to the text. There’s also a feature called ’emoji storm’ which, if you hold down on the ‘Swiftmoji add emoticon key’ will add the entire stack of emoji predictions in one long emotive line. Which is basically the emoticon equivalent of overusing exclamation marks. So will probably give you a very quick way to annoy your friends (depending on your friends).
+
+On the iOS app there’s also a frequently used emoji feature that puts your favorite emoticons one tap away. And a popular screen to surface the trendiest emoji, based on Swiftkey’s usage data. A third screen organizes all available emoji into easy to navigate categories such as people, food & drink, sports and so on.
+
+The Android app is different,as we’ve previously noted, offering a full keyboard replacement (with other Swiftkey features) — with the emoji predictions positioned in a line above the keyboard for quick access. The company says the differences are down to the different frameworks each platform has for managing keyboards.
+
+The iOS app interface is definitely less streamlined/more clumsy, requiring users to tap the Globe key to toggle between whatever text input keyboard they prefer (which might be Swiftkey’s keyboard app or not) and Swiftmoji in order to generate and view the emoji predictions. So it’s more akin to a keyboard plugin.
+
+As with Swiftkey’s other keyboard apps, iOS users are also required to grant ‘full access’ to use the app — which means the company pulls data about emoji usage to feed its understanding of emoji trends (and to power predictions). (For more oniOS keyboard app permissions read my earlier primer here.)
+
+Android users won’t be contributing any intel to Swiftkey’s data banks unless they sign in and opt into additional Swiftkey services, like backup & sync.
+
+Hit and miss suggestions
+
+Testing the app out ahead of launch, the predictions seemed a tad tenuous and/or hit and miss at times. For example, typing ‘viva la France’ did indeed yield the French flag emoji as the first prediction. However the second prediction was the Italian flag. Which it’s hard to imagine being useful.
+
+Typing ‘David Cameron’, the name of the former UK Prime Minister, yielded the crying tears of joy emoji first, followed by rolling eyes emoji, and an unsure face — so was arguably rather more accurate. (Also being predicted here: two pig emojis —click here if you’re wondering why.)
+
+While typing the Spanish city of ‘Barcelona’ included a football among the predictions, as well as the sun emoji, a flamenco dancer and lots of heart/love emojis. So nothing too off piste there.
+
+However the app also threw up some rather skewed suggestions for certain controversial keywords. For example, typing the word ‘nazi’ included some pretty tone-deaf suggestions — such as the kissing face emoji (errr), a thumbs up sign (hmm), two hands high fiving (ummm) and an American flag (… ).
+
+While typing the word ‘feminists’ included the crying tears of laugher face, the sleeping face, the unimpressed face, the rolling eyes face, the hmm/thinking emoji and the medical mask face among the predictions. So, on aggregate, a rather negative visual assessment.
+
+Yet emoji predictions for various religions appeared far less negative on aggregate, as if some tweaking of crowd-powered suggestions was going on behind the scenes — e.g.:
+
+A spokeswoman for Swiftkey’s owner Microsoft confirmed the company has “worked to reduce the chances of anyone using Swiftmoji to be caused offence from the emoji predictions suggested”, but she added that it would not be editing people’s own use of emoji — so any enforced tweaks will likely mainly apply to initial predictions. Usage of the app over time will feed it with your own emoticon preferences/prejudices.
+
+“We have a responsibility to our users but are still giving people the option to use whichever emoji they like and in whatever way they like,” said the spokeswoman, adding: “Swiftmoji is meant to be a fun and easy way of using emoji — we don’t want to cause unnecessary offence. If you do come across something that you find offensive, please report it to us.”
+
+Evidently Swiftkey has done more work in certain potentially sensitive areas (e.g. religions) than others to ensure its emoji prediction algorithms don’t surface controversial/unpleasant suggestions. So, as ever, the shiny algorithm can absolutely reflect existing social prejudices, including positive discrimination.
+
+Out of curiosity I also tried some real names, and this resulted in a mixed bag of suggestions. TechCrunch editor Matthew Panzarino’s name yielded a string of emoji hearts, a stack of cash, the mischievous ghost emoji and a couple of flags (neither of them American). While my own name included a gun, a pink flower and two girls holding hands — none of which were emoji I’d have suggested for myself. Meanwhile my French colleague Romain Dillet’s emoji predictions ran the gamut of facial emoticons and ended with a lipstick (French?) kiss. So plenty of randomness across the board there, albeit as you’d expect given these are all relatively obscure real names.
+
+The app’s emoji suggestions for famous names came across as more logical, with ‘Taylor Swift’ including various musical note emoji, for example. And ‘Donald Trump’ including the American flag and the poo emoji, as well as a skull, a train (making American great again?), and dual exclamation marks. While ‘Kim Kardashian’ surfaced a bunch of make up emoticons and a princess crown.
+
+Obviously the logic of suggesting emoji is never going to be an exact science. But there are always questions to be asked about the underlying workings of algorithms that will, ultimately, be feeding, shaping and reinforcing opinions.
+
+After all, the design of emoticons themselves have not-so-subtly reinforced social stereotypes — e.g. of gender role by, for instance, depicting female emoji as princesses, brides and having their hair done vs male emoji being detectives, policemen and doctors. So pushing emoticon choices at users at least requires forethought about the perspectives (good and bad) that your technology might be encouraging.
+
+In terms of early learnings from what the spokeswoman described as “a very limited” Swiftmoji beta, she said nearly 60 per cent of emoji entered came via predictions.
+
+While the most popular emoji was the crying laughter face, although she added that the company found people using a wider variety of different emoji when using Swiftmoji vs using SwiftKey.
+
+“We put this down to emoji predictions surfacing emoji users hadn’t come across before,” she added.

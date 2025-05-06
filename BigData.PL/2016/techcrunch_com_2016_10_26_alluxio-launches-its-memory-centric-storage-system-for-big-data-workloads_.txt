@@ -1,0 +1,15 @@
+Alluxio launches its memory-centric storage system for big data workloads
+
+Alluxio, formerly known as Tachyon, raised a $7.5 million Series A round led by Andreessen Horowitz earlier this year. Today, the company islaunchingthefirst commercial productbased on its open source memory-centric distributed storage platform out of beta.
+
+The problem Alluxio aims to solve is that while most businesses now create massive amounts of data, they often store them in a number of storage systems and even clouds. To get value from this data, they have to bring all of this information together to analyze it, but that’s hard to do at any speed if your data is stored in all of these different systems.
+
+Alluxio, which was founded by Haoyuan Li, allows compute frameworks like Spark, MapReduce and others to access all of this data by providing a unified namespace across all of these distributed storage systems. It then uses a tiered storage architecture that caches the most often used data in memory, with less often used data on SSDs and traditional hard drives. It’s probably fair to think of Alluxio as a very sophisticated cache for big data workloads.
+
+The software was originally developed at UC Berkeley’s AMPlab and is compatible with the Hadoop file system, which has become somewhat of a standard for storing massive amounts of data across many (often thousands of) machines.
+
+Today, Alluxio is launching both the Enterprise Edition and Community edition of its software out of beta. Like most open source projects, Alluxio is monetizing its work by selling support and advanced features. In the case of Alluxio’s enterprise product, these additional features include better support for high-availability setups, enterprise security and data replication.
+
+The Community Edition is available for free, but in a bit of a twist from the usual model, this version is also certified and tested and comes with all of the necessary drivers to access a wide range of file systems (think Amazon S3, Google Cloud Storage, OpenStack Swift, Red Hat Ceph, Huawei FusionStorage etc.) and computation frameworks (including Apache Spark, Apache Hadoop and Apache MapReduce). Just like the enterprise version, the Community Edition also features Alluxio’s web interface for managing the service. The only major feature you’re not getting for free (besides support) is support for replication and Kerberos Authentication.
+
+Alluxio’s current users include the likes of Alibaba, Baidu, Barclay’s Bank, CERN, Huawei, Intel and others. The company says that it has helped Baidu to improve the performance of some of that companies’ ad-hoc interactive queries on multiple petabytes of data that was originally stored in different data centers from 15 minutes to 30 seconds.

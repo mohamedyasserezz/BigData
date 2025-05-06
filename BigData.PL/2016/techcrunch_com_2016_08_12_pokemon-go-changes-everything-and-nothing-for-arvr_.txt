@@ -1,0 +1,57 @@
+Pokémon Go changes everything (and nothing) for AR/VR
+
+“Stop calling Pokémon Go AR,” say the purists. But who cares what you call something that is so successful? Just be glad it happened, and let’s figure out what it means for the AR/VR industry.
+
+Pokémon Go is the singularity for AR/VR that everyone was waiting for, but looks very different to what everyone expected. It isn’t space glasses from the future, it isn’t high tech, it doesn’t require new hardware and it’s free. Who saw that coming?
+
+It would be fair to say that not even Pokémon Go’s developerNianticdid, as, despite their enormous success, the overwhelming demand from users led to reports of significant server downtime at launch (not helped byDDoS attacks).
+
+But the great thing about Pokémon Go is that hundreds ofmillionsof consumers aged 8 to 80 have played it worldwide, watched others play it with bemusement or read aboutodd experienceswith it in the miles of column inches and vast numbers of electrons devoted to it by mainstream media. AR/VR is no longer the creature of industry insiders, innovators and early adopters (or TechCrunch readers). AR/VR became a mainstream phenomenon in less than a week, and it did so years before the most bullish industry insiders thought it would (us included).
+
+So why has Pokémon Go been so successful?
+
+First, Pokémon has a treasured place in our hearts. Millennials grew up with it, watched by doting Gen X parents and baby boomer grandparents — it is a brand that is everywhere.
+
+Second, a pervasive platform. We’re approaching4 billionsmartphone and tablet mobile broadband subscriptions this year — a platform that is everywhere.
+
+Third, a fast core user loop. It’s not the Pokémon you played as a kid. It’s even more accessible — a core user loop that works for everyone.
+
+Fourth, a purely mobile experience. You can play it wherever you go, and wherever you go is part of why you play it. And that’s key not just to the success of Pokémon Go, but the success of all AR. Augmented reality is inherently mobile, and mobility has driven much of the tech innovation of the last decade.
+
+But still the purists will tell you, “Pokémon Go is not AR.” So are they right or wrong?
+
+Let’s revisit some definitions. Virtual reality places users inside the virtual world, immersing them. Augmented reality overlays virtual objects on the user’s real world, augmenting it. Although closely related to AR, mixed reality anchors apparently solid virtual objects in the user’s real world. So they appear to the user as real. So far, so simple.
+
+But the technology is a bit more diverse than it first appears. Digi-Capital’s Reality Matrix segments the market using a few basic definitions:
+
+The Reality Matrix is made up of four sectors, with some players operating across them to meet different user needs:
+
+Console/PC VR makes users jump out of the way when a virtual whale swims toward them under the sea (e.g. HTC Vive, Oculus, PlayStation VR); Mobile VR provides a very good VR experience, but isn’t as immersive because of key drivers like positional tracking (e.g. Samsung Gear VR, Google Cardboard and Daydream); Augmented Reality ranges from the equivalent of Iron Man’s holographic display with transparent virtual objects in the real world in daylight (e.g. Atheer) to smartphone/tablet “magic window” AR (e.g. Google Project Tango); Mixed Reality gives users virtual objects that appear solid in the real world in daylight (e.g. Microsoft HoloLens, Magic Leap, Meta), or switches easily between AR and VR (e.g. ODG)
+
+But where does this leave Pokémon Go?
+
+Here’s the bit where the purists get upset (and not just by the Star TrekmisquotefromThe Firm). So I’m just going to say it.
+
+Pokémon Go is AR. Just a really basic version of it.
+
+In many ways, Pokémon Go is only location-based entertainment, and not AR in the way that industry folks think about it. But that’s the point. This is no longer about industry folks. It’s about public perception.
+
+And the public thinks Pokémon Go is AR. So it is.
+
+What you call it doesn’t matter when you’re walking around the neighborhood with your friends hunting Pokémon. It doesn’t matter that the tech is old school (GPS, clock, camera). It doesn’t matter that there are no fancy optics, SLAM (Simultaneous Localization and Mapping), advanced computer vision or other tech wizardry involved. None of that matters.
+
+Because it’s fun. And it’s everywhere. And folks think it’s AR whether you like it or not. So deal with it.
+
+So what does Pokémon Go mean for the development of AR/VR?
+
+In terms of consumer acceptance, it’s monumental. People who wouldn’t have been aware of or tried VR/AR/MR for years are actively engaged with the market today. It’s stupendously good for the industry, because there’s now mass market consumer awareness.
+
+For app developers, everyone is scrambling to figure out whether or not they can get on the bandwagon. Folks who were on the fence about devoting resources to VR/AR/MR are now at least thinking about it. And budding engineers-in-the-making who are deciding what they’ll do with their careers are being influenced by it. For talent flowing into the market, that’s hugely helpful.
+
+For core VR/AR/MR technology companies (i.e. the hardware guys), Pokémon Go has had little impact on how the technology is being developed. All the challenges remain, and AR still needs that magic combination of hero device, long battery life, cellular capability, strong app ecosystem and telco cross-subsidization before it can really take off (around 2018, based on current road maps).
+
+For investors, it’s been both very exciting and highly confusing. Pokémon Go is a very specific application with a lot going for it. Hard to replicate at scale.Nintendo stockhas looked more like a yoyo than a Pokéball. So while there is more buzz around the market than already existed (if that’s even possible), theunderlying thinking of VCsis broadly unchanged.
+
+Apple CEO Tim Cooksaid it best: “AR can be really great. We have been and continue to invest a lot in this. We are high on AR for the long run. We think there are great things for customers and a great commercial opportunity…it will be huge.”
+
+One small step for Pokémon, one giant leap for Poké-kind.

@@ -1,0 +1,27 @@
+To beef up in marketing, Salesforce will buy Krux for $340M in cash, up to $750M overall
+
+Salesforceis makingyet another acquisition, once again to build out its footprint in marketing and adtech. The company has justconfirmedthat it is buyingKrux, a company that tracks traffic (“data signatures”) across multiple devices — e.g. desktop, mobile, tablet, set-top — and channels — display, social, search, video. In a statement to the SEC, Salesforce said it would pay $340 million in cash plus stock. A story giving a heads up on the sale inAdExchangersaid the actual price would be between $650 million and $750 million — which appears also to include earn-outs and the value of that stock. Salesforce tells us “approximately $700 million.”
+
+“Krux is a leading data management platform that unifies, segments and activates audiences to increase engagement with users, prospects and customers. Following the acquisition, Krux will be a wholly owned subsidiary of the Company,” Salesforce said in its statement.
+
+Krux had raised only$50 millionin its time as a startup: investors included Accel, Sapphire Ventures and IDG. It currently works with some 200 customers.
+
+Krux, co-founded byTom ChavezandVivek S. Vaidya, had already been working with Salesforce as a close partner.
+
+“As a part of the Salesforce ecosystem, we’ve had the opportunity to work closely with the Salesforce team to create integrations that make our customers even more successful,” writes Chavez inKrux’s own announcement. “Beyond the strategic and technology fit, we believe our companies’ core values, which include innovation, trust, transparency, and most importantly customer success, are in perfect alignment and offer an exciting foundation upon which we can continue building the industry’s smartest Marketing Cloud.”
+
+Chavez added that the company seems to want to keep much of their existing business intact and that they “expect to continue supporting our thriving partner ecosystem and integrating with a wide variety of platforms. Both companies share a long-standing commitment to interoperability and broad, diverse partner networks.”
+
+The value to Salesforce of this deal is that it helps expand the company’s big data play around marketing and advertising.
+
+Salesforce may have originally built its business providing a cloud-based platform for salespeople to better organize and handle their sales operations, but in the last several years, the biggest trend in advertising and marketing is data, and how salespeople can track it better and use that to do their jobs much better.
+
+Salesforce, unsurprisingly, has jumped into the trend with both feet. Of the44 acquisitionsit has made to date, perhaps around a dozen (? I need to count carefully; that’s my quick estimate) have been focused on adtech and marketing tech. Some of the very biggies have included ExactTarget, Buddy Media and Radian6, which are folded into the company’s Marketing Cloud division; and now, Krux.
+
+As for Krux itself, it will be adding another feature to Salesforce’s Marketing Cloud, specifically a data management platform. This will bring Salesforce into closer parity with its competitors, which include Oracle (which offers a DMP via its purchase of BlueKai) and Adobe (Audience Manager), andothers. This also plays into the bigger intelligence piece that the company has been trying to build by way of its new Einstein machine learning platform.
+
+But, ironically, you might argue that Salesforce may be skating to the wrong part of the ice in this instance.Just last week, Google unveiled a new way to track ads that is based not on cookies (which is the basis of a lot of the DMP tracking today) but favors instead a tracking of users based on “log-in” data, which is considered more complete, and on par with what companies like Facebook have also developed. However, given the rumors that Salesforce mightpotentially be interested in Twitter, it may end up having its own social log-in play after all.
+
+In terms of the overall price, Salesforce said it would also “issue shares of Company common stock. The aggregate number of shares of Company common stock to be issued will be determined based on the volume-weighted average closing price of Company common stock during the ten trading days ending on (and including) the second trading day before closing of the acquisition (the ‘Company Trading Price’); provided that, for purposes of determining the number of shares to be issued, the Company Trading Price will not be less than $57.25 nor more than $100.18. As a result, if the acquisition is consummated, the Company expects to issue at closing between approximately 3.4 million and approximately six million shares of Company common stock. A portion of the shares will be subject to vesting conditions based upon continued employment of certain recipients following closing of the acquisition.”
+
+The acquisition is anticipated to close in the company’s Q4 that ends January 31, 2017. It brings Salesforce’s acquisitions in the last year tonearly $5 billion.

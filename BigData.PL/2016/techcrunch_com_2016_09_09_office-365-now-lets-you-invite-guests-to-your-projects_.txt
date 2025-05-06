@@ -1,0 +1,17 @@
+Office 365 now lets you invite guests to your projects
+
+Online tools like Office 365 have changed the way we work and collaborate with our colleagues, but often projects involve people outside of your organization, whether partners, consultants or vendors. Microsoft acknowledged that reality today when itannounced the ability to invite gueststo view or edit Office 365 content.
+
+It’s not going to all happen at once, but over time Office 365 users will be able to include outside parties in their project. For starters, they are rolling out guest access in Outlook on the web with the idea that you need to be able invite these folks to the party.
+
+A welcome email will be the guest’s entree to the project, so it’s a logical starting point. You simply click the Add Guest link and enter the person’s email to get started. The guest receives a welcome email and will be sent emails and calendar invites and can even access file attachments.
+
+All guests have to sign into Microsoft to get Office 365 access, but they can be part of any email domain, even if it’s not part of a business.
+
+It’s worth noting that this could be part of a larger trend. Just this week,Box announced Box Relay, a new workflow tool developed in conjunction with IBM that includes the ability to invite people outside the organization to be part of a project workflow.
+
+In Box’s case, it enables the project lead to set security for the guests, so they might be given read-only document access, while an internal team member would get full editing rights.
+
+Both companies are acknowledging the changing nature of work in a modern cloud and mobile context. People can work anywhere and can collaborate with any number of individuals, whether they work directly for the organization or not.
+
+Being able to include these people as part of the project team is going to become increasingly important and Microsoft’s announcement today is proof of that.

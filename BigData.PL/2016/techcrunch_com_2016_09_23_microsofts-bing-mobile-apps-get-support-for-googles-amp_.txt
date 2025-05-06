@@ -1,0 +1,13 @@
+Microsoft’s Bing mobile apps get support for Google’s AMP
+
+Bing, the search engine Microsoftpays you to use, is jumping on the AMP bandwagon. The open sourceAMP formatis essentially Google’s version of Facebook’s Instant Articles and its stripped down format, which in some ways goes back to the early days of the web, ensures that mobile pages load extremely fast.
+
+Just like Google now highlights a variety of AMP pages in its mobile search results, Bing now also surfaces AMP links in its iOS and Android apps.
+
+Like Google’s search engine, Bing detects when a site is available in an AMP version and then loads that instead of the heavier regular site. Ideally, that site is also cached, so the load times are even faster.
+
+“We started experimenting with AMP in our Bing App last May and have noticed that AMP pages load, on average, approximately 80% faster than non-AMP pages” said Marcelo De Barros, the Group Engineering Manager in charge of the AMP integration at Bing, in today’s announcement. “Lighter pages also translate into less data being transferred over the network, requiring less network bandwidth to be downloaded.”
+
+Microsoft notes that it also uses other performance techniques to load non-AMP pages quickly, too. Google’s results have shown that the majority of AMP pages render within a second. Microsoft isn’t sharing any numbers today, but chances are it’ll see similar render speeds.
+
+To enjoy this new feature, you only have to install the Bing apps foriOSorAndroidand then remember to use them.

@@ -1,0 +1,11 @@
+Disney enlists Google Cloud’s Vision for a ‘Pete’s Dragon’ AR mobile game
+
+It’s no Pokemon Go, but it’s charming nonetheless, employing Google’s Cloud Vision to add a little bit of CGI dragon magic to your immediate vicinity. The“Dragon Spotting” gameis free and accessible through a mobile browser designed to promote Disney’s upcomingPete’s Dragonremake.
+
+The page offers up the player simple instructions through a series of whimsically animated maps. It’s all pretty straightforward, though, asking you to identify a series of common objects – a table, a couch, a door, clouds, plants and bushes. The user snaps a photo or uses on from their photo roll and, boom, there’s a dragon, hiding in plain sight all along.
+
+Google’s Cloud Vision API does the processing, using the technology to identify the object in the photo. If it doesn’t find what it’s looking, it’ll send you back to the drawing board. And if you don’t find what it wants in real life, just shake the phone and it’ll move onto the next object.
+
+The photos are fun and a nice little homage to the mix of live action and cell animation in the original, along with the CGI of its 2016 counterpart. Once snapped, photos can be shared via social, promoting the game and, by proxy, the new film. It’s also a nice cautionary tale. Apparently this place has been crawling with dragons the whole time.
+
+viaThe Verge

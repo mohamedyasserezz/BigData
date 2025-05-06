@@ -1,0 +1,47 @@
+Spotify and Apple are staring each other down while flipping the bird
+
+Figuratively, of course.
+
+The companies are at it again, and this time it’s not only bothersome to the businesses themselves, but to the end consumer.
+
+Going to the next level in an ongoing spat over Apple’s subscription rules, it would appear that Apple has rejected Spotify’s latest update to its app in late May, citing business model issues. Shortly before that, Spotify turned off billing within the Spotify iOS app altogether, cutting off free users ability to upgrade and even shutting off existing premium mobile users payments, forcing online upgrades. With it, Spotify cut off Apple’s full source of revenue from the Spotify service.
+
+Obtaining a letter written from Spotify’s general counsel Horacio Gutierrez to Apple’s legal team,Re/code reportsthat Apple rejected the new Spotify update because of billing. The letter said that if “Spotify wants to use the app to acquire new customers and sell subscriptions” it needs to use Apple’s billing system.
+
+Spotify and Apple have been fighting over this for quite some time.
+
+Back in 2014, Spotifybumped the price of its mobile subscription to $12.99, automatically accounting for Apple’s 30 percent revenue share on what is normally a $10/month service.
+
+In July of last year, a month after the launch of Apple Music, Spotify beganproactively encouraging its usersto end their mobile subscriptions and upgrade to premium on the web, where it would cost just $10. Upgrading on the web circumvents any involvement from Apple on the billing side, while still allowing users to listen to Spotify premium on their Apple devices. The company has since discontinued the campaign, but it has also shut off in-app purchases on Spotify iOS.
+
+Under thePaymentssection:
+
+3.1.1 In-App Purchase: If you want to unlock features or functionality within your app, (by way of example:subscriptions, in-game currencies, game levels, access to premium content, or unlocking a full version),you must use in-app purchase.Apps may not includebuttons, external links, orother calls to action that direct customers to purchasing mechanisms other than IAP. Any credits or in-game currencies purchased via IAP must be consumed within the app and may not expire, and you should make sure you have a restore mechanism for any restorable in-app purchases. Please remember to assign the correct purchasability type or your app will be rejected. Apps should not directly or indirectly enable gifting of IAP content, features, or consumable items to others. Apps distributed via the Mac App Store may host plug-ins or extensions that are enabled with mechanisms other than the App Store.3.1.2 Subscriptions:Auto-renewing subscriptions should only be offered using in-app purchaseand may only be used for periodicals (e.g. newspapers, magazines), business apps (e.g. enterprise, productivity, professional creative, cloud storage), media apps (e.g. video, audio, voice, photo sharing), and other approved services (e.g. dating, dieting, weather). These subscriptions must last a minimum of 7 days and be accessible from all of the user’s devices where the app is available. You may offer subscriptions that are shared across your own apps, but these subscriptions may not extend to third party apps or services.
+
+Emphasis added by me.
+
+While some could read that as a violation on the part of Spotify, which can turn off and turn on in-app purchases without update approval, others might consider this latest update rejection as a retaliation on the part of Apple. After all, if Spotify isn’t making money off of iOS in any way, it may not be subject to these guidelines, despite charging for subscriptions elsewhere.
+
+Not unlikeThe War of the Five Kings, this battle comes in the midst of a much larger war, with the involvement of many parties, each harboring their own specific grievances and plots for vengeance.
+
+In fact, just yesterday Senator Elizabeth Warren, who was potentially sent a copy of this specific letter from Guitierez,criticized Google, Apple and Amazonfor restricting competition in their designated fields.
+
+She specifically called out Apple for having “placed conditions on its rivals that make it difficult for them to offer competitive streaming services.”
+
+Though neither Apple nor Spotify have offered comment on this particular story (the App Store rejection and subsequent letter), Spotify was happy to provide comment alongside Senator Warren’s claims yesterday.
+
+Spotify’s head of communications and public policy Jonathan Prince hadthis to say:
+
+Apple has long used its control of iOS to squash competition in music, driving up the prices of its competitors, inappropriately forbidding us from telling our customers about lower prices, and giving itself unfair advantages across its platform through everything from the lock screen to Siri. You know there’s something wrong when Apple makes more off a Spotify subscription than it does off an Apple Music subscription and doesn’t share any of that with the music industry. They want to have their cake and eat everyone else’s too.
+
+Which brings the artists themselves into the equation. On one battlefront, Spotify is fighting with Apple for the full rights to its profits, without the additional cut for the App Store. On the other side, to the sea, Spotify is digging trenches against the artists themselves.
+
+Taylor Swift has waged all out war against Spotify, teaming up with Apple Music instead. She’s written her owndiatribesabout Spotify’s low cuts for artists, wages that can’t be increased on an already-low-margin business.
+
+And then there’s Jay-Z and his cohort of ultra-popular musicians who have committed themselves toTidal, a high-fidelity streaming service that competes with both Apple MusicandSpotify.
+
+Spotify can only afford to hold siege against Apple for so long. Spotify’s European home base, which has stronger laws to protect smaller players from being crushed by giants, may prove helpful in the war to come.
+
+But even so, Spotify is a service whose ‘entry point’ — the place where it is likely to gain new subscribers — is increasingly on mobile devices. Unlike Amazon Prime or Netflix, whose subscriptions likely still begin their life on the web, Spotify’sneeds mobile subscriptions, and it needs them at a lower intermediary cost. Streaming music offers razor-thin margins, and limiting the amount of people who can pay for it based on device isn’t a feasible option. Then again, neither is coughing up 30 percent of mobile revenues, especially if Spotify’s eventual goal is IPO.
+
+Apple recently changed its subscription rules to drop the cut it takes to 15% after a year, which will affect Spotify. But Spotify has chafed under these rules for a long time and will likely be using the new lever of Apple having a directly competing music service to try to pry better terms out of the company via the court of public opinion or a regulatory agency.

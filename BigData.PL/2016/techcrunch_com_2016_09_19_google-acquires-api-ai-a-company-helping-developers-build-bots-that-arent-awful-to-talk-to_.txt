@@ -1,0 +1,15 @@
+Google acquires API.AI, a company helping developers build bots that aren’t awful to talk to
+
+Google has justdisclosedthat it has snatched up the team behind API.AI. API.AI provides tools to developers to help them build conversational, Siri-esque bots.
+
+As humans, we’re pretty good at communication. If someone says “the girl saw a man with the binoculars,” we can generally use contextual clues to figure out if they meant that the girl saw the man byusingbinoculars, or saw a man who wascarryingbinoculars.
+
+Teaching a robot to do the same is a bigger challenge. Add in ambiguity (by “get me a lift” do you mean any old car, or a Lyft, specifically?) and there’s an endless number of ways to say pretty much any one thing… and, well, the challenge becomes huge.
+
+API.AI helps developers who are building bots tackle this by providing them with tools to keep them from endlessly reinventing the wheel. Their APIs handle things like speech recognition, intent recognition and context management, and allows devs to provide domain-specific knowledge (like that “deep dish” and “Chicago-style” can probably mean the same thing to your pizza delivery bot) that might be unique to your bot’s needs.
+
+API.AI currently plays friendly with 15 languages/dialects, including English, Chinese, French, German and Spanish.
+
+According to a running counter on its homepage, API.AI has processed a little over 3 billion API requests to date. Meanwhile, Google says over 60,000 developers have built stuff with API.AI’s toolset.
+
+The price and terms of the acquisition have not been disclosed yet, but API.AI had raisedaround $8.6 million to date according to Crunchbase.

@@ -1,0 +1,15 @@
+Amazon will truck your massive piles of data to the cloud with an 18-wheeler
+
+Meet AWS Snowmobile, a tractor-trailer for when your big data is just too damn big. The truck houses a container that can store up to 100 petabytes of data. Real-life data hoarders can contract Amazon to move exabytes of data to the cloud using the new tricked-out trucks.
+
+Snowmobile attaches directly to your data center with power and network fibre to move critical information to AWS, even when its size is insurmountable for mere mortals.
+
+Designed to address data challenges for companies dealing with large film vaults and troves of satellite imagery, the truck consumes a whopping 350 KW of AC power. All this power fuels a switch that can handle one terabit of data per-second across multiple 40gbps connections.
+
+This means a Snowmobile can be filled to the brim in roughly 10 days. After all is said and done, the truck is taken back to AWS where its contents are put in the cloud. DigitalGlobe is already contracting out trucks to move 100 petabytes of satellite imagery to AWS.
+
+Of course a job this big comes with its own unique challenges. That much data in one place presents a real world security risk — ol’ bank robber style. Amazon is gracious enough to offer dedicated security guards and a vehicle escort.
+
+Containers also feature GPS tacking and video surveillance in addition to cellular and satellite connectivity back to AWS HQ. All data is encrypted with AWS Key Management Service keys before it is transferred. Bonus points to the first person to filma remake of The Townwith Jesse Eisenberg riding shotgun in a Snowmobile.
+
+While the shipping container design is humorous to look at, the rugged apparatus has natural functionality. Amazon outfitted its trucks to be both climate-controlled and water-proof.

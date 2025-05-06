@@ -1,0 +1,25 @@
+Okta extends identity management to APIs
+
+Oktaannounced it was bringing identity management to APIs today at itsOktane customer conferencein Las Vegas.
+
+For a long time, Okta was about connecting people with cloud applications such as ServiceNow, Salesforce or Office 365. A couple of years ago, the company extended that capability to enable customersto control the devices where employees could access those cloud applications.
+
+Today’s announcement is an acknowledgement that the programs themselves are made up of multiple services within an app, such as combining Google Maps for location with Twilio for communication and Braintree for payments. While it feels like a single program, it’s actually crossing multiple gateways to deliver the experience.
+
+“This really lets our customers extend control to APIs,” Okta CEO Todd McKinnon told TechCrunch.
+
+This could work in a couple of ways, he said. APIs often require administrative or programmer-level access and Okta can help companies manage this access by policy. It also gives them an audit trail of anyone who has tried to access the API gateway.
+
+“Hackers are good at finding the weakest link, and maybe they could find the system doesn’t have the API locked down. Having a system to guarantee there is a strong access policy, in a lot of cases can tighten the weakest link,” McKinnon said.
+
+Okta’s API system usesOAuth 2.0access control in conjunction with Okta’s policy engine and administrative access control panel. It has also partnered with API access management vendors like Apigee and MuleSoft.
+
+Okta is a company at a crossroads. It was just last September thatit announced a healthy $75 million round on a $1.2 billion valuation, propelling it into the heady unicorn club. The company has raised a hefty $230 million since inception in 2009, and at last year’s funding announcement suggested an IPO could be coming in the next 12-18 months.
+
+A year later, the tech IPO market has been slow, and McKinnon is being cagier about going public, saying he can’t comment on a possible date.
+
+“I will say that if anyone gives you a date, it probably means they are not going public. In general, over the last few years, as we have gotten closer to being a public company, we have looked at what companies are doing well and are being fairly valued [in the public markets].”
+
+He says that the biggest change he’s seen is that the market doesn’t value growth as it once did and companies burning cash are being punished. “In that context, we are going to make the best decisions about how fast we are growing, how much cash we are burning and so forth,” he said.
+
+It’s hard to know what that all means, but they are still within that 12-18 month window McKinnon referenced last year.

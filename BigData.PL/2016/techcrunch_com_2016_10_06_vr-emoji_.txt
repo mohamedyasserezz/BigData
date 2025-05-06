@@ -1,0 +1,35 @@
+Facebook invents “virtual reality emoji” gestures
+
+Shake your fist and your VR avatar’s face will turn “angry.” Put your hands on your face Home Alone-style to express “shock.” Triumphantly thrust your hands in the air and your virtual self’s face will show “joy.”
+
+These are what Facebook calls “VR emoji,” and they’re the company’s vision for how we’ll convey emotion in virtual reality. We’re not talking about yellow illustrated emoticons popping up over your head. Instead, your avatar’s eyes, eye brows, mouth and other facial features will change to mimic how we exhibit body language in the real world.
+
+Michael Booth, Facebook’s head of social VR, describes that “when you send a message and you want to make an emotional point, you stick an emoji on there.” We lose tone and physical cues when we text, so emojis emerged to clarify what you really mean. Otherwise, the recipient won’t know whether you’re excited or worried when you say “oh my.”
+
+Booth wanted to alleviate similar sentiment ambiguity that exists in social VR as you don’t usually see someone’s real face. The solution goes far, far beyond the“Reactions”you can leave on 360 News Feed content to express more nuanced feedback than just a “Like.”
+
+“We’re coming up with a language that triggers your avatar to make certain emotions,” aka “VR emoji” Booth tells me. “We can’t just be a blank presence. [In VR] we have eyes, we have mouths. We need some kind of emotions or it seems like totally flat affect.” If you say something shocking to a friend in VR, but their face stays completely static, it breaks your sense of presence. We’re accustomed to facial cues.
+
+For example, in the real world if you’re in the middle of a long explanation and someone doesn’t understand you, you can recognize the confused expression on their face. That tells you to dumb it down a bit, provide more background context or say it again in a different way.
+
+Without VR emoji, your conversation partner would either have to interrupt you, flail their arms in a non-obvious way or wait until you’re finished. With Facebook’s VR emoji, you can shrug with your palms up, and your face will show an easily recognized expression of confusion — eyes scrunched and mouth crooked. Though Booth warns the gestures behind its VR emoji vocabulary are sure to change over time.
+
+None of this depends on eye or facial tracking, which would require additional hardware to be built into VR headsets. Startups likeFOVEare building these headsets, and apps like VR chat roomAltspacemake your eye movements visible on your avatar. But eye tracking isn’t built into the Oculus Rift, Gear VR, Google Daydream and Cardboard, HTC Vive or PlayStation VR headsets. The hand-tracking that VR emojis require is proliferating much faster toward the scale Facebook craves for its product.
+
+Booth details four of the main goals Facebook has for using avatars to create the sense of believable human presence in social VR:
+
+Facebook is stillexperimenting with different ways to personalize avatarsso they look like you. One option is an internal drawing tool where you illustrate a version of your face to plaster onto your avatar. Another is to use anOccipital Structuresensor or other image-capture device to model your head. Facebook could potentially even try to recreate your VR face from the photos tagged of you on its social network.
+
+Whatever it offers will have to work reliably, otherwise you could end up with a grotesquely disfigured avatar version of yourself that would break rules No. 1 and No. 4 above.
+
+Luckily, Booth knows plenty about avatars. He spent 10 years making video games at Valve and another two at Blizzard. He was planning to start his own VR game studio, but then Facebook showed him the “Toybox” social VR demo, which he says “really blew my mind.” He joined Facebook, and since December has been working on the successor to Toybox, Facebook’s unnamed social VR prototypedemoed today.
+
+Presence isn’t enough. VR needs utility — things to do in there. Along with the VR emojis,Booth and Mark Zuckerberg demonstrated the ability to visit VR destinations with your friends’ avatarsoverlaid on the scene. They showed how you’ll be able to play cards, watch TV and sword fight together. If you see something cool, you’ll be able to take a VR selfie, turn to your wrist and see a button to instantly share the photo to Facebook. You’ll even get a change to take a Facebook Messenger video call and show someone in the real world what your avatar is up to in the virtual realm.
+
+That’s just the start, though. Facebook is plotting to turn you into a VR videographer. Booth tells me it’s developing a way for you to “basically have a virtual camera you can pick up and move around.” This way, friends without headsets can see what all the hype is about by watching your VR antics straight from the Facebook News Feed. “You become a 2D camera man for your friends in VR,” Booth says. “With video streaming, you become a superstar.”
+
+That concept of expanding Facebook Live streaming from the physical world to your adventures in the digital one ties social VR back to the company’s core product that’s increasingly focused on video. While Oculus and Facebook started quite distinct, the dividing lines are blurring.
+
+If Facebook can build a compelling social VR experience at scale, Booth says “we’ll figure out some way to monetize it. I’m sure advertising will be very interesting in VR.”
+
+For now, though, this is all just the next way Facebook wants to accomplish its mission of connecting the world, making friends feel closer together no matter where they are. From basic profiles to photos to auto-play videos in the News Feed, from text chat to multi-media Messenger apps, from web to mobile and now to VR, Facebook continues to evolve. But no matter the technology, Booth says Facebook’s staying true to its principle of “People First.’

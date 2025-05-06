@@ -1,0 +1,37 @@
+Google brings RCS, the next-gen upgrade to SMS, to Android phones on Sprint
+
+Aspromised earlier this year, Google is bringing RCS – Rich Communications Service, an upgrade to the SMS standard – to Android devices. Its first carrier partner on the initiative is Sprint, which is rolling out RCS messaging to its customers with Android devices, starting today. Once enabled, RCS will offer Android users an enhanced messaging experience over SMS, with features like better group chats, high-resolution photo sharing, read receipts and typing indicators.
+
+Google announced its plans to move in this direction when itacquired RCS provider Jibe Mobile back in September 2015. TheJibe cloud platformwill power the new service on Sprint, says Google.
+
+Sprint subscribers will have their standard SMS experience upgraded through Google’s redesignedMessengerapp on their Android devices, provided they are on Android KitKat or higher, and have set Messenger as their default SMS application.
+
+Those using select LG and Nexus phones from Sprint will be automatically upgraded to RCS through an app update, while others can manually update their devices by downloading the Messenger app from the Play Store.
+
+Google’s new Pixel-branded smartphones come with Messenger pre-loaded, so if a customer is using an unlocked device on the Sprint network and has Messenger installed, it will also have access to RCS.
+
+Beginning next year, all new Android devices from Sprint will come with Messenger preloaded as the default SMS and RCS messaging app, says Google.
+
+For consumers who gain access to the new messaging experience on Sprint Android phones, they’ll be able to take advantage of features that rival Apple’s iMessage or other third-party messaging apps. For example, though MMS today supports group messaging, you can’t do some of the things people now expect – like naming the group, adding new members, or leaving an existing group. That will change with RCS.
+
+In addition, Sprint users will be able to share 100x larger images and videos than was possible with MMS, will know if messages are delivered or read, and will see typing indicators when someone is writing to you.
+
+RCS, as a technology, has been around since 2007, but it has only been launched by49 carriersworldwide, according to the GSMA. However, the organization says that Sprint is the first to launch the new RCS profile initiative – the other launches involved older iterations on the standard.
+
+This is also the first time Google itself has rolled out RCS support anywhere in the world. (The now Google-owned Jibe platform, of course, had previously supported older versions of RCS, however.)
+
+While positioned to some extent as a way Google can compete with iMessage, the problem with RCS is that it’s not universally adopted. Unlike with iMessage, which works with any Apple device, RCS is made available by carriers, and it won’t work on older Android smartphones. In other words, the impact of this launch – for now, at least – is limited.
+
+Google says it has plans to launch RCS with other carrier partners in the “coming months,” but won’t speak to which ones, or when.
+
+In the meantime, the move seems to muddle Google’s messaging ambitions even further. After all, where is Google placing its bets these days?
+
+To take advantage of RCS, Android users on supported devices have to useGoogle’s Messenger appas their default client. But, at the same time, Google continues to offer itsHangouts chat and calling app,and it’s promotingits new Allo app as the future of messaging,thanks to its integrated A.I. assistant.Allo also comes pre-installedon Google’s new Pixel smartphones, the Pixel and Pixel XL. (Hangouts can be set as the default SMS app, Allo cannot).
+
+Allo does work cross-platform – as does Duo, its video counterpart – but they are both rather late entries into larger messaging market, where third-party apps like WhatsApp, Facebook Messenger, and others now dominate.
+
+And, in terms of competing with iMessage, Google simply doesn’t have the same infrastructure in play.
+
+By owning the entire platform – from hardware to software – Apple is able to lock users into its own iMessage ecosystem on any Apple device. And now, it’s even running a new App Store on top of that platform.
+
+Google may be able to convince more carriers to roll out RCS in the future, but that will take time. And the technology won’t be as front-and-center as iMessage is in Apple’s world, as users on supported devices have to upgrade their apps, switch their default settings, and/or upgrade from older Android phones to use it. In the meantime, fragmentation will continue among RCS and non-RCS Android devices, not to mention Google’s own growing number of alternative messaging apps it can’t seem to stop creating.

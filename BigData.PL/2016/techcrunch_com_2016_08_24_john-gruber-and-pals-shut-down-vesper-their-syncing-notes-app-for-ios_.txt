@@ -1,0 +1,13 @@
+John Gruber and pals shut down Vesper, their syncing notes app for iOS
+
+In what amounts to a very detailed and very heartfelt whitepaper on building and shutting down a business,John Gruber has written about shutting down Vesper, his iOS notes app and syncing service.
+
+Vesperwas one of the most elegant and usable pieces of software I’ve used. Sadly, it was too easy to abandon once syncing came to nearly everything in iOS and, although the product had a rabid fan base, it just wasn’t enough to maintain momentum. He writes:
+
+￼In hindsight, I am now convinced this plan was fundamentally flawed. The market for paid productivity apps for iOS is simply too difficult. There are exceptions, of course. Fantastical and Tweetbot are two examples from my own iPhone’s first home screen. But paid apps for iOS are the exception. The norm is clearly free apps, with in-app purchases. This is completely clear now, but it should have been clear to me three years ago.
+
+What he and his friends Brent Simmons and Dave Wiskus did wrong, he admits, is write the code in the wrong order. Had they built and sold a MacOS version early on – perhaps for $20 – and then dealt with an iOS version (very specifically a new iOS 7 version, for an entirely new interfaceandfor the iPad) they probably would have grabbed dedicated users of the desktop service and then improved their lives by giving them a mobile version. This is exactly what the team at Literature and Latte did with theexcellent Scrivener– they didn’t make an iOS version until it made absolute sense, especially considering the low usability of editing apps on iOS until the iPad Pro.
+
+Gruber is brave and kind for sharing his post-mortem. If you’re building iOS apps please read what he wrote: you probably won’t make any money unless you go to where the real money is – on the desktop – and then lead users toward your iOS app. In the end there is a light in the Vesper darkness.
+
+“Vesper is now free in the App Store,” wrote Gruber. “If you were ever curious about it, but were reluctant to pay, you might as well check it out.”

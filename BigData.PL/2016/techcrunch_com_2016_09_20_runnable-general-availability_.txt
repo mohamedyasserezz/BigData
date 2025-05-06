@@ -1,0 +1,19 @@
+Runnable wants to make developers more productive
+
+Back in 2013,Runnablelaunched with the mission to become the “YouTube of code” that allowed its users to find and run code snippets on its site. Times have changed, though, and the well-funded company is going into a slightly different direction today. Runnable today is a tool for enterprises that want to give their developers the ability to quickly spin up full-stack environments for every code branch — and starting today, this service is out of beta and generally available.
+
+“The overwhelming response we got from our CodeSnippets community was that they needed on-demand environments for their professional dev workflow,” said Runnable CEO and founder Yash Kumar in today’s announcement. “We’re excited to make this available for all development teams today.”
+
+The service is still helmed by Kumar, but with its new president and COO Ken Olofsen and board member Eric Wittman, the company has now also brought on two former Atlassian employees with years of experience in selling directly to developers. Olofsen spent most of his time at Atlassian working on dev tools and JIRA, marketing, while Wittman was the general manager for developer tools there.
+
+“Today, applications are being built in lots of small pieces, lots of components and microservices and developers now work in small teams on small pieces of the application but really they don’t get see their component work against the entire application until they ship it to the staging environment,” Olofsen explained to me in an interview last week. “And the staging server kind of becomes this bottleneck where everyone is sort of cuing up to test their changes. What Runnable really lets you do is create these on-demand environment for every code change or branch.”
+
+To bypass this bottleneck, Runnable creates an on-demand environment for every code change or branch on GitHub that features a full-stack environment with the complete application. Runnable spins these environments up on AWS and the whole process usually just takes half a minute or so.
+
+For some teams, this can mean running hundreds of these environments, yet one of Runnable’s selling points is that it only charges a fixed fee (starting at $9/month) based on how many application templates you need and not based on how many environments you spin up.
+
+“As the industry moves forward and as environments become more readily available, to developers, the notion of a pipeline will go away,” Wittman noted.
+
+In a way, Runnable is arriving at just the right time. Containers now make it easy, quick and relatively affordable to spin up these ephemeral environments that allow developers to test their code. At the same time, even enterprises now know that they have to move faster (and even they are starting to embrace the idea of microservices).
+
+Runnable’s current crop of customers includes the likes of Cratejoy, DoorDash, Hitch and Udemy. The San Francisco-based company currently has $10 million in funding.

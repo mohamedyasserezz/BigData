@@ -1,0 +1,57 @@
+Avast CEO on why it’s just spent $1.4BN to absorb security rival AVG
+
+Security firm Avast has today confirmed the completion of a $1.4 billion acquisition of fellow Czech-based antivirus company AVG. The deal will see Avast’s customer base nearly double — swelling from 230 million to more than 400 million in total, 160M of whom are mobile users.
+
+The acquisition was announced back inJuly, with scale and geographical breadth touted as the driving forces, along with a plan to expand product offerings including in the Internet of Things space.
+
+Avast says the new combined entity reaches one-third of the world’s PC users outside of China. Both the Avast and AVG brands are likely to continue to operate, depending on relative market strengths.
+
+There will be job cuts, based on eliminating duplicate roles, but Avast is not confirming how many or where they will come at this stage.
+
+The purchase price values AVG at $25 per share, for a total price-tag of $1.3BN, but Avast CEO Vince Steckler said there was also around $100M of AVG debt to pay off — bumping the total paid to $1.4BN.
+
+The acquisition has been completed within the originally slated timeframe.
+
+Speaking to TechCrunch ahead of the deal closing, Steckler said the two companies have been circling each other for decades, given their shared industry and business location. And finally the summer Avast convinced AVG they were better off as one.
+
+“This was, I think, the fourth attempt we have made in the last two or two and a half years to buy AVG,” he said. “We approached them, we got kind of tired of being constantly turned down — so we approached them kind of one last time and told them hey we’ll pay this amount, no higher, no negotiations, tell us yes or no. And they said yes.
+
+“That came together very, very quick — within a matter of days, really.”
+
+But while competitive spirit kept them apart for years — a combination of “pride and arrogance” on both sides, reckons Steckler — larger forces reshaping the computing landscape and the security market are evidently driving them together now. “There’s a better long term future for a combined entity, than two smaller, standalone entities.”
+
+One very big motivator Steckler mentions for the acquisition is machine learning technology now being used to power many security solutions. And AI’s need for data, lots and lots of data.
+
+“Security these days — for the top companies — is very much a big data thing. We’re not into the classic signatures and checksums. These are big data machine learning products, and they rely on having a massive number of end-points to collect data from, to process, to determine what’s good and what isn’t,” he said.
+
+“Getting hold of AVG’s 160M end points, to add to our 240M, it adds a lot more end points into our data analysis — which improves the security results and allows us to stay ahead of others.”
+
+“All the top flight ‘antivirus products’ are all extraordinarily sophisticated, and many of them — such as ours — exist mostly in the cloud. And they run mostly on machine learning and AI,” he added.
+
+The other trend squeezing veteran security players and driving consolidation is of course the decline of traditional AV revenues, especially on the consumer side where free/freemium antivirus products now dominate. The old paid antivirus cash-cow is not what it once was, with PC shipment slowdowns and the shift to mobile computing another factor driving change there.
+
+“The security industry is obviously really maturing, and — at least on the consumer side — the market has heavily shifted to free and freemium,” noted Steckler. “So there’s a pretty rapidly declining marketshare for companies like Norton and McAfee and Kaspersky.”
+
+But he asserted that Avast and AVG have complementary footprints — with AVG doing well in the English-speaking world and Avast in the non-English speaking world — making the pair a good fit to ride out tougher times together.
+
+“The fact that we have such a large geographic spread allows us to ride much better through the market ups and downs,” he said. “For example, the English language markets are hurt a lot more by the slowdown in PC shipments than the non-English markets. But the English markets monetize much better than the non-English markets, so we have kind of complementary strengths and weaknesses.”
+
+Discussing the shift to mobile computing, Steckler said there are a different set of concerns Avast can (and is) addressing here, via mobile products that focus more on privacy and parental concerns than on traditional malware security threats.
+
+“People use their mobile devices for a lot of different things. You’ve got photos on there, some are sensitive, some are embarrassing, you’ve got children who are using phones while they are driving — you’ve got corporations where phones are being used by employees, sometimes for company use. Sometimes for personal use. So the mobile security market is actually pretty big,” he said.
+
+“It’s not the classic AV but there’s lots of other types of security and privacy products. And this is absolutely one of the reasons why we wanted to buy AVG — because AVG have a really good security product that’s not installed on the phones but is installed at the carrier.”
+
+Running security products directly on phones themselves is pretty limiting, he said — given they are just another siloed app and can be disabled by the user. Which makes working with carriers Avast’s preferred route.
+
+“If you install on the carrier infrastructure you’ve got a lot of things now. For example you can implement a family safety product or geofences so that if your child is driving they can’t text message, or if they’re at school they can’t be using the phone. Or you can control how much data they’re using or what they’re really doing on the mobile device,” he added.
+
+“That’s been a very successful business in the US. It’s in the four US carriers and what we want to do is to move that out of the US and frankly that’s going to be the core of a lot of our mobile business.”
+
+Discussing the company’s strategy for the Internet of Things, he noted Avast already has a security product here, focusing on securing IoT devices via the router. Meanwhile AVG was exploring a different strategy — meaning, again, Steckler sees benefits to combining their different efforts.
+
+But at the end of the day he couches IoT as a fairly simply security nut to crack — given most devices connect to the Internet via a router or network gateway.
+
+“I suspect that most of the security for IoT is going to end up at the cloud or at the network level and not really in the device itself,” he said. “If you think about it, why does your Fitbit need to run security software? It doesn’t talk to the Internet, it talks to the router, so you get the router to protect the Fitbit.”
+
+“Very few of the [IoT] things actually directly connect to the Internet. Most everything connects to the router, which connects to the Internet. So… you don’t need to necessarily protect each device because most of the devices are fairly simplistic. What you need to do is protect the devices from being broken into and the easiest point of doing that is at the network or gateway level. Which is where we do it.”

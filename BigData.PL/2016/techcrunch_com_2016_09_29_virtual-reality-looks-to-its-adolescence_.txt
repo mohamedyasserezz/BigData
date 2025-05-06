@@ -1,0 +1,73 @@
+Virtual reality looks to its adolescence
+
+It’s time for VR to grow up.
+
+It’s time for VR to grow up.
+
+After more than two years of heavy public hyping since Facebook’s 2014acquisition of Oculusfor $2 billion, virtual reality is reaching an important turning point. VR has been promoted up and down the street and consumers seem to have grown oversaturated with all the media coverage of expensive tech that’s inaccessible to them, but the platform is preparing for a mini-renaissance.
+
+The next couple weeks will be the biggest moments for VR in its consumer history. A lot of crazy hardware will be coming out, new platforms will be further defined and everyone will hopefully get a better picture of where this runaway futurism train is heading.
+
+There’s a lot happening.
+
+Sony will be the first console maker to release a virtual reality headset that tightly integrates with a gaming system (Oct. 13), Oculus will announce details regarding the launch of its motion-tracked Touch controllers and lay out other future plans (Oct. 6), and, perhaps most importantly, Google will show off some more details related to their Daydream platform and (likely) their own unique headset (Oct 4.).
+
+All of these events will continue in the broader goal of making VR a bit more accessible while also expanding the level of quality content to regular consumers beyond that available on Google Cardboard.
+
+I’d imagine it’s pretty damn annoying for consumers to buy what is probably their first desktop PC in like 10 or 15 years just to experience what’s being billed to them as thenextshift in computing. Desktop VR has honestly been a necessary evil, but moving forward it’s really just a manufactured niche that won’t be able to hug the exponential curves analysts are expecting from the platform in terms of headset adoption.
+
+In order to truly bring VR mainstream, developers and hardware manufacturers need to build systems that approach consumers where they already are. For the intrigued masses, that’s on mobile. For the casual-ish gamers, that’s on consoles.
+
+Sony has shipped over 43 million PS4s to retailers since the system launched in late 2013. When PSVR launches on October 13, users of any of the iterations of the console will be able to get in on the VR action.
+
+https://twitter.com/Lucas_Matney/status/780973866747256832
+
+I’ve spent most of today playing with my PS VR review unit and while I can’t give away any impressions of my experiences with the headset until my full review is out, I will say that based on how Sony has sought to market and frame this device it’s clear that they’re playing a different game than Oculus and HTC.
+
+PlayStation is in the business of making expensive toys that you play with, and it’s clear that Sony is marketing PS VR as less of avisionary metaverse access pointthan as a new, cool way to experience gaming. Much in the way that Snapchat is selling Spectacles as a “toy,” Sony is selling PS VR as a gaming-first device that with all of its glowing LEDs looks a little bit like a Star Wars helmet and seems to take itself less seriously.
+
+For the time being, virtual reality needs to move away from being billed as some sort of transcendent awakening wrapped in an ethical enigma, instead of what it is right now, just some really cool shit. In other words, stfu if your job title has the word futurist, evangelist, visionary or wizard in it.
+
+Consoles do really represent a big opportunity for VR in general. Things will stay pretty focused on gaming initially, but if and when Playstation and Xbox begin to see consistent high-quality non-gaming VR content I have no doubts that they’ll go out of their way to build a home for it on their platforms.
+
+The demand certainly appears to be there for PS VR in terms of pre-orders but moving forward it will be interesting to see what consumer interest ends up actually looking like for VR on gaming consoles.
+
+The key to ushering in a new platform shift is often getting cozy with the one that came before it. There are about 2.5 billion smartphones situated about the globe right now and though many are lacking in power and mind, these devices and the billions of smarter smartphones that come after them are the key for virtual reality moving forward.
+
+Google and Apple seem particularly well-situated to win early mobile VR (assuming there is indeed something to win), but with Apple concurrently buried in R&D efforts on multiple prototypes of AR and VR headsets, it does not appear that smartphone VR (as we perceive it now) is in its immediate product roadmap.
+
+Google is taking more of an Android approach to VR and it’s doing so… with Android.
+
+Google Daydream is one of the most important platform launches for VR thus far. The platform gives smartphone users a chance at their first “real VR” experience beyond Cardboard, while giving manufacturers of Android phones a clearer path to success in entering the VR space without having to completely rethink the virtual wheel. Daydream also gives developers access to a much wider base of potential users through the Play Store.
+
+Outside of Google’s Cardboard, Samsung has really been the only other large company to make a major effort in the mobile VR space. They’ve done so through their partnership with Oculus to create the Gear VR headset. While it’s certainly the best mobile VR experience to date, even Samsung knows the writing is on the wall and that Daydream is a platform that shouldn’t be ignored. The company was listed as one of the initial partners for Daydream and will likely be showing off their own headset designed for the platform soon.
+
+It all seems like a bit of a swan song for Oculus, which despite gaining an early toehold on the mobile platform, was always facing an uphill battle given the amount of system-level integration needed to ready smartphone manufacturers for VR. With theVR mode in Android Nougat, Google has pretty much dropped a blanket upgrade to Android devices so that low-latency VR can be a reality across manufacturers for devices with low persistence displays.
+
+Low-latency is one base-level benchmark for acceptable VR, many would add positional tracking as another part that’s been missing from the mobile VR equation.
+
+Positional tacking, the nifty technology that allows VR users to move around in virtual space, is pretty essential to actually feeling immersed in a VR experience. Mobile VR’s lack of positional tracking has been one of the central defenses of developers in why more studios aren’t focusing efforts solely towards mobile. Don’t expect a shippable solution to come out of Google’s event next week, but expect to see that platform be amenable to third-party hardware solutions.
+
+Mobile inside-out positional tracking is certainly on its way but in the meantime I think it would behoove developers to see fixed point head-tracking as less of a deficiency than a necessary challenge. Delivering rich immersive experiences without relying on user movement can seem daunting and less rewarding, but once the honeymoon period is over and laziness reigns, it’s not unrealistic to imagine that seated experiences become the norm for most. Positional tracking will certainly improve everything, but solving things like locomotion and perspective will require solutions on the creative side.
+
+Sony and Google have the benefit of releasing their platforms on systems that they largely control. This raises a lot of questions for how Oculus and HTC are going to expand their horizons on mobile and console VR without just building a bunch more headsets. VR has been a space for the innovators, but as the big dogs join the game it might be tough to make a major dent without an established OS user base, at least until all-in-one headsets take off.
+
+One of the areas Oculus needs to make announcements in at its Oculus Connect 3 developers conference is the company’s renewed strategy for mobile. This goes beyond teasing positional tracking on Gear VR or any hardware upgrades. The window is rapidly closing for Oculus Home to establish a significant presence on mobile that moves beyond Samsung. They can either announce new partnerships in an effort to take on Daydream, announce ways that they can build Oculus Home into the Daydream experience or just throw up their arms and tease a best-in-its-class Gear VR and continue losing their mobile grip.
+
+HTC and Valve can likely afford to eek out the high-end and attract the VR nerds willing to drop a lot of money on Nvidia’s latest graphics cards (they really do need to share a mobile strategy as well), but Oculus should take its relatively high brand recognition and start shifting its high-quality VR experience on the PC to be optimized for consoles. Whether or not Microsoft’s 4K Project Scorpio Xbox One specifically taps the Rift to be its go-to compatible HMD, it’s difficult to imagine a VR future for Xbox in late 2017 that doesn’t at least incorporate Oculus.
+
+Oculus needs to lock-on to Xbox and create a meaningful partnership. Xbox likely has headset aspirations in its future but Microsoft is obviously focusing most of its talent towards HoloLens and Windows Holographic so this might be a better area for a partnership until they see whether the available user numbers make it a worthwhile investment.
+
+Virtual reality has a lot of potential to expand (and redefine?) social interactions, but other than simple telepresence with other headset wearers, not too many people know what that all looks like.
+
+With two years under Facebook’s watchful eye, it’s less clear than ever what the role of Oculus is in the parent company’s VR future. FB has been navigating virtual reality very, very carefully and has kept clear separation between the church of Oculus and the state of Facebook. Oculus needs to have its boundaries pushed a bit beyond gaming and earn some help from FB in experimenting with how to expand the bounds of social VR to connect headset and desktop experiences.
+
+The relaunch of the Rift as part of the release of the Touch controllers will give Oculus an opportunity to show off experiences that move beyond gaming, perhaps being able to bring your hands into VR will provide for richer social experiences on the Rift platform. Hopefully there are some announcements at OC3 regarding this. I would imagine Google has a bit to share on the topic of social VR as well.
+
+Other companies are doing cool stuff in the social space as well. Sony is experimenting with an interesting concept for PS VR called social screen, where VR headset wearers can play games with other people in the same room on the same system. This brings a level of interaction between gamers using headsets and “viewers” that hasn’t previously existed, lending the whole interaction more of a Wii Sports living room aesthetic than the bedroom loner narrative that’s being pushed more frequently.
+
+For companies in the virtual reality biz, this is going to be the month where things either become much clearer or much blurrier in terms of how your startup operates.
+
+VR is starting to move away from focusing only on the early adopters with infinitely deep pocketbooks towards early adopters that look a bit more like real live consumers. Mobile VR and console VR are going to be huge in gathering this interest, but what’s going to be more important is sustaining it for them with downloads that aren’t bite-sized variations of the “real” experiences being built for “real” VR run on $3,000 PCs.
+
+The VR hype cycle may currently be wading through the trough of disillusionment but with so many high-profile announcements on their way from powerhouses in the space, the end of 2016 may finally have a chance to live up to some of the hype.

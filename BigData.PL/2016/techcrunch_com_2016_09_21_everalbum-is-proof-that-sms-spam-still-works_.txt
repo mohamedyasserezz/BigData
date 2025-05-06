@@ -1,0 +1,107 @@
+Everalbum is proof that SMS invite spam still works
+
+Developers call it “growth hacking.” Recipients call it spam. The latest app to engage in the less-than-wholesome practice of asking users to text invite links to your entire contact list isEveralbum. The fast-growing photo-sharing and backup service climbed to the top of the iOS chartsearlier this yearahead of launching on Android, but later decided that organic growth and traditional advertising weren’t enough – it needed to grow bigger, and more quickly.
+
+The company, which is backed by $8 million in funding from Khosla Ventures, Felicis Ventures and Cherubic Ventures, is an alternative to iCloud, Dropbox, Google Photos or Facebook Moments, as it allows you to free up space on your device by archiving your mobile photos in its cloud storage service.
+
+However, the company has been facing steeper competition in recent months.
+
+The rapidly improving Google Photos just rolled out clever features likeits new automatic movie maker, whileFacebook added support for free storage of full resolution photos– something Everalbum had put a premium on via its paid service tier.
+
+This increased pressure may have prompted Everalbum to get a bit more pushy.
+
+The app now heavily encourages users to invite their contacts to try the app in return to more free storage for their own photos. To what extent users understand what they’re agreeing to is unclear, given their complaints. Those on the receiving end of the texts aren’t always all that thrilled, either, it seems.
+
+@everalbumwould you plz stop using ppl's contacts to send sms text msgs#spamwithout their consentpic.twitter.com/AAeHHBQ5qt
+
+— Y Spitz (@YSpitzTB)August 2, 2016
+
+https://twitter.com/keybuk/status/761290993110888449
+
+@everalbumplease stop spam texting me. I did not provide my phone # (you got it from someone else's address book)pic.twitter.com/M3BtHOFhJH
+
+— Colette Weintraub (@rockisagirlsbff)August 23, 2016
+
+https://twitter.com/chronictonic/status/773208490043211776
+
+@everalbumJust a tip, spam texts are not a good way to get people to want your app It just made me mad 😡😡😡pic.twitter.com/voQvR1GXNQ
+
+— Kaycee Bennett (@kaycee1973)September 6, 2016
+
+https://twitter.com/aricajones/status/768154568228163585
+
+I'm getting SMS spam at 5 am saying a person I don't know invited me to look at MY album on everalbum. Woke me up twice.
+
+— Arie (@CoogieEx)August 21, 2016
+
+Ever: Free Up Space & Spam People You Barely Knowhttps://t.co/UTHSeJxYaQ@everalbum@AppStore#EverSpam#malwarepic.twitter.com/ox3MhZd5AL
+
+— ITJohn (@pierow2k)September 17, 2016
+
+All of the app’s negative reviews on the app stores, as well aselsewhereonsocial media,Reddit, and thewiderweb, seem to imply that the users felt tricked or that their contact list was stolen from them, and texts were sent out without their consent.
+
+We took a look at the app to see if it was doing anything unusual, however. As it stands today, the current version of the app makes it pretty clear what Everalbum intends to do.
+
+It promises “1 GB of storage per invite sent.”
+
+If you click the big “Get Free Storage” button, then you’re asked to agree to let Everalbum access your contacts. And sure, all your contacts are checked by default and the “Deselect All” button is grayed out to make it less obvious how to opt out, but it’s still possible to do so.
+
+Of course, if you continue too quickly and press the button the app’s designencouragesyou to push –a big, blue “Get Free Storage” button at the bottom of the screen – you’ll have mass spammed your entire contacts list.
+
+Some users don’t seem to realize what they’ve done after clicking through.
+
+It’s also possible that Everalbum has iterated on this screen and the version we see now is more transparent than one used previously, but there’s no proof of that.
+
+One lawyer who’s looking investigating Everalbum for TCPA violations, Marc Phelps, says he has talked with customers who claimed the app used to invite everyone in their contact list without permission, but that has since changed in the new version. But again, this is based on users’ recollections, not screenshots.
+
+The TCPA, or Telephone Consumer Protection Act, requires consent in writing from a recipient of any marketing SMS messages. Everalbum may or may not be getting the consent of the sender, but it’s definitely not getting the recipient’s consent.
+
+That said, TCPA claims have not held up in court. Courts have dismissed TCPA suits againstWhisperText,Shopkick,Life360,Lyft, and others, because the app’s users have to affirmatively agree to invite their friends by selecting them in the app, as is the case with Everalbum today.
+
+But Phelps believes if the app wasn’t asking permission in a prior version, there may be room to sue. He says the firm has not filed yet, however.
+
+Regardless of the legality, relying on growth tactics like this can be risky for startups.
+
+Users don’t tend to read through onboarding screens that well, and often allow themselves to be guided by the user interface – something we’ve learned to do after spending years on PCs clicking “next” to install software or bypass EULA’s.
+
+In Everalbum’s case, the growth hack has backfired in terms of social media buzz. A number of people are now warning others that the app is spam and malicious. They say it embarrassingly texted their entire contact list, or they’re apologizing for the spam they inadvertently sent out.
+
+Sorry about the spam text that everyone received from me for something called Everalbum. Keep calm and carry on!
+
+— lindsay kaye (@Lkaye333)September 15, 2016
+
+PSA: I accidentally blasted out an invite for an app called Everalbum. Please consider it spam and disregard. The…https://t.co/iC3UdXbLEc
+
+— Jack Hunter Cohen (@jackhuntercohen)September 10, 2016
+
+What’s worse is that the links sent to the unwitting recipients of those texts have been misleading.
+
+In some cases, the invite text simply states: “[Inviter’s name] gave you access to views photos onEveralbum. Click here: [link].”But other times the text threatens that the link would expire if it wasn’t clicked in a certain amount of time, or says you should click it to “check out your photos.”
+
+Meanwhile, the app’s user never really shared photos in Everalbum to begin with – they were just trying to get more free storage, or just trying to get through the setup process.
+
+Unfortunately, tactics like this – at least, temporarily – can work.
+
+The change to Everalbum’s onboarding process appears to have rolled out sometime this summer, based on social media complaints.
+
+In mid-July, the app was #967 Overall on the App Store, but then shot up to #28 Overall on August 1st. Throughout September, it remained in the top 20 or 30 Overall on the App Store, only more recently dropping back to the 100’s.
+
+You’ve probably seen it yourself when browsing the “Top Charts” section on the iTunes App Store.
+
+This growth can be attributed to the wide-scale texting campaign.
+
+Everalbum’s co-founder, Andrew Dudum, sees no problem with the invite system.
+
+“Like many other companies including Dropbox, Uber and LinkedIn we have an invite-based referral system that lets people invite friends to unlock Premium value,” he tells us. “This has been a standard practice in the industry for years, dating back to how Dropbox initially got its start by enabling users to unlock free space if they invite their friends.”
+
+The difference is that others’ invite systems are typically optional areas within their apps. They’re places where users can grab links and choose to share them with friends or on social media. But Everalbum makes SMS invites part of its onboarding process – something you might accidentally click on before you’re even using its service.
+
+This is just not how top apps do things –check out this archive of onboarding screens in other big-name applications, orthis one,for example.
+
+Above: Other apps’ invite systems
+
+“We don’t ever upload contacts or send messages to people not invited by friends,” Dudum points out. “There are definitely a small minority of people who rush through app screens, ignore dialogs and text. We’re constantly working to improve the experience to be as efficient and transparent as possible for users.”
+
+While Everalbum doesn’t seem to be doing anything that will be deemed illegal in court, making invites a part of onboarding isn’t very cool, either.
+
+If an app is worth using, people will invite their friends on their own – not because they clicked the wrong button during setup.

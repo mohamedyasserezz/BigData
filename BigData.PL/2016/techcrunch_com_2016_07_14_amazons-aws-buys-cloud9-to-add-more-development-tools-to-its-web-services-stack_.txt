@@ -1,0 +1,21 @@
+Amazon’s AWS buys Cloud9 to add more development tools to its web services stack
+
+Amazon Web Services has made an acquisition to continue building out the services that it offers around and on its cloud storage platform. It has boughtCloud9, a San Francisco-based startup that has built an integrated development environment (IDE) for web and mobile developers to collaborate together.
+
+The news wasmade public by Cloud9 itselfin a statement on its site, which also says that the company will continue to offer its existing service while it also works on building new tools for AWS.
+
+“We’re excited to let you, our users and customers, be among the first to learn that we have been acquired by Amazon! We will be joining the Amazon Web Services family, and we’re looking forward to working together on terrific customer offerings for the future,” co-founder Ruben Daniels writes. “In the meantime, you’ll still be able to depend on and continue to invest safely in Cloud9. It’s still business as usual—we’ll continue to work with our Ace Open Source community and to provide our innovative services to you and our hundreds of thousands of customers worldwide. Over time, we’ll work with AWS to do even more on your behalf.”
+
+Founded in 2010, today Cloud9 supports some 40 different programming languages and lets remote teams work together to develop and edit code (with an option of using its online code editor or an Ubuntu workspace) and then test that code across some 300 different combinations of browsers and operating systems.
+
+Considering how geographically spread out today’s teams can be, services like this become essential for working. Customers that already use Cloud9 include Soundcloud, Atlassian and Salesforce. The service wasbuilt around a freemium model, with free, $19/user/month, $29/user/month and “enterprise” (priced based on size) tiers that include increasing amounts of features. It’s not clear how pricing will change under AWS, which has traditionally lured in developers with extremely competitive pricing, banking on scale to rake in the revenues.
+
+And that has been a winning combination so far. AWS is one of the big business generators at Amazon — last year, when itpassed 1 million active users it also passed $7.3 billion in sales— and so it makes sense for AWS to add in more services to increase the amount of money it generates from its existing users.
+
+It’s potentially bad news for other third-party IDE providers like Nitrous and Koding, however: AWS, along with Azure from Microsoft, is one of the more popular cloud platforms for mobile app and other startups to host and deliver their services, and having Cloud9 be a part of that will likely make the workflow between this particular IDE and AWS more seamless.
+
+Others that compete in this area includeMicrosoft, as well as potentially Slack, which is used for collaboration and last yearacquired Screenhero, which lets developers share their screens as one way of bypassing using separate coding environments.
+
+Cloud9 had raised just over $5 million from investors that included Accel and Balderton according toCrunchBase. That’s a relatively modest amount in the Valley.
+
+Terms of the acquisition were not disclosed but we’re trying to find out. And we’ve also reached out to Amazon for a direct confirmation of the deal.

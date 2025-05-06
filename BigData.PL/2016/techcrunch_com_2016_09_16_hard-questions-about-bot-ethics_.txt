@@ -1,0 +1,57 @@
+Hard questions about bot ethics
+
+Botsare becoming a part of our life. I wake up in the morning and tell Alexa to play my Brazilian samba, I let Amy set my meetings and I check stats and reports in Slack.Botbuilders and users alike are starting to understand thatbotsare an integral part of our life. But what are the rules that govern these new tech friends?
+
+One bigquestionthat people should ask, but often don’t, is “Does thisbotserve me, or the service provider?” In other words, “Does thisbothave MY interests at heart, or someone else’s?” Will the food-orderingbotrecommend the pricey/low-quality items or the best-priced and quality food? Will the HRbotserve me or the company? Will the insurancebottry to facilitate me claiming the money or try to prevent it?
+
+There are also IP issues here: Who owns the materials/photos created by abotthat merges your photos into a collage? Who owns your shopping preferences?
+
+Having a personal assistant-bothints toward user ownership, while talking to a representative-bothints toward service-provider ownership. Users and service providers can’t always tell the difference, and more often than not just assume and do not think about this topic. Think about your Gmail or your photos on Facebook — who owns the data? The samequestiongoes for ourbots.
+
+My take on ownership  —  I think there are cases in which user ownership makes sense, and others where it is clear that the service provider should claim ownership.
+
+The key is to be very clear and transparent about who owns what and what are the terms of service the users are opting into.
+
+Regardless of ownership, there is the matter ofprivacy—  can abotshare information with otherbotsor human overseers? Should information be anonymized? Do users have the right to be forgotten? Basically, is there a user-botconfidentiality agreement?
+
+My take on privacy  —  I think that, unless stated otherwise, there is an implied confidentiality agreement in which thebotis mandated to keep your personal and private information confidential (Chris Messinapointed out to me some exceptions, like law enforcement or threats of self-harm). Transparency is key here as well  —  when submitting abotto Slack, we require developers to create a privacy policy and to make it publicly available.
+
+In general,botsbuilders should keep user information private as much as possible.
+
+This is a subset of privacy and ownership, and a very important topic to discuss.Botbuilders are still exploring ways to monetizebots…so  can abotserve you ads? Can thebotuse data you provided, either directly or through the API, to optimize these ads for you?
+
+My take on ads  — I think abotshould not serve ads unless it has a strong, express purpose that benefits the user in doing so, and even then only on B2C platforms. I would hate to seebotsbecoming the new tracking pixel.Botsshould not be prompting users to click on things and buy things unless explicitly asked to do so.
+
+This topic probably needs an article of its own. Because of the conversational nature ofbots, they are much more prone for abuse. In abotbuilders’ gathering called Botness, mostbotdevelopers claimed that people try all kinds of abuse, from cursing thebotall the way to hitting on thebot.
+
+This is a loaded topic, and is actually bi-directional.
+
+Arebotsjust like any other objects? Are they the new “punching bag” of the modern world? Should humans curse and abuse abot?
+
+My take on abotbeing abused — I think there is a subtle difference here between “can abuse” and “should abuse.” At least until AI develops personality and feelings, you can not really abuse abot, thebotdoes not care and your curses will most likely be filtered alongside other gibberish you might type. I do think that as a society we should not abusebots. I think that as humans, abusingbotswill make us more prone to abusing other humans, and that is clearly bad.
+
+Humans should treat services with empathy  — losing empathy is generally a poor trend for humanity. Developers should ignore or have a polite canned response to any abusive language.
+
+Canbotsspam or harass humans? Can abotharm a human? Or even answer back? Should abotcurse back? Does software have a right to defend itself?
+
+My take onabusivebots—  I have alreadywritten about the fact thatbotsshould not harm humans;this includes spam, harassment and any other form of hurt. I think that untilbots, through AI, become sentient, there is no justification forbotsto defend themselves from this type of abuse (not talking about security). Moreover, I think answering is not the most effective way to make humans less abusive; simply answering “I can not handle that request” or just ignoring human abuse might be more effective UX.
+
+In general, I think empathy in conversation interfaces should be one of the pillars ofbotdesign and a common best practice.
+
+Should thebotbea femalebotor a malebot? Should we have racially diversebots? Should we have religiously diversebots?
+
+My take on gender and diversity — I think developers should think about diversity veryhard. Somebotdevelopers think thatbotsshould not have gender —  while this might work in English-speaking countries, it does not work in many other languages. In many languages everything has a gender  —  you can not refer to an object or a person without notating a gender. So, while in Englishbotsmight be “it” —  in most of the world it can not.Because conversational UI implies a person on the other side, users may want to try to place thebotsomewhere on the gender spectrum (as well as other diversity attributes).What should developers do? I think that, when applicable, developers should provide the user the choice to pick thebot’s gender (and other diversity attributes). An example of that isx.aiwith their Amy/Andrewbotconfiguration.Human-bot/bot-human impersonationAm I talking to abotor a human? Is thisbottrying to act like a human? Should the user know/care about the fact they are talking to humans or software?My take on impersonation  —  I think there are major use cases, from health to finance, where it is super important for the end users to know if they are talking to a human or abot.In general, I think transparency is the best practice, and humans should not (as general guidance) impersonate abot,and vice versa.Transparency and empathy as a cure to all maladiesMost of thesequestionsare not addressed today by the industry. This is not because of bad intents, it is because of lack of awareness. With empathy and transparency, developers can address these issues and provide users with a delightful andethicalexperience.
+
+My take on gender and diversity — I think developers should think about diversity veryhard. Somebotdevelopers think thatbotsshould not have gender —  while this might work in English-speaking countries, it does not work in many other languages. In many languages everything has a gender  —  you can not refer to an object or a person without notating a gender. So, while in Englishbotsmight be “it” —  in most of the world it can not.
+
+Because conversational UI implies a person on the other side, users may want to try to place thebotsomewhere on the gender spectrum (as well as other diversity attributes).
+
+What should developers do? I think that, when applicable, developers should provide the user the choice to pick thebot’s gender (and other diversity attributes). An example of that isx.aiwith their Amy/Andrewbotconfiguration.
+
+Am I talking to abotor a human? Is thisbottrying to act like a human? Should the user know/care about the fact they are talking to humans or software?
+
+My take on impersonation  —  I think there are major use cases, from health to finance, where it is super important for the end users to know if they are talking to a human or abot.
+
+In general, I think transparency is the best practice, and humans should not (as general guidance) impersonate abot,and vice versa.
+
+Most of thesequestionsare not addressed today by the industry. This is not because of bad intents, it is because of lack of awareness. With empathy and transparency, developers can address these issues and provide users with a delightful andethicalexperience.

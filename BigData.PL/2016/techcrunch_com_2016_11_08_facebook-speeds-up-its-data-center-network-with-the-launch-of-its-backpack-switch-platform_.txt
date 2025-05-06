@@ -1,0 +1,11 @@
+Facebook speeds up its data center network with the launch of its Backpack switch platform
+
+Facebook is on a mission to make the fiber optic networking inside of its data centers go from 40G to 100G. ItsWedge 100top-of-rack network switch (basically, the device that connects all the servers in a rack to the wider data center network) was already accepted into the Open Compute Project and today, the company lifted the veil of Backpack, its next-gen 100G switch platform for connecting all the racks inside of the data center together.
+
+As Omar Baldonado, Facebook’s Director of Software Engineering for Networking, told me, the company is looking at this faster networking technology for a number of reasons, but it’s mostly driven by the need to be able to support more live and recorded video, as well as 360 photos and video. Facebook’s own internal data center traffic also continues to increase as developers look at new ways to gather analytics and use that data to improve the user experience.
+
+100G, however, is still very much at the leading edge of high-speed networking. Facebook is obviouslynotthe only company working on this. LinkedIn, for example, has also recentlytalked abouthow it plans to take its data center in Oregon to 100G in the future. Unlike others, though, Facebook is committed to opening up the designs of its servers and networking technology — and the software that power them — for the rest of the industry.
+
+As Baldonado noted, one issue with going from 40G to 100G is that these new devices are significantly more power hungry and harder to cool (“Think of it like overclocking a gaming PC,” he said). “We want to play at those high speeds but we need to do it in a way that works across all of our data centers,” Baldonado told me. “We’ve been working with the whole industry ecosystem — server vendors, NIC manufacturers, fiber manufacturers — to get this to work at our scale.” While the Backpack may offer 2.5x the capacity of the older “6-pack” switches, they can’t consume 2.5x as much power, after all.
+
+Facebook plans to contribute the design of the new Backpack switches to the Open Compute Poject as well. It’s currently starting to slowly roll out the Backpack to its data centers as it goes through its internal testing procedures.

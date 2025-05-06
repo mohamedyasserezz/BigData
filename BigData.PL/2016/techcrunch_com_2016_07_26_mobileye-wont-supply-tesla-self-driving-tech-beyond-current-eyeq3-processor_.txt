@@ -1,0 +1,13 @@
+Mobileye won’t supply Tesla self-driving tech beyond current EyeQ3 processor
+
+On theirquarterly earningscall this morning, self-driving automotive technology company MobileEye announced that Mobileye’s work with Tesla will not extend beyond EyeQ3, the processor currently used in Tesla vehicles to provide the image analysis intelligence that enables Tesla’s driver-assisted autonomous tech
+
+Mobileye CTO Amnon Shashua explained on the call that the company will continue to work with Tesla on improving the performance of EyeQ3 in use in Tesla cars, and suggested that concern around reputation regarding the safety of Mobileye’s tech, which is a clear reference to the fatal Autopilot crash earlier this year, though he didn’t cite the accident directly. He also didn’t expressly state whether Mobileye or Tesla ended the relationship.
+
+Shashua also said that the company believes achieving true autonomy means going “beyond typical supplier relationships,” wherein a client just purchases support and service, and requires a true partnership between car makers and autonomous technology companies like Mobileye.
+
+“EyeQ3 shipments will continue for the near future, and maybe for the longer future,” Shashua explained on the call regarding the discussion. “We simply decided where we wanted to put our resources for the future of autonomous driving… and we decided what we decided.”
+
+An analyst questioned Shashua on the call regarding who initiated the separation, but the CTO declined to offer any additional clarity beyond the original statements, simply reiterating that Mobileye decided not to proceed. Mobileye also said on the call that Tesla’s business is “not material” to its bottom line in terms of a percentage of overall revenue.
+
+The hesitation on clarifying how exactly the relationship ended is interesting given reports that Musk and self-driving solo engineer George Hotz (aka Geohot) exchanged emailsabout Hotz coming in-houseto help Tesla develop its own self-driving supply stack. We’ve reached out to Tesla for additional info on how the Mobileye partnership wound down and will update if they provide more detail.

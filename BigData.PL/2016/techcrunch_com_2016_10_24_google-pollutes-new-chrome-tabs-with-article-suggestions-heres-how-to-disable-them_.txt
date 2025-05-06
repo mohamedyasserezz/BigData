@@ -1,0 +1,15 @@
+Google pollutes new Chrome tabs with ‘article suggestions’ – here’s how to disable them
+
+You know what people love? When you take something familiar and useful and replace it with content “for you” that you actually didn’t ask for. That’s one of the more visible changes in thelatest version of Chrome for Android, which swaps out the bookmarks and recently visited items (above) on the new tab page for “suggested articles.”
+
+I don’t know about you, but I open a lot of new tabs every day, and I appreciated the utility of the old new tab page as much as I dislike the idea of Google constantly guessing at what I might want to read. And while it may be a nice optionto opt into, it’s a bit much for Google to just push this content, which for all we know is sponsored, onto every new tab on mobile.
+
+Do you like it? Nice, enjoy! But if not, don’t fret: it’s (relatively) easy to disable, as Android Police reader Mattshows us.
+
+All you need to do is change two hidden settings. Copy each of the links below (you can trust me) and paste them into new tabs. Each will bring up a complicated-looking settings page, with one item highlighted at the top. Tap the little drop-down menu, which probably reads “default,” and select “disabled.”
+
+Don’t touch the other stuff unless you know what you’re doing — some of these are important. It’ll prompt you to restart Chrome after you make these changes — do so and you should be back to the old new tab page.
+
+Even if you aren’t seeing the suggested articles feature yet, you should be able to preemptively disable it this way if you’re on a recent version of Chrome. Just switch things back to “default” if you want to give the feature another go.
+
+Google will likely add a better way to do this in the future, but for now this is how it has to be done.

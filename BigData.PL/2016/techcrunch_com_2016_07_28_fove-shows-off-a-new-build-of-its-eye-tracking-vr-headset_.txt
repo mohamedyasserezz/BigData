@@ -1,0 +1,13 @@
+Fove shows off a new build of its eye-tracking VR headset
+
+Fove showed off a new design for their eye-tracking VR headset in anannouncementon their company blog. The Disrupt SF Battlefield 2014 alum is aiming to have headsets start shipping in fall 2016 for its Kickstarter backers.
+
+The headset design has lost much of the wispiness of its Kickstarter prototype design. This was done in an effort to reduce the weight of the headset and improve its wearability. The company also noted that the more understated design will boost production efficiency.
+
+Production has been a bit of an issue for the small startup aiming to build a high-quality HMD that rivals efforts from Oculus and HTC. Due to delays caused by part-sourcing, the company was forced to push back their expected delivery date from spring 2016 to fall 2016. Perhaps more critically, Fove also announced that the headset would be losing integration with Valve’s Lighthouse system which powers positional tracking on the HTC Vive in favor of its own system.
+
+What distinguishes this headset from all the nerd face computers though? This is the first VR headset to directly integrate eye-tracking sensors into the headset to monitor a user’s gaze. The technology can revamp processes for how users navigate interfaces, but it also has the potential to alter gameplay and in-headset communication.
+
+In the future, ridiculously high-resolution headsets will see performance boosts from eye-tracking by way of foveated rendering, a technology that allows the display to simulate depth-of-field and keep the highest resolution images confined to the center of a user’s gaze.
+
+Eye-tracking is generally seen by most in the industry as a key feature for the next-generation of high-end headsets so Fove may not be the only VR player with the distinguishing feature for long. Eye-tracking tech veteran SMI has already shown of an eye-tracking dev kit for the HTC Vive and there are a number of other eye-tracking companies including Tobii and Eyefluence who claim to be working with VR headset manufacturers on next-gen devices.

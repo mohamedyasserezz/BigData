@@ -1,0 +1,43 @@
+How peer-to-peer payment app Cookies imploded
+
+Only a couple of months afterthe official launch, German startup Cookies announcedon its blogthat it is filing for bankruptcy.
+
+According to the blog post and discussions I had with multiple sources, the startup is filing for bankruptcy due to an argument between the co-founders and a lack of funding. Based on what I’ve heard, there are clearly two sides to the story here.
+
+This summer, around theproduct launch, there were a bunch of internal issues at the company. The launch was late, the company was running out of money and investment discussions weren’t going anywhere. It put a lot of pressure on the founding team, with investors urging the team to ship so the company could raise another round. And it led to a big fight between the co-founders.
+
+The board, including co-founder and head of product Lamine Cheloufi, and activist investor Ehssan Dariani, teamed up to fire other co-founder and head of business Garry Krugljakow. This is when things got ugly.
+
+Lawyers got involved, and the entire process dragged on and on, leading to a complete deadlock. Moreover, the company still needed money to keep operating. Cookies had raised$1.6 millionin November 2015 and hired enough people to burn all this cash.
+
+But Cookies also couldn’t raise money because all the shareholders needed to sign the papers for an eventual new funding round. So while the two issues were unrelated at first, they became intrinsically connected in a sort of vicious circle.
+
+Depending on the person you’re talking to you get two different takes on the same episode. The decision to remove Krugljakow from the company’s management team can be seen as either a hostile takeover or blackmailing due to the deadlock.
+
+It’s clear that nobody was right in this situation, and that the board should have thought this through before leading the company to a dead end. Firing Krugljakow and getting back his shares before raising money seems like a greedy move as most investors will back off from any potential investment deal once they’re in the due diligence process. Firing Krugljakow right after raising wouldn’t have been very courageous either.
+
+I’ve seen a few companies with a co-founder leaving the company. But the co-founder needs to leave properly. A good way to do this is by allocating a portion of a funding round in order to cash out some money for this co-founder. Then, the two co-founders can part ways amicably. Sure, it’s an expensive move. But it’s always better than crashing a company.
+
+As for the co-founder who is pushed out of their own company, sometimes it’s for good reasons, sometimes it’s pointless (and often the investors are to blame). But a gridlock is never a good way to protest a board decision.
+
+I don’t think I can judge what happened internally at Cookies. Maybe Krugljakow couldn’t deliver on the business side, maybe it just wasn’t the right fit between Cheloufi and Krugljakow. It’s hard to know without working with them every day. It doesn’t really matter now that the company has filed for bankruptcy.
+
+When it comes to product, Cookies launched a mobile app that was supposed to make it much easier to send money to your friends and family in Europe — think about it as a sort ofVenmofor Europe. It was free, fast and convenient. There are many European competitors working on peer-to-peer payments as well, such asLydia,VerseandRevolut.
+
+With Cookies, Ithoughtthe user experience was polished and promising. Compared to many competitors, you entered your online bank account information to plug Cookies into your bank account directly. In addition to this basic payment feature, I could see Cookies becoming a sort of hub for all your bank accounts, letting you move money around and use other fintech services.
+
+There were two other specific features that made Cookies stand out from similar products. First, you could opt for a super payment, meaning that your recipient was going to see the money in their bank account in less than two hours. The money wasn’t just available in the Cookies app, it was already in your bank account.
+
+Second, Cookies wasn’t a traditional wallet app. You couldn’t keep money on Cookies. Whenever you sent or received money, the amount was credited or debited straight from your bank account. This isn’t a groundbreaking change, but not having to remember whether you have money on Cookies is a nice feature.
+
+And yet, all of this work isn’t going anywhere.
+
+Here are a few lessons based on all the tough calls I had this week when digging on this story and listening to what everyone told me. When you choose a co-founder you have to do the most important due diligence process of your life. Too many startups fail because the relationship falls apart.
+
+When you raise money, be careful with your board members. Obviously it’s hard to get to know your investors when you’re raising as things should be going well for you in this period of your startup life. You’ll know if you have great investors when they make the right decisions when it’s getting tough. The last thing you want is an investor who’s working against the company’s best interests because things aren’t going well.
+
+Finally, always think about the consequences of your irrational behavior, whether you’re starting a war against a co-founder or blocking important decisions that could keep your company afloat.
+
+Fighting sucks. But fighting to the death to be the king sucks even more. When the kingdom falls, nobody wins.
+
+Editorial help: Natasha Lomas

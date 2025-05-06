@@ -1,0 +1,19 @@
+Innoviz takes $9M to put the squeeze on solid state Lidar
+
+The accelerating drive to get autonomous cars on the road is being accompanied by a parallel push to improve Lidar technology, aka the 3D laser-based sensors that can be used for real-time mapping and navigation for vision systems in driverless cars.
+
+Shrinking Lidar sensors, engineering out moving parts to beef up robustness and squeezing the per unit cost are seen as key steps to pave the way for volume production of commercial driverless cars.
+
+MIT and Darpa are even working onLidar on a chip, which they claim could shrink costs to $10 per sensor in future and allow for sensors to be housed on robots’ fingertips in future. But we’re not there yet.
+
+Israeli startup Innoviz Technologies, founded earlier this year, is a new entrant in the space, coming out of stealth today to announce a $9 million Series A funding round (closed in February), with the aim of getting a prototype of its solid state Lidar completed and demoed publicly by the end of this year (they claim it’s working internally at this nascent stage).
+
+They’re penciling in a timeframe of mid-2018 for a mass production ready product.
+
+Early this year another startup, US-basedQuanergy, announced its forthcoming solid state Lidor would cost $250 or less at volume production levels. Although it’s not yet in the market, with the company previously aiming to have a preproduction version of the sensor ready by this September, and penciling in delivery to OEMs in early 2017.
+
+Innoviz says it’s aiming for a price-point below $100 for its solid state Lidar (also, it confirms, at volume production levels) — by reducing components to shrink costs. Size wise, they reckon they can get it smaller than 5cm x 5cm x 5cm. Although they are also not disclosing any details about their core tech at this point, saying only that they took “a different technical approach” to the scanning element of Lidar vs Quanergy and MIT.
+
+Beyond developing their prototype, and slating an enhanced performance/cost version for the middle of next year, Innoviz is spending to expand its team to develop complementary products for the hardware — including software for mapping and localization, object detection and tracking and sensor fusion.
+
+Investors in its Series A include entrepreneur and co-founder Zohar Zisapel, along with Israeli VC firmsVertex Venture Capital,Magma Venture Partners,Amiti Venturesand local car retail company Delek Motors.

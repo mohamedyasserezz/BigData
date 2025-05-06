@@ -1,0 +1,33 @@
+Rex Animal Health is using genomics to keep livestock healthy
+
+A startup calledRex Animal Healthwants to protect livestock from illnesses that can quickly turn into epidemics, and help farmers breed animals with the healthiest and most attractive traits.
+
+Today atDisrupt SF, Rex unveiled technology to help veterinarians provide clinical support at the point on the farm, and predict the genetic causes of problematic traits in their herds, and in the diseases effecting them.
+
+According to CEO Amado Guloy, his company didn’t start out this way. The pet parent of a sick dog, he set out originally to build something like “Zocdoc for pets,” he said, to help people find and schedule appointments with veterinarians.
+
+But as a chemist by training, andTechstars-backed entrepreneur, he soon saw a much larger market opportunity in bringing data analytics and genomics to the farm. The company pivoted in 2015.
+
+Today, Rex Animal Health’s platform lets the people who raise cattle, pigs, chickens and any other animals in the food supply chain keep a digital record of their health issues, even converting notes on paper into digital data.
+
+The platform tracks which animals experience symptoms, which animals suffered from a veterinarian-diagnosed health problem and when, as well as the treatment measures taken, outcomes and associated costs to the business.
+
+Rex Animal Health standardizes the data to make comparisons and calculations easy.
+
+The company also conducts genomic and phenotype analysis, and gives farmers “weather maps,” or epidemiological maps, showing which viruses, bacteria and other health problems are sweeping a region.
+
+With these maps, the farmers and veterinarians who work with them can prioritize lab testing of their animals, and rule out or diagnose locally prevalent issues quickly.
+
+Over time, the company will combine electronic health records of animals with genomic data about both animals and the pathogens effecting them.
+
+“What we have is a genotype and phenotype database that nobody has built before, and that could help solve problems around disease transmission and sustainability in the global food supply,” Guloy said.
+
+Data could also help pharmaceutical companies speed drug development to stop recently mutated viruses or bacteria effecting livestock. And it could influence animal husbandry.
+
+If a bull consistently sires calves that wind up producing a lot of milk, for example, or a heifer and her offspring seem to never be affected by respiratory viruses, Rex Animal Health can use the data it’s amassed to track down the causal genes affiliated with these positive traits, the CEO explained.
+
+Knowing which animals have illness resistance and yield good milk and meat would encourage breeding of both into a kind of super herd.
+
+The company, which earlier raised bout $270,000 in seed money from Techstars and 500 Startups, is hoping to raise additional venture capital to expand its own genetic sequencing capability and hire more employees.
+
+They are competing against other startups bringing genomics and data science to farms, including Metabiota and Trace Genomics.

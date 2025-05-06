@@ -1,0 +1,13 @@
+Verizon acquires SocialRadar to buff up MapQuest’s location data
+
+We got word earlier today that Verizon had acquiredSocialRadar, a mapping startup founded byBlackboardco-founderMichael Chasenthat promises to provide its users with far more accurate location data for businesses — down to where exactly a door is. Reached by phone, Chasen confirmed the acquisition.
+
+Verizon, the corporate parent of TechCrunch and AOL, will use SocialRadar’s technology inMapQuest. While you may not spend a lot of time thinking about MapQuest these days (or print out its directions to take on road trips), it’s still one of the biggest online and mobile mapping services on the market. Beside its consumer tools, it has a thriving B2B business and a very large number of developers who use its data in their apps.
+
+As Chasen, who sadly declined to divulge the purchase price, told me, the company talked to a number of potential acquirers after itlaunched its mapping SDKearlier this year. One of those companies was Verizon/MapQuest, but early on, the conversations mostly focused around licensing.
+
+Washington, DC-based SocialRadar will keep its existing offices, but the team is already working closely together with the MapQuest team in Denver and other AOL offices to integrate its data and services with MapQuest’s existing tools. Chasen told me he is especially excited about getting his service into the hands of millions of consumers and developers. He also noted that MapQuest’s reach into the developer community will mean that many mobile apps will soon be able to offer far more accurate and responsive location-based features. “We always wanted our tech to be used by as many people as possible,” Chasen said.
+
+SocialRadar previously raised $12.5 million in aSeries A roundled by New Enterprise Associates and Growth Tech Ventures. At the time it raised this money, though, SocialRadar was still focused on building a location-based app. As the team built that service, though, it realized how bad the existing location data was. Using street-level imagery, some human interaction and proprietary algorithms, SocialRadar can pinpoint exactly where a business is located (so your Uber driver doesn’t try to drop you off in the alleyway behind TechCrunch’s offices, for example).
+
+At the time of the acquisition, SocialRadar had six employees. They are all moving to Verizon now.

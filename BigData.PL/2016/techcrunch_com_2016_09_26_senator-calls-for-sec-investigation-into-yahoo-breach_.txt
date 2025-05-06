@@ -1,0 +1,23 @@
+Senator calls for SEC investigation into Yahoo breach
+
+Yahoo’s announcement last week that data from 500 million user accounts had been stolen in 2014 by what it called a “state-sponsored actor” certainly alarmed Yahoo’s users and its new bosses at Verizon. But now it seems that eyebrows were raised in the Senate as well.
+
+Senator Mark Warner, a co-founder of Nextel and a former startup investor, has called on the Securities and Exchange Commission to investigate whether Yahoo properly notified the public and its investors of the massive security breach.
+
+The timing doesn’t look good for Yahoo.
+
+As Warner notes in his letter to SEC chairwoman Mary Jo White, press reports indicate that Yahoo CEO Marissa Mayer knew about the breach as early as July, when the company was still finalizing itssale to Verizon. (Disclosure: TechCrunch is owned by AOL, which is owned by Verizon.) By law, Yahoo should have disclosed the breach to the public and its investors within four days, but the company didn’t notify Verizon until September 20 and told its users two days later.
+
+“The public ought to know what senior executives at Yahoo knew of the breach, and when they knew it,” Warner wrote in his letter. “I encourage you to investigate whether Yahoo and its senior executives fulfilled their obligations to keep investors and the public informed, and whether the company made complete and accurate representations about the security of its IT systems.”
+
+In August, TechCrunch heard rumors of a significant Yahoo breach and asked the company about it. A spokesperson for Yahoo told us at the time, “We are aware of a claim. We are committed to protecting the security of our users’ information and we take any such claim very seriously. Our security team is working to determine the facts. Yahoo works hard to keep our users safe, and we always encourage our users to create strong passwords, or give up passwords altogether by using Yahoo Account Key, and use different passwords for different platforms.”
+
+But on September 9, Yahoo said in a proxy statement, “To the knowledge of Seller, there have not been any incidents of, or third party claims alleging, (i) Security Breaches, unauthorized access or unauthorized use of any of Seller’s or the Business Subsidiaries’ information technology systems.” That statement simply isn’t accurate, since Yahoo told us a month earlier that they were aware of just such a third party claim.
+
+“Yahoo’s September filing asserting lack of knowledge of security incidents involving its IT systems creates serious concerns about truthfulness in representations to the public,” Warner said in a statement.
+
+Although it’s fairly common for large breaches to go undetected for years (years-old hacks of Tumblr and MySpace only surfaced recently), Yahoo’s claims about security this summer don’t seem to line up. It’s just one of Yahoo’s security struggles —the company lost several C-level security executivesprior to its sale.
+
+Warner is asking the SEC to investigate Yahoo, but he’s also asking the SEC to look into why more major companies aren’t disclosing cybersecurity problems. “Since published reports indicate fewer than 100 of approximately 9,000 publicly listed companies have reported a material data breach since 2010, I encourage you to evaluate the adequacy of current SEC thresholds for disclosing events of this nature,” he wrote.
+
+Additional reporting by Ingrid Lunden.

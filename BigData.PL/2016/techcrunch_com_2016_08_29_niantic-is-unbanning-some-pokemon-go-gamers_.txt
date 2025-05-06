@@ -1,0 +1,21 @@
+Some Pokémon Go players given lifetime bans are being let back into the game
+
+Did you get banned from playing Pokémon Go after downloading an app that you thought might make the game more fun? Well, it turns out that you might be able to get back into the smash hit title after all.
+
+A couple of weeks ago,Pokémon Go-maker Niantic Labs vowed to crack down on cheaterswith “lifetime” bans for those who used third-party “add-on” apps to get ahead of the rest of us. Now, however, it has backtracked a little and said it will overturn the bans for “a small subset” of users who may have unwittingly broken the rules.
+
+Niantic said in an update this weekthat some users who downloaded unauthorized apps, such as location spoofers or others that scrape data, “may not have realized that some add-on map apps do more than just show you nearby Pokémon.” Though they are giving these gamers the benefit of the doubt, particular sincethe “nearby” tracker was removed from the gamefor a while, they will be banned if they resort to using any third-party apps in the future.
+
+This application of leniency is indeed limited.The add-on apps themselves are not being unbannedbecause, Niantic said, they place considerable load on the already stressed Pokémon Go servers — and then there’s the fact that they give an unfair advantage to those who downloaded them.
+
+“Our main priority is to provide a fair, fun, and legitimate experience for all players, so, aggressive banning will continue to occur for players who engage in these kinds of activities,” Ninatic said in a statement.
+
+There you go: you have been warned… once again!
+
+Here’s the update in full, for those who are curious:
+
+We continue to work to ensure the integrity of the game and the health of our servers by blocking unauthorized access and at times by banning offending accounts. This includes blocking bots, data scraping operations, and banning end user accounts associated with those activities. Some players may not have realized that some add-on map apps do more than just show you nearby Pokémon. Each end-user app can be used as a collection tool by the app creator, invisibly collecting and forwarding data to the app creator with or without the knowledge of the end user. These apps can have an effect similar to DDoS attacks on our servers. Because of this we have had to ban some accounts associated with using these add-on map tools, leading to confusion by some users about why they were banned. This is a small subset of the accounts banned.
+
+As a result of some changes made to our infrastructure, we are now able to unban this set of accounts. Add-on maps which scrape data from our servers still violate our Terms of Service and use of them may still result in an account ban going forward. Accounts whose sole purpose was to scrape data are not being unbanned. Accounts which used apps or websites to remotely capture Pokémon, battle or deploy on Gyms, or harvest resources from PokéStops are also not being unbanned. Our main priority is to provide a fair, fun, and legitimate experience for all players, so, aggressive banning will continue to occur for players who engage in these kinds of activities.
+
+Bonus: Niantic CEO John Hanke will speak at our upcoming Disrupt event in San Francisco next month —more details here.

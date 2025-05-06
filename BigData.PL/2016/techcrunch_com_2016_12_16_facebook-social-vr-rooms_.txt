@@ -1,0 +1,29 @@
+Oculus launches social VR hangout “Rooms” and phone calls
+
+Facebook’s power-play to rule social virtual reality has a boring name: the “Coordinated App Launch API”. Like a VR version of Xbox Live or PlayStation network, it lets you gather with friends in Oculus VR’s new Rooms feature, and then launch together into a developer’s multiplayer game. TheCoordinated App Launch APIcould make Oculus the portal to playing with friends in VR, giving it immense power over developer experience discovery.
+
+Starting today you’ll be able to try out the fruits of this API, asOculus is launching “Rooms”for the Gear VR mobile headset today, with Rift support coming in 2017. It’s also launching “Parties” audio calls for coordinating meetups while you’re doing something else in VR. Meanwhile, developers can now try out Livestreaming so they can share their experience back to Facebook for people without a headset. Oculus firstannouncedthese features in October at the Oculus Connect 3 conference.
+
+“[Rooms] gives us a physical place where we can all go, and you can have interactions like you’re inviting you friends to your apartment” says Oculus product manager Madhu Muthukumar. Just like in the real world, if you hang with friends in VR, you might want to watch TV, joke around, pull out a board game, or go out together.
+
+Unlike the more advancedToybox social VR appOculusjust released for Rift, you don’t need any controllers to play with Rooms. You just look and tap the touchpad on the Gear VR to navigate. Rooms competes with social VR apps likeAltspace, but could benefit from being deeply baked into the Oculus Home launcher.
+
+Rooms lets you meet up with friends in a private VR hangout space decked out like a futuristic living room. You send Rooms invites inside Parties calls. From there, your friends can do some basic avatar customizations, then chill together or separately in the four areas of Rooms.
+
+The Chat space lets you talk together, seeing the mouths of your friends’ avatars move when they’re talking through their microphone. Spatial audio helps you know where friends are in Room, so you can tell if they’re right next to you or further away in one of the other spaces.
+
+The Watch space provides a big screen TV you and friends control as a group. By default you can watch popular Facebook videos, or ones from your Saved folder or News Feed if you connect your account. When asked if premium content or Netflix access might be coming, Muthukumar told me “Are we looking into that expanding that? Yes. If we find this is something people like to do…we’ll keep working on that.” Facebook is reportedly talking to premium content owners to beef up its 2D social network’s video offering.
+
+The Games space lets you play basic table-top games to pass the time and goof around. Currently there’s an oldschool flip-over-cards matching game, a Heads Up-style word guessing game, and a Lights memory game. The games don’t take over your screen, so they feel like a relaxed way to have fun while being social. Facebook built these all in-house and expects to add more.
+
+Finally, there’s the App Launcher space if you want to play a full-fledged VR experience as a group. The feature lets you see which VR games you and friends have all installed that have built in the Coordinated App Launch API, and then fire one up together.
+
+Parties is a way to talk on the phone in VR, so you can ask if people want to start a Room, or just see what’s up with friends in VR. In Oculus Home, you can choose from your friends list to invite people to a call. Using the Facebook Messenger audio VOIP calling stack, it lets you send an overlaid phone call notification to a friend that’s online. Up to four total people can easily join a call and talk while they keep playing whatever they were playing.
+
+Livestreaming is Facebook’s attempt to socially democratize VR. You can start a stream to show your first-person perspective to Facebook friends unable to join VR themselves. For now it’s only available to developers, though.
+
+Overall, the Rooms experience felt remarkably natural. I hung out with Muthukumar who was in the same building in California as me, and Oculus product manager Mike LeBeau who was in London, and it really felt like we were all just passing time together in someone’s living room…albeit one set in a sci-fi utopia. Flourishes like a moose head on the wall make Rooms feel familiar, even if the moose is purple and wearing a VR rig.
+
+By exiling an Oculus team to operate remotely from London while developing Rooms, they were forced to think about how to make VR a communication platform so they could stay in touch with loved ones.
+
+Playing games in VR can make you feel isolated. But by assembling your friends, Facebook and Oculus can use their natural aptitude for social to make your virtual reality experiences something worth remembering. If Oculus owns the way you congregate in VR, it could use network effect to entrench itself as the premier virtual platform.

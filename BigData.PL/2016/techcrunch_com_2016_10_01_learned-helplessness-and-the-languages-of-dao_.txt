@@ -1,0 +1,35 @@
+Learned helplessness and the languages of DAO
+
+Everything is terrible. Most software, even critical system software, is insecure Swiss cheese held together with duct tape, bubble wrap, and bobby pins. See eg this week’s darkly funny post “How to Crash Systemd in One Tweet.” But it’s not just systemd, not just Linux, not just software; the whole industry is at fault. We have taught ourselves, wrongly, that there is no alternative.
+
+Let’s take a closer look at thathilarious Andrew Ayer piece, because it serves as a superb example of the larger problem. “Yay non-determinism!” indeed.
+
+If you’re a hardcore geek, you want to read that whole post; if not, let me explain. Systemd is an integral component of most Linux distributions, used to boot the system, among other things. Ayer found a very simple way to crash it, and went on to philosophize:
+
+The immediate question raised by this bug is what kind of quality assurance process would allow such a simple bug to exist for over two years … Systemd’s problems run far deeper than this one bug. Systemd is defective by design. Writing bug-free software is extremely difficult … good programmers recognize the difficulty of writing bug-free software and understand the importance of designing software in a way that minimizes the likelihood of bugs or at least reduces their impact. The systemd developers understand none of this, opting to cram an enormous amount of unnecessary complexity … written in a memory-unsafe language.
+
+That last is, I think, the key larger point. Everything is terrible because the fundamental tools we use are, still, so flawed that when used they inevitably craft terrible things. This applies to software ranging from low-level components like systemd, to the cameras and other IoT devices recentlypress-ganged into massive DDoS attacks—
+
+A bunch of sentient lightbulbs and refrigerators uniting to destroy a major infrastructure is cyberpunk as hell.https://t.co/ZjRJM7Rb3T
+
+— SR (@sorenrags)September 27, 2016
+
+— to high-level science-fictional abstractions like the$150 million Ethereum DAO catastrophe. Almost all software has been bug-ridden and insecure for so long that we have grown to think that this is the natural state of code. This learned helplessness is not correct. Everything does not have to be terrible.
+
+In principle, code can be proved correct withformal verification. This is a very difficult, time-consuming, and not-always-realistic thing to do; but when you’re talking about critical software, built for the long term, that conducts the operation of many millions of machines, or the investment of many millions of dollars, you should probably at least consider it.
+
+Less painful and rigorous, and hence more promising, is thelangsecinitiative:
+
+The Language-theoretic approach (LANGSEC) regards the Internet insecurity epidemic as a consequence of ad hoc programming of input handling at all layers of network stacks, and in other kinds of software stacks. LANGSEC posits that the only path to trustworthy software that takes untrusted inputs is treating all valid or expected inputs as a formal language, and the respective input-handling routines as a recognizer for that language.
+
+…which is moving steadily into the real world, and none too soon, via vectors such as the French security companyPrevoty.
+
+As mentioned, programming languages themselves are a huge problem. Vast experience has shown us that it is unrealistic to expect programmers to write secure code in memory-unsafe languages. (Hence my “Death to C” post last year.) But there is hope! After doomsaying, Andrew Ayer goes on to note: “However, I see improvement on the horizon. Go and Rust are compelling, safe languages for writing the type of systems software that has traditionally been written in C.”
+
+The best is the enemy of the good. We cannot move from our current state of disgrace to one of grace immediately. But, as an industry, let’s at least set atrajectory. Let’s move towards writing system code in better languages, first of all — this should improve securityandspeed. Let’s move towards formal specifications and verification of mission-critical code.
+
+And when we’re stuck with legacy code and legacy systems, which of course is still most of the time, let’s do our best to learn how make it incrementally better, by focusing on the basic precepts and foundations of programming. (EG Java and C# programmers should consider going through the excellentPractice your JavaandPractice Your C#books by my old classmate Ayo Agboola.) Don’t accept “terrible” as the inevitable state of things, even if it’s thecurrentstate. Strive for something better.
+
+I write this as large swathes of the industry are moving away from traditional programming and towards the various flavors of AI. How do we formally specify a convoluted neural network? How does langsec apply to the real-world data we feed to its inputs? How do these things apply to quantum computing? (If you think it’s too early to ask that question, check out my friend Christine’s spectacularly cool5-bit-quantum-computer simulator,open-sourced on Github.)
+
+I, uh, don’t actually have answers to any of those last few questions. But let’s at least start asking them! And in the interim, let’s do everything we can to finally start to fix traditional programming. It is not a quixotic dream; it actually is possible. Once we just accept that, everything can, and I believe will, be better.

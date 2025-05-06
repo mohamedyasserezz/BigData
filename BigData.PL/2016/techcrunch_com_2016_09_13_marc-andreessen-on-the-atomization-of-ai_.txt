@@ -1,0 +1,21 @@
+Marc Andreessen on the atomization of AI
+
+Earlier this year, Andreessen Horowitz investor Chris Dixon noted the challenge investors face in helping to groom promising AI startups, given how quickly Facebook, Google, and Amazon arebringing aboard related talent.
+
+Dixon noted, for example, that Wit.ai, a Y Combinator startup that built voice-activated interfaces that Facebookboughtand which now powers its Messenger platform, was only in Andreessen Horowitz’s portfolio for a few months when Facebook bought it.
+
+But firm co-founder Marc Andreessen said on stage atDisrupttoday that the firm is beginning to see things swing in the opposite direction. “Two years ago, it seemed like four or five companies were hoovering up all the talent . . . paying them a ton of cash, which makes it hard to recruit [people] at startups. I think something like 1,500 people over four years [were involved in] building Alexa,” the technology that powers Amazon’s voice-controlled home computer Echo.
+
+It seemed particularly daunting to investors given the data that big companies are able to amass and slice and dice and use to train AI. “The theory went that if you were a startup, even if you could get people, you couldn’t get the data,” he said.
+
+That trend is suddenly reversing itself, he said. For one thing, “Sharp people at big companies have decided — like so many [founders] before them — that they can start their own company,” Andreessen said.
+
+As important, the tech has become far more accessible, including thanks toTensorFlow, an open-source software library for machine intelligence, and even through the (Andreessen-backed) online education companyUdacity, which is now teaching students “Google-level AI,” in Andreessen’s words. “It’s a significant opening of the kimono about how this all works.”
+
+Not last, he noted, startups can both do increasingly creative things with smaller data sets, and they’re finding more innovative ways to get the data, including via simulation environments. Here, Andreessen noted that researchers are currently using “Grand Theft Auto V” to teach their artificial intelligence algorithms how to drive (among other games).
+
+“We’re seeing a bunch of interesting companies, from health care and life sciences to many [startups focused on] fintech and transportation.
+
+Andreessen brought up George Hotz, a 26-year-old hacker who founded ofComma.ai, an autonomous driving startup that’s roughly six months old (who happens to be speaking this afternoon at Disrupt).
+
+Last spring, Andreessen Horowitz plugged $3.1 million investment in the company. The reason, suggested Andreessen: George Hotz built his very own self-driving car. In short, it took just “one brilliant person. Not 1,500 people.”

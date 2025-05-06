@@ -1,0 +1,41 @@
+Amazon makes good on its promise to delete “incentivized” reviews
+
+Amazon is making good onits promise to ban “incentivized” reviewsfrom its website, according to a new analysis of over 32,000 products and around 65 million reviews. The ban was meant to address the growing problem of less trustworthy reviews that had been plaguing the retailer’s site, leading to products with higher ratings than they would otherwise deserve.
+
+Incentivized reviews are those where the vendor offers free or discounted products to reviewers, in exchange for recipients writing their “honest opinion” of the item in an Amazon review. However,data has shownthat these reviewers tend to write more positive reviews overall, with products earning an average of 4.74 stars out of five, compared with an average rating of 4.36 for non-incentivized reviews.
+
+Over time, these reviews proliferated on Amazon, and damaged consumers’ trust in the review system as a whole. And that can impact consumers’ purchase decisions.
+
+According to recent findings fromReviewMeta, a business that analyzes millions of reviews to help consumers find those they can trust, Amazon has been rapidly deleting incentivized reviews – even retroactively.
+
+This is especially interesting becauseAmazon had said at the time of the ban’s announcementthat it would only remove incentivized reviews from older products if they were “excessive” or if they didn’t comply with the prior policy.
+
+But apparently, Amazon is going back to remove a large number of older reviews, as well.
+
+Above: percentage of incentivized reviews per day since 8/1/2016
+
+ReviewMeta checked up on Amazon’s progress by analyzing its own dataset of around 65 million reviews across 32,060 products in all categories.
+
+It found that Amazon had deleted over 500,000 reviews, 71 percent of which were incentivized. The average rating for these deleted reviews was 4.75 stars – clearly much higher than the typical average. Some products even saw thousands of reviews removed – likethis cosmetic scrub, which had 9,000 reviews removed, for example.
+
+Above: average rating for all reviews per day since 8/1/2016
+
+The company then analyzed a subset of products from over the past two weeks to get a sense of how many incentivized reviews still remain on Amazon’s site.
+
+Across the over 10 million reviews analyzed (a dataset based on those consumers entered on the ReviewMeta website), only 1.5 percent of the reviews were incentivized.
+
+“This is considerably less than we were seeing previously,” says Tommy Noonan, ReviewMeta CTO. “For every incentivized review we found on Amazon, there were 2.6 in our database that weren’t there anymore,” he adds, referring to the deleted reviews.
+
+What the figures seem to indicate is that, though Amazon is deleting a large number incentivized reviews, it hasn’t managed to catch all of them. Part of the problem could be that incentivized reviews are still rolling in, despite Amazon’s ban.
+
+That said, the number of incentivized reviews has dropped significantly following the ban, and this, in turn, has lowered the average rating for all reviews. The day before the ban was enacted, for instance, the average rating for all reviews that day was 4.73; on November 1, the average rating for all reviews had dropped to 4.65.
+
+What’s also interesting, Noonan notes, is that Amazon’s product ratings were largely unaffected, despite the mass deletions. The product ratings – that is, when Amazon tells you that a product is “4.5 out of 5 stars” – appear to have already been adjusted to discount the incentivized reviews when calculating the overall rating.
+
+“We’re seeing that many incentivized reviews effectively carry zero weight in Amazon’s product ratings,” says Noonan.
+
+This is likely due to the fact that a majority (95%) of the incentivized reviews didn’t have the “Verified Purchaser” tag attached – meaning the customer had bought from Amazon directly. And unverified reviews were already carrying no weight in Amazon’s rating system. (The exception being if they were the only reviews a product had, in which case they were used to calculate the overall score).
+
+Noonan concludes that Amazon’s actions have sufficiently addressed the problem with its ban.
+
+“It’s obviously not 100% perfect,” he says. “It seems [Amazon has] removed a majority of the incentivized reviews and pretty much put an end to more being created. They effectively killed this industry,” he adds.

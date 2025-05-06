@@ -1,0 +1,11 @@
+Facebook’s Instant Verification app login platform replaces two-factor where SMS fails
+
+Two-factor authentication via SMS code can be a huge headache if you’re somewhere that you can’t receive text messages, whether that’s a remote location or on a plane. So Facebook invented a new Android feature for itsFacebook Login Account Kitthird-party app login platform that lets developers easily verify the identity of returning users who signed up with a phone number without an SMS confirmation.
+
+When users try to log in to a third-party app with their phone number,Instant Verificationchecks their Facebook For Android app to see if they have that same phone number registered to their Facebook profile. If so, Account Kit instantly allows the user to log in to the third-party app without ever having to receive a two-factor authentication code via SMS.
+
+Facebook found that this leads to a 97% conversion rate on sign-ins, which is higher than traditional one-time-passwords sent through two-factor authentication. One app calledFamilonetsaw registrations improve by 40% thanks to Account Kit, and another 5% through Instant Verification.
+
+Facebook’s Ethan Goldman-Kirst writes that “We believe this update will make signing in with phone number faster and easier, especially for people in areas of the world where SMS delivery is not reliable.”
+
+By getting more apps built on its Account Kit platform, Facebook creates in-roads to convincing developers to buy app install ads or adding share-to-Facebook features. Simplified login to other apps could persuade more users in countries like India where Facebook penetration is still low to sign up for the social network. And the Facebook Login platform entrenches the core Facebook app as something people need even if they’re not addicted to the News Feed.

@@ -1,0 +1,15 @@
+Meter Maid Monitor fixes the most San Francisco problem ever
+
+Possibly my favorite hack to come out of the TechCrunch Disrupt hackathon is solving aso verySan Francisco problem.Meter Maid Monitoruses high tech cloud magic to automate the game of dodging meter maids when you’re parked in the 2-hour resident bays around the city.
+
+“I live in the Castro,” says John Naulty, the brains behind the hack. “I work from home a lot, but the roads outside my house are all 2-hour bays. The thing is, you only get caught if the meter maids spot that you’ve been parked in one place for longer than two hours. In effect, the clock doesn’t start ticking from when you park your car, but from the first time they come by and spot your car.”
+
+Like a good übergeek, Naulty decided to code up a solution to his problem at the Hackathon.
+
+“I usedRaspberry Piwith thePi Cameramodule andOpenCVas a motion detector,” Naulty explains, rattling off the long list of tech that went into creating Meter Maid Monitor. “The camera monitors traffic and takes photos. The pictures are uploaded to AWS, where an EC2 instance running theTensorflowsupervised learning platform does the image recognition. I’ve trained it to recognize meter maid cars. Finally, if there’s more than 75 percent chance of being a meter maid, it sends me a text message using Twilio, so I can move my car before I get a ticket”
+
+Got all that? Yeah, me neither. Naulty was kind enough to translate it into English for me though. Basically, it takes a picture, uploads it, looks for meter maids. If it spots one, it sends a text message so you beat the system.
+
+As I said. So very San Francisco. And I love it.
+
+When he’s not trying to trick theMTA‘s parking regulations, John Naulty is a devops engineer forNuageand a founder ofNeuro Tech X.

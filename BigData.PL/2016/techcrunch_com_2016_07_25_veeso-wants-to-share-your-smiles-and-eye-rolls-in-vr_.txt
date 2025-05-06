@@ -1,0 +1,15 @@
+Veeso wants to share your smiles and eye-rolls in VR
+
+First-time VR experiences seem to bring about a pretty wide variety of emotional reactions from the people who try it, but right now there aren’t too many ways to actually convey how you’re feeling inside virtual reality.
+
+Veesois aiming to become one of the first VR headsets to capture how you’re feeling through their sensor technology. The company just launched a Kickstarter campaign to drum up interest in their face-tracking developer kit.
+
+Tracking your movement, body position, head position and location are some of the skills existing high-end VR headsets have in their sensor repertoire, but a key item that’s been lacking is the ability to track the face that the headset is strapped to. Understanding where your eyes are looking or how your mouth is positioned is key to allowing you to convey emotions in VR, something rather essential to the gaggle of social VR apps that are already out there.
+
+Some of these things can be done already without the need for additional sensors. I’ve seen developers using audio cues from the mic to sync avatar lip movement with what users are actually communicating. It’s a bit rudimentary, but it’s also something that could clearly be improved with an integrated tracking sensor pointed toward the user’s mouth from the bottom of the headset.
+
+The Veeso headset not only tracks the user’s mouth and jaw but also has infrared eye-tracking sensors built into the headset to track the user’s line of sight. This is especially effective for social VR, saving you from weird interactions with avatars with dead eyes. It’s bizarre how essential eye contact is to making social experiences feel more comfortable, even in non-photo-realistic environments, but demos I’ve experienced with other companies’ eye-tracking tech have more than confirmed this.
+
+This headset appears to be primarily focused toward Google Cardboard use, which limits the graphics and gameplay capabilities an unfortunate amount, especially since Google’s next VR platform play,Daydream, will be seeing the light of day this fall. This is a developer kit, so don’t expect to order one and have a bunch of cool stuff to test out at launch — they want you to be the ones building all that, after all.
+
+You can currently snag an early-bird deal on the face-tracking headset dev kit for $80. Veeso is hoping to raise $80,000 with this campaign. The company says they’re hoping to start delivering the first batch of headsets in December of this year.

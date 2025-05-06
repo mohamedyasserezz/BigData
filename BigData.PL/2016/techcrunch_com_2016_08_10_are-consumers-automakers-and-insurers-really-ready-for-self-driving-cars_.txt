@@ -1,0 +1,41 @@
+Are consumers, automakers and insurers really ready for self-driving cars?
+
+Since news broke of thefatal accident involving a Tesla Model Sthat was on “Autopilot,” the media and various experts have been locked in high-speed Socratic dialogs on the pros and cons of self-driving cars.
+
+To date, most questions have focused on three key areas:
+
+Although this latest debate is just underway, a consensus of fast (and sometimes facile) answers has emerged. But some of this “conventional wisdom” will need to be re-evaluated as new data and questions arise, as well as new solutions.
+
+On the liability front, it’s widely agreed that the manufacturers of autonomous vehicles will probably bear the costs of accidents caused by defects or glitches in their robo-drivers. In fact,Volvopreemptively declared last year that it will pay for injuries or property damage caused by its fully autonomous IntelliSafe Autopilot system, scheduled to launch by 2020. The company’s reasoning? Its system will be so safe that no human will ever need to intervene and, therefore, no human could be at fault for an accident.
+
+That seems simple enough, but will reality conform to the theory?
+
+What if a driver switches from autopilot to manual at some point? Who will determine whether and when this happened? Who will own (or have access) to the vehicle’s data — its “black box?” Is the vehicle owner also the owner of this data, which he or she could then legally withhold, thereby disrupting an investigation into who’s at fault for an accident?
+
+What level of expertise will be needed to determine liability? Will claims adjusters have to become computer experts to analyze the data and reconstruct accidents?
+
+For the time being, insurance coverage for cars using self-drivinganddriver-assist technology (which is what the ill-fated driver of the Tesla was using) will be the same as coverage for traditional vehicles. Thanks to this, premiums are likely to rise in the short term. Why? Because there’s a real possibility that widespread use of “semi-autonomous” systems, which leave open the possibility of human error, will producemoreaccidents, not fewer.
+
+In the long term, insurers will have to advance the skills of their staffs. Although liability may shift from drivers to manufacturers, the claims process will remain the same, but will require more highly trained adjusters and collision-repair technicians to manage costs and properly fix vehicles. (Based on what I’ve heard in the industry, there may be — at best — only 20-30 percent of repair facilities now equipped to handle advanced “smart car” technology.)
+
+Another set of issues, which have garnered less attention than they deserve, are the current limitations of self-driving technology.
+
+The sensors and cameras that allow autonomous vehicles to respond to the actual, real-time environment rely on well-maintained roads, bridges and highways. But many U.S. highways, roads, etc. are not in good condition. The median lines on some roads are almost non-existent, as is smooth paving. Some streets are pockmarked with more craters than a World War I battlefield.
+
+Even more important, the state of the self-driving art is still in its infancy. For example: Although the heart of Google’s autonomous driving technology — the Light Detection and Ranging technology (LIDAR) — is conceptually sound, it’s the equivalent of a canvas-and-wood biplane compared with the supersonic jet needed to safely navigate America’s streets.
+
+Before autonomous vehicles are ready for the consumer, every square inch of terrain that a vehicle might traverse must be mapped in three dimensions, uploaded to the car’s computer and updated constantly. Until up-to-the-minute 3D mapping is available at an affordable price (LIDAR’s cost can range up to $75,000 per unit), this won’t be possible.
+
+In addition, as a vehicle’s software is updated so it can respond to new construction and other environmental changes, insurance carriers will have to be informed so they can recalculate premiums and coverage. It remains to be seen how insurers will accurately insure a vehicle that’s undergoing continuous modification.
+
+Finally, on the subject of ethics and artificial intelligence, consider the following scenario: A self-driving car is rounding a corner, lined with pedestrians on the right shoulder, when an oncoming car veers into its lane. How should the robot driver respond? Should it steer into the pedestrians to avoid a head-on collision? Should it risk its passengers’ lives by steering leftward over an embankment?
+
+What kinds of ethics should be programmed into autonomous tech? Should we even try to program them?
+
+The average human is still far superior to the best algorithms and artificial intelligence. We possess more knowledge, better reflexes and — most important — the ability to discern potentialintent. Unlike today’s self-driving technology, humans can instantly identify an object falling from a car’s trunk as a cardboard box, not a boulder, and can surmise that a football landing in the street may soon be followed by the group of kids chasing it.
+
+Data sensors can’t yet process at speeds high enough to deal with every potential situation. Moreover, circuits and silicon chips are not sentient beings with sets of ethics. With that in mind, perhaps pedestrians and cyclists should be equipped with sensors in their phones and wearables to help them avoid collisions with motor vehicles. Maybe responsibility for traffic safety should be shared — and electronically enhanced — by everyone using the roads.
+
+Basically, the current push to launch autonomous vehicles is a massive beta test. It’s being conducted on America’s roads with consumers who may not be aware of the risks. And at the moment, this beta test is subject to almost no government oversight.
+
+Until low-cost, real-time, 3D mapping is made available; until more powerful sensors are developed that can detect not just movement but the likely intent of pedestrians and other motorists; and until we can provide pedestrians and cyclists with collision-avoidance countermeasures, self-driving technology won’t be ready for prime time — not by a long shot.

@@ -1,0 +1,29 @@
+For Dyson, the 360 Eye robot vacuum is only the beginning
+
+Dyson’s 360 Eye robot vacuum is going global, with retail availability in Canada today, and a U.S. launch following soon. I spoke to Dyson’s Lead Robotics Engineer Mike Aldred about the vacuum, which has been in development at the company long before its Japanese debut last year – in fact, the project dates back 18 years to 1998.
+
+But true advances takes time, and the tech behind Dyson’s first robot vacuum is nothing if not advanced. The360 Eye vacuumboasts a sophisticated 360-degree vision system that combines a top-mounted spherical camera with a pair of advanced sensors flanking the robot’s ‘face,’ and is designed to be much smarter than the competition from Roomba and others, as well as just offering better basic vacuum capabilities in terms of being able to pick up dirt, hair and dust.
+
+“Vision is absolutely critical, but it was a completely new technology [when development began],” Aldred told me, explaining the early days of 360 Eye’s development. “We had to actually increase the capabilities of our team. We had a lot of software engineers, but we had to go into robotics algorithm engineers, we had to go into systems engineers, and once we started building the group, we realized it’s all about testing. It’s all about getting the product into the home and finding out exactly how the product’s going to work in and around many, many homes.”
+
+Just how many? Beta trials in Japan first, with testing units in 50 homes first, which then expanded out to more as the program progressed. All told, Aldred says Dyson estimates between 100,000 and 200,000 hours of home trials to get the vacuum to where it is today.
+
+“The key was to get it in as many homes as possible, because if you only expose it to a small set of homes, even over a long course of time, basically it will only work well in that small set of homes,” he said, talking about why volume in testing was key. “So the team’s entire goal was to go for a wide cross-section, too, in order to quickly identify mistakes in varied surroundings, correct for those, and then get it back out as soon as possible to continue testing with the fixes.”
+
+To me, Aldred’s description of the 360 Eye’s testing sounded more like a software sprint than development of consumer hardware. The way we typically think of gadget product cycles, things are mostly tightly contained and primarily lab-based before we see a new smartphone from a company on an annual basis. But Dyson seems to be thinking about 360 Eye as almost more of a living service for consumer, subject to continuous improvement.
+
+Aldred says the company now expects new issues to arise from going global, but Dyson is already listening hard and anticipates having to move quickly to address unanticipated issues faced by customers.
+
+“Because it’s a connected product, we can make fixes,” Aldred explained, again sounding more like a software project lead than a head of robotics . “And we can go back out and put fixes in the field for any problems that come along.”
+
+Aldred freely admits that Dyson is already working on version two, and even version three of its robot vacuum, but also says that the plan is to continue to improve this 360 Eye with frequent, over-the-air software updates. As for how long that support should continue for owners, Aldred isn’t being specific, but he does suggest any cap will be defined by hardware generation limits, more than anything else.
+
+“For us, 360 Eye is a natural progression path onto the next two machines, so vision is going to be a core technology for everything we do,” Aldred said. “What we’re developing is core technology; we’re not developing something specifically for any one of these machines. But as these machines become more complex, we may need more processing power. So anything that doesn’t have a large processing requirement, we’ll put back onto 360 Eye as well, anything with a more powerful processing requirement will only go on the new hardware.”
+
+All the processing on images that help 360 Eye is done on the machine, and users can see a map of what path the robot took once it’s finished cleaning to reassure them it’s reaching the entirety of the room. But what Dyson’s bot doesn’t do is learn your space over time; after each run, the vacuum begins the next with a clean slate, as it doesn’t store any data about previous runs to inform future ones. Keeping a database of trips to assist performance might seem a logical path for Dyson to follow, but the temporary memory is by design, Aldred says.
+
+“If you were to move a sofa, and so modified an existing map, you’d be very frustrated if it didn’t clean now where something has been exposed,” Aldred said. “So what the robot ends up having to do is end up having to go and investigate all the areas again, so it kind of defeats the purpose of a [pre-existing] map since that’s what we’d have to do anyways.”
+
+Aldred says that Dyson is looking into AI and machine learning, but those have to serve customer needs in order to make sense in a product like 360 Eye. “It has to be about functions to the customer, not gimmicks,” he says, regarding how Dyson built the vacuum’s feature set. Still, Aldred says that he can’t reveal specifics, but Dyson is working in the realm of machine learning and sees plenty of potential there in terms of future products.
+
+“Our technology isn’t just a technology for robot vacuum cleaners,” Aldred offered. “It’s got potential across a wide range of fields, and we’re looking at many different domains regarding how we can actually apply it.”

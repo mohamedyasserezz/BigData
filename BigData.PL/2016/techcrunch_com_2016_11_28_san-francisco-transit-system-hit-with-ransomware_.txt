@@ -1,0 +1,13 @@
+San Francisco transit system hit with ransomware
+
+San Francisco’s public transit riders were greeted with an unusual message at ticket kiosks over the weekend: “You hacked.”
+
+The city’s light rail system, MUNI, was compromised in what appears to be a non-targeted ransomware attack, and riders were givenfree transiton Saturday until the issue was resolved. The attacker claimed that MUNI’s data was encrypted and demanded a ransom in bitcoin.
+
+The individual initially said they didn’t expect media attention and would back off if he or she didn’t get a response from MUNI officials, but laterthreatened to leak 30GB of datafrom the city’s transit agency.
+
+“our software working completely automatically and we don’t have targeted attack to anywhere ! SFMTA network was Very Open and 2000 Server/PC infected by software ! so we are waiting for contact any responsible person in SFMTA but i think they don’t want deal ! so we close this email tomorrow,” the attacker wrote in an email to theVerge.
+
+https://twitter.com/SF_CA_RR/status/802675145336913920?ref_src=twsrc%5Etfw
+
+A MUNI spokesperson said that agency is investigating the hack and is not ready to release further information.

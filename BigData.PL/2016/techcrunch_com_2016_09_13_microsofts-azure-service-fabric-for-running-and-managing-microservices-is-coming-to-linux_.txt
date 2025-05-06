@@ -1,0 +1,13 @@
+Microsoft’s Azure Service Fabric for running and managing microservices is coming to Linux
+
+Microsoft’s CTO for Azure (andoccasional novelist) Mark Russinovich is extremely bullish aboutmicroservices. In his view, the vast majority of apps — including enterprise apps — will soon be built using microservices. Microsoft, with its variety of cloud services and developer tools, obviously wants a piece of that market. WithService Fabric, the company offers a service and tooling that makes it easier to run microservices-based applications. Until now, Service Fabric only supported Windows-based machines, but starting September 26, Microsoft will launch a Linux installer for Service Fabric as a public beta, too.
+
+As Russinovich explained to me, Microsoft itself has been using the microservices approach internally for seven years. It wasn’t until the cloud went mainstream, though, that this approach became something smaller companies could use, too. “The way we see it is that microservices and the cloud were really meant for each other,” he said. The cloud allows you to spin up machines instantaneously — and once you layer the idea of microservices on top, you provide a far greater degree of agility to developers than was possible before (using microservices, after all, you can update and work on separate components of an application without having to worry about the other parts of the apps).
+
+“Having been developed almost a decade ago, [Service Fabric] was focused on Windows and .NET. But more and more we are seeing that customers — when they are looking at choices for how they are building their applications — are looking for a platform that can run anywhere and on any operating system.”
+
+Microsoft’s internal use of microservices and Service Fabric means that the service is both battle-hardened and fully featured. Russinovich stressed that Microsoft’s experience led the team to add rollback, versioning and automatic healing features, for example. “We want to make this accessible and democratize microservices,” he said.
+
+With the standalone Linux installer, operators will be able to use Service Fabric to manage their on-premises, as well as for hybrid and multi-cloud microservices, deployment.
+
+With this move to Linux, Microsoft is also making command-line interface tooling, as well as Eclipse and Jenkins support, available to developers. “Ultimately, our goal is that developers can build Service Fabric applications on the OS of their choice and run them wherever they want,” Russinovich writes in today’s announcement.

@@ -1,0 +1,17 @@
+BenevolentBio’s artificial intelligence could discover a better treatment for ALS
+
+What if the drug that could effectively treat amyotrophic lateral sclerosis, the paralyzing neurological disease that skyrocketed into the public consciousness thanks to the ice bucket challenge, already exists?
+
+That’s the question confronting Jackie Hunter, CEO ofBenevolentBio. Hunter runs the biomedical arm of the artificial intelligence firm BenevolentAI, applying machine learning to vast databases of medical research to rapidly scan and organize the data. It seems unlikely that rehashing scientific research could lead to new discoveries, but new studies on life sciences are published every 30 seconds, so valuable research is often missed.
+
+Hunter told TechCrunch today at Disrupt London that BenevolentBio’s AI has already succeeded. BenevolentBio’s AI scanned for studies that might hold secrets about ALS treatment. “We whittled it down to the top five compounds we wanted to test,” Hunter explained. BenevolentBio tested the five compounds on cells cloned from ALS patients’ own cells.
+
+“One compound didn’t work. Two worked as well as the gold standard [for ALS treatment]. Two worked much better, the best thing we’ve ever seen. Four of the five compounds were things the researchers had never thought to look at,” Hunter said.
+
+Because BenevolentBio tested drugs that have already been put into development, the treatments could become available to patients much faster than newly discovered drugs.
+
+“I come from the pharmaceutical industry, and the R&D process hasn’t changed in decades. It costs $2 billion to develop a medicine,” Hunter said. By using AI, drug developers could discover other uses for their drugs rather than making a massive investment in a new drug. AI could also help direct scientists to the most promising discoveries more rapidly.
+
+However, AI can’t come to new scientific breakthroughs all by itself, Hunter claims. Experienced scientists are still needed to check the data. “We have a sanity check with our scientists. We are augmenting the scientists, not replacing the scientists,” she said.
+
+BenevolentBio also hopes to expand its AI into other verticals through its parent company, BenevolentAI. Their technology, Hunter said, represents “a perfect coming together” of computing power, data analytics, insight, and demand that will “create the perfect wave of innovation that I think will really change the industry.”

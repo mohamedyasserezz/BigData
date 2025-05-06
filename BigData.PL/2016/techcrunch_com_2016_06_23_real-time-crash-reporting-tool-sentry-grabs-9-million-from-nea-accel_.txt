@@ -1,0 +1,29 @@
+Real-time crash reporting tool Sentry grabs $9 million from NEA & Accel
+
+Sentry, a real-time crash reporting tool for web, mobile and games, has come a long way from its roots as an internal tool used at the blog comment hosting service Disqus. The startup has since been adopted by a number of big names in the tech industry, including Square, Stripe, Dropbox, Opera, Uber, Airbnb, Postmates, and others. And now it has raised $9 million in Series A funding led by NEA. Accel also participated in the new round, which will be used to continue to rapidly grow the business, as well as for hiring.
+
+The technology was originally developed by Disqus’ Director of Design Chris Jennings and Lead Engineer David Cramer while they still worked at the company. Originallyan internal tool for exception logging in Djano applications, Sentry became so useful the team decided to open source it and share it with the community.
+
+Soon, dozens of developers were contributing code toSentry’s Github page,and the tool grew to support other popular languages like Python, PHP, Java, Ruby, Node.js, and JavaScript. Other companies, includingTwitter, Rdio, Pinterest, Path, Mozilla, and, of course, Disqus, have also used the service.
+
+But while the open source version was well-received, the team began fielding requests for a hosted service. It launched this in 2012 with a set of tiered pricing based on the number of exceptions an application throws, and grew to become cash-flow positive. (This pricing is about to be overhauled to be more of a team-based model, we’re told).
+
+There are now over 5,000 customers on the SaaS (software-as-a-service) product, which is about one-third of how many use Sentry in total, including the open source version.
+
+Due to Sentry’s popularity, its creators realized that it had the potential to be more than a side project. They left their day jobs, took in $1.5 million in seed funding last year from Accel, then used the funds to grow their team from three to fourteen in the past year. The team now consists of hires from Dropbox, GitHub and Disqus, including Cameron McEfee, previously Creative Director at GitHub, who made the octocat a household name.
+
+“There’s a lot of similar companies in the space. The sheer amount of competition forced us down the VC route,” says Cramer. The new Series A round of funding values the business at $40 million+, post-money, he notes.
+
+Sentry’s continued popularity can be chalked up to the fact that it’s an open source product – something that lets it get into a number of bigger companies and gain traction. The technology is also fairly mature, and it has continued to expand horizontally across the ecosystem by adding support for more languages.
+
+JavaScript is now Sentry’s top platform, having more than tripled in the last year.
+
+“We started with just a few languages, and now we support basically every server-side language, browser JavaScript; we work with embedded technology, and we’re about to launch what’s probably best-in-class iOS support,” says Cramer. “And we’re very quickly following that up with support for the Unity platform.”
+
+The iOS product, he explains, will focus on immediately alerting when something has gone wrong with a deployment.
+
+Sentry is also working to release to release products that do more than just basic crash reporting. ItsBreadcrumbs application, for example, offers the trail of user events that led to an error, which aids in debugging.
+
+It’s now working on aUser Feedbackfeature that will display a more useful message when a user hits a 500 response. The feature allows the user to submit more information about what happened, and provide their contact information. Eventually, this will be tied to a Zendesk integration to aid with customer support.
+
+“We’ve solved crash reporting, and we’re trying to move forward from there,” says Cramer. “We’re going to the next level….Customer support is a pretty big area for us, but we’re also considering how we can go into other verticals that are still tightly coupled to product development.”

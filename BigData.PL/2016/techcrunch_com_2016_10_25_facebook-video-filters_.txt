@@ -1,0 +1,25 @@
+Facebook demos art-themed video filters, says it got 2M voters registered
+
+The two non-Zuck leaders of Facebook had a lot to show and tell onstage today at theWSJDLiveconference, where they demoed potential products, labeled Facebook a tech company not a media company and touted the company’s success at voter registration.
+
+If you liked Prisma, you’re going to enjoy what Facebook’s cooking up. Facebook chief product officer Chris Coxdemoedan unlaunched prototype of Live video filters that make your footage look like it was painted by a famous fine artist like Vincent Van Gogh. Cox says the feature is based on a German academic paper aboutstyle transferthat employs convolutional neural nets to bring the style of artists like Monet or Rembrandt and apply it instantly to video.
+
+The feature is strikingly similar toan app called Prisma, which applies art filters tophotos and videos. TechCrunch reported that Prisma’s European founderrecently came to Facebook’s officesin Menlo Park, though we heard that was just a friendly visit rather than an M&A meeting.
+
+Cox said that the video filters aren’t attached to any of Facebook’s products, but the demo showed how they could work with Facebook Live broadcasts. Mark Zuckerberg is slated to share more about the video filters soon. However, Facebook says, “This is a real-time style transfer that’s happening on-device so styles can be applied to videos as they’re being taken.”
+
+Update 10/26: Today Mark Zuckerberg posted a video demo of the new style transfer video filters,  saying “I took this impressionist video of Beast on my phone with a new AI technique called “style transfer”. The idea is you show the artificial intelligence a painting and then it draws your photos or videos in that style in real time. Looking forward to getting this in your hands soon!”
+
+Live already has severalbasic color filtersto boost low light or turn videos black and white. But offering more powerful features that drastically change the footage could help users feel less shy and self-conscious about being on camera. Cox says Facebook predicts that in five years, 70 percent of all consumer internet traffic will be video. That’s why Facebook is building video deeper into sharing, publisher content in the News Feed and Messenger.
+
+During the talk, Cox and Facebook COO Sheryl Sandberg also discussed how Facebook sees itself as a technology company. Critics insist that its increasing need to make editorial decisions about what’s graphic or offensive but newsworthy makes it a media company. Facebook said Friday it’s becoming more willing to display graphic but newsworthy content instead of censorit.
+
+Sandberg said Facebook must balance fighting off hate speech and offensive content with being an open “platform for all ideas”:
+
+“Facebook is a platform for all ideas. It’s really core to our mission that people can share what they care about on Facebook…We also want to be a really safe community. You know there’s no place for violence, terrorism, and hate on Facebook…But those two things can come into conflict because one person’s free expression can be another person’s hate.
+
+As we’ve evolved we know that people are sharing more newsworthy content on Facebook. That’s something we want to make sure we enable, and it can be hard. [Gives example of nude child from Vietnam in the famous Terror Of War photo that Facebook initially took down but later restored]
+
+We will make exceptions to our community standards. There could be no better or starker example than child nudity for the benefit of newsworthiness. We’re also evolving as a service. We started out as a college-only service, now we’ve got 1.7 billion people around the world, and so we’re in dialog, in particular right now with journalists and publishers, to really figure this out and continue to evolve so people can have free expression on Facebook but we also remain a safe community.”
+
+Meanwhile, Facebook is pushing to get more people to speak up for those ideas. Sandberg says its recent voter registration efforts, which include a banner atop Facebook urging people to register and notifications about deadlines, have pushed 2 million people to register, and notes that they’re evenly split between Democrats and Republicans.

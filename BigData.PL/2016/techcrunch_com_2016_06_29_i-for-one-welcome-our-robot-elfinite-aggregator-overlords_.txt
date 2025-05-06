@@ -1,0 +1,17 @@
+I, for one, welcome our robot Elfinite aggregator overlords
+
+Who needs humans when you haveElfinite? This project by Marcin Rapacz and Bartek Oliwa aims to create a robotically aggregated lists of articles. Fans of tech will receive interesting tech articles based on their interests and gleaned from their click patterns.
+
+The team has a deep background in sociology and analysis and Rapacz was an R&D director at Comarch, a Polish software house. The project is self-funded.
+
+“We want to utilize Artificial Intelligence to categorize, evaluate, enrich and process the content,” said Rapacz. “We see huge potential in Natural Language Processing and Natural Language Generation.”
+
+“We plan to adjust content to our users. The links users see will depend on their previous choices, choices of other users with similar interests, times of the day (e.g., in the morning, users usually look for news; during coffee breaks, they look for entertainment; later, they typically look for inspiration). To prevent ‘filter bubbles,’ around 10% of links will be chosen randomly.”
+
+The pair believe that the massive amount of content available is drowning us. In order to prevent this they are proposing a smarter, easier to use interface for all of the posts and videos now available.
+
+The algorithm is based on popularity – the number of clicks – and quality including metrics like “merit,” “usefulness,” and “importance.” This is all based on the quality of the clicks – users with your same click patterns mean more in your particular case.
+
+They are also working on automatic article summaries and “robo-journalism” – short articles written about a particularly popular topic.
+
+What does this mean? It means it will be easier to find cool stuff online and, just maybe, the robots will do something other than hunt us down and eat our still-beating hearts. Humanity can dream!

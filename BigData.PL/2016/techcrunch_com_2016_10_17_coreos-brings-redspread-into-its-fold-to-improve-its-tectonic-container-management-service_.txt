@@ -1,0 +1,13 @@
+CoreOS brings Redspread into its fold to improve its Tectonic container management service
+
+CoreOS todayannouncedthat it has hired the founders ofRedspread, aY Combinator-incubatedcompany that helps enterprises deploy their software on Kubernetes container clusters, and that Redspread’sopen source toolsare now part of the CoreOS family.
+
+In its announcement today, CoreOS simply said that Redspread is “joining” CoreOS. Even after repeated prodding, the company’s spokespeople did not want to explain what “joining” actually means besides that Redspread co-founders Mackenzie Burnett (the company’s CEO) and Dan Gillespie (Redspread’s CTO) are joining the CoreOS team and that its open source products are now managed by CoreOS.
+
+According to Crunchbase, Redspread raised a total of $240,000 in funding and our understanding is that at least some money was exchanged in this conscious joining of the two companies.
+
+Redspread’s marquee tool isSpread, a command line tool that lets you easily deploy Kubernetes clusters and take Docker containers into production. The interesting twist here is that Spread uses git to allow its users to essentially version their infrastructure (and, if necessary, easily roll back to a previous version).
+
+WithTectonic, CoreOS offers a Kubernetes-based solution for helping startups and enterprises deploy and manage containers. The company plans to integrate Redspread’s collaborative deployment tool into Tectonic.
+
+“We are thrilled that Redspread is joining CoreOS,” wrote Alex Polvi, CEO of CoreOS, in today’s announcement. “With the addition of their outstanding team, we will extend our lead as an integral part of upstream and enterprise Kubernetes development. Even more, we will continue to make Kubernetes easy to consume for enterprises with Tectonic.”

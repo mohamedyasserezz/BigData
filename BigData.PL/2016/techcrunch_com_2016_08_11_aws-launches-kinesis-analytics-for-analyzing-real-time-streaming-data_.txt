@@ -1,0 +1,13 @@
+AWS launches Kinesis Analytics for analyzing real-time streaming data
+
+Amazon’s AWS cloud computing platform today launchedKinesis Analytics, a new service that makes it easier to analyze real-time streaming data with the help of standard SQL queries. Kinesis Analytics builds on AWS’s Kinesis real-time streaming data platform, which enables developers toingest streaming dataand use it intheir applications.
+
+With Kinesis Analytics, developers can immediately make the incoming data useful by running these continuous SQL queries to filter and manipulate it as it arrives.
+
+As AWS chief evangelist Jeff Barrwritestoday, a regular database query looks at data that is basically static. ” Running a Kinesis Analytics query against streaming data turns this model sideways,” he writes. “The queries are long-running and the data changes many times per second as new records, observations, or log entries arrive. Once you wrap your head around this, you will see that the query processing model is very easy to understand: You build persistent queries that process records as they arrive.”
+
+Even though the focus of Kinesis Analytics is on working with real-time data, sometimes you do actually want to have a little delay and analyze batches of data once they have arrived so you can more easily spot trends in the aggregated data, for example. For those use cases, Kinesis Analytics allows you to set “windows.” These come in three flavors: tumbling windows for periodic reports, sliding windows for monitoring and trend detection, and — if those two don’t work for you — custom windows for groupings that aren’t necessarily based on time but maybe on use interactions with an app.
+
+Kinesis Analytics is yet another AWS project that focuses on serverless processing (similar toAWS Lambda). Standard use cases for this service include IoT applications, but also audience tracking systems, ad exchanges and real-time log analytics. And because it’s all done in SQL, you don’t need to install yet another SDK or learn a new language to use it.
+
+The service is available in Amazon’s EU (Ireland), US East (N. Virginia) and US West (Oregon) regions. Pricing is based on how many processing units you need. Each unit, which is the equivalent to a virtual machine with a single virtual core and 4 GB of memory, currently costs $0.11/hour in the US regions and $0.12 in Amazon’s Irish data center. Those prices can change, though, if you occasionally need to process bursts of additional data, for example. The default pricing assumes an ingestion rate of about 1,000 records/second, but the service can automatically scale up and down as needed.

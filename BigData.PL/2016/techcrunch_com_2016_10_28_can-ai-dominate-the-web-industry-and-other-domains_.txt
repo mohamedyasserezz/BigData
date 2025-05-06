@@ -1,0 +1,31 @@
+Can AI dominate the web industry and other domains?
+
+2016 has been quite a ride for the players in AI, NLP and ML technologies. From the famous advent ofMicrosoft Tayat the end of Q1 to the numerous acquisitions of AI and chatbot companies during the latter half of this year, artificial intelligence has been in the headlines every other day.
+
+In August there was an article on TechCrunch asking a very (seemingly) simple question:Can chatbots help build your next website?Being a web programmer who is working on AI and conversational interfaces, this stirred my interest even more and compelled me to check out the services listed therein — and a few others of the same category.
+
+My excitement wore off when I found out these AI chatbots were not only at their teething stage, but also made simple tasks much more complex than the DIY builders they are supposed to kill. I researched deeper by checking out similar products of diverse industries, talking to celebrity bots on Facebook Messenger, discussing weather withPoncho, doing late night conversations withinsomnobot-3000and talking to Google Assistant on Allo about what the world is like around me.
+
+To start, I requested the private beta ofOpla, which sent me an invite the same day. It was a very basic experience (especially when you can see through the coding logic) and it failed to convince me that there was a use of AI or machine learning involved in the process. Opla must be working on upgrading their product, so let’s wait for what they come up with.
+
+AsWebware’s free trial just let me create a template website powered by an admin panel, my dream of talking to Harley (their chatbot) remained unfulfilled. So,B12was the next one in line, which asked me to set up a meeting time before they could enter me into their private beta (ain’t nobody got time for that).
+
+I searched for more services and found two others doing almost the same thing. One is a California-based startup calledMopro, which claims the “death of DIY,” and the other one is based in L.A. and is namedRightClick. The former takes information from the user in the form of a questionnaire and gives a message that their “digital specialist” will contact you. I am still wondering where did I experience AI in the entire process and how was it different from any other agency that I call for a quote.
+
+The latter, RightClick.io, started off well with their open-ended chat approach where the user can type in anything and responses were decent. But as you move forward, their bot also takes support from UI elements instead of a pure conversational format. The editing interface (as the name suggests) was completely based on right-clicking on the elements, which is quite intuitive to use. They also just use the phrase “AI” for their basic attempt toward a product that might be of some intelligence in the future. But it isn’t right now.
+
+AI is the new cool trendy phrase of our times. Anything that can respond to your message on its own (even if it is a pre-saved reply) gets labelled as artificial intelligence, which is a disgrace and demotivation to the minds actually working on NLP and machine learning.
+
+The wave of conversational interfaces is one of those rising tides that every Tom, Dick and Harry wants to surf without even assessing the needs of their target market. For example, imagine a bot for an e-commerce website that responds on a conditioned pattern and fails to understand the actual user requirements, which (on an e-commerce site) can break into a hell lot of branches. This would not only piss off the user, but also hurt the brand image of the site — contrary to the belief of their marketing team, which tried to keep up with the pace that the industry is going with.
+
+So, what’s next?
+
+A ray of hope was seeing a recent post abouta new bot-authoring platformthat not only uses rules, but AI as well, to learn conversational patterns and intonation of the target users. This could be a big step toward empowering the entrepreneurs who are eager to adopt a baby chatbot and raise it like their own.
+
+On the other hand, we have just saidHello to Google Alloand witnessed a big ripple in the AI ocean with the Google Assistant available within user-to-user chats. Moving forward, a disruptive move by Google would be to announce Allo for Developers, which is most likely to happen sooner or later.
+
+To make the market more mature, tech giants are not only focusing on improving their products and acquiring companies to lead in the industry, they are making genuine efforts to educate the public and budding entrepreneurs about how they can contribute to and utilize the growth of the AI industry. One big attempt toward this was the announcement of ahistoric Partnership on AIbetween Facebook, Amazon, Google, IBM, Microsoft and DeepMind. ThisPartnership on AIinitiative describes its reason for creation as follows:
+
+“Established to study and formulate best practices on AI technologies, to advance the public’s understanding of AI, and to serve as an open platform for discussion and engagement about AI and its influences on people and society.”
+
+In conclusion, it is best for business owners to stay on their toes to follow the rapid development in the AI space and decide to make a move when confident about the need of a chatbot in their business model. A smart move would be to integrate the conversational interface in the existing user experience first, rather than forcing the user to put extra effort and time to experiment with a bot that says “Sorry, didn’t get that” in response to every other message.

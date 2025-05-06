@@ -1,0 +1,19 @@
+Secure messaging app Telegram now offers its own anonymous blogging platform
+
+Telegram, the security-focused messaging app, has launched its own take on blogging platforms.
+
+If you’re among Telegram’s 100 million-plus active users then the newTelegraphservice will be much as you’d expect. It’s minimalist and anonymous — you can add your name if you wish — with support for markdown, in-line photos and other embeds as is standard.
+
+That makes Telegraph an interesting option for posting short notes or anonymized content online. I took it for a spin —just a few pics— and it was very easy to use. Of course, one drawback of being anonymous is that if you lose a link, it is nearly impossible to find it again since there are no user accounts or user histories. But this is probably not the right place for cat pics or food shots, despite my own example.
+
+Telegraph posts can be shared anywhere using the link, but they are optimized for Telegram and its new Instant View media layout.
+
+Instant View is essentially rich embeds for media links when they are pasted into a Telegram chat. Like Twitter, Facebook or other platforms, Instant View includes an article preview and a feature image to make clicking that link more tempting that just a bare bones URL. Once opened, they load an in-app version of the story, not unlike Facebook Instant Articles or Google AMP.
+
+These new features fit with Telegram’s recent push to develop content inside of its app.
+
+The companyintroduced in-chat gameslast month. Unlike Facebook and others who are developing playable titles that open from Messenger, Telegram’s games are text based andpowered by its bot platform.
+
+These developments are all taking Telegram from what was once a basic chat app to a more sophisticated messaging platform that is inspired by the likes of WeChat and Line from Asia. And, with Telegram founder Pavel Durov — featured in the top image — recently telling us that a payment system is on track to launch before the end of 2016, another critical piece of the puzzle is set to arrive soon. Potentially, support for payments could light up games and even media, too, depending on how Telegram wants to play things.
+
+“Something big is brewing in our secret dungeons,” Telegram teased in a blog post — looks like we won’t have to find out more.

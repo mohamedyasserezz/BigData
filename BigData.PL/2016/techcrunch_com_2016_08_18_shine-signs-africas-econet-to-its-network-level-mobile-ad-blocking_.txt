@@ -1,0 +1,33 @@
+Shine signs Africa’s Econet to its network level mobile ad-blocking
+
+Wannabe ad industry nemesisShinehas chalked up another telco to commit to deploying its mobile ad blocking technology which uses deep packet inspection to detect and eject ads at the network level — its third such telco deal.
+
+Econet Wireless, which operates in Africa where it has a total of 40 million subscribers, will be deploying Shine across all its operational regions there, starting with Zimbabwe — although there’s no firm timeframe on the planned rollouts. The other three Econet markets where it intends to deploy Shine are: Burundi, South Africa and Lesotho.
+
+It’s the first sign up for Shine’s tech in Africa, and its third publicly announced deal — after Caribbean mobile operatorDigicel, which was first on board with Shine in September 2015, and the Three Group inFebruary, initially with the intention of offering mobile ad blocking on its European carrier brands, Three UK and 3 Italia.
+
+The Econet deal is also the partnership with the largest potential reach for Shine thus far, given the subscriber numbers involved — although the first market, Zimbabwe, only accounts for 10M of the 40M total reach.
+
+As with the Digicel arrangement, Shine’s Econet deployment will see its ad blocking turned on by default for all subscribers — an approach Shine has not been able to pursue in Europe, thanks to a different regulatory landscape.
+
+In Europe, Three subscribers will need to opt in to mobile ad-blocking when the Shine implementation finally launches. And there’s no official timeframe for that as yet, with Shine’s CMO, Roi Carthy, saying only that the teams are “working tightly” to bringitto “general availability as soon as possible”.
+
+Speaking to TechCrunch back inFebruary, Carthy (who —disclosure alert!—used to be a TC contributor) expressed confidence of ending the year with “hundreds of millions” of consumers either opted in or with the option to opt in to Shine’s mobile ad-blocking tech.
+
+At the time he said it was talking to more than 60 carriers globally about potential rollouts.
+
+So far the committed maximum potential reach of Shine (once all the announced rollouts are complete) is around 70M telco subscribers globally, given that Digicel has ~14M subscribers; Three UK has 8.8M; 3 Italia has ~9M; and Econet has ~40M.
+
+That figure might stretch a little further if the entire Three Group (~25M) ends up deploying the tech, but so far it’s only committed to switching Shine on for UK and Italian subscribers. So Shine will likely need to pick up the pace on the sales pitch front if it’s going to hit a target of being within reach of “hundreds of millions” by year’s end.
+
+Asked whether emerging markets are a particular sales priority for it at this point, Carthy said not “per se”, although he couched “adtech abuse” of data plans as “particularly painful” for consumers” in these markets, describing ad blocking as “essential and meaningful” for users in these markets.
+
+“As we’ve beensaying time and time again, AdTech abuse is global,” he added. “Econet isn’t the only carrier that’s driven to protect its consumers’ data plans, so we see Africa just as important a market for us as any other.”
+
+Commenting on the forthcoming Shine rollout in a statement, Econet Wireless Zimbabwe’s CEO, Douglas Mboweni, said: “This will lead to quicker loading and cleaner looking web pages free from advertisements, lower resource waste in terms of bandwidth and memory,” adding: “This goes a long way in solving the issue of bill shock resulting from unsolicited adverts. In addition there are privacy benefits gained through the exclusion of the tracking and profiling systems of ad delivery platforms.”
+
+One recent development in the ad blocking wars has been for social network giantFacebook to move against users of ad blocking technologiesby changing how its native ads are displayed — thereby disabling the ability of ad blockers to block adverts that appear in Facebook’s News Feed stream. The company’s ad-fueled business model is obviously threatened by rising use of ad block technologies, including moves to expand ad block apparatus to mobile devices.
+
+Shine’s network-level ad blocking does not currently target native ads — with Carthy telling TechCrunch back in February that the company was not doing so because it didn’t want to negatively impact the user experience and also because it wasn’t being asked by carriers at that time to remove native ads.
+
+Asked now whether its stance on native ads has changed, in light of the latest developments with Facebook blocking ad blockers, Carthy said: “All I can say on the subject is: Yes, we have the ability to block Facebook’s native ads.”

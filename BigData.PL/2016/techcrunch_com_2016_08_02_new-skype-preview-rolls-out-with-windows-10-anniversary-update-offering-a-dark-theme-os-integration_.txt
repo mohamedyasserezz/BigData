@@ -1,0 +1,19 @@
+New Skype Preview rolls out with Windows 10 Anniversary Update, offering a dark theme, OS integration
+
+Along withtoday’s rolloutof theWindows 10 Anniversary Update, Microsoft is alsodebutinga new version of its Skype Windows application, which the company says has been redesigned from the ground up. In addition to the new app’s look, Skype is also now integrated with Windows 10, which means it can work more seamlessly with the operating system. For example, you’ll be able to reply to messages from a pop-up notification instead of having to open the app, or you canopenthe Camera app to take a photo, then send it via Skype.
+
+The new Skype app has also been designed with Windows 10’s look-and-feel in mind, meaning it now sports a darker theme. However, Microsoft notes that you can visit the app’s settings and pick “Light Theme” under the Personalization section if you prefer the older, brighter user interface.
+
+All of Skype’s standard features are included with this release, like 1:1 and group video calls, 1:1 and group chat, the ability to dial mobile and landline phones, the ability to share files, photos and video (up to 300 MB), plus use emoticons and Mojis (Skype’s own emojis) and more.
+
+And you can chat with anyone using Skype, whether they’re connected via a Windows device or they’re using an Apple or Android device.
+
+The app also lets you track conversations, search for contacts and useSkype’s newer “bots,”introducedearlier this year. This latter feature, still in preview, lets you interact with automated accounts that can search the web via Bing, find images or summarize web pages, among other things.
+
+The new Skype is also still in “Preview,” but unlike Skype’s apps in the past, it’s now shipping with the OS itself, and will take advantage of the Universal Windows Platform.
+
+To gain access, Windows users will have to download the Windows 10 Anniversary Update on their computer, then open the Start Menu and look for the “Skype Preview” option in the list of available apps.
+
+If Skype was already installed on your computer, it will continue to work as before. In that case, if you want to switch over to the Preview version, you’ll have to launch it instead and sign in.
+
+The move to bundle Skype with the OS follows Microsoft’s recent news that it was transitioning the underlying platform from peer-to-peer to amobile-friendly cloud architecture. Asthe company explained at the time, the new Windows 10 UWP app will also be “faster, lighter and more responsive” thanks to this move.

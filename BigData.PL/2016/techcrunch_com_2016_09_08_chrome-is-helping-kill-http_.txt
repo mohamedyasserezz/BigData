@@ -1,0 +1,17 @@
+Chrome is helping kill HTTP
+
+2016 might be the year that HTTP finally dies.
+
+Chrome’s security team announced today that the browser will start marking websites that use insecure HTTP connections to transmit passwords and credit card data as insecure, beginning in January 2017. The warning will appear in the address bar of the browser and will call users’ attention to the fact that their personal information could be snooped or stolen.
+
+Eventually, Chrome will add the security warning to HTTP pages when a user visits them in the browser’s “Incognito” mode, and later the warning will roll out to all HTTP pages.
+
+The changes seem intended to pressure site owners to switch to the more secure HTTPS, which encrypts data while in transit and helps prevent the site from being modified by a malicious user on the network. “Don’t wait to get started moving to HTTPS. HTTPS iseasier and cheaper than ever before, and enables both thebestperformancethe web offers andpowerfulnewfeaturesthat are too sensitive for HTTP,” Chrome’s Emily Schechter wrote in a post announcing the changes.
+
+Google, which runs Chrome, isn’t the only company leaning on websites to make their connections more secure. Apple said earlier this year that it would require app developers toforce HTTPS connections for iOS appsby the end of 2016, and Facebook’s Instant Articles are served over HTTPS, automatically adding security for readers even if they wouldn’t get it on the publication’s own website. Pressure from some of the world’s biggest tech companies will undoubtedly push security forward for millions of people.
+
+Schechter says that Chrome is already seeing websites make the switch to HTTPS. “A substantial portion of web traffic has transitioned to HTTPS so far, and HTTPS usage is consistently increasing. We recently hit a milestone with more than half of Chrome desktop page loads now served over HTTPS,” Schechter wrote.
+
+In January, Chrome users can start looking out for the security warning in the address bar of their browser. It’ll look like this at first:
+
+And then as it rolls out to all websites, the warning will look like this:

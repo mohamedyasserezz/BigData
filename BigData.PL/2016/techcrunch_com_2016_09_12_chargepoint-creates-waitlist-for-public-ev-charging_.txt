@@ -1,0 +1,15 @@
+ChargePoint creates Waitlist for public EV charging
+
+It seems counterintuitive to call a service Waitlist. No one wants to be put on a wait list; we want to just do the thing we came to do. ButChargePointhas, ahem, a point in creating this new feature, which launches today. Basically, it allows drivers of electric vehicles to virtually queue up for a charging station.
+
+Here’s the situation that Waitlist aims to solve. Say John, who has a long-ish commute, arrives at work and parks in the EV-designated space in the company parking garage. He plugs in and heads to his office. Then Jennifer arrives in her EV. She parks next to John but doesn’t know him or know that this is his car. She either has to keep checking on the charging car or leave a note asking the driver to call her when he’s done.
+
+If that’s aChargePointcharger, Jennifer can tap her ChargePoint card on the station itself to get in the queue. When his battery is topped off, John will get a “friendly reminder,” according to the press release, to move his EV and make room for the next person to charge.
+
+Users can also set a time or energy limit — say, 80% full — for their charging session rather than waiting for the battery to be filled all the way. Those in line can either move their car to the now-vacant space when their turn comes up, or they can opt to defer if they’re busy. They’ll be added to the queue for the next availableChargePointstation.
+
+In Waitlist’s testing phase, station usage increased by 20%. At stations that were already busy, with lots of cars moving in and out of designated EV spaces to charge, usage increased by 45%. The tests had 14,000 drivers participating, and on average 500 of them were queued up every day. Most importantly, “all drivers had typically received adequate charging before the end of the day.”
+
+The email that accompanied the announcement noted that Waitlist can stop “charge rage,” the frustration that comes with waiting for an available charging station. This idea came across my desk about a year ago, and I made phone calls to charging companies and public parking garages with chargers in Portland, Oregon. No one at the time had heard of any actual users being mad enough to make a call or tweet or complain, so “charge rage” may not be anything to worry about.
+
+Whether “charge rage” was real in 2015 may be a moot point in the future if features like Waitlist can stop that frustration in the in the first place.

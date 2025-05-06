@@ -1,0 +1,63 @@
+How predictive analytics discovers a data breach before it happens
+
+Cybersecurity experts and analysts are constantly trying to keep pace with changes and trends in the volatile and ever-shifting landscape of IT security.
+
+Despite sophisticated tools and solutions that are being rolled out by cybersecurity vendors, every IT security officer knows that data breaches eventually happen — it’s not about theifbut thewhen —andthey usually go undetected for a long time.
+
+Machine-learning-powered solutionshave somewhat remedied the situation by enabling organizations to cut down the time it takes to detect attacks. But we’re still talking about attacks that have already happened.
+
+What if we could stay ahead of threat actors and predict their next attack before they take their first destructive step? It might sound like a crazy idea out ofSpielberg’sMinority Report,but thanks to the power of predictive analytics, it might become a reality.
+
+Predictive analytics is the science that is gaining momentum in virtually every industry and is enabling organizations tomodernize and reinvent the way they do businessby looking into the future and obtaining foresight they lacked previously.
+
+This rising trend is nowfinding its way into the domain of cybersecurity, helping to determine the probability of attacks against organizations and agencies and set up defenses before cybercriminals reach their perimeters. Already, several cybersecurity vendors are embracing this technology as the core of their security offering. Here’s how predictive analytics is changing the cybersecurity industry.
+
+The traditional approach to fighting cyberattacks involves gathering data about malware, data breaches, phishing campaigns, etc., and extracting relevant data into signatures, i.e. the digital fingerprint of the attack. These signatures will then be compared against files, network traffic and emails that flow in and out of a corporate network in order to detect potential threats.
+
+While signature-based solutions will continue to remain a prevalent form of protection, they do not suffice to deal with the advanced and increasingly sophisticated cybercriminals who threaten organizations.
+
+“In the past decade or so, the landscape of cyber security threats has changed dramatically,” explains Amir Orad, CEO of analytics companySisense. “The bad actors have transitioned from ‘script kiddies’ to organized crime and state actors, which direct highly sophisticated attacks against specific targets, for example via APTs — agents that infiltrate your IT systems and surreptitiously trickle minute amounts of data outwards.”
+
+AVerizon Data Breach Investigations Reportreveals that more than 50 percent of data breaches remain undiscovered for months. In contrast, thanks to the array ofinnovative malware,botnetsand other advanced data-theft tools at their disposal, attackers only need minutes to gain access to the critical data they seek after they compromise a target.
+
+Moreover, threat signatures are gradually becoming a thing of the past. “The most significant change in the cyberthreat landscape is the rise of point-and-click exploit kits,” says Dr. Anup Ghosh, founder and CEO of cybersecurity firmInvincea. These exploit kits enable attackers to create unique signatures for each attack. “This approach breaks most traditional security systems because the products haven’t seen the attack before in order to detect it,” explains Ghosh, who’s done a stint as cybersecurity expert at the Defense Advanced Research Projects Agency (DARPA).
+
+“Current cybersecurity solutions leave a wide gap in coverage,”says Doug Clare, vice president for cyber security solutions at analytics software companyFICO. “It’s like having a burglar alarm that doesn’t go off until after the burglar’s done his work, left the premises and crossed the county line.
+
+FICO’s solution, dubbed Cyber Security Analytics, utilizes self-learning analytics and anomaly detection techniques that monitor activity across multiple network assets and real-time data streams in order to identify threats as they occur without having specific knowledge of the exact signature. These analytics immediately detect anomalies in network traffic and data flows, while also quickly recognizing new “normal�� activity, thus minimizing false-positive alerts. FICO also takes advantage ofthreat intelligence sharingin order to continually enhance its model with insights gained from data contributed by a consortium of users.
+
+Though a very promising trend, predictive analytics has some hefty requirements when applied to cybersecurity use cases. For one thing, the variety and volume of data involved in identifying and predicting security threats are overwhelming. This necessitates the use of analytics solutions that can scale to the huge storage, memory and computation requirements.
+
+“Organizations today work with large volumes of data from multiple disparate sources, which makes it difficult to trace the signals of a cyber-attack as it is happening due to the need to quickly analyze this data and perform advanced calculations on it in near real-time,” says Sisense’s Orad.
+
+“The challenges are the same, yet amplified, as those encountered when applying analytics in general,” says Lucas McLane (CISSP), Director of Security Technology at machine learning startupSparkCognition. “This is because predictive analytic processing requires a lot more computing resources (i.e. CPU, memory, disk I/O throughput, etc.). This is especially true when the algorithms are operating on large-scale data sets. Predictive analytics engines need to be paired with computing resources that are designed to scale with the volume of data targeted for analysis.”
+
+Further complicating the situation, Orad explains, is “the fact that the cyber-attack’s signal is often very weak and obstructed by a lot of organizational noise, i.e. there will only be a very slight change in patterns recognizable.” This is in turn means that using the wrong algorithms can easily create a lot of false positives, Orad warns.
+
+That is why cybersecurity companies are teaming up with analytics firms, such as Orad’s own startup. Sisense provides a set of proprietary tools and features that enables cybersecurity companies to quickly analyze huge sets of scattered data. They leverage the platform to identify suspicious patterns, then they can open a Sisense dashboard that lets them query terabyte-scale datasets, investigate a potential attack and drill into the data to see whether further security measures are necessary.
+
+Forging alliances across industries certainly has its benefits. As Orad explains, advanced analytics platforms such as Sisense enable cybersecurity firms to obtain “an end-to-end solution for modeling, analyzing and visualizing data, without investing vast resources into building a data warehouse as traditional tools would necessitate.”
+
+“Predictive analytics in security provide a forecast for potential attacks — but no guarantees,” says McLane from SparkCognition. That’s why he believes it has to be coupled with the right machine learning solution in order to be able to harness its full potential.
+
+SparkCognition’s platform, SparkSecure, uses “cognitive pipelining,” a technique that involves the combination of machine-learning-based predictive analytics with the company’s own patented and proprietary static and dynamic natural language processing engine, called DeepNLP.
+
+According to McLane, cognitive pipelining automates the tedious research steps that descriptive and predictive analytics require, which results in “an acceleration of the analyst’s ability to discover the real malicious traffic from the anomalous outliers and forecasting provided by ML.”
+
+The use of predictive analytics coupled with machine learning and natural language processing allows for cybersecurity to move beyond the cumbersome strategy of maintaining black-lists.“Signature-free security allows us to detect, with high confidence, new threats that have never been seen before,” says McLane.
+
+Not everyone believes that predictive analytics is the ultimate solution to deal with advanced threats. Arijit Sengupta, CEO of business analysis companyBeyondCore, suggests that we look at the problem from a different perspective.
+
+According to Sengupta, cybersecurity challenges stem from two factors. Firstly, the value and volume of online assets are exploding at and exponential rate. Secondly, hackers are increasingly growing in sophistication due to their easy and inexpensive access to large compute resources through cloud computing.
+
+While predictive analytics can help deal with today’s challenges, as both data and computing resources continue to expand, we’ll be facing a problem, Sengupta believes. “If the surface area of your data is growing exponentially and the resources accessible to your attacker is growing, then even predictive analytics is no longer good enough because you simply don’t have the resources to react,” he says.
+
+The correct approach, Sengupta believes, is to “rethink why and how we store valuable data in the first place.”
+
+We also have to consider that the tools and tactics of our adversaries will evolve and change in parallel with ours, warns Olivier Tavakoli, CTO of cybersecurity startupVectra Networks. “After several years spent trying to perfect predictive analytics, attackers will counter with feints and pattern randomization,” he predicts.
+
+Nonetheless, with big data and machine learningstarting to take a decisive role in every industry, it is only fair to estimate that predictive analytics will have a pivotal role in shaping the future of cybersecurity.
+
+“In the near future, and even today, there will be no cyber security without predictive analytics,” says Orad from Sisense. “Threats have become so sophisticated, and they evolve and change so rapidly, that the only way to identify them on time is via advanced statistical analysis of big data.”
+
+Invincea’s Ghosh believes it is inevitable the security industry will need to re-tool to address an ever-changing threat. “We are making our bet on artificial intelligence is the solution to predict our adversaries’ next moves,” he says.

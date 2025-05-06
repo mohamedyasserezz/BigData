@@ -1,0 +1,25 @@
+iCloud stores your iPhone’s call history for four months
+
+If you share the same Apple ID with your family, you may have noticed that the call history gets synced between those devices.The InterceptandForbesfound out that Apple stores this log on its servers for up to four months and law enforcement could take advantage of it.
+
+Apple wants you to be able to browse your missed calls on multiple devices. That’s why the company is using iCloud to sync this data between all devices associated with the same Apple ID. As soon as you activate iCloud, your iPhone will start uploading this log. Even if you disable everything (calendars, contacts, etc.) and just keep iCloud activated, your call history will get synced. With iOS 10, VoIP apps, such as FaceTime, Skype, WhatsApp and Viber also now appear in your call history. You can manually delete a call and it will get deleted on iCloud’s servers and all your devices.
+
+That’s not necessarily an issue, until you remember that Apple holds the iCloud encryption keys. So it means that the FBI could ask for this data, and Apple is able to comply. Apple plans tomake iCloud more secureto keep the government away by handing you the encryption keys, but it’s not ready yet.
+
+Also worth remembering, if you activate iCloud backups, your iPhone will sendliterally everythingto iCloud — your text messages, your call history, your notes… Given that it’s quite a popular feature, many already accepted to hand out their call history to Apple.
+
+But there are still a couple of issues. First, four months seem like quite a long time for a call history. I don’t know anyone who browses back so far in the past to figure out who called them four months ago.
+
+Second, Apple should explicitly tell you what gets synced to iCloud’s servers once you activate the feature. Many features are quite obvious thanks to settings toggles. But Apple should still educate its users about what is synced by default, even when everything seems off.
+
+Finally, the notion of encryption keys is quite complicated. Many people don’t understand how encryption works. Sure, a hacker can’t simply hack Apple’s servers and download your iCloud data. But many people don’t know that Apple can actually decrypt their backups without your approval.
+
+Here’s a quick rundown of what a government entity or a hacker can do to access your data. With a court order, Apple can share your iCloud data with a government entity. Apple hascomplied with thousands of FBI requeststo access iCloud data. Many governments can also access metadata information by asking phone carriers.
+
+Without a court order, a hacker needs your login and password to access your iCloud account. Applications likeElcomsoft’s extraction toollets you then download some or all of this data.
+
+That’s why it’s important to enabletwo-factor authenticationfor your Apple ID and be aware of the content of your iCloud account.
+
+An Apple spokesperson has provided the following statement:
+
+“We offer call history syncing as a convenience to our customers so that they can return calls from any of their devices. Apple is deeply committed to safeguarding our customers’ data. That’s why we give our customers the ability to keep their data private. Device data is encrypted with a user’s passcode, and access to iCloud data including backups requires the user’s Apple ID and password. Apple recommends all customers select strong passwords and use two-factor authentication.”

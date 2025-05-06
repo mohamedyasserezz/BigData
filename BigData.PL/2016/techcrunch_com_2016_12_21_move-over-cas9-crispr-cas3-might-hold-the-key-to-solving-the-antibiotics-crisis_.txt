@@ -1,0 +1,29 @@
+Move over Cas9, CRISPR-Cas3 might hold the key to solving the antibiotics crisis
+
+Researchers at North Carolina-basedLocus Biosciencesthink they have a potential cure for antibiotic resistance using CRISPR’s lesser-known Cas3 enzyme.
+
+Most of the interest in CRISPR technology centers around the enzyme Cas9, which acts as a type of genetic scissors, allowing scientists to snip out, edit and replace DNA at certain intervals along the genome. However, Cas3 goes beyond Cas9 by targeting the DNA of bacterial cells and then chewing them up beyond the point of repair. This action turns the CRISPR-based bacterial immune system on itself, prompting the cell’s death.
+
+Co-founder Paul Garofolo likens the process to Pac-Man. “It comes in and it chews the target DNA so when a Pac-Man chews the chromosome it in turns kills the bacterium,” Garofolo told TechCrunch.
+
+And he and his co-founder Rodolphe Barrangou believe the technique could be used on dangerous antibiotic-resistant bacteria.
+
+The coming antibiotic resistance crisis has been called one of the world’s most pressing public health problems. Just imagine a world in which we had nothing to cure pneumonia, gonorrhea or meningitis. The introduction of penicillin in the 1940s was a life saver for millions, heralding the dawn of the antibiotic era.
+
+But, according to the Centers for Disease Control, more than half of the antibiotics prescribed these days for patients are inappropriate — merely killing good bacteria while weakening our immune systems and strengthening the bad bacteria, and we are fast approaching a day when we have nothing to cure us of these deadly bacterial infections.
+
+We’re already seeing the effects of antibiotic resistance in MRSA deaths. Methicillin-resistant Staphylococcus aureus (MRSA) — or staph — is a bacterium ironically picked up in hospitals and is highly antibiotic resistant. Though aJAMA reportshows MRSA infections are on the decline, two out of every 100 people are carriers andif left untreatedit can cause sepsis and death.
+
+Locus Biosciences hopes to head off a crisis with its patented technology and tells TechCrunch it is already in the midst of raising a significant round of Series A funding to do just that. Though it didn’t want to say how much or from whom the funding would come, Locus did tell us it was seeking finances from both strategic health investors and traditional VCs.
+
+The startup is also in the final rounds of the $2 millionHealth and Human Services Carb-xfund to combat antimicrobial resistance.
+
+The Locus team also comes loaded with heavy scientific and business chops. Barrangou came from Caribou Biosciences and helped found CRISPR company Intellia with Jennifer Doudna. Garofolo left Valeant Pharmaceuticals (yes,that Valeant)in 2008 to join pharma company Patheon as its CTO before starting Locus. Both teach in the sciences department at North Carolina State.
+
+But this technology, like gene-editing technique CRISPR-Cas9, isn’t perfect, and Barrangou and Garofolo are aware of the risks. For one it still needs to get FDA approval. And though the 21st Century Cures Act may be able to help out, it will still need to go through human trials to prove its effectiveness.
+
+On the upside, the enzyme is only able to target bacterial cells as it’s too big to enter a human cell and cause DNA damage there. You also don’t have the moral or ethical issues Cas9 presents.
+
+“We’re not trying to change baby eye colors or make super soldiers or any of those types of things…we’re killing some of the deadliest pathogens on the planet,” Garofolo said.
+
+Overall, it’s an intriguing idea and may have the potential to kill off bacterial diseases in a major way, possibly eradicating them from the face of the Earth. But, of course, all of that depends on FDA approval and proof this works in human trials first.

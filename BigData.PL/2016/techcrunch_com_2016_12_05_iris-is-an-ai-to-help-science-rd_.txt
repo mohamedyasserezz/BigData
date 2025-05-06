@@ -1,0 +1,107 @@
+Iris is an AI to help science R&D
+
+Most startups have a pitch; the team behindIris AIhas two. They’ve created an AI-powered science assistant that functions like a search tool, helping researchers track down relevant journal papers without having to know the right keywords for their search. But in future its big vision is that an artificially intelligent baby grows up to become a scientist capable of forming and even testing hypotheses, based on everything it’s going to learn in its science research assistant ‘first job’ role.
+
+Such is the multi-stage, big-picture promise of artificial intelligence. Yet convincing customers to buy into AI’s potential now, at what is still a pretty nascent stage in the tech’s development, remains a challenge. Evidence of superior efficacy is required.
+
+So here at Disrupt London, the startup behind Iris is rebooting its business model to focus on expanding the community of users for the tool via events focused on demonstrating the utility of an AI assistant. And with an eye on steering Iris’s continued and future development via some tailored problem-solving. Two birds, one stone.
+
+Their idea: ‘Scithons’, or science hackathons. The aim is to bring together a community of problem solvers to help companies crack specific R&D challenges, while also putting Iris to work assisting in the problem-solving process and learning from specific problems and the solutions hacked together during the events. It’s a flip of the team’s initial idea to sell custom pilots of Iris to companies with big R&D needs — although ultimately they do aim to sell their AI’s smarts as a software as a service. First they need Iris to win fans and influence influential people. And to learn — a lot.
+
+“AI is kind of new to people,” says co-founder and CEO Anita Schjøll Brede. “Companies are intrigued but they don’t quite understand how it works and they’re a little hesitant sometimes. They’re curious but they want to see how it works — they want to really get a feel for it. So rather than trying to sell custom installations of the tool, we’re launching these ‘scithons as a service’, or as an event concept.
+
+“What we’re selling right now is the ability to host a scithon — where we find, from our community, 20, 30, 40 really smart, really driven talent from a variety of different backgrounds, and we get them together with this company partner that has a scientific challenge to solve. And let these teams sit down and compete for a prize set by the company. They compete for a number of hours to solve the challenge. So the company gets a solution to a challenge and access to some really smart, young driven people.”
+
+Who is it targeting scithons at — and the Iris product more generally? Research consultancies and companies needing to solve hard scientific problems. Companies with both “heavy R&D requirements” but also multidisciplinary R&D needs, says Schjøll Brede, suggesting telecoms companies as one potential target.
+
+“It’s not just one thing you develop, but there’s a variety of different fields that you need to be focused on,” she says of the target customers. “Also research consultancies that deal with a variety of different clients that all look at things from different angles.”
+
+Another target: companies at risk of being disrupted by smaller upstarts taking risky bets on new technologies like AI. In other words, enterprises scared of disruption by startups.
+
+“We do need the ones that are willing to take a risk,” she adds. “The people that are seeing the disrupting trends of the world because, let’s face it, most of these big players — if they don’t do anything within the next few years they’re going to be outperformed. So we’re looking for those players who understand that ‘this AI thing,’ while we may or may not understand it, it’s coming for real and we need to embrace those new trends and technologies right now.”
+
+The first version of Iris launched back in February, having been trained for three months on some 2,000 Ted talks. At that point it was capable of serving up a digest of the core scientific concepts underlying a particular Ted talk. But version 2, which arrived in September after a five-month period of crowdsourced science training, expanded Iris’ abilities into the current science assistant functionality. The team now has around 2,800 people signed up to help school Iris.
+
+Why are people dedicating their valuable time to train an AI for free? Schjøll Brede reckons part of that is because these are people who want the tool themselves. And partly it’s a shared belief in the core mission of making scientific knowledge work harder for humanity, she says. She stresses that the basic version of Iris will always be free, noting also that the team intends to open source parts of their code once they have secured seed funding to have the resources to do it. They have angel backing to the tune of €380k ($415k) at this point.
+
+The business was founded in November last year, after several of the co-founders met during a 10-week program atSingularity University. There they settled on science as their focus, deciding there was a serious pain-point for entrepreneurs and businesses to access “core knowledge when you don’t know quite what you’re looking for and you’re not a domain expert” — and from there the idea for Iris was born.
+
+Ultimately, the core problem Iris AI is trying to solve is the sheer volume of scientific literature being published — making parsing and contextualizing it more time-consuming. Schjøll Brede argues that humans need increasingly smarter, machine-assisted ways to navigate the ever-growing mountain of scientific knowledge, and to help researchers keep pace and come up with new and better theories and ideas.
+
+And while there are existing digital services making scientific literature searchable via keywords, such as Google Scholar, there are fewer options for navigating digital content in a way that automatically foregrounds related and relevant research to take some of the legwork out of the process. Which is where they want Iris to come in.
+
+“We’re using a non-semantic neural topic modeling approach with a heuristic function for hierarchy building,” says Schjøll Brede. “We fetch the abstract from the scientific paper and that’s what we work with. We start with a frequency analysis and pull out the most essential words and expressions from that paper. Then we turn each of those words into a vector, in a multi-dimensional vector space.
+
+“Iris goes and finds related words from this whole other body of content — so she works with synonyms and also hypernyms… And then we cluster all of these words. So we get these clusters or bags of words related to each of these keywords found in the text. And then we do a calculation of what is the most applicable label for this bag of words.
+
+“In that way we build up a fingerprint of this document that you just inputted. And we use that to go out and fetch relevant papers. We also create these hierarchies that you can see in the tool — we have two, or three, or five main categories. And each of the main categories have subcategories. There’s up to a few layers of categories within the results. And then each of these bottom categories we go out and fetch relevant research papers from a database of open access papers.”
+
+Here’s an example of the top-level results Iris served when I input the URL of a research paper involving carbon nanotubes.
+
+Each segment is clickable, allowing the user to drill down to pull up additional research papers that fall into the various categories identified and foregrounded by the AI. The idea being to present information in clustered groupings, rather than a hierarchical list — to add a visual element to aid navigating a complex knowledge base.
+
+Drill down two more layers and the graphic can now look like this (below) — with individual research papers able to be moused over for a closer look, such as the one flagged below on the properties of β-Zn4Sb3materials.
+
+Iris’s visual structure for presenting search results brings to mind earlier search-focused projects, including some predictive search efforts, such as research projectSciNet(commercialized asEtsimo), andRandom.
+
+“From day one we thought UX is going to be really important,” says Schjøll Brede. “For us the visualization of data is something that our whole team is very passionate about… I believe that the core tech is super important in helping our users get the overview and find the relevant papers, and step away from keywords, but I think also the visual overview gives our user a lot.”
+
+“You get this visual, navigational dynamic of it that I think our brains can handle a lot better than this, like, ten-page list,” she adds, dubbing AI search plus visually navigable results a “really powerful combination”.
+
+At this point Iris has read a training data-set of around 18 million research papers, according to Schjøll Brede. Although not the papers in full; for now it’s only looking at abstracts. The intention is to step that up to parsing full research papers in time, at which point the tool could expand in search granularity to be able to trawl for only portions of research within a full paper — potentially further slicing and dicing the scientific knowledge base, including across disciplines, as well as improving the overall quality of Iris’s search results. Again, though, it’s not there yet.
+
+“We’ve found that we get really, really good results from just using the abstract. But that is also just a start. In the same way that the Ted talks were a fun and very simple way to start, abstracts are the next level. We’re dealing now with 50 million papers and not 2,000 talks, so it’s a big step up but it’s also just a start,” she says.
+
+“The next step in terms of our development is not just using the abstract but reading the full text paper. We’re also building the similarity graph where we’re going to machine read both the inputted paper and all of the outputted papers and do a full vectorization of documents… So the same way we vectorize the words now, we can vectorize the full fingerprint of the documents. Which means the results are going to be a lot better than what they are today.
+
+“They’re good enough to make a difference today but they’re going to be a lot better within the next say seven to eight months when we release that version. Then also once we’ve read the full text versions what we can start doing is breaking down the paper into smaller pieces — so we can look at, let’s say, I’m working with a protein for some medical applications, and I’m really just looking for methods to do whatever I need to do with this protein — we can start filtering or searching only within methods. Or within subject matter. Or within specific results etc.”
+
+One rather sizable blocker for Iris is that not all research papers are Open Access research papers. So those locked up behind paywalls pose a problem — although the team hopes to convince paid journals to partner with it in time, to help unlock access to more science. For now Iris’s output reach extends to some 37.5 million Open Access research papers but the hope is to be able to add more content as time goes on. They’re using theCorerepository as their source of output research papers but say users can input a wider range of research papers as the starting point for a search (circa 50M).
+
+The size of the Iris community itself is also fairly bounded. Schjøll Brede says visitor numbers are around 43,000, with around 13 percent converting into active users (it measures this as someone who uses the tool to perform a search, navigates to a paper, and “properly” looks at it, she says). So it’s going to need to seriously step that up if it wants to make its idea of a platform for running scithons scale beyond the initial handful it intends to closely supervise itself.
+
+Another serious limitation is the type of science Iris can intelligently parse. She’s better at hard science vs softer stuff, says Schjøll Brede — name-checking the likes of aerospace, automotive, physics and chemistry as areas where Iris excels. Other fields of study pose problems for her artificial intelligence.
+
+“We’re working on a list right now of specific scientific areas — we’re trying to measure what areas we’re more or less good at,” she says. “But in general hard sciences, so aerospace, automotive, material sciences, physics, chemistry, those kinds of harder areas. Not so good with marketing research or economics or things like that.”
+
+Outside these select strong performance disciplines I found Iris can soon falter and start suggesting some pretty random/surreal results. I tested it on the abstract for an epidemiological study of a skin condition, for example, and got avery mixed bag of results— including research papers on elliptical galaxies, the cultural evolution of co-operation, and a paper on the effects of low flush water closets in buildings and their impact on draining systems… Now it might be there’s a brilliant robot medical dermatological hypothesis being forged by a budding machine intellect that connects the dots of poorly designed toilets with compassionate cultural leanings and a little galactic wonkiness but I doubt it. Er… Iris, what have you been smoking?
+
+Meanwhile the time-frame for the really grand vision for Iris to metamorphose into an experiment performing scientist herself — well, the team budgeted a decade for that at launch — so it’s now nine-years and counting… Iris better get swotting.
+
+It’s worth noting there are also others applying AI to ease the pain of scientific search.Semantic Scholaris one not-for-profit effort we’ve covered before, for example. Though Schjøll Brede says the difference is it’s taking a semantic approach to extracting context from text, which she says needs a full language model to function, vs Iris’s non-semantic approach, which does not require a language model. Although she concedes it’s not yet clear which approach is superior.
+
+“Rather than trying to understand the sentences, we’re just understanding the context,” she says. “Some linguists are not happy with that approach but we’re already seeing in other applications, like translation engines… that the statistical deep learning, non-semantic approach to it seems to work a lot better. Though it goes against the theory that’s been prevailing for a long time.
+
+“There’s still no determination on which approach will be better. We think there’s going to be a hybrid of it, but we start out with a non-semantic approach.”
+
+Other startups also tackling a similar problem include Canada-basedMeta;Yewnoin San Francisco; and a Danish company calledUnsilo, according to Schjøll Brede.
+
+In terms of planned progress, Iris’ parents are hoping the next year will see a couple of new version releases — so the tool will not only generate a contextual overview but be able to create full similarity graphs, stepping up result quality. They also intend to have launched their digital platform for organizing scithons and are hoping to have started seeing tangible results of companies getting their challenges solved.
+
+Another hope is to have started to move beyond open access journals — and “potentially integrated with one or two paywalled journals”. They also want to be generating revenue throughout 2017.
+
+After that, sometime in 2018, the next step in the business plan is to set up an API, pitching it to larger companies with lots of propriety research locked up in their own R&D databases — with Iris envisaged as a SaaS for unlocking insights from within internal R&D departments — so still a far cry from a robot scientist but, in business model terms, a bit more grown up. To get there they still need to prove core utility though. So let the scithons commence!
+
+Judges Q&A
+
+Q:The markets for this could be legal, patent searches, copyright, healthcare, research papers… this is one of these things that’s incredibly valuable to a small set of people and of no value to most people. So how do you target those companies who really, really value this and how do you price it so that you get the most value?A:We’re looking at about 11 million people working in R&D. For the SaaS model that’s kind of the target market. When it comes to the scithon go-to-market strategy the first few we’ve priced more or less at cost to be able to break into the market and get that traction. When we scale that in a digital platform we get more scale to it – but I think the real value is going to come in the third step of the process when we go into connecting with internal R&D databases where these massive corporations have 500,000 internal R&D documents that they can’t make heads nor tails of. That’s where the real value is going to come in.
+
+Q:Which areas will you go after first? Science for sure? Or do you think legal or patents might have more value for you?A:Patents might play into it. But it’s the engineering, hard sciences, aerospace, automotive, material sciences, those heavy, R&D hard sciences.
+
+Q:I would encourage you to look at other markets like legal or medial or copyright because there’s a tremendous amount of data that you have to consume and discovery is very, very difficult, and there aren’t any really good tools for it. And they’re willing to pay a lot of money to solve that problem.A:And the core technology that we’re applying can solve all of those issues – for us, where we want to be in a decade, focusing in on the scientific areas is where we need to get to, but I think doing spin offs in other areas utilizing the core technology is definitely an interesting model looking a couple of years ahead.
+
+Q:What’s your vision? How does mankind, the world benefit from Iris?A:Let’s say that we give Iris 1,000 papers around a specific challenge around climate change. She can read that, she goes ‘okay, I’m going to have to read these things and these things too’. She’ll come up with a hypothesis… and then she’ll be connected to a simulation environment, where she can take the experiments, run there and actually test it out. And publish the result – whether the results are positive or negative.
+
+Q:And predict elections?A:No.
+
+Q:How are you going to charge for this? And how are you going to sell it?A:That’s where the scithons come in. The scithons will be a per event price. And then the companies hosting a scithon will be offered a SaaS model where we do a per user seat, per year.
+
+For the API model later on it will… really depend on the size of the project.
+
+Q:I would encourage you to price this very, very high. Pricing equals position. Price equals position. If you price it low people will say there’s no value. If you price it high they’ll think there’s a lot of value. And there is – you’re replacing man years of effort to try to dig through all of this stuff. So if I were you I’d price it very, very high. And come down if you need to. But start high.A:Right.
+
+Q:Competitive dynamic? Is there anyone else doing this?A:There’s a few players doing similar tech in a similar space… There’s Meta and a few others, and Sematic Scholar working in the scientific paper space. There’s other companies working on similar tech in a more general ‘hey, license our technology’ kind of play. And then in terms of the scithon business model there are also Kaggle and a few other platforms – maybe not direct competitors but… that might be moving in on the same space if they see value in it.
+
+Q:How do you plan on getting the scithons going? Do you have a list of 100 people that you want to target?A:We’ve sold the first five already… Because there’s a mix between having a real R&D challenge to solve… they get to interact with 20, 30, 40 external talent that comes in, so there’s employer branding mixed to it to, and thirdly it’s a really cool way to engage with this new AI tech that people are not quite sure how to deal with… Turns out it it’s a really easy yes to make for a company. It’s really low risk for them to do that kind of event.
+
+Q:They’re contacting you? Or you’re contacting them?A:Both. We do have a fair 60, 70, 80 companies that we’re in dialogue with, five of those converted to a sale directly. And then there’s a longer list of further down the road contacts as well… We’ve been in close dialogue with R&D departments and corporations since before we started building the tools. So we do have a substantial amount of companies we’re in dialogue with.

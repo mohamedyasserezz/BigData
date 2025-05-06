@@ -1,0 +1,61 @@
+How to DIY a Westworld host at home
+
+Some people choose to see the limitations of this world, the dead ends. We here at TechCrunch choose to see the possibilities.
+
+Looking back at the first season of Westworld, I have to say I’m impressed at the nuanced approach Lisa Joy and Jonathan Nolan take to artificial intelligence. Reveries, backstories and even the idea of hosts training on other hosts all give a nod to real AI research.
+
+Building a Westworld host is kind of likeputting together a piece of IKEA furniture while on hallucinogenics— directions are pretty much useless. Instead, here are someguidelinesfor DIY-ing your own Westworld host at home.
+
+Oh, also… We convinced Oxford and Stanford-educated artificial intelligence researcher and Chief Scientist of Semantic Machines,Dr. Daniel Klein, to go on record about how he would approach the challenge. Overkill? Hardly.
+
+So many improvements would need to be made toBoston Dynamics’ state-of-the-art robot, Atlas,that I don’t even consider this cheating. Atlas can walk around on a variety of uneven surfaces, open doors and even stand up after being knocked down — but you surely won’t mistake it for being human.
+
+The robot walks awkwardly and weighs 330 pounds, so unless you just want to build amalfunctioning Sheriff Pickettand call it a day, you’re going to need to make some massive alterations.
+
+For starters, you have to find a way to implement human fine motor skills. We have 43 muscles in our faces that help communicate and convey emotion in surprisingly complex ways. Unfortunately, the issue with adding more anthropomorphic features is that the creepiness factor goes up without giving you something that screams “human.”
+
+To build a true human analog, you have to get the temperature of the skin correct, you have to nail the textures and the small things, even the sweat. Shaking the rough, stone-cold hands of an unpolished host would ruin the entire experience instantly. But in the grand scheme of challenges, this is nothing somepills from Limitlessand a night reading every bio-engineering textbook ever written couldn’t solve.
+
+AI needs tons of information to accomplish a single, well-defined, task. We train our machines for weeks on data, then they can play a single game or sort spam. Comparably, even with limited information, humans can manage quite a bit.
+
+Imagine that you just burned your hand by touching a skillet on the stove. If your conclusion is that skillets burn people, you’re probably aDeepMindexperiment gone wrong. The obvious answer here is that a pan on the stove burned you because it was used recently and excessive heat can burn us. A computer might instead opt to just never touch a skillet again — far too stupid to be our dear Dolores.
+
+Professor Klein explains that there are two prevailing approaches to solving this problem. First is from bottom-up, while the other is from the top-down. Most of the work right now in AI is bottom-up. We strive to do increasingly complex things — words to sentences to full dialog.
+
+The alternative is to input rules and let a system figure out the nitty-gritty of how to achieve desired outcomes on its own. We have made much more progress from the bottom than from the top. Figure out how to work effectively from the top down and you might just find yourself with a seven-figure starting salary at a major tech company.
+
+Just like Bernard studying Theresa, we can garner a lot from our own species. Intelligence, whether human or artificial, requires information and an objective. We can model the interplay between information and objectives with utility.
+
+The cost of a cappuccino in San Francisco is $5, but its utility takes into account the value (or lack of) of the calories you could do without, the time you spent getting the coffee and your post-caffeine productivity.
+
+From here, modeling decision-making is as easy as calculating utilities for things and asking which is higher. Throw in some game theory, a bit of rational choice and maybe even some behavioral economics and you’re getting closer to building a host.
+
+“Data, learning, memory, computation and hardwired goals make intelligence work,” said Professor Klein. “This is true for machines and people. Human goals are myopic, I want to be satisfied in life, and we make intermediate decisions to maximize those functions.”
+
+Starting to feel like a host yourself? That’s the idea. We struggle to model everything perfectly, especially over longer time horizons, because the world is an incredibly complex and dynamic system — far too complicated for even our most sophisticated processors.
+
+“Our systems today use brute force to solve problems,” noted Professor Klein. “Humans do a lot more meta computation, thinking about what to think about.”
+
+Today’s state of the art isusing reinforcement learning to help a computer win a Go match. We capture the utility of various moves, prune away the inefficiencies and that’s about it. Importantly though, the hard-coded assumption in a game like Go is that we want to win! This starting assumption connects back well to the idea of “cornerstone” backstories from the show.
+
+Having hosts talk to each other in their free time is a fantastic way to train them froma machine learning perspective. Similarly, some tech companies today use simulated training data to speed up the training process.
+
+Another thing to keep in mind is that real humans are constantly improvising. A host just running off a static objective function isn’t very fun. Something readily adaptable, like Bayesian cognition, is a natural fit for a host.
+
+“We can turn data into behavior,” Professor Klein said. “The same algorithm can go from terrible to great with just more examples.”
+
+The world exists in a series of ever-changing states and a good AI needs to be able to react in real time to update its preferences. Increasing the number of inputs increases complexity and disorder — two things that sound terrible, but are actually quite necessary.
+
+Last but not least, reveries. They pull from ideas of emergent behavior and phase transitions, which are a real challenge for researchers in the AI space.
+
+“If you build a set of capacities, say A, B and C and add in a way for them to interact, say +, you can generate A+B, B+C, C+A and so on that you couldn’t generate before,” explains Professor Klein.
+
+This is a way of saying that the tiniest of memories, something as innocuous as a hand gesture, can wreak havoc on a complex system.
+
+Bicameralism (the voice that speaks to you) has been pretty much debunked as a theory of consciousness, but such a voice could force emergent behavior, similar to that of reveries.
+
+“We see themes of the viral nature of consciousness,” added Professor Klein. “We see the same things with ideas, a meme is a viral idea.”
+
+The butterfly effect explains how something as insignificant as a wing flap could alter any complex system, whether ocean tides or cognition, in dramatic and unforeseen ways.
+
+Good luck on your quest to build your own Westworld host and cheers to the human species as we gradually slide into irrelevance.

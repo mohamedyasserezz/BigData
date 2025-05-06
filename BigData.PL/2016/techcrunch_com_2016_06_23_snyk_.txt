@@ -1,0 +1,19 @@
+Snyk aims to help developers secure use of open source code
+
+Developers relying on open source code (or packages) is pretty much the norm these days. As software eats the world, the world is dining out on open source software.
+
+But, regardless of how much time utilising someone else’s code can save you as a developer, it can also mean outsourcing the security of the code you ship, or spending a serious amount of time staying on top of known or newly discovered open source package vulnerabilities.
+
+EnterSnyk, a new London and Israeli startup that aims to do a lot of the heavy-lifting for you and put open source security at the heart of your coding workflow.
+
+“Package repositories such as npm hold hundreds of thousands of packages, each providing a big or small piece of functionality that you don’t need to write yourself. However, with its good functionality you’re also pulling a package’s security flaws. One in 7 packages carries a known vulnerability,” says Guy Podjarny, co-founder and CEO of Snyk, explaining the problem.
+
+To address this, Snyk integrates securing open source into the existing workflow of a developer — for example, by integrating with GitHub — so that vulnerabilities are checked as you go rather than relying on a one-off code audit, which may or may not happen.
+
+Where one is discovered, Snyk will offer to apply the relevant patch, and where possible accommodate any dependencies. Patches are often developed by the Snyk team itself, which has an extensive background in both cybersecurity and open source software.
+
+“Snyk’s tools let you find these issues early, fix them quickly, and respond quickly when a new vulnerability is disclosed,” adds Podjarny. “The new GitHub integration brings these security controls into your GitHub workflow, embedding Snyk’s tests on each proposed code change, and submitting the code changes to fix the problem with a click of a button. Once you’re vulnerability free, Snyk will track your dependencies and alert you when a new disclosed vulnerability affects your application, submitting the code changes to fix the problem at the same time”.
+
+In terms of cost, Podjarny says Snyk is free for open source projects, and its command line testing functionality is also free. In addition, the startup offers premium packages that focus on productivity and response time.
+
+“They offer the most efficient way to fix security issues, prevent new ones and respond to new vulnerability alerts,” he says. Snyk’s self-serve products start from as little as $19/month, and scale up to enterprise scale.

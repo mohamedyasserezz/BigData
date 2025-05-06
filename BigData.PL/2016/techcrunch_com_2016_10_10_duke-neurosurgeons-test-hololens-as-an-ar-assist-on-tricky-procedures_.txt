@@ -1,0 +1,15 @@
+Duke neurosurgeons test Hololens as an AR assist on tricky procedures
+
+One of the several things that makes brain surgery so difficult is that the brain isn’t transparent. So if you want to get at something deep inside, you either have to peel off a few layers or make an educated guess based on other imagery. But augmented reality may offer a third way.
+
+A pair of neurosurgeons at Duke are experimenting with a way to reduce the risk of “blind” surgeries where it just isn’t possible to see what you’re doing. An example would be (skip this if you’re squeamish) inserting a catheter to suck out pooled fluid from deep within the brain — far past what it’s safe to expose.
+
+Ordinarily such a procedure would be done with the aid of CT scans and precise measurements, letting the surgeon know where in this particular brain they should avoid stabbing a foot-long vacuum needle.
+
+In Andrew Cutler and Shervin Rahimpour’s method, the 3D images gleaned from CT scans can be superimposed on the subject’s head — in it, really — using a Microsoft Hololens headset. The catheter needle itself is modeled and tracked as well, so the operator gets real-time feedback.
+
+It’s not the first time this sort of thing has been done, but AR and VR assisted surgery is still in very early stages; technical issues abound, but the precise motion tracking of Hololens prevents things like lag, jittery images, and shifting of the in this case rather critical 3D form’s position relative to reality.
+
+“Since we can manipulate a hologram without actually touching anything, we have access to everything we need without breaking a sterile field. In the end, this is actually an improvement over the current OR system because the image is directly overlaid on the patient, without having to look to computer screens for aid,”said Cutler in a Duke news release.
+
+It’s a long ways from being used on a real person —the video demois a little janky, though doubtless they’d be a bit more deliberate with a real human — but the benefits seem manifest even in this early form.

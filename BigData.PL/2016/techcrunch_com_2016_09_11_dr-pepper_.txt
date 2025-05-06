@@ -1,0 +1,19 @@
+Dr. Pepper is not a real doctor, but it could help overloaded schools prioritize patients
+
+“Doing something for children was our first thought,” Camilo F. Buscaron explains, fresh of the Disrupt Hackathon stage. “We wanted to do something in education.”
+
+At some point during the 24 hour process, however, things took a turn for the medical, no doubt helped along by the fact that one member of the six-person team (Kate Gofman) was an honest-to-goodness medical profession – and, of course, there’s a lot to be said for having a really killer product name.
+
+Austin Queen, Boris Polania, Horacio Nunez, and David Moshal round out the Dr. Pepper team, representing a diverse array of professional expertise, including roboticists, devs and the aforementioned doctor.
+
+“School nurses are normally overloaded,” adds Buscaron, the member of the team with previous experience programming Softbank’s anthropomorphic assistant, Pepper. “They can’t keep up with the pace.”
+
+The demo utilized a number of Pepper’s existing hardware capabilities, including color recognition, which can determine a young patient’s pulse be monitoring the level of red in the skin as the face flushes with blood. Thermal imaging, meanwhile, is used to detect the patient’s temperature.
+
+“The idea right now was to show a case of a fever or an infection going on,” explains Gofman. “We were just trying to condense it in one minute, but what you’re looking for a change in temperature and heart rate. Redness of the skin, sweating, changes in emotion and the stress level and a certain pattern in conversation. What we’re showing is that using Watson capabilities and image recognition and thermal imaging, we can detect all of that.”
+
+The team predicts Pepper’s functionality coming up to speed in about 10 years, by which point the robot can be rolled out into school. Of course, given the robot’s lack of an actual medical degree, it isn’t designed to actually replace nurses or doctors in school. “The idea is to notify the live person,” Gofman says, “stratify the risk and make sure the person who needs the care most gets the attention they need.” Essentially in its current form, Dr. Pepper would simply help prioritize patients in line for a human medical attendant.
+
+Moving forward, however, the robot could serve to offer powerful contextual information, drawing from the cloud-based expertise of countless doctors, rather than a single professional.
+
+“If I have a problem, I don’t want one person to diagnose me,” Gofman adds. “I want 1,000 doctors. I want to have a variety of opinions condensed and prioritized. Humans are not machines. When you go to the doctor, you’re not getting an opinion based on a doctor’s experience. In the future, you don’t want that. You want a range of different experience.”

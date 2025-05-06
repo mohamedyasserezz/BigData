@@ -1,0 +1,19 @@
+Apple rolls out macOS Sierra developer beta 7 & public beta 6
+
+Apple has just dropped the 7th developer beta for macOS Sierra, along with the macOS Sierra Public Beta 6, for other early adopters of the new version of the Mac operating system first shown off at this year’s WWDC 2016. The release follows on the heels ofthe 7th iOS developer beta,which arrived on Friday.
+
+At the time, it wasn’t clear if macOS, watchOS, or tvOS would also arrive on Friday – and as it turned out, they did not. WatchOS and tvOS still remain on beta 6, as of this afternoon.
+
+Unless you have a reason to test applications on the upcoming Mac OS, it’s better to wait for the public release, or at least the public beta, due to bugs and performance issues that can occur when running a developer beta build.
+
+However, macOS Sierra promises some interesting updates that many can’t wait to get their hands on. For example, one of the most promising changes is that Siri is coming to the Mac for the first time. The assistant can replace many of Spotlight’s features – like helping you find a file, perhaps, or search through photos. It can also help you interact with your Mac, like turning on or off your Wi-Fi, start FaceTime calls, set reminders, or adjust your volume.
+
+The Photos app has also been overhauled with new features that take advantage of computer vision to recognize the people, places and things in an album, then organize them into intelligent collections. It also curates your past photos into collections via a new tab called “Memories.”
+
+Messages on macOS Sierra is getting tweaked, too, with rich links for previewing web content, as on iOS, the ability to watch video clips in the app, and other features like iOS 10’s bigger emoji, ‘tapback’ options that let you respond to messages with emojis (e.g. Heart, Thumbs Up, Ha ha, and more).
+
+Safari’s big improvement in macOS Sierra is picture-in-picture for watching videos – something that’s already available on select iPads. Meanwhile, other applications like TextEdit, Pages, Mail, and Maps are getting Safari-like Tabs.
+
+You can read more about macOS Sierra inTechCrunch’s early hands-on here.It’s unclear at this time what’s different between the prior beta and the one out now, but as we get closer to the public release, many of the tweaks are now bug fixes rather than major changes.
+
+The latest beta builds are available in the Mac App Store, but you’ll need to be a member of thepublic beta programor anApple developerin order to download them.

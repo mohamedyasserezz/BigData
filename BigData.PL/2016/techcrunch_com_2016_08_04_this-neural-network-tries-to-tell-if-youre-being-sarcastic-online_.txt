@@ -1,0 +1,21 @@
+This neural network tries to tell if you’re being sarcastic online
+
+One of the perils of text-based communication is the lack of cues that clearly signal irony being employed — no doubt we’ve all had our own mishaps behind this particular issue. Researchers from Portugal have had enough, though, and built a neural network that tries to determine whether you or your virtual interlocutor is being sarcastic.
+
+It’s not just to avoid awkward missteps in our everyday conversations online, though: computationally determining the tone and meaning of a given message is important for many things.
+
+You can’t do accurate sentiment analysis, for instance, if you don’t know when someone is kidding around when they say they love or hate something. And knowing the difference between an affirmative “great!” and a sarcastically disappointed one is important for natural language processing.
+
+But it’s not en easy problem. After all, the same exact sentence and punctuation may mean very different things coming from different speakers. Imagine, for example, “Make America great again” being tweeted by a Trump supporter and one who opposes him. Same words, wildly different meanings.
+
+“Lexical cues alone are insufficient to discern ironic intent,”reads the introduction of the paper, written by Silvio Amir at the University of Lisbon. “Appreciating thecontextof utterances is critical for this, even for humans.”
+
+To learn that context, the paper describes a method by which the neural network finds the user’s “embeddings” — i.e. contextual cues like the content of previous tweets, related interests and accounts, and so on. It uses these various factors to plot the user with others, and (ideally) finds that they form relatively well-defined groups.
+
+For instance, these little clouds of users are the result of looking at what politicians a set of users followed on Twitter.
+
+If the sentiment of the tweet seems to disagree with the bulk of what is expressed by similar users, there’s a good chance sarcasm is being employed.
+
+Combined with textual factors that give a hint of irony, this approach proved more capable than other models out there — barely. It was right about 87 percent of the time versus 85 in the other system. However, the neural network setup required far less manual configuration and monitoring, and could be more easily extended for deployment on different social networks.
+
+We’re still a little short of a universal sarcasm indicator, but we’ll get there. Amir’s paper is due to be presented atCoNLL, a natural language learning conference taking place next month.

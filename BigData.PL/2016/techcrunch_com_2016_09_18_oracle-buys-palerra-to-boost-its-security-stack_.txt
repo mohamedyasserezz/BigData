@@ -1,0 +1,23 @@
+Oracle buys Palerra to boost its security stack
+
+Oracle is kicking off abig customer confabin San Francisco this week, and to mark the event, it’s announced an acquisition. Oracle is buyingPalerra, a cloud security startup co-founded by Oracle alums Rohit Gupta (its CEO) and Ganesh Kirti (CTO).
+
+Terms of the deal were not disclosed but we will try to find out. Palerra was founded in 2013 (originally called Apprity) andraised $25 millionwith investors including Norwest Venture Partners and August Capital.
+
+Palerra’s business currently focuses on providing security automation for enterprise apps, covering not just data in the apps but as that data “moves across services and it offers several layers of protection across infrastructure and software services,” as wewroteabout them last year. Given how many apps today integrate and exchange data by way of APIs, that makes for a significant business.
+
+The company will continue to serve its existing customers as well as work on more services for the future, Gupta notes in ablog postannouncing the news.Customersincluded VMware, Pitney Bowes and Jefferies. It also has partnered with the likes of Microsoft.
+
+At a time when companies are facing more sophisticated cyber attacks than ever before, Palerra’s feature set is in demand: it covers  breach discovery, compliance, insider threat detection and incident response.
+
+While Gupta and Oracle are not giving many details of the new product road map, Gupta notes that they will be working on integrations with Oracle’s platform.
+
+“Together, Oracle and Palerra will help accelerate cloud adoption securely by providing comprehensive identity and security cloud services,” he writes. “The combination of Oracle’s Identity Cloud Service and Palerra’s CASB platform plan to deliver comprehensive protection for users, applications and APIs, data, and infrastructure to secure enterprises in their adoption of Cloud and SaaS applications.”
+
+In his ownblog post, Oracle’s security and identity SVP Peter Barker added that the solutions will cover “users, applications and APIs.”
+
+You can see how the company could apply it as an added feature covering its own enterprise software, or as a standalone product much as it is sold today.
+
+Oracle has made well over 100 acquisitions to date, but not many in the area of security. Others includeOblixin 2005 and device management startupBitzer Mobilein 2013.
+
+Updated with additional detail.

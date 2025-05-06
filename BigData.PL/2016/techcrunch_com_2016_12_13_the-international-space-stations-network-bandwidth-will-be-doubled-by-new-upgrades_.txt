@@ -1,0 +1,17 @@
+The International Space Station’s network bandwidth will be doubled by new upgrades
+
+The internet connection on the International Space Station and other platforms in orbit isgetting a serious upgradethat will double its capacity, NASA announced today. But they aren’t sending up a new router or satellite; the improvements are mainly terrestrial.
+
+The ISS and dozens of satellites rely on the Space Network, a more or less unified architecture for sending large amounts of data from orbit to base stations around the world. Its maximum bandwidth is 300 Mbps, which is of course much faster than most ISPs provide, and more than enough for everyone on the ISS to stream videos at once.
+
+Of course, they’re far too busy to do that, and the network has to support all kinds of experiments, devices, and other satellites. About 28 terabytes of high-definition, real-time space data is beamed down every day on average, in addition to astronauts’ internet browsing, video calls, and so on. Everything is sent through a dedicated network of Tracking and Data Relay Satellites, which then pass the signals down to base stations — which pass them on to their Earthly destinations.
+
+This highly technical video explains the whole process in detail:
+
+It’s the base stations that are getting the big update. New hardware is being installed at the White Sands (in New Mexico, shown up top) and Guam terminals that will double the space station’s downlink capacity.
+
+“Fundamentally, this upgrade of both the onboard and ground data communications systems enables an increase in the scientific output from the space station,” said NASA’s Mark Severance in the agency’s news post.
+
+Those onboard improvements weren’t detailed, but updated hardware to handle the increased bandwidth would be a logical complement to the sea-level items. The ground terminal updates are an ongoing process, as well — worryingly described as bringing them “into the 21st century.” New, more flexible architecture is in the process of being implemented.
+
+I contacted NASA for more information on what specifically the updates will entail, and when they are expected to be put into action. A brief reply indicated that Guam has been brought up to spec and both it and White Sands will be getting upgrades simultaneously, with improved speeds “hopefully in the very near future.”

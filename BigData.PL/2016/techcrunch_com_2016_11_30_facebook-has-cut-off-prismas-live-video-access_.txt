@@ -1,0 +1,27 @@
+Facebook has cut off Prisma’s Live Video access
+
+Style transfer startupPrismaadded support to its iOS app for livestreaming its art filter effects in real-time via Facebook Liveearlier this month— but almost immediately the startup’s access to the Live API was cut off by the social media platform giant.
+
+It’s a David vs Goliath tale that’soh–so–familiarin tech.
+
+Of course it’s Facebook’s API and they can do what they like about who can access it but the explanation they gave looks a little wonky. Facebook told Prisma: “Your app streams video from a mobile device camera, which can already be done through the Facebook app. The Live Video API is meant to let people publish live video content from other sources such as professional cameras, multi-camera setups, games or screencasts.”
+
+Yet in anFAQon the Facebook Live site for developers Facebook does not explicitly say streaming from smartphone cameras is prohibited — although it does flag up other types of camera, such as standalone cameras and drones, as examples of its preferred use-case for the API.
+
+The FAQ also says the API can be used to apply special effects to video — which you could argue describes Prisma’s style transfer feature.
+
+One rather salient detail in this story is that Facebook is in the midst of rolling out its own style transfer filter feature — which itpreviewed in October, the day beforePrisma showed off its style transfer previewon a Facebook Live broadcast.
+
+So Facebook evidently does not want Prisma cannibalizing its push into Prisma-style style transfer.
+
+The Russian startup popularized the current craze for style transfer, after launching theirappin June — initially offering a series of art filters that could be applied to photos. This quickly went viral on Instagram as users shared arty-looking selfies created with Prisma. By October, the app had racked up more than 70 million downloads, and the team addedsupport for video.
+
+“We were trying to fix the issue but Facebook has a strong policy, they only let broadcast to different cameras, drones. Our app is no drone or camera. So this means we cannot do it,” says Prisma’s Aram Airapetyan, discussing what happened when Facebook cut off its access to the Live API earlier this month.
+
+Despite being blocked on Facebook’s platform, Airapetyan says Prisma still has “big plans for live”. “The fact that we can do it is great and we’ll probably give users an opportunity to stream to different websites,” he tells TechCrunch.
+
+While the future of Prisma’s live video support remains up in the air at this point, the team’s current priority is working on a social-focused release, pegged for mid December.
+
+“The priority is the social feature coming soon. But after we launch it, we’ll seriously consider giving our users an alternative for live,” adds Airapetyan.
+
+At the time of writing Facebook had not responded to a request for comment on its reasons for booting Prisma out of its livestreaming walled garden.

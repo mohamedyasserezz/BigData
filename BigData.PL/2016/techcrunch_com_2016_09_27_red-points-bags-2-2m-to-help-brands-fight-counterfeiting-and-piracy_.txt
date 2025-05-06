@@ -1,0 +1,41 @@
+Red Points bags $2.2M to help brands fight counterfeiting and piracy
+
+Spanish startupRed Pointshas closed a €2 million (~$2.2M) funding round to grow usage of its piracy detection and removal SaaS by expanding from Europe into new markets, including North America. It’s also intending to broaden its customer focus.
+
+Its system is also designed to detect counterfeit goods being sold online, such as sportswear and designer handbags, automating the sending of cease and desist requests to speed up the process of removing fake goods from sale.
+
+Red Points describes the funding round, which is coming from Mangrove Capital Partners, as a Series A, although it skipped taking in a seed round.
+
+Commenting on the funding in a statement, Mangrove partner David Waroquier, lauded its “robust technology” and “impressive team”.
+
+“Red Points has the potential to disrupt the way piracy and counterfeiting are being detected and resolved over the internet,” he added, dubbing it “a highly efficient solution to manage what has become a huge and persistent pain for the industry globally”.
+
+The startup, which was founded by a lawyer, Josep Coll, back in 2011, has built tech that continuously crawls known piracy hotspots and counterfeit goods outlets online on behalf of its clients to identify possible infringements.
+
+In the fake products scenario, clients are sent a report with a probability score for suspect items so they can confirm it is indeed a counterfeit goods sale — at which point RedPoints’ system then pursues extrajudicial actions. It also does this in the case of copyright infringement. Automated actions can include sending a notification of infringement, and/or communicating with relevant ISPs and search engines to secure the de-indexing of relevant web pages.
+
+CEO Laura Urquizu claims Red Points is able to get a piece of copyrighted content removed as quickly as two hours after detection using its in-house take down tools. Physical counterfeit goods typically taken longer to remove from online sale — perhaps a day, she says.
+
+It says it currently deletes more than 52,000 incidents of illegal content every month for its media, publisher and brand clients. “We focused from the beginning in having an excellent system of removal,” she adds.
+
+Brands it is working with currently include Next and Conde Nast International. It also works with athletes, film stars and music artists. It has around 75 customers at this stage, according to Urquizu.
+
+“Right now we are doing it for very big brands but we want to do it for any kind of size of company that has this problem — of counterfeiting. Because we realize that not only the big brands have this problem… So we want to go to the new markets,” she tells TechCrunch.
+
+While it can’t act against actual P2P file sharing, since file sharing between individuals is not illegal, Urquizu says it does crawl P2P networks to try to identify when a full movie (for instance) is uploaded initially to be torrented — and get it taken down then, before the P2P sharing can commence.
+
+“Piracy and content faking always happens in the same places,” she says, explaining how the detection tech works. “There are certain places where it always happens. So the 90 per cent of the searching goes to there. We have specific crawlers and scrapers for those places that show the fake information.”
+
+“In the case of products the client has to validate that its fake — we never do anything without the validation of the client,” she adds.
+
+How does it pick up counterfeit goods being sold online? That’s down to the detailed information provided by the client, which can include things like the characteristics of the genuine article, its price and the outlets where it can be legally sold.
+
+Design verticals are the big focus here — covering anything from furniture to dresses, shoes, glasses and so on.
+
+“Pricing is very important. If a genuine product is being sold for €200 and if they’re selling to you for €100 or €75 that’s probably fake,” Urquizu notes. “The brand provides us with a lot of information — everything under this price is fake. They also give us the correct facts — the legal places where the products have been sold in the Internet.”
+
+Although detecting counterfeit goods is a more recent addition (a year ago) to Red Points’ system, Urquizu says it’s already making up about half its business (with copyright actions the other half) so she says it expects this to be a big growth area.
+
+As well as expanding into new markets globally and widening its customer base by ramping up its sales team Red points will be using the funding for continued development of its core tech.
+
+“Piracy and counterfeiting is always evolving. We have to adapt and improve continuously the technology,” she adds.

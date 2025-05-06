@@ -1,0 +1,43 @@
+Police use-of-force data is finally coming to light
+
+When Oscar Grant was shot and killed in 2009, there was no data about the shooting of black men by Bay Area Rapid Transit police.
+
+When Oscar Grant was shot and killed in 2009, there was no data about the shooting of black men by Bay Area Rapid Transit police.
+
+All we knew was that BART had received 66 complaints, with excessive use of force being the primary allegation,according to a 2010 audit. In 2015,when a homeless man was shot and killed on Skid Row in Los Angeles, there was no data available on how many homeless people are shot by the LAPD. When San Francisco police shot and killed Mario Woods, we couldn’t determine how many people had been killed by the SFPD or were victims of excessive use of force.
+
+Those murders have lent credence to the idea that there’s a problem around police shootings of black people in California. In the time from when I started writing this post to hitting publish, the police have murdered two more black people, Terence Crutcher and Keith Lamont Scott. Until very recently, and thanks to the likes of The Guardian’sThe Counted,Fatal Encountersand Campaign Zero’sMapping Police Violence, the data to prove the systemic racism that results in the police killings of unarmed black people has not been widely available to the public. Now, the California Department of Justice is stepping up to bring even more policing data to light.
+
+Today, the DOJ, led by Attorney General Kamala Harris and Y Combinator-backed, nonprofit organizationBayes Impact, are unveilingURSUS, a statewide tech initiative to collect police use-of-force data from over 800 police departments. That’s huge.
+
+“As a country, we must engage in an honest, transparent, and data-driven conversation about police use of force,” Harris said in a statement. “I am proud that California continues to lead the nation in the adoption of technology and data to improve our criminal justice system and keep our streets safe.”
+
+Since 2011,less than 3% of the country’s 18,000 state and local police agencieshave reported information about police-involved shootings of citizens. That’s because there’s no mandatory federal requirement to do so. There is, however, a mandate in California (Assembly Bill 71) for all police departments to report their use of force incidents that happened after Jan. 1, 2016 by Jan. 1, 2017.
+
+With URSUS, California police departments can use the open-source platform to collect and report use-of-force data, in the cases of serious injuries, to the CA DOJ. Back in February,the CA DOJ unveiled a revamped versionof the OpenJustice platform featuring data around arrest rates, deaths in custody, arrest-related deaths and law enforcement officers assaulted on the job.
+
+Unlike the first version of OpenJustice, the current platform makes it possible to break down data by specific law enforcement agencies. As URSUS collects data about police use-of-force, OpenJustice will publish that information in its database starting early next year.
+
+Here’s an overview of how the system works:
+
+It’s not clear if and when this type of initiative will reach the national level, but Bayes Impact co-founder Eric Liu is optimistic that the federal government will eventually get there. Since the code base is open source, “the federal government could easily adopt the system with a few modifications, at least from a technical perspective,” Liu told TechCrunch. “With our work, we want to show how simple web technologies can dramatically lower the cost and improve the quality of police data reporting in the US.”
+
+From a policy perspective, however, there still needs to be a national mandate in order for the federal government to get there. ThePRIDE Act, co-authored by Senators Cory Booker and Barbara Boxer, aims to require the U.S. attorney general to release an annual report of police use-of-force incidents and to coordinate with the Federal Bureau of Investigation to come up with a best practices on collecting that kind of data through standardized collection systems. The FBI has alsomade a commitmentto collect more data. It’s not clear how long it will take, but there is definitely momentum.
+
+“The first step in fixing a problem is understanding the depth and scope of the problem you have. Justice and accountability go hand-in-hand — but without reliable data it’s difficult to hold people accountable or create effective policies that improve public safety and community relations,” Senator Cory Booker said in a statement. “By collecting police use of force data, the PRIDE Act and AB 71 are good first steps in making police practices more transparent. By using innovative technology and data to shed a spotlight on police practices that work and do not work, California’s AB 71 is an important precedent for the country.”
+
+Meanwhile, nonprofit and activist organizationCampaign Zerohas taken national policing matters into its own hands. Just yesterday, the organization released apolice use-of-force policy analysisthat looked at the data from 91 of the 100 largest police departments throughout the country. The team found that police departments with more restrictive use-of-force guidelines have the fewest officer-involved shootings per capita.
+
+Campaign Zero also identified eight key policies that could help prevent deadly force on civilians. Those policies include requiring police officers to de-escalate situations when possible and restricting the use of chokeholds to situations when deadly force is authorized, or just prohibiting chokeholds entirely.
+
+In the analysis, Campaign Zero found that only 21 of the 91 police departments reviewed explicitly prohibit officers from using chokeholds. Even more, the average police department reviewed has only adopted three of the eight policies identified that could prevent unnecessary civilian deaths. Not one of the police departments reviewed has implemented all eight.
+
+According to Campaign Zero’s analysis, if the police departments reviewed were to implement all eight of the use-of-force restrictions, there would be a 54% reduction in killings for the average police department.
+
+With the CA DOJ’s new police use-of-force data system, plus initiatives driven by non-profit organizations and the media, we’re definitely moving in the right direction when it comes to transparency around policing. But if we want real change, the rest of the country’s law enforcement agencies are going to need to get on board. If the PRIDE Act passes, police departments nationwide will not only have to make their use-of-force policies publicly available, but also have to report police use-of-force incidents that result in deaths of civilians. But while the government is stepping up its game around policing data, there is still a need for a community-driven initiatives that track police killings of civilians.
+
+“It’s powerful that the government is now recognizing the value of that and catching up,” Campaign Zero’s Samuel Sinyangwe told me. “Despite all of that, there will always continue to be a need for communities to collect this information and not rely on the government to do it in part because one, we’ve seen that the federal government has been woefully inadequate in acquiring data in a timely, comprehensive way. Two, data is power. If we just relied on federal government stats, we wouldn’t be able to do a study like this.”
+
+The next phase for Campaign Zero’s Police Use of Force project is to empower citizens to propose changes to their local police departments around their use-of-force policies. Campaign Zero’s overall mission is to make sure people understand the scale of what’s going on, which means that the public has access to comprehensive data about police-involved killings. The organization also aims to provide people with access to solutions — real,evidence-based solutions.
+
+“In many ways we are disruptive in this non-profit industry just like other tech firms are disruptive in their industries,” Sinyangwe said. “The model we’re working on is really new: how we actually engage people at scale in substantive work. We haven’t really seen that done before. We’re just at the beginning of seeing what’s possible when you activate the 200 million plus people supporting Black Lives Matter. With tech, we can scale rapidly to engage so many more people and take this work to another level.”

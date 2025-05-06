@@ -1,0 +1,33 @@
+Democratic Trump supporters were hiding in plain sight
+
+If you’re shocked by Donald Trump’s election, you’re not alone — the president-elect surprised many people, including the pollsters who predicted a Hillary Clinton victory by wide margins.
+
+Since election night, pollsters, journalists, voters, and probably the folks over at the Clinton campaign have been trying to figure out how predictions about the election went so badly askew. One of the surprises is the number of registered Democrats who supported Obama, only to cross over the party line this year to cast their votes for Trump.
+
+But the crossover shouldn’t be a surprise at all, according to Brigade. The startup,founded by Sean Parker in 2015, lets its users pledge their votes to candidates and ballot measures, and has cross-checked the identities of nearly 200,000 users against voter registration databases to make sure their data is authentic.
+
+Back in September, Brigade CEO Matt Mahan says his team came across something unexpected. “We noticed this huge percentage of registered Democrats pledging to vote for Donald Trump,” Mahan explained. “We thought, we’re probably just getting conservative Democrats. What’s the big deal?”
+
+The big deal became apparent as the election results rolled in. Nearly 40 percent of Brigade’s Democratic voters had pledged their votes to Trump, and the pledges played out in battleground states likePennsylvania and Wisconsin.
+
+Brigade’s data on certain states turned out to more accurately reflect the outcome than the polling data used byFiveThirtyEight, which gave Trump only a 28 percent chance of winning the election. Trump ended up beating FiveThirtyEight’s prediction for North Carolina by 4.5 percent — and Brigade saw North Carolina voters who registered Democratic were 25 percent more likely to pledge their votes to Trump. The same thing happened in Pennsylvania: Brigade’s Democrats were 15 percent more likely to pledge for Trump, and Trump beat expectations by 4.9 percent.
+
+“It’s interesting because we were seeing this phenomenon up to three months ago. It might have pointed to the fact that Clinton was much more vulnerable in the Rust Belt states than anyone expected,” Mahan said.
+
+Trump also seemed to generate much higher enthusiasm among Brigade users than other candidates, which could explain the turnout among his supporters. Brigade lets its users write a short explanation of why they pledge to a particular candidate, sort of like an endorsement, that they can then share with friends. Usually, it’s a step in the process that users skip — only six percent of users normally complete the endorsement. Among Trump supporters, that metric skyrocketed to over 10 percent.
+
+If Brigade’s data was more accurate about this election than that published by the most respected election predictor in the country, why did the startup sit on it and not say anything?
+
+Brigade’s employees were so surprised by the revelations that they thought their data was wrong.
+
+“We were so shocked by what we found,” Mahan explained. “We didn’t really trust the data. It was hard to be such an outlier as a product. We just thought our numbers are so off from all the national polls that we must be wrong. We must just be interacting with some weird corner of the internet of conservative Democrats.”
+
+“I think the mistake was — we didn’t know until election night. We didn’t think there was information in our data that others had missed,” he added.
+
+It’s a bittersweet realization for a San Francisco startup that’s staffed largely by liberals, who stayed up late on election night fretting about the results. And it’s a lesson for other pollsters — Brigade employees might have been too blinded by their political beliefs to take their own data seriously. The app’s users tend to skew conservative, so it was easy for Brigade to assume it wasn’t hearing from enough liberal voters. Brigade didn’t go back to the data and unskew it to account for conservative bias until after the election results came in.
+
+I asked Mahan what, if anything, he would have done differently now that he knows Brigade’s data was accurate and Trump will be sitting in the White House in a few months. Even though Brigade is a nonpartisan company, it seemed clear to me that Mahan regretted keeping quiet.
+
+Publish the data, he says.
+
+“We first noticed Democrats crossing over in September; we should have watched that trend for a few weeks, done the analysis, published a blog post, and pointed people to it at that time,” he said. “The Clinton campaign severely underestimated the risk they faced in the Midwest. I think this notion of registered Democrats in that region crossing over at unusually high rates, plus the higher enthusiasm we noticed, would have been a pretty important indicator of how things were likely to turn out.”

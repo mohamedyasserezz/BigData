@@ -1,0 +1,25 @@
+DigitalGlobe unveils next-generation imaging satellite
+
+It’s really frustrating when that super-fly Snapchat you took at 55 mph of the unreleased Tesla Model 3 you caught in the wild turns out blurry. DigitalGlobe will be able to snap that picture from 400 miles away, at 17,000 mph, with its new satellite.
+
+TechCrunch got a sneak preview ofDigitalGlobe‘s, nearly billion-dollar, satellite that will be able to sendhella dope grams, #NoFilter, back to earth within minutes.
+
+Dr.Walter Scott, founder and CTO of DigitalGlobe, led the efforts in bringing WorldView 4 to completion. All the components are powered by solar panels on the base-unit. WorldView uses a standard base-unit from Lockheed Martin to cut down on costs and uses a custom adapter to connect the optics.
+
+WorldView 4 is very similar in capability to WorldView 3, the company’s previous imaging satellite. The United States Government currently has first priority over WorldView 3 but has not paid for first-priority direct access to the new satellite. This opens up additional opportunities to leverage imaging in the private sector. A second high-powered satellite will allow WorldView 3 to spend less time in transit for shoots. This amounts to more time capturing imagery for both satellites.
+
+There’s a good chance that you’ve seen DigitalGlobe’s technology before. A large portion of satellite imagery in Google Maps and Google Earth comes from the company.
+
+Companies like Facebook have used DigitalGlobe’s technology to identify rural villages to target for outfitting remote internet access. Other uses include the crowdsourced hunt for Malaysia Airlines Flight 370, the research by the AP into modern-day slave shipping, and the identification of deforestation zones.
+
+The US Government limits the clarity of imaging satellites for commercial use to protect national security. The Government itself has additional power at its disposal when imaging for national security. In the raid in Abbottabad on Osama Bin Laden’s compound, the US Government was able to leverage similar satellites to produce quality ground intelligence.
+
+WorldView 4 will be launching with the United Launch Alliance on an Atlas 5 rocket from Vandenberg Air Force Base on September 15th 2016. Before the launch, the satellite will be transported 250 miles south to the base from its current position at Lockheed Martin’s Sunnyvale campus.
+
+Here are three of the coolest gizmos on WorldView 4:
+
+WorldView took a page from ancient seafarers when building the satellite’s own internal location awareness system. Two star-trackers are affixed to the side of the satellite to observe the stars and identify location. They are shielded from external light with a special black lens-hood.
+
+Despite its size, WorldView 4 is light. The satellite weighs about the same as a pickup truck. Tiny thrusters help to position it into place and a Control Moment Gyroscope helps to position the optics at just the right angle.
+
+The communication system hangs away on a boom that rotates independently from the rest of the satellite. The antenna can point in any direction, no matter the orientation of the satellite. This is how WorldView 4 can capture an image in Florida and still relay the image back to Washington, DC.

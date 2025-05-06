@@ -1,0 +1,37 @@
+Karamba Security raises $2.5 million to keep self-driving cars safe from hackers
+
+A cybersecurity startup based in Hod Hasharon, Israel,Karamba Security, has raised $2.5 million in new Series A funding to protect internet-connected cars and self-driving vehicles from hackers.
+
+Fontinalis Partners, a venture firm that is focused on mobility and transportation-related technologies, led the investment joined by Karamba’s earlier seed backers YL Ventures and GlenRock.
+
+Karamba has also released an extension to its “autonomous security” product suite.
+
+As we’vepreviously reported, Karamba’s system is installed on the electronic control units, or small computers, within a vehicle that are externally connected.
+
+This can be done as a retrofit by automakers or before a new car is shipped, or by original equipment manufacturers.
+
+For the unfamiliar, there is typically a single ECU that manages each different operation within a car, including critical things like braking, air bags or fuel injection, and less critical functions like navigation, air conditioning and entertainment.
+
+Because the ECUs in a car operate on one network, which is self-contained within the vehicle, if hackers gain access to just one, they can get to any ECU.
+
+Karamba’s software locks in the factory settings of each controller, and prevents foreign code and restricted behaviors from running there. Locking each ECU that way blocks a hacker’s ability to reach into a car’s CAN Bus, and mess with the car’s critical functions.
+
+Remote access to the CAN Bus is what recently allowed Chinese security researchers to hack into a Tesla Model S from 12 miles away, and to interfere with the electronically-controlled features in the car, like its brakes, door locks and computer screen on its dashboard.
+
+The newest extension to Karamba’s cybersecurity software ensures that novalidoperations are blocked as false positives, impacting the safe operation of a vehicle when suspicious behaviors are identified.
+
+The company’s funding and product announcements come following the release of aFederal Automated Vehicles Policyfrom the U.S. Department of Transportation and National Highway Traffic Safety Administration earlier this month.
+
+The policycalls on autonomous vehicle makers and tech providers to prioritize safety, gather and share as much data as possible about the performance of their vehicles with each other and the government.
+
+Fontinalis Partners’Chris Thomassaid the Series A investment in Karamba represents something of a milestone for his firm.
+
+“We focus on mobility meaning the movement of people, goods and services powered by technology. We’ve invested in road, rail, bikes, marine and artificial intelligence technology but this is our first security deal,” he said.
+
+Fontinalis’ portfolio also includes ridesharing pioneersLyft, the self-driving car tech companynuTonomy, and mobile ticketing providersMasabi.
+
+Thomas expects Karamba to use its new funding to make inroads with automotive companies, especially “tier 1” suppliers of components and technology to original equipment manufacturers.
+
+He also expects the company to continue doing research and development that will keep it miles ahead of would-be vehicle hackers.
+
+Long range, Thomas said, he can see Karamba’s cybersecurity software applying to self-flying drones, and other vehicles or robots that operate autonomously.

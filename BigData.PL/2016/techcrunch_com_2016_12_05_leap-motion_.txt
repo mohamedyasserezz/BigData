@@ -1,0 +1,21 @@
+Leap Motion demos its excellent hand tracking technology on Samsung’s Gear VR
+
+When Leap Motion debuted in 2010, it felt like a technology in search of a platform. The startup demoed some truly impressive motion tracking technology as a means of interacting with two-dimensional computer interface. “We always thought of the PC as the first touch point on a journey that would be about five or six years,” explains cofounder, Michael Buckwald.
+
+The startup managed to ship a lot of kits to developers and even got a pair of big PC makers – HP and ASUS – on-board, announcing plans to integrate the tracking system into their devices.
+
+But a few years after launch, virtual reality happened. A new wave of headsets seemed poised to finally make the technology viable after decades of dashed expectations. And the company jumped at the opportunity, shifting its focused from desktop input devices to VR handtracking. “We always talked about virtual reality,” adds fellow cofounder, David Holz. “We had an early prototype from one of the VR companies a switch just flipped in my brain.”
+
+In May of 2014, the company announced a more complex model for hand-tracking, releasing a VR mount for its existing controller a few months later. Earlier this year, the startup began showing off Orion, a tracking platform that brings complex and responsive hand tracking to third-party VR platforms, an elegant solution to one of the technology’s biggest problems.
+
+Today, Leap takes things a step further, going mobile. The company’s founders stopped by our offices last week to show off a reference design for Samsung Gear VR that applies Orion to lower end, untethered headsets. And the results are extremely impressive.
+
+The reference hardware on display utilizes a small module that slots in front of the inserted handset. It relies on off-the-shelf smartphone components, including a pair of mobile cameras, so manufacturers should be able to add it onto their hardware with relatively minimal additional cost. Leap puts the premium at around $10 with hardware and software licensing (the startup’s windfall) factored in.
+
+The company walked through a demo similar to past Orion offerings – only run on a $100 headset. It’s impressive – unquestionably the most immersive experience I’ve ever had on Gear VR or a similarly specc’d device. In the demo, I faced another user on a 3D plane. We could use our hands to manifest objects and interact with them in space. The technology is responsive and reactive, with no detectable latency.
+
+It seems like a no-brainer, but the human hand really is an ideal input device for interacting with the virtual world. It’s versatile and your brain associates the computer-generated version with your own limbs almost immediately.
+
+The company is working with a number of manufactures at the moment – though it won’t mention any by name, save for the already announced partnership with Razer’s open-source OSVR platform. Of course, that’s really the rub here. Leap Motion has a half decade of great demos under its belt, but the platform has yet to truly go mainstream.
+
+With the first high-end low end headsets incorporating the new technology arriving next year, it’s hoping to change all of that in the near future.

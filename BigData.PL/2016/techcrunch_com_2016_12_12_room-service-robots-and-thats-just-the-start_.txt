@@ -1,0 +1,41 @@
+Room-service robots — and that’s just the start
+
+At a popular hotel nestled in the heart of Silicon Valley, two long-separated technologies came together not long ago — all in the name of toothpaste.
+
+A small robot, outfitted with 3D cameras, was loaded up with a bath kit, a newspaper and a spare towel. It then took the supplies, rolled out of the lobby, called for the elevator and delivered the items to a guest room. Since this demo last fall, a fleet of Relay robots made bySavioke, a company in our investment portfolio, has made more than 50,000 similar deliveries in six cities across North America.
+
+The results of this field test answered a very important question for us as longtime technology investors: What happens when you give a general-purpose computer chip a high-resolution view of its environment and the ability to react to what it sees?
+
+Turns out you create a brand-new industry.
+
+Vertically integrated, function-specific robots that can perceive their environments are able to handle repetitive tasks, learn to do new ones, be available at all hours and be serviced and upgraded easily. Think of a lawn mower that can cut grass by itself. Or a robotic companion able to find, fetch and carry items from a grocery shelf for an elderly shopper — even if the store has moved the items to different shelves.
+
+These kinds of devices are at the forefront of a wave of machines with the potential to work with greater autonomy, at a lower cost, in everything from hospitality and retail to package delivery and situational monitoring. And they are creating investment opportunities in technologies across all these markets — and more.
+
+In other words, room-service robots are just the start of something much bigger.
+
+The potential, and desire, for autonomous home and work devices has existed for some time. Remember the Roomba vacuum? Introduced in 2002, its parent company has sold more than 14 million home robots worldwide.
+
+What’s been missing, until now, is a way to accelerate this concept — specifically, a cost-effective ability for a machine to have a high-resolution awareness of its environment, or of its owner’s visual cues, and take action in real time.
+
+Traditionally, environmental awareness has been the province of expensive machine-vision systems. But with the advent of high-quality 3D cameras, less expensive devices have the potential to recognize their surroundings with far greater precision than ever.
+
+Combine these cameras with faster processors and machine-learning algorithms, and it’s now possible to create function-specific robots pre-loaded with gesture recognition, knowledge of common navigational challenges and cultural behaviors (not getting onto a crowded elevator, for example) and the ability to routinely update that understanding.
+
+If it seems you’ve heard about these abilities before — greater autonomy, better intelligence, an ever-expanding knowledge base — it’s because you have. Those same traits are the hallmark of new industries built around self-driving cars and drones.
+
+But the combination of 3D cameras, real-time processors and machine learning is poised to make an impact that is broader and deeper.
+
+Greater camera resolution, for example, will enable drones to work with greater precision and safety. Imagine one that can fly through a city or across rugged terrain to deliver packages while seeing clearly enough to avoid antennas and birds — and even change its route automatically if first responders need to clear the airspace.
+
+We’re already seeing these kinds of capabilities from an array of companies, such as Mitsui-backedAethon, whose TUG robots navigate busy hospital corridors to deliver everything from patient meals to blood samples for lab analysis. To date, these robots have traveled more than 1 million miles and made more than 19 million deliveries.
+
+Real-time processing could be a great fit in a number of other environments, including retail. Consider a robot that rolls up and down the aisles of a big-box store to check inventory: It could count the stock and order new items automatically, in a fraction of the time it would take a conventional floor staff.Fetch RoboticsandFellow Robotsare now developing and testing products in these areas. Meanwhile,Starship Technologies— launched by the co-founders of Skype — just announced it will use robots to deliver groceries in Washington, DC this fall.
+
+As for machine learning, possibilities abound on land and below it. Rugged robots could roam volcano craters, and submersible vehicles could patrol rivers — both armed with historic data and algorithms to identify potential eruptions or the telltale signs of industrial pollution. Agriculture is another key market, with companies such as India’sGRoboMacbuilding specialized machinery for harvesting cotton using 3D cameras and machine-learning systems.
+
+When you consider this feedback loop — the collection of high-resolution visual data, the ability to process it quickly and the fuel it provides to create even deeper-learning algorithms — it’s reasonable to consider tackling what are now extremely expensive and difficult endeavors. Think about mapping the ocean floor, or assessing the health of landscapes, crops or animal populations with greater precision and detail.
+
+These activities are the predictable outcome of putting function-specific robots to use. What’s more, when coupled with machine- and deep-learning technologies, they will form the essential building blocks of general-purpose robotics platforms that will be more flexible and can be adapted for multiple uses.
+
+For the moment, you might want to check the front door… there may be a grocery delivery waiting.

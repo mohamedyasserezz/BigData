@@ -1,0 +1,13 @@
+Oculus update paves the way for room-scale VR on the Rift
+
+The Rift’s best days are still ahead of it as Facebook’s virtual reality company prepares to drastically improve user experience by introducing its room-scale tracked motion Touch controllers in Q4 of this year.
+
+An update to Oculus Home is apparently prepping for Touch’s arrival by enabling users to connect multiple Oculus camera sensors to enhance movement tracking and give developers access to highly precise room-scale setups.
+
+Though the update allows for up to four sensors to be connected, most developers are likely looking to optimize room-scale titles for just a pair sensors which makes sense as the Touch controllers are expected to ship with just one additional infrared sensor included.
+
+I’ve spent a decent amount of time with the latest developer version of Touch and most setups are optimized for tighter experiences than the Vive with sensors set up about 4 feet apart from each other in front of the user. This leads to environments much less sprawling than the Vive’s 15×15 feet setups but setup is much snappier to get through on the user’s part as well. I will say that when you get turned around and aren’t facing the sensors, tracking coverage can actually get pretty bad due to occlusion.
+
+YouTube userReality Check VRtested the limits of the update by playing with four sensors synced through SteamVR using HTC Vive controllers. What results is a level of tracking precision that appears much smoother than anything I’ve seen in my own experience with the HTC Vive which can work with a maximum of two tracking sensors.
+
+It’s important to note that Oculus doesn’t even sell the camera sensors separately right now so the only way you could try this now is if you have four Oculus headsets sitting around with their included sensors or are a Touch developer so don’t go rushing to try this out just yet. You’ll just have to wait for the Touch controllers to be released which Oculus swears will happen by year’s end.

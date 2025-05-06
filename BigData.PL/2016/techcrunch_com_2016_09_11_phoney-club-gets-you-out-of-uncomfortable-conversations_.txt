@@ -1,0 +1,11 @@
+Phoney.club gets you out of uncomfortable conversations
+
+Some people are simply the worst. For reasons that are my own fault, I’ve recently been involved in series of conversations that I’d really rather not be having. EnterPhoney.club, a mobile-first service that can quickly get you out of sticky situations. At TechCrunch Disrupt SF 2016, a five-person team created a tool built on IBM’s Watson, Node.js and Twilio to call you when you’re wanting to get out of a conversation.
+
+“The original premise was around all these dating apps and Tinder and bad dates that everyone has gone on,” Nelson Chen, one of Phoney.club’s creators, told me. “But we pivoted it because wanted to make it for TechCrunch. Everyone here is an entrepreneur or a VC. We made it for the scenario when a VC gets nailed down by an entrepreneur.”
+
+The app itself looks like a text message conversation. That way, in the event that the person you’re with sees your phone, it won’t be obvious that you basically have a “saved by the bell” tool ready to go. Hidden beneath the surface of that conversation are two key buttons. The first can trigger Watson to listen for the word “interesting” and when it hears that word, call you via integration with Twilio. If you press the second one, which says “Fine, fine. Call me and we’ll figure out how to take this deal to the next level. I’m sure it’s in everyone’s best interest,” Phoney.club will call you in the next 10 seconds or so.
+
+I tried it out, and it works. IT JUST WORKS! And when I answered my phone, there was someone (a recording) on the other line to make it seem like I was on a legitimate phone call.
+
+The majority of the team just finished up at Dev Bootcamp, so they haven’t decided if they’re going to continue working on the product. But if they do, Chen says he envisions adding a feature that would send you a series of text messages when Phoney.club hears your safe word.

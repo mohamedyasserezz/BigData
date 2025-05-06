@@ -1,0 +1,57 @@
+New ticketing technologies will open more doors to live entertainment
+
+Last month, former Ticketmaster CEO Nathan Hubbardpublisheda piece on “why you can’t get a ticket to the NBA Finals.”
+
+It’s a good article and Nathan does a great job diagnosing problems with the status quo – including how arbitrageurs use bots to buy tickets before real fans get the chance.
+
+While I agree with Nathan that we need to solve the problem of how to get more fans to more events at a fair price, I disagree on the solution.
+
+Hubbard proposes restricting how fans can transfer tickets, locking them down within a closed platform. This technique is called “paperless ticketing” – if you’ve ever been to a concert that demands you swipe your credit card to get in, then you’re familiar with it. The idea is that by making it harder to transfer ownership, non-fans have less incentive to buy and resell tickets.
+
+Paperless ticketing can be effective in reducing resale activity in some cases, but with it comes substantial downsides. Restricting transferability is, at best, an uncreative half measure. It inconveniences fans who can no longer attend the event or want to send tickets to friends, and it’s a pain at the door.
+
+Fans can receive tickets as much as ten months prior to an event…what happens when their plans (or credit card numbers) change? When paperless ticketing has beentried in the past, the only clear conclusion is that it annoys consumers.
+
+I think there’s a better, moreopenway to improve the experience for everyone involved: leagues, teams, venues, and most of all, fans. And it’s not too different from what has worked in other technology categories.
+
+But first, a quick aside…
+
+The power of the internet lies in how it enablesdevelopers everywhereto create technology to improve lives. Open approaches – ones that start with easy-to-use software, priced transparently and fairly, and built for others to share and improve – are transforming major sectors globally, from  payments (Braintree & Stripe), to hosting (AWS), to communications (Twilio), to mobile (Android).
+
+But somehow ticketing has been left behind. It remains closed, uneaten by software. Why?
+
+The short answer is that it’s always been a pay-to-play business.
+
+Ticketmaster (and its parent company, Live Nation) – and a handful of competitors – have used the power of their pocketbooks for years to lock up teams, leagues, and arena owners with rigid long-term contracts that force these stakeholders to use their platforms exclusively, leaving consumers with little choice other than to accept their considerable fees.
+
+As a result, live entertainment remains largelyclosed, stuck in a world of pre-internet thinking. The core API endpoints of the live event commerce experience – purchasing, delivery, transfer, fan identity, access – are locked down within legacy primary ticket vendors, and are inaccessible to developers, artists and teams.
+
+(Of note: Facing increasing client pressure, Ticketmaster has stated it intends to open certain parts of its software to third parties via APIs. I am not optimistic these APIs will provide the industry with real openness. Third parties will be required to pay exorbitant sums for access to endpoints core to improving the fan experience – purchase, transfer, identity, etc. When teams and artists are unable to freely distribute their tickets to fans using any channel they choose, that isn’t true openness.)
+
+The end result? Everyone is unhappy. Fans are forced to deal with an awful checkout experience, are nickeled-and-dimed with fees at every turn, and are unable to openly transfer or sell tickets.
+
+Teams and artists aren’t able to manage their businesses effectively, e.g. they cannot move prices in real-time in response to changes in supply and demand (closed ticketing systems don’t expose the APIs necessary for real-time pricing, a practice that is standard in industries like air travel). It’s no wonder that when you add all this up, legacy ticketing is one of the most loathed industries in America, year in and year out.
+
+It’s within this closed status quo – of legacy ticket companies controlling the ticketing rights and then selling through a locked-down experience – that Hubbard suggests the answer is an evenmoreclosed platform.
+
+I’d rather make itopen. And the good news for fans is that, behind closed doors, an increasing number of industry stakeholders, including teams and leagues – anchored by a new, tech-savvy generation of owners – are thinking similar thoughts.
+
+What do we mean by an open ticketing ecosystem? Imagine a world where…
+
+So how would an open ecosystem help artists get tickets in the hands of fans, not bots? There’s an obvious answer, and there’s a more important answer…
+
+The obvious answer is that openness allows ticket sellers to better understand the identity of buyers. In the legacy ticketing status quo, a bot doesn’t need to prove it’s a real person, it just needs a credit card. A smarter system could ask a buyer to authenticate via Facebook, Twitter, or Spotify.
+
+It’s more difficult (and less scalable) to create an account on those platforms with many real friends/followers/listens than it is to get new credit card. Better understanding fan identity also has the potential to help venues offer better security, something that Hubbard and others are increasingly raising as a concern.
+
+But the more important answer is that I don’t know what the best solution looks like. No single person does. A core feature of the API-driven open web is that disparate software systems can work together to solve problems more effectively than a single, monolithic one. One company can’t possibly build the best version of everything, including Ticketmaster. The free market of ideas usually wins. That brings me back to a solution Hubbard mentioned in his piece…
+
+“Artists and teams can use technology to design a screening system that gets below-market-priced tickets directly to passionate fans who will use them. This is an aspirational but unproven concept, one that seems risky to implement at scale in a way that doesn’t violate privacy or completely piss customers off.”
+
+I’m confident that the best solution to that problem can best be found by a bunch of smart developers trying a bunch of different approaches that we haven’t thought of yet.
+
+There’s reason for optimism within live entertainment; we’re finding an increasing number of industry stakeholders see the world in this way. Last year EventbritelaunchedSpectrum, a marketplace of services that easily integrate on top of Eventbrite.
+
+Developers are able to easily create extensions thanks to Eventbrite’sexcellent API,and hundreds of thousands of users are getting more out of Eventbrite thanks to Spectrum add-ons. NYC-basedTicket Evolutioncreated anelegant APIthat allows any third-party to access a large swath of resale ticket inventory that can be sold and delivered anywhere on the web. That has allowed companies like HomeAway and Sabre to build live entertainment options directly into their native products.
+
+At the end of the day, artists and teams care most about creating great experiences for fans, and fans care most about enjoying them. Closed platforms add friction to the ecosystem. Open platforms at their core are enabling, harnessing the power (and collective wisdom) of the internet to solve existing problems and create heretofore unimagined experiences. And the best part? That means more fans, at more events, having more fun.

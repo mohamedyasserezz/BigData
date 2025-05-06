@@ -1,0 +1,47 @@
+Big data can’t bring objectivity to a subjective world
+
+It seems everyone is interested in big data these days. From social scientists to advertisers, professionals from all walks of life are singing the praises of 21st-century data science.
+
+In the social sciences, many scholars apparently believe it will lend their subject a previously elusive objectivity and clarity. Sociology books likeAn End to the Crisis of Empirical Sociology?and work frombestselling authorsare now talking about the superiority of “Dataism” over other ways of understanding humanity. Professionals are stumbling over themselves to line up and proclaim that big data analytics will enable people to finally see themselves clearly through their own fog.
+
+However, when it comes to the social sciences, big data is a false idol. In contrast to its use in the hard sciences, the application of big data to the social, political and economic realms won’t make these area much clearer or more certain.
+
+Yes, it might allow for the processing of a greater volume of raw information, but it will do little or nothing to alter the inherent subjectivity of the concepts used to divide this information into objects and relations. That’s because these concepts — be they the idea of a “war” or even that of an “adult” — are essentially constructs, contrivances liable to change their definitions with every change to the societies and groups who propagate them.
+
+This might not be news to those already familiar with the social sciences, yet there are nonetheless some people who seem to believe that the simple injection of big data into these “sciences” should somehow make them less subjective, if not objective. This was made plain by a recentarticlepublished in the September 30 issue ofScience.
+
+Authored by researchers from the likes of Virginia Tech and Harvard, “Growing pains for global monitoring of societal events” showed just how off the mark is the assumption that big data will bring exactitude to the large-scale study of civilization.
+
+More precisely, it reported on the workings of four systems used to build supposedly comprehensive databases of significant events: Lockheed Martin’s International Crisis Early Warning System (ICEWS), Georgetown University’s Global Data on Events Language and Tone (GDELT), the University of Illinois’ Social, Political, and Economic Event Database (SPEED) and the Gold Standard Report (GSR) maintained by the not-for-profit MITRE Corporation.
+
+Its authors tested the “reliability” of these systems by measuring the extent to which they registered the same protests in Latin America. If they or anyone else were hoping for a high degree of duplication, they were sorely disappointed, because they found that the records of ICEWS and SPEED, for example, overlapped on only 10.3 percent of these protests. Similarly, GDELT and ICEWS hardly ever agreed on the same events, suggesting that, far from offering a complete and authoritative representation of the world, these systems are as partial and fallible as the humans who designed them.
+
+Even more discouraging was the paper’s examination of the “validity” of the four systems. For this test, its authors simply checked whether the reported protests actually occurred. Here, they discovered that 79 percent of GDELT’s recorded events had never happened, and that ICEWS had gone so far as entering the same protests more than once. In both cases, the respective systems had essentially identified occurrences that had never, in fact, occurred.
+
+They had mined troves and troves of news articles with the aim of creating a definitive record of what had happened in Latin America protest-wise, but in the process they’d attributed the concept “protest” to things that — as far as the researchers could tell — weren’t protests.
+
+For the most part, the researchers in question put this unreliability and inaccuracy down to how “Automated systems can misclassify words.” They concluded that the examined systems had an inability to notice when a word they associated with protests was being used in a secondary sense unrelated to political demonstrations. As such, they classified as protests events in which someone “protested” to her neighbor about an overgrown hedge, or in which someone “demonstrated” the latest gadget. They operated according to a set of rules that were much too rigid, and as a result they failed to make the kinds of distinctions we take for granted.
+
+As plausible as this explanation is, it misses the more fundamental reason as to why the systems failed on both the reliability and validity fronts. That is, it misses the fact that definitions of what constitutes a “protest” or any other social event are necessarily fluid and vague. They change from person to person and from society to society. Hence, the systems failed so abjectly to agree on the same protests, since their parameters on what is or isn’t a political demonstration were set differently from each other by their operators.
+
+Make no mistake, the basic reason as to why they were set differently from each other was not because there were various technical flaws in their coding, but because people often differ on social categories. To take a blunt example, what may be the systematicgenocideof Armenians for some can be unsystematic wartime killings for others. This is why no amount of fine-tuning would ever make such databases as GDELT and ICEWS significantly less fallible, at least not without going to the extreme step of enforcing a single worldview on the people who engineer them.
+
+Much the same could be said for the systems’ shortcomings in the validity department. While the paper’s authors stated that the fabrication of nonexistent protests was the result of the misclassification of words, and that what’s needed is “more reliable event data,” the deeper issue is the inevitable variation in how people classify these words themselves.
+
+It’s because of this variation that, even if big data researchers make their systems better able to recognize subtleties of meaning, these systems will still produce results with which other researchers find issue. Once again, this is because a system might perform a very good job of classifying newspaper stories according to how one group of people might classify them, but not according to how another would classify them.
+
+In other words, the systematic recording of masses of data alone won’t be enough to ensure the reproducibility and objectivity of social studies, because these studies need to use often controversial social concepts to make their data significant. They use them to organize “raw” data into objects, categories and events, and in doing so they infect even the most “reliable event data” with their partiality and subjectivity.
+
+What’s more, the implications of this weakness extend far beyond the social sciences. There are some, for instance, who think that big data will “revolutionize” advertising and marketing, allowing these two interlinked fields toreachtheir “ultimate goal: targeting personalized ads to the right person at the right time.” According to figures in the advertising industry “[t]here is a spectacular change occurring,” as masses of data enable firms to profile people and know who they are, down to the smallest preference.
+
+Yet even if big data might enable advertisers to collect more info on any given customer, this won’t remove the need for such info to be interpreted by models, concepts and theories on what people want and why they want it. And because these things are still necessary, and because they’re ultimately informed by the societies and interests out of which they emerge, they maintain the scope for error and disagreement.
+
+Advertisers aren’t the only ones who’ll see certain things (e.g. people, demographics, tastes) that aren’t seen by their peers.
+
+If you ask the likes ofProfessor Sandy Pentlandfrom MIT, big data will be applied to everything social, and as such will “end up reinventing what it means to have a human society.” Because it provides “information about people’s behavior instead of information about their beliefs,” it will allow us to “really understand the systems that make our technological society” and allow us to “make our future social systems stable and safe.”
+
+That’s a fairly grandiose ambition, yet the possibility of these realizations will be undermined by the inescapable need to conceptualize information about behavior using the very beliefs Pentland hopes to remove from the equation. When it comes to determining what kinds of objects and events his collected data are meant to represent, there will always be the need for us to employ our subjective, biased and partial social constructs.
+
+Consequently, it’s unlikely that big data will bring about a fundamental change to the study of people and society. It will admittedly improve the relative reliability of sociological, political and economic models, yet since these models rest on socially and politically interested theories, this improvement will be a matter of degree rather than kind. The potential for divergence between separate models won’t be erased, and so, no matter how accurate one model becomes relative to the preconceptions that birthed it, there will always remain the likelihood that it will clash with others.
+
+So there’s little chance of a big data revolution in the humanities, only the continued evolution of the field.

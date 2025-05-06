@@ -1,0 +1,13 @@
+Google’s redesigned Google Sites goes live
+
+For the longest time,Google Sitesfelt like the forgotten app in Google’s productivity suite. Earlier this year, though, the companyannouncedthat it would finally give Sites a full overhaul. Today, after a short beta, this new version of Sites isgoing livefor all users.
+
+Google Sites is essentially a drag-and-drop website builder for creating both public facing web pages and intranet sites that’s deeply integrated with the rest of Google’s tools. You can easily insert documents from Google Docs, Slides, Sheets and the rest of the (unfortunately named) G Suite tools into any site, for example. It also directly integrates with Google Analytics. The new sites now also allows multiple users to collaboratively edit a site (using the same tech the company also uses in Google Docs).
+
+Admins can choose whether users are able to publish to the web or only able to make their pages available to users on their own domain.
+
+With this update, any pages you create in Sites will also automatically scale according to the screen size you are using — and its preview mode makes it easy to see what a site will look like on a phone, tablet and desktop. In order to make those sites look halfway professional, Google added six new themes to get you started. All of these themes come with customizable font and color settings, but I hope Google will add a few more options over time.
+
+Sadly, it doesn’t look like you’ll be able to easily move existing sites over to the new experience (which made our Editorial Director here at TechCrunch rather unhappy), but at least for the time being, you’ll be able to jump back and forth between the old and new editors.Update:A Google spokesperson told us that Google will provide and recommend options for migrating from the classic Sites to the new Sites in 2017.
+
+Most importantly, though, Sites is now a product people will want to use. It finally feels like a modern applications and not like the last vestige of Google’s old and forgotten design principles.

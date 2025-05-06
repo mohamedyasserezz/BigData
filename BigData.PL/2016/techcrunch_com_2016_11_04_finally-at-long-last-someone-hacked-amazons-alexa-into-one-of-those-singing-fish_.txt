@@ -1,0 +1,11 @@
+Finally, at long last, someone hacked Amazon’s Alexa into one of those singing fish
+
+Do you, like many others, wake up each morning, gaze upon your Amazon Echo, and think, “Damn it, Echo. Instead of a shiny cylinder, why can’t you be a singing fish?”
+
+Good news, friend.Your dreams have come true.
+
+On his Facebook profile, artistBrian Kanebriefly demonstrates what happens when you take one of those oh-so-classy singing fish — “Big Mouth Billy Bass,” as it’s known amongst those of us who saw the commercial 47,000 times in the early 2000s — and wire it up to be a scaled rubber embodiment of Amazon’s personal voice assistant.
+
+Want one of your own? Of course you do.
+
+Alas, the creator didn’t shed too much light on how it all works. Is it a Raspberry Pi running Amazon’s Alexa API? Or is it an Amazon Echo, gutted and stuffed into the fish, its every word converted into a twitch of Billy’s motorized muscles? That’s up to you to figure out, for now.

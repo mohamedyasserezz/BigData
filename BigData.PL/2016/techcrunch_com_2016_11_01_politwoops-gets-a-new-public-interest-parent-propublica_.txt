@@ -1,0 +1,33 @@
+Politwoops gets a new public interest parent: ProPublica
+
+Politwoops, the service that preserves politicians’ deleted tweets for posterity and to hold them to account, has a new parent: nonprofit, public interest investigative journalism corporationProPublica.
+
+The move follows the non-profit Sunlight Foundation’s announcement last month that it intended to discontinue its own tech development activities, under Sunlight Labs, and hand over its most promising projects to other entities.
+
+In ablog, the Foundation’s board chairman, Mike Klein, said its mission to further transparency by accelerating the development of transparency technologies has “substantially reduced in urgency” owing to what he described as “the robust maturation of technology over the past decade”.
+
+While ProPublica’s ownmission statementreads:
+
+To expose abuses of power and betrayals of the public trust by government, business, and other institutions, using the moral force of investigative journalism to spur reform through the sustained spotlighting of wrongdoing.
+
+The organization also has its owntech labsfocused on developing tools to further that public interest journalism mission — so it’s hard to think of a better parent for Politwoops (even as the chance of finding a good parent for Twitter, the service that ultimately powers Politwoops,dwindles… ).
+
+In ablogabout adopting Sunlight Labs’ tech, ProPublica’s Scott Klein, editor of the team that builds its interactive databases, argues that the Foundation has demonstrated “the promise of open data and civic tech” — lauding its contribution over the past decade, and how its founders took what he describes as a “Silicon Valley startup” approach to executing their mission, aka: “entrepreneurial, experimental, and nimble”.
+
+“It would be hard to overstate how important Sunlight Labs’s work has been to people who do the kind of work we do on the News Application Desk at ProPublica,” he writes.
+
+“We’re sad to see Sunlight Labs shut down, but we remain convinced of the power of data to help regular people scrutinize their government, live better lives, and to understand their world. We’re grateful to the Sunlight board for entrusting us with these projects, and we’re eager to help see that the mission that animated their creation continues.”
+
+It’s not the first time Politwoops has been saved from external pressures: last year it suffered a five-month hiatus after Twitter cut off access to its API — subsequently restored, thisJanuary, after the company had been petitioned to rethink its block by Sunlight and other transparency advocates.
+
+At the time Sunlight said it had expansion plans for Politwoops — including rolling it out in additional countries. But some half a year on, the organization has evidently reevaluated the worth of playing a technology role.
+
+As well as tracking politicians deleted tweets via Politwoops, ProPublica is also taking on four other Sunlight Labs projects:
+
+Other Sunlight projects are also being taken on by other non-profit entities, although some projects are still in need of a parent — you can readfull details via Sunlight’s blog here.
+
+While multiple Sunlight Labs projects are living on — and, in the case of Politwoops and the four other projects listed above, ProPublica taking ownership of the domain names, servers and github repositories — and pledging to keep the services “running as is while we focus our energy on preparing for Election Day” — it remains unclear whether the Sunlight Foundation itself will continue activities in a non-tech related capacity.
+
+In September, the Foundation’s board chairman noted how the controversial 2010 decision by the US Supreme Court — in theCitizens United vs Federal Election Commissioncase — has made its overarching mission to push for better regulation of the power of money in politics far harder.
+
+“[T]he board had to recognize that Sunlight’s initiating objective — to build support for better legislation against and regulation of the power of money in politics — has been significantly limited by the US Supreme Court’s 5-4 Citizens United decision,” he wrote.

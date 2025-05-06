@@ -1,0 +1,19 @@
+SeatGeek will calculate how much that ticket is worth
+
+Have you ever bought sweet tickets for a ballgame, a concert or some other live event, only to find out that you couldn’t make it? The internet certainly offers plenty of ways for you to unload the tickets… but how much should you charge? Ticketing startupSeatGeekhas launched a new way to help you figure it out.
+
+In a way, SeatGeek has been offering this since last fall, when itlaunched a marketplacefor users to sell and transfer their tickets — the marketplace would even recommend a price, one where the ticket could be sold relatively quickly without leaving too much money on the table.
+
+Now, the company has releaseda standalone price recommendation feature. So even if you’re not selling your tickets on SeatGeek, you can see how much you might be able to charge for them.
+
+“The idea is to make it a utility,” said SeatGeek co-founder Jack Groetzinger. “It’s not just for sellers on SeatGeek — maybe they don’t even want to sell the tickets but just sort of see what they’re worth.”
+
+Apparently the recommendations work, with 85 percent of tickets listed on the marketplace selling within 12 hours. Users who take advantage of the recommendations see a 15 percent higher sell-through rate than those who don’t.
+
+Groetzinger added that analyzing the value of a ticket is something that his team has been working on “without exaggeration, for several years” — even before creating the marketplace, SeatGeek was analyzing ticket prices on other sites to tell users when something was a good deal.
+
+As an example, Groetzinger said that with a newer venue, SeatGeek can look at factors like the location of a seat, while with older venues, it can also draw on historical sale data. Either way, you just upload a PDF of your tickets and SeatGeek will give you a recommendation. (Groetzinger said SeatGeek also experimented with finding the best time to sell for the best price, but found that most users aren’t interested.)
+
+He added the broader vision is to turn ticket buying and selling into “this very spontaneous thing,” rather than always wondering “Can I really commit now?” before buying a pricey ticket.
+
+“We think it’s sort of a shame that people going to see live music, live sports, it’s a very encumbered, difficult life decision,” Groetzinger said.

@@ -1,0 +1,17 @@
+Microsoft’s Windows Server 2016 is now generally available
+
+Microsoft’s Windows Server 2016is now generally available and rolling out to customers. Presales for Server 2016 started on October 1 and Microsoft always said that customers would get access to the actual bits in mid-October. Now that it’s mid-October and the leaves are falling, the company is living up to this promise.
+
+In addition,System Center 2016, Microsoft’s data center management solution for deploying and managing servers and desktops, has now also hit general availability.
+
+Microsoft is using today’s launch to put the focus on its hybrid cloud efforts and how Windows Server 2016 enables enterprises to run their applications both in their own data centers and in public clouds (including, of course, its own Azure cloud computing platform).
+
+Microsoft’s senior director for product marketing Mark Jewett also emphasized Server 2016’s role in Microsoft’s hybrid strategy when I talked to him about this release. “Hybrid cloud is not just about being connected — it’s about being consistent,” he argued. The company sees Windows Server 2016 as only one product in its overall hybrid strategy, which also includes the likes Office 365 and its desktop productivity apps, Dynamics 365 and its desktop equivalent, as well as SQL Server and Azure’s SQL Database service.
+
+With Azure Stack, Microsoft will soon offer a solution for businesses that want to run the core Azure services (compute, storage, networking) in their own data centers. Jewett tells me that the company is seeing strong interest in Azure Stack already, even though it’s only in its technical preview phase right now.
+
+Jewett also stressed how Microsoft’s product portfolio can enable consistent identity management, security procedures and DevOps processes in these hybrid scenarios.
+
+It’s worth noting that Windows Server 2016 will also feature built-in support for containers and come withcommercial supportfor the Docker Engine.
+
+AWS, Microsoft’s largest competitor in the public cloud space, does not currently have much of a hybrid strategy, but Amazon’s cloud computing service is expected to announce a deal with VMware tomorrow that will make it easier for VMware customers to lift and shift their virtual machines into Amazon’s public cloud. Given that tomorrow’s AWS announcement is abit of an open secret, it’s probably no surprise that Microsoft is trying to preempt Amazon’s announcement tomorrow by focusing on Windows Server 2016’s ability to enable these new hybrid cloud scenarios.

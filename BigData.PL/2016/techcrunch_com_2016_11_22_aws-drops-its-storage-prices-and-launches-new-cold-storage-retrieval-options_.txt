@@ -1,0 +1,17 @@
+AWS drops its storage prices and launches new cold storage retrieval options
+
+Amazon Web Services (AWS) todayannounceda significant price drop for some of its storage services. In addition, it is also launched a few new features for developers who want to use itsGlaciercold storage service.
+
+The new prices that most developers will likely care about are those for S3, AWS’ main cloud storage service. Instead of six pricing tiers, S3 will now use three: 0-50 TB; 50 TB-500 TB; and 500+ TB. In most regions the prices for S3 will drop by around 20 percent.
+
+For Glacier, AWS’ cold storage service for data you want to keep in a safe spot but don’t expect to use much, the price drops are even more pronounced. In three AWS regions (Northern Virginia, Oregon and Ireland), you can now park your data for $0.004 GB/month. That’s a 43 percent drop.
+
+For Glacier users, though, the more important news may be the addition of two new retrieval options. The way Glacier is set up, it generally takes a while before your data is ready for download. That’s what allows AWS to offer the service at a very low price, but it also means you can’t use it for anything but cold storage. Now, Amazon is adding two new options to Glacier that allow users to pay a bit extra to get their data faster — or to save a bit more by getting it even later than Glacier’s default three to five hour latency.
+
+With the new ‘expedited’ option, you’ll pay $0.03 per GB and $0.01 per request when you retrieve data and you’ll get your download within one to five minutes. AWS notes that this option will work best for users who have 100TB or more of data in Glacier because S3’s Infrequent Access storage would be a better option for them otherwise. The default standard Glacier requests cost $0.01per GB and $0.050 per 1,000 requests.
+
+Because nothing AWS is every really straightforward, there are two types of expedited retrievals: on-demand and provisioned retrievals. On-demand retrievals play according to the rules I described above. Provisioned retrievals are different. They cost $100 per unit and ensure that the capacity for your expedited retrieval is available when you need it. Each $100 unit guarantees that you can perform 3 expedited retrievals every five minutes at up to 150MB/second throughput. If you don’t buy these extra units, expedited retrievals will only be accepted if the capacity to fulfill them is available when you make your request.
+
+If you don’t care how long it takes to get your data out of Glacier, then the new ‘bulk’ options is for you. Those requests can take between five and twelve hours but will only cost $0.0025 per GB and $0.025 for every 1,000 requests.
+
+It’s hard not to look at these new retrieval options and compare them to Google’sColdlinestorage service. There, you pay $0.007 per GB per month for storing data and $0.05 per retrieved GB. That’s a bit more than AWS now charges in some regions, but in return, Google’s service offers you almost real-time access to your data.

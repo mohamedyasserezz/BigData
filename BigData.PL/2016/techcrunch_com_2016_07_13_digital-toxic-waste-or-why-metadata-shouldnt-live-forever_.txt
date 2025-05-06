@@ -1,0 +1,53 @@
+Digital toxic waste (or why metadata shouldn’t live forever)
+
+The globalsurgein encrypted traffic and a wideadoptionof end-to-end encryption by mainstream tech companies is a transformative shift in information security worth celebrating.
+
+Billions of online users now enjoy default peer-to-peer security, shielding the content of web communications from prying eyes of criminals and corporate surveillance.
+
+Yet the industry continues to collect and store massive amounts of metadata associated with every digital transaction – conversation, purchase, or data transfer.
+
+These extensive historical accounts of personal or business activities live forever and are shared and analyzed outside of user control, becoming a breeding ground for the next wave of cyber risks at all levels — reputational, financial, and national security.
+
+It’s Only Metadata, Nothing to See Here
+
+We have been led to believe that metadata – or rather activity logs – is nothing to worry about; it’s only the content thatmatters.
+
+This may have been true a couple of decades ago when the frequency of digital communications between people and systems was minimal and storage prohibitively expensive.
+
+Today, metadata collection and mining has become an industry of its own – accumulating and matching information across countless databases to produce detailed records of everyone’s activities and associations. The goals range from targeting users with relevant advertising to behavioral pattern recognition to aimless harvesting of records for yet unknown future use.
+
+Every technology and service we use – from banking to communications to transport – combined with themassivevisualsurveillanceweencounterdaily generate a historically unprecedented amount of information about our whereabouts, mapping out countless connections between people, businesses, locations, and things.
+
+In practical terms, the depth and the historic nature of metadata collection would be similar to having someone follow you around 24/7 – online or offline – recording everything you do and who you do it with, only stopping short of listening to your conversations. This is clearly contrary to the dominating public narrative – metadata alone cannot be used to infer specific sensitive details about you.
+
+With the Internet of Thingsbringingbillions of new devices online in the next few years – from cars to smart homes to public utilities and healthcare systems – even more metadata will be fed into the global commercial databases, adding yet another rich and often unprotectedlayer of information about organizations, individuals and nations.
+
+Today’s corporate data collection, particularly of metadata, is easy and cheap, and it often occurs without a meaningful user input and proper informed consent. Most people don’t know where their personal or business activity logs reside and for how long, how they are shared, what conclusions are derived from this data and how it may impact their personal lives or business prospects.
+
+Blurring Lines Between Content & Metadata
+
+“We kill based on metadata,” an infamous statement by the former NSA director Michael Hayden, is a reflection of the intelligence community’sunderstandingthat activity logs have become so exhaustive that they are just aspowerfulin providing insight into people’s lives and minds as the content of their communications.
+
+A newstudyby Stanford University found “telephone metadata densely interconnected, susceptible to re-identification, and enabling highly sensitive inferences”.
+
+When metadata is used and correlated with other open source data without any restrictions, it can reveal profoundly intimate information about individuals. And,unlikethe content of digital communications, it is notprotectedunder the Fourth Amendment and can be surprisinglytrivialtoobtainwithouta warrant.
+
+Our national policy discourse, so intensely focused on the precedence of digital content over metadata, only further exacerbates the misbalance in how the private industry – from global corporations to small start-ups –treat these two types of data. Most activity logs across global databases, as massive as they are, are stored unencrypted without much safeguards to protect data against exposure, nor are they properly secured or anonymized when shared with third parties.
+
+Collecting and storing any information, metadata included, in anunsecure way clearly fails a duty of care companies owe to their users. As a result, the global attack surface is rapidly increasing to open up individuals, organizations and government systems to vulnerabilities,leading to unauthorized collection and use of sensitive data.
+
+Digital Toxic Waste: Why Metadata Should Not Live Forever
+
+With no defense being 100% impenetrable, the private companies as predominant data collectors and custodians of information, need to begin thinking long-term about why and how they collect and store our activity logs.
+
+When it becomes almost impossible to secure such large data sets, they turn into hazardous waste and a cause for user distrust rather than a source of cash flow.
+
+Think about what you can learn about a person or a company by simply looking through their activity logs across different networks – the answer is likely ‘too much.’ While some data – content or otherwise – may need to be retained for several years for compliance or other reasons, there is a lot more information that does not need to live forever.
+
+The less time the metadata lives and the fewer servers it touches, the more secure we all are against targeted criminal attacks and cyber espionage.
+
+As information security becomes a nationalprioritywith cyber threats reaching epidemic proportions, both the tech community and policy-makers must make it significantly harder and exponentially more expensive to exploit networks and databases containing the activity logs.
+
+Here is an easy fix: limit metadata collection to retain what is essential to your business and only for a short period of time. In addition, anonymize and encrypt the data, while adhering to the responsible information disposal processes.
+
+So long as we keep historically detailed activity logs across services – private or public – without effective means to clear the data that is no longer needed or can be secured, encryption remains a half-measure giving only a temporary and illusory sense of security.

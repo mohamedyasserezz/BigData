@@ -1,0 +1,21 @@
+Google will acquire Apigee for $625 million
+
+Google announced today that it intends to purchaseApigee, an API management platform that went public last year, for $625 million or $17.40 a share.
+
+The company, which helps customers build digital products with open APIs, has an impressive customer list including Walgreens, AT&T, Bechtel, Burberry, First Data and Live Nation.
+
+Ina blog post announcing the deal, Diane Greene, Google’s senior vice president in charge of enterprise cloud computing described the product set using Walgreens as an example:
+
+Walgreens, for example, uses Apigee to manage the APIs that enable an ecosystem of partners and developers building apps using Walgreens APIs, including the Photo Prints API (enabling mobile app developers to include the ability for their app users to print photos at any Walgreens store), and the Prescription API (enabling users to quickly order refills of prescriptions right from their mobile app).
+
+She certainly sees the value of adding an API management tool to her company’s arsenal. “The addition of Apigee’s API solutions to Google cloud will accelerate our customers’ move to supporting their businesses with high quality digital interactions. Apigee will make it much easier for the requisite APIs to be implemented and published with excellence,” Greene wrote in the blog post.
+
+Not only is Google getting the technology and customer base, they are taking anAmazon Web Services customerin the process, a nice bonus.
+
+What we do know is that by acquiring Apigee, Google gets an established player in the API management space with a strong customer list to help companies going throughthe difficult process of becoming more digital. It’s certainly interesting timing, given that Dellclosed the massive EMC deal yesterday, andamong its booty from that deal is Pivotal,a company that also helps organizations in their digital transformation. The fact is every company needs to be digital and companies like Dell, Google, AWS, Microsoft and indeed every major enterprise vendor want to help them get there.
+
+For Apigee, which went public last year, it was an up and down year from a stock price perspective.It went public at $17 a share and closed the first day down1.9 percent. It would get worse as the stock dropped to a low of $5.45 a share on February 12th before beginning a steady climb upward, closing yesterday at $16.34 a share.
+
+[graphiq id=”62r6pA6IAsd” title=”Apigee (APIC) Stock Price – 1 Year” width=”600″ height=”463″ url=”https://w.graphiq.com/w/62r6pA6IAsd” link=”http://stock-screener.findthecompany.com/l/672/APIC” link_text=”Apigee (APIC) Stock Price – 1 Year | FindTheCompany” ]
+
+It seems less than a coincidence that the final selling price was just over the original IPO price. The company had a market cap yesterday of $498.93 million before selling for$625 million.

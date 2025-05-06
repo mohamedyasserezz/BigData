@@ -1,0 +1,23 @@
+NTechlab aims new FindFace.Pro facial recognition service at businesses
+
+One of the world’s leading facial recognition outfits, Russia’s NTechlab, is looking to tap into the growing need for the technology among major businesses. Its new product,FindFace.Pro, is basically facial recognition as a service, with the usual conveniences of the “_aaS” model.
+
+The name NTechlab might ring a bell for one of two reasons: first, the company’s system hasscored well on MegaFace, an open and ongoing facial recognition challenge — rivaling and even outscoring the likes of Google’s FaceNet. Like others at the frontiers of the field, NTechlab uses a deep learning approach, which clearly serves the purpose very well.
+
+It also caused a stir earlier this year when it set up a proof-of-concept service that let users match submitted faces to those found on public VKontakte profiles. It worked very well — so well that people used it to locate the personal accounts of adult entertainment stars in order to harass them.
+
+FindFace.Pro has, of course, more practical applications. The target companies are, for example, those that run malls, concert venues, casinos — anywhere lots of people congregate and there are advantages to being able to track them individually.
+
+“Fast and accurate algorithms are crucial here, as they are able to search through the huge dataset of photos in real time,” wrote cofounder and CEO Alexander Kabakov in an email to TechCrunch. “In the next few years the government sector will have the biggest growth, first of all solutions for automated border control, criminal police andcity safety systems.”
+
+A major Russian music festival tested the service to supply people with photos of themselves from the event: send a selfie to a bot and it sorts through official pics looking for your face. And you can conceive how it could be useful for checking identity when conducting a transaction, locating nearby customers to offer them coupons, and that sort of thing.
+
+Like other software as a service solutions, the emphasis is on simplicity of deployment, security, and reliability. You provide it with your dataset — a whole lot of video and photos, probably — and it does the grunt work, crunching through the imagery and putting together a separate set of data that describes the faces without having to consult them directly. This lets the face data be deleted immediately, simplifying storage and security.
+
+Then the user can bounce new images off the database via the API, looking for matches for whatever purpose: tracking flow between shops, which exits people tend to use, what events were attended by what people, and so on.
+
+The ease with which this kind of tech can be deployed may creep people out, of course.
+
+“Society itself is becoming more transparent and the facial recognition revolution just follows the same trend,” suggested Kabakov. “Wider dissemination of such technologies will just continue changing the definition of privacy. Collecting information about people will allow companies worldwide to improve the quality of their services.”
+
+You may or may not agree, but the fact is the tech is here — better get used to it.

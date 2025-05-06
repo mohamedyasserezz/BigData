@@ -1,0 +1,17 @@
+The vivacious, acrobatic Minitaur robot will definitely improve your day
+
+Mondays, as we all know, are the worst. That’s why it’s important to keep an eye out for heart-warming videos like puppies sliding on hardwood floors, otters holding hands, or energetic robots doing flips and climbing fences. It helps if, as in this case, the background music is a jam.
+
+The Minitaurstarted as a research project at the University of Pennsylvania, but the creators have spun off a company, Ghost Robotics, to commercialize the robot. It’s a new approach to robo-locomotion in that its legs are “direct-drive,” meaning there’s no gearing, springs, powered joints, or gearbox in between the electric motor and each leg.
+
+That may sound like a disaster for smooth movement — joints and gears allow for more complex positioning and shock absorption — but the system developed by Gavin Kenneally and Avik De lets the motors themselves do that work. Those triangular legs you see make the forces caused by hopping and running very predictable, allowing the motors to accommodate them. It may look like there are springs or shocks when the robot is bouncing around, but the motor is essentially emulating them in software.
+
+It can trot, run, jump, “pronk,” flip, climb stairs, and is generally more agile than its rigid frame would suggest. Minitaur is also equipped with high-speed cameras and sensors that let it detect its surroundings with great precision. When it jumps up to hit the latch on the door, for instance, that’s no accident.
+
+As Kenneallytells IEEE Spectrum:
+
+It jumps up on its front two legs, doing a handstand, and then jumps. The back left leg is waiting to feel the door handle, so it kind of sticks that leg out and waits until it senses contact. Again, all the sensing is through the motors, there’s no current sensors or force sensors. Once it perceives contact with the door knob, it retracts the leg, moves it over a little bit, and then extends it, and that actually all happens within 50 milliseconds, so it’s incredibly fast. And then once it’s done that, the other back leg, which is now also in the air, pushes against the door to crack it open a little bit, and it also helps push the robot so it pitches back down towards the ground where it then retracts the leg back and catches itself before it falls.
+
+Sounds cool, but imagine if you replaced “door handle” with “human neck,” and “leg” with “razor-sharp implement.” Not so cute now, eh?
+
+But those fears arestill a long ways off— in the meantime, enjoy this innovative robot platform’s capers and gallivants, and put that backing track on your next mixtape. And if you’re a researcher or robot enthusiast, see about scraping together the $10,000 this thing costs — but expect that price to come down as manufacturing ramps up. That low cost is yet another benefit of eliminating costly extra actuators and gearing.

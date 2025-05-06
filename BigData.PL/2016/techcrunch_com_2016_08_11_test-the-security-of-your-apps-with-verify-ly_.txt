@@ -1,0 +1,21 @@
+Test the security of your apps with Verify.ly
+
+It’s not easy for the average user to determine whether or not the apps on his or her iPhone are trustworthy. Some apps scoop up contact lists, others unnecessarily harvest your location data, and some even send your login credentials over insecure HTTP connections.
+
+But, if you’re not a developer, it can be difficult to tell which apps are collecting or leaking your personal information.
+
+EnterVerify.ly, a service that breaks down apps based on their security features — or lack thereof — in an effort to keep consumers informed about potential privacy risks. “Apps are essentially a ‘black box’ that users must trust with no way to know what it might do,” co-founder Will Strafach told TechCrunch in an email. He aims to change that by giving users access to information about how their apps function.
+
+Verify.ly, which launched in public beta last week, offers detailed rundowns of the third party code libraries and software development kits used in an app, links to source code, and information about the app’s transport security enforcement settings and system APIs. For someone with a little bit of technical knowhow, it’s an information goldmine. But even if the world of SDKs and APIs is completely foreign to you, Verify.ly breaks down the important points so they’re easy to understand.
+
+For example, the Verify.ly page for Snapchat shows when the app will encrypt your content in transit and when it won’t. Although you probably expect Snapchat to access your location data and contact list, you might not know that Snapchat also has access to your calendar and can read telephone call-related information.
+
+“I want anyone to be able to look at what their apps are doing. That’s really important information and people deserve that,” says Strafach.
+
+Strafach has a long history of testing and tinkering with iPhone security — he wasjailbreaking iPhoneswhile still in high school. Now, he’s turning his attention to apps themselves. “If an app was a book, the similar services [to Verify.ly] are only reading the ‘table of contents’ and getting a vague, okay understanding of things, while we are reading front-to-back and learning absolutely everything,” he explains.
+
+If explanation via metaphor isn’t your thing, here’s the dirt on how Verify.ly works, according to Strafach:
+
+“Other services look at the library imports, Objective-C class imports, and class/selector names within an app in order to make determinations. We also do this to gather some baseline information, but additionally perform a full and automated static analysis on the app binary. We record every function or selector that is branched to as well as the arguments for them, and if an input argument is obfuscated we will actually emulate the function with a simulated stack and heap to rebuild the contents and figure out what the app is trying to hide (usually private API use). This allows us to have a huge level of granularity, whether it is basic bits like URLs that are put together as format strings, or more nefarious uses such as building the string “LSApplicationWorkspace” and dynamically loading that API in order to view the list of installed apps on an iOS device (bad privacy invasion for casual users, potentially even more damaging for enterprises who are using internal and/or unreleased apps on their devices).”
+
+Although the public beta is free, Verify.ly has plans for monetization, including vetting apps for use on enterprise devices and debugging apps for developers. Check it out and see how secure the apps on your iPhone really are.

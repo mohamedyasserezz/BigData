@@ -1,0 +1,19 @@
+VR audio startup Dysonics closes Series A led by Intel Capital
+
+If you had the chance to watch the second episode of the new season of Black Mirror, you won’t take much convincing when people tell you how important realistic 3D audio is to immersing you in a virtual reality/mixed reality experience.
+
+Dysonicsis a startup in the VR audio space looking to build the hardware and software workflows that give VR content creators high-fidelity solutions to bringing top-notch audio into their content.
+
+Today, the company closed a Series A investment led by Intel Capital with participation from Rawah Partners.The investment was shared as part of a broader Intel Capital announcement disclosing $38 million in new investments across 12 frontier tech companies including Dysonics. The amount of funding for this specific investment not disclosed. The company had previously raised a $750k seed round in 2012 from Rawah to get the company up and running.
+
+Dysonics has a few products out right now, including a head-tracking system called RondoMotion, aimed at bringing head-tracked 360 audio to regular headphones and RondoMic, a high-fidelity all-in-one microphone array capture system.
+
+Right now, the company is working with LA-basedRadiant Imagesto handle rentals of the RondoMic. The RondoMic is definitely a product geared towards professional use. First off, the thing is the size of a watermelon and has a carbon fiber shell so it’s pretty apparent that this device means serious business. The RondoMic utilizes eight custom Telefunken M60 FET microphones (the high-end mics retail for about $600 a pop). Dysonics CTO Bob Dalton estimates the RondoMic could likely sell for something above $10,000, but specified that the company largely intends to focus on rentals with this particular version.
+
+As Dysonics grows, Dalton tells me it’s looking to looking to grow its market potential outside of solely focusing on high-end professional users and embrace the high-end consumer markets with devices that come in different shapes and sizes but still produce compelling high-quality 360 audio capture.
+
+Virtual reality audio is a bit of a wild space at the moment. Despite major presences from established audio giants like Sennheiser and Dolby, there really haven’t been too many standards established.
+
+With the high-end high-fidelity hardware the company is making, it would be easy to frame Dysonics as hardware company, but Dalton is weary with that classification. The real growth potential for the company is with its end-to-end VR audio solution. Rondo360 is an application and set of plug-ins that works across digital audio workstations to process binaural audio and make handling 360 audio much more seamless. The system is agnostic to your channel configurations or hardware, meaning it plays nice with most people’s go-to setups.
+
+“The world of VR audio is pretty fragmented at the moment,” Dalton told me. “The market is kind of open to new solutions that can solve a lot of these problems in terms of the overall fidelity, the realism of the experience, the distribution of the content and the performance on the playback side.”

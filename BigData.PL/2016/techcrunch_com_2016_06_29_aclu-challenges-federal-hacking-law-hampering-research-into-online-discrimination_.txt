@@ -1,0 +1,19 @@
+ACLU challenges federal hacking law hampering research into online discrimination
+
+The ACLU hasfiled a lawsuitagainst the U.S. Attorney General alleging that the Computer Fraud and Abuse Act is unconstitutional, and as a consequence is preventing critical research into discrimination online.
+
+In particular, it’s the provision of the CFAA that prohibits any action that “exceeds authorized access” to a system — effectively criminalizing violations of a website or app’s terms of service. The ACLU doesn’t want to make abuses of such services legal, but it does say that manyactions that should be constitutionally protectedwould be prosecuted according to current interpretation of the law.
+
+Christian Sandvig and Karrie Karahalios are researchers at the University of Michigan and University of Illinois respectively. The two want to study whether real estate sites are, consciously or unconsciously, discriminating against their users — promoting more expensive properties to a certain gender or race, for instance.
+
+To find out, they must essentially break the terms of service of the website, which were not designed to accommodate well-meaning researchers. But to do so leaves them open to prosecution — as others, like Aaron Swartz, found out the hard way.
+
+It’s important to note that this kind of research is conducted offline in much the same way: fictitious homeowners of varying demographics may apply for home loans or rentals, with a view to finding patterns in how different types of people are treated. These studies are protected as free speech.
+
+“The work of our clients has a clear social benefit and is protected by the First Amendment,” said Esha Bhandari, ACLU staff attorneyin a press release. “This law perversely grants businesses that operate online the power to shut down investigations of their practices.”
+
+For instance, a site’s terms may prohibit a user from making any complaint or seeking legal redress — meaning that even in the case of a legitimate grievance, one would have to break the law to even bring that grievance to the attention of the relevant authorities.
+
+The ACLU is conducting the lawsuit on behalf of Sandvig, Karahalios, two other researchers, and First Look Media, publisher of The Intercept.
+
+Changes to this portion of the CFAA could have wide-ranging effects on the world of hacking — in hats of all shades. Just how wide would depend on the extent the law is changed to accommodate the lawsuit (should it be successful) but it could represent a serious evolution in the relationship between users and services online.

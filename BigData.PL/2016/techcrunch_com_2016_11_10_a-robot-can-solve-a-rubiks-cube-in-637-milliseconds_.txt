@@ -1,0 +1,11 @@
+A robot can solve a Rubik’s Cube in 637 milliseconds
+
+A robot called the Sub1 Reloaded can unscramble a Rubik’s Cube in 637 milliseconds – considerably less than the fastest human time of 4.9 seconds. The robot, built by self-driving chipmaker Infineon, uses six motors to turn and twist the cube after another computer scans it, solves the puzzle virtually. The arms quickly begin to move the cube into a solved position.
+
+The robot is so fast that you can barely see the sides moving as it resolves the colors.
+
+“The hardest part is in processing the sensory information and trying to work out whether it is a situation that requires braking or swerving or ignoring,” saidProfessor Noel Sharkey of the University of Sheffield. “It is a bit like asking Sub1 if it is a Rubik’s Cube in front of it or a pile of biscuits that needs to be crumbled for the base of a cheesecake.”
+
+The Sub1 Reloaded is actually a proof of concept to show off Infineon’s self-driving car chips that can process data in real time at 200Mhz. Because CPU speeds are ratcheting up at an alarming rate, it’s clear that a robot like the Sub1 could keep us safe while drive and solve untold numbers of Rubik’s Cubes on demand at the same time.
+
+The robot is probably going to win the Guinness Book of World Records for fastest Rubik’s Cube solution. Sadly this poor, cold, unfeeling piece of machinery can solve a 3D puzzle but will never truly understand the pride of accomplishment.

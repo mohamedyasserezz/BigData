@@ -1,0 +1,9 @@
+MIT creates a chip that simulates the connection between nerves and muscle
+
+In an attempt to better understand neuromuscular conditions like ALS,engineers at MIT have developeda quarter-sized chip housing a muscle strip and some motor neurons. The setup is designed to recreate the neuromuscular junction, the bit of chemical synapse where neurons and muscle fibers meet.
+
+The team has developed a method for creating muscle response by shining a light onto the neuron set, creating a twitch or contraction. The chip is designed to better understand the junction and the diseases that impact it.
+
+The device was created using mice cells, which were separated out into motor neurons and muscle components and fused into those parts. Pillars were inserted into the muscle fiber during the process to help visualize displacement and create a method for detecting the force that was exerted during muscle contraction.
+
+That, in turn, was inserted into a gel-filled device designed to simulate an in vitro environment, creating a more realistic space than the traditional Petri dish that could help duplicate the natural separation between nerves and muscles that occurs in the human body.

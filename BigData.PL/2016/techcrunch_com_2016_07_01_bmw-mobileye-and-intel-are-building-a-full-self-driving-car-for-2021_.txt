@@ -1,0 +1,21 @@
+BMW, Mobileye and Intel are building a full self-driving car for 2021
+
+BMW is teaming up with Mobileye and Intel to work on its first fully autonomous self-driving car, which it plans to ship by 2021, confirmingBloomberg’s report.
+
+Compared to existing self-driving technology, this new generation of cars is supposed to be able to drive themselves from start to finish. This isn’t just about helping you when you’re on the highway — it’s a door-to-door self-driving car platform. BMW and its partners want to replace the driver basically.
+
+Everybody knows BMW and Intel, but Mobileye has been a quiet but key player in the self-driving car industry. For the past two decades, the Israel-based company has been developing camera sensors for cars. It has paved the way to today’s self-driving cars.
+
+In recent years, the company has expanded its product line from car sensors to the entire technology stack powering self-driving cars. In fact, Tesla has been usingMobileye’s technologyfor its Autopilot feature.
+
+And yet, we’re not there yet — current self-driving cars aren’t really smart. It’s still going to take years before end customers can buy fully autonomous vehicles. Called the BMW iNEXT, the first fully autonomous BMW car is going to lay down the foundations of BMW’s strategy on this front. Test drives will start next year.
+
+The company also mentions potential ride-sharing use cases with a technology platform that would let BMW manage a fleet of autonomous vehicles. And this could affect many areas of the transportation industries — truck drivers, construction vehicles, etc.
+
+The iNEXT should reach level 3 to level 5 of automated driving (“eyes off” to “driver off”). The three companies will then share this platform with other car manufacturers. With an open strategy, these companies could create a significant revenue stream through licensing deals and more.
+
+But let’s talk about the elephant in the room as well. This announcement comes the day after it was revealed that the Tesla Model S autopilot feature was responsible fora fatal crash. There’s a long and winding road ahead before customers can trust self-driving cars. BMW, Intel and Mobileye need to be aware of all these challenges.
+
+Update:Mobileye’s Chief Communications Officer Dan Galves has provided the following statement regarding the Tesla crash:
+
+We have read the account of what happened in this case. Today’s collision avoidance technology, or Automatic Emergency Braking (AEB) is defined as rear-end collision avoidance, and is designed specifically for that. This incident involved a laterally crossing vehicle, which current-generation AEB systems are not designed to actuate upon. Mobileye systems will include Lateral Turn Across Path (LTAP) detection capabilities beginning in 2018, and the Euro NCAP safety ratings will include this beginning in 2020.

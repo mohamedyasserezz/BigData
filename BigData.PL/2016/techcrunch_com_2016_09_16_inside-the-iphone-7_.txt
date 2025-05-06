@@ -1,0 +1,19 @@
+There’s an Intel modem and an extremely skinny A10 chip inside the iPhone 7
+
+While the rest of the iPhone obsessed world was getting ready to stand in line or just impatiently waiting for their pre-order to arrive, the teams at iFixit and Chipworks were sharpening their tools like underfed lumberjacks sitting down to a steak dinner.
+
+Both sites offered liveblogs of their iPhone 7 (and 7 Plus) teardowns and spotted some interesting tidbits in the process, discovering a handset that looks a lot more different on the inside than out. But first they had to dig through a whole lot of glue – a membrane of sorts that seems to play a key role in the phone’s newfound water resistance rating, along with the haptic home button, which also serves to eliminate a long time pain point of broken buttons.
+
+Among other issues, using glue as part of the waterproofing process may mean that you lose some of that feature when the phone is repaired.
+
+On the chip front, the A10 is front and center. And there’s a whole lot of it on the surface, with a 125 sq. mm footprint. The chip, which also bears the far less memorable name APL1W24, looks to be manufactured by TSMC (Taiwan Semiconductor Manufacturing Company), tapped in part due to its InFO technology, which keeps the chip extremely thin.
+
+On the unit torn apart by Chipworks (A1778), an Intel mobile cellular platform is present, including two RF transceivers, power management and modem. There may well be Qualcomm manufactured chips on the CDMA A1660 version, due to some CMDA licensing issues for Intel. Info on that is still to come.
+
+Both Hynix and Toshiba have been employed to provide storage for the new phone. As for memory, there’s 2GB on the 7 and 3GB on the 7 Plus, according to the reports.
+
+iFixit’s report gives the handset a bit of a mixed bag on the repairability front. In addition to the aforementioned glue, Apple has added yet another screw type, bringing the required screwdriver count up to four.
+
+viaiFixit,Chipworks
+
+Image by iFixit

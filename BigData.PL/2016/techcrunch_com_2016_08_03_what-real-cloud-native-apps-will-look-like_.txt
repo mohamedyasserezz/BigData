@@ -1,0 +1,51 @@
+What real cloud-native apps will look like
+
+There is a lot of talk of “cloudnative” these days, and people are taking liberties with the interpretation of this term —likethey do with everything else associated with thecloud.
+
+Cade Metz put it right in thisWired post: “The term has taken on so many meanings in recent years. But keep in mind: most of these meanings come from IBM, HP, EMC, Dell, Cisco, and other companies that don’t want to be f***ed by it.”
+
+“Cloudnative” simply refers to applications that are born in thecloud— as opposed to applications that are born and raised on-prem. On-prem islikeowning a fleet of cars. You not only have a huge capital expense up front (to buy cars), but you must also pay for maintenance.
+
+When on-prem applications migrate to the publiccloud, the first step is to simply relocate them to thecloud. Essentially, this simply means recreating the on-prem infrastructure. This approach makes a lot of sense as a starting point as it reduces the number of unknowns and mitigates the risk of being fired. Talking about firing, it’s time to change the saying:
+
+“No one ever got fired for buying IBM.”
+
+to:
+
+“No one isgoingto get fired for moving to AWS.”
+
+To illustrate this approach further, if a company is migrating a 100-node cluster from on-prem to thecloud, it would simply rent 100 instances and run the applications and services in the exact same fashion as on-prem (after installing the identical version of the operating system and supporting/baseline software). This scheme of renting infrastructure is called Infrastructure-as-a-Service, or IaaS.
+
+The benefit IaaS provides is twofold: scaling and abstraction. The scaling benefit shows itself in terms of how machines can be added and removed on demand. This process takes only a few clicks of a button as opposed to the weeks it would take on-prem. The abstraction benefit is at the hardware/data center infrastructure level. IaaS provides global infrastructure without creating and maintaining multiple data centers in the same regions and between geographic regions. With IaaS, there is no need to worry about managing machines, racks, networking, cooling, power usage and so on.
+
+An added benefit of IaaS in particular, and ofcloudcomputing in general, is the transition of cost from capital expenses to operating expenses. IaaS is equivalent to renting a fleet of cars. All you are responsible for is the rent, whether you rent hourly, weekly or monthly.
+
+IaaS is a good start and is in fact very foundational. Everycloudprovider who has tried to skip the IaaS part and directly sell PaaS and SaaS offerings has met with challenges. For example, Microsoft initially started with PaaS service on Azure, which met with very limited success.They added IaaS to Azure in 2012, and there’s been no looking back since.
+
+While we’re on the topic of SaaS, there appears to be a new trend in the industry to call everything that runs on the internet “SaaS” and bundle it with acloudbusiness to inflatecloudrevenues.Lookatthis postby Oracle and go figure out what isrealcloudrevenue.
+
+Companies usually need some time to get settled in their new environment after migration to the publiccloud. For some companies it can be months; for some, years. These settlers also need time to feel as secure as they felt in their on-prem homeland.
+
+As settlers assimilate and become familiar with the new environment, they may observe something interesting. What they see is that there are ready-made services available to do what they have been painstakingly doing by hand for years. While IaaS helped them abstract away hardware, these services help them abstract away even the operating system. Applications can simply be rebuilt on top of these services, which provide general purpose platforms for different needs. This enhancement is referred to as Platform-as-a-Service, or PaaS.
+
+PaaS not only brings simplicity, but also significant cost reduction over and above what IaaS provides.
+
+PaaS is an important step, as this is the first touch point ofcloudnative. It introduces the thought process of rearchitecting applications to their full potential of being on the publiccloud. These applications, which are available as PaaS flavors, cover a wide landscape. Amazon Web Services (AWS) is a leader in PaaS offerings as they have been in IaaS. On the data storage side they have AWS Aurora, providing replacement for RDBMS; DynamoDB, providing replacement for NoSQL databases; and Redshift providing replacement for Enterprise Data warehouses.PaaS isliketaking Uber as and when you need it. You are not paying rent, but rather only the fare to go from place A to place B. The type of service you take depends on your need. If your goal is to go sightseeing, then maybe taking a “Big Bus” is a better idea.Serverless architectureWhat PaaS provides is amazing, and most applications will live happily ever after in the beautiful world of PaaS. But a few applications will go even further to minimize cost and increase simplicity. Amazon Web Services’ announcement of wide availability ofAWS Lambdais a step in exactly the same direction. Microsoft Azure has announcedAzure Functionsas a competing offering; so did Google, withGoogleCloudFunctions.The key to make this happen is to break down the application into the individual functions it is made up of. Functions are great, as they are small blocks of code that run on a designated runtimelikeJVM or Python. The application developer does not even have to worry about running those runtimes. This is the highest level of abstraction anyone can think of (so far!).For Docker/container fans, this is not very different from what containers do. Containers are an abstraction over which applications are run. This is improvisation over them, where granularity has been moved to individual functions.What comes even closer to it are “micro-services.” In fact, a popular design pattern is to front these functions with micro-services managed by the API gateway.Functions are about why you wanted to take the trip in the first place,liketaking clothes to the cleaners to get them washed and ironed. Functions allow you to worry about what you want to get done rather than how.SummaryAll the improvements in the publiccloudlandscape are focused on meeting two goals: reduce costs and simplify things. IaaS, PaaS and Lambda achieve this progressively.As companies are burning proverbial on-prem bridges and know publiccloudis their destiny, they are focusing on how to optimize cost. This includes rearchitecting applications in the following ways to take maximum advantage of beingcloudnative:Moving from traditional data stores (think Oracle/MySQL/Teradata) tocloud-nativedata stores (think Aurora/Redshift).Taking advantage of containers and application-centric abstractions.Last but not the least, breaking down applications into individual functions and working at function-level abstractions.
+
+PaaS is an important step, as this is the first touch point ofcloudnative. It introduces the thought process of rearchitecting applications to their full potential of being on the publiccloud. These applications, which are available as PaaS flavors, cover a wide landscape. Amazon Web Services (AWS) is a leader in PaaS offerings as they have been in IaaS. On the data storage side they have AWS Aurora, providing replacement for RDBMS; DynamoDB, providing replacement for NoSQL databases; and Redshift providing replacement for Enterprise Data warehouses.
+
+PaaS isliketaking Uber as and when you need it. You are not paying rent, but rather only the fare to go from place A to place B. The type of service you take depends on your need. If your goal is to go sightseeing, then maybe taking a “Big Bus” is a better idea.
+
+What PaaS provides is amazing, and most applications will live happily ever after in the beautiful world of PaaS. But a few applications will go even further to minimize cost and increase simplicity. Amazon Web Services’ announcement of wide availability ofAWS Lambdais a step in exactly the same direction. Microsoft Azure has announcedAzure Functionsas a competing offering; so did Google, withGoogleCloudFunctions.
+
+The key to make this happen is to break down the application into the individual functions it is made up of. Functions are great, as they are small blocks of code that run on a designated runtimelikeJVM or Python. The application developer does not even have to worry about running those runtimes. This is the highest level of abstraction anyone can think of (so far!).
+
+For Docker/container fans, this is not very different from what containers do. Containers are an abstraction over which applications are run. This is improvisation over them, where granularity has been moved to individual functions.
+
+What comes even closer to it are “micro-services.” In fact, a popular design pattern is to front these functions with micro-services managed by the API gateway.
+
+Functions are about why you wanted to take the trip in the first place,liketaking clothes to the cleaners to get them washed and ironed. Functions allow you to worry about what you want to get done rather than how.
+
+All the improvements in the publiccloudlandscape are focused on meeting two goals: reduce costs and simplify things. IaaS, PaaS and Lambda achieve this progressively.
+
+As companies are burning proverbial on-prem bridges and know publiccloudis their destiny, they are focusing on how to optimize cost. This includes rearchitecting applications in the following ways to take maximum advantage of beingcloudnative:

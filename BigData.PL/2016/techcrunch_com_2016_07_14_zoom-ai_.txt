@@ -1,0 +1,41 @@
+Zoom.ai believes an automated assistant is the fix for a weighty workload
+
+Zoom.aiwants to give managers and others in enterprise a gift that has a very high value in business: Time. Company founder Roy Pereira told me at Montreal’ Startupfest that while tools are making us more productive, we’re also expected to handle more, and that’s causing a growing problem his startup hopes to address with AI.
+
+The startup, just six months old, is part ofBetaworks’ initial BotCamp cohort, one of eight startups selected to receive $200,000 in seed funding, working space in NYC’s Betaworks Studio and guidance from people at the top bot platforms, including Kik, Slack and more. BotCamp is designed to capitalize on the recent boom in interest in chatbots by growing some unique early-stage companies.
+
+Zoom.aihas an approach that differs from chatbot startups, however. Its target users are enterprise customers, in a market more generally associated with consumer-facing products. Plus, founder Roy Pereira doesn’t even like calling Zoom.ai a “chatbot” company.
+
+“I don’t consider Zoom.ai a bot company,” Pereira told me. “Bots and the chat interface is really just a UI, the most appropriate UI for this problem I want to solve.”
+
+What Zoom.ai is, according to Pereira, is an “automated executive assistant.” The idea to create such an assistant came to Roy because of his experience at his last company, Rubicon Project (whichacquired his startup Shiny Ads in 2014).
+
+At Rubicon, Pereira noticed that the new normal in the workplace, even for managers and executives, often involves a lot of menial work. Scheduling, looking up contact details, deciding where to have coffee, looking up some background info on a potential contractor — the list of things we do on a day-to-day basis that are relatively simple, yet time-consuming, continues to grow, even as tech makes other parts of our lives easier.
+
+“It takes time, and it’s faster to do it now than before,” Pereira said. “But we have so much more to do now than we did before. How would I want to interact with something that could solve this? I wanted an assistant.”
+
+But how do you manage creating a virtual assistant that’s as effective as a human one? The road so far for bots (Pereira may dislike the term, but he’s part of “BotCamp” so I’m just gonna go ahead and keep using it) is littered with examples of what happens when AI falls short of user expectations.
+
+That’s why Pereira said he realized early that the key to success was doing natural language processing (NLP) properly, and that requires understanding the user properly — most platforms, including meeting scheduler and potential Zoom.ai competitor x.ai don’t do that. That results in “goldfish” style behavior, Pereira says, where there’s limited or no memory and so the visual in virtual assistant is brought top of mind.
+
+To inform Zoom.ai about the user, what the company needs is data. Luckily, we as users are more and more willing to share said data, so there’s a fair amount of that readily available that Zoom.ai’s tech can plug into. And the resulting insights lead to more successful results.
+
+Aside from scheduling, what Zoom.ai can do is actually fairly broad, and includes things like sourcing warm introductions through mutual contacts, and setting up coffee meetings, complete with locations, without user input.
+
+But “Domains,” in bot parlance, are areas of expertise, and a key tenet of good bot design is that you keep your domain tightly focused in order to lessen the chance for mistakes. Zoom.ai’s domain seems fairly broad, which I thought might lead to a higher error rate than other competitors.
+
+But Pereira said they’re addressing that issue in a few ways, including training their AI on recognizing the same request articulated very differently. That’s because the way you ask for something on Slack is not the way you ask for the same thing on Skype or on Kik, and Zoom.ai can recognize things like emojis used in place of words, or parsing a lengthy request, like you might get via email.
+
+University of Toronto is one of the best machine learning schools in the world, and Pereira is using that to Zoom.ai’s advantage in terms of finding talent.
+
+But it’s not always easy, because Google, Apple, etc. are coming in and hiring into higher years. So Pereira says they’ve built a lot of the tech in-house, and they’re using some off-the-shelf stuff out there. Pereira thought that those tools, like Google’s free machine learning library, would be sufficient, but was surprised to find that they had to “10x” the available tech in order to get it where they wanted it for Zoom.ai.
+
+He says they’re flexible on that, however — meaning that if better external tools become available, Zoom.ia is not going to be particular about the source of their assistant’s smarts. The goal is to make it better, regardless of where the machine learning tech is coming from.
+
+Self-funded up until now, Zoom.ai’s first external funding is the $200,000 seed investment provided by Betaworks. Pereira says they’re waiting to bring on more investment until September, when they’re through with BotCamp. He says that as a seasoned entrepreneur, he now realizes the value of being choosy, and is also lucky enough to be able to do that.
+
+Betaworks will add a lot of value to what they’re already doing, he adds. The people who work there, their network, the mentors and more are all valuable resources, especially in so new as an area, Pereira notes.
+
+Zoom.ai is available on Slack, Telegram, Messenger, Kik, Line, Skype, Hangouts, Cisco Spark, SMS and email already, which is a long list because Pereira says the aim was not to leave anyone out. It’s currently available as a free preview, which is open to anyone.
+
+Virtual assistants may soon be commonplace as chat becomes an increasingly important point of contact between people and their devices. Zoom.ai’s bet is that business users will prove key drivers of AI advances, and it wants to be wherever they are. That could work well, provided Zoom.ai truly reduces your workload, instead of just changing what it looks like.

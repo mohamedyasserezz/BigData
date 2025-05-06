@@ -1,0 +1,23 @@
+Facebook just secured an e-money license in Ireland, paving the way for Messenger payments in Europe
+
+Paving the way for friend-to-friend payments to come to Facebook Messenger in Europe (and after the functionality debuted in the U.S.all the way back in March last year), Facebook has quietly secured an e-money license from the Central Bank of Ireland.
+
+A quick search of the state bank’sregistershows that Facebook Payments International Limited was granted a license on the 24th of October. Specifically, the license pertains to e-money issuing and payment services provision and includes credit transfer, payment transactions and money remittance.
+
+And, due to Ireland being a member of the European Union, Facebook can take advantage of so-called passporting — meaning that the license applies throughout the other 27 EU member states.
+
+It’s not clear, however, why it took Facebook so long to acquire a European license. It was reported in the FT that Facebook began the process back in 2014 (Update: Facebook says the report was inaccurate and that the Central Bank of Ireland issued the license within its normal 90-day turn around).
+
+At the same time, we werehearingabout the company’s tentative attempts at acquiring one of London’s fintech money transfer startups. I’ve since heard a much more definitive story that one of those companies went as far as meeting with Facebook founder Mark Zuckerberg, but I digress…
+
+The other question is what exactly Facebook plans to do with its new license. Will it simply roll out Facebook Messenger Pay in Europe for friends wanting to send each other money in the same currency and in the same country or will it delve into currency exchange, which would seem to be more appropriate for Europe.
+
+As François Briod, founder of money transfer comparison site Monito and the person whoalertedme to the license, tells TechCrunch:
+
+It the short term, it means that Facebook Messenger will be able to roll out its peer-to-peer payment features in Europe. It could compete with the likes of Paym or Barclays’ Pingit in the UK, but most likely also democratize peer-to-peer mobile payments which did not take off as quickly as in the US. But there are also open questions about its potential in the mid-term: Is Facebook Messenger going to offer money transfers in all EU currencies, or only in Euro? Will the service be available for cross-border transactions within the same currency (e.g. euro in France > Euro in Germany) or extended to cross-currency transfers (e.g. GBP in the United Kingdom > EUR in Spain)?
+
+Update:Facebook has confirmed its European e-money license and issued TechCrunch the following statement:
+
+“Facebook Payments International Ltd. (FBPIL) is pleased to confirm we have been approved authorization as an electronic money institution by the Central Bank of Ireland (CBI).
+
+The license enables us to roll out products like charitable donations on Facebook or peer-to-peer payments via Messenger in Europe, as we have in the U.S. The license authorizes FBPIL to issue donations from Facebook users to charities registered in the European Economic Area (EEA) only; and peer-to-peer payments, within the EEA.”

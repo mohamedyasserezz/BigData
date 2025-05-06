@@ -1,0 +1,39 @@
+How data science and rocket science will get humans to Mars
+
+In a recentop-edto CNN, President Obama re-affirmed America’s commitment to sending a manned mission to Mars. Think your data science challenges are too complicated? Imagine the difficulties involved in mining data to understand the health impacts of an expedition to Mars.
+
+What happens to astronauts’ muscle tone or lung capacities after several years in space? How much weight can they safely lose? How much CO2 should be in the crew vehicle? How many sensors are needed to calculate joint flexibility in each individual space suit?
+
+When sending humans “where no one has gone before,” there are a multitude of variables to consider, and NASA is hard at workresearching the health and safety risksof a future Mission to Mars. Understanding these risks is critical, as they impact a number of decisions that need to be made when planning the journey — spanning everything from how potential crew members are evaluated to equipment engineering, mission logistics and the determination of needed fuel loads.
+
+The stakes are high, but NASA realized from the get-go that it needed to focus less on developing the perfect analytic model and more on building a data scienceprocessthat empowers decision-makers to use analytics to answer a multitude of continually changing questions. But you don’t have to be dealing with rocket science to learn from NASA’s analytic approach. Here are several key takeaways from NASA’s project that are useful for any organization about to embark — or that’s stuck — on a big data analytics initiative.
+
+Simply put, data science shouldn’t be as complicated as rocket science. (See what I did there?) Yes, analyzing big data has challenges, and yes, your approach may vary depending on what kinds of insights you hope to obtain, but there’s no need to make things more complex than the situation calls for.
+
+All too often, organizations end up spending endless cycles attempting to move data in order to analyze it when they should instead be focusing on bringing the analytics to the data. Big data, by definition, is very tough, if not impossible, to move around. This is why distributed storage and processing frameworks like Hadoop exist — data in the cloud is far more scalable than data in a silo.
+
+For the Mars project, there are so many levels of data to look at, ranging from health data collected from astronauts likeScott Kellywho have completed previous space missions, to non-astronaut test studies, to studies done in simulated space environments like theHuman Exploration Research Analog(HERA) at Johnson Space Center in Houston.
+
+Getting all the data in one place is the critical first step. For this reason, NASA is using theCollaborative Advanced Analytics and Data Sharingplatform developed by Lockheed Martin and several analytic partners, such as Alpine Data, to analyze data at its source. Because there’s no waiting to download data into a separate analytic environment to work with it, researchers can focus their time and energy on asking questions and getting the answers that will help them plan a mission to Mars.
+
+A successful rocket launch is only step one in a multi-year expedition to Mars. Based on past experiences, NASA expects to encounter and address numerous challenges along the way. The same holds true for data analytics projects. Simply deploying a model doesn’t mean the project is done. In fact, the most valuable analytics initiatives are those where models are continually refined and iterated on an ongoing basis.
+
+Like the scientific method, getting the most out of analytics requires experimentation, testing, learning from failures and testing again. NASA wants to be able to quickly query the large volumes of data at its disposal, then funnel insights back into new models capable of building on what came before. That’s why the data science process for this initiative resembles a “pendulum,” where the forward swing focuses on rapidly driving insights out to researchers and the backward swing focuses on measuring, evaluating results, refining the model and then swinging again.
+
+An ability to quickly and easily refine analytic models is especially valuable when your data sets aren’t perfect. (And really, is any data set perfect?)
+
+For NASA, the biggest data challenge is that the astronaut sample size is small — only 300 individuals have been accepted to NASA’s Astronaut Corps. Researchers have to mine the heck out of the data collected from this small sample and extrapolate.
+
+For example, based on how a 35-year-old female with a starting weight of 120 pounds responded to a five-month trip in space, how would a 32-year-old weighing 123 respond to two years? What about a 30-year-old weighing 118? Furthermore, since an astronaut has yet to step foot on the Red Planet, there’s no data about the health impacts of actually living on Mars (Matt Damon doesn’t count).
+
+But what can NASA learn from astronauts who have gone to the Moon, or spent a year in the International Space Station? What happens when data from test subjects living in simulated space environments is plugged into a predictive model? With analytic tools that support rapid model deployment and refinement, organizations can keep trying different ways to extract insight from the data theydohave to make better predictions, even when key information is missing.
+
+With the Mars Mission, NASA is not only putting billions of invested taxpayer dollars on the line, but also the lives of its astronauts, who risk their health and safety in the name of science and exploration.
+
+Like any consumer of analytics, NASA needs to be able to trust in the recommendations that are being generated, but this is hard to do if predictions are computed in a “black box” that only data science experts can manipulate or understand.
+
+For a project like this, empowering analytic consumers who aren’t necessarily data science PhDs (such as the health researchers, equipment engineers and others planning the mission) to actually build and launch queries and use the data on their own is key. This requires tight collaboration between business and IT stakeholders, modeling tools that are simple to use and modify and the ability to push insights to the people who need them. This is why NASA has chosen a collaborative analytic platform that includes tools that extend outputs directly into the systems and applications that are used by the scientists and decision-makers working on the Mars Mission.
+
+Large and complex data sets pose challenges for any organization about to embark on an analytics deployment. But NASA’s example of harnessing data to plan the most complicated of journeys — an expedition to Mars — proves that the challenges are not insurmountable. With the right tools and, most importantly, a consistent and well-planned approach, data science doesn’t have to be as daunting as rocket science.
+
+Note: Lockheed Martin Information Systems & Global Solutions is now a part of Leidos Holdings, Inc.

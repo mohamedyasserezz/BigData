@@ -1,0 +1,19 @@
+Smart lock Amadas to cancel Kickstarter campaign
+
+Despite reaching its funding goal, Amadas will cancel itsKickstartercampaign on Monday. The campaign wasn’t as clear as the company hoped, the company’s CEO tells me. The challenge is that the backers and the company had some misunderstandings about the features of the product. The campaign might make a return to the platform early next year.
+
+“We weren’t well enough prepared to run a campaign,” Eun Min Park, the CEO at Amadas tells me when I spoke to her atTechCrunch Disrupttoday. “We may try one more time, and get it right this time.”
+
+The problem, the team points out, is that its solution is Bluetooth only, but a lot of the competitors in the market offer remote unlock solutions over Wi-Fi. The challenge was that many of the backers assumed that Amadas’ solution would also support remote unlocking from anywhere in the world.
+
+“Nowhere on our campaign page does it say that we support Wi-Fi,” says Sung Kim, the company’s COO, “but we were getting a lot of complaints from the backers, some even claim we are misrepresenting our products.”
+
+The team explained to me that it would take them a long time to add Wi-Fi to the mix, which a number of the backers were requesting.
+
+“We are taking responsibility for any possible misunderstandings,” Park explains, highlighting why the company chose to cancel the campaign. “Eventually, we will make locks that are compatible with HomeKit, Nest and so forth. But I know TechCrunch wrote about the problems abouthacking of smart locksand we need to make sure we put security as the most important factor.”
+
+The Bluetooth-driven smart lock has a number of smart innovations, including a PIN-based unlocking feature, and even a backup solution in case your front door runs out of its AA batteries. The outside handle of the lock has a small solar panel built in, so you can use a flashlight (such as the flashlight built into most smartphones) to charge its internal batteries for long enough to let you into the house to unlock.
+
+After this article was published, Amadas reached out to us to clarify a few things. The company’s statement is below.
+
+AMADAS is sincerely thankful for all the support given by the Kickstarter backers and apologizes to any Kickstarter backer who has learned about the cancellation before its official announcement on Kickstarter updates.  AMADAS decides to cancel the project in order to focus more on delivering a “better” product to users (either in crowdfunding or B2B/B2C channels) in the near future and to take the full responsibility for causing any misunderstanding among backers. Lack of WiFi solution is only an example of features that AMADAS plans to implement in the future, not the sole reason for cancellation. AMADAS promises to return to the market with the products that will change the status quo by solving more comprehensive key pain points of door lock solutions. In order to show its gratitude, AMADAS will also offer the same discount rate to the Kickstarter backers who have already signed up and keep them informed of any key milestones in the future.

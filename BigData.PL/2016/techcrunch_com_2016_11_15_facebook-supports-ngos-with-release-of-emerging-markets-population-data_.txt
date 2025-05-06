@@ -1,0 +1,19 @@
+Facebook supports NGOs with release of emerging markets population data
+
+From rockets to planes, Facebook’s Connectivity Lab has been hedging its bets on a number of experiments to bring internet access to the far reaching corners of the globe.
+
+The group broadly breaks up connectivity challenges by population density, using machine learning to pinpoint population centers that remain off the grid for existing data sets. Today, Facebook is releasingthose population data sets for five countries— opening up possibilities for non-profits and NGOs working to solve tough global challenges.
+
+The question of where to position connectivity infrastructure is an important one. This is because a satellite can broadcast internet to a much larger region than a plane likeFacebook’s Project Aquila.Facebook was initially fearful of the challenges presented by a lack of population density in emerging markets. But, in analyzing imagery for 23 markets, researchers discovered that 99 percent of populations lived within 40 miles of a city.
+
+“For areas like the Middle East and Africa, maps exist at too low of resolution to make quantitative decisions,” said Yael Maguire, head of Facebook’s CX Lab. “We worked with data science folks to think about how to systematically process imagery from space for the entire globe.”
+
+Facebook processed 14.6 billion images using a large computing clusterto identify and tag these population centers.
+
+Machine learning and computer vision automates the process of tagging individual structures across large geographic areas. Those structures are then used to approximate population. That data is already being used by the Red Cross to push back against malaria in Malawi. In addition to Malawi, Facebook is also releasing data sets for South Africa, Ghana, Haiti, and Sri Lanka in its collaboration with Columbia University and the World Bank.
+
+New data showing the extent to which populations in emerging markets coalesce around urban centers is encouraging to Facebook because it means that a connectivity solution in each of those regions would only need to span a short distance to connect a vast majority residents. This could take the pressure off the company to put a satellite into orbit to provide large-scale rural connectivity.Facebook’s previous attempt to launch a connectivity satellite ended in fire aboard a SpaceX Falcon 9 rocket.
+
+“There’s less of an emphasis on satellite connectivity, but of course that’s a statement about the future not the present,” noted Maguire. “Aquila is years away, satellites are here today. We do think there is a roll for them to play.”
+
+The new granular data sets are available starting now on Columbia University’sCenter for International Earth Science Information Network site.

@@ -1,0 +1,9 @@
+Velodyne adds a high-res version of its LiDAR sensor for autonomous driving
+
+The autonomous driving company on which both Ford and Baidu arebetting $150 millionhas a new version of its LiDAR sensor. The newPuck Hi-Reshas a name that reflects both its shape and what distinguishes it form the original puck – higher resolution LiDAR imaging that helps it offer up the “most detailed 3D views possible from LiDAR,” according to the company.
+
+Velodyne notes that the new version of the Puck was actually well into its development cycle before the new $150 million investment from Baidu/Ford. Still, that money will help Velodyne accelerate the pace at which it can achieve mass production of the new sensor, the company says, bringing it to market faster and cheaper than would’ve been possible otherwise.
+
+While Velodyne has emerged as a leader in the LiDAR space, after beginning life as a high fidelity stereo equipment maker, the use of LiDAR itself in self-driving systems isn’t universally seen as necessary. At Disrupt SF earlier this week, Udacity founder Sebastian Thrun, who also started Google’s self-driving car project, said he believes afully photographic sensor system should be able to handle autonomous drivingwithout LiDAR. Tesla’s Elon Musk also announced a Version 8.0 update for Autopilot this past weekend, and he likewise eschewed LiDAR, using radar as the cornerstone of the system instead.
+
+Still, as costs decrease and investment goes into refining the LiDAR manufacturing process, it’s hard to see any reason why future autonomous driving systems might not include LiDAR alongside radar and photographic sensors, too, just to produce the most comprehensive possible picture of driving conditions to onboard image processing hardware.

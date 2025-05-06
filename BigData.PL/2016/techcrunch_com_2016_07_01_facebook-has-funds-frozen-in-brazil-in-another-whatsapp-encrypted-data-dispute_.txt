@@ -1,0 +1,23 @@
+Facebook has funds frozen in Brazil in another WhatsApp encrypted data dispute
+
+Around $6 million in Facebook’s Brazilian bank account has been frozen on court order in another dispute about encrypted data involving local police authorities and Facebook-owned messaging app WhatsApp, according to the localGlobo G1news service.
+
+The dispute pertains to WhatsApp messages that Brazilian federal police want access to to progress an international drugs investigation, ongoing since January,Reutersreports.
+
+WhatsApp and its parent company Facebook have previously maintained they do not store nor have access to the metadata and message data Brazilian police are requesting.WhatsApp completed a rollout of end-to-end encryption across its servicethis April — firmly locking it out from the ability to decrypt users’ messages, and cementing its hands-off stance on users’ content.
+
+There have been several such stand offs over encrypted data between WhatsApp and Brazilian police, with a court ordering a 48 hours block on the servicelast Decemberin a similar case, although another judge subsequently lifted that block early.
+
+Back in MarchFacebook’s VP in Latin American was also arrested in connection with the investigation. Then inMayanother local court ordered a 72 hour block on WhatsApp — which was also subsequentlylifted early. It looks like local courts are now pursuing a financial penalty option to penalize the company more than its users.
+
+The $19.5 million reais of frozen Facebook funds are equivalent to WhatsApp’s accumulated fines for non-compliance in the case, according to G1. WhatsApp does not have any bank accounts in the country — hence Facebook being targeted.
+
+We’ve reached out to Facebook and WhatsApp for comment about the latest development and will update this post with any response.
+
+WhatsApp CEO and co-founder Jan Koum haspreviously saidthe company has no intention of “compromising the security of our billion users around the world” by weakening its security systems in order to be able to comply with police authority requests for data.
+
+Koum’s stance mirrors a position taken byApple earlier this year, in a case involving the FBIwanting access to a locked iPhone which had been used by a terrorist. In that instance the FBI eventuallypaid a third-party company to gain access to the device, after initially attempting a legal route to try to force Apple to weaken its own security systems.
+
+Governments and law enforcement agencies in multiple countries have beenstepping up their rhetoric against technology companies’ use of end-to-end encryptionin recent times — arguing it is unacceptable for a method of communication to exist that cannot be accessed by state agents in extremis.
+
+However the counter argument, as Koum has noted, is that any deliberate weakening of security systems to afford access to specific authorities also opens the door to exploit by hackers — thereby posing a security risk to all users of a service.

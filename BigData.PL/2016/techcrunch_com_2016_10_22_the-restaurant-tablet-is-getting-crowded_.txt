@@ -1,0 +1,35 @@
+The restaurant table(t) is getting crowded
+
+Squareopened its point-of-sale platformto competitors. There arerumorsthat IBM will buy Revel.
+
+For anyone following the changes in payments and the restaurant industry, these are interesting strategic moves. Many of us have tried new services, like online food ordering, subscription meals and signing with your finger on a tablet-based point-of-sale system; but the reality is that we are still in the early phases of restaurant industry disruption.
+
+I believe that’s about to change. In a few years we will look back on these announcements as a major shift in the pace of disruption and the time we started to “cross the chasm” into a chapter of rapid deployment, consolidation and breakaway winners.
+
+So what has been happening in the restaurant industry? We can separate the disruption into two categories:how you get your foodandhow you pay for your food. And if you eatSoylent, then perhaps you can addwhat you call your food.But let’s focus on software-based disruption.
+
+Venture investors have invested almost $3 billion in startups that changehow you get your food. Online ordering/delivery and meal subscription services have received 50 percent of the total, and are highly visible signs of change to consumers. They have even produced two unicorns:GrubHub(NYSE: GRUB) andBlue Apron. More than 10 million people have used GrubHub or one of its competitors and 400,000 receive weekly meals by mail from Blue Apron,Platedand others. While it’s too early to declare death to the home-cooked meal, clearly Americans like these options. These, however, are not the most disruptive changes.
+
+Replacing the restaurant point-of-sale (POS) system is the real game. The POS is becoming the restaurant’s central nervous system, changing not justhow you pay for your food, but how the restaurant runs its business.
+
+Squaredeserves much credit for leading the way to software-based POS systems; however, Square initially was more about electronifying cash for micro merchants than a new central nervous system. Other companies likeToast,Revel,ShopKeepandCloverget more credit for focusing on the restaurant owner’s business needs — like menus, order routing and staffing — while embedding payments as a “mere” feature in their software.
+
+Collectively, these startups are fueling profound change. It starts with a device replacement and ends with a new industry order.
+
+First, like many other hardware devices that have been reduced to an app on your phone — fax machines, cameras, flashlights — the restaurant cash register is becoming an application on a phone or tablet. We are in a multi-year cycle of replacing proprietary POS systems from vendors like Oracle/Micros and NCR/Aloha with cloud-based, software applications that run on Android and iOS devices.
+
+As the POS system becomes software, payments and (many) restaurant functions can be delivered as SaaS applications, fundamentally changing the economics and distribution models. For starters, SaaS startups can sell directly and often bypass the costly VARs that have long provided sales, service and integration for proprietary POS vendors.
+
+They also can leverage their software expertise to embed payment functionality and usurp the traditional roles and revenue stream of ISOs and payment gateway providers. Both traditionally earned interchange (the ~2.5 percent restaurants give up when we pay with a credit card), but the software POS startups gain access to this potent source of revenue to supplement and/or reduce SaaS license fees.
+
+Finally, because these startups are writing to standardized hardware — especially in the case of Android — they can ride the falling cost curves and pass along the savings to customers.
+
+Over time, these startups will achieve the ultimate disruption of becoming the industry platforms on which other restaurant applications are built. How helpful are online orders from GrubHub or loyalty programs fromLevelUpif they don’t integrate closely with the POS.
+
+Some vendors, likeFirst Data, which acquired Clover in 2012, envision a full-on iTunes Store-like model and already sport ~200 in their store. Others, like Toast, see a NetSuite model, in which any developer can write to the platform, but some core applications are tightly integrated to ensure functionality. Either way, becoming a platform yields important strategic value for the vendor, as well as the industry, because more developers are free to create new applications.
+
+So why are the actions by Square and IBM so interesting? There comes a time when a new technology must cross the chasm from early adopters to early majority. We see the tornado first-hand through our investment in Toast. Software POS systems have penetrated less than 20 percent of restaurants in the U.S. That’s early-adopter territory, but that is quickly changing. Already, working in Cambridge, MA, I feel like POS tablets are ubiquitous, and that feeling is growing in cities across the country. Historically, restaurants have replaced their POS systems every five to seven years (~150,000 units per year), and you can be sure that few are buying proprietary systems this refresh cycle.
+
+And this leads to the predicted jockeying by established players. First Data’s acquisition of Clover was small — $56 million — butif IBM buys Revel, one of the largest players in the space, then we have a clear sign of consolidation underway. Square’s move to open its platform is even more interesting and reminds me of the prescient moves by Amazon 15 years ago to leverage its e-commerce infrastructure to power third-party merchants. Square does not expect to beat every POS startup serving the restaurant sector, but it would like to sell them the lucrative services that leverage its scale, and virtuously reinforce its scale. Think payment processing, SMB financing and data analytics. New motto? “One Square to rule them all?”
+
+With the benefit of hindsight, the events that signal the start of true industry disruption are generally clear. I believe the actions by Square to open its POS platform to competitors and by IBM to consider acquiring Revel signal such a change for the restaurant industry. SaaS-based startups have turned payments and restaurant applications into a service and are now leveraging the ability to sell directly, monetize interchange revenue and ride the cost curves of industry-standard hardware. Entire categories of incumbent vendors are threatened, including VARs, ISOs and payment gateway providers. Through our investments in the space, we are seeing the tornado-like acceleration in deployments — and I for one am very excited to see this play out!

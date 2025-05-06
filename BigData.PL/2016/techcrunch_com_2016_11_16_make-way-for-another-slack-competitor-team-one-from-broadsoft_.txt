@@ -1,0 +1,29 @@
+Make way for another Slack competitor, Team-One from BroadSoft
+
+Slack may have unleashed a new demand among the working world to have better tools to chat to each other about their projects and more, but it’s also unleashed something else: a torrent of competing products from other tech firms that sell to the enterprise. Today comes the latest in that trend:BroadSoft, a company known for its cloud-based unified communications services, is launching Team-One, a platform for people to chat to each other, bringing in links and data from other projects, and more.
+
+Team-One is making its debut today, but it’s built on a product that existed before. Earlier this year, BroadSoftacquireda Slack competitor called Intellinote, which it has now integrated with its bigger platform, including its calling and videoconferencing products, adding in new features such as artificial intelligence and bots to help you source data to get your work done.
+
+Apart from being a reflection of just how popular collaboration products have become among businesses, the launch of Team-One also is another sign of how Slack’s early success in this market is getting attacked by competitors from many angles. The startup has seen some of its fast growth slow down, which presents an opportunity for some of those rivals with established customer bases to move in, or for Slack to demonstrate that it definitely is better than the rest.
+
+As with Microsoft’s launch earlier this month ofMicrosoft Teams(yes, IT companies are not particularly inventive when it comes to names), Team-One is playing into two strategies. The first is to create a collaboration product that will keep its existing customers on its platform rather than migrating away to a would-be competitor. The second is that BroadSoft is offering a service that will potentially help it increase its revenues per customer.
+
+In BroadSoft’s case, those customers include 25 of the world’s 30 biggest service providers among 500 other enterprises. The service providers, in turn, offer services using BroadSoft’s platform to millions more users.
+
+Founded back in 1998 and with a market share of 41 percent (making it the largest provider in a fragmented market, with Cisco its next-closest competitor), BroadSoft is effectively the incumbent in the unified communications market that companies like Microsoft, Google and maybe even the likes of Facebook (with Workplace) might hope to disrupt one day.
+
+Tony Lopresti, VP and GM of BroadSoft’s collaboration business, tells me that it believes Team-One is bringing something new to the table here — not just another me-too Slackalike.
+
+“Today’s current products were built to address just one of the three aspects of work management: communications, tasks or content, leaving users disconnected from real time conversations or separated from the flow of work content and information,” he said. “Team-One was built as the only messaging-based app to address all three.”
+
+He believes that the fact that Team-One provides content and options for you to not collaborate but work on your own documents sets it apart from the rest (although I would argue that Microsoft Team’s integration with 365 essentially enables this, as well).
+
+More relevant, perhaps, might be the fact that if your business is already using a BroadSoft UC solution, this may be something that feels like more of a natural progression, and this is something  on which the company is banking.
+
+“We do see Team-One as an excellent offering for existing service provider customers to protect their market position,” Lopresti said. “As an advanced messaging platform integrated with BroadSoft UC-One services, Team-One is ideally positioned to penetrate existing user accounts.”
+
+As with Slack and the others, Team-One is offering an API to integrate other platforms such as Salesforce’s. It has also created several “bots” for the platform to provide automated help to users to pull in data by making human queries.
+
+Apps that are part of its Hub (integrated by APIs) also become part of the bigger AI machine behind the platform, suggesting content to you that might be relevant based on what you are discussing in a chat, or working on independently, a service reminiscent of Evernote for Business.
+
+One other way that Team-One differs from the likes of Slack is in its pricing model. There is no free tier apart from a 30-day free trial — perhaps because BroadSoft assumes that the majority of adopters will already be existing, paying users of its other services. After the trial, pricing starts at  $5.99 per user per month.

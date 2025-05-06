@@ -1,0 +1,33 @@
+Sqreen’s security shield automagically blocks attacks on your web app
+
+French startupSqreenprotects your web apps and services with little effort from your side. If you don’t want to deal with security yourself, Sqreen is a software-as-a-service product that automatically watches for attacks and protects your server in real time. The company is participating in the Battlefield atTechCrunch Disrupt SF.
+
+If you already have a web app up and running, chances are you’re going to face SQL injections, XSS attacks, brute-force attacks on the admin login page and more sophisticated stuff. If you don’t have the resources to hire a security person or feel like you’re not competent enough, Sqreen can help you deal with these security holes.
+
+Integrating Sqreen on your site only takes a few minutes. You just need to execute a few commands on your server to install the Sqreen package and add a couple of lines to require the Sqreen module in your application. Sqreen doesn’t redirect your traffic or modify your code, so it should be pretty transparent for your user and code base.
+
+After that, Sqreen monitors attacks in real time. It doesn’t act as a firewall, it watches what’s happening in your application directly. It only requires an overhead of around 4 percent when it comes to server resources. The servicecostsbetween $49 and $99 per production host per month.
+
+Common attacks are then blocked and Sqreen suggests modifications to your code base to prevent further attacks. Sqreen works with Ruby on Rails applications. Starting today, it also works with NodeJS and Python applications.
+
+And because of the software-as-a-service approach, Sqreen is getting smarter over time by implementing rules that benefit all of Sqreen’s customers. In order to do that, the company is gathering as much data as possible from its customers. For instance, Sqreen uses memory dumps to find out about new attacks and improve its product. Eventually, the company hopes that it’s going to make Sqreen’s shield much smarter and will make it stand out from the competition.
+
+In addition to adding new rules, the dashboard has been completely redesigned recently and Sqreen has been adding new security features. For instance, if a user tries to attack a service and Sqreen finds out about it, this user will get flagged for other services that also use Sqreen. It’s a good example of Sqreen’s killer feature — the bigger it gets, the more powerful it becomes as it can build a community of Sqreen-protected clients that share the same shield with the same security rules.
+
+Before Sqreen, the two co-founders worked together at Apple on the security team. They would attack Apple’s own services and then report successful attacks to the development teams. According to them, this approach was quite frustrating — it would take quite a bit of time to find a security hole, report it and fix it.
+
+Sqreen’s shielding approach makes this process much faster, as Sqreen protects a customer before the customer has even fixed its code base. Big tech companies probably still need an in-house security team, but it makes security more accessible.
+
+Question: What kind of performance hit do you get?Answer: It’s about 5 percent. It’s less than performance monitoring tools [New Relic]
+
+Q: How do you know it works?A: We don’t protect against attacks that are way too specific to your application.
+
+Q: How do you find new attacks?A: Each time an attack is reported, we send it to the back end. We have a feedback loop between the events and the protection.
+
+Q: Did your customers switch from another service?A: There are security scanners, people who are trying to mitigate the stress, but you have nothing in between. They want to be aware of what’s happening and they want prediction.
+
+Q: How do you plan to sell it?A: It’s a SaaS solution. Developers can install it very quickly. We don’t need a sophisticated sales pitch, that’s one advantage of our solution.
+
+Q: Given your background with 10 years at Apple, why did you decide to do Sqreen now?A: We could feel this need. When you report security issues, we saw a really big gap between developers and security.
+
+Q: How big is your team?A: 15 people and we’re based in Paris.

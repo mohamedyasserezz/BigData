@@ -1,0 +1,37 @@
+Facebook’s F8 2017 conference outgrows SF, hits San Jose April 18th-19th
+
+Facebook couldn’t fit all the developers for itsF8 conferenceinto San Francisco’s Fort Mason any more, soF8 will take placeat San Jose’s McEnery Convention Center on April 18th and 19th, 2017.
+
+Registration hasn’t started yet but will follow the same rules as last year, which you’ll want to follow if you’re trying to get a seat as it always sells out quickly. Luckily it’s not just some first-come, first-serve chaos, but you canpre-sign-up here to get updates.
+
+Facebook will personally invite partners, and everyone else will have to apply during the registration period, providing an explanation about why they want to go and why they should be there. Those selected will be expected to buy a ticket, which last year cost $595, about one-third the price of an Apple WWDC ticket.
+
+The now-annual conference will feature two days of keynotes, typically structured with CEO Mark Zuckerberg’s big talk and lots of core Facebook product news the first day, and deep dives into Facebook’s more futuristic 10-year plan technologies, like VR and internet connectivity, on the second day. There will be more than 45 sessions where developers can learn about how to take advantage of Facebook’s existing platforms and the new stuff it announces.
+
+While Facebook frequently holds smaller press events and consumer product launches, it typically reserves big developer announcements for F8. Facebook was supposed to hold one of those press event today, but instead cancelled the press meeting and told us the news it was going to announce.
+
+Facebook’s Analytics for Apps systemis now adding support for web measurement and cross-platform metrics. It says “53%of people who own two devices switch between them to complete tasks or activities, and 77% of people who have three or more devices do the same.” That’s why developers will be able to understand user behavior across devices.
+
+There are also new features that let developers integrate offline information about customers, such as demographics, CRM data and profile information from a developer’s app. NewSharing Insightsmetrics will help developers predict which content will go viral, and advertisers can target users who shared something from their website with a revampedCustom Audiences feature. Expect more analytics features at F8 2017.
+
+It’s too far out to tell what Facebook will launch at its 2017 conference, but here’s a quick run-down of the biggest announcements from all the previous F8s:
+
+2007 – The Facebook Platform for building apps and games
+
+2008 – Facebook Connect for logging in to other websites with your Facebook credentials
+
+2010 – Facebook’s Social Plugins, including the Like button for sharing from external websites
+
+2011 – The Facebook Timeline profile and the Open Graph platform for auto-sharing from apps
+
+2014– Facebook Audience Network mobile ad network for helping developers monetize
+
+2015– The Facebook Messenger Platform for building lightweight content-sharing chat apps
+
+2016– The Facebook Messenger Bot Platform for building conversational chatbot interfaces
+
+The 2017 plan should come into focus early next year, but here are two big opportunities for Facebook on the developer front.
+
+It’s been rebuilding its games platform witha Steam-style desktop app originally called Facebook Games Arcade. Facebook could announce significant new capabilities for game developers, from ways to port games from other platforms to analytics to monetization to live streaming gameplay footage.
+
+Voice has the powerto become a much more prevalent computing interface now that speech recognition has improved and wearable devices like wireless earbuds are proliferating. Facebookacquiredvoice and chat interface development platform Wit.ai last year and could possibly reveal new voice controls for Facebook and easy ways for developers to build these capabilities into its new apps.

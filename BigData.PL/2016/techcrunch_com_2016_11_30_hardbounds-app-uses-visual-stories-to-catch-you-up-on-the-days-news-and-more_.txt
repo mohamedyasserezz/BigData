@@ -1,0 +1,43 @@
+Hardbound’s app uses visual stories to catch you up on the day’s news and more
+
+Instead of killing time on your phone playing games or browsing Facebook, the recently launched applicationHardboundaims to help you fill your spare minutes by learning something new instead. The months-old app introduces its own visual and interactive format for mobile storytelling, allowing you to tap through interesting mini-stories covering science, history, technology, business and other topics. With its latest update, the app wants to help you keep up with the day’s news, too.
+
+At its core, Hardbound offers a simple way to get an overview of what can sometimes be more complicated subjects.
+
+For example, one of its more recent visual stories explains “How the Electoral College Became a Thing” – a topic that many people are still somewhat hazy on, but are reading about lately due to the election.
+
+Since its debut, Hardbound has focused on crafting these mini-stories, which take around 5 minutes to read, using a combination of photos, illustrations and text. Every Thursday, you’re texted a link to the latest edition. If you want to access the app’s back catalog, you can subscribe to Hardbound via in-app purchases.
+
+The idea for Hardbound comes from co-founders Nathan Bashaw, who built the first version of Product Hunt along with Ryan Hoover, and Joe Nguyen, previously an iOS engineer at General Assembly and co-founder at Hollerback.
+
+The company is backed by $300K in seed funding from Full Tilt Capital, Betaworks, Maveron, and angel investors. The service now has 100,000 readers across web and mobile, who had read over 5 million “pages.”
+
+While Hardbound is fun to tap through, the format of sending out a new story on a weekly basis doesn’t keep users heavily engaged with the app.
+
+That has changed with the new release,Hardbound 2.0.With this update, the app now summarizes the day’s most important news through a dedicated section called “The Nightcap.”
+
+This edition comes out every Monday through Thursday night at 8 PM, and includes Hardbound’s unique visual summaries but with a focus on the top stories.
+
+The mix of what’s considered the “most important” news of the day varies from traditional news publishers. For instance, the most recent summary included news about Trump’s appointments and an update on the recount, but also featured a story about neuroscientists controlling mice brains wirelessly. That’s arguably a veryinterestingread, but not necessarily one that’s a must in terms of keeping up with national or world events.
+
+However, throwing in a curveball like this is by design –the goal is to balance heavy news with at least one story that’s fascinating, if not critical.
+
+The Nightcap’s format involves featuring a few main stories followed by an editorial “our take,” then a few one-page news highlights. The stories themselves are sourced from major newspapers and blogs.
+
+Flipping through The Nightcap feels a lot like reading a story on Snapchat or browsing a Twitter Moment. That could be why the feature feels engaging – it’s already familiar. However, trying to become a home to news reading is a larger challenge.
+
+Story selection is still a work in progress, and even though the stories are short, it sometimes feels like they’ve been split into almost too many pieces with the goal of making them more easily digestible. (Even short-attention spanners can probably handle more than a sentence per screen.) And the “our take” section doesn’t always provide an editorial voice – sometimes it’s more of a summary of the story at hand.
+
+Getting short-form news right can be tough, of course.
+
+Some companies do this well.The Skimm, for instance has a popular daily newsletter and app that summarizes key stories in an easy to read format. Snapchat’s Stories from publishers are engaging, too, though not always informative. Newstartups like Zoltare entering the market, but other apps from bigger companies, like Yahoo’s News Digest, never really caught on.
+
+However, Bashaw believes that Hardbound’s unique storytelling has potential.
+
+“Our vision is to help grow this format — which we are calling “visual stories” — into a popular new medium that lots of talented storytellers want to work on, kind of like what has happened with podcasts over the past 5 years,” he explains.
+
+“We believe visual storytelling creates a stronger connection between your screen and your brain, and helps you understand things faster and remember things better, and can be more emotionally impactful. The stories we’ve created so far are just scratching the surface of what’s possible with this medium,” says Bashaw.
+
+Going forward, the team will be working with partners on its stories, instead of creating all content in-house. Longer-term, it may take advantage of its visual format for brand ads, as well.
+
+Hardbound is afree download on the iTunes App Store.

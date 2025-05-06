@@ -1,0 +1,17 @@
+The Support Cooperative helps companies share customer service data
+
+Every company needs to understand their customers better, and it’s difficult to get a grip without a body of knowledge, especially when the customer is new to you. Imagine being able to access a pool of aggregated data about that customer to help you with that.
+
+That’s precisely what TechCrunch Disrupt Hackathon participant Stephen Bussey wants to do with his hackathon idea, the Support Cooperative.
+
+As Bussey, who hails from Atlanta, Georgia, sees it, managing customer turnover is a big part of running a SaaS company. “Support and account management departments have to provide the best service possible, which requires learning about and understanding specific customers, even those that they haven’t seen before,” Bussey wrote in his hackathon pitch.
+
+He knows that getting companies to participate could be a challenge, but he believes organizations would share data if it was in the best interest of the entire pool to have more knowledge about their customers.
+
+He recognizes that there is a privacy component here because it involves customer data, and he actually ran the idea by his privacy team at his day job as engineering manager atSalesLoftin Atlanta. “You’re not giving away company transcripts. If you’re as general as you can be, then privacy concerns should not be a problem,” Bussey explained.
+
+He came up with the idea a day or two before he left for California, and he decided to work solo instead of trying to coordinate a team. He sees advantages to working alone because he knows exactly what he wants to do and he doesn’t have to coordinate the team, which as he sees it, could add stress to the exercise.
+
+The backend of the product is built using the SAP Secure Graph database, while the front end uses ZenDesk Chrome plug-in. He says that he deliberately kept it simple, so that it was as easy to explain as possible within the 60 second allotted presentation time and to reduce the level of stress of working was a solo programmer.
+
+He’s not sure he wants to make a product out of it, but he enjoys going to hackathons — this is his third at TechCrunch Disrupt — and he likes the challenge of working with APIs and tools he doesn’t normally use in his day job.

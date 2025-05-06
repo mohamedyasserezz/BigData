@@ -1,0 +1,21 @@
+How much does it matter if your software quality sucks?
+
+I ran across a fascinating piece by Leo Polovets of Susa Ventures this week, provocatively titled: “Why Startup Technical Diligence Is A Waste Of Time.” You should go read it, but its central thesis is simple: “in today’s world of SaaS tools, APIs, and cloud infrastructure … technical resources are rarely the cause of success or the reason for failure.” Is he right? Yes! But he is also wrong.
+
+The most beautiful, elegant, powerful software in the world cannot save you if you fail to achieve “product-market fit.” (If you don’t like industry jargon, let’s use Paul Graham’s phrasing: “building something people want.”) Your software cannot save you if you have no viable business model (aka “building something people want so much that someone will pay for it.”) And it will not save you if nobody is ever offered your product, or ever hears of it (aka sales/marketing failures.)
+
+But if and when youdoget past those high hurdles — that’s where your software quality can make or break you. I see a lot of this in my day job: I’m an engineer (slash manager, slash principal, slash whatever) atHappyFunCorp, a software consultancy — and startups often come to us with the Startup Software Quality Problem.
+
+The Startup Software Quality Problem is this: a startup has successfully built, and maybe even launched, a Minimum Viable Product, with software courtesy of their sole technical co-founder and/or a cheap dev shop somewhere. Now, having launched it, seeing how real people actuallyuseit, they want to quickly iterate its strengths and fix its weaknesses, or perhaps pivot to focus on a new facet of what they’ve built — only to find that theycan’t, because they’re stuck in quicksand.
+
+That’s what poorly architected, dubiously written, high-technical-debt software is like. Quicksand. It’s buggy, too, usually, in an intermittent and hard-to-reproduce way, frustrating users, developers, and co-founders alike.
+
+Bug fixes that should take hours take days; changes and feature requests which should take a few days occupy whole weeks; and you get into a vicious spiral where this slowdown causes everyone to be slow desperate to iterate faster that you can no longer take any time to try to pay down your technical debt, so instead you just keep exacerbating it. Needless to say, this vicious spiral can and often does become a death spiral.
+
+It’s true that Minimum Viable Product software is not, and should not be, built to be perfectly elegant and scalable. But if it’s quicksand software, and youjust missedbuilding something people want, then now it’s harder, slower, and more expensive to re-target, while competitors and newcomers with higher-quality software can iterate with speed and abandon.
+
+Even if you have built something that people really want, the time spent hiring new engineers and rewriting your entire codebase is time that your higher-quality competitors can use to overtake you. Quicksand software is often so difficult to repurpose that a complete from-scratch rewrite is a better option than trying to reuse any of it at all. Needless to say, founders who have spend hundreds of hours and tens of thousands of dollars constructing this quicksand never want to hear this.
+
+Software quality doesn’t dictate yoursuccess, that’s true. But it does dictate yourspeed. In the absence of any competition, this doesn’t matter, but if you think you live in a field without any competition, a very painful awakening awaits. The slower you can move and iterate, the faster your startup can and will die.
+
+It’s true that, as Polovets points out, building a product that people want is the most important thing. (Which in turn can be partitioned into “your idea” and “yourtiming.”) And sales is probably second. But while your software may not be your startup’s heart or lungs, it’s still a vital organ that can and will kill you. Worse yet, it will do so slowly, even subtly, after long illness, possibly without you ever even recognizing that it was the proximate cause. Don’t handwave it off as something to worry about later. I assure you that you will regret that bitterly.

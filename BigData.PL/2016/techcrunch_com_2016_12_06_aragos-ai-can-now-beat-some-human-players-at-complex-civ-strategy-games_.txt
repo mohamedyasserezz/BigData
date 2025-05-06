@@ -1,0 +1,17 @@
+Arago’s AI can now beat some human players at complex civ strategy games
+
+Arago’s flagshipHIRO AIproduct plays Freeciv, a free civilization building simulation that’s based on the popular and long-livedSid Meier’s Civilizationseries of games – and it’s getting more skilled. Freeciv is a complex, sprawling game with a huge number of possible strategies that can lead to success, especially when playing against unpredictable human opponents, but HIRO can now even best around 80 percent of human players it faces off against, as announced by Arago at TechCrunch Disrupt London 2016 on stage.
+
+How complicated can it be to succeed at a video game? Well, depending on options you select, as well as variables that can vary dramatically during the many, many turns that normally happen during any given game of Freeciv, the possibly permutations of individual games is 10 to the power of 15,000, meaning you require a very plastic AI indeed to successfully “learn” how to negotiate individual twists and turns.
+
+Games prove a common platform for testing and proving AI prowess; Google’s AlphaGo is an example that has received a lot of attention for its successes. Arago notes that the number of possible moves in playing Freeciv is actually far greater than Go – by an exponential amount. Yet HIRO had less training from a smaller data pool before it began to best human opponents.
+
+HIRO was already unbeatable when it comes to facing off against the “AI” opponents built-in to Freeciv that ship with the game (which is more than I can say for myself, and despite not having extra info like the built-in AI) but this is the first time that it’s been able to beat human players. It’s still not able to best all human opposition, but it’s still a marked indicator of progress for the platform.
+
+Playing games like a pro is great, but it’s not HIRO’s only purpose – the AI service is primarily offered by Arago to enterprises who are looking to improve their IT automation across their business, and HIRO is used in that capacity to boost a company’s own human IT experts, and help make them and itself better over time.
+
+[youtube https://www.youtube.com/watch?v=AYu5UgBMyU0?list=PLCYgasM7SKuPDjMvwCCFq6YTFcWulU5lo&w=680]
+
+HIRO gets smarter differently from other AI agents, too, according to Arago. The company teaches the machine using “trainers,” which convey the experience of human examplars to HIRO using actual words, which it says means that their machine learning also includes a machine reasoning component, according to founder and CEO Hans-Christian Boos speaking on stage, whereby the machines can learn concepts like “tile” and “city,” in the Freeciv example. Recalling and recombining these concepts are what eventually lead to the optimization of its performance, which applies in both its scientific (game-playing) and professional (enterprise IT) capacities.
+
+Arago’s goal is to create not a very specific, narrow AI, but a more general tool that can learn and perform a range of tasks. Civilization (and Freeciv) helps further that aim, and Boos also notes that the key ingredients of free, strategy and tremendous community feedback helped them settle on Freeciv as the route forward.

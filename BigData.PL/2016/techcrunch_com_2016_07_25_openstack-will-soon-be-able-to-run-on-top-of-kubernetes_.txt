@@ -1,0 +1,13 @@
+OpenStack will soon be able to run in containers on top of Kubernetes
+
+OpenStack, the open source project that allows enterprises to run an AWS-like cloud computing service in their own data centers, added support for containers over the course of its last few releases. Running OpenStack itself on top of containers is a different problem, though. Even though CoreOS has donesome workonrunning OpenStack in containersthanks to its oddly named Stackanetes project, that project happened outside of the OpenStack community and the core OpenStack deployment and management tools.
+
+Soon, however, thanks to the work of Mirantis, Google and Intel, theOpenStack Fueldeployment tool will be able to use Kubernetes as its orchestration engine, too. Ideally, this will make it easier to manage OpenStack deployments at scale.
+
+“With the emergence of Docker as the standard container image format and Kubernetes as the standard for container orchestration, we are finally seeing continuity in how people approach operations of distributed applications,” said Mirantis CMO Boris Renski. “Combining Kubernetes and Fuel will open OpenStack up to a new delivery model that allows faster consumption of updates, helping customers get to outcomes faster.”
+
+This also means that OpenStack will soon be able to run in containers on Google’s Cloud — or really any cloud service that supports Kubernetes.
+
+“Leveraging Kubernetes in Fuel will turnOpenStackinto a true microservice application, bridging the gap between legacy infrastructure software and the next generation of application development,” said Google Senior Product Manager and one of the founders of the Kubernetes project Craig McLuckie in today’s announcement. “Many enterprises will benefit from using containers and sophisticated cluster management as the foundation for resilient, highly scalable infrastructure.”
+
+The Mirantis team tells me that it previously worked with Intel and CoreOS on Stackanetes and some of that work was essentially a proof of concept for this new project. “We expect that we’ll continue collaborating with CoreOS on the initiative we are announcing with Google and Intel today and will incorporate some of the things that were showcased inStackanetes,” a Mirantis spokesperson told me.

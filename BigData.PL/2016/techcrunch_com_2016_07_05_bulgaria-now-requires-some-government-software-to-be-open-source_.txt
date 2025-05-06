@@ -1,0 +1,19 @@
+Bulgaria now requires (some) government software to be open source
+
+Fans of free and open-source software are rejoicing today at the news that Bulgaria will now require all software written for the government must be FOSS. But while this is a promising advance, don’t expect a major change in the way things work.
+
+The new law took the form of one of severalamendmentsto the country’s Electronic Governance Act — amendments lobbied for by developer and government adviser Bozhidar Bozhanov, who announced the changes on his blog with the air of a proud father. Specifically, contracts to create software for the government must be developed publicly, meet stated open-source definitions and be provided free for use without limitations.
+
+“It means that whatever custom software the government procures will be visible and accessible to everyone,”Bozhanov wrote in a Medium post. “After all, it’s paid by tax-payers money and they should both be able to see it and benefit from it.”
+
+It’s hard to argue with that — and there are plenty of other pluses that open-source software offers. However, the law only affects government-commissioned software, and existing license agreements are still intact. This isn’t going to trigger a mass migration to Ubuntu or LibreOffice.
+
+And while it’s a pleasant thought that this kind of law might make situations like shady Diebold voting machines obsolete, that’s probably not how it will work out.
+
+For one thing, the government can just choose to buy a turnkey solution if they think it’ll be cheaper or easier than developing one from scratch and putting it out there as open source. And for another, can you picture any government open-sourcing code for a new fighter jet or nuclear facility? (Security and intelligence agencies are not subject to Bulgaria’s law.)
+
+The list of exceptions must be quite long, and it may be that what will actually be put in these open-source libraries is highly mundane and only related to projects for which privately developed software is unavailable or impractical.
+
+I like seeing free and open-source software inching closer to being a global standard rather than a niche, but the cynic in me suspects that even if this law were to be enacted in dozens of countries, we’d still have the same problems when it comes to government software. Still, it’s a step in the right direction and Bulgaria’s example is one worth following and learning from.
+
+We’re not totally behind the times on this, by the way: the U.S. Chief Information Officer Council has somesensible open source recommendations, and tons of government data is alreadyavailable for download and analysis. Transparency is a process we improve over decades, not something that can be dictated — but it can’t hurt to have a law like this one on the books.

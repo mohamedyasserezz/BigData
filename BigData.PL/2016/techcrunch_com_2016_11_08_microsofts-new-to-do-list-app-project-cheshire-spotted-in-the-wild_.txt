@@ -1,0 +1,21 @@
+Microsoft’s new to do list app, Project Cheshire, spotted in the wild
+
+Although Microsoftbought to-do list app maker Wunderlistback in 2015, the company has been working on another to list app experience, code-named Project Wunderlist, which is now in private beta testing. Not much is known about Microsoft’s intentions with its new app, but according to a report out today, this simple to do list app will soon be available on iOS, Android and on Windows 10.
+
+The app’s existence was previously known, buta new report from the blog Thurrott.comhas some of the first screenshots of what the app looks like in action.
+
+According to the post, Project Cheshire has progressed to beta testing and has been updated with a bit more polish than when it was firstspottedearlierthis year. But it’s still not very impressive, at first glance.
+
+The images show a fairly bare bones to do list application that lets you create lists, add items, set reminders, and sync your lists across platforms. You can also theme the lists with a basic color picker, and a selection of rather boring banner images. The only interesting feature, really, is that the app can also suggest tasks to add to your list. However, it’s unclear where this information is pulled from.
+
+The app itself is alreadylive here on the Windows App Storeas “Project Cheshire,” where it’s described as a “brand new and simple, yet incredibly focused to-do app that helps you get things done.” The description also notes that the app is in the early stages of development.
+
+Those who were recently able to download the app to their device said they couldn’t actually use it  – it was displaying only a blank screen and the message “coming soon.” One user also pointed out that only corporate account holders can currently use the app.
+
+This could imply Microsoft is intending this new app more for business use, while Wunderlist might remain more consumer-facing. It would also make sense if Microsoft was working to develop its own counterpart to Google’s Keep app, or even an upgraded Outlook Tasks experience which broke out your to-do’s into their own standalone app.
+
+That being said, while the app doesn’t look like Wunderlist, that company’s technology could still be under the hood in Project Cheshire – and the user interface is merely a fresh coat of paint on top of the Wunderlist backend.
+
+We’ve asked Microsoft for more information about Project Cheshire and its status, and will update if the company offers a comment. (Update: Microsoft declined to comment)
+
+Image credits, h/t:Thurrott.com

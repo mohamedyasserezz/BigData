@@ -1,0 +1,9 @@
+Cray’s new XC50 supercomputer hits one petaflop of computing in a single cabinet
+
+Cray has a new supercomputer called the XC50, the successor to its XC40 model and the first supercomputer from the company that can deliver one petaflop of performance (at peak) in a single cabinet. The XC50 supports the NVDIA Tesla P100 GPU accelerator, as well as nex-gen Intel Xeon and Xeon Phi processors, and is targeted at uses including deep learning algorithms, which Cray says are increasingly in demand and a cause for more use of GPUs in their supercomputer systems.
+
+Petascale computing can help with the steepest of advanced computational tasks, like weather system simulation, quantum chemistry and even simulating the activity of organic brains at low levels, for instance. And as Cray mentioned in the release, it’s also increasingly being used in AI, for deep learning applications, which are increasingly looking like the next battleground not only for advanced research, but for the next wave in consumer-facing services, as well.
+
+The first XC50 installation will be at the Swiss National Supercomputing Centre (CSCS) in Lugano, where it will be and upgrade of the facility’s existing XC30 supercomputer “Piz Daint,” and where it will pair up with an XC40 installation at the site called “Piz Dora” to create a combined XC50 system that ranks among the fastest overall in the world.
+
+Meanwhile, Cray also announced a new SC40 supercomputer system codenamed “Theta” will be constructed at the U.S. Department of Energy’s Argonne Leadership Computing Facility and Argonne National Library. Maybe they’re trying to locate aportal to the upside-down?

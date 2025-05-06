@@ -1,0 +1,51 @@
+We’re all screwed, but let’s not be nihilists
+
+We are so doomed it’s almost funny, and always have been. Don’t worry, I’m not being political! …well, not exactly. I’m talking about the State of Internet Security, which is, as always, disastrous-verging-on-cataclysmic. Are you worried about Russian hackers? Hah! You should be so lucky as to be hacked. We should all be so lucky as to have a functional Internet they can use to hack us.
+
+Well, OK, you should maybealsobe worried about Russian hackers, and ransomware, and certificate authorities, and — if you’re at all high-profile — spear-phishing and doxxing, and, well, let’s of other stuff. There’s a lot to be worried about.
+
+But what you should bemostworried about is despair, learned helplessness, and the apparent undying enmity between the best and the good in the security world. Maybe we can’t fix everything, but there’s still a lot of relatively simple stuff we can do — but aren’t doing — to make our lives better.
+
+Let’s start with the bad news: everyone loves a good catastrophe. Let’s start with the Mirai botnet and what it says about the Internet ofShitThings.
+
+Briefly: a whole lot of IoT devices have essentially no security, and/or are deployed with publicly known factory-standard passwords, and hence are extremely easy to hijack. Malicious hackers can easily use malware namedMiraito take over enormous numbers of such devices, turn them into a botnet, and use them to shut downindividual sites— or asignificant swatheof theentire Internet— with distributed-denial-of-service attacks, ie flooding the wires with so much of their own traffic that nothing else can get through.
+
+There isn’t actually a whole lot that can be done about this. To quote Matthew Garrett’s postmortem:
+
+I wrote a thing on why this IoT botnet is basically a demonstration that we're utterly doomed:https://t.co/ta2JdnWgqT
+
+— Matthew Garrett (@mjg59@nondeterministic.computer) (@mjg59)October 22, 2016
+
+We can’t easily fix the already broken devices, we can’t easily stop more broken devices from being shipped and we can’t easily guarantee that we can fix future devices that end up broken. The only solution I see working at all is to require ISPs to cut people off, and that’s going to involve a great deal of pain. The harsh reality is that this is almost certainly just the tip of the iceberg, and things are going to get much worse before they get any better.
+
+For an evenmoreworrying take on the subject, see security legend Bruce Schneier’s essay “Someone Is Learning How to Take Down the Internet,” written, with typical perspicacity, before the recent spate of attacks:
+
+Someone is extensively testing the core defensive capabilities of the companies that provide critical Internet services … It feels like a nation’s military cybercommand trying to calibrate its weaponry in the case of cyberwar … What can we do about this? Nothing, really.
+
+This is not a new category of problems. Schneier wrote another famous essay,eighteen years ago, entitled “Click Here To Bring Down The Internet.“:
+
+As the world begins to conduct business over the always-under-construction Internet, we need to understand the real threats to the system … We need to fix security flaws when they become known, and not just give the problem lip service until the press coverage blows over.
+
+As the Frenchsay: the more things change, the more they stay the same. The difference is that, unlike in 1998, so much of our lives are now predicated on the Internet. (Even, or maybe especially, politics: consider the major role that emails, Twitter, and fake Facebook news played in the recent US presidential election.)
+
+The popular image of hackers hasn’t changed much in twenty years: shadowy supervillains who can, with a few keystrokes, take down key global infrastructure, break into your emails, or hijack your phone and/or computer, and there’s nothing much you can do about it. The main change is that these days the supervillains might wear military uniforms. And, indeed, protecting our backbone online infrastructure over the next few years is going to be … challenging.
+
+But the frustrating thing is that, in general, there is so much more we could be doing, both individually and as an industry, to “fix security flaws when they become known.” Treat email attachments, even those apparently from people you think you know, as toxic unless proven otherwise,especiallyif you are an activist, journalist, political figure etc.
+
+https://twitter.com/jeremyzimmer/status/794699961153662976
+
+Favor messaging with end-to-end encryption, rather than emails without. At least consider using a password manager. And for the love of Zod, turn ontwo-factor authentication, which is, astonishingly, still somewhat controversial advice. The security industry is currently in the midst of exmplifyinganother French phase: “the best is the enemy of the good.”
+
+The problem is that the “second factor” used in two-factor authentication often consists of numbers sent to your phone via SMS, and that SMS — likeyour phone number in general— isquite insecurein and of itself. This is true. But for thevastmajority of people, two-factor authentication via SMS is still a huge improvement on the status quo.
+
+I've said it before: SMS 2FA is still incredibly important. Gov actors can already usurp your mobile, they didn't need SMS 2FA to do so.
+
+— Don A. Bailey (@DonAndrewBailey)November 25, 2016
+
+If your threat model includes governments, or highly motivated gangs ofcryptocurrency thieves, then yes, of course, use something more secure. Yes, your providers should all move to something better likeGoogle Authenticator, preferably soon. But if your life does not resemble a Bourne movie in any way, don’t worry about that yet. Don’t take my word, take that of Facebook CSO Alex Stamos:
+
+https://twitter.com/alexstamos/status/802010749811847168
+
+It’s true that the fundamental Internet infrastructure is looking especially vulnerable to a particular kind of attack right now, and it’s not clear what we can do about it in the short term. But it’s also true that whole categories of security nightmares could be cleared right up with more widespread use of simple fixes: more frequent software patching, better password management (for people and IoT devices alike), ubiquitous two-factor authentication, and paranoid email-attachment avoidance.
+
+Hackers are not invincible supervillains. (Sorry, my hacker friends.) They only seem that way because we’ve collectively been so needlessly awful at security for so long. It is past time for that to change.

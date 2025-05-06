@@ -1,0 +1,25 @@
+Launching a “Google for sound”, Deepgram raises $1.8 million
+
+Deepgramco-founders, 20-year-old wunderkind Noah Shutty and his University of Michigan lab supervisor Scott Stephenson, definitely havefaith in sound.
+
+The two left behindpromising research in particle physics, researching the creation of Dark Matter in the bowels of underground Chinese bunkers, to develop what they call a “Google for sound”.
+
+Much as the Google search engine uses links between different web sites to surface the most relevant search results, the Deepgram software uses connections between certain phrases in audio files to identify the type of files and yield relevant results.
+
+This audio search technology is much different from others that rely on natural language processing, according to the founders. “We do train models to tell the difference between calls,” says Stephenson in an interview. “We’re doing it in terms of context.”
+
+The business started as a side project for Shutty — a way for him to organize his thousands of hours of “lifelogs” — the audio and video he’d amassed recording every aspect of his life.
+
+He wanted a way to search through his audio files and developed a neural-net-based artificial intelligence.
+
+Now with $1.8 million in new financing led byMetamorphic VenturesandY Combinatorthe company is looking to take its search tool to the enterprise market.
+
+“We’re hiring and tackling the enterprise market,” says Stephenson. “Businesses have millions of hours of recorded phone calls.”
+
+The company now has 1,000 users and charges by the amount of data processed by its clients.
+
+“In our roadmap is certainly to do more, but what that means is creating an automated audio AI brain,” says Stephenson.
+
+The company has a couple of clients it can talk about. One is the online iPhone repair service iCracked and the other is an undisclosed company that provides body-cameras for police departments.
+
+In addition to its freemium platform and API atDeepgram.com,the company has also built some consumer-facing apps for its tech:Hoogley&Podenvy.

@@ -1,0 +1,23 @@
+Apple’s new Intel driven MacBook Pros have a secondary ARM processor that runs Touch ID and security
+
+When will Apple ship a MacBook with an ARM processor? This is a question that has been top of mind for observers of the company ever since it started designing and building its own chips from the ground up.
+
+The answer to that question is now, sort of. Apple’s new 13” and 15” MacBook Pro models come equipped with a Touch Bar – that bar and the accompanying Touch ID sensor are powered by both the Intel processor at the core of the laptop and an Apple designed T1 chip. That T1 is the same chip that is inside the S2 in the new Series 2 Apple Watch.
+
+The T1 consists of the processor in the Apple Watch’s S2 and the Secure Enclave.
+
+As noted by Apple in its keynote, handles security for the Touch ID sensor, but it also performs a variety of other tasks. It secures the camera, the keychain which stores your passwords and the Touch Bar.
+
+Some of these details were posited yesterday bydeveloper Steven Troughton-Smith. I was able to get more details and expansion on the nature of the T1 and more of its functionality from some of my sources.
+
+The T1 also sends pixels to the Touch Bar though the MacBook’s main processor is what actually renders that content which is then sent over. The touch events on the Touch Bar are driven completely by Mac OS X – making this the first component that takes advantage of MacOS’s touch support.
+
+Though transmission of data is handled by the main processor, Apple Pay dialogs on screen are completely rendered by the T1 to take advantage of the Secure Enclave, a portion of the chip set aside for personal information just as it is in iPhones and Apple Watch devices.
+
+The Touch Bar itself runs a lean, modified version of watchOS, likely because that’s what the T1 needs to run it, send data and render images.
+
+What Apple is doing with this hybrid configuration is very interesting. Instead of ‘switching’ to ARM chips, it chose to build custom chips for a precise task and use them specifically for it. Just as the Intel chip is good at the heavy, multi-threaded lifting of OS X, the T1 was made for the security of Touch ID and the lightweight lifting of rendering Apple Pay dialogs securely.
+
+This specialized chip approach is one we’ve seen with the motion coprocessor in the iPhone, but it also makes a ton of sense on MacBooks, where specialized tasks are better handled by specialized tools.
+
+What other things are enabled by this onboard T1 in the future will be interesting to see. I’m also more sure than ever that an ARM-powered keyboard for iMacs and Mac Pros with Touch IDbuilt in is on the way, soon.

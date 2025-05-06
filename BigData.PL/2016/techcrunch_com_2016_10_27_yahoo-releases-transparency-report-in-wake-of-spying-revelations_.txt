@@ -1,0 +1,31 @@
+Yahoo releases transparency report in wake of spying revelations
+
+Yahoo released its semiannualtransparency reporttoday, the first issued by the company since Reuters revealed earlier this month that Yahoo scanned its users’ email accounts at the behest of the U.S. government.
+
+In an effort to inform consumers about how frequently the government snoops on their information, and how often companies are able to narrow or refuse the requests, Yahoo and many other technology companies make public on a regular basis data about requests from law enforcement agencies for user data.
+
+“We review demands for narrowness, legal sufficiency, duration, and scope, and consider all appropriate options before we comply, including seeking clarification or modification of the demand, or even challenging the demand in court,” Yahoo general counsel Ron Bell wrote in ablog postaccompanying the transparency report.
+
+Bell was reportedly one of the Yahoo executives, along with CEO Marissa Mayer, who approved the installation of software in spring 2015 that scanned Yahoo email accounts for specific data. The software was quickly discovered by members of Yahoo’s security team, who initially believed hackers had broken in and installed the program. The resulting clash between leadership and security engineers reportedly lead to the departure of chief information security officer Alex Stamos.
+
+As wepreviously reported, Yaho’s spring 2015 transparency report does not reflect an unusually high number data disclosures to the government, as might be expected from a dragnet email scanning program. At the time, the company only reported 21,000-21,499 user accounts requested under the Foreign Intelligence Surveillance Act and 0-499 accounts requested with National Security Letters. However, Yahoo allegedly scanned all of its nearly 300 million users’ email accounts — a vastly larger group than reported.
+
+Bell clarified how Yahoo reports the number of requests that don’t specifically identify an account in his post:
+
+We have added information to explain how we report on the numbers for government demands for user information that don’t specifically identify a particular account as such: “[I]f a Government Data Request demanded information about accounts that satisfy specified criteria (e.g., accounts registered under a particular proper name or accounts associated with a particular phone number) and we determined that it was appropriate to produce data in response to the request, we would report the total number of accounts about which information was produced to the government in connection with that Government Data Request.”
+
+This isn’t a change from how Yahoo has done things in prior reports, but it is a clarification about how Yahoo would handle a request for specific criteria like the one that allegedly led to the scanning. Yahoo’s transparency report only reflects the number of accounts from which information was disclosed, not the number of accounts searched — which may explain the discrepancy between a scan of 300M accounts and a disclosure of data from roughly 21,000 accounts.
+
+Between January and June 2016, Yahoo says it received 12,666 requests from governments worldwide focused on 20,511 user accounts. It disclosed content or data on 7,779 accounts and rejected or found no data for 4,887 requests.
+
+In the United States, the number of government requests reported by Yahoo remained steady. Yahoo says it received 4,709 requests from the U.S. government, targeting 9,408 accounts. It disclosed content in response to 24 percent of the requests.
+
+During its last six-month disclosure period, Yahoo reported 4,460 requests from the U.S. government. The company reported 19,000-19,499 accounts targeted by FISA requests, but during the current disclosure period, the company did not report any data on FISA requests. Yahoo is required to delay releasing information on FISA requests after the passage of the USA Freedom Act.
+
+As Bell notes in his post, herecently askedDirector of National Intelligence James Clapper to address the media reports on Yahoo’s email scanning program. Bell asked Clapper in a letter to tell the public whether or not the government ordered the email scanning program, declassify the order, and give context about why it happened.
+
+“AtYahoo, we have long advocated and fought for increased transparency by governments. In sending that letter, we continue the fight,” Bell said.
+
+Tumblr, the blogging platform owned by Yahoo, also released its transparency numbers today. Tumblr received just 274 requests from governments worldwide over a six-month period. “That’s 0.0001% of all blogs on Tumblr, which means any given blog has about one-in-a-million chance of being subject to a request — slightly less likely than your chance of being killed by a meteorite. Hm!” the company said in apostannouncing the disclosure.
+
+This post has been corrected to clarify that Yahoo has not changed its transparency reporting practices, merely clarified them.

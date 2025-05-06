@@ -1,0 +1,15 @@
+Google Earth and Maps get sharper satellite imagery with new update
+
+Several years ago, Google engineers figured out a way to stitch together satellite imagery to remove clouds, giving Google Earth and Google Maps users a better and more comprehensive view of the ground below. Today, the company has repeated the process, but this time with newer, crisper imagery from NASA and the U.S. Geological Survey’s (USGS) Landsat 8 satellite.
+
+When Google first unveiled its techniques for eliminating from Google Earth images striped artifacts, clouds and other atmospheric effects, it was using imagery from Landsat 7.
+
+However, the images Landsat 7 captured after 2003 were affected by ahardware failurethat resulted in diagonal gaps of missing data. This was still the best imagery available at the time, though, which forced Google to come up with a means of removing those gaps from Google Earth. It did so by analyzing a large number of images, similar to how it producedthis global time-lapse imageof the earth.
+
+Now Google has updated Google Earth with the imagery from Landsat 8, launched in 2013. The new satellite is able to capture images with “greater detail, truer colors, and at an unprecedented frequency — capturing twice as many images as Landsat 7 does every day,” Googleannouncedon its Google Maps blog this afternoon.
+
+As before, the new Google Earth imagery is also cloud-free, thanks to mining nearly a petabyte of data. That’s more than 700 trillion pixels, the company notes, or 7,000 times more pixels than the number of estimated stars in the Milky Way, it adds, having fun with the numbers.
+
+The result is sharper and more current images on Google Earth than before. Where things were blurry, they’re now crisp — for example, when you look down on New York City, you can now see details like skyscrapers, building shadows and baseball fields in Central Park, thanks to Landsat 8.Landsat, which has been in operation since 1972 to track changes to the earth over time, makes its data open and accessible, which is how Google is able to update its maps products as new imagery becomes available.
+
+The updated maps are live now in bothGoogle Earthand when viewing thesatellitelayer in Google Maps.

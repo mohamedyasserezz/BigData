@@ -1,0 +1,25 @@
+Neurable nets $2 million to build brain-controlled software for AR and VR
+
+As consumers get their first taste of voice-controlled home robots and motion-based virtual realities, a quiet swath of technologists are thinking big picture about what comes after that. The answer has major implications for the way we’ll interact with our devices in the near future.
+
+Spoiler alert: We won’t be yelling or waving at them; we’ll be thinking at them.
+
+That answer is something the team of Boston-based startupNeurablespends a lot of time, yes, thinking about. Today, the recent Ann Arbor-to-Cambridge transplant is announcing $2 million in a seed round led by Brian Shin ofBOSS Syndicate, a Boston-based alliance of regionally focused angel investors. Other investors include PJC, Loup Ventures and NXT Ventures. Previously, the company took home more than $400,000 after bagging the second-place prize at the Rice Business Plan Competition.
+
+Neurable, founded by former University of Michigan student researchers Ramses Alcaide, Michael Thompson, James Hamet and Adam Molnar, is committed to making nuanced brain-controlled software science fact rather than science fiction, and really the field as a wholeisn’t that far off.
+
+“Our vision is to make this the standard human interaction platform for any hardware or software device,” Alcaide told TechCrunch in an interview. “So people can walk into their homes or their offices and take control of their devices using a combination of their augmented reality systems and their brain activity.”
+
+Unlike other neuro-startups likeThyncand Interaxon’sMuse, Neurable has no intention to build its own hardware, instead relying on readily available electroencephalography (EEG) devices, which usually resemble a cap or a headband. Equipped with multiple sensors that can detect and map electrical activity in the brain, EEG headsets record neural activity which can then be interpreted by custom software and translated into an output. Such a system is known as a brain computer interface, or BCI. These interfaces are best known for their applications for people with severe disabilities, like ALS and other neuromuscular conditions. The problem is that most of these systems are really slow; it can take 20 seconds for a wearer to execute a simple action, like choosing one of two symbols on a screen.
+
+Building on a proof of concept study that Alcaide published in theJournal of Neural Engineering, Neurable’s core innovation is a machine learning method that could cut down the processing wait so that user selection happens in real time. The same new analysis approach will also tackle the BCI signal to noise issue, amplifying the quality of the data to yield a more robust data set. The company’s mission on the whole is an extension of Alcaide’s research at the University of Michigan, where he pursued his Ph.D. in neuroscience within the school’sDirect Brain Interface Laboratory.
+
+“A lot of technology that’s out there right now focuses more on meditation and concentration applications,” Alcaide said. “Because of this they tend to be a lot slower when it comes to an input for controlling devices.” These devices often interpret specific sets of brainwaves (alpha, beta, gamma, etc.) to determine if a user is in a state of focus, for example.
+
+Instead of measuring specific brainwaves, Neurable’s software is powered by what Alcaide calls a “brain shape.” Measuring this shape — really a pattern of responsive brain activity known as an event-related potential — is a way to gauge if a stimulus or other kind of event is important to the user. This brain imaging notion, roughly an observation of cause and effect, has actually been around in some form for at least 40 years.
+
+The company’s committed hardware agnosticism places a bet that in a few generations, all major augmented and virtual reality headsets will come built-in with EEG sensors. Given that the methodology is reliable and well-tested from decades of medical use, EEG is indeed well-positioned to grow into the future of consumer technology input. Neurable is already in talks with major AR and VR hardware makers, though the company declined to name specific partners.
+
+“For us we’re primarily focused right now on developing our software development kit,” Alcaide said. “In the long game, we want to become that piece of software that runs on every hardware and software application that allows you to interpret brain activity. That’s really what we’re trying to accomplish.”
+
+Instead of using an Oculus Touch controller or voice commands, thoughts alone look likely to steer the future of user interaction. In theory, if and when this kind of thing pans out on a commercial level, brain-monitored inputs could power a limitless array of outputs: anything from making an in-game VR avatar jump to turning off a set of Hue lights. The big unknown is just how long we’ll wait for that future to arrive.

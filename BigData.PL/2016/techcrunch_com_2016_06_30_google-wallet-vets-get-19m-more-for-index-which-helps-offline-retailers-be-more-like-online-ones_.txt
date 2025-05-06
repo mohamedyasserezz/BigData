@@ -1,0 +1,25 @@
+Google Wallet vets get $19M more for Index, which helps offline retailers be more like online ones
+
+As companies like Apple, Google and PayPal continue to home in on virtual wallets for consumers who dream of using phones or watches to pay for everything in person without fumbling around for a plastic card or cash; a startup calledIndexis focusing on how to make the experience better and more connected for the brick-and-mortar retailers selling to them. After opening for business in 2013; racking up a list of customers that includes American Apparel, The Fresh Market and Fairway; and processing some $3 billion in sales, Index has now has now raised $19 million in a Series B round of funding to take its business to the next level.
+
+Led by General Catalyst, the round also includes investment from Rob Gierkink, founder of consumer data giant Datalogix, as well as some of the world’s biggest cross-merchant loyalty programs.Gierkink (who is also an exec-in-residence at GC) also becomes the chair of Index’s board of directors. (David Fialkow, General Catalyst co-founder and an MD, also joins Index’s board.)
+
+The Series B comes nearly three years after Index raised its first and only other funding, a$7 million Series A in 2013, from investors that included Eric Schmidt’s Innovation Endeavors, Khosla Ventures, AIMCo and 819 Capital.
+
+There are a lot of startups and larger companies in the market today building software for physical retailers who lack a lot of data about their customers, as well as those building payment systems. There’s also been someconsolidation,failures, and generallymore sober viewsof what the bigger potential of this market might be, especially in the four years between Index first forming its business and today. What’s interesting about Index its background, the approach that it takes, and the success it has had so far.
+
+The startup was founded by Marc Freed-Finnegan and Jonathan Wall, respectively the product lead and the co-founder of Google Wallet (and now Index’s CEO and CTO), who left Google as part of themuch-reported Wallet exodusto strike out on their own.
+
+Wall tells me that the pair left the company partly because they believed that the technological development needed to be happening on both sides of the register, and they did not feel Google was the right place to develop the merchant side of the equation.
+
+“It’s not super realistic for a company like Google to have the focus and to dedicate the resources to build technology that integrates with retailers,” he said in an interview. “Google Wallet was about putting an intelligent device in the hand of the consumer and letting it interact with the point of sale, but Index is about letting the POS be more interactive in the relationship. this is the other side. Our observation was that a smartphone was only smart if it could have an intelligent interaction with someone on the other side of the counter.”
+
+As its name implies, Index takes something of a big data approach to the business of commerce, and specifically offline commerce, with a mission of essentially giving stores that are primarily offering physical experiences to consumers the same kinds of information troves that online businesses like Amazon can pick up about their customers, and use to drive more business. (Interesting and telling that before Wallet, Wall was the technical lead on Google File System, the company’s big data infrastructure.)
+
+Yes, a company like American Apparel has an online presence but the thinking here is that the customer that comes into the physical store can have a different profile and may never shop online, and so you need to figure out how to court her (or him). And the same goes for grocery and many other retail categories.
+
+Index’s products and services include things like unified databases to market to in-store customers online through email and other channels; personalisation tools to help stores figure out who is shopping, what she or he is buying, and how to get them offers on things they actually want; and secure payments services that link into both of these to (of course) feed them more data, as well as help with transactions.
+
+Index so far has focused only on larger retailers, Wall tells me. While that means longer sales cycles — the company has been essentially head-down and quietly working for the last four years — it also means higher volumes when deals are finally signed. Index is not disclosing revenues or current valuation, but it says that its $3 billion processing run rate is 20 times higher than a year ago. It also says that it’s sending some 25 million emails each month.
+
+And it’s adding more features into the mix. The company recently signed on as one of the first integration partners in Facebook’s recent big push totarget ads for offline retailers.

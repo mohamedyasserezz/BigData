@@ -1,0 +1,33 @@
+Drive.ai uses deep learning to teach self-driving cars – and to give them a voice
+
+Startup Drive.ai is revealing its product and strategy for the first time, and the autonomous driving tech company is looking not only to create the best hardware and software to enable self-driving cars, but also to make sure those cars communicate with people outside of the car in the most effective way possible.
+
+Core toDrive.ai’s approach is using deep learning across the board in its autonomous driving system, which means they’re teaching their self-driving cars somewhat like how you’d teach a human. That involves providing a host of examples of situations, objects and scenarios and then letting the system extrapolate how the rules it learns there might apply to novel or unexpected experiences. It still means logging a huge number of driving hours to provide the system with basic information, but Carol Reiley, co-founder and president of Drive.ai, explained in an interview that it should also help their self-driving vehicles deal with edge cases better.
+
+“We are using deep learning for more of an end-to-end approach. We’re using it not just for object detection, but for making decisions, and for really asking the question ‘Is this safe or not given this sensor input’ on the road,’” Reiley explained. “A rule-based approach for something like a human on a bicycle will probably break if you see different scenarios or different viewpoints. We think that deep learning is the definitely the key to driving because there are so many different edge cases.”
+
+Reiley says that Drive.ai has seen “millions of these cases,”, including things like people doing cartwheels across roads, running around their test cars in circles, and even dogs on skateboards. She argues you’d never be able to write a comprehensive rulebook that effectively takes all of that into account, so it’s clearly necessary to employ deep learning to really solve the problem.
+
+And Drive.ai’s team has that deep learning know-how. Of the rather large co-founding team, six out of eight were PhD or graduate students at Stanford’s artificial intelligence lab, and had been working at the intersection of deep learning and automotive tech for three years before founding Drive.ai in 2015. They’d also been working directly with automakers on the problem of applying deep learning to the task of safely driving cars.
+
+“This [Stanford AI] lab is unique in the sense that it’s one of the top three or four deep learning labs in the world, and it’s really the only one that has done deep learning in the application of cars,” Reiley told me. “So there’s tremendous domain expertise, and some of our other team members come from the Google self-driving car team, or from GM and Nissan.”
+
+Another expert is signing up to sit on Drive.ai’s board – Steve Girsky, former GM senior executive and longtime board member until he left in April. Girsky was seen as instrumental in helping GM turn itself around post-bankruptcy in 2009, and adds a lot of deep traditional auto industry expertise to Drive.ai’s team. Part of Girsky’s reason for joining Drive.ai’s board was their potential in terms of helping usher in an era of safer driving, and this goal also motivates Reiley.
+
+Reiley herself is a roboticist and engineer working in robotics for the past 15 years, beginning with underwater robots, and ranging to industrial and surgical applications. Eventually, though, she wanted to address the area of robotics she thinks has the greatest potential impact on everyday human life.
+
+“How do you build robots to intersect and help humanity?,” Reiley says she asked herself. “Across the different applications, how do you make the most impact and help people. How the biggest problem really facing today is humans driving cars. Humans are terrible, terrible drivers, and have caused in the U.S. alone 33,000 or so fatalities every year.”
+
+While increasing the safety of driving means building an effective ‘left brain’ for a self-driving car, so to speak, it also means addressing the ‘right brain,’ too. The algorithms, sensors and rules for driving behavior are important, but driving also has a tremendous social aspect, and Drive.ai is also using deep learning to build this social side into its platform.
+
+“The self-driving car is the first social robot that a lot of humans will interact with,” Reiley explained. “What we look at is how do you now replace all these social cues that humans give each other and how do you build trust and transparency. ”
+
+They key is taking into account all of the nearly invisible communication we do as drivers every day. Drive.ai wants its autonomous vehicles to not only replicate the driving part of our human driving experience, but also that communicative aspect, too.
+
+“So much of driving is non-verbal communication, when you’re inside the car, you’ve made eye contact with other drivers and pedestrians, you wave people across, you’ve given head nods, you’ve honked at them,” Reiley said. “All these type of things are ways that a human expresses what the driver’s trying to do to communicate with other drivers on the road. so now if you take the driver out of the driver’s seat and no one’s watching the road, how do all the other people around the self-driving car now know what the car is trying to do?”
+
+The answer to that question, for Drive.ai, means building a new language, one which the company hopes will eventually be adopted industry-wide to let self-driving cars clearly and consistently make their intentions known to other people on or near the road. To that end, the system they’ve created will include a roof-mounted exterior communication device, which will use written cues, as well as more language-independent signs like emoji to communicate the intent of the self-driving vehicle to those around it.
+
+Drive.ai’s first product will be a retrofit kit for existing cars that includes the autonomous driving system, as well as this new communication platform and hardware. It’s already working with OEM and their supply partners, and hopes to grow the number of companies it’s partnering with in the future. The hope is to get everyone in the industry working on the communication aspect of autonomous driving.
+
+Reiley points out that for most people, their first interaction with a self-driving car will likely not be as passengers within the vehicle, but as pedestrians, other drivers or somehow on the road as an external observer. For that reason, establishing a common language between humans and our autonomous cars is necessary to ushering in a safer future, and just as urgent a need as the self-driving tech itself.

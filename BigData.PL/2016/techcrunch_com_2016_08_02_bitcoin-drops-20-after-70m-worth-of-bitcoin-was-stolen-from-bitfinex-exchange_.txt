@@ -1,0 +1,29 @@
+Bitcoin drops 20% after $70M worth of bitcoin was stolen from Bitfinex exchange
+
+Bitfinex, one of the most popular cryptocurrency exchanges online, has suffered a major hack. The company has posted anote on its website detailing the security breach, and while it doesn’t mention a total amount, one of their employees confirmed on Reddit that the total amount stolen was 119,756 bitcoins.
+
+That amount converts to about $77,000,000 based on a price of $650 USD per bitcoin, which is about what bitcoin traded at over the course of the last week.
+
+After news of the hack spread, the price of bitcoin dropped almost 20 percent, settling in around the current price of $540 USD per bitcoin. It’s not exactly clear why the price dropped, but it’s likely bitcoin investors got nervous about potential hacks on other exchanges and decided to sell off their bitcoin holdings, which led to a rapid decrease in price.
+
+So how exactly did the hack happen? It’s not really clear yet, and the exchange hasn’t released any additional information beyond saying they incurred a loss and are suspending operations, and that USD funds and other cryptocurrency balances haven’t been compromised.
+
+We do know that Bitfinex’s platform usedBitGo, a Palo Alto-based bitcoin security company that allows exchanges to provide segregated, multi-signature wallets for each customer’s funds. This is a supposed security improvement over exchanges that merge customers’ funds into large, communal wallets. This method of maintaining segregated wallets for each user on the exchange also means that users can keep tabs on their wallet balance at all times, which is how some Bitfinex users have beenable to see that funds have been removed from their wallets.
+
+BitGo tweeted earlier today that they “found no evidence of a breach on any BitGo servers.”
+
+As we directly notified our customers earlier today, our investigation has found no evidence of a breach to any BitGo servers.
+
+— BitGo (@BitGo)August 2, 2016
+
+That doesn’t really help tell us how exactly the hack happened, as neither service has yet claimed responsibility. Plus, the question still remains why neither BitGo or Bitfinex has working limits in place to stop rapid withdrawals of large amounts of bitcoin.
+
+Many exchanges will automatically restrict the amount of bitcoin that can be withdrawn at once, so even if they are hacked losses will be capped at a smaller amount. However,Bitfinex did say on Redditthat “there were limits in place to restrict the amount of btc that could be signed for a withdraw [and they’re] still trying to investigate how these limits were bypassed.”
+
+While it’s too early to speculate next steps, many are wondering what the fate of their coins will be. Because of the segregated BitGo wallets, only some customer’s wallets were compromised. This means that some user’s wallets may be totally intact. The question then becomes do you let those users withdraw their funds, or pool the funds and proportionally issue refunds so every user incurs the same loss, even if their own wallets weren’t directly compromised.
+
+Bitfinex has said they have alerted and are working with law enforcement, which may complicate things further if the company needs to go through a bankruptcy proceeding, like Mt.Gox did after hackers drained the exchange of all operating funds.
+
+This comes just weeks after hackers stole $50M worth of Ethereum, which caused the currency to complete a “hard fork” so they could reverse the transactions containing stolen currency.
+
+The lesson here is once again that the safest way to store bitcoin is inyour own (preferably offline) wallet, and not on a website or exchange.

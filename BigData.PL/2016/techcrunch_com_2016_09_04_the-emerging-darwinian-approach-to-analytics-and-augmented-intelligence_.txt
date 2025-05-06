@@ -1,0 +1,25 @@
+The emerging Darwinian approach to analytics and augmented intelligence
+
+Much has been made about the business implications of recent, rapid advancements in cognitive computing — that is, the possibility of advanced analytics tools to help human knowledge workers glean actionable insight from vast and deep lakes of historical, transactional and machine-generated information.
+
+When utilizedwell, cognitive tools help humans identify patterns and surface previously undetected cyberattack patterns on your company, customer buying behavior or predictive signals of catastrophic equipment failure based on readings from sensor-enabled devices.
+
+But as your business inevitably becomes more algorithmic, you’re faced with the next problem: Many algorithms, once discovered, have a remarkably short shelf-life. Algorithmic excellence in analytics requires more than just great math; you must also become as agile at killing off weak or vanquished algorithms as a NASCAR pit crew changing worn tires — you need to be replacing them with promising new ones. And you need to do it continuously, quickly, mercilessly and with abandon. In the digital business era, it’s the survival of the fittest algorithms.
+
+In a cybersecurity example, after an attack, defense systems are updated to nullify the threat. But cybercriminals constantly invent new algorithms and attack again. To remain secure, firms must evolve the algorithms just as quickly as the attackers. Indeed, on Wall Street, trading algorithms have been found to be profitable for just six short weeks. After a month and a half, at most, competitors reverse-engineer your math and counter-attack.
+
+For example, in cybersecurity and fraud detection, algorithmic efficacy is what separates the wheat from the chaff. It is well known that the infamous Target hack was actually detected by Target’s systems; the problem was that the 200-strong security monitoring team didn’t have algorithms that could identify the real hacking events from innocuous errors — it was simply too much information.
+
+The most advanced field in algorithmic fraud detection is financial services, where the stakes are highest; one firm, Knight Capital, lost more than $440 million in just 40 minutes in 2013. Since then, algorithmic innovation has only accelerated.ConvergEx, one of the largest electronic stock agency dealers in the United States, whittles down more than 500 million events a day to the few hundred that matter.
+
+The key is to build a system to easily gather and score the analytics that reduce the noise of streaming data. AsJoe Weisbord, CIO of ConvergEx explained, it can take weeks and months to invent and refine algorithms that effectively identify which problems to attack. Once an organization has a set of strategies that work, they can run different strategies on different days depending on conditions, or invent new strategies based on old scenarios.
+
+Strategies can be implemented entirely from scratch, as you learn more, and as systems change and introduce new patterns of failure. Financial markets can only be as safe as the algorithms that monitor them, and those algorithms need to constantly get smarter.
+
+Another area of rapid algorithmic evolution is predictive maintenance. Now that the industrial Internet of Things provides streaming sensor readings from most equipment, it’s critical to immediately analyze those readings. That analysis predicts when a failure might occur based on algorithms that “see” the first signs of failure beginning to appear.
+
+At a large oil and gas company, our data scientists worked for more than a year to define and refine the right set of signals that are saving the firm tens of millions of dollars in lost oil production and down time. Within that six months, hundreds of algorithms were created, tested and retested to boil down to the most effective ones, and more are under research. It’s a constant evolution of the intelligence of algorithmic systems.
+
+Fortunately, we humans have invented tools that help quicken the evolution of algorithms from potentially eons to hours or minutes. These tools allow algorithms to evolve at warp speed, by augmenting the intuition and experience of knowledge workers to help them discover new algorithms, rapidly improve them, pre-flight them and deploy them in hours or days, not months or years.
+
+Leading data-driven companies constantly think about making their algorithms stronger. By promoting a hyper-fast culture of the survival of the fittest algorithms, they will ensure that today’s algorithms will be smarter tomorrow, and drive smarter business decisions for years to come.

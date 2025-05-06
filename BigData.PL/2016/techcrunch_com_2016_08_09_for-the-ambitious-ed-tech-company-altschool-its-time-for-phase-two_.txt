@@ -1,0 +1,47 @@
+For the ambitious ed tech company AltSchool, it’s time for phase two
+
+Much has been written about the ambitions ofAltSchool, a San Francisco-based startup that’s aiming to change the way that school children learn. Its big idea, broadly, is that personalized learning is far more effective than the standardized education that most students are stuck with today.
+
+As important, personalized learning is scalable, believes AltSchool, which operates seven small private schools – five of them in San Francisco, one in Palo Alto, and one in Brooklyn – and, sorry to disappoint some of you, doesn’t intend to open many more. Instead, after several years of working closely with its kindergarten-through-eighth-grade students and iterating on its personalized learning approach, it’s gearing up to license its findings to other schools that want to embrace more individualized techniques but don’t have$133 millionto test what works and what doesn’t. (That’s how much AltSchool has raised so far from its investors).
+
+The 160-person company, which describes itself as very much in the “building phase,” aims to raise more over the next couple of years, too. We talked earlier today with founder and CEO (and former Googler) Max Ventilla to get the full update. Our chat has been edited for length and clarity.
+
+TC: You’re opening another of your own schools in Lower Manhattan this fall, and another in Chicago early next year. But after that, you’ll be more focused on partnering with other new and existing schools. Is that right?
+
+MV: We’ll continue to run our lab schools with an emphasis on learning in a full-stack way and advancing a new model for how schools can educate children. That approach and the platform that we use to support our own schools is what we’re [using to] partner with other schools, and you’ll see the first of those partnerships in September 2017.
+
+TC: Are these private or public schools or some combination of both?
+
+MV: To start, they’ll be pretty similar [to AltSchool]: small, independent, private schools – schools that adhere to the idea that student agency is critically important. We’re starting in an admittedly easier setting. Private schools have less regulations and fewer constraints on their resources, [but it’s an opportunity] to prove the model works, then to incrementally expand the model to more and more schools. So the first wave will look like the schools we’ve been running successfully [ourselves], then by 2018, maybe you’ll see newer, progressive charter schools [adopt our approach] then maybe just progressive schools.
+
+If you keep improving the model and the gains compound and schools benefit from other schools in the network, it stops being about AltSchool trying to stitch things together. We do believe on a five-year time scale, it starts to be relevant for some smaller-district public schools; it may be 15 years before urban school districts benefit from anything we’ve built.
+
+TC: Are there any partnerships you can announce?
+
+MV: We’ll have a formal announcement at the end of September, but we’re pretty far along with a few schools that either already exist or are opening.
+
+TC: AltSchool prides itself on employing equal numbers of educators, operators, and engineers who actively help the educators mark and measure what’s working and what isn’t. But aNew Yorker piecepublished earlier this year noted that data-related privacy concerns could hamper the adoption of your software by public schools.
+
+MV: It’s not as if we operate in a vacuum. There are standards and best practices for how data is collected and secured [and further, AltSchool’s team has] deep expertise at Google and Facebook with how do you use data in a secure way that protects privacy and creates truly transformative value.
+
+Our ambition is to break even with our lab schools that we operate ourselves. [Editor’s note: tuition is$30,000$26,000 per year per student]. The broader business is where you’re taking approaches and techniques that work for students and parents [and applying them to the outside world]. We’re working with a couple of cutting-edge partners on research science [to determine] how you turn quick feedback about how a student did on an assignment, or what they got out of reading passage, into a prediction about how they’d do on a standardized test. If you don’t have to have kids taking these crazy standardized tests that get them completely freaked out and derail their education for a week but you can still predict their outcome on tests, that’s not a small gain. It can change a school’s ability to be rigorous and accountable and be humane.
+
+TC:  Presumably, the idea is for your data to get smarter and better over time and so more helpful for schools that adopt your methodologies. How do you ensure that these outside schools will be tracking the right things, so contributing in a relevant way?
+
+MV: When you have a real platform that supports a network and creates a network effect across any class of providers – from healthcare to entertainment companies – the effect is that everybody benefits from everybody else. If you [eventually] have 10,000 teachers accepting or rejecting recommendations every day or using the system to create better scores, that changes experience of educators; they’re now standing on the shoulders of everyone else.
+
+TC: How much are you charging for your software?
+
+MV: Pricing will approach $1,000 [per student per year] — though it’ll probably be discounted below that [to high hundreds of dollars per student]. We’re still figuring that out. [Editor’s note: Ventilla has since elaborated that that number was a hypothetical and AltSchool is a ways off from understanding the market and setting the price.]
+
+TC: Will this pretty much be a subscription business then?
+
+MV: It’s not just software but also services. It’s a little like the OEM model where Microsoft would give Windows to Dell and Dell created [its own] experience — powered by Microsoft. Or the Intel Inside notion. You aren’t stamping out the same experience again and again. Different people are able to own [very different] education experiences, but they’ll [be using] a common platform
+
+TC: How will the services piece work?
+
+MV: There are four components that we think are essential to being able to use the core technology platform. One is teacher training. If you just throw a bunch of tools at educators, it’s not really of value; you need to help them take what they’re doing now and work through those tools. You also need to address those issues that inevitably arise, which bleeds into customer support.
+
+We also want to help [our customers] use the data and content that they were using as much as possible. We’re a very open model in terms of how we approach the space and want to use the content and data standards out there, so integration is also going to be a key service. Lastly, there’s a parent engagement piece, bringing parents in to kind of bridge the home-school divide; that’s also central to making the platform work.
+
+We’d expect to provide a partner school a similar level of support to what we’re providing to our own schools, and not just through hardware and software. Software thrown over wall in school settings tends to land flat. When we provide some piece of solution, we won’t just be handing it to teacher, saying, “Here you go.”

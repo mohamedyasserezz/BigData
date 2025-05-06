@@ -1,0 +1,27 @@
+Facebook kills off exact location sharing in Nearby Friends, adds “Wave”
+
+Nearby Friends didn’t turn into the Foursquare-killer it could have been, but Facebook is still trying to help people meet up in person… with a few changes. Facebook has removed the precise location-sharing feature fromNearby Friends, which now only lets you opt-in to broadcasting your approximate distance from friends and current neighborhood.
+
+Previously, you could select to temporarily or permanently share your constant exact pinpoint on a map with specific friends, or request this from a friend. This was useful for meeting up with someone on the move, knowing when someone was arriving or frighteningly, stalking your significant other.
+
+But it also lent an air of creepiness to a product that is relatively privacy-safe for a location-sharing service, as users fully control who sees what. And if your forgot you’d permanently shared your exact spot with someone, it could needlessly drain battery.
+
+TechCrunch noticed the map being removed from the Nearby Friends service in the Facebook app’s More tab, and Facebook now confirms that the feature for letting people see your precise location on a map is no longer active. That strips Nearby Friends’ main visual component too, making it now just a list of people’s proximities and neighborhood.
+
+That seems to have paved the way for a desktop version of Nearby Friends in the chat sidebar on the right. It shows a list of friends within a few miles, with their neighborhood and name. Tapping lets you send them a message to arrange a get-together. Facebook confirmed this is in testing after we spotted the addition.
+
+Finally, Facebook has built a successor to the classic “Poke” feature called “Wave.” Some users have the option to send a Wave to friends they see in Facebook Nearby to let them know they’re interested in what that friend is up to. It’s a lightweight way to reach out without a full-fledged instant message, but that could lead to a conversation on Messenger about whether they’re free to hang out.
+
+Wave addresses the core flaw of Nearby Friends — that just because someone is in your proximity, doesn’t mean they’re available. This is what plagued Foursquare, too. You were never sure if you should drop in on someone down the street, as their check-in wouldn’t necessarily tell you if they were on a date or in a meeting there. Wave was pointed out by Matteo Gamba andothers, and first covered bySocial Times.
+
+A Facebook spokesperson confirms that “We are testing a new feature within Nearby Friends allowing people to send their friends a waving hand emoji to say hello and help them meet up. This is meant to give people more ways to express themselves, and help friends interact with one another in new fun and lightweight ways.”
+
+Facebook Nearby Friends never received the proper attention in the bloated Facebook product. It was buried alive in the main app’s More tab since its launch inApril 2014. That’s unfortunate, since it was so useful for figuring out who was a few blocks away and might want to get coffee, have drinks or chill. [Disclosure: I worked on an in-person gathering app called Signal in 2013 that’s since shut down.]
+
+Facebook hadn’t given the product much love until recently. Perhaps that’s because Facebook got burned when someone figured out how to turn an exact-location-sharing feature in Messenger into a map of people’s movements. Facebook subsequentlydropped exact location sharingfrom Messenger.
+
+Butin-person gathering is still a massive opportunityfor Facebook because it’s one of the few companies with both your real-life social graph and an app you open frequently enough to spontaneously notice friends saying they’re nearby and available. Messenger (or Snapchat) could deliver a gathering feature at scale that dedicated apps like Down To Lunch and Free haven’t achieved. Messenger already has an “Active Now” section showing friends available to chat with, and a Nearby Friends section in the threads list would make perfect sense.
+
+Social networks are often accused of making us more isolated behind our screens. This is Facebook’s chance to get us face-to-face with the people we care about, and not just in avideo callorVR.
+
+For more about why we need a social gathering app, read my feature story “The Quest To Cure Loneliness.”

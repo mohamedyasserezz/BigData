@@ -1,0 +1,13 @@
+Security researchers can turn headphones into microphones
+
+Security researchers at Israel’s Ben Gurion University have created a proof-of-concept exploit that lets them turn headphones into microphones to secretly record conversations. The PoC, called“Speake(a)r,”first turned headphones connected to a PC into microphones and then tested the quality of sound recorded by a microphone vs. headphones on a target PC. In short, the headphones were nearly as good as an unpowered microphone at picking up audio in a room.
+
+The hack is fairly ingenious. It essentially “retasks” the RealTek audio codec chip output found in many desktop computers into an input channel. This means you can plug your headphones into a seemingly output-only jack and hackers can still listen in. “Our experiments demonstrate that intelligible audio can be acquired through earphones and can then be transmitted distances up to several meters away,” wrote researcher Mordecai Guri. “In addition, we showed that the same setup achieves channel capacity rates close to 1 Kbps in a wide range of frequencies.”
+
+“Most of today’s built-in sound cards are to some degree retaskable, which means that they can be used for more than one thing. …the kernel exposes an interface that makes it possible to retask your jacks, but almost no one seems to use it, or even know about it,” wrote Linux sound engineer David Henningsson. That’s exactly the exploit Speak(a)r uses.
+
+This isn’t a driver fix, either. The embedded chip does not allow users to properly prevent this hack which means your earbuds or nice cans could start picking up conversations instantly. In fact, even if you disable your microphone, a computer with a RealTek chip could still be hacked and exploited without your knowledge. The sound quality, as shown by this chart, is pretty much the same for a dedicated microphone and headphones.
+
+“Modern PC and laptops motherboards include integrated audio codecs hardware which allow for modification of the audio jacks’ functionality from output to input within software,” said Guri. “In this paper we examine this issue in the context of cyber-security. We present SPEAKE(a)R, a software that can render a PC, even once without microphones, into an eavesdropping device.”
+
+Luckily this is still a proof-of-concept so you don’t have to dunk your headphones in acid… yet.

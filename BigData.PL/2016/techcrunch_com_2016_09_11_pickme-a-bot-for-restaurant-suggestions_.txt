@@ -1,0 +1,15 @@
+PickMe, a bot for restaurant suggestions
+
+Too much choice makes it harder to make a decision (a phenomenon that was detailed in“Modern Romance” from Aziz Ansari). So at the TechCrunch Disrupt SF Hackathon, a team of hackers developed PickMe, a Facebook-integrated chatbot that helps you decide which local restaurant to go to. Just message the bot with what you’re looking for, such as French restaurant, and it will text you back with a local suggestion.
+
+PickMe uses artificial intelligence to learn your preferences and make a suggestion that you’re hopefully satisfied with.
+
+The trio said that they were inspired because they had trouble deciding where to eat before heading to the Disrupt event. Team members David Tedgui and Antoine Bungert were in town from Paris toopen a 42 campus in Silicon Valleyand Devin Platt is a local Amazon employee.
+
+PickMe “gives you one choice and it’s the best choice,” said Bungert. “It learns from your profile and your tastes and experiences.”
+
+It’s “very easy to get started,” Platt added.  “You don’t need to install anything.”
+
+The team plans to make PickMe work for more than just restaurants. They cited cars and dentists as examples.
+
+They also expect PickMe to integrate with APIs from Yelp, Foursquare, Google Maps, OpenTable and IBM Watson.

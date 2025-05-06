@@ -1,0 +1,49 @@
+Don’t buy into the myth of the “IPO window”
+
+We’re awaiting Twilio’s IPO, and tech media cycles are consumed with the question about whether or not this week’s public offering will break open the IPO window.
+
+For the uninitiated, an IPO window represents the time at which a company can go public. A closed IPO window is really a euphemism for “poor market conditions” — and, according to public market and IPO practitioners, current market conditions are poor, which has led to a historically weak IPO market.
+
+If you don’t believe me, check out the articleshere, andhere(and I promise there are dozens more).
+
+SecureWorks came along in April 2016 and was to be the metaphorical hammer that would shatter open the IPO window. Unfortunately, SecureWorks priced their IPO below their filing range and traded below their IPO price for a couple of months.
+
+If you subscribe to the IPO window concept, SecureWorks’s IPO and their subsequent public market performance was a logical outcome — if you try to go through a closed IPO window, you’ll emerge on the other side bruised and bloodied — how dare they ignore conventional wisdom?
+
+I don’t want to make any assertions on SecureWorks’s long-term prospects, but I do believe that their IPO performance, and their long-term prospects, had nothing to do with the so-called IPO window.
+
+IPO practitioners provide countless market-related reasons not to take a company public: the Fed may raise interest rates; tech bellwether earnings are weak; investors could be distracted by an upcoming jobs report; it may rain the following week… I’ve heard nearly every argument in the book, and they are all bunk.
+
+So let me be very clear — when the right company wants to go public, market conditions just don’t matter.
+
+To start, let’s look at what’s happened in 2016. In Q1 (zero tech IPOs), China and oil prices were to blame for the weak IPO market — but the great irony is that almost none of the North American tech companies seeking to go public this year have any exposure — and no correlation whatsoever — to China or oil prices.
+
+We’re now in the second quarter (two IPOs with Twilio expected to price this week) and everyone is concerned with interest rates, Brexit and the upcoming presidential elections… again, nothing to do with technology. And I can further extrapolate that argument — the vast majority of technology companies have sufficiently strong tailwinds to overcome macro-related market forces.
+
+But still, there are plenty of companies that have put their IPOs on hold, in large measure because the IPO window is firmly closed. Let’s look at how facts match up to the myth of the IPO window:
+
+o   The idea here is that fear keeps investors at bay. But there are always investors who will channel their inner Warren Buffet and will “be greedy when people are fearful, and be fearful when people are greedy.”
+
+o   SecureWorks might have had to reduce its offer price but the order book was multiple times over-subscribed (which means they received stock orders from potential investors multiples times in excess of their IPO proceeds).
+
+o   And, if other companies are waiting to go public due to a perceived closed window, then that would ideally drive more demand to theonlycompany going public.
+
+o   Something has to give when a company goes public in a moody market, but a smart startup can minimize negative outcomes by carefully calibrating the number of shares in an offering. If the worry is dilution, just don’t raise as much capital and cut the size of the offering as an intermediary step. If it was a planned $200 million raise at $2 billion market cap but orders can only be filled at a $1 billion valuation, then just raise $100 million and the dilution is the same. Simple math!
+
+o   If there is a need for more capital down the road, wait until the stock appreciates to an acceptable level and do a follow-on offering. And if a company desperately needs money for solvency reasons, then there is probably a bigger set of issues that investors and public markets will almost surely hate.
+
+o   By the very definition of an IPO, a company that raises money and starts trading publicly has succeeded!!
+
+o   Let’s also take a look at an example: OpenTable filed to go public in January 2009, potentially the worst “market conditions” in the last 20+ years. Their initial filing range was $12-14/share, which eventually bumped up to $16-18/share. They priced their IPO at $20/share and closed their first day of trading at $24.50. Five years later Priceline acquired OpenTable for $2.6 billion, or $103/share
+
+I can continue on with the myths, but don’t just take my word for it, let’s look at the data. In the past 10 years, approximately half the IPOscurrentlytrade below their initial offering price, which implies that long-term performance relative to an IPO price are not correlated to market conditions.
+
+Seems obvious, but I’ve never actually seen the data! And while there is a lot of noise in the data and too many variables to draw conclusions, in fact, the opposite may be true — the 2008 and 2009 cohort appears to have performed the best relative to their IPO price (although, I would argue, this is more likely from adverse selection and relative valuation multiples, not to mention there are <20 data points).
+
+Of course, there are lots of elements beyond market conditions that should be considered, such as: company size and scale, business model maturity, (path to) profitability and so on. Additionally, there is a huge emotional and human element to an IPO — a tough IPO or downtrodden stock might have a demoralizing effect on the employee base, which can have ramifications for years to come.
+
+Finally, missing earnings estimates your first couple of quarters as a public company can also have long-term effects on the stock (it’s known as getting put in the “penalty box”). And some might rightfully argue that market conditions could adversely affect your stock price beyond your control (but guess what, every other public company will have the same issue).
+
+All of these components will be considered by the management team and board.
+
+Word around the Valley is that there is a logjam of startups waiting to IPO. Many have strong and committed management teams, enduring products, the scale to drive predictable and profitable revenue growth and IT/ financial systems in place to ensure compliance regulations are met. There’s no doubt that some are better candidates than others, and investors will weigh these considerations. But none of them should hold back merely because the so-called IPO window is closed. And if you still don’t believe me, take a look at Acacia, the second tech IPO of the year. It went public in May and shares are up nearly 80 percent from the $23 offering price. That must mean the window is open, right?

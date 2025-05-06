@@ -1,0 +1,27 @@
+Telegram names first winners of its ‘fast and useful’ bot competition
+
+Messaging app Telegram has named the first wave of bots to win prizes via a $1 million BotPrize competition it announced back inApril.
+
+The idea was to incentivize developers to build fast and useful bots — aka automated accounts — and thereby help it build out the bot platform itdebuted back in June 2015. It said it would be awarding a series of grants of between $25k and $50k to bot developers throughout this year.
+
+In the event, it’s taken nearly seven month for the first batch of five winners to be announced — whose developers are collectively taking home around a quarter ($200k+) of the prize fund.
+
+It says it will continue awarding bot makers “this and next year” in $200,000 batches, but had previously said the entire $1M fund would be distributed by December 31 — so it’s possible it’s taking a little longer than expected for quality bots to arise and/or make a mark with users.
+
+“Selecting the right bots was a challenge, and this time we focused mainly on the bots already demonstrating organic growth,” said Telegram founder, Pavel Durov, when we asked how hard it’s been for the company to find the fast and useful bots it’s looking for.
+
+Here’s the winner list — which includes a bot that will stylize your selfies, a game bot designed for group chats and a money transfer bot:
+
+The first five Telegram bot winners span five very different categories so there’s no usage trend conclusions to be drawn. Durov also did not respond to a request for latest usage metrics for bots on the Telegram platform so it’s not yet clear how popular the automated accounts are proving.
+
+In ablogannouncing the first BotPrize winners Telegram says its hopes is the prize money will be used for “further development and scaling of these great bots”.
+
+Durov has previously said Telegram will launch a payments mechanism for bots this year — holding out the prospect for bot devs on the platform being able to monetize their creations in the near term, assuming they can attract and drive usage.
+
+Telegram itself announced passing 100 million monthly active users inFebruarythis year, when it also said it was adding 350,000 new users each day.
+
+The lasting utility of bots outside Chinese messaging app giant and bot pioneer WeChat’s walls remains to be proven. Plenty of US tech platforms are trying to repeat this playbook by launching their own bot platforms (e.g.Facebook). But it’s far from clear whether web users outside the Great Firewall of China have as much appetite for relying on a single ‘super platform’ laden with third party bot-powered services to do everything for them.
+
+It’s certainly a very different ethos to ‘an app for everything’, which ruled the first wave of the modern smartphone ecosystem. But while the jury is out on bots’ place and role in the wider digital business world, the experiment continues.
+
+Last month, for example,Telegram launched a bot-powered gaming platform— with anewAPIto support creating morevisually appealing games that live inside chats on its platform. While earlier this month it emergedFacebook is testing a similar offering called ‘Instant Games’inside its messaging app, Messenger.

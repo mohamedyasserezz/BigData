@@ -1,0 +1,13 @@
+Data visualization service Reflect raises $2.5M seed round led by DFJ
+
+Reflect, a Portland, Oregon-based data visualization service, today announced that it has raised $2.5 million on an oversubscribed seed round led byDraper Fisher Jurvetson. Other participants in this round include Founders’ Co-Op, Liquid 2 Ventures (Joe Montana’s investment vehicle), Techstars, Stanford University and a number of angel investors, including Parse co-founder Ilya Sukhar and Alex Payne.
+
+Reflectco-founder and CEOAlex Bilmesspent the last six years in data visualization, including at Cloudability, where he was the first hire, ran design and met his co-founder Brad Heller — and at Lucid Labs, where he was previously a design partner. As Bilmes told me, a number of companies asked him how he built the visualizations at the core of Cloudability’s service, which made him decide to strike out on his own and found a “visualization as a service” company.
+
+The idea behind Reflect is to allow you to add data visualizations to any web or mobile app. To get started, you either give Reflect’s software agent access to your database or, if you are worried about security, you can host your own copy of the agent. The agent then fetches your data and brings it into Reflect, where you align the columns in your database to the dimensions and metrics you want to visualize. From there, you can then use the company’s drag-and-drop interface to create a dashboard with the company’s visualization components (which you can re-style to match your own brand).
+
+To get started, you don’t have to touch any code. Indeed, that was one of the main ideas behind the tool. “Our goal is around reducing the onboarding friction,” Bilmes said. He later added that the team wants to “make it really easy for you to get to something without working with any code.” If you do want to get your hands dirty, though, you can always go in and work with the service’s API.
+
+Like Twilio and other developer-focused startups before it, Reflect is focusing its marketing on the developer community and building a strong community around its product.
+
+Reflect will use the new funding to build out its product. Bilmes tells me the company is currently fielding more interest from potential users than it can deal with. For now, though, Reflect is only working with a few select partners and the product remains in private beta. Bilmes, however, expects the public beta to launch this winter, at which point the platform will be self-serve.

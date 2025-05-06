@@ -1,0 +1,39 @@
+Stripe launches Radar to tackle e-commerce fraud with machine learning
+
+Stripe, the startup that lets websites and mobile apps implement payment services through its API and a few lines of code, is today adding in another new feature as it continues to build out its platform with more tools. It is now going to help prevent fraud on Stripe transactions, through a new service calledRadar.
+
+Radar is being rolled out globally as part of Stripe’s primary payments service, meaning companies that use Stripe’s API for payments do not need to pay extra or do anything in particular to turn it on.
+
+That may change down the line if and when Stripe — which has now raisedaround $300 millionand is valued at around $5 billion — begins to add in more features and decides to monetise the service separately. (Its current, basic payments rate is a 2.9% commission plus 30 cents per successful card charge in the U.S. and fees vary in other markets.)
+
+“This is an area of active development and there is a long list of things we want to do,” said John Collison, Stripe’s co-founder and president, in an interview. “We haven’t ruled out [launching it as a separate service] but want to see how people use it and what works and what doesn’t first.”
+
+There are already areas where I could see Stripe potentially adding in more features beyond fraud detection and prevention. For example, for now Stripe is not offering any kind of insurance or protection services alongside the fraud prevention, although Collison told me that this is one area it has considered.
+
+In Radar, Stripe is tackling a very big issue in the world of online commerce. Retail e-commerce alone (which doesn’t include other kinds of transactions that might run through Stripe’s system) will be worth nearly $2 trillion globally this year, according to estimates fromeMarketer, and over the next two years it will continue to grow at a rate above 20 percent and take an ever-bigger proportion of all commerce (including offline) transactions.
+
+But as online commerce continues to grow, so do incidents of e-commerce fraud. Asurveyconducted by Pymts and Forter found that in Q4 of 2015 there were 27 fraud attempts for every 1,000 transactions, and in Q1 2016, some $4.79 out of every $100 in transactions was at risk (a year before it was $2.90).
+
+Collison would not say how much fraud may have passed through Stripe’s own pipes over the years, but pointed to the fact that there is a lot across all of e-commerce.
+
+Stripe is in an interesting position to tackle this. The company says that it currently works with hundreds of thousands of businesses — it’s never been precise about how many exactly — and because of the size and scale of some of these customers (they includethe likes of GoFundMe, Lyft, and Best Buy), it estimates that it has already seen 4 out of 5 ofallcredit cards globally through hundreds of thousands of transactions, and it has seen each card on average six times.
+
+This combined with what it cryptically refers to as “signals” from its financial partners (it works with many major credit providers across countries where it is active) essentially give the company a trove of behavioral data about usage and users that it runs through its machine learning algorithms in the back end to be able to detect inconsistencies in purchasing patterns.
+
+One challenge for Stripe with Radar is that there are already many other fraud prevention services out in the market — they include Trustev, Kount, Forter, Signifyd, and many more. And some of Stripe’s customers are already using them.
+
+Stripe believes that its machine learning, and close monitoring of transaction data on its own platform, giving it an edge of a lot of the third party offerings. One area, Collison noted was in how Stripe tracks IP addresses, a detail he claims is not always part of the evaluation process.
+
+To businesses, it provides prioritized lists of flagged charges, an ability to preview and set custom rules without any code or engineering work, as well as “traditional fraud checks,” such as card verification code and address verification.
+
+Another area where Radar is potentially interesting for Stripe businesses has to do with how it’s built: the premise is that Radar works just like Stripe’s other services, as a simple API that doesn’t require extensive integration or a separate fraud or data science team to monitor and run it. Again, though, a company can also choose to customise it, so that Radar does block some sales but also flags other transactions that look suspicious for people to evaluate before blocking.
+
+“In chess, the best players are not computers nor humans but humans working with computers,” Collison offered as an analogy. “It’s a little bit like that. We have all the machine intelligence, building logic that helps you run your business.”
+
+Interestingly, he told me that this and the simplicity rules are part of Stripe’s template for whatever it plans to tackle next. Collison would not say what that product will be except to note that there are several more launches planned for the near future.
+
+The company’s mission, he said, is to “take out the complexity from growing your business.. We are going to see this as a major part of Stripe’s product offerings in the future. It is how we think about the world. What makes life hard for businesses, and why aren’t they growing faster? How can we change that?”
+
+Leading up to this launch, Stripe has been testing Radar with a few select users. It said that Watsi, the crowdfunding non-profit for medical treatments, was able to block $40 million worth of attempted fraud. Teespring was another test case, and you can see a video below of how they were able to redeploy staff to other parts of the business after implementing Radar:
+
+[youtube https://www.youtube.com/watch?v=NWywn0yympA&w=560&h=315]

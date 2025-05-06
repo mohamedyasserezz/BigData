@@ -1,0 +1,17 @@
+Rokid, the assistant that can see, hear and sing raises $50M at $450M valuation
+
+Meet Melody. Despite looking like a giant egg with a TV for a heart, she actually may be the first thing to put a smile on your face this morning. She can recognize you, listen to you, and even sing for you — all the while being a hub for home IoT.
+
+The whole package may seem a bit corny, albeit in a cute candy corn kinda way, but for investors in Rokid, Melody’s maker, the device is anything but a joke. Advantech, a Chinese investment firm, just led a $50 million dollar round in Rokid at a $450 million valuation alongside existing investors, IDG Capital Partners and Walden International.
+
+Tami Zhu, General Manager of Rokid, explained in a conversation that much of the company’s seemingly high value rests in its large intellectual property portfolio. Rokid’s 90 person team consists of 15 PhDs and 21 masters holders working on problems like natural language processing and computer vision. Comparatively in the States we have PhD-heavy companies likeSemantic Machinesthat have raised relatively modest sums of money to tackle difficult AI problems, but we also haveMagic Leap’s $542 million Series B— so it’s probably premature to make any concrete judgements.
+
+One of the defining philosophies behind Rokid is that the future of human computer interaction will be multimodal, explains Zhu. Rokid has been built from the ground up to recognize specific faces and unique voices. As a hub for the internet of things in the home, not having to specify “John’s Spotify” when asking for music to be played is convenient, and in some cases incredibly pragmatic if you, like me, live in a home where multiple people share the same name.
+
+To enable Melody to interact in both English and Mandarin, researchers had to painstakingly record the speaking patterns of people in both languages before generalizing the sounds with post-processing. The end result is that Melody can say words she was never taught by patching together composite sounds.
+
+Aside from the software, the most striking feature of Rokid is the large, brightly colored, display on the front of the device. It is actually made possible by an internal DLP projector that shows relevant content like album art, weather, and time. Rokid also comes with a companion app for mobile that lets users remotely interact with the device with their phone.
+
+Unfortunately today you will struggle to get your hands on Rokid. The device is only available in China — and even if you happen to find yourself there, you’ll still be looking at an $800 tab for the features.
+
+Realistically, $800 is a crazy sum to pay for a product that, while more advanced thanEchoorHome, still fundamentally competes with Amazon and Google for customers. Zhu however made it clear that a U.S. pricing strategy would be much different when Rokid finally becomes available here.

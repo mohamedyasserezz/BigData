@@ -1,0 +1,27 @@
+Clinton Foundation denies hack claims by Guccifer 2.0
+
+The hacker who claimed responsibility for the Democratic National Committeeemail leakclaims to have breached the Clinton Foundation’s servers and retrieved a number of files potentially damaging to the Democratic Presidential nominee — but the Foundation denies any such breach occurred.
+
+The hacker, Guccifer 2.0, posted screenshots and spreadsheets they claimed were from the foundation’s servers.
+
+“Hillary Clinton and her staff don’t even bother about the information security,” he wrote. “It was just a matter of time to gain access to the Clinton Foundation server.”
+
+No secret was made of the political motivation of the supposed hack, and the author even included a shout-out to WikiLeaks and Julian Assange. Both were widely criticized earlier this year for releasing what many considered to be private information of citizens alongside the revealing internal emails of the DNC.
+
+Experts have speculated that the hacker in question is in factallied with — if not outright controlled by — Russian intelligence. That would make this the latest entry in a low-key cyber-skirmish likely aimed at affecting the outcome of next month’s election.
+
+When contacted for comment, the Clinton Foundation was unequivocal in denying the validity of the hack.
+
+“Once again, we still have no evidence Clinton Foundation systems were breached and have not been notified by law enforcement of an issue,” the organization said in a statement sent to TechCrunch. “None of the folders or files shown are from the Clinton Foundation.”
+
+The foundation’s president subsequently echoed this (twice, actually) in a tweet:
+
+https://twitter.com/DonnaShalala/status/783411801958457345
+
+The Hillary Clinton campaign also responded to our inquiries, denying the documents were taken from the foundation.
+
+Many of the files appear to show information thatshould be public record— donations to PACs, for instance. A few entries I checked tallied with documented donations, but that doesn’t speak to the claims of the hack.
+
+The Hill points out(and Ars Technicaconcurs) that the documents are more likely to be from the Democratic Congressional Campaign Committee, which reported a breach in July, as well. One document appears to have  been authored by the DCCC’s deputy research director in 2009, for instance. (I previously wrote that the document was by someone who didn’t work at the DCCC at the time; my mistake, this has been fixed.)
+
+We’re investigating the posted documents further and will update this post with more information as we find it.

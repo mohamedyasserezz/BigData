@@ -1,0 +1,27 @@
+Signs of a new Samsung Gear VR are surfacing
+
+It’s been less than a year since the consumer Gear VR was first shown off and it already seems as though Samsung and Oculus are regrouping to push out a new version of the pre-eminent mobile VR headset.
+
+ADutch Samsung rumors siteinexplicably found a listing from an Indian imports database that highlights a new model number (SM-R323) for the Gear VR device being shipped. Interesting, because the number falls after the current Gear VR’s SM-R322 model number and the Gear VR Innovator Edition’s SM-R321 before it. We know literally nothing else, except that these units are just “for testing and evaluation purpose.”
+
+The timing on this is very interesting, though. With the existing headset less than a year old and with a new Samsung smartphone (a new Note) on the horizon, which may embrace a new USB Type-C connector, the compatibility of the existing Gear VR with Samsung’s entire line might be timing out.
+
+All of this is occurring as Mobile VR is about to be blown wide open byGoogle Daydream. It’s still unclear whether Samsung has any interest in boosting the compatibility of its next-gen Galaxy devices with Daydream or if it will continue to go it alone.
+
+This particular iteration is critical to Oculus, whose Gear VR play has proven extremely valuable to the VR company, which has by most estimates seen much of its market penetration coming from the mobile platform (granted, most of those headsets were given away for free).
+
+Oculus’s model of working directly with Samsung at a system level was valuable in terms of promoting the seamlessness of software and hardware, but with Daydream that model may soon find itself outdated and untenable moving forward. The key will be launching the next-generation Gear VR with features that make it an irresistible upgrade, even among Daydream-compatible phones.
+
+The biggest feature on most people’s wish lists is inside-out positional tracking, which would give VR headset wearers the ability to move through space within virtual environments without having external sensors set up. Right now, Gear VR users are constrained to engaging with content by moving their heads around from a fixed point.
+
+Oculus CTO John Carmack has waxed poetic on the challenges of nailing positional tracking, so it may be premature to expect this feature in a next-gen Gear VR headset, but it also seems to be the clearest hurdle in the foreground, for what it’s worth. Other possibilities could involve eye-tracking or hand-tracking systems, but it likely won’t be anything that finds itself too at odds with the PC-powered Rift, as Oculus is moving toward being as cross-platform as possible content-wise.
+
+All of the inside-out position tracking work being done at Oculus is targeting dedicated cameras, not using the built in cell phone camera.
+
+— John Carmack (@ID_AA_Carmack)May 4, 2016
+
+In other words, don't expect general purpose position tracking to show up as a software-update feature for existing GearVR systems.
+
+— John Carmack (@ID_AA_Carmack)May 4, 2016
+
+It has been less than a year since the consumer Gear VR was unveiled, so it might seem a bit early for a new headset to emerge, but with how quickly sensor tech is evolving, it’s pretty unrealistic to expect that headsets will iterate at the same pace as game consoles. Whether a new headset comes forth mid-cycle for the S7 around the Galaxy Note 6/7 launch (expected next month, so perhaps a bit unlikely) or holds out for the S8 launches will pretty dramatically impact what the headsets are capable of specs-wise and just how progressive Samsung seems amongst its mobile VR competitors.

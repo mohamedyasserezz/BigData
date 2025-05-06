@@ -1,0 +1,11 @@
+Hackers release source code for a powerful DDoS app called Mirai
+
+After doing heavy damage toKrebsOnSecurityand other web servers the creator of the Mirai botnet, a program designed to harness insecure IoT devices to run massive denial of service attacks, has apparently released the source code onGithub.
+
+The compact C code is designed to run on IP cameras and other Internet-connected devices. It tries various hardcoded root passwords, infects the device, and then sends out traffic to a preset target. You can see the code containing the hardcoded passwords inthis filecalled scanner.c.Hackers used the botnet to send a 620 Gbps DDoS to KrebsOnSecurity, a popular security blog by Brian Krebs. The system, while powerful, is easily thwarted by rebooting the offending IoT device and it seems that updates are slowly reducing the number of potential targets in the wild. “With Mirai, I usually pull max 380k bots from telnet alone,” write Anna-senpai, the hacker who released the code on Hackforums. “However, after the Kreb [sic] DDoS, ISPs been slowly shutting down and cleaning up their act. Today, max pull is about 300k bots, and dropping.”
+
+Krebs doesn’t believe the release is altruistic especially given his penchant forgetting hackers arrested.
+
+“It’s an open question why anna-senpai released the source code for Mirai, but it’s unlikely to have been an altruistic gesture: Miscreants who develop malicious software often dump their source code publicly when law enforcement investigators and security firms start sniffing around a little too close to home,” he wrote. “Publishing the code online for all to see and download ensures that the code’s original authors aren’t the only ones found possessing it if and when the authorities come knocking with search warrants.”
+
+The code is on Github now and appears to be legitimate. I haven’t compiled it but there is enough interesting info in the files themselves that it could make an educational project for researchers and, sadly, a compact tool for more nefarious uses.

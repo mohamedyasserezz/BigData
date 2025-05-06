@@ -1,0 +1,21 @@
+You should probably still avoid toys that talk with your kids
+
+If you were thinking of getting your kid a little doll or robot that they can talk to — and, critically, that responds — you should probably hold off for a few years. A complaint to the FTC filed by consumer watchdog groups highlights ongoing privacy and security concerns with this creepy class of toy.
+
+Now, I hate FUD as much as the next guy, and I seriously doubt that these toy makers and software companies are in a shady scheme to secretly record toddlers worldwide. But when it comes to protecting groups who can’t protect themselves, we can’t be too vigilant — and on the other side of the equation, companies can’t be too transparent or explicit about how information is used and protected at every step.
+
+The complaint (PDF), filed by the Electronic Privacy Information Center and a couple of other groups, alleges that Genesis Toys and Nuance Communications “unfairly and deceptively collect, use, and disclose audio files of children’s voices without providing adequate notice or obtaining verified parental consent,” in violation of COPPA and other laws.
+
+The toys in question, the girly“My Friend Cayla”and chunkily robotic“i-Que,”operate over Bluetooth through an app on your phone, which sends voice data to either Nuance or Google servers to be turned to text, and this text is used to serve queries to approved sources (with lots of blacklisted words like swears and other bad stuff).The Consumerist gives a good TL;DRof the allegations.
+
+Apart from it being what seems to me an inherently weird toy (back in my day… well, now’s not the time), and the troubling fact that it’s pre-programmed with responses praising Disney movies (!), it’s more or less what you’d expect. The problem comes when you look at how the data is handled. Kids’ data must be handled carefully, per the Children’s Online Privacy Protection Act — parents’ consent must be obtained, and parents must also be able to review or delete that data. These toys seem to be rather cavalier with COPPA rules.
+
+For one thing, the Genesis privacy policy passes the buck to Google and Nuance, which are unhelpfully not linked. Nuance’s privacy policy asks that users not submit data to them if they are under 18, which kids using this toy are likely to be, probably because it uses this type of data for training its algorithms and potentially sharing it with third parties.
+
+That’s par for the course with a service like Nuance’s, but when you have a product that’s fundamentally aimed at the 4-8 crowd, better protections are expected. When contacted for comment, Nuance referred toa blog postoutlining some of the company’s relevant policies, in particular that it doesn’t “use or sell voice data for marketing or advertising purposes” nor “share voice data collected from or on behalf of any of our customers with any of our other customers.”
+
+Genesis, for its part, doesn’t indicate whether it retains audio or text of kids’ queries. Are recordings of your kids’ questions staying on its big server in Massachusetts, to be mined for data in figuring out how to market the next version of the doll, or which third parties to bring in as baked-in advertisers? Since they’re not explicit about it, your best move, for the safety and privacy of your kids, is to assume the worst until told otherwise. I’ve asked, by the way.
+
+I say safety because these devices — not necessarily those from Genesis specifically, but many connected devices of this variety — generally have poor security. Even“smart” locksandsecurity cameras, things you would expect to have pretty robust protections, fall in short order. It’s one thing to have some hacker peeking into your garage, but to have them listening in on your kid while she prattles and plays?
+
+The first My Friend Cayla sold over a million dolls, so these aren’t some short-run toy sitting in a bargain bin somewhere. It’s big business, and the creators should acknowledge concerns that devices like theirs can and are being abused.

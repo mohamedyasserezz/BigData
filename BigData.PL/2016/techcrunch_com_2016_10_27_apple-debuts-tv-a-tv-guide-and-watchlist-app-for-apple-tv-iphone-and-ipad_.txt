@@ -1,0 +1,39 @@
+Apple debuts “TV,” a TV guide and watchlist app for Apple TV, iPhone and iPad
+
+Confirminga series of earlier reportswhich said Apple would launch a universal TV guide to simplify watching video on the Apple TV, the company today announced a new app it’s simply calling “TV.” The new app will allow you to track your favorite shows and movies across the video apps across the Apple TV platform.
+
+The problem with watching video on Apple TV – or really, any streaming media device – is that you have to move from app to app to find the programs or movies you want to see. Companies have been addressing this issue in a variety of ways. For example, Roku offers apersonalized“My Feed” section where users can track their favorite shows and movies, and learn about new releases. It also offers auniversal searchthat will help you find the program in question across all the apps on its platform.
+
+Meanwhile, Amazon’sforthcoming new interface for its Fire TV productsincludes rows featuring your personalized video suggestions, pulled in from services like Netflix and HBO.
+
+According to Apple CEO Tim Cook, there are now over 1,600 apps from video content providers on Apple TV today, which highlights the complexity of watching TV over-the-top via apps.
+
+How it works
+
+ForApple’s new TV app,the company has partnered with video providers in order to aggregate their content into a single view, so Apple TV owners can more easily see what’s available to watch. This way, users can find programs they like instead of worrying about which app actually houses the content. When you click to watch one of the programs, you’re just taken to the right app.
+
+When launched, the app will display a “Watch Now” section, where you can track the shows and movies you’re currently watching. Here, you’ll see things like how many minutes you have left on the movie or which season and episode you’re on in a series, for example. It will also alert you to new episodes from your favorite shows.
+
+From here, you can go into “Up Next” and “Recommended” sections, in order to find new things to watch from across favorite shows, movies, as well as iTunes purchases and rentals.
+
+In the “Recommended” section, content is organized into different groups, like trending shows and movies. And similar to iTunes, the TV app features curated “Collections,” which are thematic groupings of content, like political shows or thrillers, for instance.
+
+Other sections in the TV app, “Library” and “Store,” will point you to your prior iTunes purchases, including rentals, or let you browse for more movies and shows to buy.
+
+You can also use Siri will the new app, and the assistant is smart enough to know which app to launch to watch the program you ask about. For instance, if you want to watch the game, you just ask to watch the game – you don’t need to know which app is streaming it. You can also say things like “which games are on right now?” or “watch CBS News,” without having to navigate to the app directly.
+
+This feature, called Siri Live Tune-In, is available today.
+
+Unfortunately, Netflix is not participating in this experience, it’s been reported, and Apple did not explain why on stage or offer any promises of future integrations. It’s possible that Netflix bristled at giving away too much control to Apple, which could then choose which shows were promoted.
+
+In addition, while the app is primarily meant to address the challenges of watching across apps on Apple TV, the new TV app will also arrive on iPhone and iPad this December, the company says.
+
+Along with the new TV guide app, Apple is rolling out support for Single Sign-on, which wasannounced at WWDC 2016as a tvOS feature. This lets you enter your username and password for your pay TV subscription only once, instead of in each video streaming app that requires authentication.
+
+When you add a new app to your TV app, it’s installed on all your devices. Then, thanks to Single Sign-on, you can just launch the app and start watching your show.
+
+BothUSA TodayandRecodepreviously reported on Apple’s plans for a TV guide app and watchlist.
+
+“We want Apple TV to be the one place to access all of your television,” said Tim Cook, when announcing the new product. “One place to access all of your TV shows and movies.”
+
+While it seems like a universal TV guide would be great for cord cutters, the reality is that a lot of the video apps still require authentication in order to work. That means you still have to pay for a cable or satellite TV subscription. The new guide will make it easier for you to navigate through these apps, but the only advantage to watching via apps is that you can access the programming on-demand, as opposed to in a linear fashion.

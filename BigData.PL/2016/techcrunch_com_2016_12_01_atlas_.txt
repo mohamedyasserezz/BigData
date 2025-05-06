@@ -1,0 +1,11 @@
+Researchers taught Boston Dynamics’ Atlas humanoid robot to walk gingerly over rubble
+
+There’s something strangely comforting in watching Boston Dynamics’ 330-pound bipedal humanoid robot cautiously attempt to navigate a field of uneven surfaces. Something…humanizing, if that’s the right world, as the faceless ‘bot gingerly tests its footholds, slowly and with an abundance of caution, before shifting its full weight to the next block.
+
+The IHMC (Institute for Human and Machine Cognition) Robotics Lab out of Pensacola, Florida has developed a system by which the robot can navigate across a series of different surfaces of different sizes and geometries – in the case of the featured video, mason blocks that have been turned on their sides and at various angles, so in some cases the robot has little more than a corner on which to step.
+
+Atlas has no prior knowledge of the surfaces laid out in front of it. Using the program, it tests the surface one foot at a time, shifting its weight around in the process and finally applying it to the supported foothold. The process is supported by angular momentum provided by the robot’s upper body as Atlas executes some of the more difficult steps.
+
+The project is one of a series of bipedal walking projects being undertaken by the institute.
+
+“While great strides have recently been made in robotics, robots still cannot get to the same places that people can,” says the IHMC. “Our humanoid projects are focused on enabling our bipedal humanoids handle rough terrain without requiring onboard sensors to build a model of the terrain. We also focus on robustly handling external disturbance. Our goal is to tackle increasingly more difficult walking challenges.”

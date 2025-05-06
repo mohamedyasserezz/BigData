@@ -1,0 +1,29 @@
+Microsoft updates Outlook for iOS with Sunrise-inspired features
+
+Following Microsoft’sacquisitionand today’sshutdownofthe beloved mobile calendaring application Sunrise, the companyannouncedthis morning an upgraded Outlook application which now features Bing map integrations, event icons, plus something it’s calling “Interesting Calendars,” and other new features – many of which were inspired by Sunrise, and its unique design.
+
+“Interesting Calendars” were previously introduced on Outlook on the web earlier this month for Office 365 and new Outlook.com accounts. Now, it’s expanding to mobile.
+
+The addition will allow Outlook mobile users to subscribe to various event calendars – like those for sports teams, or TV shows, and more.
+
+These new calendars are available in the Outlook app for iOS, with an Android launch to follow. It also currently requires users to have an Office 365 email address, though people with Outlook.com emails will be able to use the new feature later this year, as will Gmail users, says Microsoft.
+
+In addition to the “Interesting Calendars,” Outlook will also now integrate with Bing Maps to help you plan where to meet and to locate your appointments.
+
+To use this option, you can start typing in the name of a location when you’re creating an event, and Outlook will update the event with a map. When it’s time for your meeting, you can then tap the map to be directed to the venue from your preferred mapping application.
+
+The new app will introduce new ways to help users schedule appointments, too – something Microsoft credits Sunrise for, in terms of the design of these new date and time pickers.
+
+Another Sunrise feature making an appearance in the new release is the debut of event icons. That means when you type in something like “coffee” or “lunch” when creating an event, those keywords will trigger a particular icon that matches the event to appear.
+
+This makes it easier to see, at a glance, what sort of meetings you have on your agenda for the day. Sunrise users will note there’s an expanded selection of these icon types, Microsoft says.
+
+Other improvements in the updated version of Outlook include the ability to edit recurring meetings from your mobile device (and soon, the ability to create recurring events), and the ability to create Skype for Business meetings. (Skype meetings integration was already supported, which lets users join calls just by tapping.)
+
+Microsoft notes that Skype for Business is only rolled out to 75% of the user base at the time being, but the remaining users should see the new option shortly.
+
+However, for Sunrise users, Outlook still falls short from what the startup had offered. For example, users can’t attach an iCloud account not associated with an iCloud email because Microsoft only looks for calendars that are associated with email accounts.
+
+The app is still missing many integrations, like TripIt, Eventbrite, ToDoList, and others. Facebook events aren’t yet displayed properly, as they will show up in your calendar even if you haven’t RSVP’d. Outlook is missing many Sunrise gestures, too, like swiping to switch to the week view – now you have to tap a few times, for instance.
+
+However, the company is encouraging users to request the features they want to see next via an in-app feedback option you can access to by going to Settings > Suggest a Feature in the new app.

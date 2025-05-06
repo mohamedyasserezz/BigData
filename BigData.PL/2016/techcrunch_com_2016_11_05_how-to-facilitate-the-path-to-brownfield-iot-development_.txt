@@ -1,0 +1,51 @@
+How to facilitate the path to brownfield IoT development
+
+As the Internet of Things (IoT) evolves toward becomingone of the fastest expanding sectorsin the tech industry, a lot of focus is being given to greenfield development, the process of creating new devices from scratch. Many companies and startups are rushing to ship new connected products to store shelves in order to secure a share of this growing market.
+
+Meanwhile, the greater potential lies in brownfield development, the integration of connectivity and data collection into things and designs that already exist. But unfortunately, because of the obstacles that lie in its path, brownfield IoT development is moving at a much slower pace than it should, which can effectively hold back the industry from leveraging its enormous possibilities and present potential challenges and difficulties for the IoT industry as a whole.
+
+Greenfield development is conceptually easier than brownfield, which is why it is being embraced by so many IoT adopters and manufacturers. “You have a clean sheet of paper, you can design from scratch, and pick whatever tools you want to build your product,” says Joe Britt, CEO ofAfero.
+
+Greenfield manifests itself in the flood of new connected gadgets and devices that are being shipped to store shelves andput on display in consumer electronics shows. Because for the most part, these products and their manufacturers have no precedence, there are no constraints, limits or predefined parameters in their development and production.
+
+The same can’t be said of the well-established product categories and manufacturers, which already have production lines that have been working and evolving for years and decades. “For example, air conditioners are typically produced by established manufacturers,” says Britt. “A given manufacturer will have been building different models for years, and will have a number of proprietary internal designs (or chassis) to draw upon when a new model is needed.”
+
+Such a manufacturer will want newer models to draw from the legacy chassis as much as possible, in order to shorten development time and leverage investment already made in previous iterations. Modifications will be much easier to make for the design teams because past QA and testing efforts are at their disposal.
+
+The same applies to Industrial IoT (IIoT), in which you must deal with a lot of machinery and infrastructure that already exists, such as roads, bridges, buildings, factories, power plants, oil rigs, etc. where replacements can cost millions of dollars.
+
+That is why established manufacturers are more inclined toward incremental development and the desire to change as little as possible. “The manufacturer will prefer to find a solution which is additive rather than one which requires the replacement of core subsystems of the design,” Britt explains. “Established product developers that want to make their current production lines ‘smart’ don’t want to throw away all that IP and start from scratch — it’s too valuable.”
+
+Brownfield developers inherit hardware, embedded software and tool decisions that limit the flexibility of their design and development process. Many of those legacy components were made before the age of the internet, or weren’t designed with connectivity in mind, which makes the transition to IoT even more challenging.
+
+And, perhaps more importantly, most of these manufacturers don’t have the know-how and experience to develop for connected environments, and often overlook veryimportant issues that go beyond connectivity, including security,scalabilityandinteroperability.
+
+“To achieve success in brownfield development, IoT companies will need to provide an easy, reliable solution that doesn’t intrude upon the design of the product,” Britt adds.
+
+Developers need tools, platforms and standards that enable them to securely and efficiently connect their products to the cloud without the need to rely on proprietary resources.
+
+Britt underlines the need for an end-to-end platform that takes care of the hardware and software underpinnings of IoT connectivity, security and interoperability, so that developers can focus on the core functionality of their products without the need to reinvent the wheel. This is an approach that can benefit both greenfield and brownfield development processes and help unify the currently dispersed and fragmented IoT landscape.
+
+This is the vision behind Afero’s namesake IoT platform, which constitutes a set of desktop and mobile apps, hardware, development tools, connectivity modules and cloud services and APIs with which the components of an IoT ecosystem can be defined, identified, monitored and interconnected. As Britt explains it, the idea is to “boil down concepts into high-level building blocks that any developer or enthusiast can immediately use.”
+
+Afero is afairly new platform and company, coming out of stealth in late 2015, but it has alreadymanaged to secure $20.3 millionin a new round of funding within a few months of its launch. According to Britt, Afero has partnered with companies to use its flagship platform in a number of greenfield and brownfield IoT projects, ranging from connected toys and medical devices to detecting water leaks and sensing buildings and infrastructure.
+
+While holistic platforms will pave the way for easier brownfield IoT development, provisions also need to be made to integrate support for open standards in order to make possible interoperability and coexistence between different platforms and devices.
+
+IBM Watson IoTis one of the companies that is taking strides in this field, encouraging and helping industries to adopt open standards, especially in the field of Industrial and Enterprise IoT. “In some industries, manufacturers are building things for IoT and we help them to consider open standards and interfaces and to create new ways to interact with their things,” says Bret Greenstein, vice president at IBM Watson IoT.
+
+One of the ways IBM helps integration is throughNode-RED, a visual wiring tool for IoT. Node-RED helps bridge the gap between conflicting, non-compatible IoT ecosystems by providing a visual interface that connects different protocols, clouds and platforms. And as an open-source project, it is being constantly extended by the IoT community to support more standards.
+
+“I think that truly open, no-cost standards and open-source technologies that are managed by the community without the risk of a company asserting control are the only way that they become widely adopted and interoperable,” Greenstein says.
+
+Openness also needs to be integrated at the connection and component level. “The initial challenge for many brownfield environments is simply getting connected,” says John Marshall, senior vice president atLILEE Systems, a company that provides fog computing gateways. “Finding effective ways to connect devices to one another, to a gateway, to the network or cloud, all require interconnections that will allow communications to relay from one operating environment to another.”
+
+When developing brownfield IIoT solutions, platforms and tools need to be flexible to adapt and connect components at different levels, including physical devices, I/O systems, control systems and supervisory controls. However, the problem is that the technology is very fragmented. “Each automation company has their own set of protocols, which are proprietary but available to partners,” Marshall says.
+
+As Marshall further explains, some systems such as security panels can be replaced with new devices that support internet and cloud connections, while others are not replaceable and need the installation of a translation layer to adapt with the underlying protocol. “Which is why open, standards-based networking is the formula for success when you want to bridge from legacy environments,” he underlines.
+
+LILEE’s architecture promotes open standards across its gateway and cloud services in order to facilitate peer-to-peer communications. Devices that support a fog standard can register and send messages, and other devices can subscribe to those messages, regardless of their differences in protocol and transport methods. “The key for deploying brownfield solutions is to look for open standards solutions that will open up the potential of the legacy investment and allow room for ongoing future growth,” Marshall says.
+
+IBM’s Greenstein says, “We need the industry to join together over this.”
+
+If there’s a lesson to be learned, it is that IoT development — both greenfield and brownfield — needs a joint effort among the creators and adopters of devices, protocols, standards and providers in order to facilitate the work of developers and to provision for the future of the industry. This is how, Afero’s Joe Britt says, IoT manufacturers can make sure their products can “remain relevant and competitive for decades to come.”

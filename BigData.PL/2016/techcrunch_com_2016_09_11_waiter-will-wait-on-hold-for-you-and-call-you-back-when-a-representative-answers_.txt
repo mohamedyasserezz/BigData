@@ -1,0 +1,17 @@
+Waiter will wait on hold for you and call you back when a representative answers
+
+Everyone knows waiting on hold for a representative sucks, and only a few companies have systems that will call you back when a representative is ready.
+
+The result is hours wasted and very often you’ll forget you’re on hold and the representative will hang up, or your call will  just drop altogether – both of which lose your place in line.
+
+So today at the Disrupt SF Hackathon developersAng LiandJiang Chen, madeWaiter, an AI robot to wait on hold for you.
+
+Here’s how it works:
+
+You first call Waiter’s dedicated phone number, which prompts you to dial in the customer service line. The service then creates a conference call between you, the company that has you on hold, and a robot that will wait on the line for you.
+
+After you do the initial prompts yourself (like enter your account number, etc) you can hang up, and Waiter’s robot will stay on the line with the company that has you on hold.
+
+Waiter then starts repeating “hello can you hear me” over and over again, and as soon as it detects a response from a representative (like yes, hello or how are you), it tells the representative to hold on a moment and dials you in.The developers likened their “hello can you hear me” prompt to a pseudo-Turing test. This ensures that Waiter only dials back in the user when an actual representative comes on the line. If it just listened for any voice it could accidentally interpret hold music or an advertisement as a representative and dial the user back in too early.
+
+The entire service was built using Twilio using mainly their conference call and voice recognition APIs.Waiter is on GitHub(and was written in Python) so you can roll out your own version today, but the developers also plan on making a paid version hosted on their own servers.

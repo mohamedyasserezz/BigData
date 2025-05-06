@@ -1,0 +1,15 @@
+You can use encrypted chat app Signal on desktop now
+
+Signal, the encrypted chat app powered by Open Whisper Systems, is finally available as a desktop app.
+
+The free app, which has earned praise from Edward Snowden and security experts like Matt Green and Bruce Schneier for its tough encryption, has long been available for iPhone and Android users.  (Signal’s cryptography is also used in many popular messaging apps, includingFacebook MessengerandWhatsApp.) But Signal wasn’t available on desktop, which presented a pain point for users who want to seamlessly check their texts across mobile and desktop devices.
+
+Signal rolled out desktop support for Android users in April and today added support for iOS users. Signal will now allow all users to link their mobile accounts to a desktop app, so they can receive their messages on two devices. All iOS users have to do is update Signal on their phones, download the desktop version atsignal.org/desktopand scan a QR code to link the new device.
+
+“It works pretty seamlessly, you just authorize a desktop app from your phone. Then you can send and receive messages from your phone or the desktop,” Signal’s lead developer Moxie Marlinspike told TechCrunch.
+
+Adding desktop support for encrypted chat apps can be tricky because your decryption key needs to be stored safely across your devices. But that presents a challenge — how do you shuffle this key around to all your devices without decreasing your security?
+
+Apple solved the challenge for iMessage by using unique keys for every device andsending your messages to each device in duplicate. Marlinspike says the solution for Signal is complicated, but that users will keep the same identity key on all their devices. “There’s an identity key in Signal. When you link or approve a desktop install, that gets moved to the desktop. All your clients have access to that, which allows for your identity or fingerprint to be the same,” he explained.
+
+This post has been updated with comments from Moxie Marlinspike.

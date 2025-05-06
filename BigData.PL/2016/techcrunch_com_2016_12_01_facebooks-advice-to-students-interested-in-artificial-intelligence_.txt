@@ -1,0 +1,19 @@
+Facebook’s advice to students interested in artificial intelligence
+
+Math. Math. Oh and perhaps some more math.
+
+That’s the gist of the advice to students interested in AI from Facebook’s Yann LeCun and Joaquin Quiñonero Candela   who run the company’s Artificial Intelligence Lab and Applied Machine Learning group respectively.
+
+Tech companies often advocate STEM (science, technology, engineering and math), but today’s tips are particularly pointed. The pair specifically note that students shouldeat their vegetablestake Calc I, Calc II, Calc III, Linear Algebra, Probability and Statistics as early as possible.
+
+From this list, probability and statistics are perhaps the most interesting. From what I remember about high-school, those two subjects are regularly dismissed as too-obvious strategies for skirting the informal AP Calculus preference of top colleges and universities (AP Statistics is often thought of as a cop-out by students).
+
+If differential equations represents the electricity that powers machine learning, statistics represents the gears of the machine itself — as the company touches on in a series of AI explainer videos we linked to at the bottom of this post.
+
+To be fair, LeCun and Candela are most likely addressing the college crowd, though its important to consider incentives across all levels of education. Simply,we all could probably use some more statistics in our lives.Beyond math, the two saymore mathengineering, computer science, economics and neuroscience are also important subjects in today’s economy. How else would a fledgling machine learning student learn to leverage neuroeconomics and cognitive bias to target ads?
+
+The pair alsopoint to philosophyas a necessary prerequisite to understanding knowledge and learning. Amidst all thetalk of News Feed bias, it’s important to remember that there is a human behind every application of machine learning. We don’t yet knowhow to escape the black box problem, but we do know that it will be humans working to figure it out and it would sure help if those humans understood how learning works before they start manipulating data.
+
+Lastly, Facebook turns its attention to the actual mechanics of getting a job in the field of machine learning. Most of these tips are self-explanatory: find a professor to work with, consider working with PhD students who have more time on their hands and try to secure an industry-focused internship regardless of your future aspirations to understand how AI works in the real world.
+
+When applying to PhD programs the two note that being able to identify a professor you want to work with is far more important than program ranking. Once there, students should work to address a specific problem and try to release a piece of open source code before all is said and done.

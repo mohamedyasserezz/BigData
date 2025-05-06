@@ -1,0 +1,13 @@
+SuperAwesome’s PopJam Platform lets developers add kid-friendly social feed to apps
+
+WhenSuperAwesomeacquired Mind Candy’s PopJam — a sort of ‘Instagram for kids’ —last year, the stated plan was to marry SuperAwesome’s expertise and reach in kid-friendly advertising with PopJam’s growing user base of kids and brands in order to monetize the app. But actually the vision that SuperAwesome founder Dylan Collins had for PopJam was much bigger.
+
+Rather than think of it as simply an app or, given Mind Candy’s games studio legacy, a single gaming title, he saw an opportunity to turn PopJam into a platform, something akin to Facebook’s early Social Graph efforts, except focused on under-13s and with child safety baked in. The beta version of PopJam Platform is being announced publicly today.
+
+“[It’s] the first kid-safe social API,” Collins tells me. “Platform allows PopJam’s kid-safe social environment, which was previously restricted to the app, to exist on kids’ websites and apps everywhere. Nobody has done this before”.
+
+As it stands, the PopJam app offers what SuperAwesome’s CEO calls a kid-safe, COPPA-compliant alternative to social media platforms such as Instagram and Snapchat. It lets kids engage with their favourite brands, including Disney, Nintendo, Hasbro, Penguin, and Rovio, to discover new content, as well as do things like ‘heart’, comment and share posts, and use PopJam’s art tools to create and share their own creations and re-mix existing content.
+
+By adopting the PopJam Platform, that functionality can now reside in a third-party website or app. Developers simply embed a customised PopJam social content feed, which also has the option to include COPPA-compliant ads via the company’s AwesomeAds platform.
+
+In addition, the PopJam Platform offers a COPPA-compliant video player, allowing embedded video and kid-safe live game-streaming. In comparison, embedded YouTube videos are not COPPA-compliant, says the company.

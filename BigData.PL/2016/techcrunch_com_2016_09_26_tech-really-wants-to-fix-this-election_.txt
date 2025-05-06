@@ -1,0 +1,49 @@
+Tech really wants to fix this election
+
+With just 42 days left until the election, it’s crunch time for anyone who hasn’t registered to vote. The deadlines to register in most states fall throughout October, with only a few states allowing in-person registration on the day of the election.
+
+The process can be confusing, and it’s one that tech companies fromGoogleall the way down to small startups like Sam Altman’s VotePlz, which launched a million dollar registration sweepstakes today, are trying to tackle.
+
+New tech-backed voting initiatives seem to be popping up every day, and, although most claim to be nonpartisan, it’s clear that Donald Trump’s unusual campaign has ignited investors and pushed them to act.
+
+There’s Hunter Walk’sTake Off Election Dayand Spotify’s new “Clarify” podcast series, CRV’sFuck Trump announcementthat offers visa coverage for immigrant founders and Reid Hoffman’sTrumped Up Cards.
+
+On the other side of the Valley’s political divide, Trump hasdrawn support from Oculus founder Palmer Luckey, who financed the alt-right organization Nimble America but later claimed he would vote for Libertarian candidate Gary Johnson.
+
+It’s clear that Silicon Valley is ready to spend on this election, whether by making big-dollar donations or by backing voter-registration initiatives. But it’s not certain how much impact competing VC-funded registration apps and initiatives will have on getting their (typically millennial) target audiences.
+
+“I think that this is a particularly good use of capital,” Altman told TechCrunch of his investment inVotePlz, a site launched earlier this month to help millennials register to vote.
+
+I think that this is a particularly good use of capitalSam Altman, founder VotePlz
+
+VotePlz lets people check their voter registration status online, helps them register by guiding them through the online registration process or printing and mailing the registration form in states that require registration-by-mail, and gamifies the entire process with aleaderboardthat tracks how many friends have been referred by individual users.
+
+Altman has made donations to political campaigns in the past, but says he hasn’t given money to the Clinton or Trump campaigns this season.
+
+Altman and his VotePlz co-founders, Fouad Matin, Erika Reinhardt, and Ari Weinstein, are all new to the political work of voter registration. Why put money into a voter registration effort of their own, instead of donating to a more experienced organization, or their preferred presidential candidate?
+
+“I wouldn’t rule out donating to other organizations. I have donated to Vote.org. I would say I’m pretty focused on this idea for right now that getting out the vote is really important and has a high ROI for this election,”Altman explained.
+
+In addition to the leaderboards, VotePlz is adding a sweepstakes element to its platform. Twenty U.S. residents will win $50,000 to spend on student debt forgiveness or college tuition, or walk away with $25,000 in cash. All they have to do is check their voter registration through VotePlz, and then refer friends through their unique referral link (they can refer up to 25 other people). The entry deadline is November 2.
+
+The sweepstakes, like the leaderboard, is intended to exert social pressure to drive registration.
+
+“We talked a lot of voter registration groups to see what worked and what hasn’t. One thing that outperformed everything else was some angle on the social pressure,” Weinstein said. “It hasn’t really been done online.”
+
+VotePlz aims to change that. The team is also experimenting with other features to ease the difficulty of voting — Reinhardt suggested a ride-sharing partnership to help get voters to the polls on Election Day, or a chatbot to walk new voters through the registration process.
+
+In terms of candidate or party you support, this election has gotten a lot of attention… But with millennials, there is this interesting disenfranchisement.Sam Altman, founder VotePlz
+
+If and when these features will be added is an open question. But Altman expects VotePlz to raise “in the single-digit millions” and says that the project will help combat both the apathy and technical hurdles that prevent millennials from voting.
+
+“This is a significant problem with very little time on the clock,” Altman said. “In terms of candidate or party you support, this election has gotten a lot of attention. People are really excited about it. But with millennials, there is this interesting disenfranchisement. The deck is stacked against them and trying to vote in some states — it’s almost like they made it impossible. the way we can contribute is by building software and making it work well.”
+
+VotePlz isn’t the only group that’s mulling voter registration via chatbot. The digital advocacy organization Fight For the Future launched a registration chatbot last week calledHelloVotewith backing from several tech companies, including Genius, Twilio, and Automattic. The bot lets voters register via SMS (text 384-387) or Facebook Messenger (go to m.me/hellovote in Messenger) and the entire process takes only a minute.
+
+HelloVote, like VotePlz, isn’t just taking online registrations — for users in one of the 19 states where mail-in registration is required, HelloVote will print and mail registration forms.
+
+“Democracy depends on participation, and technology has the power to significantly reduce barriers that have traditionally stopped people from voting,” Twilio vice president of product management Patrick Malatack said in a statement. “HelloVote is a great example of how communications can make any user experience more efficient.”
+
+And while tech is primarily focused on voter registration for this election, some industry leaders are considering making the idea of mobile voting a reality. Bradley Tusk, who said he felt “forced” to vote for Hillary Clinton this year because of Trump’s haphazard policy stances,told our audience at Disrupt SFthat he’d offer funding and political support to startups that bring the voting process to mobile phones.
+
+““This is probably a decade-long process to finally get there, but once we do, that’s the best solution to a lot of the dysfunction in our political system,” he said.

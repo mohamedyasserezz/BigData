@@ -1,0 +1,23 @@
+‘Come for the tool, stay for the network’ is wrong
+
+For the past few years, “Come for the tool, stay for the network” has been in vogue as a theory of consumer startup product development. Chris Dixon’sJanuary 2015 postpopularized the idea*, and it’sfrequently cited in industry discussionsand by investors.
+
+Why does this idea have so much appeal? There are several reasons:
+
+But as I’ve spent more time around consumer products, I’ve come to the view that this theory is overstated and over-relied upon by entrepreneurs and investors.
+
+Many consumer product startups have tried the tool-then-network approach, but it’s difficult to think of any big successes. Building a social product is almost always more challenging than building a great single-player tool, and if your initial product doesn’t include crucial, integrated social functionality, you probably won’t succeed in building a strong network down the road; you’ll either fail altogether, or at best build a weak network.
+
+Internet system design is extremely difficult; only a handful of founders/teams have pulled it off over the past 10-15 years. Every great consumer social product started as a network with important social functionality included from the start: Facebook, Twitter, Instagram, Snapchat, LinkedIn, WhatsApp, Quora, Gmail, Yelp, Wikipedia, Pinterest — social/networking features defined these products from Day 1.
+
+Proponents of the “Come for the tool, stay for the network” theory sometimes indulge in revisionist product history. “Instagram started as a photo filter tool” — wrong; sharing and following was critical from the beginning. “Facebook started as a digital student directory” — wrong; the social friend-to-friend network was key from the start.
+
+And it’s not just startups that have relied on the tool→network hypothesis. Google (many examples; e.g. Buzz), Apple (Ping) and Dropbox (Carousel) have all tried to build networks after-the-fact, without much success. And Microsoft hasn’t been able to build any consumer network products starting with their massive base of Office and Windows users. So even with a huge number of users who love your software/service, that doesn’t mean you’ll be able to connect them into a network.
+
+Counter-examples (i.e. where companies have turned good tools into good networks)? There are some, but it’s hard to think of cases where really strong networks were built:Imgur, certain fitness tracking apps,Kindle/Goodreads,Zyngagames (the network enables leader boards and trading, but, ultimately, when the game gets old, people stop playing it, despite the network). Also perhapsMedium— it’s a very good blogging tool with a good community; but whether it’s a strong network remains unclear, given the level and value of social interactivity.
+
+Many failures and disappointments in consumer interactive technology occur because founders/investors believe that a valuable, scalable network is just a short jump from a great tool.
+
+And building a great network does matter — a lot — in establishing a sustainable competitive advantage. You could argue that in the modern history of consumer tech products, the only products that have built a defensible advantage without establishing a network were backed by extraordinary institutional knowledge/resources — e.g. Apple’s hardware, Google’s ranking, YouTube’s database of nearly every video ever made post-internet (and even YouTube is coming under nontrivial pressure from Facebook these days), etc. Everything else in consumer technology seems to reduce to perfect competition if the market is valuable enough for anyone to care.
+
+*Andrew Chen made a similar point in his March 2014post.

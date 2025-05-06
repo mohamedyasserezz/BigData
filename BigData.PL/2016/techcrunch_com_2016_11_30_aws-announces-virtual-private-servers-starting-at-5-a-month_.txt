@@ -1,0 +1,13 @@
+AWS announces virtual private servers starting at $5 a month
+
+AWS fired a shot across Digital Ocean’s bow this morning at the AWS re:Invent conference when it announced new virtual private servers starting at just $5 a month.
+
+The VPS service, called Lightsail, allows a customer to easily fire up a server in the cloud for a low price and hide the complexity of the underlying services being used. It’s been designed, according to AWS CEO Andy Jassy, to let customers who don’t want to deal with any of the technical details to fire up servers as needed.
+
+According to Jassy, it’s just a matter of choosing from a menu of options, starting with your choice of operating system such as Ubuntu, then choosing from five pre-defined bundles that include the compute, storage, memory and so forth you want to run on your VPS. Finally, you just give it a name and you’re good to go.
+
+It handles all of the technical details, such as launching the virtual machine, attaching the storage, setting up security groups and so forth — removing a huge barrier to entry for less-technical users.
+
+Dan Scholnick, a partner at Trinity Ventures, says this announcement shows AWS is moving into a variety of markets. “They are ferociously protective of their turf and are moving aggressively to shore up any part of their business that might be vulnerable to competitors. In recent years there has been a lot of talk of Amazon’s move into the enterprise. With this announcement, they are defending their flank and the original core of their business, which is to serve developers with low cost products,” Scholnick told TechCrunch.
+
+For companies, departments or even individuals looking to launch servers quickly without fuss, this removes layers of complexity. It won’t be for everyone. Certainly folks who have a technical background, and have more specific requirements, will want more control over their choices, but for those people looking for speed and simplicity, this product group should be a great match, especially given the potentially low startup costs.

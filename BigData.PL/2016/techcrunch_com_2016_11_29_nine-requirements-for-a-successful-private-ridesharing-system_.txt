@@ -1,0 +1,19 @@
+Nine requirements for a successful private ridesharing system
+
+The future of urban mobility is rapidly changing as drivers look for safer and more effortless ways to move from point A to point B. While autonomous vehicles are on the horizon, ridesharing options are expanding beyond Uber and Lyft to incorporate drivers of single-occupancy cars to accept other riders on their commutes.
+
+Especially in urban areas, there are a lot of factors that detract from this option: cost, parking and convenience. Experience and research have proven that public transportation doesn’t work for everyone, and even for the people who participate, conditions are often less than ideal.
+
+The alternatives started with Uber and Lyft, but now those ridesharing services are becoming more and more saturated. It’s also simply too expensive for employees with long commutes to take advantage of current ridesharing services, even if they’re pooled with multiple people in the car.
+
+This brings us to the new mobility frontier: getting drivers of single-occupancy cars to accept rides from other people along their commute. Of course, the idea of carpooling is not a new one. But the idea of using technology to enable carpooling is.
+
+I’ve spent the past four years here atPARCstudying user needs in the area of mobility. Most recently, I’ve focused my attention on the concept of private ridesharing — specifically carpooling — as I work with our development team, pilot-testing Xerox’s mobility solutions in Los Angeles and Denver.
+
+I’ve talked with transit riders in both cities to understand their needs, and I’m now working with our team to conceptualize how our solution might best address the untapped carpooling market.
+
+Recently, three different carpooling offerings have been piloted in the Bay Area, too. I’ve simultaneously spent the last two months gaining a deeper understanding into what it’s like to be a carpool driver. I’ve participated in carpooling activities by accepting riders through three different companies in the Bay Area.
+
+And based on my research, I’ve developed a set of requirements that a carpooling offering will need to incorporate in order to be successful.
+
+This is an exciting time for mobility. We’re launching into an era where we’ll have multiple affordable options for daily transport. As we research adding private ridesharing to our mobility solution, we stand to create one of the first one-stop shopping experiences that are meticulously thought through.

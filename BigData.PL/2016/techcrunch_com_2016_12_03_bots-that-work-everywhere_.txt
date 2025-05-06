@@ -1,0 +1,23 @@
+Bots that work everywhere
+
+Bots made big headlines in 2016. They’ve been hailed variously as the future of commerce and a revolution in customer service. It seems likely that, just as the web and the cell phone once did, the messaging interface will transform how we interact with the world around us.
+
+To do so, however, the bot community must tackle head-on the same issues of interoperability and cross-platform standards that plagued the early days of the web and the cell phone industry.
+
+We take it for granted that we can view any website using any browser, and we can send SMS messages to any friend regardless of their phone carrier. It wasn’t always this way, and it wasn’t that long ago. Twenty years ago, it was common for Netscape users to be blocked by an “optimized for Internet Explorer” icon.
+
+Similarly, there was a time when a Verizon customer and an AT&T customer could only text with friends on the same network, but not with each other. American Idol even had to display two numbers for voting by text: one for Verizon customers, and one for AT&T.
+
+Two decades on, it’s tempting to assume that these “walled gardens” — to use a phrase first used to describe the likes of CompuServe and AOL — have been consigned to the history books.
+
+Not so.
+
+Today, in 2016, you can only communicate with Domino’s Pizza on Facebook Messenger. You can only chat with H&M on Kik. You can only use Troops on Slack, not HipChat. The walled gardens are back.
+
+The concept of a “Facebook bot” or a “Slack app” doesn’t make any more sense than a website “optimized for Internet Explorer” or “optimized for Netscape.”
+
+Why does this matter? Tens of millions of users of enterprise messaging platforms like HipChat, Flowdock or Microsoft Teams are unable to make use of Slack’s rich ecosystem of third-party integrations. Similarly, hundreds of enterprise bot developers need to rebuild their bots if they want to reach new customers on Cisco Spark or Salesforce Chatter. The same is true in the consumer space.
+
+There is reason to be optimistic for developers who want to “build once, and deploy everywhere.” Gates in the walled gardens have started to emerge in the form of APIs. Industry groups such asBotness,backed by Slack and Microsoft, are forming working groups to discuss common standards. As a result, the API and UI variations between platforms are starting to converge.Companies such as Sameroom and Slackline are beginning to connect these APIs to create a more unified messaging system.
+
+Here’s the good news: If you look back through human history, every communication technology that has survived (e.g. postal mail, telephone, email and the web) has trended toward interoperability. There’s no reason to think bots/messaging will be any different.

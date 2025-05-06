@@ -1,0 +1,75 @@
+DeepMind’s first NHS health app faces more regulatory bumps
+
+It’s fair to say that Google-owned AI companyDeepMind’s big push into the health spacevia data-access collaborations with the UK’s National Health Service — announced with much fanfare in February this year — has not been running entirely smoothly so far.
+
+But there are more regulatory bumps in the road ahead for DeepMind Health.
+
+TechCrunch has learned the company won’t continue using one of the apps it co-designed with the NHS until the software has been registered as a medical device with the relevant regulatory body, theMHRA.
+
+That’s especially interesting given that this app, called Streams, has already been used for patient care in multiple NHS hospitals. The Royal Free NHS Trust previously told TechCrunch the app had been used by up to six of its clinicians in three “user tests” in its London hospitals.
+
+Which, put another way, means a profit-driven commercial entity has been involved in a real-world test of an unregistered medical device on actual hospital patients.
+
+AsTechCrunch previously reported, the Royal Free Trust stopped using the app in question inMay, in the wake of another controversy pertaining to its DeepMind collaboration. At that point we learned the pair were contacted by the MHRA to discuss whether the app should be registered as a medical device.
+
+A spokesman for the MHRA told TechCrunch at the time that regulatory compliance is helped by parties pro-actively having “a discussion” before going ahead with tests — something which did not happen in the DeepMind/Royal Free case.
+
+It has now emerged that the upshot of those after-the-fact discussions is DeepMind believes it does need to register the app.
+
+A spokesman for the regulator told TechCrunch: “MHRA understands that the Streams software is based on the NHS England AKI algorithm and is likely to be a class I medical device.
+
+“As a class 1 device it is subject to self-declaration. The manufacturer of the device must hold all relevant test and validation data [including for software]  to support the intended purpose for the device. The Competent Authorities within the EU (MHRA in the UK) can request to review all documentation pertaining to the device at any time.”
+
+Announcing a second collaboration with another NHS Trustearlier this month, DeepMind’s co-founder Mustafa Suleyman took toMediumto write how treating NHS health data with respect “really matters”.
+
+He went on to note: “There are different authorities that give different types of approvals and oversight for NHS data use:HSCIC,HRA,MHRA,ICO,Caldicott Guardians, and many, many more. We’re committed to working with all these groups, and making sure with their help that we get it right.”
+
+Evidently DeepMind is going to need to rethink its modus operandi vis-a-vis pro-actively contacting the relevant healthcare regulators before it accelerates ahead with any more “user tests” powered by NHS data-sets.
+
+Commenting on the latest development in its discussions with the MHRA, a DeepMind spokesperson told TechCrunch:“We’re still developing the prototype for the Streams app at this stage. We will of course ensure that it complies with all the applicable EU and UK medical device legislation before it is finalised, and we’re currently working with the MHRA on that basis. We would only place the Streams app on the market as a medical device after it had been fully certified, CE-marked and registered.”
+
+“DeepMind is currently working with the MHRA to ensure that the device complies with all relevant medical device legislation before it is placed on the market,” a Royal Free spokesman added.
+
+He confirmed the Trust remains “committed” to the app, although there is no word on when it might be used next.
+
+At the time of publication the spokesman had also declined to confirm to TechCrunch how many patients the app was used on during those three “user tests” — so it’s impossible to verify the scope of the tests.
+
+Both the Royal Free and DeepMind have maintained they have not yet run a clinical trial of the app in question, nor conducted a full on-the-market deployment — both of which would likely require them to first gain additional regulatory approvals.
+
+But the question remains: at what point does a user test become a clinical trial? And without knowing the number of patients involved in these “user tests” how can we judge? The onus is therefore on the Royal Free to disclose that figure.
+
+DeepMind’s first NHS collaboration, also with the Royal Free, alsogarnered early controversywhen it emerged how extensive the data-sharing agreement between the two parties is.
+
+Under a very broad data-sharing agreement, which includes five years of historical hospital inpatient data, DeepMind gains access to potentially millions of NHS patients’ identifiable medical records — and all without asking for patient consent to use their data.
+
+The scope of the data-sharing arrangement has been criticized by health data privacy groups such as MedConfidential, which has questioned why DeepMind is being provided with so much identifiable patient data.
+
+The app in question aims to speed up the identification of a condition called acute kidney injury, and the pair claim they need a wide range of patient data for it to function for this. Yet Caldicott Guidelines do appear to suggest that targeting a condition affecting groups of patients would be considered ‘indirect care’, rather than the ‘direct care’ relationship needed to rely on implied consent to access patient identifiable data.
+
+Another DeepMind NHS collaboration, with Moorfields Eye Hospital in London, does not involve patient identifiable data — although the nature of the data being shared (detailed biometric eye scans) means it would hardly be impossible to link scans to individuals should there be a data leak.
+
+In that instance around one million eye scans are being shared with DeepMind which will use the data to feed machine learning models in the hopes of being able to develop algorithms that can accelerate the identification of particular eye conditions.
+
+While DeepMind is not currently charging the NHS for the work it’s doing in any of its publicly announced collaborations, it has confirmed it does intend to monetize the tools and systems it is building in future — and has also said it is exploring possible payment models based on performance outcomes.
+
+Suleyman recently told theBBC: “Right now it is about building the tools and systems that are useful and once users are engaged then we can figure out how to monetise them.
+
+“The vast majority of payments made to suppliers in healthcare systems are not often as connected to outcomes as we would like.
+
+“Ultimately we want to get paid when we deliver concrete clinical benefits. We want to get paid to change the system and improve patient outcomes.”
+
+So the reality is that the publicly funded NHS is freely providing health data-sets to a company that is using them to train machine learning models which, should they prove successful, could be used to bill the NHS in future — based on these trained models being more effective than alternative care options.
+
+At present the Royal Free collaboration does not involve DeepMind applying AI to the data it is getting. But the pair have awide-ranging memorandum of understandingin which DeepMind states its ambition to do so within the five-year initial timespan of the partnership.
+
+Clearly the company has been moving very quickly in the health sector — and rather more quickly than certain NHS regulatory bodies would prefer.
+
+(An ICO probe following criticism of the data-sharing arrangement between DeepMind and the Royal Free also remains “ongoing”, according to a spokeswoman.)
+
+Given the accelerating pace of AI here,as I’ve said before, speed really is of the essence for the public to have a robust discussion about the rights and wrongs of handing profit-driven entities free access to publicly funded data-sets.
+
+The reality is that very valuable publicly funded data-sets are being freely handed over to train AI models that might well in future be charging the same NHS for their services.
+
+So the question remains whether we are comfortable with a freemium commercial model being leveraged to acquire advantageous access to taxpayer-funded data-sets.
+
+And, ultimately, what is the true cost of free?

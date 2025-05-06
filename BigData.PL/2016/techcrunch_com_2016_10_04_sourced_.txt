@@ -1,0 +1,15 @@
+Source{d}, a Spanish startup using AI to match developers to jobs, raises $6M
+
+Source{d}provides an interesting use-case for AI. The Spain-headquartered startup, which today is announcing $6 million in Series A funding, is using deep learning to help startups and larger companies recruit developers. Specifically, its AI tech is analysing the code of millions of developers via their open source contributions in order to match them to appropriate job openings.
+
+“We use this analysis to understand how good they are at any given language and framework and match them with companies looking for developers,” is how Source{d} co-founder and COO Jorge Schnura explains it.
+
+He also says it isn’t just about identifying code quality or a developer’s ability, but also coding style and other nuances that differentiates one developer from another. And it’s this aspect that benefits from a “deep neural network” approach.
+
+“We can [find] people who are similar to your team,” adds Schnura. “This is all unsupervised learning since we don’t tell our algorithms which features to look for, it defines them itself”.
+
+Meanwhile, the company, which is only in its second year of operation, say it’s already close to being profitable and on track to close the year something approaching €1 million in revenue. It claims 200 clients ranging from small to medium-sized startups, right up to a number of corporates.
+
+Backing Source{d}’s Series A round are three European investment funds: Xavier Niel’s own fund, Otium Venture, and Sunstone Capital. The company already has offices in Madrid and Berlin, and says the new capital will be used to expand to London, Paris, Stockholm, Amsterdam, New York, Boston and San Francisco.
+
+It also plans to further develop its product, including applying its AI-driven analysis of code to other products aimed at developers, both free and paid-for. In other words, recruitment is just the start.

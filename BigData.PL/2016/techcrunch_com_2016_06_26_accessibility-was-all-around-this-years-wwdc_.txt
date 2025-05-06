@@ -1,0 +1,67 @@
+Accessibility was all around this year’s WWDC
+
+Fromthis year’s WWDC keynote, there was one overarching theme that emerged —  from watchOS 3’s conceptual simplification, to Siri coming to the Mac, to the “app store” in Messages, it became clear that Apple is focused on making its software more accessible than ever before.
+
+These features, among others, were built with the intent of giving users — and especially developers — greater access to Apple’s platforms and the apps users love. This underscores the idea that accessibility, conceptually, is much more than just the discrete “accessibility options for people with disabilities”. At its heart, accessibility is about just that: access.You don’t need to have a disability to benefit from it.
+
+At the same time, the accessibility community has tons to look forward to this fall. Across Apple’s four software platforms there are many new things to be excited about — like a new pronunciation editor in VoiceOver on iOS 10 and tvOS; and Taptic Time in watchOS 3, which uses Apple Watch’s haptic feedback to tell a VoiceOver user the time in environments where audio alerts are inappropriate, like in meetings.
+
+The purpose of any accessibility feature is to enable someone with a disability to partake in as much of the core experience as possible, which Apple has succeeded in doingwith aplomb.
+
+The difference this year is it seems Apple has put increased emphasis on a cohesive, consistent experience across its platforms.
+
+One great example is the new “Control other devices” option in the Switch Control menu on iOS. It’s a feature whereby someone can control their Apple TV (which supports Switch Control, new to tvOS) with their iPhone, provided both devices are signed into the same iCloud account and on the same Wi-Fi network.
+
+As I reported last year, Apple dedicates several sessions and labs to explain its new assistive technologies, suggest best practices for inclusive design, and help developers ensure their apps are accessible to everyone.
+
+That continued at Moscone this year, to be sure, but the vibe was different. Apple brought me back to WWDC again this year, and it felt like they put even more focus and energy into making accessibility a star attraction of the conference.
+
+There are three new accessibility features I believe will have the most impact.
+
+Wheelchair Fitness in watchOS 3. When Apple’s Director of Fitness & Health Technologies, Jay Blahnik, revealed the wheelchair-focused feature of the Activity app, it was a pleasant surprise.
+
+As Itweetedduring the event, this feature strikes me as the most Apple-y thing Apple announced. That the company went to such lengths to study wheelchair fitness, develop algorithms for measuring movement, and implement it into the watch is so quintessentially Apple.
+
+It’s also a testament to Apple’s seriousness at improving its health tech, something that’s a cornerstone of not only the Apple Watch but of the company’s ethos to create products that enrich people’s lives.
+
+From an accessibility perspective, what makes “wheelchair mode” so noteworthy is it opens up the watch to more people. It makes Apple Watch a more diverse and inclusive product (many wheelchair users may have previously felt the watch had limited appeal in terms of fitness tracking). Now, they can benefit from the watch’s Activity app like anyone else.
+
+Overall, “wheelchair mode” (and especially the “Time to roll!” notification) is an incredibly thoughtful addition to watchOS.
+
+Magnifier. In iOS 10, there is a magnifier option for iPhone and iPad. It uses the camera, along with filters and the LED flash for lighting, to magnify objects.<
+
+I got a hands-on briefing of the magnifier by folks from Apple, and it’s the feature I’m most looking forward to in iOS.
+
+In so many situations — reading medication labels or price tags in the grocery store, for instance—I struggle to read the information because the print is so small. I often use the flashlight on my phone to give me more light while reading, and the magnifier is going to be even more indispensable. And I’m sure I’m not the only one with low vision who’ll get lots of practical use from it.
+
+Software TTY. In iOS 10, Apple has added support for a software TTY feature so that someone who’s deaf can make and receive phone calls right from an iPhone. It obviates the need for astandalone teletypewriter device.
+
+Transcripts are saved in the Phone app, and there’s even a special keyboard that includes keys for TTY-based etiquette such as “GA”, or “Go Ahead,” which prompts readers that it’s okay to reply.
+
+This is a game-changer for the deaf and hard-of-hearing community. Aside from eliminating the need for extra hardware, Software TTY gives the deaf community another compelling reason—the other being FaceTime—to buy an iPhone.
+
+It makes the iPhone an even more viable communication tool for people who are deaf or hard-of-hearing. What’s more, it saveschildren of deaf adults(like me) from needing a real TTY to talk to loved ones, because the iPhone does it.
+
+WWDC 2016 marked the second straight year Apple recognized an app for not only superb design, but superbaccessibledesign.
+
+Last year’s winnerwasWorkflow.This year’s winnerin that category isdjay Pro, from German development studio Algoriddim.
+
+What’s special about djay Pro is the app is fully compatible with VoiceOver, despite the fact that the majority of the app uses custom user interface elements. This matters because apps that utilize standard UIKit controls get full VoiceOver support “for free.” That the folks at Algoriddim built their custom UIanddid the work to ensure labels and such are fully accessible is awesome.
+
+At a macro level, where Workflow’s VoiceOver support helps the blind and visually impaired be more productive, djay Pro helps them be more creative. You need not look any further thanthis year’s ADA ceremonyto see this in action, as a blind member of Apple’s Accessibility team, himself a DJ, demos djay Pro’s capabilities. (Skip to around the5:00mark.
+
+There are other apps, of course, but Workflow and djay Pro prove that for an app to have great design, it needs to have great accessible design to boot. Design and accessibility are not mutually exclusive, so it’s great to see Apple pushing the idea in sessions and recognize it with honors like its Design Awards.
+
+The newSwift Playgrounds app for iPaddeserves mention here because I think it best represents the abstract nature of accessibility.
+
+As Tim Cook said on stage, the sole purpose of Swift Playgrounds is to make coding accessible to everyone, particularly school-age children. But it isn’t only suitable for kids.Anyone, of any age, who has an interest in software developmentcan benefit from using Swift Playgrounds.
+
+Swift Playgrounds is Apple’s attempt to bring coding, at least on a basic level, to the masses. Cook also mentioned that software development should be a core part of schools’ curriculum, and the introduction of Swift Playgrounds is a push to get more people thinking about software development and computer science.
+
+In this context, then, Swift Playgrounds is all about accessibility. It’s Apple’s way of shepherding the next generation of developers by making a fun, easy to use tool that makes learning Swift easy and accessible.
+
+As I wrote at the outset, the vibe around WWDC exuded much enthusiasm for accessibility. From the sessions to deaf-blind accessibility & inclusion advocate Haben Girma’slunchtime presentationto an accessibility-centric party I attended mid-week, accessibility had a larger presence than ever this year. And that’s not countingiOS 10’s evolved design language, which is bound to have ramifications for the visually impaired.
+
+A big reason for the attention accessibility received, I think, is Apple’s ever-apparent evolution in Tim Cook’s image. Apple has been very socially conscious under Cook’s leadership (cf. the moment of silence at the start of the keynote for the tragedy in Orlando, FL), and their focus on accessibility at WWDC—andotheroccasions— are manifestations of that ideal.
+
+In WWDC’s case, so much revolved around accessibility in 2016 that I can’t wait to see what Apple is planning for 2017.

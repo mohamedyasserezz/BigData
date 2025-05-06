@@ -1,0 +1,15 @@
+Firefox will soon start blocking invisible Flash content
+
+Starting in August, Mozilla’s Firefox will block Flash content that “is not essential to the user experience,” the organization announced today.
+
+With this move, Mozilla is following Google’s lead, which made asimilar decisionlast year and nowplansto almost completely block Flash content in its Chrome browser.
+
+Not too long ago, Flash was one of the fundamental technologies of the web because it enabled developers to create rich user experiences in the browser that they couldn’t build in any other way. Now that modern web standards essentially enable the same features as Flash, though, the aging technology is becoming a drag on modern browsers. It’s responsible for security issues, reduced battery life and slow page loads.
+
+Mozilla says that for now, it will continue to support Flash and it defines non-essential content as Flash content that isn’t visible to the user. The organization is also curating a list of Flash content that can be replaced with HTML.
+
+Come 2017, Firefox will move to a “click-to-play” model for all Flash content, so users will have to explicitly allow the browser to activate the Flash plugin.
+
+“These changes are part of our ongoing efforts to make browsing safer and faster without sacrificing the Web experiences our users love,” Mozilla’s manager of Firefox quality engineering Benjamin Smedberg writes in today’s announcement.
+
+Interestingly, Mozilla doesn’t specifically talk about blocking Flash-based advertising, but thankfully, those ads are already becoming increasingly rare, in part because Google’s AdWords and DoubleClick networks have beenphasing outFlash support already.

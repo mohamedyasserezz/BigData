@@ -1,0 +1,17 @@
+The government body that oversees the security of voting systems was itself hacked
+
+The U.S. Election Assistance Commission, which is responsible for testing and certifying voting systems, among other things, was hacked around the time of the election,security outfit Recorded Future reports. The EAC confirmed a “potential intrusion” in a statement issued to TechCrunch.
+
+This isn’t a smoking gun for a stolen election or anything like that; the EAC doesn’t actually run the elections, nor does it handle voter information. But it is a shameful display all the same, especially considering how loudly and frequently the hacking threat has beenbruited by officialsthis year.
+
+Recorded Future heard early this month that the EAC had been hacked, and found someone they refer to as Rasputin (not the hacker’s real name or handle) trying to sell more than 100 logins to its systems. Some of those logins had full administrative privileges, and many had access to confidential testing plans and results for voting hardware around the country.
+
+In addition to logins, Rasputin was selling an open SQL injection vulnerability for the EAC’s internal website. The researchers notified the EAC and law enforcement and the issue was fixed, but it could have been exploited at any time up to its resolution.
+
+In its statement, the EAC said it was working with the FBI “to determine the source of this criminal activity.” I asked for more information on when and how the hack was detected, and will update this story if I hear back.
+
+Rasputin, as you might guess from his name, spoke Russian and may hail from that land, but there’s no reason to think this was a state-sponsored job —unlike, for instance, the DNC hack.
+
+The icing on the cake is that the EACpublished an editorial in The Washington Postthis October entitled “Don’t believe the hype. Foreign hackers will not choose the next president.” It’s entirely possible that foreign hackers were, at that very moment, present on the commission’s network.
+
+“We work with state and local officials across the country to identify and share best practices regarding cybersecurity, including information on testing systems, auditing the results and creating contingency plans,” read the article. “Election officials use this information to better prepare and secure their systems.”

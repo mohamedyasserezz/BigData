@@ -1,0 +1,21 @@
+One of Apple Music’s biggest problems is getting fixed
+
+Apple is addressing a major complaint some users had with the way its Apple Music streaming service functions when it comes to matching your personal music collection to an online catalog – a feature that allows you to stream your tracks from the cloud, via Apple’s iCloud. The company is now switching from a poorer matching technology to use audio fingerprinting. By doing so, it will allow for more accurate matches, and – perhaps, most importantly – it means that Apple will no longer be applying DRM to tracks in your personal library when it performs this matching function.
+
+In the past, if you accidentally deleted a track or album from your personal library stored on your Mac, you could download it again from iCloud. But the track would then be copyright protected. Following this change, in the same scenario, those tracks would be DRM-free when you re-download them.
+
+This better respects users’ personal libraries and the rights they had previously associated with their files before the matching took place.
+
+In addition, Apple Music’s matching technology itself has been improved. One of the streaming service’s touted features is that it allows users to stream music from their own libraries as well as those that are a part of its subscription catalog. But it wasn’t always the best at matching your personal tracks to the right songs.
+
+That’s because, before, Apple Music was using metadata to match your personal files. This could lead to incorrect matches. As Jim Dalrymple explains on his blogThe Loop, some people saw a live version of a song matched with the studio version because of Apple Music’s use of metadata over more advanced matching technologies.
+
+Oddly, Apple did have a better technology at its disposal in itsiTunes Match service.
+
+iTunes Match, which is available as a $25 per year alternative to Apple Music, allows users to sync their personal music libraries – including songs from ripped CDs and other unique recordings – to the cloud. However, instead of using metadata to match local tracks with a catalog, like Apple Music does, iTunes Match uses audio fingerprinting, which is far more accurate.
+
+iTunes Match works by looking at your files and comparing them to the over 43 million songs that are available in the iTunes Music Store. If the file isn’t an exact match with one of them, then it will upload those to the cloud directly. But by first trying to match files with an existing online version first, it can vastly reduce the time it takes to sync your music to the cloud – as it only needs to truly upload those it can’t match.
+
+Apple Music subscribers are being switched over to this better matching technology at a rate of 1 percent to 2 percent per day, and the process has not yet completed, says Dalrymple. Apple Music subscribers (who don’t also subscribe to iTunes Match) will be able to tell if they’ve been switched if they see “Matched” in the iCloud Status column in iTunes on their Mac, he notes.
+
+iTunes Match subscribers who also have Apple Music subscriptions could also now effectively drop their Match subscriptions, without losing the benefits of having their personal libraries available wherever they are, and – at last – DRM-free, too.

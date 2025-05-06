@@ -1,0 +1,13 @@
+Nike releases open-source software to play with the techies
+
+Nike, the home of all things athletic, is joining the ranks of the programmers with its launch of open-source software.
+
+Last week, Nike published threeopen-source projects on GitHub: a JSON parsing framework, a distributed tracing solution for Java and a lightweight logging library written in Swift. The company also open-sourced the code thatpowersits own site on GitHub.
+
+While it’s cool that the company is experimenting with open source, the bar is high for traditional retailers to impress in the tech space. Many non-traditional companies have started releasing open-source projects. Walmart Labs, Target, Best Buy and evenNike rival Adidas, for example, have GitHub accounts for sharing projects.
+
+One motivation for companies to post open-source content is to improve brand image. The fight for technical talent has never been more fierce. Companies like Nike want to engage potential employees early on and brand themselves as a tech company in the process.
+
+For all intents and purposes, companies like Nike and Walmart have been tech companies in disguise for quite some time. Nike has 10 iPhone apps and two iPad apps on the App Store. Nike also has an entire website dedicated to developer APIs for Nike Fuel. Walmart has three iPhone apps and an open product catalog API.
+
+We reached out to Nike for comment and will update this post.

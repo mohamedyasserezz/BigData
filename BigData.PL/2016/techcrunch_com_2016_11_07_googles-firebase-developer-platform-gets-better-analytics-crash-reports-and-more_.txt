@@ -1,0 +1,25 @@
+Google’s Firebase developer platform gets better analytics, crash reporting and more
+
+Google today launched the first major update to itsFirebase backend-as-a-service platformsince it firstannouncedits plans to turn the service into its unified platform for developers six months ago. While Facebook decided toshut downits competing Parse service earlier this year, Google decided to double down on Firebase (which itacquired in 2014) as its flagship development platform for app developers on iOS and Android, as well as web developers.
+
+Today’s update includes the 1.0 launch of Firebase’s crash reporting tool, improved real-time analytics that are now also integrated into Google’s BigQuery database service, better support for game developers who use Unity, and the launch of a new Firebase Udacity course for iOS and Android developers.
+
+As Ben Galbraith, who leads product and developer relations in Google’s Developer Products Group, told me, building apps today is far more complex than it was two or three years ago. When “mobile-first” became a thing, you only had to consider a few screen sizes and platform. Today, your users may be on hundreds of different devices. In addition to this platform challenge, though, you also have to consider all of the infrastructure work that goes into running a modern app, be that authentication, real-time data syncing, A/B testing or crash analytics.
+
+“Whether you are on iOS or Android, there is this set of concerns that you have to think about — but they are all table stakes,” Galbraith said. “We want to take those off the table for you so you can focus on something new and innovative for your users.”
+
+At the core of Firebase is its analytics service, which is available for free — just like Google Analytics is available for free, (you can almost think of it as the loss leader in the Firebase feature set). For the most part, Firebase Analytics is not a real-time service and as Galbraith noted, for most use cases, that’s not a problem. Sometimes, however, you do want to get real-time feedback from your apps — especially when you are testing them and want to make sure that your analytics setup is working. For those use cases, Firebase Analytics now offers a new real-time debug view (in beta).
+
+In addition, Firebase now lets its users export data to BigQuery, Google’s big data analytics warehouse, in real time, too. This allows developers to dig deeper into their data than the basic Firebase Analytics service currently allows. Using BigQuery can quickly become expensive, but the company now offers a free tier, too. By combining the data in BigQuery with Google’sData Studiovisualization service, developers can easily build their own real-time dashboards for Firebase Analytics.
+
+Firebase Analytics now also uploads any conversion events in real time, so developers will be able to set up systems to quickly react to these incoming events, too.
+
+Another major feature of Firebase is itsCrash Reportingservice. This feature, too, is now becoming a bit more real time. Previously, it took about 20 minutes before all the data for a crash was available in the Firebase dashboard. Now, that time is down to one minute. More importantly, though, this crash data now includes more data about the context of each crash by combining the crash data with Firebase’s analytics data to show you how a user arrived at the point when the app crashed. Developers won’t already use Crash Reporting and Firebase Analytics won’t need to add any additional code to their apps to get access to this new feature.
+
+Mostly, though, developers will want to avoid crashes. At its I/O developers conference six months ago, Google announced the launch ofFirebase Test Lab, its remote testing service (previously also known as the Google Cloud Test Lab). With today’s update, the Firebase Test Lab gets a free tier that allows developers to run up to five tests on physical Android devices (and ten on virtual devices) per day — no credit card required.
+
+For game developers, Google built a newUnity pluginthat supports Firebase Analytics, its real-time database, authentication, dynamic links, remote config, notifications and other core Firebase features.
+
+Also new is version 1.0 of the FirebaseUI, which offers developers common UI elements for building their apps (think authentication, etc.) and a new “Firebase in a Weekend” course the company developed with Udacity.
+
+The company made these announcements at itsFirebase Dev Summitin Berlin today.

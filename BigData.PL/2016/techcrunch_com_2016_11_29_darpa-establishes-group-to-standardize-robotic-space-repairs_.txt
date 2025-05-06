@@ -1,0 +1,15 @@
+DARPA establishes group to standardize robotic space repairs
+
+If we’re to keepthousands of expensive satellitesin working order, the job isn’t going to be done by humans — and DARPA suggests we all get on the same page before we start designing robotic systems to pick up the slack.
+
+The reality of satellite design is that if pretty much anything goes wrong, the thing sits in orbit like a million-dollar paperweight (although absent gravity it is technically a papermass) and eventually burns up on reentry. After all, there’s usually no one out there to fix it except the folks on the ISS, and they’ve got better things to do.
+
+Robotic platforms are the obvious solution: they can get in range and tighten screws or knock an antenna into alignment… but only if the satellites in question are using the right kind of screw. DARPA wants to get everyone together to talk about getting these standards in order.
+
+“We’re inviting the space community to join us in creating a permanent, self-sustaining ‘one-stop shop’ where industry can collaborate and engage with the U.S. Government about on-orbit servicing, as well as drive the creation of the standards that future servicing providers will follow,” said DARPA’s Todd Master in a press release.
+
+The group would be called theConsortium for Execution of Rendezvous and Servicing Operations, or CONFERS, and its decisions would be purely advisory and non-binding. The idea is it would be a clearinghouse for discussion and technical information, not any kind of authority.
+
+People build things with 2x4s and use right-handed screw threads because they’re cheap, widely available, and generally good enough. Standards like that (a bit more thorough, of course) could keep costs down for future space platforms that want to allow for the possibility of mid-mission servicing.
+
+Got some ideas? Head over to Arlington on December 16 for the agency’sproposal day— all citizens are welcome, but you’ll need to go through the usual security procedures detailed in the invitation.

@@ -1,0 +1,55 @@
+Software is due for a bundling event
+
+We are approaching a new phase of enterprise software, where every niche of Software-as-a-Service has been filled and cloud companies are being consolidated into larger companies. Markets have a tendency to cycle from bundling to unbundling, and software is due for a bundling event. The cloud, open APIs, next-generation messengers and machine learning are combining to turn the end-user interface to enterprise software into a unified experience.
+
+There have been attempts to do this, ranging from portal servers like Portal Software, to “Enterprise 2.0” collaboration software like Jive Software, to communications platforms like Yammer. However, none of these have stuck pervasively because they only solved one slice of the problem, various backends were difficult to integrate, it was hard to work with people outside of the enterprise and there was no machine learning to sift through all the data on users’ behalf.
+
+In just the past couple of weeks, Microsoft, IBM and Facebook have all launched next-generation collaboration interfaces for enterprises. Slack kickstarted the reboot ofYammerand Chatter a couple of years ago, and now the big guns are back and swinging.
+
+The key shift in these new messengers is the ability to integrate third-party software that can “push” messages with machine learning to help end users get only the data that is relevant. All of this is built on the rapid proliferation of micro services that allow easy access to most systems, including legacy systems. Some of the platforms even allow full integration of micro apps — simple, single-purpose apps that allow employees to quickly perform specific tasks.
+
+The most convenient feature is to allow end users to drive micro flows, where they can complete simple actions such as approving a purchase order. As I wrote previously in TechCrunch, the unique combination of micro flows, micro apps and micro services is enabling a new architecture I call the“micro wave” architecture.
+
+We at Sapho have had the privilege of working with most of these nascent platforms; here are our impressions.
+
+Microsoft Teams
+
+Key strength:Bundled with Office 365.
+
+Pros:Microsoft’s recent foray into this market is a very comprehensive, well thought-out product. The third-party integration is best in class, with tabs that can support fully contained micro apps delivered by third-party systems. The bundling of Skype’s voice and video features is seamless and performs flawlessly, and even integrates into a channel’s conversational flow. The product out of the gate scales 5x in active users per channel past Slack. This really is a new Microsoft: The desktop version of Microsoft Teams uses Electron and Chromium and the product is available at launch on Windows, MacOS, iOS, Android and, of course, Windows Phone.
+
+Cons:The interface is a bit busy; it packs a lot into the messenger frame. Microsoft will likely iterate on this and clean up the interface.
+
+IBM Watson Workspace
+
+Key strength:Cognitive grouping of messages with extraction of summaries and action items.
+
+Pros:Watson Workspace offers the cleanest interface of all of the new messengers. The product is well planned and architected — like you would expect from an IBM technology, it can scale like a hockey stick. IBM has been a leader in bringing cognitive technologies to the enterprise; with Watson Workspace, it targeted one of the most painful aspects of messengers, which is not being able to find information easily. Watson Workspace magically organizes past messages into clusters and even extracts summaries and action items. It really has to be seen to be believed. The product is also free for users to start using, a first for IBM.
+
+Cons:The third-party integration is excellent, but the ability to integrate a micro app into the interface is still coming. IBM does not jump to top of mind for buyers looking for next-generation collaboration tools. However, IBM has a noteworthy footprint with traditional buyers, and leveraging the Watson product line brand is smart, as it is really starting to get traction with buyers look for next-generation software.
+
+Workplace by Facebook
+
+Key strength:Familiar user interface with algorithmic surfacing of content.
+
+Pros:The top benefit of Facebook Workplace is that everyone already knows how to use it. The interface is just like the consumer version of Facebook. Facebook’s magic algorithm that will surface content in a familiar feed. Facebook’s Messenger has been on steroids under the stewardship of David Marcus and Stan Chudnovsky. Facebook supports external team members out of the box, which is one of the main use cases for modern collaboration tools.
+
+Cons:Facebook’s algorithm is tuned to show you what you would like, whether it’s puppy videos or a Donald Trump echo chamber. At work, people really need to be exposed to data they don’t necessarily like. Facebook has historically been blasé about privacy, and supporting enterprise single sign-on does not make the content hosted in Facebook any more secure. Facebook just announced they will support third-party integrations but does not seem to have a sense of urgency to roll out an ecosystem.
+
+Slack
+
+Key strength:First of the second generation, strong SMB usage.
+
+Pros:Slack offers a clean, fun interface and is free to start using. It was the first to the market with a next-generation messenger client with cool features like autodetecting when code is pasted into a channel, and formatting it nicely. The third-party integration is quite good, but there are no plans to integrate micro apps directly into the messenger. Slack is the up-and-comer with a pure-play bottoms-up sales model, while the competition typically sells top-down to enterprise decision makers.
+
+Cons:Slack has not been able to deliver an enterprise-grade product. Every Slack team runs on a distinct Amazon server running PHP and can’t realistically scale past 150 users. Users have to open a separate window and maintain a separate user name and password for every Slack team they work with, which is especially egregious considering that all Slack teams operate under theslack.comdomain. C’mon Slack, put the user database in Amazon’s Redis implementation and pass an auth cookie between servers — it’s a one month project! At some point the kumbaya culture has to start delivering; they need to have some frank conversations in the engineering department that will make some millennials sad.
+
+Google
+
+Key strength:Can bundle with G Suite and Hangouts.
+
+Google is the dark horse in this race. Just add persistent chat groups toHangoutsalready!
+
+Two of the biggest enterprise players, Microsoft and IBM, are gunning for this market now. Microsoft has an edge with Office 365 bundling and IBM has an edge with cognitive computing. Facebook is a new entrant that must overcome enterprise reluctance with its well-known interface and surfacing algorithms. Slack has been sitting on its laurels and now has to catch up with larger companies that are out-executing it. Google entering the market would target primarily the lower end of the SMB market that uses G Suite and would provide further challenges to Slack.
+
+The exciting part of all of these players is that it is very quickly becoming possible to move beyond messaging and reinvent enterprise workflows with a new, modern interface. At large enterprises, in particular, this is sorely needed as workers become overwhelmed with information and stuck on old legacy software. Onward!

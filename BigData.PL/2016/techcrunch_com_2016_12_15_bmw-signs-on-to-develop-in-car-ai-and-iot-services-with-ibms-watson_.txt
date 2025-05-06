@@ -1,0 +1,25 @@
+BMW signs on to develop in-car AI and IoT services with IBM’s Watson
+
+As BMW continues to weld a position for itself in the next generation of connected and autonomous car technology, it’s signed up for one more partnership that focuses on the data side of the equation.
+
+Today, IBM announced that it would be working with BMW on R&D where Watson sensors and computing will be integrated into BMW cars to pick up car data and help with new systems aimed at vehicles running more efficiently and with more personalisation for specific drivers and passengers.
+
+As part of the deal between IBM and BMW, IBM will be hacking four BMW i8 hybrid sports cars at its Munich Watson IoT HQ, turning them into prototype solutions that will run on IBM’s Bluemix cloud platform.
+
+To be clear, although there are a lot of efforts underway right now in the industry to built autonomous (self-driving) cars, this is not exactly about that. Rather it’s more about figuring out the best way of building systems in vehicles to help make them work better, whether or not they are being driven by humans.
+
+(And as a matter of fact, I’d say IBM is not actually all that keen on full-out autonomous cars. “We don’t want to replace humans!” Harriet Green, IBM’s global head of IoT, told me in an interview earlier today.)
+
+Although IBM has been making some interesting moves already in the area of in-car systems — for example itsproject with Local Motors to build a shuttle called Olli— asNiklausWaser, IBM’s Head of Watson IoT Europe the the leader of IBM’s Global Watson IoT Center in Munich, told me, this will be the first time that it has brought a major car company in to colocate at its new, $200 million IoT facilities in Germany, which wasfirst announcedexactly a year ago to this very day.
+
+In total there are some 6,000 companies already looking at ways of working with Watson across a variety of industries.
+
+Green told me that the idea will be to focus on six distinct areas where IBM and BMW feel that useful data can be gleaned from the driving experience.
+
+These are “self-healing” services (diagnostics to help the car run and fix itself if something goes wrong); “self-socializing” (how to connect with other vehicles); “self-learning” (giving advice to vehicle owners about driving or maintenance); “fully autonomous” (for those cases where cars are going to drive themselves to some degree); “self-figuring” (how to detect and adapt to drivers’ preferences for, say, a particular store or gas station, or even the best position of a seat); and “self-integrating” (or how you connect to other devices).
+
+On top of all of these, soon it will also be working with its Weather Company division also to look at ways of picking up more weather data through sensors on the vehicle.
+
+All this is on top of a projectannounced earlier this yearto use sensors on some of its cars, along with those of Daimler and Audi, to collect traffic data. The three car-makers areall co-owners of mapping company Here, and plan to use the data to enhance its dataset and services.
+
+The companies would not comment on whether and when it would roll out any of these experiments commercially, although Green and Waser both said that this is the longer-term intention for the project.

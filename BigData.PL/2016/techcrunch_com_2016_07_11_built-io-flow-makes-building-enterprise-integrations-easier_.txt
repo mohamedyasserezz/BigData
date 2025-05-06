@@ -1,0 +1,15 @@
+Built.io Flow makes building enterprise integrations easier
+
+Built.io’sFlowis a drag-and-drop tool for buildingenterprise integrations. It’s a bit of a mix of Yahoo Pipes (R.I.P.) and IFTTT for connecting services like Salesforce and Marketo to help automate the sales process in an organization, for example. Today, the company is launching a major update of Flow that will make it easier for businesses to build more powerful integrations.
+
+It’s worth noting that in the world of enterprise, integration is still a big business, with plenty of development shops doing very little else but helping their customers connect various third-party services. The Built.io team argues that it can take a process that often takes weeks and reduce it to a few hours.
+
+Flow launched publicly last year. The company’s COO Matthew Baier told me that he believes the time is now ripe for a service like this. The reasons for this, he thinks, are the ubiquity of APIs — which makes building custom integrations relatively easy — and the growth of the Internet of Things. He argues that this amounts to “a perfect storm where integration is becoming extremely valuable to businesses and becomes available to anybody who wants to integrate everything.”
+
+In this new version, the company is making it easier for businesses to build their own integration endpoints for services that aren’t in Flow’s database yet. This new Activity Builder also now allows organizations to use the service for their private internal APIs.
+
+In addition, Flow now also includes a new data mapping service that allows you to transform data between two different systems. The example the company uses for this is integrating Salesforce and Marketo, which use very different nomenclatures for what are essentially the same fields in the user interface. The company also today launched its Trigger Tester, which uses dummy data to make it easier to test integrations based on real-time events.
+
+Built.io originally sold Flow through a traditional enterprise sales process. Starting today, though, the company is also launching a $29/month subscription plan that anybody can purchase with a credit card. This will likely open up the service to a whole new group of users (the company calls them “citizen integrators”). This new plan will limit users to five active flows, five triggers and a 15-minute clock schedule, but for many users who simply want to connect two services, that should be more than enough in terms of flexibility.
+
+If you want to give the service a try, usethis link. It’ll give you trip credits for being such a loyal TechCrunch reader.

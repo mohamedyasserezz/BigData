@@ -1,0 +1,31 @@
+Facebook overhauls ad metrics, admits 4 bugs and errors led to misreported numbers
+
+Facebook has been postingbig gains on the back of advertisingthis year, but it looks like not all is well in the world of ad metrics on the social network. Today the social networkadmittedthat it has discovered some bugs and errors in its system that have led to misreporting numbers across four products, including Instant Articles, video and Page Insights.
+
+While coming clean on the bugs and errors, Facebook also said that it was putting several new measures into place both to fix those and bring in outside groups to provide more measurement to advertising and other clients, including the creation of a Measurement Council and more third-party verification.
+
+The news is coming out at a key time for the company. Facebook has already been coming under pressure over accusations that it influenced the U.S. election by showing people too much “fake news” — posts created to look like factual content that were in fact made specifically to skew opinion and drive more clicks. And it had already admitted a miscalculation in September led toover-inflated video views. Shares of Facebook were downnearly three percentin pre-market trading. We’ll continue to monitor this to see whether there is a bigger effect.
+
+The news that Facebook released today is comprised of two parts: the changes it’s putting in place, and the disclosure of the problems.
+
+Facebook said that it uncovered bugs and other reporting errors in four products: Page Insights, its video product, Instant Articles and referrals in Analytics for Apps. For context, there are 220 metrics that Facebook counts across its platform.
+
+It notes that one of its Pages dashboards, the summary number for 7-day or 28-day organic page reach, was miscalculated as a simple sum of daily reach instead of de-duplicating repeat visitors over those periods. It also notes that “the vast majority of reach data in the Page Insights dashboard was unaffected, including all the graphs, daily and historical reach, per-post reach, exported and API reach data, and all data on the Reach tab.” It says that the de-duplicated 7-day summary in the overview dashboard will be 33 percent lower on average and 28-day will be 55 percent lower and this bug has been live since May and will be fixed in the next few weeks. It does not affect paid reach, it added. The error area is marked here in red:
+
+It also said that it had been undercounting metrics for completed, or 100 percent, video views — because sometimes the audio plays out longer than the video does. It notes that this could mean up to a 35 percent increase in video watches at 100 percent.
+
+Meanwhile, Facebook said it had made a calculation error in Instant Articles, over-reporting by between 7 percent and 8 percent since August of 2015. “We were calculating the average across a histogram of time spent, instead of reflecting the total time spent reading an article divided by its total views. We have now fixed this issue,” Facebook said.
+
+Lastly, Facebook said that it had been miscalculating Referrals in Analytics for Apps by about 6 percent for the most frequent users: it was counting clicks that went directly to apps and websites, but also clicks on posts via apps and websites, including clicks to view media. Other referral measurements were unaffected it said.
+
+While four problems in a pool of 220 may not seem like a lot, it’s a sign of how Facebook’s platform is getting increasingly complex. But given what a force Facebook is today in online advertising, there is also an important need for transparency and trust for those who are putting their content (and ad spend) onto the platform. And some of this is overdue, considering that Facebook has broken new ground around a whole new set of products and parameters in the digital ad market. To that end, Facebook also today announced some changes in how it’s approaching measurement.
+
+For starters, Facebook said that it will be widening the pool of third-party companies that it works with to measure traffic and engagement on its platform beyond the small group that it works with today, which includes comScore, Moat, Nielsen and Integral Ad Science (IAS), in response to requests from partners for more independent measurement, specifically around time ads are viewed.
+
+This will also include more work with existing partners, for example Nielsen, to monitor video and Facebook live content to incorporate that into their wider social media dashboard.
+
+It said that it will also create a new Measurement Council — comprised of advertising clients and measurement companies — to look at how it will continue to evolve this going forward, part of a bigger plan to communicate more about its metrics publicly.
+
+This will also include overhauling the language it uses to describe metrics, more clear calculations, more categorization and better definitions of what Facebook is measuring.
+
+More to come.

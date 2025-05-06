@@ -1,0 +1,25 @@
+Facebook opens analytics and FbStart to developers of the 34,000 bots on Messenger
+
+Facebook has been putting a big effort into growing Messenger as a bot platform this year. Now there are 34,000 of these bots in existence, built to automatically feed you news and entertainment, let you shop, and more — expanding Messenger’s use beyond simple chats with friends. And today, that strategy is getting a significant boost:Facebook saysit will now let developers track bots on its free analytics platform, alongside ads and apps. At the same time, Facebook is also opening up its developer program,FbStart, to bot developers.
+
+Both potentially give bot makers more reasons to build and monitor how their new widgets are working.
+
+Josh Twist, a product manager for Facebook Messenger’s bot efforts, who is an Englishman based in Seattle but is in London today to debut the tools at a developer event, tells me that Facebook expanded the analytics and FbStart tools after a lot of requests from the developers.
+
+“Getting bot support for messenger is the most frequently requested feature from bot developers,” he said. This shouldn’t be too much of a surprise. Messenger may haveover one billion users, but it remains to be seen whether bots will be a sticky and useful service for them in the longer term, or whether they are a flash in the pan.
+
+Facebook already provided analytics to other developers on its platform, and bots have seen a massive surge of interest since they first made their debut earlier this year. That interest has not just come from users curious about how they work; developers are also very keen to see if bots really are the next big thing.
+
+Twist tells me that for now, the analytics will cover bots built just for Messenger. But given how bots are making their way to other communication platforms, from competing messaging appslike Viber’sthrough to enterprise-focused platformslike Slack, don’t be surprised if Facebook expands its bot analytics to other platforms beyond Messenger.
+
+“It issomething we have talked about and haven’t ruled it out,” he said. “It’s possible, absolutely, since we already support analytics for other platforms for apps. But right now we’re prioritizing support for Messenger bots.”
+
+Analytics, of course, is an essential tool for a developer, both to be able to track how well something is working and other kids of feedback. Here Facebook says that features that will be included are reaches across mobile and desktop devices and measurement of customers’ journeys across apps and websites.
+
+Developers also will be able to view reports on messages sent, messages received, and people who block or unblock your app. And they will also get access to anonymized data reports on bot demographics, which include details like age, gender, education, interests, country and language to figure out who is using your bot.
+
+FbStart, meanwhile, currently has some 9,000 members who get feedback from Facebook on their apps, ads and bots, as well as Facebook ads credits and other free tools from partners like Amazon, Dropbox, and Stripe. If Facebook was looking at ways of swelling those ranks, tapping 34,000 developers could be one way of doing that.
+
+Twist points out that while there are a lot of standalone bot developers coming to Facebook for the first time, there is a lot of crossover with other Facebook services like apps and ads.
+
+Those who are leveraging these together — for example using therecent abilityto channel a person from a News Feed ad through to your Messenger experience — will be able to look at the effectiveness of those efforts now, and make potentially more ad buys based on them.

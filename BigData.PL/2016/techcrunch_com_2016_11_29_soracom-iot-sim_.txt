@@ -1,0 +1,13 @@
+Soracom launches SIM cards and services easing IoT rollout cost
+
+One of the challenges of Internet of Things is the poor availability and high price of mobile data, especially in the U.S..Twilio announcedit was going to have a stab at changing that earlier this year. TodaySoracomshowed off its solutions to ease the pain of IoT adaptation across the industry.
+
+The company’s slightly byzantinepricing plansare optimized for a number of low-bandwidth, high uptime applications. The company’s SIM cards cost $5 each plus $1.8 per month (well, $0.06 per day, to be exact) and can be ordered in quantities ranging from one to 1,000. After that, the company offersa number of plansaimed at IoT applications.
+
+The SIMs are aimed at global use, with pricing tiers ranging from $0.08 to $2.0 per megabyte depending on region. Much of the U.S., China and Europe fall into the cheapest tier.
+
+“Our cloud-first approach is the right fit for both enterprises and startups seeking to deploy secure and scalable IoT experiences in the U.S,” Soracom’s CEO and co-founder Ken Tamagawa says.
+
+The company’s products at launch include Soracom Air (aimed at startup & enterprise IoT), Soracom Beam (which reduces power consumption of IoT devices by offloading processing to cloud services) and Soracom Canal (VPN services for secure comms between connected devices and AWS private cloud services).
+
+CORRECTION – an earlier version of this article stated that the SIM cards were more expensive per unit. The price was updated in the above article.

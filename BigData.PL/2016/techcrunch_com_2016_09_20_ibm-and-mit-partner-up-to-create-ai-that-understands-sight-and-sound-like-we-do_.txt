@@ -1,0 +1,21 @@
+IBM and MIT partner up to create AI that understands sight and sound the way we do
+
+When you see or hear something happen, you can instantly describe it: “a girl in a blue shirt caught a ball thrown by a baseball player,” or “a dog runs along the beach.” It’s a simple task for us, but an immensely hard one for computers — fortunately, IBM and MIT are partnering up to see what they can do about making it a little easier.
+
+The new IBM-MIT Laboratory for Brain-inspired Multimedia Machine Comprehension — we’ll just call it BM3C — is a multi-year collaboration between the two organizations that will be looking specifically at the problem of computer vision and audition.
+
+It’ll be led by Jim DiCarlo, head of MIT’s Department for Brain & Cognitive Science; that department and CSAIL will contribute members to the new lab, as will IBM’s Watson team. The idea is to engender jolly and hopefully fruitful mutual aid.
+
+Note: This article previously stated that “no money is changing hands,” but this is not quite the case. While IBM declined to provide specific financial details, these academic partnerships do involve varying amounts of funding and sharing access to resources and personnel on both sides.
+
+The problem of computer vision spans multiple disciplines, so it has to be attacked from multiple directions. Say your camera is good enough to track objects minutely — what good is it if you don’t know how to separate objects from their background? Say you can do that — what good is it if you can’t identify the objects? Then you need to establish relationships between them, intuit physical rules… all stuff our brains are especially good at.
+
+Handy, that last part, and also the reason why “brain-inspired” is in the name of the lab. Using virtual neural networks modeled on how our own real-life neural networks operate, researchers have produced all kinds of interesting advances in how computers interpret the world around them.
+
+The MIT partnership is one of several IBM has established lately; the company’s VP of Cognitive Computing, Guru Banavar, details the rest in a blog post. Other collaborations are pursuing AI in decision making, cybersecurity, deep learning for language, and so on. IBM is definitely making a huge investment in foundational AI work and it makes sense to cover their bases. All together the group of partnerships comprises what’s called the Cognitive Horizons Network.
+
+And yes, they’re working to make sure the machines don’t come for us all later:
+
+“We are in the process of building a system of best practices that can help guide the safe and ethical management of AI systems,”wrote Banavar, “including alignment with social norms and values.”
+
+Whatever those might be. At the rate social norms and values are changing, it’s as difficult a bet to figure what they’ll be in 10 years as it is to guess what AIs will be getting up to.

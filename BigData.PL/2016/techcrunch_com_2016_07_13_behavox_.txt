@@ -1,0 +1,17 @@
+London’s Behavox offers surveillance software to help financial institutions remain compliant
+
+Business tends to bemoan the existence of regulation, but for some companies ‘red tape’ is ahugeopportunity. No more so than in the financial services industry where there exists a heavy compliance obligation and a regulatory environment that is heightened post-financial crisis and scandals such as LIBOR.
+
+Enter:Behavox, a London-based startup that has built “compliance surveillance software” to enable financial institutions to search and interrogate huge amounts of employee-generated data in real-time, such as emails, text messages and voice calls, to identify potential rogue activity.
+
+Today the company is announcing Series A funding led by London’s Hoxton Ventures and Chicago’s Promus Ventures. The size of the round remains undisclosed, though I understand it will give Behavox a runway of around 24 months and enough capital to grow the team to 40-50 employees and set up an office in the U.S., which is an increasingly important market for the two year-old startup.
+
+The Behavox platform, targeted at investment banks, brokerage houses, commodities traders and asset managers, claims to be able to detect various types of misconduct such as insider trading, rogue trading, abuse of conflicts of interest, as well as more generic threats such as bribery, expenses abuse and IP theft.
+
+It does this by employing machine learning, NLP and “advanced neural networks” technology to automatically sift through the enormous amount of data already collected by financial institutions in order to be compliant — data that has grown exponentially. In simple terms, Behavox’s cloud-based platform plugs into that data and uses its algorithms to make sense of it.
+
+This includes NLP and voice analytics, and things like relationship mapping and measurement, so that Behavox is able to distinguish between different types of activity.
+
+For example, Behavox co-founder and CEO Erkin Adylov tells me that when analysing voice calls, it’s not enough to know what is said but also the way it is said and by whom and where. A sudden drop to a whisper or laughter are the type of signals a compliance officer might pick up on manually but could never scale without the use of technology.
+
+Another advantage that Adylov cites over competitors — for there are a ton of companies going after this space — is the fact that Behavox is able to consolidate different data silos, from various messaging apps to landline and mobile phone calls. Without doing so it’s impossible to track conversations that hop from one medium or platform to another, which is of course the way employees communicate in the real world, rogue or otherwise.

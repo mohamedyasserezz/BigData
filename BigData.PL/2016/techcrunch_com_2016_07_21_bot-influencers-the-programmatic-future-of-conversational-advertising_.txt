@@ -1,0 +1,33 @@
+Bot influencers are the programmatic future of conversational advertising
+
+In the near future, ads will just be part of the conversation.
+
+Bots, and the AI technologies that drive them, are taking huge leaps forward in sophistication and reach.FacebookandTelegramrecently added bot APIs to their platforms, and Apple Messages will soon allow third-parties to plug in, too. While bots had previously been limited to very specific requests, such as checking a balance or flight status, next-generation AI, like the recently unveiledViv, will better understand context and integratewith a host of services— including programmatic advertising.
+
+Conversational commercerepresents a step forward from both traditional websites and mobile apps, using one of the simplest interfaces possible: text. Bots currently allow users to carry outa host of tasksentirely via messaging: transfer money, ask questions, make purchases, book travel and check the weather. Of course, bots also send promotional messages, and soon they may serve third-party conversational ads through programmatic exchanges.
+
+As with any new technology, botsneed to build trustfirst. The more AI seeks to impersonate humans, the more the technology will be judged by human standards of etiquette and emotional intelligence. Relevance will be critical. Overwhelming consumers with promotional messages before bots have proven their worth risks alienating them. No one likes to start a new relationship only to find they’ve been tricked into a sales pitch.
+
+Conversational advertising stands to offer several potential advantages while solving many of the current problems with display ads. For example, programmatic RTB auctions can slow down web pages and hog precious mobile data, but this won’t be an issue with bots. Because bots aren’t expected to respond in milliseconds, short pauses are fine. And text conversations use only a trickle of bandwidth.
+
+Another key differentiator is that, like human contacts, bot relationships can persist across touch points and outside of the walled garden of messaging networks.
+
+The information a bot learns through interactions on Facebook can carry over seamlessly to WhatsApp or to a chat interface in a brand’s mobile app.Facebook specifically forbidswhat it classifies as promotional messaging, but any programmatic auction would likely occur outside of the messaging platform. And, as dialog becomes more natural, these mentions would simply appear organically as part of a larger conversation.
+
+Until now, native advertising has been difficult to deliver programmatically. However, as the messaging interface is just text, bots can be programmed with a wide range of contextual responses, orconversational ad units. When an advertiser defines a promotion, the bot can surface that information organically in the conversation using natural language. In fact, IBM is already using Watson toexperiment with “cognitive ads”on its Weather Co. property.
+
+It might be helpful to think of future bots less as automated text interfaces and more as digital influencers programmed with their own personalities for different audiences. For instance, take two different personal finance bots — one aimed at retirees, the other designed to interact with college students. Both bots might answer a question about reducing debt by mentioning a sponsored balance transfer offer with a low APR, but the exact language would differ: clear and reassuring for retirees versus snarky humor and emojis for the students.
+
+This approach has the benefit of being both dynamic in its presentation and completely native to the chat medium — as if a friend were suggesting a product. Moreover, it removes the burden of generating the countless variations of creative elements that would be required for a similarly tailored display ad campaign.
+
+With the help of machine learning, bots will begin to understand and remember consumer preferences, allowing for even more personalized experiences. For instance, a traveler planning a trip might inquire about a hotel’s proximity to a city’s landmarks, the local airport and other relevant locations. From these interactions, the bot can understand intent (the user intends to fly to the destination and also wants to do some sightseeing). Then it can use that information to match potential advertisers programmatically, mentioning relevant offers as part of the larger conversation.
+
+But the relevance doesn’t need to stop with a single interaction. That same traveler might request a better hotel than last time. Not only can the bot understand “last time,” but also it can learn to filter based on the patterns that emerge throughout the customer relationship. Perhaps the user tends to upgrade to a larger rental car, but only when traveling with family, or frequently asks about the availability of Wi-Fi in the hotel room, but only on weekday trips.
+
+Deep learning and predictive analytics will allow the relationship to evolve as the bot begins to understand what each user values, then makes recommendations based on others exhibiting similar behavior.
+
+The idea of managing interactions with hundreds of bots might add more complexity than it solves for consumers, but bots talk to other bots, too. Your travel bot will act more like an intelligent agent than a website — potentially coordinating between the JetBlue bot, the Uber bot and the Marriott bot behind the scenes if your plans change. On a rainy day, a weather bot might offer a ride via a conversational ad unit from Lyft or Uber without the user interacting with either of those companies directly.
+
+In fact, consumers could choose to interact with numerous services through just a few trusted bots. So don’t be surprised if an arms race ensues as companies compete to build“one bot to rule them all.”That could end up being Siri, Alexa, Cortana or another as-yet-unknown personal assistant.
+
+We haven’t defined standards for conversational ad units, but one thing is clear: they have the potential to solve many of the issues that have plagued digital advertising for the last two decades. What won’t change is the need to strike a balance between delivering value and surfacing advertising. Conversational ads will need to be relevant, contextual and unobtrusive if we want consumers to embrace them.

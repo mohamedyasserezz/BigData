@@ -1,0 +1,25 @@
+Niantic responds to Senate inquiry into Pokémon Go privacy
+
+Niantic, the makers of Pokémon Go, responded today to a letter from Sen. Al Franken that questioned the wildly popular game’s privacy features. Niantic defended the game’s use of players’ location data and explained how it collects consent from the parents of players under the age of 13.
+
+Niantic also described the types of data it collects from players, and hinted at what data it might scrape up in future releases of the app. The company is currently working to roll outsponsored locationsin the U.S., which raises new questions about user privacy.
+
+Pokémon Go kicked up controversy soon after its release when some players using iOS noticed that the game requiredfull access and control over their Google accounts. Nianticblamed a bugand the issue was quickly resolved, but questions about how much the app invades users’ privacy remained, and ultimately led to theinquiry by Sen. Franken.
+
+The Minnesota senator asked Niantic to explain several key details about how Pokémon Go works, including whether all the data collection was necessary, how data will be shared and how parental consent is obtained for kids who play the game.
+
+Of course, location data is necessary for the game to function — players catch Pokémon and visit PokéStops that are nearby, so the app has to know where they are. But the app also gathers information about the device the player is using, and Niantic says it might soon collect information about the user’s language preferences.
+
+“Country is collected and stored, to provide a user the appropriate experience; language may be stored in future updates, for the same purpose,” Niantic general counsel Courtney Greene Power wrote in theletter to Sen. Franken(PDF). “The app collects certain information to facilitate important quality and stability objectives and to prevent abuse. This includes information such as mobile operating system, mobile device identifier, and hardware build information. This information is used to debug phone-specific game problems and to detect and deter cheating in the game.”
+
+Niantic explained that players under 13 are redirected to the company’s website when they register to play, where their parent must also register. Parents are asked to provide several details to verify their identity, including the sum of the first and last digit of their Social Security number, name, birth date and physical address. The verification process is handled by a third-party vendor, Veratad, and Niantic says it doesn’t receive any of the parents’ verification information.
+
+The company also clarified how and why it shares data with third parties.
+
+“Niantic does not and has no plans to sell Pokémon Go user data — aggregated, de-identified or otherwise — to any third party,” Power wrote. She added that data is shared with mobile app analytics companies and with marketing and analysis companies, but that these companies are under confidentiality agreements to keep user data secure. User data shared with third parties does not include the data of users under 13, the company said, and no user data will be shared with investors.
+
+However, the plan not to sell user data may soon be faced with a hiccup as Niantic begins rolling out sponsored locations in the game. “As we continue to develop our sponsored locations program, we will provide certain reports to sponsors about visits and game actions (such as redeeming a promotion at the location), but those reports will contain aggregated data only,” the letter said.
+
+Sen. Franken, who has been a staunch advocate for privacy issues and heads the Senate Privacy and Technology Subcommittee, said that Niantic’s response to his questions was comprehensive but that he wants the company to further clarify its privacy policies.
+
+“The launch of Pokémon Go earlier this summer represented a new era in gaming, but shortly after the app’s release, there were strong concerns about how it treats its users’ digital data,” Sen. Franken said in a statement. “I appreciate Niantic’s response, but I intend to work further with the company in the future to ensure that we’re doing everything possible to protect the privacy of Americans — particularly American children — who play Pokémon GO.”

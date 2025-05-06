@@ -1,0 +1,13 @@
+OpenDataSoft raises $5.4M to turn data into APIs
+
+French startupOpenDataSoftjust raised a $5.4 million Series A round (€5 million) to make it easier to manipulate huge sets of data.Aster CapitalandSalesforce Venturesinvested in today’s round, with existing investorAurinvestalso participating andAder Financehelping with the deal. Interestingly, this is one of the first investments in a French startup from Salesforce Ventures.
+
+OpenDataSoft is a software-as-a-service solution that is all about making data more useful. Many companies, cities and governments sit on top of a ton of data but aren’t doing anything with it. OpenDataSoft can help you with the first steps when it comes to analyzing, processing, visualizing and sharing this data.
+
+In particular, as the name suggests, OpenDataSoft is a good way to make other companies and developers take advantage of your data to reuse it in other services. For instance, a railway company could convert all their timetables into an API using OpenDataSoft. Then, app developers could use this data to create a transit app, for example.
+
+In particular, I feel like a company like OpenDataSoft could be key when it comes to making cities a bit more data-driven. Many services and local governments don’t digitally talk to each other. Integrating all the moving parts of a city could help local government make everything more efficient. (Ihatethe term “smart city.”)
+
+In addition to its European office, the startup is going to open a new office in Boston to get closer to the American market. But that’s not all. The company also wants to expand into new markets, such as Germany, Italy, Spain and the U.K.
+
+OpenDataSoft won’t necessarily open offices in all these countries, but you can expect some hires when it comes to business development in these regions.

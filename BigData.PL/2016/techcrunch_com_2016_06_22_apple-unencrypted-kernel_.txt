@@ -1,0 +1,15 @@
+Apple confirms iOS kernel code left unencrypted intentionally
+
+When Apple released a preview version of iOS 10 at its annual developers conference last week, the company slipped in a surprise for security researchers — it left the core of its operating system, the kernel, unencrypted.
+
+“The kernel cache doesn’t contain any user info, and by unencrypting it we’re able to optimize the operating system’s performance without compromising security,” an Apple spokesperson told TechCrunch.
+
+Apple has kept the inner workings of the kernel obfuscated by encryption in previous versions of iOS, leaving developers and researchers in the dark. The kernel manages security and limits the ways applications on an iPhone or iPad can access the hardware of the device, making it a crucial part of the operating system.
+
+Although encryption is often thought to be synonymous with security, the lack of encryption in this case doesn’t mean that devices running iOS 10 are less secure. It just means that that researchers and developers can poke around in the kernel’s code for the first time, and any security flaws will come to light more quickly. If flaws are revealed, they can be quickly patched.
+
+Leaving the kernel unencrypted is a rare move of transparency for Apple. The company is so notoriously secretive about its products that some security experts speculated in theMIT Technology Reviewthat the lack of encryption in the kernel was accidental. But such a mistake would be so shocking as to be practically unbelievable, researchers said. “This would have been an incredibly glaring oversight, like forgetting to put doors on an elevator,” iOS security expert Jonathan Zdziarski told the MIT Technology Review.
+
+Apple has begun to shift towards greater transparency, particularly on security issues, in the wake of its battle with the FBI over unlocking an iPhone used by the San Bernardino shooter. When the FBI attempted to compel Apple to unlock the phone, CEO Tim Cook penned a rareopen letterto Apple’s customers, explaining his decision to resist. “We feel we must speak up in the face of what we see as an overreach by the U.S. government,” Cook wrote. (The FBI eventuallydropped its requestafter paying a third party to break into the device.)
+
+Opening up the kernel’s code for inspection could weaken the market for security flaws like the one the FBI is presumed to have used to get into the San Bernardino iPhone. If flaws are revealed quickly and widely, it will reduce the prices law enforcement and black markets will pay for them — and it could mean quicker fixes for Apple’s customers.

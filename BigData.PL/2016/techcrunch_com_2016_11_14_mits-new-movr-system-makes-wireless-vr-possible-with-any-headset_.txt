@@ -1,0 +1,13 @@
+MIT’s new MoVR system makes wireless VR possible with any headset
+
+Wireless VR will do a lot to help the tech become more viable, since dealing with your heavy cable umbilical on Oculus and HTC Vive right now is a pain. MIT has created a new wireless communication system designed specifically for VR that could unburden us for truly immersive VR experiences.
+
+MIT’s Computer Science and Artificial Intelligence Labcame up with “MoVR”as a way to let VR headsets talk to PCs wirelessly, without sacrificing important things like graphics fidelity and frame rates, which are key in terms of making sure virtual reality experiences are smooth and not prone to making users feel sick.
+
+MoVR uses millimeter wave technology, which is also being used in next-generation 5G mobile networking experiments, to help delivery communication speeds between the headset and the computers powering them at rates of multiple gigabytes per second, which is much, much faster than is currently possible via existing tech like WiFi and other existing RF, which cap out far beyond the required transmission rates of over 6 Gbps.
+
+While millimeter wave tech can manage transferring lots of data uncompressed at high speed, it does suffer from requiring line-of-sight for transmission, but the MIT CSAIL team behind MoVR has worked around that using programmable mirrors that help detect the direction of the signal and reconfigure its receivers to ensure the signal isn’t interrupted by things like a hand movement or other obstruction.
+
+The current test system uses two antennas that are each about half the size of a credit card, and future iterations of the complete production version could be as small as a smartphone, letting them be used multiple at a time for multiplayer interaction within the same room.
+
+A $220 Vive add-on announcedlast week is also aiming to make powerful PC-class VR wireless, but the MIT CSAIL project could have a lot more potential in terms of accounting for higher intensity graphics demands in the future, and, as mentioned, there are no limitations in terms of what types of headsets it could support over time.

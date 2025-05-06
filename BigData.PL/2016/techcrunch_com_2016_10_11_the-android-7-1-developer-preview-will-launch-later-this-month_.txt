@@ -1,0 +1,17 @@
+Google’s Android 7.1 Developer Preview will launch later this month
+
+Google today announced that it will continue itsAndroid Beta programwith Android Nougat 7.1, the next minor update to the latest version of its mobile operating system.
+
+The company already showed off some of 7.1’s features when it announced its Pixel phones last week, but some of the Pixels’ best features, including system-wide support for the Google Assistant,will remain exclusive to those new phones.
+
+Like with the 7.0 release, Google will continue to offerover-the-air installsof the 7.1 beta. The new betas will also support the same devices as during the 7.0 cycle: the Nexus 5X and 6P phones, as well as the Pixel C tablet. The final release will come to the 5X, 6P and Pixel C, as well as the Pixel, Pixel XL, Nexus 9, Nexus Player and Android One devices.
+
+The preview is obviously targeted at developers, but if the last beta cycle is any indication, chances are the 7.1 betas will also be very stable (though your mileage may vary and I wouldn’t recommend installing the betas on your main phone or tablet just yet). If you enrolled in the 7.0 beta cycle and haven’t unenrolled since, you will automatically get the 7.1 betas, too.
+
+What’s new in 7.1? As expected, it includes support for Google’s Daydream VR platform and faster A/B system updates, but Google is also highlighting a few new features in today’s announcement. Developers will be able to surface key actions of their apps directly in the launcher. These actions can take users deeply into an app to perform a certain function. This will allow messaging apps to provide you with shortcuts for texting your friends, for example, or allow you to immediately get directions to your favorite locations in Google Maps.
+
+Keyboard developers will now also be able to add stickers, animated GIFs and other images to their keyboards (and apps can tell those keyboards which images and other content they can accept). Apps can now also direct users to a new Settings screen that allows them to easily delete unused files and free up storage.
+
+As for the look and feel of Android 7.1, there aren’t any major shockers here. Developers will be able to set round icons for their apps for users with Pixel phones (which use the new Pixel launcher with round icons) and other third-party launchers that use round icons.
+
+For the most part then, 7.1 is the evolutionary next version of Nougat that the name implies.

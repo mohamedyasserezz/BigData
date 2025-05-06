@@ -1,0 +1,13 @@
+Anil Dash, new CEO of Fog Creek, launches platform to remove barriers to app development
+
+Fog Creek Software, responsible for the births of Trello and Stack Overflow, is today launchingGomix, a platform that wants to democratize app building. Gomix gives people working apps they can remix and modify, and then host and deploy for free. At a high level, Gomix is designed to make building things on the web as fun as it used to be, Anil Dash, Fog Creek Software’s newly-hired CEO told me.
+
+Prior to joining Fog Creek, Dash co-created appcommunity and directory Makerbase, which will now be part of Fog Creek. Dash is also a well-known entrepreneur and advocate for diversity, inclusion and equity in tech.
+
+“On a personal level, I came to Fog Creek because this is a company that’s always fought for making tech more thoughtful and more human,” Dash told me via email. “Back when Joel (co-founder of Fog Creek) started the Joel On Software blog, he was the only one saying that tech should be treating people better, both as users and as employees. And more than15 years later, he’s still a fierce and fearless voice about how we should be more ethical. I wanted to be part of that tradition, as well as the same creative DNA that spawned Trello and Stack Overflow and FogBugz and so much more.”
+
+Gomix is partly a throwback to the heydays of software development and the internet, when it was a lot easier to get started making cool things. More specifically, it’s a combination of a web app store, an in-broswer tool for editing Node.js code in collaboration with other Gomix users and a cloud hosting environment to run the app. Gomix will be part of FogBugz, Fog Creek’s suite of tools for software development teams.
+
+All this news is part of Fog Creek’s mission to democratize app development, practice social responsibility and help ordinary, everyday people participate in the software and internet economies.
+
+“We still see it as vitally important to talk about the human factors that come with creating technology, and to invest our time and energy into making sure everyone gets to be part of creating software and the Internet,” Dash wrote on Medium. “Now more than ever, the barriers to creating tech have to be torn down, and we’re excited to take our next big step.”

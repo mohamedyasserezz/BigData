@@ -1,0 +1,29 @@
+Hulu acquires The Video Genome Project to improve recommendations ahead of live TV service’s launch
+
+Amid a growing number of video streaming services, Hulu today has finalized an acquisition that will allow it to better compete on user experience, by way of improved recommendations. The company has bought the assetsThe Video Genome Project(The VGP), which maintains one of the largest, structured databases of video content. Terms of the deal were not disclosed, and Hulu says only a small team from The VGP will join the company.
+
+The VGP is not a household name, but its technology is able automatically aggregate the metadata around video content, in order to better classify it into very specific subgenres, then use that data to make connections to other titles that may not seem obvious.
+
+This goes beyond metadata like the cast or director – information the studios tend to provide. Instead, it’s about classifying films or TV shows in very specific niches that are more specific than “Action” or “Drama,” or any of the other high-level categories used today.
+
+Netflix already does something similar. The internet wasabuzzwhen peoplediscoveredthat the streaming service hadhundredsof alternative genres – like “Action Sci-Fi & Fantasy Based on Books” or “Biographical Movies from the 1960’s,” for example – hidden in its user interface. Netflix doesn’t use these lists of sub-genres directly on its homescreen, but ratherleverages its understandingof how content is classified to make better recommendations that are personalized to its users.
+
+The VGP will bring this same technology to Hulu, without the company having to invest in time it takes to develop a database of video metadata from scratch.
+
+With millions of pieces of metadata in its database, The VGP’s technology will be pared with Hulu’s existing recommendation system to jump-start its ability to suggest other content people may like, even if the connection is not immediately apparent. For example, The VGP categorizes the show “Empire” as having something in common with “Pretty Little Liars” (two very different shows, if you’re not familiar), because they both are “shows that use music to drive the central plot.”
+
+This connection alone may not be enough to make a recommendation, of course, but if two pieces of content matched on a number of these “hidden categories,” and that was combined with other signals from the recommendation engine, it could help to point people to new content they would have otherwise overlooked.
+
+Hulu intends to implement this technology in the first quarter of next year, when its live TV streaming service launches. There, it plans to do something even more interesting. Thanks to The VGP, it will be able to ingest news feeds of current events and then connect the theme (political upheaval perhaps?) to content from its on-demand library of movies and TV shows.
+
+Above: Hulu’s recommendations today are very hit-or-miss
+
+“Personalization has been big change for us as we think about putting the user first in the center of their entertainment experience,” explains Hulu’s Head of Experience, Ben Smith, about the deal. “There are thousands of things to watch on Hulu, but the more things you have, the harder it gets to choose. That’s the paradox of choice,” he added.
+
+This strategic acquisition is important for Hulu, whose recommendations still need some work.
+
+As more consumers cut the cord with cable TV and turn to streaming services, rival services will need to offer more than an expansive catalog to attract customers. After all, the catalogs themselves between Sling TV, Hulu’s live TV service, DirecTV Now, and PlayStation Vue, will be fairly similar (well, except for Vuedropping all Viacomchannels). The services will need to focus on their differentiating factors to woo subscribers – that means things like pricing, original content, number of simultaneous streams, and user experience.
+
+On that latter front, Hulu also plans to roll out a new user interface along with the better, VGP-powered recommendations, next year. This will also include bringing the new user onboarding experience – where users are asked directly about their tastes – to existing customers, too. It will then continue to check back in with users over time, to see how those tastes may have evolved.
+
+Founded in 2013, Santa Monica-basedThe VGPwas backed by VC firm Segel Group Limited, and is still under NDA with other clients. Hulu and the company had been in discussions for over half a year about a business deal to use The VGP’s technology, but then decided that joining forces made more sense. Hulu says that by Q1 2017, The VGP’s other, external relationships will have ended.

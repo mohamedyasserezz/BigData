@@ -1,0 +1,17 @@
+Waze’s new Events program will help route drivers around stadium and concert traffic
+
+Waze, which has been expanding steadily into the enterprise in recent months, is today unveiling a new program aimed at stadiums, marathons and other event organizers, that will allow partners to add road closures to Waze’s map, monitor traffic conditions in real-time, and inform Waze drivers of closures and other event information.
+
+TheWaze Global Event Partner Program, as it’s officially called, expands upon the company’s growing lineup of enterprise services. Today, this also includes theWaze Connected Citizens Program, which sees Waze working with municipal organizations;Waze for Broadcasters; and theWaze Transport SDK, whichlets transport and other on-demand companieslike Lyft integrate Waze with their own native applications.
+
+The tools in the newly launched events program, however, are most similar to the Connected Citizens program. For example, now event partners also have the ability to use the Waze Closure Tool – software that lets them add their planned road closures to Waze’s real-time map. They can work with Waze ahead of time or as the event is live to add turn restrictions, lane reversals, parking lots locations and other event-related information to Waze and its over 65 million monthly active users.
+
+This Live Map can then even be embedded through an iFrame on their own websites, allowing them to communicate traffic information to those attending the event.
+
+The program also allows partners to send in-app branded messages to drivers about the road closures and event, and it offers a customized landing page for the event onWaze.com/events, where the closures and other information is made available.
+
+Already, the company has lined up over 20 partners who will be participating, including E15 (a subsidiary of Levy Restaurants), which will work with Waze and its sports team partners to manage traffic around event locations. This list includes the Atlanta Falcons (Georgia Dome), Washington Redskins (FedEx Field), Detroit Lions (Ford Field), Washington Nationals (Nationals Park) and Atlanta Hawks (Philips Arena).
+
+Another partner is the Rock ‘n’ Roll Marathon Series, which hosts 30 races worldwide, which often are three-day long events.
+
+Waze says the program is free to all event organizers of any size, but acceptance is based on the quality of the Waze network locally, and the commitment from organizers to drive its attendees to use Waze.

@@ -1,0 +1,11 @@
+Google launches its Cloud Platform region in Tokyo
+
+Google todayannouncedthe launch of the Tokyo region of its cloud computing platform. With this, theGoogle Cloud Platformnow features two regions (Tokyo and Taiwan) and a total of six availability zones in Asia. In the Asia-Pacific region, the plan is to also open new regions in Mumbai, Singapore and Sydney over the course of the next year, in addition tonew regionsin the U.S., Finland, Germany, U.K. and Brazil.
+
+In total, Google now offers its users a choice between six regions (most with three availability zones) spread across the U.S., Europe and Asia. Once all the new regions go online next year, Google will offer its Cloud Platform in 14 regions around the world. This still lags the number of data center locations some of its competitors like Amazon’sAWSandMicrosoft’s Azurealready offer today, but it’s a far cry from the relatively uncompetitive position Google found itself in only a short while ago.
+
+Over the last few years, Google alsoheavily investedin its networking backbone to deliver data between its regions in Asia and the rest of the world.
+
+As the company noted today, having a local data center means latency for users in Japan, for example, will likely decrease by 50 to 85 percent when compared to serving up the same content from the existing Taiwan region.
+
+The Tokyo region, which uses Intel’s latest Broadwell processors, now offers most of the core Cloud Platform services like Compute Engine and Cloud Storage, as well as Google’s database and analytics services like Cloud Datastore, Cloud Dataflow, Cloud SQL and others.

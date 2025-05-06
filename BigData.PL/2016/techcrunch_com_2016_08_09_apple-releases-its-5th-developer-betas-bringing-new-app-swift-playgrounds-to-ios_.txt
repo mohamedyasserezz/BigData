@@ -1,0 +1,15 @@
+Apple releases its 5th developer betas
+
+Good news, Apple developers – Apple today has released its 5th version of the iOS 10 beta build along with new betas for watchOS 3, macOS, and tvOS. With this release, we’re getting closer to the final, public build of iOS – it’s likely that there will only be one or two more betas before its release expected in September.
+
+While the first few betas were buggy, as expected, Apple has been polishing up the code and fixing the broken bits with every subsequent beta release. In iOS beta 5, the company has addressed a number of issues with regard to iOS’s interaction with Apple TV, in-app purchases in the App Store, Bluetooth, iMessage, the Phone and Wallet apps, as well as accessories. Notably, the device will no longer panic when using the iPhone 6s Smart Battery Case, for instance.
+
+There are a few changes with this iOS build, however, as early testers have already discovered. The AI and facial recognition data in the Photo app has been reset, causing a new scanning process to take place, reportsiPhoneHacks. In addition, the music Control Center has been tweaked, the Today view now includes the data and day, widgets have gotten darker backgrounds, and there’s a new lock sound, their report says.
+
+The iOS 10 beta also ships with Swift Playgrounds,the “learn to code” app for kids Apple introduced at WWDC 2016.The app arrives with Learn to Code parts 1 and 2, plus additional challenges users can explore. You can also create your own playgrounds based on the templates, create a blank playground, or open playgrounds in Xcode.
+
+The app also includes the new Graphing template, in addition to the Answers, Shapes and Blank templates.
+
+In case you’re curious what’s new in the other platforms, macOS Sierra brings Siri to the Mac, the Photos app is updated, Safari has picture-in-picture for video, andmore. WatchOS 3 is also a major update in terms of offering a redesigned users interface, with no more Friends screen, and faster launching apps. Apple TV’s tvOS update isn’t as major, but will get a new dark mode and sign-on for TV Everywhere apps. The device can also act as a HomeKit hub.
+
+The new macOS betanow supports Apple Payby discovering an Apple Pay-capable phone or watch, and addresses other minor issues. The watchOS 3 beta, meanwhile,introduces a fix for the problem with Sirithat when the request involves a deleted app, Siri may not have provided the intended response.

@@ -1,0 +1,13 @@
+Intel joins Mobileye and Delphi on self-driving car system
+
+Mobileye and Delphi announced apartnershipto build an affordable self-driving car platform it could sell to automakers starting in 2019 earlier this year, and now Intel is joining the two automative suppliers to provide the chips used in their autonomous system.
+
+Intel’s processors will power the interpretation of input from the primarily camera and radar-driven self-driving system created by Mobileye and Delphi, which is aiming to bring costs down for potential purchasers by sidestepping more expensive sensor tech like laser-based LiDAR.
+
+Chipmaker Intel has done a lot to try to ensure it’s a key part of the stack when it comes to the autonomous driving wave of the future. The company will be investing $250 million in autonomous driving technologies via its venture wing, for instance, and it announced earlier this year it would be working withMobileye and BMWon a self-driving car for that company with a target street date of 2021. Intel rival Qualcomm has also made big bets on autonomous driving, including theacquisition of NXP Semiconductor, a leading provider of automotive silicon.
+
+Mobileye told reporters that while the BMW partnership and its general platform “are very similar in approach,” the BMW team-up is distinct, despite having Intel on board as a shared partner, according toBloomberg. The Mobileye and Delphi system is set to premiere at CES in January, which means we’ll get our first look at what it can do very soon.
+
+Mobileye Chief Communications Officer Dan Galves provided the following statement to TechCrunch about the addition of Intel to the partnership:
+
+Today’s news is an extension to the autonomous vehicle cooperation Delphi and Mobileye announced in August, when it was noted that there would be a companion chip in addition to Mobileye’s EyeQ®4 / 5 that would be used in the system. Delphi and Mobileye are providing all the software required for the system, which will run in combination on Mobileye’s EyeQ®4 / 5, and Intel will provide incremental computer processing power. As outlined in August, Mobileye will provide software to process 8-camera surround view, Road Experience Management (REM) mapping, and reinforcement learning algorithms for driving policy, while Delphi will provide processing of radar and Lidar sensor data, driving control software through their Ottomatika division, and vehicle integration capabilities.

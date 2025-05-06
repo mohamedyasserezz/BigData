@@ -1,0 +1,39 @@
+How artificial intelligence is changing online retail forever
+
+Artificial intelligence is all around us, from searching on Google to what news you see on social media to using Siri. And with the momentum around AI growing every day, it’s not surprising that some of the most innovative retail sites have recently been experimenting with the use of AI, as well.
+
+Businesses that ignore this growing trend will find themselves playing catch-up for years.
+
+The big question is how exactly is this new technology going to change retail. E-commerce is a space with a lot of potential, in part because it’s such a data-rich industry, and, there’s some momentum around AI gathering already. What’s more, a lot of the AI techniques that are enjoying success in other applications are well-positioned to make serious impact on the space, streamlining retail processes and transforming the online experience into something more like talking to an experienced salesperson at a brick-and-mortar location.
+
+Deep learning is a great example of this. It’s been the fuel for much of the recent success in applied AI, so it is not surprising that some of the first attempts at augmenting the shopping experience have been making use of the power of deep learning in classifying images. If you look at something likePinterest’s visual search feature, you can see the beginnings of how deep learning fit snugly in a retail context.
+
+Another example is technologies that allow you to take pictures of things you see in stores, on your commute or even in an ad and make the items in those pictures shoppable. That can easily serve as the start of a shopping experience: You see something you like, but you don’t know the name or where to get it, or you just want something similar to, say, a pair of shoes you see in a shop window (e.g.CamFind).
+
+But taking photos is not the only modality for shopping, and there are other areas in the shopping experience where AI can play a part. In fact, the e-commerce user experience has more or less stayed the same in the past 15 years. And that means that certain metrics, such as conversion rates, have stagnated.
+
+An online shopper, who often knows what they are looking for, is faced with the task of coming up with the right search terms, or scrolling through many pages of inventory to find it. Attempts at augmenting the keyword search experience with natural language have not made a major difference yet, partly because of the fact that shopping, for most users, is a very visual experience.
+
+Deep learning can be of help here, too! Auto-encoding features of images in an inventory based on similarities and differences brings about a rich model of what is available in the inventory, and the model is surprisingly close to how we as humans perceive shoppable items. The model alone, of course, is not enough: We need a way to understand a shopper’s preferences as they interact with the inventory.
+
+Another AI technique, called online learning, can be of use here, where sites are able to analyze every click through an online inventory in real time to understand customer preferences and create a personalized shopping experience. Obviously, other non-visual aspects of shoppable content, such as price, size and match, must also be taken into account, helping to weight the visual models toward user preferences.
+
+Already we’re seeing multiple, superior avenues for product discovery enabled by AI: You’ll be able to take pictures of items you like, search visually online and get personal recommendations based on an AI-generated model. But that’s just the start.
+
+Another AI breakthrough you’ll see applied to online commerce is website and content optimization. Traditionally, this has been done through trial and error, and verified using A/B testing software likeOptimizely. The issue with this sort of optimization, of course, is that improving online content is a multi-point optimization problem.
+
+There are many degrees of freedom available for exploration, ranging from font size, messaging options and images to use all the way to options to provide, ordering of pages and even the layout of the pages. Although testing professionals have smart hypotheses, different audiences respond to different messages. Sometimes the smallest tweak moves revenues the most. Sometimes a full-scale overhaul is needed.
+
+Evolutionary algorithms(EAs), a class of AI techniques, are uniquely suited for these kinds of problems. Inspired by principles of survival of the fittest, EAs generate a population of candidate solutions — in this case, configurations for online content — then measure their performance and move on to building new candidates based on the more successful candidates already measured. In other words, you give a program messaging ideas, image options, page layouts and more, and the EA mutates, combines and evolves to find the best configuration for success on a particular site.
+
+What’s really fascinating about this approach is that AI can measure the candidate solutions live, against the existing user base, and improve the performance in an ongoing basis. Each user nudges the system to make tweaks and optimizations. In essence, this means constant and continual optimization that can actually evolve with changing user patterns. It is almost like the content is alive!
+
+That’s the kind of technology that will make every visit more valuable. Marketers and sites will be able to present optimal messages and page designs to get users to what they want, faster (and, of course, close the sale).
+
+But again, there’s more.Chatbots, in the form of assistants and automated customer service reps, are becoming increasingly common across the industry. They have the potential to create a pleasant experience for the user, one that is directed at identifying exactly what best suits their needs, while promoting the brand identity through the chatbot persona itself. Many companies building conversational systems — such asViv— are banking on this brokering of intent to online services as their ultimate business model. It’s not hard to imagine extending this to shoppable content.
+
+AI is also primed to make the massively complicated (and data-rich) world of logistics much easier for retailers, from making sure the right products are in the right warehouses to actually predicting which items will fly off shelves.
+
+Interestingly, as far as consumers are concerned, a lot of these AI breakthroughs will lead to one central concept: adaptive, in-the-moment personalization — AI that can intuit what a shopper’s style is and adapt its recommendations as she or he shops; AI that can evolve a website to specific consumer needs; and AI that can understand user concerns and answer complicated questions.
+
+In other words, at every step of the buying journey, from discovery to delivery, AI will deliver tangible and important advantages for both retailersandtheir customers. It will make shopping both easier and more personal. And it’s already happening, all around you.

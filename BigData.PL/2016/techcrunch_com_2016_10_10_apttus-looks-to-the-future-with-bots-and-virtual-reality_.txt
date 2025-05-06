@@ -1,0 +1,21 @@
+Apttus looks to the future with bots and virtual reality
+
+Last yearApttus, which provides pricing, quoting and contract building on the Salesforce platform was growing at a crazy rate. It appearedto be headed to IPOor a Salesforce purchase when it got a punch to the gut.Salesforce bought Steelbrickinstead.
+
+Sources say, Apttus might have gotten greedy, thinking it was the only enterprise CPQ product out there that provided the best fit for Salesforce’s target enterprise customer base. These sources say, it believed it could ask Salesforce for a premium price. Salesforce apparently balked and bought Steelbrick instead for $360 million.
+
+While Salesforce didn’t get the heavy-duty enterprise customer base with Steelbrick, it got a better price, a similar product built on its platform and easy integration with the Salesforce product family. It was willing to make that trade-off and Apttus was left to reevaluate its future without Salesforce as potential buyer. Whilethere was talk of a 2016 IPO, the market took the wind out of that discussion for this year.
+
+After Salesforce’s bought Steelbrick, the first thing Apttus did was to begin to build some separation,porting the product from the only platform it had ever known to Microsoft Dynamics. While Microsoft’s product has substantially less marketshare, it offers the kind of enterprise customers that fit well with Apttus’ customer base.
+
+They also starting looking to the future and thinking about new ways to deliver the product. Last week I visited the company booth at Dreamforce, Salesforce’s customer conference, where Apttus still has a substantial presence, and I saw a company experimenting with advanced technologies like virtual reality and bots.
+
+I got a chance to try the application usingMicrosoft Hololens, the company’s virtual reality platform. While it’s rough, it provides a pathway to deliver Apttus software via a virtual reality interface. In the demo, I’m inside an airplane and I can try different designs like single seat or double seats. I can click the choice I want with a clicker in my hand, and as I make my choices, I can look to the side and see a pricing sheet with my choices and the total cost.
+
+They have alsodeveloped a bot, which feels much further along than the VR application. Using the bot, you can undertake activities such as starting a contract, and copying content from another contract as the basis. You can tell the bot what to edit, all with simple human commands and you generate a PDF at the end, which you can review and share.
+
+It takes what once was a complex set of tasks involving a lot of copying and pasting and has distilled it down to a conversation with the software. The bot, which is built using Microsoft Azure tools works in Slack and Skype for now, but could work with other messaging software in the future.
+
+Apttustook a new $88 million round of funding at the end of last monthon a reported valuation of $1.3 billion. The company hasn’t made a secret of the fact it wants to go public, and expects to do that next year.
+
+For now, with Salesforce no longer a likely suitor, the company is moving on and taking steps to ensure it can survive with Salesforce or without it — and bots and VR could be a big part of that.

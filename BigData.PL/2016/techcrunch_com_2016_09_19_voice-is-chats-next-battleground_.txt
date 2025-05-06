@@ -1,0 +1,41 @@
+Voice is chat’s next battleground
+
+Chatbots were meh. Sure, they’ll get better. But the upcoming innovation in chat is about being more human, not less. With the proliferation of adequate speech recognition, AI assistants and wireless headphones, the tech is ready to unlock the potential of our most basic form of communication.
+
+Soon, we’ll talk and listen to our messaging apps when it’s more convenient than typing or reading. The age of voice is about to arrive.
+
+When we’ve got our hands full. When we’re on the move. When we don’t want to fumble through menus. When we’re driving, or working, or just don’t want to dig our phones out of our pockets or purses, voice will be there.
+
+Tech fortune-tellerMary Meeker thinks voice is coming, too, calling it the “most efficient form of computing input.” We can speak 150 words per minute compared to typing only 40, and voice interfaces can learn context about us to improve prediction of our intent. Instead of always browsing starting at the home screen, we can dive directly into the functions we want.
+
+“As speech recognition accuracy goes from say 95% to 99%, all of us in the room will go from barely using it today to using it all the time,” says Baidu’s Chief Scientist Andrew Ng. Voice assistant and search usage are rapidly climbing as Amazon’s Alexa captures the imagination of consumers and developers.
+
+Right now, however, our access to voice interfaces for chat is limited. There’s basic dictation through Android and Siri in iOS, but getting anything read aloud to you can be cumbersome. VoIP calling is growing, with 300 million of Facebook Messenger’s 1 billion users firing up its audio and video calling features each month.
+
+But in most apps, there’s still no way to quickly hear your chat push notifications or messages read aloud to you, have your voice messages transcribed, bounce between message threads or interact with chatbots via voice. I believe that’s poised to change.
+
+Facebookacquired voice and natural language interface startup Wit.aiin 2015 but hasn’t done much publicly with its technology outside of text bots. One thing it’s still testing is the ability to send a voice clip message and haveFacebook automatically turn that into textso the recipient can read it instead of listening.
+
+Last week, the head of Facebook Messenger David Marcus said voice “is not something we’re actively working on right now,” but added that “at some point it’s pretty obvious that as we develop more and more capabilities and interactions inside of Messenger, we’ll start working on voice exchanges and interfaces.”
+
+Yet Facebook-owned WhatsApp just rolled out iOS 10 integration with Siri so you can ask it to call someone for you or message them something,VentureBeat reports. I’d bet we see something similar come to Messenger.
+
+What’s more ambitious could be Facebook’s interest in understanding how humans speak differently when we talk to each other versus when we talk to computers. Over a year ago, a source told me Facebook’s secretive Language Technology Group was investigating this opportunity.
+
+Our tone, vocabulary and cadence becomes more professional when we address a computer. When we talk to friends, we use slang and colloquialisms while speaking quickly and full of emotion. Just think of how you would say “OK Google, show me restaurants nearby with a four-star rating” versus how you’d ask your best friend, “Yo, where’s an awesome place to eat that’s close?”
+
+For Facebook to be able to transcribe, read aloud and analyze how we speak to friends, it may need to build a different speech recognition engine.
+
+Meanwhile, Google is preparing to launch a wholevoice-based messaging app called Allo. It’s designed for rapid-fire voice clip messaging. It also lets you talk to Google AI assistant right in the app and get help with making dinner reservations or finding directions. Combined, Allo could potentially make it easy to simply say who and what you want to message, and have the assistant route it to the recipient in the most convenient medium.
+
+[Update: As this article was being published, Google announced itsacquisition of speech recognition and natural language interface startup API.ai. This could allow Google to better parse people’s voices and structure their words for accurate interpretation of intent.]
+
+Frequent voice usage could give tech giants like Facebook and Google insights into our mood and sentiment, which could help them personalize their services.
+
+As voice and AI assistant APIs proliferate, I’d expect more and more messaging apps to embrace speech commands. Developers will build custom bots designed to interpret your voice prompts on platforms like Facebook Messenger, Telegram and Slack.
+
+And none of this will even require you to open your phone.
+
+A new generation of Bluetooth headphones will equip us with a persistent microphone. Apple’s AirPods could popularize the practice of leaving wireless earbuds in for long stretches of time because they’re finally sleek and stylish enough.
+
+Once all you have to do is bark at your AI assistant or tap you ear to compose and send a message, voice could go from a nice add-on like stickers or GIFs to an essential piece of any chat app. And that means we’ll spend less time staring at tiny screens, and more time experiencing the world through reopened eyes.

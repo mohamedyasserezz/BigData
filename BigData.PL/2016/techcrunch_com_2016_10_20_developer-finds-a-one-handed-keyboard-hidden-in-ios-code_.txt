@@ -1,0 +1,29 @@
+Developer finds a one-handed keyboard hidden in iOS code
+
+A developerhas found a hidden gem inside the iOS code base, by hacking the iOS Simulator: a one-handed iPhone keyboard. Designed to improve reachability – something that’s often an issue on larger-screened phones – the keyboard is activated by either left-swiping or right-swiping from the edges of the standard iOS keyboard. The gesture shifts keys to the side, reduces the width of the keyboard’s buttons, and places dedicated cut, copy and paste buttons within easy reach, as well.
+
+The bad news: nope, you can’t use it.
+
+This is an unreleased feature that was only uncovered by hacking the iOS Simulator – Apple’s software that allows you to simulate the iOS operating system on your Mac for development purposes. It’s possible that it could be enabled on a jailbroken phone, but that’s not something that has been tested at this time.
+
+According to Apple developer Steve Troughton-Smith, whotweetedout his findings last night, the keyboard has been hidden in the iOS code since iOS 8, but has never been made publicly available.
+
+https://twitter.com/stroughtonsmith/status/788868170270531584
+
+While it’s not unusual for there to be unreleased features in the code, the one-handed keyboard looks to be nearly finalized, so it’s not clear why Apple didn’t release it with the launch of the iPhone 7 Plus.
+
+However, its very existence demonstrates that Apple continues to think about the usability of its bigger-screened devices.
+
+Many people don’t find typing on the larger iPhone 7 Plus all that difficult, of course, but longer texting and typing sessions often require a two-handed experience. That’s not always ideal.
+
+Apple has made other attempts to improve usability on the bigger phones. For example, it rolled out a Reachability feature with the iPhone 6 Plus that allows you to lightly double tap on the Home button to pull the screen down, so you reach the icons at the top of the screen with your thumb. This addresses the problem of accessing parts of the screen, but it doesn’t do anything to improve texting/typing on the bigger devices.
+
+One-handed typing isn’t something only Apple is thinking about: Microsoft also recentlylaunched a one-handed keyboard called Word Flowthat offers a wheel interface for faster typing, for example; andBaidu’s new TalkType keyboardlets you speak your text, then pick the right words with just the reach of a thumb – something you could also do with a single hand.
+
+In addition to screenshots, Troughton-Smith also tweeted out video of the keyboard in action and a screenshot of the keyboard’s code.
+
+https://twitter.com/stroughtonsmith/status/788869300283146240
+
+https://twitter.com/stroughtonsmith/status/788879685405007873
+
+via/image credit, top:9to5Mac

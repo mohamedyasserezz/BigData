@@ -1,0 +1,57 @@
+Bulk data collection only lawful for fighting serious crime, says Europe’s top court
+
+The European Court of Justice has issued a preliminary ruling on a data retention case brought by UK MPs and privacy rights groups seeking to challenge the government’s data retention regime under DRIPA.
+
+The advocate-general’s opinion,published today, suggests governments may be able to apply general metadata retention obligations without falling foul of EU law — but it sets the bar for doing so at combating serious crime, and places renewed emphasis on respecting fundamental privacy rights.
+
+The AG’s opinion is not legally binding but is highly influential, feeding into the deliberations of the ECJ judges who will pass final judgement — and whose opinion will undoubtedly influence and shape European legislation in this area.
+
+DRIPA challenge
+
+The UK’smuch criticizedData Retention and Investigation Powers Actwas passed asemergency legislationback in 2014 by the then coalition government, followed the ECJ striking down European data retention powers earlier that year. It includes a stipulation that telecoms companies retain their customers’ communications metadata for up to a year.
+
+UK MPs including Labour’s Tom Watson and the Conservative’s David Davis successfullychallenged DRIPA in the High Court, whichlast summerruled the rushed legislation was unlawful under European law. Although the Home Office appealed that ruling, and thecasewas referred to the ECJ to request a judgement on whether DRIPA’s data retention regime is compatible with European law.
+
+It’s worth noting that Davis has since withdrawn his name from the challenge — unsurprisingly so, given he’s since been appointed to a cabinet position under new Prime Minister Theresa May. (May was Home Secretary at the time of DRIPA, leading to the unusual situation of one of her new cabinet appointees having an active European legal challenge to her Home Office policies… A situation that clearly wasn’t compatible with Davis’ new role as Brexit Minister in May’s government.)
+
+In his opinion today, the ECJ’s advocate general Henrik Saugmandsgaard Øe writes that:
+
+…a general obligation to retain data may be compatible with EU law. The action by Member States against the possibility of imposing such an obligation is, however, subject to satisfying strict requirements. It is for the national courts to determine, in the light of all the relevant characteristics of the national regimes, whether those requirements are satisfied.
+
+He goes on to detail what would be necessary in order to meet his test of “strict requirements” — including that a general obligation to retain metadata “must be laid down by legislative or regulatory measures possessing the characteristics of accessibility, foreseeability and adequate protection against arbitrary interference”; and that it must “respect the essence of the right to respect for private life and the right to the protection of personal data” laid down by the European Charter of Fundamental Rights.
+
+The objective of any data retention legislation must also be “in the pursuit of an objective in the general interest”, he writes.
+
+However he specifies that combating any crime would not be a good enough justification in his view; rather the bar is set at “serious crime”:
+
+…solely the fight against serious crime is an objective in the general interest that is capable of justifying a general obligation to retain data, whereas combating ordinary offences and the smooth conduct of proceedings other than criminal proceedings are not.
+
+“[T]he general obligation to retain data must be strictly necessary to the fight against serious crime, which means that no other measure or combination of measures could be as effective while at the same time interfering to a lesser extent with fundamental rights,” he adds.
+
+Other stipulations include a set of conditions regarding access to data, the period of retention, and the protection and security of the data — as set out in an earlier judgement (Digital Rights Ireland) — “in order to limit the interference with the fundamental rights to what is strictly necessary”.
+
+He also notes that a general obligation to retain metadata must be proportionate — weighed against the privacy risks posed by such an obligation to the democratic rights of citizens.
+
+“[T]he serious risks engendered by that obligation within a democratic society must not be disproportionate to the advantages it offers in the fight against serious crime,” he adds.
+
+Proportionality and privacy
+
+What’s most obvious here is the emphasis on oversight and proportionality for legitimizing data retention powers. The 2013 Snowden revelations shone a light on how Western governments, including the UK, had been making shadowy landgrabs of data behind the scenes. There’s no doubt that such expansive and secretive surveillance regimes would not now stand up to legal scrutiny.
+
+However there are still tricky judgements to be made on determining what is proportionate data retention, and assessing and managing how data retention impacts fundamental privacy rights — and how the “essence” of those rights can be protected when bulk collection is occurring.
+
+It remains to be seen how the ECJ will rule on the DRIPA challenge, and it’s possible the court will elaborate on exactly these sorts of tricky points.
+
+Giving some early thoughts on the AG’s opinion, University of East Anglia law lecturer and Internet privacy rights researcher, Paul Bernal, suggested the opinion is taking a very neutral stance — “leaving it to the Member states” to make judgements of proportionality and determine how they are respecting the essence of European fundamental rights.
+
+“For the UK, that isn’t likely to be good news at all, particularly with Theresa May as PM,” he adds. “Unless there’s more in the detail, or the court rules very differently, I suspect this means the IP Bill will be acceptable within EU law (so long as that law applies!).”
+
+As Bernal notes, the UK government is in the process of updating domestic surveillance legislation to replace DRIPA — which has a sunset clause — with the aim of passing the Investigatory Powers bill before the end of this year. The new UK Home Secretary is Amber Rudd.
+
+The IP bill includes powers that require comms companies capture and retain even more data than DRIPA, with a stipulation that ISPs harvest and store so-called Internet Connection Records, detailing the websites and services accessed by users for the past 12 months.
+
+It also aims to enshrine various bulk capabilities in UK law, although these powers have faced opposition, including from the official opposition Labour party, and are the subject of anoutside review— due to report later this summer. So it remains to be seen whether the government will make any amendments there.
+
+The bill is continuing its passage through the House of Lords, with peers most recently voicing concern about the implications for encryption — and the government explicitly confirming the bill would grant powers tolimit companies’ use of end-to-end encryption. Peers attempts to amend this portion of the bill were rebuffed by the government.
+
+Last month the UK also voted in a public referendum to leave the European Union — casting further doubt on whether European laws, such as the charter of fundamental rights, will apply domestically in future, once (or if) the UK does end up leaving the EU.

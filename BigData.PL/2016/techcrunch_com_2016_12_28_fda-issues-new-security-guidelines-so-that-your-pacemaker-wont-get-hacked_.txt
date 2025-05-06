@@ -1,0 +1,27 @@
+FDA issues new security guidelines so that your pacemaker won’t get hacked
+
+This week, the US Food and Drug Administration issued a set of recommendations for securing medical devices that could jeopardize the safety and privacy of their users. The report, titled “Postmarket Management of Cybersecurity in Medical Devices,” focuses on security throughout the lifecycle of a device, emphasizing that robust cybersecurity is an ongoing process that requires maintenance and regular software updates, just like any non-medical piece of hardware would.
+
+Falling short of formal regulation, the methods contained in the report are classified as “nonbinding recommendations,” a gentle term indicating that hey, these are just friendly suggestions, do whatever you want with them.
+
+In an accompanyingblog post, Dr. Suzanne B. Schwartz, associate director for science and strategic partnerships at the FDA’s Center for Devices and Radiological Health, acknowledges the industry’s vast risk:
+
+“In today’s world of medical devices that are connected to a hospital’s network or even a patient’s own Internet service at home, we see significant technological advances in patient care and, at the same time, an increase in the risk of cybersecurity breaches that could affect a device’s performance and functionality.
+
+“….manufacturers should build in cybersecurity controls when they design and develop the device to assure proper device performance in the face of cyber threats, and then they should continuously monitor and address cybersecurity concerns once the device is on the market and being used by patients.”
+
+Unlike smartphones and consumer computers that regularly see over-the-air software updates, things like pacemakers and defibrillators are more likely to be left alone once they enter the market, making them an easy mark for would-be attackers. Given that fact, the medical industry faces an array of new threats that it might be uniquely unprepared for.
+
+Beyond tampering with the functionality of devices themselves, patient databases are a rich target for identity thieves. As more networked devices blink online in hospitals, there are that many more ways to sneak into a poorly secured network. According to the U.S. Department of Health and Human Services, there have been more than1,700 major data breaches, each affecting 500 or more individuals, reported since 2009. The number of breaches not noticed, reported or listed is likely far higher.
+
+In a section on uncontrolled risk, the FDA report runs over a few worst-case scenarios resulting from software vulnerabilities and how they should be handled, step by step:
+
+“A manufacturer becomes aware of a vulnerability via a researcher that its class III medical device (e.g., implantable defibrillator, pacemaker, etc.) can be reprogrammed by an unauthorized user. If exploited, this vulnerability could result in permanent impairment, a life-threatening injury, or death.”
+
+“As soon as possible but no later than 30 days after learning of the vulnerability, the manufacturer communicates with its customers and user community regarding the vulnerability, identifies interim compensating controls, and develops a remediation plan to bring the residual risk to an acceptable level.”
+
+“As soon as possible but no later than 60 days after learning of the vulnerability, the manufacturer fixes the vulnerability, validates the change, and distributes the deployable fix to its customers and user community such that the residual risk is brought down to an acceptable level.”
+
+Two months isn’t exactly the kind of quick-fix patch we might expect in say, an iOS vulnerability. Still, the medical industry isn’t alone in its lack of preparedness for massive hacks. Unsuspecting Internet of Things (IoT) home devices are notorious forpowering botnetscapable of taking big chunks of the Internet offline with DDoS attacks. Like pacemakers, defibrillators, andinsulin pumps, a hacked smart car quickly becomes life threatening—a threat so serious that the FBI issued aformal warningabout remote auto exploits this March.
+
+The new set of FDA recommendations builds on a similarset of guidelinesissued in 2014 that focused on pre-market security, and it certainly calls further attention to the industry’s gaping vulnerability. Unfortunately, without issuing actual regulations or a means of enforcing its many suggestions, it probably won’t move the needle. The real wake-up call is more likely to be a major security incident, with lives quite literally at stake.

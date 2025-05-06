@@ -1,0 +1,31 @@
+Iris Automation is bringing eyes, and situational awareness, to drones
+
+Newdrone regulationsin the U.S. ostensibly make it easier for companies to put flying robots to work whether that’s in media, construction or agriculture. But drones are still limited to flying within the “line of sight,” or the range where a human operator can see them.
+
+So we can’t have pizzas, or prescriptions, delivered by drones as a going concern, yet. And businesses can’t send drones to do far away inspections of oil rigs or forest fires.
+
+The limitations set by the Federal Aviation Administration and Department Of Transportation make sense by and large. The last thing anyone needs is for commercial, unmanned aerial systems to crash into structures, or worse, people below causing property damage, injuries or a fatality.
+
+EnterIris Automation Inc.The one-year-old startup is building a collision avoidance system that it hopes will be so effective it can move the entire industry forward, says CEO and co-founder Alex Harmsen.
+
+Basically, Iris Automation brings situational awareness to drones, and acts as the machine eyes on board any given UAV. “It’s a visual world, so drones need sight,” the CEO said.
+
+The company’s first product is a combination of off-the-shelf chips and other components, and proprietary software that can learn and tell a drone’s autopilot system when there’s any obstacle nearby, and how to make adjustments instantly to avoid it.
+
+Harmsen said the company’s systems are already in use in test flights with select partners including3DRobotics.
+
+Iris aims to build “agnostically,” Harmsen said, so its systems can be added to drones and auto pilot “black boxes” made by any manufacturer for the commercial market, such as: DJI, Flirety, PrecisionHawk, or Micropilot and Airware.
+
+Iris Automation has so far raised $500,000 in pre-seed funding fromBee PartnersandY Combinator.
+
+Y Combinator Partner Geoff Ralston said, “To do real work with drones you gotta get out of the line of sight, and prove to the FAA or the Transportation board in Canada that drones can co-exist with other passenger aircraft, and that the probability of a collision is something like that of a jet airplane if not better.”
+
+If the threat of drone crashes sounds like a bit of fear mongering consider just last week, a drone actually did fall onto a woman’s head at asporting event in Canada, seriously injuring her and sparking an investigation by the Transportation Safety Board of Canada.
+
+And last year a commercial drone crashed at the Louis Armstrong Stadium duringthe U.S. Opentennis tournament, causing debris to hit and injurea toddler.
+
+While many drone accidents have been blamed on hobbyist, not professional operators, these still represent the risk of using drones over populated areas.
+
+Iris Automation’s system is built to process visual data in real time, so it can see structures that suddenly appear, like a plane, flock of birds or another drone – not just static objects and waypoints that might be mapped using older technologies like GPS, Harmsen points out.
+
+Originally founded in 2015 in Vancouver, Iris Automation plans to relocate or at least establish a R&D and business office in California, Harmsen said.

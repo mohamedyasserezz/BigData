@@ -1,0 +1,17 @@
+The Pleurobot robo-salamander crawls and swims like a real amphibian
+
+The mad roboticists at the École Polytechnique Fédérale de Lausanne have produced another biomimetic mechanoid — this one based on the lithe locomotion of the salamander. “Pleurobot” imitates the amphibian’s ambulation with its own articulated vertebrae, allowing it to slither along on land or at sea.
+
+“Animal locomotion is a very interesting interplay between the body, the spinal cord, and the environment,” explained the leader of the project, Auke Ijspeert, in a video from EPFL. “The novelty of this work is really the approach we took, to try to be as close as possible to the real physics of the body.”
+
+The team spent what one can only imagine was quite a long time watching X-ray videos ofPleurodeles waltl— also known as the Iberian ribbed newt, for reasons that are obvious to the informed reader.
+
+The bones and limb angles were carefully tracked — notably, the salamander essentially goes from crawling to walking to swimming simply by doing the same basic motion at higher speeds. That makes it so there’s no need to, for example, switch from a trotting to a galloping gait.
+
+The result: This skeletal horror! It contains only 11 spinal segments, far fewer than the original’s 40 (29 were deemed non-critical), and its joints have significantly reduced freedom of movement. All the same, it does a creditable job of imitating the salamander’s slither. That happens to be an important moment in vertebrate evolution, as well — these are, after all, distant ancestors of our own.
+
+It’s not all just for kicks, though. Understanding the complex interaction between locomotive action and the spinal cord and brain is something that benefits a number of fields.
+
+“Understanding this is very important, for instance, for neuroprosthetics,” Ijspeert explained in the video. “Being able to re-stimulate those circuits in humans in the long term is something very important, and for that you need to understand how the spinal cord works.”
+
+The team hopes to pursue other “biorobots” in their investigation of other types of movement and neural organization.

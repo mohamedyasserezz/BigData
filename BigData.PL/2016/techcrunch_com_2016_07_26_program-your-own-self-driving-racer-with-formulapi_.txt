@@ -1,0 +1,11 @@
+Program your own self-driving racer with FormulaPi
+
+Self-driving race cars are a few years away but why not simulate the roar of robotic Formula 1 cars with a little Raspberry Pi magic?
+
+The folks atPiborgare offering the opportunity for hackers and makers to try and drive their own autonomous car brain in a centralized race. They’ve launched aKickstarterand they’re looking for folks to download the autonomous racing code, modify it, and then race their code against other Raspberry Pi-based vehicles.$40 gets you a customizable “lid” that will contain the car’s brains. Your mission is to program the car to run the race as quickly as possible while avoiding other cars. Multiple cars with programs from all around the world with complete in a set of exciting, nerdy races.
+
+The cars run on theZeroborgmotor platform and will race on a dedicated track with laser-controlled finishing line.
+
+We provide the hardware and basic software to join the race series. Competitors can modify the software however they like, and come race day a prepared SD card with your software on it will be placed into our club robots and the race will begin!
+
+Obviously this isn’t as exciting as crashing massive cars together at Robo La Mans but I suspect the folks who win at these mini races will soon be programming bigger and better cars.

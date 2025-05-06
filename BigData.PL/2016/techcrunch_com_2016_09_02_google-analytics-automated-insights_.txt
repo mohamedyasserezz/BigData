@@ -1,0 +1,19 @@
+Google Analytics can now summarize your data with automated insights
+
+Google’s making it easier for Google Analytics users to find the important trends in their data.
+
+The change is already live in the Google Analytics app for iOS and Android, where, in the Assistant screen, you should now see automatically generated insights.
+
+For example, if your website or app had a sudden jump in new users, Google Analytics will highlight that, and tell you where those new users came from. Or if you’re an e-commerce company, it can tell you which products had the biggest rise in sales.
+
+This is information that Google Analytics was already tracking, but now it’s being surfaced in an quick-to-read card format. So businesses don’t click around to different pages to find the information, and they’re less likely to overlook important changes in the data.
+
+Senior Director of Product Management Babak Pahlavan said that for larger companies that have a data analyst or team of analysts, these insights should help them “scale up.” And for smaller businesses that can’t afford their own analysts, this approach can “bring that same sort of possibility of having these analysts accessible to them and bring in insights that otherwise you would miss.”
+
+Product Manager Ajay Nainani added that the approach was to “take the things an expert does [and] put it into a product … There’s anomaly detection, there’s a combination of techniques to surface stuff.”
+
+And the system is supposed to get smarter and better suited to each business’ needs over time. There’s a simple thumbs up and thumbs down button at the bottom of each insights card, so you can tell the system whether the data was useful for you. Google Analytics is also looking at other activity, like whether or not you’re sharing insights cards with other members of your team, to determine what’s resonating.
+
+Pahlavan also suggested that this is just one step in the evolution in Google Analytics, which is moving towards “more insights, less data.” (The product has also become part of a larger set of marketing tools,the Analytics 360 suite.)
+
+And while insights are just launching on mobile for now, Nainani said Google is working on a desktop web version too. You can read morein this Google blog post.

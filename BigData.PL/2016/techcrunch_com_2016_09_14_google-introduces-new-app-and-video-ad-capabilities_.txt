@@ -1,0 +1,13 @@
+Google introduces new app and video ad capabilities
+
+Google is announcing a couple of upgrades to its ad capabilities today as part of the DMEXCO digital media conference in Germany.
+
+First up are its Universal App Campaigns, where developers can promote their apps across search, display, Google Play and YouTube advertising. Google says these campaigns have resulted in more than 3 billion app downloads, but earlier this year, it also said developers would be able to target users who are likely to take a specific action (not just installing the app). Now it’s announcing that this targeting option is available to all advertisers.
+
+Here’s how Google lays out the processin its official blog post:
+
+You get to choose the in-app activity you want to optimize for, whether that’s tapping into a deal or reaching level 10, and can use third-party measurement partners or Google’s app measurement solutions like Firebase Analytics to measure those activities. Once your in-app activities are defined within AdWords, you’ve plugged in your analytics solution, and set your cost-per-install, Google will put our machine learning algorithm to work. Universal App Campaigns evaluate countless signals in real time to continuously refine your ads so you can reach your most valuable users at the right price across Google’s largest properties.
+
+It’s also announcing a new type of TrueView ad — for YouTube viewers, TrueView is the format that makes ads skippable, while for advertisers it means that they only pay when an ad gets viewed in its entirety or drives a download or purchase. With the new TrueView for action format, advertisers can include a custom call-to-action button — like “Get a quote,” “Book now” or “Sign up” — in their video ad.
+
+Google says this option could be particularly useful for advertisers in “high consideration” industries, like those in financial services, automotive, or travel. It’s going to be testing this format for the rest of 2016.

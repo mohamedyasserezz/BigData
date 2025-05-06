@@ -1,0 +1,11 @@
+Google open sources the code that powers its domain registry
+
+Google todayreleasedNomulus, the Java-based registry platform that powers Google’s own .google and .foo top level domains (TLDs).
+
+Google says it started working on the technology behind Nomulus after the companyapplied to operate a number of generic TLDs itselfback in 2012. Until then, domain names were mostly restricted to the .com’s, .net’s and various country-level TLDs like .de and .uk. Once the Internet Corporation for Assigned Names and Numbers (ICANN) decided to open TLDs up to so-calledgeneric TLD’slike .app, .blog and .guru, Google jumped into the fray and applied for .google and a number of other TLDs.
+
+Nomulus is the platform it uses to manage all the registration data for domains that fall under its TLDs (thinkblog.google). Among other things, this platform handles all of the requests to buy, renew and transfer domains. While you may be buying a domain name from GoDaddy, for example, you’re really just using GoDaddy as an intermediary between you and the TLD’s owner.
+
+While Nomulus is open source (and released under the Apache 2.0 license), it’s worth noting that it is tightly integrated with Google’s Cloud Platform. It runs on App Engine and uses the Google Cloud Datastore as its backend database.
+
+Google saysDonuts, which owns over 2300 of these generic TLDs, also contributed to the Nomulus code base and will soon make a public test version available, too.

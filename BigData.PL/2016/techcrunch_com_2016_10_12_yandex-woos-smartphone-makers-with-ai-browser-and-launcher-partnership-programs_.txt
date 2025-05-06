@@ -1,0 +1,45 @@
+Yandex woos smartphone makers with AI, browser and launcher partnership programs
+
+Aftersuccessfully bringing a high-profile antitrust caseagainst Google in Russia over bundling services with the Android OS, the country’s national search giantYandexis trying to take its competitiveness in mobile up another notch.
+
+To grow its business outside of its current core market of Russia, the company launched a new partnership program to work with smartphone handset makers, where it will offer its Android launcher and browser, powered by its Yandex Zen artificial intelligence engine, as pre-loaded services, replacing products typically bundled with Google’s Android OS.
+
+Alongside basic functions like browsing the web or your apps, Yandex’s services will feature streams of content that include alerts on articles, news, videos, images, “and other stories matching personal interests in the form of an infinite feed.”
+
+Early adopters of the program include a mix of smaller handset makers and a couple of others with a significantly higher profile: Fly, LAVA, Mobile TeleSystems, Multilaser and Posh Mobile; but also Wileyfox and ZTE, who will customise the browser and launcher in varying degrees.
+
+(ZTE for example is going for a white-label offering where you would never know it was Yandex behind the scenes; others are using Yandex branding.)
+
+In all, Artem Fokin, VP for international business development at Yandex, tells me that the new devices will be sold across Europe, India, Latin America and Africa, covering about 70% of the world’s internet population.
+
+Targeting a smaller handset makers is an interesting strategy: individually, they may not be a threat to the likes of Apple or Samsung, but collectively, they make upjust under half of all smartphone sales, according to Gartner.
+
+And given the economics of making smartphones at scale and needing things to differentiate from the rest of the pack, they are also the most likely candidates for trying something like this out.
+
+“Device manufacturers often have to choose between developing in-house software at a huge overhead cost or sacrificing product differentiation and additional revenue. Some OEMs pre-install as many apps as possible. Unfortunately, this has a negative effect on the user experience and is counterproductive to their brands in the long-term,” Fokin said in a statement. “Our software and artificial intelligence technology is aimed at shaking up the market and helping our partners overcome these challenges, reduce customer churn and increase profit margins.”
+
+Yandex’s bigger business impetus here is clear: the company is the biggest search engine in Russia and surrounding countries, but that holds limited scope for growth, especially in a wider global search market that has been cornered by Google.
+
+At the same time, Yandex — similarly to Google — has built a ton of technology to bolster its services in the Russian market like maps, news alerts and much more, both to grow its search revenues and to leverage some of that domination to build business in other areas. Now, given that it’s essentially lost to Google in desktop search globally, Yandex is hoping that it can build other products for other platforms where there is still room for growth and change.
+
+This is not Yandex’s first foray into tapping the growth of mobile and smartphone use as a route to growing its business outside of its home market of Russia. Back in2014, it released Yandex.Kit, a complete firmware update that essentially replaced Google’s whole portfolio of mobile apps on Android phones. OEMs that signed on to use it included the likes of Huawei, but as Fokin pointed out to me, it was largely an effort that didn’t extend outside of the Russian market.
+
+Today’s launch is a little different, in that Yandex is not looking to take on the whole kit and caboodle on smartphones (not yet, anyway). It’s intentionally only launching two services — a browser and a launcher — and outside of a handful of its core markets like Russia, it’s not even bundling in services like Yandex Search as part of this.
+
+“Before we were focusing on our domestic market, and this was our way to distribute Yandex Search,” Fokin said. “Now we’ve made it a global product and separate from search. If it’s installed in Brazil, for example, the default search is Google, because that is what would be expected in that market.”
+
+The other reason for leaving out Yandex Search, Fokin told me, is because in most markets Yandex doesn’t have the infrastructure to monetize it in the same way that it does in its home markets. Instead, the business model behind its partnership program will be based around “ads in the most unobtrusive way,” he said.
+
+By this he means no pop-ups and with much of it coming in the form of “native content” within larger content feeds. If a user clicks on a link, Yandex and the OEM share the revenue on that. No word on what percentages the two parties have, except to say that it is “a significant portion of the revenue” and “a fair share.”
+
+Given that mobile internet browsers and smartphone launchers have been around for a while now, you may wonder what, exactly, Yandex is doing here that will be different or more attractive.
+
+Fokin tells me that this is where Yandex Zen, the AI engine, will come in: machine learning will track how you scroll and pause on certain links to read them, track what you are interested in by your browsing habits and combine that with Yandex’s bigger search index algorithms to develop an ever more accurate picture of what you might like to see, both in terms of content recommendations and ads.
+
+Early implementations of the products have already seen people spend about 20 minutes on average in Yandex’s browser and launchers, with the figure growing, he said.
+
+He added that Yandex’s AI also powers the company’s built-in ad blocking feature in the browser. By default nothing is blocked, but if a user decides to ban or block an intrusive ad, Yandex learns that and serves less of the same in the future, and also gives data to publishers so that they know what isn’t working.
+
+All of this was built in-house, he said. “We’ve been making AI and recommendation products for Yandex itself since 1997,” he said. “We think it’s some of the best on the market.”
+
+Fokin would not say what other Zen-powered services Yandex may include in the partnership program except to note that they will continue for the time being to be focused on content, with products in the general area of recommendation and discovery.

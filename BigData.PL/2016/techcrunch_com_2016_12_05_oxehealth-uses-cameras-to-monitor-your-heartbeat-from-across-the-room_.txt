@@ -1,0 +1,29 @@
+Oxehealth uses cameras to monitor your heartbeat from across the room
+
+MeetOxehealth, a startup that plans to turn any regular security camera into a health monitor. The British company wants to make it easier to monitor patients in a hospital, police station, psychiatric hospital or an assisted living residence. It’s a non-intrusive way to make sure that everybody is doing well. The startup is launching onstage atDisrupt London.
+
+Finger pulse oximeters are the easiest way to check your vital signs right now. While they’re incredibly accurate and convenient, you also need to wear them on your finger at all times. Oxehealth thinks there’s a better way to do the same thing.
+
+The startup uses the same technique, but with any modern digital video camera. Even when the camera is across the room, the camera can detect skin color changes and accurately read a heartbeat. It can also track breathing activity by looking at the movements of the chest.
+
+And if you want to get technical, Oxehealth uses computer vision, machine learning and signal processing to derive vital signs. This proprietary algorithm is patented. Oxehealth CEO Hugh Lloyd-Jukes showed a live demo on stage at Disrupt with a standard 2 megapixel camera.
+
+This is particularly useful in specific scenarios, such as psychiatric hospitals. You want to make sure that your patients are not trying to hurt themselves, but at the same time, you don’t want to tell them to put an oximeter on their fingers.
+
+Oxehealth doesn’t want to get into hardware — the company only wants to provide the software platform. So it means that you can turn your existing surveillance cameras with processing boards into Oxehealth cameras. The startup wants to sell recurring subscriptions with a software-as-a-service approach.
+
+In addition to these very specific buildings, you could imagine bigger applications. For instance, elderly people could potentially live on their own for longer if there’s a product that can check that they’re doing fine. The startup will need to set a good track record first, but Oxehealth could end up serving a big market with a useful technical innovation.
+
+Judges: Amy Chang (Accompany), Tracy Doree (Kindred Capital VC), Hussein Kanji (Hoxton Ventures), Saul Klein (LocalGlobe) and Siraj Khaliq (Atomico Partners)
+
+Question:It looks very impressive. Have you specifically chosen to go after these different verticals instead of saying we’re going to do health and we’re going to do it very well?Answer:Health is a big category, you have to pick the best verticals.
+
+Q:What’s the pricing and business model?A:It’s a SaaS for enterprise. The initial go-to-market is on a project basis. In terms of price, we’re negotiating in real time right now so it’s a bit sensitive. You’re looking at thousands or hundreds of pounds for a solution.
+
+Q:I’m a little confused, are you an IP company, a product company? Are you still in the pilot phase or are you selling the company?A:We’re starting with the enterprise opportunity. It’s a phased approach. It’s a pure software play.
+
+Q:What’s the unique insight that you bring to the market?A:No one else can monitor your vitals from across the room.
+
+Q:Can you work with any standard IP-based videos?A:Effectively yes. We haven’t tested all of them. We’re analyzing each pixel in the sensor.
+
+Q:You need a separate chipset alongside the video camera?A:With CCTV cameras, they’re starting to have quite powerful chips that can run it on the camera. Older models need a separate chip.

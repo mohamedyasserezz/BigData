@@ -1,0 +1,17 @@
+Microsoft’s Project Springfield helps developers find and squash bugs
+
+Microsoft todayannounceda first preview ofProject Springfieldat its Ignite conference in Atlanta. The cloud-based tool aims to help developers find bugs in their applications by combiningfuzz testing, an automated way of testing code by throwing semi-random input at it, with artificial intelligence tools that allow the tool to ask smarter what-if questions when it looks at potential security issues.
+
+“Think of a car crash,” Microsoft researcher David Molnar told me. If you only see the result, you don’t know why the crash happened. A regular fuzzer may tell you when the code crashes, but the AI aspect of the tool allows it to reason about how the software actually works. The team repeatedly noted how it looks at this tool as the best way to find “$1 million bugs,” that is, potential security issues in its own operating systems and productivity tools that could incur significant costs to fix after they have been deployed.
+
+“Each time it runs, it gathers data to hone in on the areas that are most critical,” the team writes in today’s announcement. “This more focused, intelligent approach makes it more likely that Project Springfield will find vulnerabilities other fuzzing tools might miss.”
+
+Developers upload their binaries to the service and all of the actual testing happens in the cloud. Once the tool has identified a bug, it’ll give the developer access to test cases to help reproduce the issue.
+
+Internally, Microsoft has been using a similar tool for about 10 years now, Molnar told me. It’s been using it to detect potential bugs in Windows, for example.
+
+One interesting aspect here is that the tool doesn’t need to see the source code. Instead, it uses the final binary, which means a company could use it to evaluate code it buys from outside sources or when it acquires another company, too.
+
+Using this combination of multiple different fuzzing techniques and AI, the team argues, allows it to find more bugs — and deeper bugs — than other testing methodologies.
+
+The ultimate goal here, Molnar said, is to democratize this technology by making it so easy to plug into the development pipeline that every company can use it. He wouldn’t say when Microsoft plans to ship Project Springfield to developers, but he repeatedly noted that you can now sign up for thepreview.

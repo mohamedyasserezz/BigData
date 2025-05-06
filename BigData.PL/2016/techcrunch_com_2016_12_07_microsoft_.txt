@@ -1,0 +1,13 @@
+Microsoft outlines future mixed reality and cellular PCs with Intel and Qualcomm partnerships
+
+If you weren’t anywhere near Shenzhen today, you likely missed some of the stories coming out of Microsoft’sWindows Hardware Engineering Community event (WinHEC). The company used the opportunity to highlight a number of partnerships and plans designed to hasten the next step in Windows evolution.
+
+At the top of the list is Project Evo, a collaboration with Intel designed at developing the next generation of PCs focused on mixed reality, gaming, AI and security. The whole project is still in the early stages, so there’s not much in the way of details, though the list of features includes the addition of far-field communications aimed at extending the range of Microsoft’s Siri/Alexa competitor, Cortana.
+
+Security upgrades include improved protection against malware and hacking, along with better biometrics through the Windows Hello system. Gaming will play a key role in Evo as well, likely through the Beam integration that made its debut during October’s Windows 10 Creators Update announcement. Functionality on that front includes game broadcasting and spatial audio.
+
+And anyone who’s been following Hololens, Windows Holographic and Creators Update won’t be all that surprised to learn that AR is a big piece of the puzzle, with Project Evo aimed at bringing Windows’ much hyped mixed reality offerings to a line of “affordable” PCs and headsets.
+
+Microsoft is also making a big play on China, on the mixed reality front, submitting HoloLens for governmental approval in that country and adding manufacturer 3Glasses to its list of headset developers that already includes Acer, ASUS, Dell, HP and Lenovo. Windows 10 support should arrive on the company’s S1 headset early next year.
+
+The software giant will also be partnering with Qualcomm to deliver the full Windows 10 experience to computers running on Snapdragon chips. “With Windows 10 on cellular PCs,” says EVP Terry Myerson, “we will help everyone make the most of the air around them. We look forward to seeing these new devices with integrated cellular connectivity and the great experiences people love like touch, pen and Windows Hello, in market as early as next year.”

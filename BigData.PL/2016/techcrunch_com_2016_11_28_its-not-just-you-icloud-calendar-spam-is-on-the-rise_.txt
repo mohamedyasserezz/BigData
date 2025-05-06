@@ -1,0 +1,37 @@
+It’s not just you, iCloud calendar spam is on the rise
+
+If you’re using iCloud to sync your calendar across your devices, chances are you just received a bunch of spammy invites over the last few days.Manyusersarereportingfake events about Black Friday “deals” coming from Chinese users. If you’re looking for cheap Ray-Ban or Louis Vuitton knockoffs, you might find these invites useful. Otherwise, you might be wondering: why is this a thing?
+
+If you use your calendar for work, you already rely on calendar invites to invite other people to meetings and events. All major calendar backends support this feature — Google Calendar, Microsoft Exchange and Apple’s iCloud.
+
+And it’s quite a convenient feature as you only need to enter an email address to send these invitations. You don’t need to be in the same company or even in your recipient’s address book.
+
+But it’s also yet another inbox — and like every inbox out there, it can get abused. How many times did you think that somebody was a tad too aggressive by pushing an invite to your professional calendar before you even agreed to a meeting in the first place?
+
+In the worst case, you can even get spammed by random people who just want to find a way to send you a message. Even if 99.9 percent of people will find this annoying, 0.1 percent is already a good conversion rate when you massively spam millions of people.
+
+https://twitter.com/danbruno/status/796605914132443136
+
+There are many ways to prevent spam. As all invites go through a central server, tech companies can enforce strict rate limits. For instance, chances are you don’t need to send more than 100 invites per hour. So Apple can prevent its users from sending thousands of invites in very little time.
+
+Of course, you could create new calendar accounts to bypass this limit. Tech companies can also monitor IP address to make sure that you don’t send invites using multiple accounts from the same IP address.
+
+Finally, tech companies could also monitor the content and pattern of those invites to block some of them. That’s why Google relies onmachine learningto improve Gmail’s spam filter and keep up with the new email spam trends for instance.
+
+Apple can’t see the content of your calendar invites because your calendar data isencryptedon Apple’s servers. So the company can only use some basic limitations to prevent mass spam. And I’m sure these hard-coded rate limits exist.
+
+Either there have been some issues on Apple’s side, or somebody found a way to bypass Apple’s own restrictions. My guess is that somebody found a way to automate calendar spam from many different accounts and IP addresses, making it much harder for Apple to detect it.
+
+In addition to that, calendar spam started around Thursday, just in time for Thanksgiving in the U.S. Many Apple engineers were probably off for a few days, making it a good window to start spamming.
+
+But the most worrying part is that spammers either found a huge database of iCloud email addresses or are usingbrute forceto try all possible email addresses one by one. If you planned on keeping your iCloud email address secret, it might be out there.
+
+And if you got spammed, you might want to know how to prevent these invites in the future. It’s time for another episode ofFantastic Tips and Where to Find Them. Here’s what you should do to prevent iCloud calendar spam.
+
+Option #1:If you don’t use iCloud for your calendar, open the Settings app on your iPhone and System Preferences on your Mac. Head over to iCloud settings and disable calendars to stop iCloud syncing and event invitations.
+
+Option #2:If you want to quickly get rid of the spam, just decline the calendar invite. The good thing is that the event will just disappear from your calendar. If it’s still there, make sure you disabled “Show Declined Events” in your calendar app settings. The bad thing is that the spammer will receive a notification, proving that you viewed the notification, you use your calendar and your iCloud email address is valid.
+
+Option #3:Create a new iCloud calendar, move your spam events to this new calendar and delete the calendar. Make sure you press “Delete and Don’t Notify” when you get a prompt. This way, the spammer won’t know that you saw the notification and that this iCloud email address is valid.
+
+Option #4:Go toiCloud.com onyour laptop and open the Calendar web app. Click on the gear icon and open Preferences. In the Advanced tab, you can choose to receive calendar invites as emails. The good thing is that your email client could catch the spam before it shows up in your inbox. And emails are less intrusive than calendar alerts anyway. The bad thing is that you won’t receiveanypush notification for new calendar events, even genuine ones.

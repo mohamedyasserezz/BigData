@@ -1,0 +1,11 @@
+CoreOS launches its OpenStack on Kubernetes project as a technical preview
+
+Six months ago,CoreOS, the purveyor of fine, small Linux distributions andcontainer management services, demoed a project that would allow its users to easily deploy the notoriously complex OpenStack private cloud platform with the help of containers and Google’s Kubernetes container management tools. Today, it’s ready to actually launch this toolas a technical previewand promises that it will allow virtually anyone to deploy OpenStack on Kubernetes within 15 minutes and with the help of a single command.
+
+OpenStack on Kubernetes, or “Stackanetes” as the CoreOS team sadly likes to call it, works with the latest release of OpenStack (Newton) and will set up a full high-availability OpenStack deployment with all of that platform’s infrastructure services.
+
+To some degree, this is obviously a bit of a stunt, given that the companies that are currently setting up OpenStack clouds are the kind of enterprise companies that work with third-party vendors like Mirantis, Canonical, HPE and others to set up these clouds for their mission-critical workloads. It does go to show, though, that containers and Kubernetes can make it far easier to at least stand up a basic OpenStack deployment than ever before — and maybe that will get companies that weren’t thinking about using OpenStack to give it a second look.
+
+Technically, Stackanetes uses CoreOS’s rkt as its container engine (it’s competitor to the Docker Engine) and Kubernetes as its cluster orchestration tool. As the CoreOS team also points out, Kubernetes itself also uses the CoreOS-incubated etcd key-value store.
+
+In total, it takes about 300 lines of YAML markup to define all of the Kubernetes objects it takes to set up an OpenStack cloud.

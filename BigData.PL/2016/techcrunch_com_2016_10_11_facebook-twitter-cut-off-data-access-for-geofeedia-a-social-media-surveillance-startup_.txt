@@ -1,0 +1,39 @@
+Facebook, Twitter cut off data access for Geofeedia, a social media surveillance startup
+
+According to a new study published today from theAmerican Civil Liberties Union, major social networks including Twitter, Facebook and Instagram have recently provided user data access toGeofeedia,the location-based, social media surveillance system used by government offices, private security firms, marketers and others.
+
+As TechCrunchpreviously reported, Geofeedia is one of a bevy of technologies used, secretly, by police to monitor activists and the contents of their discussions online.
+
+TheACLU said in a blog postthat both Twitter and Facebook (which owns Instagram) made some immediate changes in response to their study’s findings.
+
+“Instagram cut off Geofeedia’s access to public user posts, and Facebook cut its access to a topic-based feed of public user posts,” the ACLU said.
+
+The ACLU also noted in their post:
+
+“Neither Facebook nor Instagram has a public policy specifically prohibiting developers from exploiting user data for surveillance purposes. Twitter does have a ‘longstanding rule’ prohibiting the sale of user data for surveillance as well as a Developer Policy that bans the use of Twitter data ‘to investigate, track or surveil Twitter users.’”
+
+On Tuesday, following the publication of the ACLU findings,Twitter announcedthat it would “immediately suspend Geofeedia’s commercial access to Twitter data.”
+
+Based on information in the@ACLU’s report, we are immediately suspending@Geofeedia’s commercial access to Twitter data.
+
+— Global Government Affairs (@GlobalAffairs)October 11, 2016
+
+A Facebook spokesperson tells TechCrunch:
+
+“[Geofeedia] only had access to data that people chose to make public. Its access was subject to the limitations in our Platform Policy, which outlines what we expect from developers that receive data using the Facebook Platform. If a developer uses our APIs in a way that has not been authorized, we will take swift action to stop them and we will end our relationship altogether if necessary.”
+
+It’s worth noting that Facebook’splatform policygenerically limits developers.
+
+For example, it says developers are not permitted to “sell, license, or purchase any data obtained” from Facebook or its services. And they can’t transfer data they get from Facebook, including “anonymous, aggregate, or derived data,” to any data brokers. Finally, developers are not permitted to put Facebook data into any search engines or directories without the social network’s explicit permission.
+
+We have reached out to Geofeedia for comment but executives were not immediately available for an interview.
+
+A public relations consultant for Geofeedia sent a lengthy statement, attributed to Geofeedia CEO Phil Harris, defending the company’s practices in general. An excerpt follows:
+
+“Geofeedia is committed to the principles of personal privacy, transparency and both the letter and the spirit of the law when it comes to individual rights. Our platform provides some clients, including law enforcement officials across the country, with a critical tool in helping to ensure public safety…
+
+Geofeedia has in place clearpolicies and guidelinesto prevent the inappropriate use of our software; these include protections related to free speech and ensuring that end-users do not seek to inappropriately identify individuals based on race, ethnicity, religious, sexual orientation or political beliefs, among other factors.
+
+That said, we understand, given the ever-changing nature of digital technology, that we must continue to work to build on these critical protections of civil rights.”
+
+Update: A company statement from Geofeedia was added to this post after it was originally published.

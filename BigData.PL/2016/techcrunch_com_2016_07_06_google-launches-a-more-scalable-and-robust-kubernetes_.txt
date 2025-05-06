@@ -1,0 +1,15 @@
+Google launches a more scalable and robust Kubernetes
+
+Google today announced the next version ofKubernetes, its open source orchestration service for deploying, scaling and managing software containers.
+
+The focus ofversion 1.3is on providing Kubernetes users with a more scalable and robust system for managing their containers in production. In addition, Kubernetes now also supports more emerging standards includingCoreOS’s rkt, and those put forward by the Open Container Initiative (OCI) and Container Network Interface (CNI) initiatives.
+
+“As our users scale their production deployments we’ve heard a clear desire to deploy services across cluster, zone and cloud boundaries,” Google product manager Aparna Sinha writes in today’s announcement. “We’ve also heard a desire to run more workloads in containers, including stateful services. In this release, we’ve worked hard to address these two problems, while making it easier for new developers and enterprises to useKubernetesto manage distributed systems at scale.”
+
+With this update the users will be able to set up services that span multiple clusters that can even be hosted across multiple clouds, too. Google notes that this enables new hybrid and multi-cloud scenarios and will allow for creating high-availability clusters that are more resistant to outages.
+
+Kubernetes now also features a number of new features for developers who want to use containers to run stateful applications (think databases). The project now also features improved autoscaling support. “Customers no longer need to think about cluster size, and can allow the underlying cluster to respond to demand,” Google says.
+
+Adding support for rkt as an alternative container runtime to Docker’s runtime doesn’t really come as a surprise. Google wants Kubernetes to be an extensible and open platform and different users have different needs. In practice that means following a path that’s not unlike Docker’s own “batteries included but swappable” model where Kubernetes may play favorites but still allows users to swap in their own preferred parts.
+
+Kubernetes 1.3 now also rolling out to Google’s increasingly popular Container Engine service, which is basically a fully managed Kubernetes service on top of Google’s cloud platform. Google says Container Engine usage continues to double every 90 days and this new version of Kubernetes will now enable its users to run on twice as many nodes in a cluster as before (up to 2,000) and services can now span different availability zones.

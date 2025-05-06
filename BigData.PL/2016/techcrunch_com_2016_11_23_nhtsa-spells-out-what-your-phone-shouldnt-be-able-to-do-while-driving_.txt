@@ -1,0 +1,17 @@
+NHTSA spells out what your phone shouldn’t be able to do while driving
+
+The National Highway Traffic Safety Administration released newvoluntary proposed guidelinesfor software makers and device manufacturers, including smartphone makers like Apple and Google, which aim to cut down on driver distraction from mobile apps and hardware.
+
+These guidelines, which are again voluntary, are based on research about what factors have led to road-related deaths stemming from driver distraction. They include recommendations that device manufacturers build infotainment pairing in to gadgets like smartphones by default, and add a “Driver Mode” that will create a simplified user interface for the device when it’s being used in a vehicle.
+
+Sound familiar? It should – Google has essentially complied with these recommendations with its latestupdate to Android Auto, which simplifies the interface with larger touch targets, allowing a user to more easily control navigation, music playback and more while they’re using their phone via a dash mount in their vehicle. It brings the Android Auto interface previously only available on specific in-car infotainment units to any compatible Android device. NHTSA’s guidelines ask for some further steps, however, including locking out certain functions.
+
+NHTSA notes in the opening to the guidelines that 10 percent to the 2015 recorded traffic fatalities involved at least one distracted driver, which was up 8.8 percent from the previous year, hence the need for urgent action on trying to curb that trend. NHTSA also defines three kinds of distraction it aims to correct with these voluntary measures: visual, manual (i.e., requiring you to take your hands off the steering wheel) and cognitive (taking your mind of the road).
+
+The proposed guidelines in this second phase of NHTSA’s recommendations include feature lock-outs that occur when a smartphone is paired with a car’s infotainment system – these would include blocking the ability to show video unrelated to driving on a device screen, blocking the display of some types of pictures or graphics, and preventing display from showing automatically scrolling text (apparently some people read while driving using this kind of app). Non-voice text entry in general and other lengthy text display designed for reading is also on the proposed block list.
+
+Driver Mode, in NHTSA’s proposal, would block those locked out features but offer a simplified, easier to use interface on the device itself for when pairing while driving isn’t an option or isn’t used by a driver. NHTSA doesn’t want passengers to be blocked from full use of their device, however, so it also asks for the development of tech that can automatically distinguish between drivers and passengers during use and lock out features only for drivers.
+
+This last bit might be the tallest order among these recommendations in terms of getting OEM buy-in; making things like CarPlay and Android Auto available even when a device isn’t connected to an in-car infotainment system is relatively simple, but building in tech that automatically limits access to features in certain scenarios like driving, and that can also distinguish the difference between use by a passenger and use by a driver is a much bigger ask.
+
+Even if its technically feasible, I can’t imagine smartphone makers being enthusiastic about building features into phones that specifically lock down aspects of their utility temporarily without user input. Still, NHTSA is calling for open comments so we’ll see how device makers respond.

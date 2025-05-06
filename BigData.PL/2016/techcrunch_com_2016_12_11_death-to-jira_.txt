@@ -1,0 +1,25 @@
+Death to JIRA
+
+I have long held that Atlassian’s ubiquitous JIRA bug-tracker / feature-planner serves a valuable purpose in the software biz: it gives project teams a common enemy to bond together against. Alas, it’s not worth it. JIRA’s design is fundamentally antithetical to good software development, if it is used for anything more than simple bug tracking. Allow me to propose a better way.
+
+When not writing this column, I’m a software engineer who works with many different clients at the software consultancyHappyFunCorp, so I see many different kinds of JIRA usage. Some organizations use it as Bugzilla++, which is fine and fair enough. But an increasing number seem to be using it to define requirements; just deconstruct the project into a flock of JIRA tickets, the thinking goes, and then you can use them to estimate, communicate, track progress and manage changes.
+
+Alas, this thinking is deeply flawed. A JIRA ticket comes with inevitable, built-in assumptions and ramifications. That the feature / behavior it describes is discrete. That it is ultimately binary, i.e. either complete or not. That it can be individually estimated. That it can be worked on in relative isolation. That its connections toothertickets can be modeled very simply, using JIRA’s childishly simple notion of “linked” tickets.
+
+This is not how software is best built. Software is iterative; instead of building Subsystem A, then Subsystem B and then Interface AB, developers get some basic end-to-end A-AB-B information flow going, then (or beforehand) write tests for that initial trickle of data and learn from the discoveries made during that process — then often go on to deal with the unknowns and minefields elsewhere in the system, sometime for weeks on end, before returning to then expand that flow until all three are complete.
+
+But with JIRA, progress is measured in tickets waiting to be worked on, and tickets cleared. Even if this isn’t explicit, it is inevitable; no developer wants to constantly stare at a huge column of “To Do” and “In Progress” tickets; they want to get them off their plate and move them to “QA” and “Shelved” as soon as possible. And so JIRA ticketing subtly but powerfully tends to push developers to work on one ticket at a time, instead, which is often both less efficient and more prone to drastic late-in-the-game failure.
+
+Worse yet, they are implicitly pushed toarchitectthe software they write in a way that maps to the JIRA tickets, even if this isn’t technically optimal — and it usually isn’t. Sure, theycouldpush back, and request a wholesale restructuring of the mental model of the project. But who wants to deal with that kind of social and capital load, on an ongoing basis? Far easier just to accept the implicit ticketed system architecture, often crafted in haste and in passing, often by a non-technical manager.
+
+Worst of all, this deconstruction into tickets means that there’s often no single place to go to for an overview of the system as a whole. The best software is developed by people who are able to concentrate on the fine implementation details while also keeping in mind the broader purposes of the system as a whole. JIRA makes that latter part extraordinarily, and needlessly, difficult.
+
+I stress that it’s not specifically JIRA itself which is guilty of this. All of the above is implicit in the notion of reducing software architecture and development to a set of “tickets.” JIRA’s great sin is only that of being the most successful and widespread ticketing system. The notion of specifying a software project with a set of tickets is itself the enemy.
+
+I promised a better way. It is astonishingly simple. We already have an extremely powerful descriptive system which can be used to specify complex systems while including ambiguities, uncertainties, interwoven relationships, iterative levels of success and an arbitrarily broad spectrum of scale and detail. It is called “prose.”
+
+For some reason many companies today seem to be terrified of the prospect of writing more than a couple of paragraphs of clear and simple prose. But a well-written 8-page document can define the nuances of a complicated system far better than a whole cumbersome flotilla of interlinked JIRA tickets.
+
+Indeed, it’s easy to envision an automated system which takes a simple text document, parses it into sentences, bullet points, paragraphs, sections and chapters, and tracks the estimation and progress of those elements — at whichever scale makes sense in that context — instead of tickets. (I suppose you could even automatically render them into JIRA tickets, if you really had to; but the point is that the master specification would be a single coherent prose document.)
+
+Feature planning is about communication. JIRA is fundamentally a terrible way to communicate the requirements of a complex system. Words in a row, if written well, will always be better.

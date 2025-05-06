@@ -1,0 +1,63 @@
+Swiss public back law expanding surveillance powers
+
+In the wake of the 2013 Snowden revelations about mass surveillance programs some startups with concerns about overreaching government requests for user data settled on Switzerland as a base for their business — owing to what they dubbed favorable privacy laws.
+
+However, they might need to have a rethink after the Swiss public approved more invasive state surveillance powers in a referendum vote on Sunday.
+
+Startups headquartered in Switzerland for privacy reasons include encrypted email providerProtonMailand secure comms companySilent Circle, to name two.
+
+The law in question was passed by the Swiss parliament in fall 2015, but campaigners stalled its progress after winning a referendum by collecting enough petition signatures, under the country’s direct democracy regime.
+
+A year on they have lost the fight, with 65.5 percent of voters in the referendum backing the new law, according to theBBC.
+
+The law expands the surveillance capabilities of the Swiss SRC spy agency to give them the power to lawfully hack into computers and install malware, tap phones and internet comms and install hidden cameras and bugs in private locations to gather data.
+
+The most intrusive measures can be used totarget terrorism, espionage, the spread of weapons of mass destruction and attacks on nationally significant infrastructure, according toRTS,but not against violent extremism.
+
+The Swiss government hasreportedlysaid it expects to make use of the powers only around 10 times per year.
+
+AFP (viaThe Guardian) quotes Yannick Buttet, the Swiss Christian Democratic party’s vice president, a backer of the expanded powers, arguing the expansion of state snooping powers is not akin to mass surveillance programs elsewhere. “This is not generalised surveillance. It’s letting the intelligence services do their job,” he said.
+
+Not all politicians agree, though.
+
+Arsquotes the Social Democrats’ Jean Christophe Schwaabdisagreeing: “This law seeks to introduce mass observation and preventive surveillance. Both methods are not efficient and go against the basic rights of citizens.”
+
+Local encrypted email provider ProtonMail previously identified the Swiss legal regime regarding interception of email comms as a key motivation for basing its business in the country, given it was then legally exempt.
+
+Writing in ablog post in 2014, it said:
+
+Nearly every country in the world has laws governing lawful interception of electronic communications. In Switzerland, these regulations are set out in the Swiss Federal Act on the Surveillance of Postal and Telecommunications Traffic (SPTT) last revised in 2012. In the SPTT, the obligation to provide the technical means for lawful interception is imposed only on Internet access providers, so ProtonMail, as a mere Internet application provider, is completely exempt from the SPTT’s scope of application. This means that under Swiss law, ProtonMail CANNOT be compelled to backdoor our secure email system. Furthermore, any attempt to extend the SPTT will inevitably fail because the Swiss public is strongly opposed to any extension and an extension could be subject to a public referendum.
+
+Although it also noted that given it does not hold users’ encryption keys, it cannot hand over any meaningful customer data (since it is unable to decrypt their emails itself) even if it were served a government warrant for data.
+
+“We believe that comprehensive security can only be achieved through a combination of technology and legal protections and Switzerland provides the optimal combination of both,” ProtonMail blogged at the time.
+
+How times have changed. Commenting on yesterday’s referendum vote, ProtonMail founder Andy Yen expressed disappointment at the vote result, telling TechCrunch he believes the campaign swung the other way in part because of fears in the wake of the recent terror attacks on mainland Europe.
+
+He also pointed to checks-and-balances added into the law by the government to make it more palatable to the public, such as the requirement of approval by a federal court and ministers before powers can be utilized. (Notably moves by the U.K. government to expand state surveillance powers, via its Investigatory Powers Bill, have also looped in judicial approval to enable more intrusive capabilities.)
+
+“Before you can wiretap a suspect, you need approval by a federal court, the defense ministry, and also the cabinet. This is a much higher standard than say, getting the approval of a FISA court, which for all intents and purposes, is really just a rubber stamping entity,” said Yen, referencing the U.S. secret court infamous for doing whatever the NSA wants it to.
+
+“It’s actually a pretty high standard all things considered,” he added.
+
+He also blamed problems with how the referendum campaign was run, and noted that many Swiss referendums are won with an economic argument — rather than the “mostly… philosophical and principle reasons” the left-wing groups leading the campaign used in their messaging.
+
+“The standard bearers for the effort became groups like the Pirate Party, the Socialists, and Chaos Computer Club, which makes it a bit harder to win over mainstream Swiss voters who tend to be conservative,” he added.
+
+Discussing whether the new law will specifically impact ProtonMail’s encrypted email business, Yen argued it does not materially change anything for its privacy claims.
+
+“The law will have no impact onProtonMailbecause our privacy comes from strong cryptography and not jurisdiction, and fortunately, the laws of mathematics are much harder to change than national laws,” he said in an email to TechCrunch.
+
+“This law only applies to Swiss security services, which has much less funding, personnel, and mass surveillance capabilities compared to say, the NSA or GCHQ,” he added. “If Swiss intelligence was funded at the level of the NSA, then this would be more concerning.”
+
+He also said he is no more concerned about state spy agencies legally backdooring his email service now, by deploying malware against it, versus before the new law was in place.
+
+“The most capable actor in that space was always the NSA and not Swiss intelligence,” he added.
+
+But despite his bullishness about the expanded surveillance powers not posing a threat to the privacy claims ProtonMail sells its users, Yen does describe the move as setting “a dangerous precedent.”
+
+“If this law ends up being abused (which unfortunately is often the case), this will be the day that Swiss citizens look back on and say, this is when we traded our rights for the illusion of security,” he said.
+
+“I say illusion of security because there is little chance increased surveillance will improve security unless we are dealing with the most naive terrorists who can’t google a basic infosec guide.”
+
+ProtonMail has previously done a full legal analysis of the new law, which can befound here.

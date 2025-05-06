@@ -1,0 +1,35 @@
+Abundant Robotics spins out of SRI to bring apple-picking robots to the farm
+
+Apples are the second most commonly consumed fruit in the U.S., according to data from theU.S. Department of Agriculture, but the way apples are harvested in the orchard hasn’t changed much in the past two centuries. It’s still a manual process, by and large.
+
+Now,SRI Ventures, a kind of startup incubator within the Menlo Park research and development firm SRI International, is investing in and spinning out a startup calledAbundant Robotics Inc.to automate apple harvesting with agricultural robots currently in development.
+
+The robots, as yet unnamed, were designed to be strong and fast enough to remove one fruit per second from a tree, but gentle enough not to damage trees or the fruit, according to Abundant Robotics’ CEO and co-founder Dan Steere.
+
+They employ computer vision to recognize apples on the branch that are ready for harvesting, and a kind of vacuum to remove the apples, Steere said.
+
+For power, the robots are plugged into the small tractors already used pervasively in fruit farming.
+
+Steere co-founded Abundant Robotics about a year ago, he says, with CTO Curt Salisbury and Senior Software Architect Michael Eriksen recognizing a massive market opportunity in agriculture.
+
+The team had previously worked on research funded by SRI and additional, non-dilutive grants from the Washington Tree Fruit commission to bring automation to the field.
+
+Farmers typically produce more than 9 billion pounds of apples domestically, exporting 2.3 billion pounds of them in 2014-2015, according to the USDA. And international consumption of them has been growing.
+
+Steere said, “Seeing fruit and picking it without damaging it is the big engineering challenge. If you bruise or cut the fruit it loses its value.”
+
+According to SRI Ventures President, Manish Kothari, it had not been possible to automate the task of apple picking before recent breakthroughs in computer vision and image processing were made.
+
+He said, “You direct this robot to go someplace, see and pick an apple, and go again. It’s a very non-trivial engineering challenge. To detect apples very precisely you have to see down at the millimeter level in real time. That requires software, and on the hardware side, chips that allow you to do real time image processing on the fly.”
+
+SRI Ventures in 2016 has already spun out 7 companies this year so far, he noted, includingSuperflexand others all of which have attracted outside, venture investments.
+
+Abundant Robotics declined to disclose how much funding it had raised, but Kothari and Steere confirmed the startup has closed an equity seed round in addition to its grant funding.
+
+While most of the intellectual property the company developed so far was created at SRI, some was developed in partnership with robotics labs atCarnegie Mellon University, Steere said, and the company has a tech transfer agreement with the school.
+
+Following its spin out from SRI Ventures, Abundant Robotics will aim to have its autonomous, robotic apple pickers in production and at work in orchards within 2 years, and grow its 8-person team currently based at SRI in Menlo Park, Calif.
+
+The company has conducted field trials with orchards in Washington state, and overseas in Australia. It plans to engage in more of these prior to commercialization of its robots, Steere said.
+
+Although a representative for Abundant Robotics claimed the startup wasn’t releasing any images of its vacuum picker, a trade news site called Good Fruit Grower has one from aclosed demo in March, here.

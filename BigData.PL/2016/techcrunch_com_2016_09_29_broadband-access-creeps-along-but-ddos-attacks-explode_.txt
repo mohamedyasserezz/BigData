@@ -1,0 +1,17 @@
+Broadband access creeps along but DDoS attacks explode
+
+Akamai released its quarterlyState of the Internetreports today, one detailing quality of access and the other attacks on companies and infrastructure. The slow march continues towards a better and faster internet for everyone — and that includes hackers.
+
+Broadband adoption is measured at various levels — 4, 10, 15, and 25 mbps — and it’s a mixed bag: the slower speeds saw growth, while the faster ones declined slightly on a global level. Many countries saw double or even triple digit growth year-over-year, though, so work is being done. Good job by Norway, Denmark, and Iceland especially.
+
+In the U.S., the highest average connection speed was to be found in DC: 24.3 mbps, just shy of the 25 mbps suggested by the FCC as the definition of real broadband. Those speeds are increasing with a quickness, however, with the connection speed in many states going up by 20-50 percent YoY. We’ll get there yet!
+
+Note that these measurements are very different from those done bySpeedtest.netand others; Akamai doesn’t include connections to streaming servers, for instance, lowering the average. There’s more detail on how they measure this stuffat this blog post.
+
+IPv4 address are still being passed out like candy, even though at current rates they’ll be gone in a few years. Some are making the effort, though: with 38 percent of all connections over IPv6 last quarter, Belgium beats= the next country down (Greece) by 13 percent.
+
+And credit where credit’s due: U.S. carriers, both mobile and terrestrial, are pushing as well: Comcast and AT&T are approaching 50 percent of connections over IPv6, T-Mobile is at 61 percent, and Verizon (which owns Aol, which owns TechCrunch) is at an impressive 74 percent.
+
+It was a banner year for hackers too. The largest DDoS attacks ever observed took place, and they keep getting bigger.Akamai notesa 363 gbps attack this quarter, but others have rated higher:Krebs on Securitywas hit with one above 600 gbps, and even more recently one aimed at a French web host was measured atover aterabitper second.
+
+Well, what did youthinkwas going to happen with all that extra bandwidth we’ve been adding?

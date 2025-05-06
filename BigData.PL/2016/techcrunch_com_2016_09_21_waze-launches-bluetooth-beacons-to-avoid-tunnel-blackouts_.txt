@@ -1,0 +1,9 @@
+Waze launches Bluetooth beacons to avoid tunnel blackouts
+
+Waze’s engaged community is definitely its most powerful asset, and now the company wants to broaden its community to include tunnel operators who want to fill in the current gaps in wireless navigation tech. These roadways have typically been frustrating to all manner of wireless communication, posing a problem for everything from AM radio to modern GPS navigation. It’s that later issue Waze wants to fix, and it’s using Bluetooth beacons to get the job done.
+
+TheBeacons programisn’t looking to get help from individual-driver Wazers in this case, but is looking for cities and tunnel owners who might be fans of the service to step up and apply to its program. The program is powered by Eddystone, a Bluetooth Low Energy beacon profile created by Google that works with cheap, battery-powered BLE Waze Beacon hardware to be installed in participating tunnels. These beacons would be configured to transmit signals to Bluetooth-enabled smartphones on the user end, taking over for GPS to provide location data when a car passes through a tunnel.
+
+There is a cost to participate — each beacon is $28.50, Waze notes, and a typical installation requires around 42 beacons per mile of tunnel. But for municipalities and tunnel operators, this would actually be a service they can provide drivers, which might actually eliminate frustration and traffic because it could help ensure people don’t miss their exits, or are otherwise hesitant when navigating because of direction drop-outs.
+
+Waze also isn’t being overly protective regarding use of the resulting data from its Waze Beacons, despite the name — the company says other navigation systems are free to use the tech from the program, without cost, to provide tunnel navigation features via Bluetooth to their own users.

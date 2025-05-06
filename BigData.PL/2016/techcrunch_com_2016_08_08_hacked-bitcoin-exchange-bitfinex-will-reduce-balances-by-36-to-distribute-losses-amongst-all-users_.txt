@@ -1,0 +1,25 @@
+Hacked Bitcoin exchange Bitfinex will reduce balances by 36% to distribute losses amongst all users
+
+Late last weekwe reportedthat Bitfinex, a popular Hong Kong-based Bitcoin exchange was hacked, losing about $70M worth of customer’s bitcoin. The loss caused the price of Bitcoin to drop about 20%, and it still hasn’t fully recovered to pre-hack levels.
+
+In the days following the hack little information was known about how it happened and how Bitfinex would reimburse affected users.
+
+Since the exchange used a service to individually segregate each customer’s funds in unique wallets, only somecustomers’s funds were drained, while others retained their full balances. The question then became would Bitfinex limit losses to only users whose wallets were compromised, or distribute them equally amongst all users (since the attack was essentially indiscriminate amongst random wallets).
+
+We now have an answer, as the company haspostedthat they will distribute losses amongst all users to the tune of 36.067%, which is the total loss experienced by Bitfinex.
+
+“Upon logging into the platform, customers will see that they have experienced a generalized loss percentage of 36.067%. In a later announcement we will explain in full detail the methodology used to compute these losses” – Bitfinex
+
+So how will users get back that missing 36 percent? Bitfinex says they will issue a new token called BFX equal to each customer’s exact losses.
+
+Eventually the token will be either be redeemed for full repayment or exchanged for shares in the exchange’s holding company. Interestingly, the token will also soon trade on Bitfinex’s platform, so the community can set it’s own price that values the chances that the exchange will actually follow through and repay holders of BFX.
+
+The company said they they are also looking into raising capital from investors to pay back customers, but that discussions are still “at an early stage”.
+
+The decision is a disappointment for customers who held currency other than Bitcoin (like USD or ETH) who originally may have thought their funds were safe.
+
+While the companyjustified their decisionby saying that this type of shared loss is similar to what would happen if the company had to go through a bankruptcy liquidation, it’s still pretty unprecedented for an established financial institution to share losses amongst customers, especially when only one “currency” was comprised.
+
+In terms of how the hack happened, it’s still pretty vague. All we know is that the company’s multi-signature accounts weresomehow compromised.
+
+Users canlog in to the sitenow to check their balances, but the site is still in read-only mode, meaning users can’t trade, deposit, or withdraw coins.

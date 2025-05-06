@@ -1,0 +1,7 @@
+Amazon debutes first AWS Region in Canada
+
+Amazon is launching anew Amazon Web Services Region today, its first in Canada, in Montreal. The AWS Canada (Central) Region will offer two Availability Zones as of its launch today, which basically means there are two separate physical data center spots separated by enough distance that a physical event affecting one should not affect the other. AWS already had a number of Canadian clients, but this clients have asked for Canada infrastructure for a while now, and have had to make do with using AWS Regions located in other geographies.
+
+Local AWS facilities mean that customers can do more in terms of running mission-critical applications that need the lowest possible latency, and for applications that require data to be stored locally for regulatory or compliance reasons.
+
+Amazon’s expansion into Canada means it’s now offering 40 separate Availability Zones across 15 global regions, with planned additional expansion on the roadmap for the UK, France and China in the next few months.

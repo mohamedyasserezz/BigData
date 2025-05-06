@@ -1,0 +1,49 @@
+How blockchain can create the world’s biggest supercomputer
+
+As our desktop computers, laptops, mobile devices, etc. stand idly by for a huge portion of the day,the need for computing resources is growing at a fast pace. Large IoT ecosystems, machine learning and deep learning algorithms and other sophisticated solutions being deployed in every domain and industry are raising the demand for stronger cloud servers and more bandwidth to address the minute needs of enterprises and businesses.
+
+So how can we make a more economic and efficient use of all the computing power that’s going to waste? Blockchain, the distributed ledger that’s gaining traction across various domains, might have the answer to the dilemma by providing a platform that enables participants to lend and borrow computing resources — and make money in the process.
+
+“There is a growing demand for computing power from industries and scientific communities to run large applications and process huge volumes of data,” says Gilles Fedak, co-founder ofiEx.ec, a distributed cloud computing platform.
+
+Fedak names several domains, such as product simulation, deep learning and 3D rendering, where demand for expensive computing resources and High-Performance Computing (HPC) is rising.
+
+“The biggest challenge for supercomputing is the demand to compress time,” says Jerry Cuomo, vice president of Blockchain for Business at IBM. “Business processes must now be completed at a significantly faster pace than before. The result is that the demand for computing power is increasing exponentially.”
+
+David Sønstebø, founder ofIOTA, a distributed ledger for IoT, also underlines the need to achieve real-time computation and overcome the lag caused by current cloud-based models. “The biggest problem for computation overall is that the devices generating data are not located close-by to the data centers that perform the analytics,” he says.
+
+Compute resource sharing platforms such asSETI@homehave existed for years. But they still depend on central brokers to distribute and manage tasks, which can make things complicated.
+
+One of the fields where centralized and cloud-based computing falls short is the Internet of Things, Sønstebø says. “As IoT grows, the need for distributed computing becomes an absolute necessity,” he says. Latency in round-trips, network congestion, signal collisions and geographical distances are some of the challenges faced when processing data produced at edge devices in the cloud. “Devices need to be able to trade computational resources with each other in real time so that the computational load can be distributed,” he says.
+
+Some of the emerging lines of software will not be supported by centralized architectures at all, iEx.ec’s Fedak says, such asdecentralized applications (DApps), which, among others, will powerfog computing, distributed AI and parallel stream processing. “This class of application is extremely challenging because they’re both data and compute-intensive, and they don’t cope well with centralized infrastructure,” Fedak says.
+
+Incentivizing resource sharing is also a problem with centralized models.
+
+“If you look at the last 10-20 years’ of progress in virtualization, it’s obvious that setting up any kind of environment in a data center or on an individual computer has become much easier,” says Julian Zawistowski , co-founder and CEO of distributed computing platformGolem. “But when it comes to actually renting the hardware, it still tends to be painful: comparing the offerings of different providers is complicated, and it takes quite a bit of time and expertise to figure out the best solution for a given task.”
+
+“The issue with getting payment involved is that you need to check whether the participants are actually performing the work and also integrate payment so that the provider of the compute capacity knows that running the computations is going to be worth its time,” says Preston Byrne, COO atMonax. This is easy when you’re dealing with trusted entities such as the Amazon Web Services HPC platform, but not so when you’re dealing with nodes that vary in hardware and power.
+
+A distributed network of computers managed by blockchain and smart contracts can create a shared economy where anyone with a computer can borrow idle computing power and make a side income.
+
+The peer-to-peer nature of the blockchain and distributed ledgers will also help move computation closer to where the data is being generated, and avoid bottleneck round-trips to cloud servers.
+
+Byrne suggests that while not being a computation platform itself, the blockchain can potentially create “a marketplace application that attacks the specific problem of linking buyers and sellers of compute time and allowing them to pay themselves in cryptocurrency without needing an intermediary like AWS.”
+
+IOTA’s Sønstebø further elaborates on Byrne’s point and says that distributed ledgers “shine in renting out computation in the fog, i.e. at the edge of the network.” IOTA has developed a distributed ledger based on Tangle, a scalable design that gets rid of the blocks and introduces a Directed Acyclic Graph (DAG) that reduces transaction times and removes fees, which according to Sønstebø creates the backbone for an outsourced distributed on-demand computational trade model for M2M environments.
+
+Golem, which recentlyraised $8.6 millioninInitial Coin Offering (ICO), has created a peer-to-peer computation sharing platform on the Ethereum blockchain, which it dubs ‘Airbnb for computers.’ Golem enables application owners and individual users to rent the computing resources of other users and pay for it directly in cryptocurrency.
+
+According to Eddy Azar, Growth Hacker at Golem, the platform has the potential to “reduce costs and increase speed in domains such as scientific research, machine learning and graphics rendering, while making it possible for anyone with an average or better computer to share resources and make a side income.”
+
+After submitting tasks to the Golem network, requestors are matched with providers based on prices, reputations and machine performance registered on the ledger. Resources are then sent to the provider for processing and are sent back after the task is completed. The provider is paid if the results pass verification tests. A user’s reputation is built-up based on their success in completing tasks and making payments.
+
+Developers can use Golem’s open-source code and task API to create program that uses the network and put it on Golem’s application registry, which Azar likens to an app store, and make it available for others to use and, if the developer so chooses, pay for.
+
+iEx.ec is another distributed computing platform, which uses the Ethereum blockchain to create “a market network for applications, data, and computing resources, including HPC ones,” says Julien Béranger, the company’s Community Outreach Officer. “It means that everyone will be able to offer their computing resources through smart contract deployed on the blockchain.”
+
+The platform uses Desktop Grid or Volunteer Computing to collect underutilized computing resources to execute very large parallel applications at a fraction of the cost of a traditional supercomputer. This is the model used in distributed computing platforms like SETI@Home, Folding@home anddisributed.net.
+
+The iEx.ec team hopes the combination will provide inexpensive, scalable and on-demand access CPU, GPU, data sets, storage and other resources.
+
+Blockchain makes a big difference, iEx.ec’s Fedak believes. “Because the blockchain allows for a decentralized infrastructure, it can bring the data closer to their producers and consumers,” he says, “whereas with centralized cloud computing, data-centers tend to be located in remote areas.”The demand for computation will continue to grow as we move forward. Whether cloud servers will scale up to meet the requirements in resources, costs and speed is yet to be seen. In the meantime, the blockchain proposes an alternative that can open up new possibilities and succeed where previous technologies have failed.

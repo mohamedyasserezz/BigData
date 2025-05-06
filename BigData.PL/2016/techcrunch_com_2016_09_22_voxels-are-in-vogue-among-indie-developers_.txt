@@ -1,0 +1,59 @@
+Voxels are in vogue among indie developers
+
+It’s hip to be square — well, cubical, really.
+
+That’s the feeling I got from the amount of voxel-based offerings on the show floor at PAX West — and these 3D pixels fit the bill whether they’re powering a stylized dungeon crawler or simulating a whole planet.
+
+If you’re not familiar with voxels, think of them as virtual particles that can be stacked up and stuck together to form anything from a landscape to a player character or gun. If a normal 3D model of a tree is sort of a hollow cardboard version of the real thing, a voxel tree is like one built from hundreds or thousands of LEGO blocks.
+
+They’re not so hot for, say, making super-realistic 3D representations of things, but they’re great if you plan on adding or subtracting them a lot; for example, if the player will be building or digging. Minecraft, for example, uses voxels to track the state of the land you’re exploring — although the graphics themselves are rendered as ordinary polygons.
+
+Four developers I talked to found their own use case for this old but increasingly useful tool — and their ambitions are all wildly different.
+
+This visually striking dungeon crawlerembraces voxels as a style akin to pixel art. Art director Vanessa Chia told me that while voxels can be difficult to work with, “a limited canvas is a great way for us to distill an idea to its essence.”
+
+It’s a four-player casual drop-in/drop-out cooperative dungeon-crawling game, sort of like a squared-off Gauntlet. The visuals are reminiscent of 3D Dot Game Heroes, which also used voxels, but more dynamic and hectic.
+
+“The traditional way to build video games is to create pre-rendered assets that are static and immutable,” she said. “By using voxels, we are free from that limitation — what a table represents is not just a table but an array of colors and coordinates. At any time we might have more than a million voxels on screen, and even for the most high-end video cards it’s stretching the limit.”
+
+The game’s systems are mostly in place, and Martin Gavreau, the lead developer, told me they’re hard at work building out the world you’ll be exploring.
+
+Riverbond’s developer, CocoCucumber, is a tiny outfit based in Toronto, and they’re making the game on an arts grant from the Canadian government. Nice, right? PAX West was the game’s first public appearance, as part of the PAX Rising indie game highlight section of the show.
+
+This slick space survival gamemade a small splash when it showed up a little while back, and it uses voxels for utility rather than looks. In the game, you’re tasked with exploring a planet and mining it for resources, upgrading your base, rover and suit as you progress.
+
+“One of our first design goals for Astroneer was to have procedural planets that the player can deform all the way to the center,” said System Era’s Jacob Liechty, “and voxel systems fit the bill! Procedural voxel worlds are overall a great way to abstractly define the world prior to turning the knobs on how it gets presented to the player.”
+
+It has a vibrant aesthetic and minimal UI, with critical measures like oxygen and tool power displayed on your backpack rather than an obtrusive HUD. Rambling around the world is a bouncy and playful process, with smooth terrain that doesn’t really screamvoxelin any way. But the systems are there nevertheless.
+
+“We use what you might call ‘soft’ voxels,” Liechty explained. “In Minecraft you would never be able to create spherical planets because the game world is aligned on a grid where the top face of the cube always points at the sky. Soft voxels make it so the player can dig through the terrain or make a flat surface no matter where they are on the planet. Our analogy is that while Minecraft is like Lego, Astroneer is like Play-Doh.”
+
+Decoupling geometry from the coarser details of the planetary surface allows for ease of generation and non-cubical gameplay. The game enters early access in December, but the build I spent time with is already in a very playable state.
+
+It’s one thing to create a relatively lifeless planet to mine and explore, but what about a functioning ecosystem full of plants, animals and people? That’s the idea behindEco, in which a tiny planet is threatened with imminent destruction and its residents must work together to stave it off. And this game happily embraces the geometric nature of voxels.
+
+“To succeed in Eco, you’ll need to mine gigantic pit mines, tunnel through mountains, convert huge forests into farmland, etc.,” said Strange Loop Games’ John Krajewski. “The end game landscape should be completely different than the starting game landscape. Doing that without destroying the ecosystem in the process is the challenge of the game, and voxels are perfect for this.”
+
+Not only can you dig and build, however, but the resources you need depend on one another. If you cut down all the wood to make awesome houses and shovels, where will the birds live? If the birds die, what will eat the mosquitoes?
+
+Voxels, Krajewski said, “break the world into regular pieces, making it easier to grasp the complex simulations we’re building on top of it.” Easier to grasp that every soil block needs two water blocks nearby to remain hydrated, rather than put that into kilograms and cubic meters, in other words.
+
+The game is intended as an educational one, as each world plays out over a real-time month, and players (perhaps a classroom of them) must keep the freshly generated planet alive with careful husbandry and even user-created laws — banning the poaching of wolves, for instance.
+
+Eco doubled its $100,000Kickstarter goaland is currently in Alpha.
+
+Even greater in scope than Eco isDual Universe, a massively multiplayer sandbox in development by French studio Novaquark. The idea here is that literally everything can be edited, harvested or built — so they built with voxels in mind from the start.
+
+I talked with Novaquark founder Jean-Christophe Baillie as he demoed the game at PAX, and his passion for the vision of a fully editable world was evident.
+
+“Planets are made out of voxels,” he wrote in an email later, “so you have interesting gameplay possibilities like realistic mining or underground construction. The other aspect is of course ‘constructs,’ which can be space ships, houses or orbital stations. Voxels allow for an incredible freedom in what you can build, it also adds complexity because you have to choose the materials you are using to build, to take into account weight, resistance, etc.”
+
+And the critical part is that, unlike many online games, all the players will share the same universe, at the same time.
+
+“Not only is the world entirely editable, at any scale, but it is also shared and synchronized for all players,” Baillie explained.
+
+So tens of thousands of players could work together to build a city, or rival factions could raid stockhouses of valuable elements, or an enterprising group could build stargates and charge for their use.
+
+Of course, the scope of the game and the ability to edit or destroy anything (except the belongings of others) means unlimited capacity for glitches, griefing and so on. The technology Novaquark has built is amazing, but now they have to figure out how to graft a functioning game onto it. They’reraising money on Kickstarter right nowif you’d like to help out and join up early. (Update: The campaign succeeded, raising over half a million dollars for the game. Congrats to Novaquark!)
+
+These weren’t the only voxel-based games at PAX, nor are they the only interesting ones out there by a longshot. Keep your eyes out for more projects using this unique tech.

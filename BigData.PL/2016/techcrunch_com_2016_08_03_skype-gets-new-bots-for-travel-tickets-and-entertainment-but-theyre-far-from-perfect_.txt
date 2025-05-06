@@ -1,0 +1,35 @@
+Skype gets new bots for travel, tickets and entertainment, but they’re far from perfect
+
+Followingyesterday’s launch of a new version of the Skype Windows 10 application, Microsoft todayannouncedan expanded collection of its “Skype bots,” the automated chat assistants that it introducedearlier this yearin a limited preview. The new bots include those that can help you make travel arrangements, locate event tickets, pull in information from other applications and services and even keep you entertained.
+
+In case you missed it this spring, Microsoft first demoed its Skype bots and bot platform at its annual BUILD conference, showing off how Skype users could interact with virtual assistants who could perform a variety of tasks, ranging from booking travel accommodations to adding items to your calendar or even pre-populating conversations with text to save you time on typing.
+
+But theearly group of bots that launched were much simpler: a few Bing-related bots could pull in information from the search engine, while others focused on doing things like summarizing web pages or locating images. Handy, sure, but not to-die-for.
+
+Today’s expansion of the bots collection gets a step closer to delivering on the promise of bots that could truly shoulder some of the work we all have to do.
+
+For example, theSkyscanner Botlets you search for individual or group flights, return pricing information and route options. Then, it will provide a link where users can go to complete the booking.
+
+This is not the first “bot-like” experience Skyscanner has developed, we should also note — the company was the first to build a voice search tool for Amazon’s Alexa, and more recently launched a travel companion bot for Skype’s messaging rival Facebook Messenger.
+
+Another travel bot comes fromHipmunk, which offers not only flight info, but also hotel and other general travel advice based on your specific preferences, like price, vacation theme or the amount of “travel agony” you’re willing to tolerate. (Minimizing agony by helping users avoid things like layovers or finding shorter flights is Hipmunk’s claim to fame.)
+
+This works fairly well, as you can swipe through different options to see different flight details or create fare alerts, and more. The bot also suggested hotel options when I searched for a flight, even though I didn’t ask. (You might find this feature either helpful or annoying.) And a final panel lets you click for more travel information and advice, which you ask of the bot itself (e.g. “best time to fly between X and Y,” “beach vacation from NY,” etc.).
+
+Another new bot, theStubHub Bot, will help you find tickets to events and concerts, while theIFTTT Botcan funnel information from other apps and services into your Skype chat. This could be useful for a number of things — like getting news alerts, pings about social media mentions, alerts from other services, checking the weather, being notified of important emails or any number of things that you’ve configured IFTTT’s “recipes” to watch out for.
+
+One final new bot,Spock, is just for fun. Yes, by adding this bot you can chat with the USS Enterprise’s second-in-command about the ways of Vulcans. (Okay, this one doesn’t enhance your productivity. But hey, work can get boring, right?)
+
+Still, though the travel and ticketing bots are more useful than the previously launched more general-purpose Bing bots, they still fall a bit short when it comes to fulfilling the larger vision around bots.
+
+Instead of giving you a link to click, the ideal travel bot solution would suggest flights, help you narrow your options, thenactually book the travel for you.It should also add the trip to your calendar and email your pre-configured travel contacts (like a boss or significant other).
+
+A ticketing bot shouldn’t start by suggesting locations of major metros (NY, LA? Click one!) but ask you where you live. And it shouldn’t just spit back a random array of local events, but rather ask you what sort of event you had in mind, allowing the user to specify whether they want to go to a baseball game or a concert or anything else.
+
+We’re not there yet, which is why today’s bots are merely interesting, but not yet must-haves. At the end of the day, the bots aren’t quicker than simply visiting a website and performing searches for yourself — and sometimes, they’re even slower or more frustrating.
+
+We should also point out these new bots are not the only ones Skype has added to its directory in recent days. There are a handful of others, including games and horoscopes, an automated virtual assistant called Ava Zoom, a bot that understands the content of images called CaptionBot, a Foursquare bot, a scheduling assistant from FreeBusy and more.
+
+Microsoft says that it now has over 30,000 developers building bots on its platform, indicating there is at least some momentum in terms of interest in this new area.
+
+The newly announced bots are rolling out to the Skype bot directory now on Android, Windows, iOS, Mac and the web.

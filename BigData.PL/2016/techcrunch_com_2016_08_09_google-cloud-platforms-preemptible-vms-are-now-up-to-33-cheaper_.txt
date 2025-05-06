@@ -1,0 +1,15 @@
+Google Cloud Platform’s preemptible VMs are now up to 33% cheaper
+
+For a while, Google, Amazon and Microsoft were constantly undercutting each other’scloud computing prices, but lately, it’s been pretty quiet on that front. Today, however, Google is firing a new salvo by reducing the price of its preemptible virtual machines (VMs) by up to 33 percent.
+
+Preemptible VMs are Google’s version ofAmazon’s spot instancesfor AWS (Microsoft Azure, though, doesn’t currently offer this type of instance). As the names imply, there is no guarantee how long you’ll be able to use a given machine, though. Google and Amazon use this system to bring up their utilization levels by offering access to these VMs for cheap when demand is low, but as demand picks up, they rotate them back into their regular pool, where they can charge more.
+
+The major difference between Google’s and Amazon’s approach is that while AWS uses an auction system for pricing these machines, Google offers its users set prices — and those prices can be up to 80 percent lower than those of the equivalent non-preemptible machine.
+
+On Google’s platform, these machines can also only run for up to 24 hours, so they don’t work well for every workload (on AWS, they will run until the spot price increases above what you paid). If you — and your workloads — are flexible, though, you can save quite a bit of money on using this type of VM.
+
+“Our customers are usingPreemptibleVMs to analyze data, render movies, process satellite imagery, analyze genomic data, understand financial markets, transcode media and complete a variety of business and engineering tasks, using thousands ofPreemptibleVM cores in a single job,” Google product manager Michael Basilyan writes in today’s announcement. “We believe that the price reduction forPreemptibleVMs will unlock even more computing opportunities and enable you to tackle interesting science and business problems.”
+
+With a bit of luck, today’s move by Google will also drive Amazon to drop its prices.
+
+If you can’t use preemptible machines for your workloads, by the way, it’s worth taking a look at Google’s new “VM Rightsizing Recommendations.” This tool analyzes your VM utilization and then gives you suggestions for scaling machines up or down to better meet your needs.

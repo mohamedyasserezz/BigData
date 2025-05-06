@@ -1,0 +1,53 @@
+IoT’s killer app is not home security
+
+I was linked to Revel Systems CTO Chris Ciabarra’s recent TechCrunch piece “IoT’s killer app is home security” by a friend and found myself a bit taken aback by what I was reading.
+
+I’m sure he’s a very nice man, but the assertions made about being able to rely on IoT in a home security context are, to put it mildly, misguided and troubling.
+
+As you may have guessed from its title, the article posits that IoT devices are ready to take on certain major responsibilities in your home. As someone whose job it is to constantly think about IT security, I must disagree with the article completely and without hesitation.
+
+Broadly speaking, the array of devices being marketed as belonging to the “Internet of Things” are simply not ready to be trusted with critical tasks.
+
+In Ciabarra’s piece, he explained realizing the dream of IoT-based home security after setting up an internet-connected device to squirt neighborhood raccoons with water.
+
+The astonishing intellectual leap required to go from “I had fun setting up an automatic Super Soaker” to “I’m going to defend my life with this type of technology” cannot be overstated. But I have to give him credit — aside from Home Alone, I can’t recall any other situation in human history where being very good with toys so smoothly segued into the fortification of one’s home.
+
+Over time, Ciabarra has gone full-IoT throughout the house, with motion sensors, cameras, window and door trips and even some sort of device that reads the license plates of passing cars and immediately texts him if one of the cars is a stranger.
+
+I’ll leave the reader to determine for themselves the merits of that last one, but his ultimate argument is that home security setups such as these are what will rocket IoT into the mainstream.
+
+Maybe someday. For now, IoT is still exploding on the launchpad.
+
+It doesn’t take a professional to realize his particular house of cards is about as fragile as they come. It is built on the assumption that one’s Wi-Fi will always work, their internet connection will always be up, power will always be on and every piece of software and firmware is stable and trustworthy.
+
+Absolutely none of these criteria are even remotely guaranteed at this point in time. Jamming devices exist for both Wi-Fi and cellular. Wired internet connections can go down or be physically cut.
+
+Your smartphone, which should’ve received the text alerting you to a burglar/fire/strange car, may have been out of reception range, dead or at the bottom of your gym bag. There is just too much that can go wrong when a chain has so many weak links.
+
+The most damning of all may be the faith freely given to mysterious closed firmware and unproven manufacturers.
+
+In fairness, the particular home security platform the author mentioned in the above piece does not appear to have a central monitoring “station” to log into, which is in many ways a plus — some smart devices that rely on the manufacturer’s servers to function havealready begun to sunset— but the platform also suffers from a number of very basic drawbacks, which doesn’t exactly inspire confidence.
+
+For example, the firstreviewof the product I saw when googling states “you have to physically have the app open to capture images of any intruders. So if you’re not in the app when a break-in occurs you’re outta luck.” This left me speechless.
+
+Imagine getting a notification that your house is being broken into, being forced to watch it unfold in order to record it and being unable to leave the app to dial 911. You have to choose! That isn’t home security, it’s a psychological hellworld that exists only to punish us for our own hubris.
+
+There are plenty of other points to touch on in that review, but it’s not necessary to pick on a single product or manufacturer. Stories of odd experiences with less-than-stellar products are a dime a dozen. Here’s a fantastic (and rather technical, if you’re into that)postabout how a common model “smart plug” can be pretty easily controlled by anyone or anything on your network.
+
+Probably harmless if the worst that happens is your annoying nephew turns your lamp off and on all day, but scroll down — the manufacturer actually markets it as a safety device to keep your place from catching fire.
+
+Read closely: the small print in the ad is talking about how theplug itselfwill shut down when the plug overheats, not the blazing hot appliance, despite the tricky ad implying otherwise. Pretty sleazy way to get your awful product into homes, I’d say.
+
+Here are some technical highlights from another smart plug. Another manufacturer,just as bad:
+
+As you might expect, firmware updates to fix these types of issues are possible, but the reality of it varies by manufacturer. Generally, they seem to be few and far between. And we haven’t even touched on the fact that these devices are as capable as any computer of having backdoors or malicious code.
+
+Plugging unproven and poorly developed devices into your network is a risk. Full stop, no way around it.
+
+The IoT “dream” as sold by the industry is pretty cool, but it’s still just a dream. For now, these devices remain generally shoddy, insecure and easily breakable — and must be treated that way, especially when the stakes are high.
+
+As for what IoT’s killer app will be — I can’t speak for anyone but myself, but I’m having trouble imagining one at all. I’m not a pessimist, but as the years go on what we’re starting to see is IoT finding its footing in augmenting other systems rather than revolutionizing them. And in some ways, it’sgetting quite good at that.
+
+A lot of the IoT’s potential has yet to be explored, but to be taken seriously for critical tasks it will all come down to trust. Users must remember that IoT devices arelegitimate computerswhose inner workings are typically well out of our control.
+
+I’m willing to eat my hat down the line and get my feet wet with serious applications of IoT if device manufacturers are able to get their acts together; who knows, maybe one day I’ll write an article about my cool IoT home security setup, too. But not until I can trust it.

@@ -1,0 +1,25 @@
+Troops, a Slackbot for sales, raises $7 million
+
+It’s a sales world these days.CRM rules everything around me(and my colleagues) seemingly every day; with a new financing, launch, or app that’s designed to make the life of the busy sales executive a little bit more convenient.
+
+And the latest tool to step into the breach sits at the intersection of the massive CRM trend and another two or three “super hot” business tech buzzwords.
+
+Troops’ platform and bot(the products of a stealthy til now company) are now freely available to use. The company has a bot-based service that integrates with Salesforce to make it easier for sales teams to configure intelligence and enter it into Salesforce’s arcane system.
+
+It’s an integration between Salesforce, Google Apps, and Slack on the front end, with some back end data processing and analytics tools that the company thinks are pretty darn fancy.
+
+Investors have agreed and are financing the company to the tune of $7 million. New investor, Felicis Ventures, led the round with a $3 million commitment. Other new investors in the round include Aspect Ventures, the Slack Fund, Susa Ventures and Flight.VC.
+
+Previous investors First Round Capital, Nextview Ventures, Chicago Ventures, Great Oaks Capital, Founder Collective and Vast Ventures also participated.
+
+While Troops is starting its bot-based services for sales with the big billion-dollar Salesforce behemoth, you can expect the company to add future services down the road, according to a blog post from the company’s founders.
+
+Money from the current round will be used to fund new product and engineering initiatives and build out the company’s back end to support the thousands and thousands of users Troops expects to pour onto the service.
+
+“I’ve carried a bag and did sales and biz dev before I became a VC,” says First Round partner Chris Fralic, who vouched for his portfolio company’s efficacy and awesomeness. “As important as Salesforce is as a system of record, people don’t love it.”
+
+When Fralic first started following Troops, he said the company was developing its own messaging app and email client. “The team smartly saw what was happening with Slack and began pointing all their guns at it,” he said.
+
+For Fralic the automated prompts that can monitor and manage how and when to call certain prospects is a key component of the company’s success. And its integration with Slack is integral to making the service work.
+
+“Everything that Troops is doing is AI and bot driven,” said Fralic. “And it’s useful and people are turning it on.”

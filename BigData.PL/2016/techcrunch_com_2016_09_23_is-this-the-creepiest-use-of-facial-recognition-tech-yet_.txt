@@ -1,0 +1,45 @@
+Is this the creepiest use of facial recognition tech yet?
+
+Welcome to the future, where you canface search for a live sex webcam performerand be served real-life humans to your telescreen who vaguely resemble the object of your desire within, well, hours depending on how busy the site’s servers are.
+
+(The rush of tech reporters trying to satisfy their appetite to see who their own live sex ‘doppelganger’ might be yesterday clearly put a strain onMegacams.me‘s backend after it announced the new feature. On a ‘normal’ day the wait time is, presumably, more likely to be minutes.)
+
+The Belgian company behind the live sex search site is not disclosing which tech giant’s algorithms it is using to power the face search feature, given the adult use-case and the latter’s evident lack of desire to be associated with porn.
+
+But TechCrunch understands the API in question belongs to Microsoft — namely itsCognitive Services(néeProject Oxford) visual image recognition APIs, and specifically itsFace APIwhich lets developers add the ability to detect human faces and compare similar ones, organize people into groups according to visual similarity, and identify previously tagged people in images.
+
+So, yes, if you build a facial recognition API the porn use-cases will come… Hey there,Developers! Developers! Developers!
+
+Pricing for Microsoft’s Face API offers 30,000 free look-ups per month, after which it charges $1.50 per 1,000 transactions, supporting a rate of 10 transactions per second.
+
+Megacams would say it is doing the face detection portion itself — using theopenCVopen source library of machine learning and computer vision software, which was originally developed by Intel.
+
+It claims to be the first live sex webcam site to implement face search. “A lot of people watching porn have someone in mind and try to fulfill this fantasy by  finding  a doppelgänger doing porn. Searching for it using textual searches is very hard, that’s where technology comes in. Facial recognition is far more accurate than any textual search could be,” it writes, announcing the feature.
+
+The feature requires users to upload a photo of their chosen visage (snapped front on) to be emailed links to similar looking webcam performers shortly thereafter, annotated with a percentage lookie-likie (or not-so-likie) score.
+
+“None of the image data is stored by Megacams, we just process it and then it’s then deleted after giving you search results to respect your privacy,” it notes.
+
+Of course the feature does not respect the privacy of the webcam performers themselves, whose risk of being outed by someone they know IRL surely rises steeply here — given it is possible to perform a photo search for someone you know in real life to see if they can be found in its database of more than 180,000 webcam performers. (Although whether you could be sure it is the real deal, rather than just a very good doppelgänger, is a whole other question. After all, on the Internet no one knows if you’re the real you or just an impressively studied copy… )
+
+The company says that on average some 5,000 of the performers in its database are simultaneously online at any one time — thereby reducing the odds of coming across a really good likeness vs if they were parsing their entire database. (But presumably they want to drive users to a webcam performer who is logged on for business there and then.)
+
+“The face recognition algorithm is trained with cam performer images when they are online, so this algorithm is improving minute after minute,” it adds.
+
+Not-so-lookie-likie
+
+In the interests of reportage, I tested the feature using a photo of myself and the results were, let’s say, underwhelming on the likeness front. Although interestingly the algorithm appeared to judge my race as Asian or African-American/black based on facial features (I’m actually caucasian).
+
+Admittedly the photo I uploaded was intentionally more creepshot than corporate headshot — the former seemed more fitting given the context here:
+
+The best match it served was only rated at 47 per cent likeness (below).
+
+And, to my eye at least, looked off the mark, although you can kind of see the facial contours the algorithm is matching for…
+
+The image at the top of this post was rated a 41 per cent likeness, and really doesn’t look anything like me IMO.
+
+The image below was also rated 41 per cent:
+
+And that was about as close as it got. Every result it served with a likeness under 40 per cent might as well have been randomly selected.
+
+Safe to say, if you’re hoping technology can deliver a really impressive likeness of the subobject of your desire, on-demand and in fully articulated human form, you’re probably going to have to wait forface substitution techto get a whole lot better. And/or hope for huge advances in humanoid robotics.

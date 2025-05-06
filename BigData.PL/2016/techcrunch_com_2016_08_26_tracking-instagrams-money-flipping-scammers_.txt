@@ -1,0 +1,29 @@
+Tracking Instagram’s money-flipping scammers
+
+Trying to get more followers on Instagram? If you follow a few verified banks and financial institutions, you’ll suddenly end up with dozens of new followers. There’s just one drawback: Your new followers are trying to scam you.
+
+Instagram has become a hotbed for so-called “money flipping,” according to astudyby the social media security firm ZeroFox. Scammers will attempt to lure bank customers, military members, and people in financially desperate situations with pictures of cash, luxury watches or drugs, promising special knowledge of a secret investment that guarantees a huge payout. All the mark needs to do is put in a little cash and they’ll earn a 10x return on their money, the scammers claim. Some variations of money flippers ask for access to an empty bank account, depositing bad checks to make the mark believe they’re getting paid, then withdraw the money before the bank or the customer realizes the checks were counterfeit.
+
+Over two years, ZeroFox tracked Instagram scammers and even lured them using honeypot accounts. The firm found 4,574 unique scams perpetuated by 1,386 accounts and used machine learning to distinguish the scam posts from those by legitimate users calling out the scammers. Surprisingly, ZeroFox discovered that military members were a frequently targeted segment of Instagram’s user base.
+
+“We think that scammers target military members specifically because organizations tend to use military discounts to get PR action or attract new customers,” Phil Tully, a ZeroFox data scientist, told TechCrunch. “If you’re a military member, you’re kind of bombarded by these offers. Over time, military members are conditioned to expect this kind of behavior.” Because military members are used to getting special deals, the scams might not strike them as odd.
+
+ZeroFox also found that 80 percent of the scam posts it analyzed remained live on Instagram for more than 45 days, suggesting that scammers slip through undetected by Instagram’s own security algorithms. Instagram, through its parent company Facebook, is working with ZeroFox on strategies to stamp out fraud on the platform.
+
+“Instagram is working to remediate these issues but they are dealing with a huge user set, a huge amount of posts. It’s not their business level focus,” ZeroFox co-founder Evan Blair explained. “Social networks are concerned about these issues and we’ve worked with several platforms to build out an automated way to detect these, but their primary function is to grow revenue and drive ad sales.”
+
+But Facebook, whichacquired Instagram for $1 billionin 2012, says that it performs scam detection using different techniques than ZeroFox.
+
+ZeroFox’s analysis of scam posts is based on the images themselves and the captions, hashtags, and even emoji that accompany them. The security researchers found that hashtags like #fastcash and #money were often found in scam posts, and fine-tuned their algorithm to differentiate between those posts and do-gooder posts using the same hashtags to warn other users about scams. Overall, ZeroFox determined that the abundant use of hashtags is in itself a bad sign: “We found high separability between the number of hashtags in scam posts as compared to benign posts, meaning the number of hashtags was a powerful predictor to determine whether a post was a scam or not,” the company said in its report.
+
+However, Facebook has access to information beyond pictures and captions that help in its fraud analysis, such as IP addresses of scammers. Like ZeroFox, Facebook uses machine learning to find illegitimate accounts on Instagram — but the company looks at account behavior rather than content. “We look for other classifiers and signals. The behavior patterns are a better indicator than the content itself,” a Facebook spokesperson told TechCrunch.
+
+Facebook encourages banks and security companies like ZeroFox to report scam posts, which helps feed them into the company’s own machine learning security systems. Since this spring, Facebook has been testing a program to share information about the scammers through itsThreat Exchange, which includes other social media and internet companies as well as several banks.
+
+“We look at IP addresses or infrastructure they use online and share it with the other companies,” the Facebook spokesperson explained. “We don’t want to take down individual accounts or posts, we want to take down entire organizations and campaigns.”
+
+Instagram isn’t the only social media platform battling with scammers, ZeroFox’s Blair noted. “It’s important to note that scams and fraud are a social media problem, not an Instagram problem. Money flipping is more prevalent on Instagram, but there are different scams on different networks. The whole idea of social media — the trust, the scale, the connectivity — makes social media ripe for targeting by scammers,” Blair said.
+
+In fact, ZeroFox doesn’t lay the entire responsibility of policing the money flipping scams at Instagram’s feet. Instead, the security firm says banks should take responsibility for protecting their customers on social media. The thousands of scam posts are a tiny fraction of the millions of photos posted on Instagram every day, but for banks, it’s a big part of the social media experience. ZeroFox’s honeypot account picked up 23 new followers that appeared to be in the money flipping business after following prominent banks on Instagram, and two of the new followers reached out to engage the honeypot in an attempted scam.
+
+Of course, getting banks to be more proactive about monitoring and reporting social media scams is a monetization opportunity for ZeroFox, which licenses its detection algorithm. But if banks get involved in tracking and reporting social media scams, they can prevent the scammers from ever dipping into customers’ accounts.

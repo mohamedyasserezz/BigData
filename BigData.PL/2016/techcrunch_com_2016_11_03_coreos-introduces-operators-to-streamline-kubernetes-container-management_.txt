@@ -1,0 +1,21 @@
+CoreOS introduces Operators to streamline Kubernetes container management
+
+CoreOSintroduceda new container management concept today known as Operators, which they say will advance the Kubernetes project by offering more automated container management. What’s more, they are open sourcing the technology.
+
+“We are introducing the concept of an ‘Operator.’ It’s a concept for taking a lot of the knowledge an engineer [or developer] has inside of a script or run book — domain-specific knowledge — and writing software that can do a lot of that automatically,” CoreOS CTO Brandon Philips explained.
+
+Kubernetesis Google’s popular open source container management project. Containersare small, micro servicesthat enable developers to break down complex applications into discrete pieces and run complex applications in a much more efficient manner than traditional programming delivery techniques.
+
+What CoreOS is attempting to do with Operators is not a trivial matter. It involves taking a series of complex tasks and reducing them to a whiteboard view of your project. It’s going to need a cluster made up of 3 servers. This could involve manually locating the IP address of each server, creating a configuration file and copying it to all three machines. It’s the kind of task that takes a lot of developer time and requires manually adjusting when the plan changes. Operators can reduce all of that manual work to a declarative statement: “Launch three clusters” and the Operator will handle the rest.
+
+This is particularly important when launching complex applications like databases or monitoring tools. Kubernetes to this point has been great at scaling simpler, stateless applications, Philips explained, but when it comes to more complex stateful applications, it required this heavy scripting to make it work. Operators have the potential to eliminate that layer of complexity.
+
+In fact, in a TechCrunch CrunchNetwork guest post last year,I want to run stateful containers too, Dean Peterson, co-founder of abecorn and a solutions architect for the State of Minnesota at the Department of Employment and Economic Development, lamented his inability to do just that.
+
+At this point, my notion is that stateful applications, such as MongoDB, should run in containers alongside stateless clients and services. I didn’t know that makes me foolish. Like a naive dreamer, I thought the value of containers was to make your entire app easy to scale.
+
+With today’s announcement Peterson’s naive dream takes its first steps toward becoming a reality. It involves launching and open sourcing two Operators. The first is theetcd Operatorfor creating, managing and distributing etcd clusters. etcd is the Kubernetes keystore created by CoreOS. The second isthe Prometheus Operator, which is designed for use with the open source Prometheus monitoring tool to monitor your Kubernetes resources.
+
+Philips says the company hopes the launch will motivate the community to begin to build others — and he’s pretty sure they will after they see what these two can do.
+
+“The Kubernetes community built a lot of this foundation, and we are tying it together for the first time and presenting a vision how domain specific-knowledge can be managed on top of Kubernetes. We have a pattern and we hope people follow it because it’s useful,” he said.

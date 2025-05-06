@@ -1,0 +1,23 @@
+Slack’s rapid growth slows as it hits 1.25M paying work chatters
+
+Slack is still growing fast, about 33% in daily users and paid seats in the last 5 months. But not as fast as before, when it saw 50% DAU growth and 63% paid seat growth in the 5.5 months from December 15th toMay 25th.
+
+This aligns with rumors TechCrunch has heard about a slight dip in customer retention at Slack, as the casual, GIF-filled workplace chat app can get noisy and distracting for bigger companies, and have trouble scaling. Uber, for example,dropped Slackback in April.
+
+Slack revealed ina blog post todaythat it now has 4 million daily active users, 5.8 million weekly active users, over 1.25 million paid users, and 33,000 paid teams. That gives it a current annual run rate of $100 million. That’s not much for a company with over 650 employees across 7 offices that was valued at$3.8 billion when it raised $200 millionin April.
+
+Here’s a timeline of Slack’s daily active user and paid seat growth:
+
+To be clear, Slack’s growth is still phenomenal. It doubled its users in 10 months, but is still early on its quest to get every worker in the world on its messaging platform.
+
+Investors like Thrive, GGV, Comcast, Accel, Index, and Social Capital are betting on swift continued growth Slack must fight to maintain. The company sought to prove its global potential by highlighting that nearly half of its daily users come from outside North America, including its top foreign markets like Great Britain, Japan, Germany, France, and Australia. It also cited high-profile customers including Autodesk, eBay, Conde Nast, Airbnb, EA, Pinterest, TIME, and LinkedIn.
+
+Slack’s big strategy to boost retention is to lock users in with an ecosystem of of third-party apps they can’t find in competitors that might clone Slack’s core product. Slack says that the 746 apps in its App Directory get installed 415,000 times per month. It just hit 6 million total third-party app installs.
+
+To allow its investors to double-down on Slack’s success without selling more equity, and simultaneously strengthen its moat, the company launched the$80 million Slack Fundto invest in apps on its platform. As of July it had invested$2 million of that into 14 appslike Abacus, Butter.ai, Birdly, Lattice, and Sudo. Meanwhile, Slack is pushing to become an enterprise identity layer with its“Sign In With Slack”feature for other corporate tools.
+
+For long-term success, Slack may need to find a way to defeat its greatest foe: human nature. The fact that everyone at every level of a company needs to communicate, and that we’re used to chatting online, is what helped Slack grow so quickly in the first place. But the way Slack facilitates procrastination and low-value socializing that could interfere with actually getting work done might be scaring off customers.
+
+That’s why the company’s blog post declares that “When we say ‘Slack is where work happens,’ we don’t just mean people sending messages to one another, but the integrated workflows, business processes, data streams and applications that spin the gears of work for tens of thousands of our business customers around the world.”
+
+Tools to cut the noise, user education about how to use Slack productively, and a buttoning of its collar may be in order. Dropbox similarly came at the enterprise with a casual, youthful bottom-up approach, but had trouble convincing traditional, conservative corporations that it was professional and secure enough to fit them. Slack and its straight-talking CEO Stewart Butterfield have built a beloved startup. The next phase of its growth will be about building a respected, enterprise business.

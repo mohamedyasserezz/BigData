@@ -1,0 +1,15 @@
+Docker launches a new marketplace for containerized software
+
+At its developer conference in Seattle,Dockertodayannouncedthe private beta of theDocker Store, a new marketplace for trusted and validated dockerized software.
+
+The idea behind the store is to create a self-service portal for Docker’s ecosystem partners to publish and distribute their software through Docker images — and for users to make it easier to deploy these applications.
+
+While Docker already offered its ownregistry for containers, too, the Docker Store is specifically geared toward the needs of enterprises. The store will offer enterprises “with compliant, commercially supported software from trusted and verified publishers, that is packaged as Docker images,” the company says, and feature both free and paid software. Unsurprisingly, Docker will take a cut when a user installs a paid application through the store (though what exactly this revenue share agreement for paid-via-Docker content looks like is currently unclear).
+
+The publishing process focuses on ensuring the quality of the container images and Docker notes that all the content is verified by the company and includes licensing information to support enterprise compliance.
+
+“The use and creation of dockerized content has grown exponentially in the last couple of years,” the company notes in today’s announcement. “This demand on content and the expanded use of Docker within the enterprise naturally led to the need for more content, entitlement, visibility into security profiles and compliance.”
+
+According to Docker, the number of containerized apps has grown 3,000 percent to 460,000 apps in the last two years and more than 4 billion images have now been pulled from the Docker Hub and image repository. Docker stressed that the marketplace will give publishers access to the company’s growing customer base.
+
+The Docker Store is now in private beta, likely because the company wants to bring inmore publishing partnersbefore opening it up to all. Current partners include the likes of Chef, New Relic, Citrix, Splunk and Nginx.

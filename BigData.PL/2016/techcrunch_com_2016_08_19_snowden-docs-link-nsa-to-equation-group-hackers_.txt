@@ -1,0 +1,13 @@
+Snowden docs link NSA to Equation Group hackers
+
+A group calling itself the ShadowBrokers dumped data online last weekend that it claimed to have stolen from a hacking team widely believed to be linked to the NSA. The data containedvulnerabilities affecting major firewall productsand ignited speculation that the NSA had been hacked.
+
+Expert analysis of the data suggested that the NSA and the Equation Group are one and the same, but confirmation came today fromThe Intercept, which found references to the dumped malware in its trove of documents provided by whistleblower and former NSA contractor Edward Snowden.
+
+The Intercept reports:
+
+The evidence that ties the ShadowBrokers dump to the NSA comes in an agency manual for implanting malware, classified top secret, provided by Snowden, and not previously available to the public. The draft manual instructs NSA operators to track their use of one malware program using a specific 16-character string, “ace02468bdf13579.” That exact same string appears throughout the ShadowBrokers leak in code associated with the same program, SECONDDATE.
+
+The Snowden documents show that tools were used in spying operations against Pakistan and Lebanon. The data posted by the ShadowBrokers marks the first time NSA hacking tools have become publicly available, causing concern that the tools could be used more widely.
+
+The Intercept published the documents that reference these Equation Group tools so you canread themfor yourself.

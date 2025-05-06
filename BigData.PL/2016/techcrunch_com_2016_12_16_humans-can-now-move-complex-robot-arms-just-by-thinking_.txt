@@ -1,0 +1,13 @@
+Humans can now move complex robot arms just by thinking
+
+Most robotic arm systems required a very complex and very invasive brain implant… until now. Researchers at the University of Minnesota have created a new system that requires only a sexy helmet and a bit of thinking, paving the way to truly mind-controlled robotic tools.
+
+“This is the first time in the world that people can operate a robotic arm to reach and grasp objects in a complex 3D environment using only their thoughts without a brain implant,” said Bin He, biomedical engineering professor and lead researcher on the study. “Just by imagining moving their arms, they were able to move the robotic arm.”
+
+The system requires an EEG helmet and some training. Whereas this sort of technology has been around for a while the researchers have finally perfected the control of complex systems using the motor cortex. When you think about a movement the neurons in the motor cortex react by lighting up new sets of neurons. By sorting and reading these neurons the brain-computer interface can simulate and translate the motion of your real arm into commands for the robot arm.
+
+“This is exciting as all subjects accomplished the tasks using a completely noninvasive technique. We see a big potential for this research to help people who are paralyzed or have neurodegenerative diseases to become more independent without a need for surgical implants,” said He.
+
+You can read He’sjournal article here.
+
+In previous experiments of this sort a patientwho lost both arms in an electrical accidentwas able to control two robotic arms simultaneously thanks to systems jacked into his nervous system. This new system from He and his team promises to reduce the invasiveness of this sort of robotic control and let anyone control robot arms with their minds.

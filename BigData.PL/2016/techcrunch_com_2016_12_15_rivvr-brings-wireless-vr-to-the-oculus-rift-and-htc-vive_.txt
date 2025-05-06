@@ -1,0 +1,17 @@
+Rivvr brings wireless VR to the Oculus Rift and HTC Vive
+
+Wires don’t really exist in anyone’s conception of the future. Often they’re just needed for powering devices, but in the case of high-quality VR, the headsets rely on wires to connect to high-end PCs that provide the brains.
+
+Rivvris looking to cut the cords with its hardware solution that will provide wireless play to both the Oculus Rift and HTC Vive. I had a chance to take an exclusive first look at the device from the YC-backed company and pop on a VR headset to see how well it works.
+
+Unlike other devices which are aiming to send the entire raw HDMI signal over the air, Rivvr uses its proprietary tech to compress the much smaller video feed from the PC, sending just about 40-80 mbps of video signal over the air. The device weighs around 300 grams, but really doesn’t make the headset feel any heavier as there are no longer any heavy cords pulling on the back of the headset.
+
+How did it all actually feel? Liberating. The wires have been one of the most annoying limiting factors of VR immersion as of late, it’s not the biggest deal breaker, but it’s certainly something that there’s a demand to fix.
+
+There are still some kinks in terms of connection, this is very much a tough solution to crack. The increased tracking latency, which the team claims it has gotten down to 11ms, wasn’t noticeable in the slightest during my short demo time spent between Tilt Brush and Fruit Ninja. Over the course of a few minutes, I had a couple signal drops where the image digitally fractured though the tracking never hiccuped. This isn’t a device you’re going to get sick using but there are still some issues that need to be addressed.
+
+Rivvr is a hardware startup spun out from the YC-backed startupSixa, a company that’s selling monthly access to powerful cloud computers. The Rivvr team is hoping to use the combined technologies to one day beam virtual reality content to a user’s headset using Sixa’s high-specced cloud computers.
+
+Limits in the current infrastructure of American internet service providers make this a bit difficult, but the team sees cloud computing as an essential evolution that will drive these upgrades moving forward in the next few years. It will be interesting to see whether service providers can keep up with the speed of hardware development, especially as VR headsets glance towards a future where each eye has a 6K display powering it.
+
+Pricing isn’t totally set for the wireless device yet, though CEO Mykola Minchenko says we will hear more at CES next month. The company did detail that it is probably planning to offer the device in the $200-$300 range in two models sporting 3 hour and 6 hour battery lives respectively. Minchenko says the device will ship by the end of spring 2017.

@@ -1,0 +1,33 @@
+3D printing technologies explained
+
+If you’ve ever been lost in the midst of all the3Dprintingtechnologies, you know how hard it is to get a grip on the different machinery, applications and companies involved.
+
+Patent disputes, crafty marketing teams and feuds amongst inventors have led to a point where identicaltechnologiesgo by different trademarks and are limited in their applications because of potential infringements. Many “newtechnologies”— actually trademarks — are presented as revolutionary, when they are in fact similar or the same as existing systems.
+
+For the industrial designer or engineer it’s important to have a grasp on thesetechnologiesbecause they can tell you a lot about possible applications and limitations from the outset. This is generally not an easy thing to do. To shed some light on the situation, and help you understand the differenttechnologies,here’s an overview to get you started.
+
+The overview contains all the main additive manufacturingtechnologiesof today, starting with process descriptions and guiding through all the individualtechnologiesand material options, ending with the key industry players.
+
+Using the overview, it can be particularly interesting to have a look at where new3Dprintingtechnologiesfit into the grand scheme of things and what can be expected of their applications and possible limitations.
+
+A little more than ayearago, Joseph M. DeSimone, a chemistry professor from UNC Chapel Hill, walked onto aTED conferencestage and left the audience in complete awe. On stage he unveiled a technology dubbed Continuous Liquid Interface Production (CLIP) that promised to be up to a 100 times faster than comparable3Dprintingtechnologiesand capable of creating smooth, strong parts, equivalent to their injection-molded counterparts. By the end of the 10-minute presentation, a solid object had risen from the bath of the obscure3Dprinter he had brought with him.
+
+As can be seen in the overview,Carbon’stechnology is similar to existing DLP technology. What differentiates it is the use of “a photochemical process that carefully balances light and oxygen to rapidly produce parts.” Photopolymerization typically produces parts that are weak, brittle and degrade when exposed to UV light. Carbon claims to overcome this “by embedding a second heat-activated reactive chemistry in their materials,” resulting in high-resolution parts with engineering-grade mechanical properties.”
+
+Carbon is backed by notable investors, including Google, Autodesk and Sequoia Capital as the company managed to raise $141 million to date. Their debut printer, the M1, is priced at $40,000 per year with a minimum three-year term — a subscription-based model that is quite new to the3Dprintingindustry.
+
+NanoParticle Jetting (NPJ) technology, by the Israeli companyXJet, promises to introduce inkjet-based3Dprintingtechnology to the metal industry. It’s a revolutionary approach, considering that Material Jettingtechnologies(e.g. inkjet-like) have so far only been successfully applied to produce plastic or wax parts.
+
+In the XJet system, “print heads deposit an ultra-fine layer of liquid droplets” containing metal nanoparticles onto the build-tray. Extremely high temperatures cause the liquid “jacket” around the metal nanoparticles to evaporate and the metal parts to bond at the desired location.
+
+Compared topowder-based metalprinting, the process produces “a stronger binding of the metal with virtually the same metallurgy as traditionally-made metal parts.” The liquid feedstock also comes in sealed cartridges, eliminating the complex handling process of metal powders.
+
+After a decade’s worth of research and development, and $25 million in funding from Autodesk and Catalyst, XJet revealed its technology at RAPID 2016 in May. The company now has seven machines operating in its Rehovot, Israel HQ, but is yet to announce an official launch date and its first product. Once on the market, XJet could potentially disrupt the production of short-runs of complex metal parts in major areas of production.
+
+The rumors turned out to be true when HP announced its first3Dprinter in October 2014. With abundant resources and decades of expertise in 2Dprintingbehind it, the company’s first3Dprinter will hit themarket this year.
+
+Multi Jet Fusion (MJF) dispenses millions of drops of chemical agent per second — similar to what the company pioneered with 2D paperprinting— onto a thin layer of powdered material, while instantly curing it. Ultimately, this new3Dprintingprocess allows one to set the properties of each individual volumetric pixel (or as HP calls it; the “voxel”), thus controlling the mechanical and physical characteristics throughout a part with the ability to add more detail, including color and structural mechanics, than ever before, HP notes.
+
+Offering an end-to-end solution for $155,000, HP’s machine is priced rather competitively. Currently there’s only one available material (nylon), but the company is planning to roll out more materials in the coming months, showing vast potential for future development.
+
+Looking at these recent developments it’s easy to get caught up in the hype (once again) of each new3Dprintingtechnology — but between the economics, speed and quality of these new systems, it truly seems we’re on the cusp of a future of fully functional on-demand and local production. Let’s allow ourselves to ride the hype wave a bit longer.

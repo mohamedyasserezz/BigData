@@ -1,0 +1,25 @@
+IBM opens new Cambridge, MA security headquarters with massive cyber range
+
+It was a big day for IBM today as it opened its shiny new security headquarters in Kendall Square in Cambridge, MA, complete with what the company is calling the first commercial cyber range.
+
+A cyber range is a network security testing environment, and is typically run by the military or military contractors. This one, dubbed X-Force Command, however, is much more than a couple of terminals in a lab. It is a massive setup with seats for 36 operators. It features audio, video and a simulated Fortune 500 company operation with the goal of giving the user a realistically simulated cyber crisis.
+
+It includes nearly a petabyte of data running in a data center underneath the cyber range, and includes all the kinds of operations that you would have running in a typical enterprise, such as email servers, supply chain software, employees using the internet and so forth.
+
+The idea behind the cyber range is to simulate an actual cyber event to show security personnel, C-suite executives or anyone just how prepared (or more likely unprepared) they are to deal with a massive breach.
+
+“We are putting you into a simulator that is so realistic that your pulse will race, and you will be stressed, and you will learn how to make critical decisions in a crisis,” Caleb Barlow, vice president of security at IBM explained.
+
+The cyber range is part of a broader security strategy by the company. Over the last couple of years, it has purchased at least seven security properties,including Resilient Systems earlier this year, which helps companies prepare for a cyber attack before they happen.
+
+While Barlow said the cyber range wasn’t being positioned as a sales tool, so much as an awareness-raising device, it is designed to show people in stark terms what happens during a breach, and how they might react after an incident — especially if they are unprepared.
+
+The simulation can help you understand the different aspects of breach response, such as how quickly you report the event to regulators and government officials, what happens if the breach leaks to the press (as often happens) and how to deal with all of this with the company in crisis mode. Obviously, if you have thought this through beforehand, and have a plan in place, a playbook if you will, you are going to be in a better position than trying to react to all of the different pressure points in the heat of the moment.
+
+It’s not a coincidence of course that this is all the kind of stuff Resilient has built into its solutions. In addition, it wouldn’t be IBM without a consulting piece, and they have built a team of consultants to help customers prepare for an attack and deal with the aftermath.
+
+Wendi Whitmore was brought on board seven months ago to run the IBM X-Force IRIS Team, a group of consultants picked for their expertise in cybersecurity. Whitmore herself has almost 15 years of cyber experience, including stints with the Air Force, Mandiant and CrowdStrike.
+
+She says the goal of her team is to help companies deal with massive breaches after they occur, but they also want to work with companies on how to prevent them. While she acknowledges blocking smaller breaches is probably not possible, she believes that, with proper preparation, a company can prevent a massive company-wide,Sony-style breach— and that is what her team is trying to do.
+
+The company seems fixated on this idea of helping companies to prepare for breaches. It has devoted $200 million this calendar year to its security operation, which has included opening the new security headquarters and building the cyber range. To date, the security division has 8,000 employees worldwide and generates $2 billion worth of business. The company wouldn’t reveal how many would be housed in the Cambridge office, but said much of the security executive team would be based there.

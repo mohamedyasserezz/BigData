@@ -1,0 +1,27 @@
+NextHealth raises $8.5M from Norwest to drive down medical costs
+
+One of the few remaining universal truths is that healthcare costs are too high. Insurance companies are bucking under the pressure from the Affordable Care Act (ACA), and they are willing to try almost anything if it means reducing costs.
+
+With a shiny $8.5 million Series A fromNorwestVenture Partners,NextHealthwill be making that exact promise of reducing healthcare costs to U.S. insurance companies over the coming months.
+
+NextHealth’s pitch to insurance companies is very similar toOPower’s pitch to utility companies. If you can target customers most likely to be overspending, you can generate efficiencies that make the entire ecosystem money. Whereas OPower’s rise was fueled by the regulatory environment, NextHealth is being supported by both the failings of the ACA and the innate properties of the insurance industry.
+
+The company is using a mix of behavioral science and predictive analytics to project out specific customers, in a post-ACA world, that could save a lot on healthcare with just a few relatively simple lifestyle changes. While a dramatic drop has occurred in the number of uninsured Americans, a rush of new customers has broken many of the traditional predictive models in the industry.
+
+“Insurers were very surprised by the staggering losses from new members because they were uninsured before,” said Casper de Clercq, General Partner at Norwest Venture Partners.
+
+Fortunately, new patient behavior does still follow identifiable patterns. For example,a New England Healthcare Institute reportestimated that U.S. patients waste nearly $38 billion dollars every year on unnecessary emergency room visits. That’s almost enough money to give one Chipotle burrito bowl to every man, woman, and child on the planet. NextHealth wants to nudge these people into more sustainable healthcare habits.
+
+To solve the problem, NextHealth has to combine effective targeting with smart applications of existing data-sets. The platform parses through membership data, demographic data, lifestyle data, and geospatial data to pick out specific individuals with a likelihood of a successful intervention. For example, a young mother might have little experience with the emergency room. She may have heard about long wait times, but feel that the ER is the only option for after hours support. A gentle informational nudge could save her and her insurance company money.
+
+Once NextHealth decides to move forward, a case-specific campaign is developed that can involve a telephone call, email, letter, and even refrigerator magnet with information about location-specific healthcare options like telemedicine and urgent care clinics. To ensure intervention accuracy, NextHealth regularly performs statistical analysis against control groups. To date, 25 percent of patients targeted have accepted the nudge and abandoned the ER for all but critical needs.
+
+“We can use machine learning to know what worked and easily turn off what isn’t working,” said Eric Grossman, CEO of NextHealth.
+
+Common sense would tell us that every dollar of reduction in claims means a dollar of additional profit for insurers, but it doesn’t quite work like that. Insurers are required to spend 85 percent of revenue on claims and are limited to 15 percent to cover administrative overhead and generate profit. However, because NextHealth is classified as an operational expense, it is counted in the first 85 percent bucket for regulators. This is a big deal for cash-strapped insurers on the fence about trying the service.
+
+Once a partnership starts, insurers have two options. They can use NextHealth as a standalone service, or they can turn over full access to member outreach with native branding to NextHealth.
+
+NextHealth is currently working with eight insurance companies and half have opted to give the company marketing power in exchange for a promise to return fees at 2.5X. The company puts about half its fees at risk in the process and gains when insurers gain.
+
+While the platform already monitors about 2 million members, Grossman is constantly brainstorming new use cases, like targeted outreach to remind people to get cancer screenings.

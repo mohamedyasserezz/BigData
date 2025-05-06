@@ -1,0 +1,35 @@
+Augmented reality has no clothes
+
+Augmented reality and virtual reality continue to buzz hotly as contenders for the next wave of computing. Tech-industry pundits predict enormous future markets reachinghundreds of billions of dollarsbased on speculation thatAR will replace the smartphone.
+
+The technologylookspromising, but other smartphone killers haven’t panned out: Google Glass and smart watches. Perhaps the industry is again engaged in wishful thinking, declaring AR as the future emperor and dressing it in imaginary clothes.
+
+The story for VR makes sense. VR goggles provide a far more immersive and compelling display than any 3D display of the past — VR goggles consume your vision with stereo images of fantastic computer-rendered worlds. VR headsets will fly off the shelves as gamers sink into 3D nirvana.
+
+Then, while VR is being adopted for games, people will likely find it enhances other applications, too: 3D sports broadcasts, tourism, education and possibly even social networking, as Facebook’s Oculus hopes. 2016 will be the year for VR as several headsets are out now or coming before the end of the year.
+
+The story for AR is much less straightforward. First of all, although VR and AR technologies sound similar, AR is far more complex because it involves displaying and aligning digital content over the top of objects in the real world. Unlike VR, you cannot turn your phone into an AR headset with a piece of cardboard.
+
+Nevertheless, AR technology is progressing rapidly. I’ve recently tried a number of new AR headsets fromEpson,ODG,MetaandVuzix. Rather than the ghost-like images of just six months ago, the images in the new models are bright and clear, with crisp stereoscopic depth.
+
+The field of view is getting wider, though still not approaching the 150+ degrees of human eyes. The headsets are a little too big and heavy, but not terribly so, and they all exhibit attractive geek-chic designs, suitable for wearing in public. The underlying computer vision software is getting better at recognizing objects in the real world and aligning digital objects that match the lighting, transparency and occlusion of the real world.
+
+Still, there are a few problems that AR technology may never solve. First, no one really likes wearing glasses. We tolerate wearing them to correct our vision, but those of us who wear glasses would really rather not. Second, AR glasses are not completely transparent, and your view of the real world is somewhat dimmed by the translucent display optics. Third, there is no way to project “black” onto the glasses, meaning that the real world always shows up within dark areas of digital objects. Finally, there is a disparity in your eyes’ focus between projected images centimeters from your face and real-world objects that are meters away, causing eye fatigue, nausea and breaking the illusion of blended reality.
+
+Perhaps the technology limitations are minor. More critically, the applications and use cases for AR are simply not as compelling as gaming is for VR. Yes, there are some serious, industrial use cases that have some self-evident value under AR: guiding technicians in the assembly and repair of complex machines, assisting surgeons during operations, alerting pilots and drivers to navigation cues and objects in front of the vehicles andmany other complex, mission-critical applications. On the other hand, even for these applications, thedemos today are half-bakedusing simulated or artificially controlled situations.
+
+For the sake of argument, let’s assume the technology improves enough to be practical for those industrial applications — that’s still not enough to replace the smartphone. What are themainstreamapplications where AR will stand out?
+
+The first thing in AR’s favor is that it is always on, so I don’t have to reach into my pocket, flip open the cover, turn on the phone, enter a passcode, launch an app, navigate the UI, enter a query, etc. AR will see what I’m seeing, hear what I’m hearing and infer what I need from cues in the environment. Maps will appear when I get in my car, reminders will appear over people, places and things that I encounter, notifications will wait till I’m not busy, search results will appear as I wonder aloud, foreign languages will be translated on-the-fly, currency converted, instructions provided, etc. Overall information access will be completely seamless. Nice!
+
+Then again, I can already do much of this with current andfuture Intelligent Agentson my phone and devices connected to the cloud. So, hmm. Seamless information access may not be enough to drive us to wear AR glasses any more than the convenience of Bluetooth headsets has done away with speakers.
+
+We’ve seen the concept videos from Microsoft HoloLens that illustrate a few laudable applications in education, but many more marginal applications, like playing Minecraft on a coffee table, floating TVs and even a digital dog reminiscent of thedog in the 1995 Microsoft Bob. Like Bob, Microsoft’s HoloLens paradigm is wrongly using space for digital information management.
+
+Magic Leap is no better, putting a 3D email application into mid-air. Like the mechanical horse, these UIs are wrongly shoehorning the pre-digital-age information management that had to be based on spatial location because it was all physical. That’s a classic mistake. Digital information management is not constrained by physics — who wants to literally walk over to a coffee table to see the weather forecast. Ask for it.
+
+Some people understand AR in its fullness, though, and they give me hope. Recently, I was lucky enough to see a number of applications uniquely suited to AR developedby Stanford HCI students(let me point out again, HCI conferences, and classes, are the single best place to go forvalidated visions of the future). My favorite among the Stanford projects was a piano tutor that showed scrolling bars atop the piano keyboard indicating which, when and how long to press the keys. Brilliant. There is no way a smartphone app could ever be as good at blending the instructions directly onto a physical piano.
+
+Similar, then, to the industrial AR apps, the killer app category for consumer AR will probably be training applications and how-to tutors for interacting with physical objects and materials in the real world. Is that too small of a niche for so much technology? Maybe not. Developed economies are increasingly based on human creativity and innovation. Ultimately, AR is just one of many ways thatAugmented Innovationgives us all superpowers that enhance our sensing and mental abilities beyond what is humanly possible.
+
+I’d say the emperor’s clothes are in fact real… they’re maybe just a little bit skimpy.

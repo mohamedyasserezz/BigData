@@ -1,0 +1,11 @@
+Ultimaker’s latest 3D printer features dual extruders and active bed leveling
+
+It’s been more than three years since Ultimaker released its last major 3D printer upgrade. Sure, the Dutch company has offered up a couple of iterations on the theme, including the larger Ultimaker 2 Extended and the portable Ultimaker 2 Go (which inspiredthis bizarre bit of gear), but the company has mostly been toiling away working on the next big sequel.
+
+According to the company’s CEO, the Ultimaker 3, “represents three years of development,” and from the looks of it, consumer 3D printing diehards will find a lot to like among the upgrades.
+
+At the top of the list is a dual-extrusion system, bringing two print heads, so users can mix and match materials and colors like so many soft serve frozen yogurt machines.
+
+The guts of the machine have been upgraded as well, bringing advanced geometric printing capabilities and a print bed that actively levels itself to help avoid common print errors. There’s also an NFC sensor on-board to detect tags associated with different materials, at which point it can customize a print based on what it’s printing.
+
+The Ultimaker 3 also has a camera on board for monitoring prints remotely, along with WiFi, an Ethernet port and a USB port. It works with Ultimaker’s Cura software and is available today for $3,495.

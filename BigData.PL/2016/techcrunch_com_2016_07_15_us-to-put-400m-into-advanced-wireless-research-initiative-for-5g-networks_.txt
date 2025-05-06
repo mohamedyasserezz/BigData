@@ -1,0 +1,35 @@
+US, NSF to put $400M into Advanced Wireless Research Initiative for 5G networks
+
+As President Obama approaches the end of his tenure in the White House, his team islaunchinga wireless networking research project that it hopes could be part of his wider legacy in the world of tech. Today, the Obama administration announced theAdvanced Wireless Research Initiative, a group backed by $400 million in investment that will work on research aimed to “maintain U.S. leadership and win the next generation of mobile technology” and specifically developing wireless networking tech that will offer speeds 100 times faster than the 4G and LTE networks that are being used today.
+
+Led by theNational Science Foundationwith participation from other organizations, tech companies likeSamsungand carriers, the AWRI will receive $400 million from the government over the next seven years to develop and test new wireless networking technology in four “city-scale” testing platforms.
+
+The AWRI, the administration says, is a direct result of theFederal Communications Commission’s (FCC)Spectrum Frontiersvote, which passed yesterday. Among other things, Congress approved a plan to free up high-frequency millimeter wave spectrum for both licensed and unlicensed use. “This spectrum, in combination with other spectrum already available, promises to enable faster speeds, quicker response times (“lower latency”), and increased capacity in future wireless networks,” the AWRI notes.
+
+While AWRI has a heavy government-standards slant to it, it will also include contributions from a long list of tech companies and carriers, who will work on providing devices, network design and equipment, and other things to build and test out new networking protocols.
+
+This makes some sense: these for-profit companies would like a seat at the table both to have a say in what will form the next set of standards, and an early start in staking out a claim for being the providers of those next-gen hardware and services.
+
+Commercial partners include all of the major carriers in the U.S., HTC, Intel, Oracle, Nokia and Samsung. But notably, Apple, Google and Microsoft are absent.
+
+The NSF said that it had found its partners by way of aDear Colleague Letterthat was an open call for participation in the consortium. “We continue to engage in discussions with other private organizations and expect additional companies to come onboard in the weeks and months ahead,” a spokesperson said.
+
+(We’re running full list of who is contributing what below.)
+
+It is an ambitious and wide-ranging effort, and one big question for me is how water-tight all of this will be when Barack Obama leaves office. The NSF said that it is confident that this will continue beyond November.
+
+“The NSF has a long history of sustained investments in fundamental research in networking technologies, going back over the last decade and more, and we expect this legacy to continue through the commitments being announced today,” an NSF spokesperson said.
+
+In a first move, some very rosy commitments are being made public:
+
+Initially there will be around $85 million invested in the project directly from the NSF, with another $350 million coming in the next seven years, which will include academic research and investment in the testing platforms. It’s also expecting “complementary efforts” from other federal agencies, it notes.
+
+The scope of what the AWRI is addressing here goes beyond faster mobile connectivity, although that is a big part of it, considering that today there are now 350 million devices connected to wireless networks in the U.S. It is also attempting to look at (and guess) all the other applications where we might be using wireless tech down the road. These include medical applications, self-driving cars, IoT deployments in factories and elsewhere, fast networks for businesses, virtual reality and more.
+
+On top of the announcement of the AWRI, the NSF is also putting its weight (and money) behind two other notable tech initiatives getting announced today.
+
+It’s working with Intel Labs on a $6 million project to develop wireless edge networks for mega-fast, mega-large processing power.
+
+And it is part of a $4.7 million project with the Academy of Finland (hence Nokia’s involvement in the AWRI?) to work on joint research projects with the European country, which will include “frameworks, architectures, protocols, methodologies, and tools for the design and analysis of robust and highly dependable wireless communication systems and networks, especially as they support and enable the Internet of Things.”
+
+There are about adozen other projectsalso part of today’s news, or related to it. Here’s a list of the main contributors to the main one of these, the launch of the AWRI:

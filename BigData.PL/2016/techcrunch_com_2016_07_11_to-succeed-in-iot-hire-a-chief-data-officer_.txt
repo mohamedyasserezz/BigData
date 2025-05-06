@@ -1,0 +1,25 @@
+To succeed in IoT, hire a chief data officer
+
+For many businesses, ownership of the Internet of Things (IoT) lies within a number of C-suite titles. AtCoca-Cola Enterprises, the CIO overseesIoT. AtAmazon, it’s the CTO. At GM, theChiefInfotainmentOfficerand CTO co-manageIoT.
+
+ButIoTdemands an interdisciplinary approach, whether the desired outcome is to streamline internal processes, introduce new customer experiences or uncover new revenue. This requires collaboration among multiple business units, some of which traditionally work independently from each other, such asIT and operations.
+
+Many have proposed an addition to the C-suite — theChiefIoTOfficer— to ensureIoTremains a top priority. Machina Researchpredictsthat at least one Fortune 500 company will appoint a “CIoTO” in 2016. But, aside from being a mouthful, the title is insufficient for narrowing cross-departmental divides. The CxO that businesses need in today’s connected world is theChiefDataOfficer.
+
+From sales and marketing to finance to engineering to actual customers, all parts of a business — no matter how divided by geography, culture or function — producedata, often in larger volumes than they know what to do with. To make matters more difficult, the quantity of information gets multiplied with the connected revolution.
+
+Whether the world will have20 billion,34 billionor50 billionconnected devices by 2020, the industry hasn’t reached a consensus. But analysts can agree that those devices generate massive amounts ofdata —to the tune of44 trillion gigabytes— so the more important issue is what companies do with all the information, whether they harness it to develop new services, improve internal collaboration processes or find fresh ways to interact with customers.
+
+Earlier this year, EVRYTHNG and Avery Dennison announced they will manufacture10 billionpieces of connected clothing. Will the apparel line take off? Only time will tell, depending on how effectively EVRYTHNG and Avery Dennison can put these billions of products (read: newdatasources) to use in a way that brings value to the consumer’s life.
+
+To move from simply producingdatatoward deriving value from it, companies should establish adataSWAT team within every business unit. Each team would be responsible for managingdata, analyzing it and collaborating with their counterparts within other units. TheChiefDataOfficerwould oversee these SWAT teams, ensuring relevantdatagets in the hands of the people who need it most — whether that’s a developer working on a new product, the customer success team checking on the health of customers in a specific geography or IT verifying that systems are running properly.
+
+Effective bigdataprograms promote customer success tracking and accelerate iteration on existing offerings. These are well-documented advantages. A lesser-known benefit of bigdataanalysis is its role as a built-in R&D tool for generating unexpected new product ideas.
+
+Take, for example, home automation and security company Vivint and itsdoorbell camera, a video monitor that activates a live feed on the homeowner’s phone app when the doorbell rings. Vivint observed the doorbell camera’s popularity among families with young children, particularly those without cell phones, and found that usage spiked on weekdays in the late afternoon. This insight inspired anentirely newIoTproductwith proven market demand: Vivint Ping, two-way video chat for kids to talk to their working parents after getting home from school.
+
+Thedata-driven mindset also can help streamline day-to-day operations, saving hours or even days of productivity. Efficiency and agility enable companies to make the most of theirIoTinvestments, while recovering valuable time, money and personnel that can instead be put toward developing newIoTprograms or expanding existing ones.
+
+Air Liquiderelies on sensors and real-timedataanalysis to track gas tank stock. Armed with precise inventory information, the industrial gas company knows where and when to send truckers for propane fulfillment. By eliminating unnecessary, time-consuming trips to remote tank sites, Air Liquide frees up resources that it can redirect toward improving and building newIoTcapabilities.
+
+Ultimately, what determines any company’s success is its ability to democratize information across all business functions, roles and levels. The rightdata— across every source and connected device — needs to reach the relevant people, whether it’s within a company or directly to users. That responsibility is more difficult, yet more crucial than ever, in our increasingly digital, connected world. Today’s experts indatamanagement, governance and analytics are best equipped to bring about that success.

@@ -1,0 +1,15 @@
+HPE gears its updated Helion OpenStack distribution toward telcos
+
+HPE is in an interesting position. Now that it hasshut downits Helion public cloud business, its main focus is on its private and managed cloud services, which center around the open sourceOpenStack cloud platformthat’s pretty much thede factostandard for building private clouds now.
+
+HPE launched version 4.0 of itsHelion OpenStackplatform for enterprises this week. With this release, the company is emphasizing OpenStack’s readiness for the telco business, but the launch also comes at a time when HPE has laid off large parts of its OpenStack team and is actually looking to combine some of its efforts with those of SUSE’s. Telcos are abright spotin the OpenStack ecosystem right now, though, so putting its emphasis on this vertical may just breathe some new life into HPE’s own efforts.
+
+HPE’s Sarwar Raza, the VP of product management for its network function virtualization (NFV) business, told me that a lot of the work that went into this new release focused on performance and making operating a Helion cloud easier. Unsurprisingly, Helion 4.0 is, in his view, a carrier-grade platform that is stable, performant and dependable enough for telcos.
+
+“Telcos will drive the next generation of OpenStack,” Raza told me. “The key thing to keep in mind is that telcos move slowly. They are regulated — there are a lot of financial and legal stressed on them. Once they all get aligned around something and they are not pulling in lots of different directions, there is a lot of momentum there.”
+
+He admitted that the actual adoption from enterprises is still small, though, but he believes that telcos will almost naturally gravitate toward OpenStack as they look at getting ready for their 5G deployments (and because they don’t want to be dependent on a single vendor and will instead opt for an open platform like OpenStack).
+
+NFV, which lets telcos move many of their networking services from expensive proprietary hardware into software that runs on standard servers, is becoming one of the “killer use cases” for OpenStack, Raza believes. The new release was pre-tested with about 50 partners and offers OpenStack operators all of the features available in OpenStack’s Mitaka release from about six months ago (most vendors stay about one version behind the open source release cycle but, like HPE, often backport some of the newest features to their distribution, too).
+
+Given the slow sales cycle in the telco world, it’ll be interesting to see where HPE Helion (and, to be fair,HPE as a whole) goes from here. Telcos are clearly one of the fastest growing verticals for OpenStack right now (and many of those looking into OpenStack are also in the fast-growing Chinese market), though, and HPE is clearly trying to capitalize on that.

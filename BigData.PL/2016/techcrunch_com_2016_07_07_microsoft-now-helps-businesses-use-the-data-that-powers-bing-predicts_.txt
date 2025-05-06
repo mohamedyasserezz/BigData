@@ -1,0 +1,15 @@
+Microsoft now helps businesses use the data that powers Bing Predicts
+
+A few years ago, Microsoft launchedBing Predicts, a project that aims to correctly predict sporting events and elections by combining lots of data with machine learning algorithms. Until now, though, there wasn’t really a product that made Bing Predicts available to users. Today, however, the company launched itsCortana Intelligence with Bing Predictsservice.
+
+Sadly, this still doesn’t quite make the huge corpus of data Microsoft gathers for Bing Predicts available to everybody, though. Instead, the Cortana Intelligence with Bing Predicts service is an end-to-end consulting program that, in Microsoft’s words “brings the power of Microsoft’s unique corpus of social, search and web data to let customers enrich and augment their Cortana Intelligence Suite solutions resulting in more accurate outcomes across a wide variety of business problems.” In other words: to use it, you’ll have to talk to a few sales reps and then sign complicated legal documents (plus pay quite a bit of money, I assume).
+
+The project is backed by data that includes anonymized and aggregate Bing search queries, IE user sessions, and Microsoft’s offline copy of the web and social media sites.
+
+Cortana Intelligence with Bing Predict customers (they really couldn’t have figured out another name, right?) will work with a Microsoft team that will help them interpret this data to gain insights into consumer preferences, user sentiment, demographics and industry trends. “The heavy lifting of building, testing and operationalizing these enhanced solutions is handled entirely by Microsoft’s team of data scientists and solution architects, working with the industry-leading machine learning capabilities of theCortana Intelligence Suite,” Microsoft writes.
+
+It probably makes sense for Microsoft to launch this project as a consulting service instead of following the self-serve model it uses for virtually all of its other cloud services. Most businesses probable don’t have the in-house data science talent it takes to interpret this data and make it relevant to their businesses at this point, so they would be looking for a third party to help them work with this data anyway.
+
+In addition to this new consulting program, Microsoft also today announced that itsPower BI Embedded servicefor easily embedding reports and visualizations into apps will becomegenerally availableon July 11 and that anybody can now also use Power BI’spublish-to-web feature. Both of these programs were previously in preview.
+
+The company also today announced that it will host its firstData Science Summitin Atlanta in September.

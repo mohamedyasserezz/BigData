@@ -1,0 +1,93 @@
+The history of innovation in recruitment technology and services
+
+“You have to know the past to understand the present.” – Carl Sagan
+
+2016 is a watershed moment for the recruitment industry. LinkedIn and Monster are being acquired, and CareerBuilderis for sale— three of the highest-profile tech companies in the space. Microsoft is making a grand entrance, while cashed-up incumbents watch closely from the sidelines.
+
+The ripples will span the entire industry — from founders, investors and service providers to job seekers. Basically everyone in business. How will it impact you?
+
+This article brings clarity through a historical lens. It provides a framework for how the industry has evolved over the past 20 years, to help founders, investors and practitioners understand and navigate the biggest trends currently underway.
+
+Recruitment is an attractive target for disruption — hundreds of billions spent every year, with inefficient business models and widely felt pain. But despite thousands of startups taking billions in investment, the truly structural innovations can be mapped on a single page.
+
+And the fundamental workflow of recruiting has remained remarkably resilient to technical change. Today, like 20 years ago, we still source candidates, put them through a process of interview and selection and need someone to manage that process.
+
+The framework below maps the most important shifts across three distinct periods of innovation. The arrows show the “direction” of innovation, from which new models emerge. For example, job aggregators (likeIndeed) emerged in the mid-2000s to disrupt online job boards.
+
+This framework generalizes the recruitment value chain and ignores thousands of startups and innovations that haven’t had widespread impact. And the emergence of a new model doesn’t make a previous one redundant (e.g. job boards are widely used today) — but it does provide context for when and how many well-known companies have emerged.
+
+Before diving in, observe that innovation over the past 20 years has been horizontal (left to right), and constrained within specific steps in the value chain.
+
+That’s all changing in 2016.
+
+First, let’s take a look at the defining models and companies that have shaped each step in the value chain, before examining the biggest trends shaping the industry today. We’ve simplified it into three understandable steps — find the candidates, track the process, then do the process.
+
+In the beginning there were newspapers. If you wanted to find candidates, you paid for an ad in a physical newspaper. Simple, effective and expensive. Hello, internet.
+
+Wave 1: Online job boards.Online job boardsemerged in the late-1990s to steal eyeballs from newspapers and print media. The defining companies of this era wereMonster,CareerBuilderandCraigslist— completely reshaping the job advertising and search experience for both employers and job seekers. Despite becoming obvious targets of disruption, job boards still contribute 10-15 percent ofhires in the U.S.
+
+Wave 2: Active versus passive sourcing.In the mid-2000s, social networks split the market into categories ofactive and passive candidates. Job boards were for active candidates, but they were limited to traffic they could earn or buy. Then Indeed found it easier to aggregate ads from other websites, and introduced “pay-per-click” job advertising.Job aggregationbecame the dominant model for active sourcing —Recruit Co. acquired Indeedin 2012 and drives 58 percentof external hiresin the U.S.
+
+But the defining company of this period wasLinkedIn. It created a new category for passive sourcing by bringing profile data online. Now anyone could search for potential candidates, whether they had applied to a job or not. Previously, recruiters had an information arbitrage over employers, thanks to their “proprietary” databases. No more. Candidate data became free to anyone with the tools and skill to find it.
+
+Wave 3: Employer branding and sourcing tools.The job board model was soon attacked by a different source of data —company reviews.Glassdoorcrept onto the scene, applying lessons from Expedia and Yelp on the power of user-generated content. It quickly added an Indeed-style aggregator to become thefastest growingjob site, visited by nearly50 percent of U.S. job seekersat some point during their search.
+
+Meanwhile,passive sourcingbecame recognized as a distinct activity within recruiting, supported by an entire category of new tools and technology. The biggest innovations in this period are people search engines that aggregate profile data from across the web — e.g.Connectifier(acquired by LinkedIn),TalentBin(acquired by Monster) and dozens of others still fighting for share.
+
+Theapplicant tracking system(ATS) is the CRM of recruiting. Most companies are stuck using old, ugly technology they need but don’t like.
+
+Wave 1: On-premise ATS.The ATS emerged as a distinct category of software in the 1990s. Like most software in that period, it was installed on a customer’s server, and focused on enterprise companies. The defining company of this period wasTaleo, which successfully navigated the move to SaaS (in Wave 2) and wasacquired by Oraclefor $1.9 billion. It still dominates the market with36 percent share.
+
+Wave 2: The move to SaaS.In the early 2000s a new category of “web-first” ATS emerged, in line with the general trend to SaaS. New players gained share, includingJobviteandiCIMS. This wave also saw consolidation, with enterprise incumbents Oracle and SAP seeking to establish full suites of HR software.
+
+Wave 3: The new breed.Then expectations changed. Enterprise software needed to be effectiveandsexy. A new breed of ATS emerged — user-friendly, mobile-first, open to integrations and free of technical debt. In the last few years more than $100 million of investment has flowed to new players, includingGreenhouse,Lever,SmartRecruitersandWorkable. It remains a brutally competitive space, and the winners will combine product innovation with aggressive marketing and sales.
+
+Despite 20+ years of technical innovation, most money in talent acquisition is still spent onrecruitment service providers— both external and internal.
+
+The popular notion of “disrupting recruiters” has merit, but misses three important factors: (a) someone needs to use the tools and manage the process, whether external or internal; (b) there is huge fragmentation and range of service providers; and (c) the recruitment services industry itself has seen major innovation and disruption.
+
+Wave 1: “Gold rush” for agency recruiters.The 1990s through to the mid-2000s were a gold rush foragency recruiters. Proprietary databases gave them an information arbitrage, and they could charge employers a premium. The industry was flooded with all manner of folk looking to strike it rich. Many agencies were sales-intensive environments with few rules; owners became rich, and some went as far as listing public companies.
+
+Wave 2: Internal and RPO.The hangover began in the mid- to late-2000s with two conflicting trends. First, the popularity of LinkedIn and other technologies empowered many companies to reduce spend on external recruiters and manage the process internally. This period saw a major trend towardcorporate recruitingteams. Many agency recruiters made the shift to an internal environment. They still “did” recruiting, just for a single company, often in a more stable environment.
+
+Second,recruitment process outsourcing(RPO) emerged as large employers realized they could get the benefits of an internal team — at lower cost — by outsourcing their entire recruiting function. Early players were acquired by incumbents — e.g. Sourceright (Randstad), TheRightThing (ADP). Today’s standalone leaders have attracted significant investment from private equity — e.g.Cielo(KKR),WilsonHCG(Frontier Capital). RPO is currently a $3-4 billion industry growing at 10 percent per annum, but is generally restricted to high-volume employers due to high costs of delivery.
+
+Wave 3: Specialization and independents.Over the past five years, technical innovation has trickled down to reshape the profession of recruitment. Specialistsourcers, focused on the technical activity of candidate identification and outreach, have emerged as a category distinct from recruiters. In parallel,independent contract recruitershave blurred the lines between internal and external. Independent recruiters (and sourcers) now have more options to work for themselves, using new tools and platforms, under a variety of pricing models (e.g. hourly, project-based, success-based). This has benefited employers by reducing cost and increasing flexibility.
+
+2016 is a watershed moment with many of these trends converging. The next wave is coming — will it be a period of consolidation, innovation or both? Here are four shocks already underway, along with questions that will shape the industry for the next decade or more.
+
+Microsoft has aggressively entered the space with its $26 billionacquisitionof LinkedIn. Integration will take time, but will have far-reaching implications across the industry. Will this open the doors for other major entrants?
+
+We know companies like Salesforce, Google and Facebookwere interested in LinkedIn, and that Salesforce in particular has alongstanding interestin HR tech. Is Microsoft’s entry likely to dampen or increase those ambitions?
+
+Then there are the “forgotten” giants of Oracle, SAP and IBM, with deep pockets, major horses in this race and a risk of falling behind the next wave of innovation in recruitment technology.
+
+How could these companies or others find ways to enter the space?
+
+Randstad (No. 2 recruitment services company globally) is acquiring Monster, to supportits goalof building the world’s most comprehensive portfolio of HR services. This isn’t the first big example of vertical integration — after Recruit Group (Japanese conglomerate) acquired Indeed — but could be the most impactful given the potential for integration.
+
+Vertical integration is also happening in other areas; for example:
+
+Incumbent job boardsinvesting in steps beyond the job posting:
+
+Mixed modelsemerging, blending technology and services:
+
+ATS providersexpanding and integrating with an aim of owning the entire recruiting workflow.
+
+How will incumbent service providers or traditional models respond to vertical integration?
+
+While the top end is consolidating and integrating, the number of startups focused on recruitment technology has exploded. It has never been easier or cheaper to start a tech company, and the industry has been flooded with founders and new investment chasing the next big thing.
+
+Many of these new startups feel like features more than businesses, and will pivot or disappear. For practitioners and potential customers, it’s more difficult than ever to cut through the noise and understand which new technology can truly impact your hiring process.
+
+What will be the next breakout technologies and innovations to scale?
+
+Traditional service providers — recruiters, sourcers, executive search consultants — face pressure on margins as they compete against tech-enabled solutions. Many are adapting to different pricing and business models. The best will continue to specialize by industry, geography and stage of the hiring process.
+
+Generalist providers will struggle. Incumbents that don’t make bold moves will be left behind. In an environment of technical consolidation and increasing competition on the ground, many will exit the industry or simply perish.
+
+How can incumbent service providers differentiate to maintain margins and stay relevant?
+
+This article does not propose answers to any of these questions. The intention was to frame the historical context and biggest trends currently driving the industry. The only prediction is that 2016 will be remembered as a watershed year in recruitment services and technology.
+
+How will it impact you?

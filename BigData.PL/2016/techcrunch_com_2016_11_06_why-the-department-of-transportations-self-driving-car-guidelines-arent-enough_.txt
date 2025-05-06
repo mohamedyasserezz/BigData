@@ -1,0 +1,31 @@
+Why the Department of Transportation’s self-driving car guidelines aren’t enough
+
+Ford, GM, Toyota and VW are just a handful of the car manufacturers planning to put self-driving cars on the road in the next five years. If you ask Uber or Tesla, they might say driverless cars have already arrived… which means we’re running out of time to secure one of the juiciest new targets for hackers.
+
+Hacking a car is easy. Just askTesla,JeeporMitsubishi. As self-driving cars reach the masses, they’ll dramatically raise the stakes for cybersecurity. If your computer gets hacked, it can be costly. If your car gets hacked, it can be deadly.
+
+The Department of Transportation’s (DoT)recent guidance on self-driving carsis a good start in addressing cybersecurity, but leaves a lot to be desired. Granted, the DoT does admit its lack of technical expertise, and requests special hiring tools to attract security experts who can best vet this new technology.
+
+But we can’t afford to wait long for stricter rules. The current language — words like “best practices,” “guidance” and “should” — leaves room for wide interpretation that could leave cars vulnerable. Here’s how the DoT can take a page from other industries and keep drivers safe without slowing the advance of self-driving technology.
+
+Security policies often lag behind rapidly evolving technologies, many of which are built on well-known or open systems with standard programming and networking, leaving wide open doors for hackers. Self-driving cars fall into this category, and the software behind them makes it dramatically easier for everyone from common criminals to terrorists to infiltrate and take control of a vehicle.
+
+Now would be a fantastic time for the government to sound relevant on cybersecurity, after the NSA breach, DNC hacks and other embarrassments have shown its inability to defend against state-sponsored attacks. Stronger rules would restore some confidence in a car industry that doesn’t exactly have a spotless record of doing the right thing. From ignition switches to airbags, there have been egregious product quality issues where manufacturers have put economic interests before passenger safety.
+
+Imagine what would happen if a terrorist, a hacktivist or even a common criminal took control of an autonomous car. They suddenly have a two-ton projectile that puts hundreds of lives at risk. Imagine the next evolution of ransomware, when a hacker takes control of your vehicle and will only relinquish control if you pay up. Not to mention the potential privacy implications if someone could remotely monitor conversations, driving habits and other information gathered by vehicles.
+
+When it comes to public safety, “best practices” aren’t going to cut it. What we need are policies and testing that ensure the computer systems and software onboard self-driving cars are secure and robust enough to prevent today’s toughest hacks.
+
+Autonomous vehicles should have the same stringent testing standards as in air travel. If you’ve ever seen FAA testing of new airplanes, you know it’s a test of their limits, stretching the wings to their breaking point, hurling ever-larger projectiles at windows and so on. The government should apply the same strict testing to cybersecurity in driverless cars. Put all new vehicles through DDoS attacks and advanced persistent threats to see what they can handle. Challenge hackers to see who can crack the system and where the vulnerabilities lie. With stricter testing, we can assure a safer ride before driverless cars reach the masses.
+
+Once they’re on the road, we need a certification system that requires renewal. Just as cars must go through regular inspections for emissions and mechanical safety, driverless cars should be evaluated for cybersecurity. Once a driverless car is declared secure, it’s going to need continuous updates as the threat landscape changes. Regular check-ins and recertification will ensure that passengers, pedestrians and other cars on the road aren’t at risk because a vehicle didn’t receive its latest patch. Certification should also extend to the vendor community so that those providing technology and services must ensure the same levels of security as manufacturers.
+
+If those requirements aren’t met, the government must hold manufacturers responsible with strong penalties for violations. In the financial services industry, breaches of ethics and other safeguards are met with fines, civil and criminal prosecution and other strong retribution. “Best practices” have no teeth. If the government hopes to regulate driverless cars, it’ll need tough penalties for safety violations, especially for cybersecurity, which is among the most significant vulnerabilities for passengers.
+
+There also are a number of gray areas on which the DoT will have to rule. While the guidance acknowledges the ethical questions, that doesn’t improve the safety of passengers or bystanders. If a driverless car is hacked and hits a pedestrian, who is responsible? The owner? The manufacturer? The passengers? What happens in parking garages, tunnels and other spaces that lack connectivity? These tough questions around self-driving cars will have to be answered sooner rather than later.
+
+Some have argued that a lighter regulatory hand at this point in the driverless car evolution is needed — we don’t want to limit innovation or put a brake on progress. To that, I say brakes are a good thing. Would you drive 90 miles per hour if you didn’t have brakes on your car? Probably not. Brakes allow us to move quickly, with the systems in place to slow down when necessary.
+
+The stakes are more extreme than ever before. For most people, the Yahoo data breach isn’t a big deal, apart from the need to change their password and maybe keep an eye on their credit reports. For those who have had their identities stolen or been hit with ransomware, the consequences are steeper and more disruptive. For those riding in a car, a hack could be the difference between life and death.
+
+Autonomous vehicles will likely usher in safer, more convenient and more efficient transportation options… but only if we do everything we can to keep them secure.

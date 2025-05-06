@@ -1,0 +1,27 @@
+Microsoft tests Project Sonoma, a team chat app for managing shift workers’ schedules
+
+Microsoft has quietly released a new productivity application to bothGoogle Playand theiTunes App Storecalled Project Sonoma. The app is aimed at those who work outside of a traditional office environment, like shift workers, waiters, and others who need to keep track of ever-changing schedules and who need to chat with co-workers at times.
+
+The company hasn’t made any official announcement about the launch of Project Sonoma, nor is the app publicly available at this time. Instead, Microsoft says the app is in “Private Preview,” and there’s awaitlistbusinesses can join if they want to test.
+
+Project Sonoma – if that is what the app will eventually be called (after all, it sounds more like a codename) – is a bit like a lightweight version of Slack, given its team chat emphasis. But it’s clearly aimed more at managing employees’ schedules, than collaboration.
+
+In the app’s main screen, there are three sections: My Shifts, Requests, and Messages. The first allows the employee to track their schedules and see when they’re working next. Requests lets them ask for schedule changes or swap shifts with others. Meanwhile, the Messages section is a simple team chat where you could receive important updates from the management, ask questions of co-workers, and chat with your work colleagues.
+
+There was somespeculationthat Project Sonoma is the result of a small acquisition or acqui-hire on Microsoft’s part. On Google Play, the app’s package name as seen in its URL includes the word “shiftr.” This happens to also be the name of a Sydney-based app calledShiftr, founded by Ludek Dolejsky and Adrian Dean, which focused on employee scheduling, too.
+
+Itswebsiteis no longer live, only leading to a blank page. Shiftr had some small seed investment, including from SenseDoc founderSteen Andersson,who previously sold his mobile marketing company 5th Finger AU to Microsoft. That made it seem likely that Microsoft could have bought Shiftr, but the company denies it.
+
+According to a spokesperson:
+
+Project Sonoma is an app we are testing with a limited group of customers that lets employees view and manage their work shifts from their phone. People whose company has signed up to participate during the testing phase can install and use the app. We are not disclosing the names or number of companies participating in the test.
+
+We’re always building and incubating new solutions to help people get more done, and we don’t have any availability timelines or details to share at this time. We can confirm that Project Sonoma has been developed internally by Microsoft from the ground up and is not based on an acquisition.
+
+The app’s existence was first spotted by the blogMspoweruser.com, which saw it was live on Google Play in preview mode. The app was updated on Google Play just a few days ago, but the iOS version has been live since June 10th.
+
+Meanwhile, there’s a very basicProject Sonoma websitethat offers little information about the app in question, beyond offering a way for testers to sign up or join the waitlist.
+
+Earlier today, Microsoft announced a related move to beef up its software’s ability to manage scheduling, this time to improve the scheduling capabilities in Office,through the acquisition of the chatbot Genee.Managing schedules is something that’s important for productivity, but there are a number of ways this can be handled outside of the calendaring interface.
+
+3 PM ET, Post updated to include Microsoft’s comment and related info

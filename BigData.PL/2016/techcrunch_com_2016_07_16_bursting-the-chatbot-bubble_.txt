@@ -1,0 +1,21 @@
+Bursting the chatbot bubble
+
+Chatbots seem to be climbing the proverbial peak of the tech hype curve with every passing day. Popular messaging appshave been attempting to outdo each otherin terms of making their platforms open for bot development. Businesses are also rushing to embrace them, as evidenced by the interest they are eliciting from even staid institutions suchas centuries-old banks.
+
+The frenetic action notwithstanding, the moot point, as always, is whether bots actually solve any real end-user need. The answer to that is not as clear as the chat platforms and businesses themselves would have us believe.
+
+Firstly, in most instances, the effort needed for completing tasks through chatis greater than simple clicks on UI menus. Add to that the superior aesthetics and visual appeal of a UI versus plain text (as with chatbots) and the case for a manual keyboard-driven input format becomes even harder to defend.
+
+Secondly, there is also the risk of misinterpretation as chatbots suffer from inaccuracies in understanding a user’s request. I had the privilege of attendinga talk by Bill Gates in 2000when he was in India. After the talk, one of the questions asked of him was his view on the future of technology. He replied that in the future, he saw no need for a keyboard and that users would use computers by just talking to them. PCs would be intelligent enough to understand the instructions and act accordingly. He shared that Microsoft was investing a lot of research dollars into AI, speech recognition and the like (which later got rolled into theircognitive services offerings). Fast-forward 16 years — millions of dollars and some of the best brains working on it didn’t prevent their showcase chatbotfrom going berserkin less than 24 hours of deployment.
+
+Don’t get me wrong — this is not meant to be a taunt on their technical competence, but rather a mere reflection on the complexity of the problem. That’s the reason I find it bemusing that not only are chatbot developers springing up like mushrooms in the monsoon season, but businesses are also actually eager to avail of their services sans any credible evidence of a real user need for them.
+
+Think about it. Why would anybody want to replace an existing setup that is 100 percent accurate and takes less effort to use (i.e. UI-driven menus) with something that is inaccurate and requires more effort to use (i.e. chatbots)?
+
+Finally, there also is the danger of uncontrolled proliferation of bots. One of the contributing factors for the fall from grace of Yahoo messenger, the most popular IM service of yesteryear, was its inability to deal with the spam unleashed by its bots. In fact, so bad was the problem that it forced Yahoo to contrive the now familiarcaptcha code to prevent botsfrom automatically entering chat rooms. It also inspired academic researchersto develop techniquesfor distinguishing bots from humans.
+
+So, does all this mean that AI/ML/NLP have no place in the emerging tech landscape? No, there will be use cases where we will see many such genuinely useful applications being developed.
+
+Some of my bets would be in such areas as personalization, intelligent discovery, AR/VR, etc. — but not chatbots as customer service reps or order-taking agents. In fact, all experience suggests quite the opposite. When a customer has an issue, they would most likely want to skip automated response options and speak to a real person who can fix their problem — not chat with a semi-intelligent bot dishing out some canned responses.
+
+As with most advances in technology, once the current euphoria on bots dies down, we will see the emergence of real solutions to real problems coming out of the chat ecosystem. Or to borrow from a popular adage, my prognosis would be: Chatbots are dead on arrival, long live chatbots!

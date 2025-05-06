@@ -1,0 +1,15 @@
+Russian hacking team The Dukes targeting NGOs and think tanks after Trump victory
+
+According to Internet security teamVolexityhas detected an active spear-phishing effort by Russian hacker groups including Cozy Bear and the Dukes. The targeted phishing emails feature subject lines like “The “Shocking” Truth About Election Rigging” and a false “FYI” from the Clinton Foundation.
+
+You can read about the effortson Volexity’s own siteandKrebsOnSecurity.
+
+“Volexity observed five different attack waves with a heavy focus on U.S.-based think tanks and non-governmental organizations (NGOs),” the company wrote. “These e-mails came from a mix of attacker created Google Gmail accounts and what appears to be compromised e-mail accounts at Harvard’s Faculty of Arts and Sciences (FAS). These e-mails were sent in large quantities to different individuals across many organizations and individuals focusing in national security, defense, international affairs, public policy, and European and Asian studies. Two of the attacks purported to be messages forwarded on from the Clinton Foundation giving insight and perhaps a postmortem analysis into the elections.”
+
+Most of the emailed links pointed users to download malware via a Microsoft .lnk file. The resulting infection activated the PowerDuke Backdoor, a program that turns Windows machines into part of a zombie botnet.
+
+The attack is interesting on two levels. First, writes Volexity, the technology is quite impressive.
+
+“The Dukes continue to launch well-crafted and clever attack campaigns. They have had tremendous success evading anti-virus and anti-malware solutions at both the desktop and mail gateway levels. The group’s anti-VM macros and PowerShell scripts appear to have drastically reduced the number of sandboxes and bots that the group has to deal with on their command and control infrastructure,” they wrote. “This combined with their use of steganography to hide their backdoor within PNG files that are downloaded remotely and loaded in memory only or via alternate data streams (ADS) is quite novel in its approach. Volexity believes that the Dukes are likely working to gain long-term access into think tanks and NGOs and will continue to launch new attacks for the foreseeable future.”
+
+Further, by targeting NGOs and think tanks the group gains access to important political tools as well as a ready-made set of potentially insecure servers upon which to work. The Dukes purportedly hacked the Democratic Nation Committee’s servers before the election and it’s clear that these organizations will be targeted with an intensity their IT departments might not be able to beat over the next few years.

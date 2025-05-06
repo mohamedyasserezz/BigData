@@ -1,0 +1,13 @@
+Atlassian now lets you hire freelancers right from JIRA
+
+JIRA, Atlassian’s flagship project management service, isgetting a new feature todaythat will let you easily convert JIRA tickets into job postings on Upwork’s freelance marketplace.
+
+“The smartest people will always exist outside of your company,” Atlassian’s head of growth for JIRA and Bitbucket Sean Regan told me. For many companies — and especially small startups — it’s also hard to have all the right expertise available in-house to solve every problem. With this new integration, these companies can now click a button in JIRA and get a pre-populated form to submit to Upwork’s marketplace.
+
+Regan also noted that this feature will likely appeal to non-technical founders, too, who want to build a first version of a project by purely working with freelancers before fully committing to it. “Once you have product-market fit and a Series B, you can crank and hire people,” he said. “But if you hire too many people too early, you can dig yourself into a hole.”
+
+Upwork CEO Stephane Kasriel, too, noted that this feature will likely appeal to small businesses that often have a backlog of feature requests and bug fixes they never get to. He also noted that this is not the first time Atlassian and Upwork have partnered around JIRA. Upwork clients can already link their JIRA tickets to an Upwork account to allow freelancers to track their time, for example. Clients can also use Upwork’s messaging feature to receive updates when a freelancer checks in code to Bitbucket, for example, or update a JIRA ticket.
+
+One interesting idea both Kasriel and Regan mentioned is that enterprises, too, are now waking up to the idea of using freelancers, both for their software development needs but also for some administrative functions. “As we have become more mainstream and as managers in big enterprise companies have gotten closer to technology, the enterprise space has woken up to this idea,” Kasriel said.
+
+For now, the Upwork integration is only available for users on the Atlassian-hosted version of JIRA. As Regan told me, the company also plans to bring it to the self-hosted version as well, but he also noted that many of the users on the hosted platform are small and medium businesses which, despite the growing interest from enterprises, remain more likely to use the service than others.

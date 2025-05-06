@@ -1,0 +1,43 @@
+Understanding the economy of the crowd
+
+When you think about crowdsourced work, you probably think aboutMechanical Turkand, maybe, Uber. On the one hand, an anonymous platform where people feel like mechanical parts. On the other hand, a face-to-face platform where people are rapidly obsolescing and doomed to bereplaced by robots.
+
+I call this the “Turk Myth,” that crowdsourced work is only done by people because we haven’t built good enough robots yet.
+
+The Turk Myth is unfortunate because it creates a fatalistic spiral: If people think of crowdsourced work as exclusively low-skill, they demand less of crowdsourcing platforms and the workers they employ; this in turn leads to an underinvestment in the training and management of those workers. Thus, the Turk Myth becomes the commodified reality for many.
+
+Like many myths, this one has a basis in fact. There’s a lot of clickwork in the gig economy that’s neither well-paid nor fulfilling. But there’s also a crowd economy that rewards human agency and creativity. If you’re thinking of using crowdsourcing to move your business forward, make sure the Turk Myth doesn’t “crowd out” the more complex (and more hopeful) reality. You can bend the curve toward more cognitively and financially rewarding work, and get great results in the bargain.
+
+Here are three things to think about if you want to maximize your return on crowd intelligence.
+
+If, as the Turk Myth suggests, people are anonymous parts performing low-skill tasks, it doesn’t pay to spend time helping them improve; as was said of convict labor once, “one dies, get another.” But just as with other kinds of work, in crowdwork training, pride and positive reinforcement improve results. Because crowdwork is more ad hoc and distributed than traditional labor, much of the management happens through a software platform, but it’s still management, and it demands a specific set of skills and practices.
+
+Most importantly, a continuous feedback loop connecting the end-customer with the crowdworker fosters both quality and job satisfaction. In skilled work such as graphic design, market research andexploratory software testing, the customer is the ultimate judge of quality, so your input matters. Make sure you communicate expectations directly to the workers, and engage with them directly when necessary.
+
+A crowdsourcing platform should relieve you of the burden of convening the crowd, parceling out their tasks and assigning work efficiently, but if it makes the workers invisible, you can’t solicit additional insights that create value for you. In software testing, for example, crowdtesters who discover defects in the software can also collaborate with you to help diagnose them. Crowdworkers take pride in their work, and crowd platforms that capitalize on this encourage collaboration.
+
+Crowdworkers need to earn money. They also seek projects that are interesting and advance their careers, and prefer conditions that are fair and transparent. If you’re employing a crowd workforce, this interplay of financial and personal incentives determines whether you’re getting the best possible work for your money. You’ll get the best results if you understand the crowd economy.
+
+Passengers detest Uber’ssurge pricing, but it transparently reinforces an economic lesson: Financial incentives matter. When the number of people who can perform a task is limited by geography, skill requirements or interest, a crowd platform must create liquidity, typically by changing the incentives. If you engage with a crowdwork platform, make sure you understand how these incentives work — both for the people doing the work and the people hiring them.
+
+A crowdsourcing platform that doesn’t flexibly create incentives for people to meet demand is unlikely to command the loyalty of the best workers, and headline numbers of workers at your disposal (1,000,000!) are meaningless if the task requires skill and the incentives are not effective.
+
+Challenging work attracts better workers. While Turk-work has become synonymous with micro-tasking of dull and repetitive tasks, Turk-workers usually engage in other forms of crowdwork that are more interesting.
+
+Recentresearchon crowdwork in the U.K. found while 68 percent of crowdworkers reported performing “clickwork” or short office tasks, 60 percent also reported performing “creative or IT work.” Our survey of our most prolific testers found that almost half have full-time tech industry jobs. Motivated by a desire to sharpen their skills and the challenge of discovering interesting bugs in new software, these professionals typically demand more pay for the lower-skill work of performing scripted tests.
+
+Increasingly, crowdworkers are organizing online to highlight unfair practices and direct their peers toward crowdwork platforms that treat them better. Because word travels fast, greater transparency in incentives and fairness in work practices also tend to attract motivated workers. Germany’s largest union, IG Metall, runs asitewhere crowdworkers rate platforms on their pay and fairness, andcrowdworkerforumsaregrowing.
+
+Perhaps counterintuitively — at least for American managers skeptical of unions — the movement toward greater openness in crowdsourcing practices benefits potential employers as much as it benefits crowdworkers. By encouraging skilled workers to enter the crowd workforce, crowdworkers’ organization increases the range of jobs that can be crowdsourced, thus providing more choice and liquidity for prospective employers. That’s good news, because crowdsourcing’s primary benefits don’t come from cost savings.
+
+Some businesses can micro-task routine work to save money, but most can’t. More commonly, organizations employing crowd workers citebenefitslike flexibility, workforce diversity, speed and the ability to solicit people’s opinions.
+
+For example, by using a global testing workforce, a development team in Canada can see whether their app works properly in Spain, Vietnam or Egypt. By using a demographically targeted crowd for fast market analysis, a fashion designer can test patterns with thousands of customers before buying cloth. And by sharing prototypes with novice users, crowdsourced UX research helps interaction designers avoid confirmation bias. Crowdsourcing also can increase velocity by parallelizing work, so a sales team researching prospects can do it in hours rather than weeks.
+
+In none of these cases is cost the primary benefit, nor is in-house labor necessarily being replaced by the crowd. Rather, the crowdworkers’ judgement enables businesses to take on new opportunities, mitigate risks and move faster. The greatest crowdsourcing opportunities arise when you couldn’t get the same results at any price without a crowd.
+
+When I started working in brand communities in 2005, online community management was barely recognized as a discipline; now it has a standard set of skills and practices. Despite a buzzwordy obsession with ninjas and gurus, we also see this happening in social-media management. The same thing will happen with crowdwork management.
+
+Managing crowdworkers effectively requires a combination of empathy, technology and business sense. If your business — or your crowdwork platform — thinks of them as purely interchangeable and their labor as a commodity, you’ll get commodity results.
+
+That’s the danger of the Mechanical Turk myth: It’s a mutual race to the bottom for employers and crowdworkers. We can all do better. And we should.

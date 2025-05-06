@@ -1,0 +1,11 @@
+Watch DesignSpace use VR to power up architectural and urban design
+
+Early demos of VR headsets talked a lot about the potential for designers working in virtual space with live 3D models, butDesignSpace, a prototype originally created at the 2016 AEC Hackathon in London, is one of the first real pieces of software that looks like it can deliver.
+
+The prototype by Thomas Van Bouwel uses the HTC Vive to let designers, architects and urban planners immerse themselves in their work. This basic version allows users to drop in reference images and place them however they like, work on models at scale, add simple blocks and even draw right into the model. You use the HTC Vive motion controllers to reposition the model within the environment, zoom in and out, and scale/rotate virtual objects.
+
+[youtube https://www.youtube.com/watch?v=VzfZSJFIbxY]
+
+It’s designed to give designers a way to “gain a better spatial understanding of their design,” according to Van Bouwel in the explainer video above. He also says that he intends to add networking capability to a future version “in the coming weeks”, which will allow multiple designers to collaborate in real-time in a shared virtual space, as well as more advanced 3D modelling tools.
+
+For advanced users looking to test it out, the prototype isavailable on GitHub here.

@@ -1,0 +1,21 @@
+Verizon acquires Sensity Systems to add LED light control to its IoT platform
+
+While Verizon continues to work towards closing its acquisition of Yahoo to boost its media and consumer Internet business (which also includes ownership of AOL, which owns TechCrunch), the company has made another acquisition to keep building out its enterprise services, too. The carrier hasbought Sensity Systems, a startup based out of Sunnyvale (also home to Yahoo!) that has built solutions to help businesses and others convert older lighting systems to connected LED systems, making them controllable remotely. This is a straight push for Verizon’s wider Internet of Things “smart city” business,ThingSpace, which will integrate Sensity’s business and technology.
+
+Financial terms are not being disclosed but my guess is that it’s a sizable deal in the hundreds of millions.Sensityhad raisedaround $75 millionwith investors including strategics like Cisco Systems and GE, along with VCs like Mohr Davidow, Almaz and Trinity. It also has a number of large customers, such as the Westfield chain of shopping malls, the City of Chicago among 42 smart city installations globally.
+
+The deal is expected to close in Q4 2016.
+
+The deal comes on the back of another pair of acquisitions Verizon made this year to build out IoT solutions for vehicles:Telogisin June, also for an undisclosed sum, andFleetmaticsfor $2.8 billion in August.
+
+“Sensity is a leading provider of IoT solutions for smart communities with a strong ecosystem of partners, and this transaction will accelerate the deployment of large-scale implementations that will drive the digital transformation of cities, universities and venues,” said Mike Lanman, senior vice president, Enterprise Products and IoT at Verizon, in a statement. “Verizon is uniquely positioned through its infrastructure investments at the network, platform and application levels to provide holistic solutions that empower communities to address their most pervasive challenges.”
+
+We are asking which parts of the Sensity business will be coming over as part of the deal. The startup also has parking and security applications, for example, but Verizon already also offers these, in addition to others like traffic management. Verizon didn’t mention Sensity’s business in parking and security in its press release announcing the deal, but it looks like a full acquisition including staff, which now will continue building Sensity’s business as part of a bigger IoT business.
+
+“Rapid urbanization is putting a huge strain on city services globally, coupled with inefficiencies caused by an aging infrastructure that currently supports critical functions, such as fire and emergency services, public transportation, lighting, sewer and sanitation systems,” said Sensity chairman and CEO and co-founder Hugh Martin.
+
+“Sensity realized early on that IoT could be the key to breaking out of this dilemma. We have become the leader in the space by creating a visionary smart city IoT platform and forming a powerful ecosystem of technology partners. With Verizon, we look forward to delivering IoT connected systems on a massive scale to change how cities and communities operate around the world.”
+
+The margins on many IoT services tend to be very small, with the economics of the technology essentially built on scale.
+
+Verizon — which already owns the network connectivity and is now building new ways of monetizing it — is investing in building a large IoT business for this reason: adding Sensity gives itsThingSpace business— which today seems to be more focused on back end control covering things like security and device management and analytics — a large set of customers plus some specific applications of IoT architecture, as well as sensor points that can be used for a variety of other big-data plays including applications like weather and climate management and security.

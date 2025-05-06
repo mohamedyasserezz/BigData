@@ -1,0 +1,27 @@
+Is machine learning sexist?
+
+We’ve been hearing a lot about diversity and inclusion recently, and one of the areas that a lot of people are particularly interested in and excited about is applyingmachine learning to eliminate bias.
+
+Done right, this can be a huge boost supporting our efforts to go beyond bias across all areas of the organization. But there are potential pitfalls, as well; if not done right, machine learning can actually make your businessmorebiased.
+
+Let’s look at Google’s word2vec, for example. Using a millions-large set of Google News data, Google researchers extracted patterns of words that are related to each other. By representing the terms in a vector space, they were able to deduct relationships between words with simple vector algebra.
+
+For instance, the system can answer questions such as “sister is to woman as brother is to what?” (sister:woman :: brother:?) correctly with “man.”
+
+But therein lies the challenge of these rules: Because the system is trained with existing news, it will also follow the very bias in those articles. And in the Google News set, those articles proved to be shockingly biased.
+
+For instance, if you enter “Father:doctor :: mother:?” it answers “nurse.”
+
+For “man: computer programmer :: woman:?” it will give you “homemaker.”
+
+So, does this mean machine learning is sexist? No. But this example of machine learning ruthlessly exposes the bias that still exists in our journalism and journalists today. Statistically, the statements are correct using just what can be derived from the articles. But the articles themselves are obviously biased.
+
+Similarly, if a bias exists in your organization, whether in the way people are hired, or developed, or promoted, just taking the existing data as a basis for your machine learning may actually achieve the opposite of what you are trying to achieve — meaning it can reinforce and amplify bias instead of eliminating it. If you have always promoted men, the system may well see being a man as a predictor of someone getting promoted.
+
+Google search has run into such problems when it displayed more prestigious job postings to men than to women, or when it only showed male images on the first page of a search for “CEO.”
+
+These, and many other, examples show that bias can creep in to even the very algorithms that are meant to eliminate bias. The algorithms aren’t intentionally bad, but they reflect either the bias of those who programmed them, or the bias of the underlying data that was used to train the system.
+
+Therefore, a fundamental rethinking and a careful approach to software creation itself is needed. Extra care has to be put into training the people who create the systems, and into incorporating research into the machine learning algorithms so you don’t accidentally create more bias. The system has to be re-trained to think differently, just like your employees.
+
+Initial machine learning experiments can be useful to expose bias, but taken without modification, could actually make your problem worse instead of eliminating it. So before taking all machine learning at face value, think about the raw results as indicators of existing bias, and make sure your system was created in abusiness without bias, using data without bias.

@@ -1,0 +1,31 @@
+Just how vulnerable is election technology?
+
+This year’s electoral process has been unconventional, to say the least, and most voters are either polarized or frustrated (sometimes both) with how we got to this point.
+
+Now, as this volatile election approaches the final threshold of November, citizens are skeptical about whether our electoral system — particularly the technology used in it — is precise, unbiased or secure enough to produce a fair, accurate vote count. In fact,66 percent of citizensthink our electoral system is, in some ways, broken.
+
+But just how vulnerable is our election technology? Is it something we should be collectively worried about?
+
+First, I want to address some of the reasons why people fear the security of our voting technology. Elections are highly sensitive and impactful events, but the sensationalism of potential vulnerabilities puts people even more on edge.
+
+Media sites frequently play up the vulnerabilities of machines, and add fuel to the fire of rumors that circulate in political circles — such as the suggestion thatRussia is trying to undermine the Democratic Partythrough coordinated cyberattacks. This doesn’t invalidate fears of election vulnerabilities, but it does amplify them.
+
+Cyberattacks aren’t the only threats that make voting systems potentially vulnerable; in fact, most computerized systems naturally have infrastructures prone to errors and failures of various types. For example, voting systems in North Carolinaonce “lost” more than 4,400 votesbecause of a simple system error.
+
+The fact is, election machines are built by people, and people are capable of error; a single processing flaw could lead to lost data, misreported data or entire system failures. This alone isn’t problematic, but when coupled with a system that doesn’t recognize or report failures (as many election systems are set up), it can lead to an election with potentially flawed results.
+
+Researchers and specialists have proven, time and again, that it is possible to gain access to and manipulate certain types of voting systems. For example,Diebold voting machines from 2006can be infiltrated with vote-changing malware in the span of less than a minute, and fairly easily too.
+
+Even more recently, in 2011, it was shown how voting devices could betaken over remotely, enabling hackers to take control and change votes without ever even entering the voting establishment. To make matters worse, “hacking” at the voting machine level is only part of the problem — cybercriminals could also create false registered voters, or interfere with the process at other steps to manipulate results.
+
+Cybersecurity and cyberthreats are always evolving, and feeding off each other. Every time cybercriminals get a little more sophisticated, our defenses rise to the occasion and take another step forward to stay just out of reach — which is why it’s so important to regularly update hardware and software.
+
+There’s one big problem here; the United States does a poor job of updating its technology systems. According to Brennan Center for Justice, voting machines in 43 of our 50 statesare 10 years old or older.
+
+Clearly, there’s a vulnerability issue with our electronic voting system; this doesn’t mean we’re definitely going to be the victim of a cyberattack, or that we should assume the system will produce false results, but it does mean we need to do a better job of protecting and counting our votes.
+
+The first and most important way of improving our voting technology is to simply update it regularly; old devices need to be taken out of circulation immediately, and both hardware and software updates are necessary on a regular basis to stay a step ahead of cybercriminals. This is expensive, but it’s a necessary expenditure if we want our systems to be safe. Better security checks and observation, including self-reported security breaches and data anomalies, could also help raise red flags if data is ever compromised.
+
+It’s important to recognize that even these added security measures will never be able to make our systems 100 percent safe, because there will always be flaws in our systems, and vulnerabilities are everywhere. If you fix a problem in one spot, there will always be another to exploit.
+
+None of this is meant to be comforting, but it shouldn’t scare you, either. Our election tech is vulnerable, but that doesn’t mean it’s in shambles; it just means we need to commit ourselves to making more improvements if we’re going to protect ourselves and the future of our elections.

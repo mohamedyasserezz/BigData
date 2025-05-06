@@ -1,0 +1,25 @@
+Giftbit lets retailers create their own e-commerce currency
+
+Giftbit, a company that operates a digital gift card marketplace for online retailers, is launching a new product today atTechCrunch Disrupt SFthat will enable merchants to easily create their own custom currency — meaning gift cards, promo codes and refund credits — without having to build their own, internal systems. Available as an API, the new service drops into the checkout flow on the retailer’s website. Meanwhile, a web application also allows non-technical users — like the company’s biz dev team, for example — to create promo codes on the fly, as needed.
+
+For several years, Giftbit has run a profit-generating gift card marketplace, which is how it was able to identify this gap in the market. Traditional gift card networks, like Blackhawk and Incomm, haven’t addressed the e-commerce space, as they’ve historically focused on brick-and-mortar businesses, instead.
+
+“Successful businesses need the right tools to grow. They don’t build their own CRMs anymore. They don’t build their own messaging… they use Twilio. But we’ve really seen in the market that businesses are still building their own custom currency,” explains Giftbit co-founder and CEO Leif Baradoy.
+
+“Giftbit is the tool for that. In three to five years, we think people will wonder why they ever built their own custom currency themselves” he says.
+
+Once implemented, Giftbit can power any custom currency the business needs, whether that’s promo codes it’s distributing online, refund credits the customer service team needs to issue or even sales of the company’s own digital gift cards on its site.
+
+Merchants can also use the service to distribute codes with their own logo and branding; track, manage and edit contacts inside Giftbit; run detailed reports to see what’s working; email codes or download a set of links or codes to distribute themselves; and more.
+
+The tool will also soon integrate with other business tools, like Salesforce or Zapier, for example. And it will be available to Shopify Plus merchants, through the e-commerce platform’s marketplace.
+
+Because of its experience in this market, Giftbit’s system is secure, PCI compliant and capable of being used by enterprise-level businesses. Already, Giftbit has worked with several notable companies for its gift card marketplace, like Gusto, AutoDesk, Red Bull, LogMeIn, HubSpot and others.
+
+Ahead of today it has been running the custom currency product in a limited beta with 10 merchants, but because those trials are still in the early stages, it can’t disclose the names of the retailers testing the service. One exception is ClassPass, which is onboarding with Giftbit now.
+
+At TechCrunch Disrupt, the product is launching out of private beta and into public beta testing.
+
+As a software-as-a-service offering, Giftbit will offer 1,000 active codes for $90 per month. Those codes can be any currency code spent at checkout, including gift cards, credits or promos. From there, it’s $15 per month for each additional set of 1,000 codes.
+
+Based in Victoria, B.C., Canada, Giftbit’s team of 18 is backed by $2.1 million in seed funding, led by Freestyle Capital. The round closed in February, with the intention of helping fuel the development of this new service. Others participating in the round include Third Kind VC, Founders’ Co-op, Acequia Capital and Techstars.

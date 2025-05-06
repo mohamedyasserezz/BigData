@@ -1,0 +1,11 @@
+Microsoft teams up with Elon Musk’s OpenAI project
+
+OpenAI, the artificial intelligenceresearchnon-profit backed by Tesla’s Elon Musk, Y Combinator’s Sam Altman, a Donald Trump fan called Peter Thiel, and numerous othertech luminaries, is partnering with Microsoft to tackle the next set of challenges in the still-nascent field.
+
+OpenAI will also make Microsoft Azure its preferred cloud platform, in part because of its existing support for AI workloads with the help of Azure Batch and Azure Machine Learning, as well as Microsoft’s work on its recently rebrandedCognitive Toolkit. Microsoft also offers developers access to a high-powered GPU-centric virtual machine for these kind of machine learning workloads. These N-Series machines are still in beta, but OpenAI has been an early adopter of them and Microsoft  says they will become generally available in December.
+
+Amazon already offers a similar kind of GPU-focused virtual machine, though oddly enough, Google has lagged behind and — at least for the time being — doesn’t offer this kind of machine type yet.
+
+“Through this partnership,MicrosoftandOpenAIwill advance their mutual goal to democratizeAI, so everyone can benefit,” a Microsoft spokesperson told me when I asked for specifics about the partnership. “MicrosoftResearch researchers will partner with researchers atOpenAIto advance the state ofAIandOpenAIwill useMicrosoftAzure andMicrosoft‘s N-series hardware for their future research and development, and explore tools such asMicrosoft’s Cognitive Toolkit for their research.” Microsoft didn’t want to comment on whether there is any monetary component to the partnership.
+
+In addition to the OpenAI partnership, Microsoft also today launched its Azure Bot Service, a new service that will allow developers to most easily and cost-effectively host their bots on Azure. The service sits on top of the “serverless” Azure Functions tool and Microsoft Bot Framework. Using Azure Functions ensures that you only pay when your bot is actually being used.

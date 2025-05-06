@@ -1,0 +1,13 @@
+NGINX’s Amplify monitoring tool is now in public beta
+
+NGINX today launchedAmplify, its new application monitoring tool, out of private beta. While the cloud-based tool is still officially in beta, it’s now available to all NGINX users — both those who run the paidNGINX Plusedition or the free open-source version.
+
+As NGINX CEO Gus Robertson and CMO Peter Guagenti told me, the company’s users told the team that they wanted to know more about their applications — and because NGINX sits in a pretty privileged spot when it comes to keeping an eye on applications and the infrastructure they run on, the company is able to provide users with interesting metrics that other application performance monitoring (APM) tools aren’t always able to offer.
+
+Guagenti stressed that NGINX isn’t trying to replace other APM tools. “Anybody who has infrastructure has those,” he said. “Our customers told us that we didn’t need to replicate those service.” Instead, NGINX focuses on giving you raw stats. Like similar tools, Amplify also allows you to set up alerts, of course.
+
+The overall vision here goes beyond that, though. Robertson also noted that now that NGINX starts gathering all of this data — and the configuration files for how they are set up, it will also be able to tell its users not just about their metrics but also about potential bottlenecks in their applications. For now, these recommendations will be based on the best practices, but in the long run, the tool will likely become more sophisticated about its recommendations because the company will know more about your setup and that of other users who run similar apps and configurations.
+
+The NGINX team stressed that users will have full control over what data they want to send to the company’s servers, but if they go all in, Amplify will be able to track a wide variety of metrics and also use your log files for tracking even more data. Like other tools, Amplify uses a small agent installed on every NGINX or NGINX Plus machine to collect this information.
+
+Given that NGINX is an open-source company with millions of users, it doesn’t know about who these users are. By offering even its open-source users access to this tool, it may be able to build up a database of more of these users, understand them better, and maybe build a commercial relationship with them in the long run.

@@ -1,0 +1,25 @@
+Workplace by Facebook begins to take shape
+
+Workplace by Facebookhas beenin general release for just two monthsnow, but it’s clear that Facebook has big plans for its enterprise social product. Just this week, at TechCrunch Disrupt in London,the company announced a new platformto integrate enterprise applications with Workplace, putting it in direct competition with Slack,the enterprise social darling of the moment.
+
+But Workplace hopes to differentiate itself from the enterprise social pack by being more than a tool for teams of knowledge workers to share information. Sean Ryan, VP of platform partnerships at Facebook, says Facebook wants Workplace in use across the organization, from the warehouse to the front office. “We look at it this way: we try to connect whole companies. Other products try to connect teams,” he said — taking a swipe at Slack andMicrosoft’s recently announced Teamsapp.
+
+Just as Facebook’s consumer mission is to connect the world, Ryan sees Workplace’s mission to connect all employees in all companies, many of whom might not have traditionally used these kinds of tools. “We’re bringing a set of tools to employees who never had them. Most companies [in this space] are not focused on that area,” he says. It only makes sense from a social-network-building standpoint in Ryan’s view. The more people you have using the system, the more valuable the network — and you can’t achieve that with siloed systems.
+
+That’s all well and good, says analyst Alan Pelz-Sharpe from Digital Clarity Group, who has been following enterprise social since its earliest days, but this is an approach that previous generations of enterprise social products tried and failed. “No doubt Facebook does want to be a social tool for the entire company — but so did Jive, Yammer and countless others,” he said.
+
+While he acknowledges that Facebook has a strong brand and a familiar interface in its favor, it doesn’t insulate it from the same problems those earlier companies faced with this approach. “Normally, those challenges appear in the form of governance, administration and security. Viral growth of an application throughout an organization is good for Facebook but can bring in its wake, all [kinds] of complexity and confusion for the organization itself.”
+
+On the positive side, we’ve always known that enterprise social tools flatten hierarchies as employees have direct access to everyone in the company, regardless of their role. It strips away the layers of management and gives everyone the power to share their ideas. This gives employees a much greater sense of involvement — and indeed, Ryan says in an early test with a grocery chain, they found much greater employee satisfaction when using Workplace.
+
+The application integration announced this week takes that to the next step. As much as employees want to communicate, they don’t want to flitter from application to application. By building integration points — APIs — into Workplace, Facebook is providing the means to bring work product into the tool.
+
+If, like many people using Facebook in their personal lives, people start living much of their day in Workplace at work, that could prove to be very convenient.
+
+Dion Hinchcliffe, an enterprise social veteran and current chief strategy officer at7Summits, an online communities platform, says this integration could be key to Facebook’s success. “Collaboration tools that facilitate a simpler, more centralized experience and don’t require a user to leave the app to get other things done will inherently have more usage and adoption. The value proposition is that more work can be done more easily, in a more contextual and integrated fashion, all within one tool,” he explained.
+
+It has certainly worked well for Slack, but Pelz-Sharpe says the devil is most certainly in the details. “Integration with commonly used applications always helps with adoption but the real test is in how deep the integration goes. Is it simply the ability to see and click on the integrated application (portal like) or is there data and process sharing going on between the applications pulling it all into a cohesive whole,” Pelz-Sharpe wondered.
+
+While Ryan makes it clear that Workplace wants to connect the entire company, Pelz-Sharpe says Facebook still faces some serious challenges achieving that goal. “Resistance to Workplace by Facebook will not come just from the perception of it being a consumer social tool for time-wasting (largely by older people — it is not a millennial tool), but from its past approach of growth at all costs and figuring out the consequences later.”
+
+But Ryan remains undeterred. “This is about all workers.That’s why we are excited about this. Workplace [will make] the world’s employee more connected.”

@@ -1,0 +1,25 @@
+Facebook is about to learn that the enterprise is a different animal
+
+Facebook officially entered the enterprise market this weekwith the release of Workplace by Facebook(previously known as Facebook at Work). It goes without saying that Facebook has had tremendous success as a consumer tool, but the enterprise is a different place, with distinct requirements.
+
+While it picked up 1,000 beta customers when it was free, it could find that enterprises, especially when it comes to internal social networks, have far different expectations from a vendor. What Facebook has going for it is familiarity. The thinking is if you use Facebook for your personal life, it will be an easy transition to your work life with Workplace. It’s hard to argue with that, but it’s also coming extremely late to a mature market.
+
+Box CEO Aaron Leviedoesn’t see it that way, though. In a blog post regarding the release of Workplace, he seemed genuinely effusive about the possibilities it could bring. “Workplace by Facebookpresents an exciting opportunity for organizations and enterprise developers alike to leverage the same capabilities that we’ve come to rely on for communicating and connecting in our personal lives at work,” Levie wrote in his blog post.
+
+It’s kind of funny, actually, because when the notion of Enterprise 2.0, using online social tools at work, emerged a decade ago with tools like Yammer, Jive and Confluence, this kind of software was actually described by marketers as “Facebook for the enterprise.” Yet Facebook stayed away until now.
+
+Perhaps it was drawn in by the success of Slack, which has raised more than $500 million on a valuation that’s close to $4 billion,a product that seemed to finally fulfill the lost promise of Enterprise 2.0, once and for all. But what company could do better than Facebook itself?
+
+While the idea of moving Facebook into the enterprise looks like a great idea on paper, there’s a lot more to being an enterprise product than simply creating a private version of itself. That’s because the enterprise has vastly different requirements from the consumer world.
+
+Lawrence Hawes, an analyst at Dow Brook Advisory Services who follows the enterprise social space, told me in January, 2015, when Facebook at Work was first announced,that Facebook could be in for a strugglein the enterprise. Here’s how he saw it then:
+
+Facebook is going to need to add enterprise-grade security, reliability and other attributes that gain trust of evaluators and buyers, and it must transition from sole reliance on a freemium business model to one that emphasizes volume licensing, said Hawes. None of this is easy to do, and it’s even more difficult in a market with established players .
+
+But as Ingrid Lundenreported on Monday, the company seems to have understood this and has addressed these issues since its early announcement, including offering an unusual MAU (monthly average user pricing model). It is also reporting some impressive early wins:
+
+Some of the early customers that Facebook has signed up have included 36,000 employees at the carrier Telenor, and 100,000 employees at the Royal Bank of Scotland, and today Facebook’s announcing more such as Danone (100,000 employees), Starbucks (238,000 employees) and Booking.com (13,000).
+
+Still, it needs to sustain this over time, and running Software as a Service is not the same as running a consumer social network. It requires a much higher level of customer orientation, putting the customer first and listening to their needs, something Facebook has done poorly with consumers.
+
+It certainly sounds like a reasonable idea on its face, but the question remains whether Facebook can handle being a SaaS vendor and dealing with the demands of enterprise customers. It doesn’t mean it won’t be successful, but it is going to have its hands full adapting to the needs of an unfamiliar customer base.

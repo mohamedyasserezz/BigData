@@ -1,0 +1,19 @@
+GitLab secures $20 million Series B
+
+GitLab, the code collaboration platform for developers based on the open source Git tool, announced a $20 million Series B round today led by August Capital. Existing investors Khosla Ventures and Y Combinator also participated. Today’s investment brings the company’s total raised to date to over $25 million.
+
+It was just about a year ago thatGitLab announced its $4 million Series A.
+
+GitLab founder and CEO Sid Sijbrandij realizes his company is fortunate to raise this kind of money in a climate where funding is beginning to tighten up, and he plans to take advantage. “We wanted to keep accelerating and not have to pull up. This money will enable us to do that for the next few years. That’s why we raised a significant amount,” Sijbrandij told TechCrunch.
+
+He said that GitLab went looking for funders who believed in what they were doing, as opposed to getting the maximum amount of money, and at the end of June they had three offer sheets on the table before ultimately accepting the deal from August Capital.
+
+The company produces a soup-to-nuts development platform that can be particularly useful in agile development environments, giving teams the ability to plan, provide feedback, record issues and review code with continuous integration and continuous delivery — all from a single dashboard.
+
+GitLab, which came out of Y Combinator in 2014, grew from 9 people when it left YC to over 100 today, and of course with the new money, it’s going to be expanding further over the next 12-18 months. GitLab has an unusual approach where all of its employees work remotely in 100 different locations across 30 countries.
+
+At this point the number of employees skews towards developers and IT, with over 30 programmers and 10 infrastructure folks. They will be looking to grow sales and marketing in the next hiring wave, although he didn’t want to share exact hiring numbers. “We don’t have explicit goals. We hire people as we find great people,” Sijbrandij said.
+
+GitLab has three tiers — a free community edition, a free SaaS version and a paid enterprise edition. It is the latter that is of course, that interests investors the most. While it’s fair to say that the free tiers drive developer interest, it’s the enterprise version that generates revenue. At just $39 per user per year, it’s certainly not gouging its customers, which include the likes of IBM, Macy’s, ING, NASA and VMWare.
+
+They also offer additional services like premium support and GitLab Tile for remote workers for an additional $99 per year per service.

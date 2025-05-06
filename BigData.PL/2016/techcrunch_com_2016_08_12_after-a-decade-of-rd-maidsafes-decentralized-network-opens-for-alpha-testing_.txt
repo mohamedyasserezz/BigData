@@ -1,0 +1,75 @@
+After a decade of R&D, MaidSafe’s decentralized network opens for alpha testing
+
+Not many startups have spent a decade fine-tuning their tech platform prior to launch. But not many startups are trying to radically rethink the structure of the Internet.
+
+UK-basedMaidSafe, which has beenbuilding an alternative, decentralized p2p networksince before Steve Jobs announced the original iPhone, is finally — finally! — gearing up for a tentative launch — flicking the switch on its first alpha test network today.
+
+The various downloads to access the alpha are available viaits website.
+
+It has run some smaller network tests before, but this is the first time it’s opening access to the general public. Albeit, it’s still an alpha release, so is being targeted at “very early adopters”, says founder David Irvine.
+
+The aim for the alpha is to see how the network operates, garner feedback and grow its community of developers — to fuel the necessary app ecosystem to drive adoption of the real-deal down the line (an API is slated as launching this week).
+
+MaidSafe’s ambition for the Safe network, as it will be called (aka ‘Secure Access For Everyone’), is for it to be useable by as wide a user-base as possible — not just a playground for an enthusiastic community of network nerds. So it’s been designing the installation process with more of an average user in mind.
+
+“What we’re aiming for is a very simple install and run — so click install and it’s running. We want to be as close to mobile phone app delivery as possible,” says Irvine, adding: “It should just work.”
+
+The alpha network is not a full launch of MaidSafe’s grand vision, with the so-called ‘vaults’ element — where users are able to contribute resources to the network (in the form of spare hard drive capacity), and earn a built-in cryptocurrency in return (called Safecoin) — not yet ready for prime time testing. Alpha 1 is functioning with vaults run by MaidSafe.
+
+On the compatibility front the network will currently run on Windows, Mac and Linux — and also on ARM-based devices, including Raspberry Pis.
+
+“We’re really keen that the user side of the network is out there and getting feedback on it from this point forward,” says Irvine, discussing the aims of the alpha. “That allows the application developers to get their hands on the API and continue to develop the user facing applications that we’ve started to see happening so far from the forum. So this is us going out to a much wider audience now, beyond our core supporters.”
+
+The outstanding issue the team is working on with that p2p vaults portion of the network — which take the place of servers in its decentralized network architecture — is making sure low quality nodes aren’t able to join and degrade the network.
+
+“At the moment we are running a whole lot of vaults ourselves on DigitalOcean Droplets,” says Irvine. “But as we’re starting through alpha, the vault network at the moment wouldn’t be good enough for people to just run from a mobile phone or from a very bad Internet connection. It would have too negative an impact on the network.”
+
+“Hopefully, between alpha 2 and alpha 3, we would hope that everyone is able to contribute resources,” he adds, noting that that will mean the network will decide if you can contribute resources — based on the quality of your Internet connection and hardware. Albeit it’s not putting any specific timeframe on when vault contributions will be opened up.
+
+The peer-to-peer vaults storage element is core to MaidSafe’s decentralization vision — aka launching a “self healing, self managing fully distributed network”.
+
+It’s also the structure that promises to yield the big security and privacy advantages of reworking Internet architecture to expunge the server. Because without servers there’s no centralizing of data in concentrated storage units, meaning there are no honeypot targets for hackers or snoopers. Nor can access to digital services be controlled. Data is encrypted and stored in a massively distributed fashion, across what they hope will become a global network of Safe network users.
+
+“The reason that this project started was a server based Internet is completely anti-engineering logic,” Irvine tells TechCrunch. “If you think that every computer’s virtually connected to everyone else and the resources in everyone’s desktop dwarf all of Yahoo and Google and Apple put together. They would be nothing compared with what exists out there on the desks.
+
+“And what we’re seeing more and more and more is [current Internet structure] falling apart — people being robbed and hacked and stolen from and snooped and all the rest of that. And that to me is all a by-product of the core design is completely illogical and doesn’t work.”
+
+“Servers can never be secured, passwords being held in servers can certainly never be secured. So why would we even try? It doesn’t make sense to try and do that,” he adds. “The need for something like MaidSafe is almost absolute… Privacy and security have to be in-built into the  network. It can’t be an add on.”
+
+The alpha launch is a baby step on the road to that grand vision. But a key one, given they’re now confident enough of the core tech to let anyone start kicking the tires. The team also believes they’ll be able to speed development up from here on in — as the majority of the R&D work is now behind them.
+
+They’re planning to do an equity raise next month, via thebnktothefutureinvestor platform, with the aim of raising £2 million, including for ramping up hiring on the engineering and community outreach front. (A previous £6.7M crowdfunding raisedid not end up bringing in anywhere near that amountas many donations were in Bitcoin and the value of the cryptocurrency subsequently slumped.)
+
+They’ve also set aside 5 million Safecoins (the network’s built-in cryptocurrency, earned by people who run vaults) to pay third-party developers making core apps, such as a forthcoming Safe browser, to accelerate building out the network’s app ecosystem. A network is, after all, only as interesting and useful as the things you can do on it.
+
+In one example (project decorum) of what’s being built for the Safe network, outside developers are working on an open source protocol for building decentralized social services, such as forums, communities and comment sections. And MaidSafe will of course need lots more such external effort if its network is to become more than merely a very impressive engineering feat.
+
+“For the past ten years… we’ve been fairly careful with our resources in terms of cash and people, and just wanted to get to the stage where we can prove does this actually work?” says Irvine. “All we need to do is there’s a couple of things to polish off in the vaults, but there’s nothing left that’s technically a difficult challenge.
+
+“Now we’ve proven this, all we need to do is commercialize it — and that part’s a lot easier than inventing the new Internet.”
+
+But what about mobile devices? The past decade has belonged to the smartphone, shifting many computing tasks off the desktop onto mobile devices — so how does that trend mesh with MaidSafe’s decentralized Internet?
+
+While the alpha is focused on desktop clients, the team believes mobile devices will be able to contribute resource to the Safe network in future — albeit likely only when plugged into a charging point and running over wi-fi, owing to limitations with mobile battery tech and bandwidth on cellular networks. Getting that up and running isn’t something they’ve had time to focus on yet, says Irvine. So that’s another item on their to-do list.
+
+Again, he says they’re hoping to be able to speed up from here on in — to progress “with some grit”, as he puts it — noting that if they can recruit more developers to start building apps that frees the MaidSafe team to focus more on infrastructure matters. And on building out commercial partnerships — another strategy it’s aiming to use to get the word out and grow usage of the network.
+
+“We’re now moving from a research company into a more commercial setting,” says Irvine. “We’ve got the b2c component where we’re trying to encourage ordinary users to look at this for a source of applications and a lot of that will be done through third-party developers… But we’re also looking to reach out to commercial companies and partners. People that have got small datacenters to larger datacenters, there’s maybe a very viable alternative to your Hadoop Cassandra decentralized storage infrastructure. This certainly fits that category very well.”
+
+MaidSafe has been approached by a Taiwanese manufacturer of NAS network storage devices wanting to trial the Safe network software on its existing hardware — as a way to upgrade what it can offer users. “I think there’s a lot of very nice things that would complement the Safe network where we could be exposed to their users while at the same time giving them a lot more functionality,” he adds.
+
+Another hardware scenario Irvine sketches is the possibility of partnering with smartphone makers targeting the low-cost device segment — offering a way for them to provide better quality mobile device hardware for users in those markets, subsidized by the phone being able to earn Safecoin for its owner while they’re charging it — and thus “have the phone pay for itself”.
+
+Right now, such commercial partnerships remain ideas yet to be firmed up with ink — even after ten years of hard graft on the core network tech. But with the alpha finally live MaidSafe’s vision of an alternative network that democratically rewards usage and has privacy and security baked into its decentralized architecture is at least one step closer to becoming a reality.
+
+In the meanwhile, alpha testers can run its launcher to access the Safe network and retrieve and store information (the latter just for test purposes, of course, given this is an alpha so will be switched off at some point).
+
+There is also a selection of demo apps to try out. Although, at this point, testers wanting to browse Safe network sites need to add a proxy setting to their browser (more on that here). MaidSafe says it expects a Safe browser to be released in the “next few weeks” — which will do away with that wrinkle.
+
+“Hopefully as we move through the alpha more and more applications will come on board,” says Irvine, adding: “For now you can point your web browser at the launcher… and browse the Safe Network from your own browser. So you can browse people’s websites that they’ve created on the Safe Network… With the demo applications you would be able to, as a user, register a name… and create a website, create a blog site etc that people can then browse to.
+
+“You would also be able to upload private information that’s only visible to you. And you would be able to upload public information — and that public information, unlike the normal web, you can make any of your public data into shared data. For instance a Word document, a Skype conversation. And that could be shared amongst the public, and anyone would be able to… go to that with a level of security.
+
+“This shows how you could have a completely decentralized web, and interestingly, from a user perspective, for you to download the client application, create your name, create a website… would take 30 to 40 seconds — and that then is a website for life. So this allows people to see exactly what’s happening with the network, how it operates and how simple it is to use it.”
+
+Getting people to understand the implications of the radical possibilities enabled by MaidSafe’s reworked network architecture is certainly going to take time. But this is one startup that’s already shown its true grit by proving it’s in it for the long haul.

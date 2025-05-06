@@ -1,0 +1,11 @@
+Microsoft officially launches the first preview of Visual Studio for Mac
+
+Given that Microsoft alreadymistakenly publishedthis announcement earlier this week, the fact that the company is launching Visual Studio for Mac doesn’t come as a major surprise now that it has made this official.
+
+Still, let that sink in for a moment: Microsoft is bringing its flagship developer tool to macOS. It’s doing so by leveraging the work of Xamarin, the cross-platform development company itacquired earlier this year, and the open source MonoDevelop IDE that also forms the basis of the Xamarin Studio IDE.
+
+After the acquisition closed, I sat down with Xamarin co-founder Nat Friedman and Microsoft’s corporate vice president Julia Liuson to talk about the future of Xamarin’s tools under Microsoft. At the time, Friedman told me that “if Xamarin could over time earn the honor of representing Visual Studio on Mac, that would be great.” That time has now come and, as Liuson told me earlier this month, this was the plan all along.
+
+Visual Studio for Mac does take it design cues from its Windows brethren and comes with the usual core tools like IntelliSense plus Xamarin’s cross-platform development tools. This means you can now use Visual Studio for Mac to develop for apps for iOS, Android, Windows and macOS.
+
+You can download the preview of Visual Studio for Machere.

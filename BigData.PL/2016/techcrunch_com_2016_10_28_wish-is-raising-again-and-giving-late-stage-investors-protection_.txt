@@ -1,0 +1,97 @@
+Wish is raising again, and giving late-stage investors protection
+
+Wish, a San Francisco-based e-commerce mobile app that’s taken off in the U.S. and Europe by selling watches, clothing and other items extremely cheaply, is raising a new round of funding, a new filing shows. (The research company CB Insightsspied the filingfirst.)
+
+Neither the size of the round nor the valuation are included, but the filing shows that Series F investors coming into the round are receiving liquidation preferences that will allow them to get paid ahead of earlier investors — which isn’t uncommon in later-stage funding rounds.
+
+A survey released in August by the law firm Fenwick & West — one that analyzed the venture financings of 195 Silicon Valley-based companies over the second quarter — showed that senior liquidation preferences were featured in30 percentof financings.
+
+Wish’s CEO, Peter Szulczewski, is notoriously press shy, but he came to aStrictlyVCevent hosted in February by this editor and shared numerous details about the business, which previously raised$600 millionfrom investors and was reportedly last valued at $3 billion. (According to the app-analytics firmApp Annie, it’s also the second-most popular shopping app in the U.S., and the 39th most popular app overall.)
+
+We published our notes after that February interview; in case you missed them, we’re republishing them here, below.
+
+On his background:
+
+Szulczewski, a computer scientist by training, noted that he’d spent 6.5 years at Google solving “really big matching problems” before cofounding his company, ContextLogic, from which Wish evolved. The idea was to build a next-generation, mobile ad network to compete with Google’s AdSense network, whose tech was “relatively stale” at the time, in 2011. Szulscewski and his cofounder, Danny Zhang, realized they were “pretty bad at business development,” though, so eventually pivoted to Wish.
+
+Wish began as an app that asked people to create wish lists, then the company approached merchants, letting them know a certain number of customers wanted, say, a certain type of table. Things took off from there, he said.
+
+On the merchants Wish works with and the types of merchandise it sells:
+
+“We thought that being more relevant and showing the right recommendations would be critical; what we didn’t predict was the types of products and the types of merchants.
+
+“Because shopping on smartphones is relatively new and sort of an impulsive experience, the average order value tends to be relatively low. I don’t think people are comfortable with buying a $5,000 TV on their phone. I think even $300 is high, as most people want to compare prices, read through reviews, etcetera. People were willing to spend $20, $30, $50, but not much more than that [which we learned].
+
+“Another part of our hypothesis that did work was that we’d be so good at relevance that these merchants would ship these things directly from their distribution centers and factories, and we’d cut out all the middle men. But were naïve [about who would do this]. A brand like Nike isn’t going to do that; it would be undercutting all its other retailers and its brand, on which it spends a lot of marketing dollars.
+
+“[On the other hand], if you’re an unbranded merchant who’s selling a dress or a wall mount, you just have your manufacturing and shipping costs, and those are the people we work really well with and why we have such good prices. We know who’s interested in fishing, and our merchants can reach them for free.
+
+The value proposition for the consumer is really cheap stuff. For merchants, it’s, ‘Hey, I don’t have to do anything. I just upload a CSV file or do it through an API or enter it manually, and I just start seeing sales.’
+
+“The two biggest biggest retailers in the world are Walmart — which sees revenue of half a trillion dollars a year, primarily from U.S. customers — and the Alibaba subsidiary Taobao, which is the biggest platform in China. And both focus on value-conscious consumers. [That’s because] the median household in the U.S. is around $52,000 a year. In Europe, it’s even lower.”
+
+On how big the company is, and how much of each transaction it takes:
+
+“Last year, [gross merchandise sales] was single-digit billions. It took us just under three years or so to get there. We do charge a take rate of 15 percent. Part of the reason is we do a lot more than, say, Alibaba, which doesn’t charge a take rate.
+
+“Take your local merchant in Shenzhen, where the majority of the world’s goods are manufactured, both branded and unbranded. That merchant has no idea how to sell to people in the Netherlands, France, Brazil, the U.S., Australia. He also has no idea how to communicate with those customers, so we take care of all of that. What merchants get in return [is] suddenly, they get an additional audience of more than a billion smartphone users who don’t really cannibalize their existing market.”
+
+In explaining how Wish, which ships many things for a $1, is able to do that:
+
+“We’re shipping little things – not TVs or motorcyles or bicycles. And it turns out it’s relatively cheap to do that. Even by air, it will cost $1 or $2 unless the item is unusually heavy or large. [Largely we rely on a partnership between the USPS and China calledePacket.]  I think most countries have these kinds of treaties. I’m not sure what percentage of our goods use the program, but it’s really efficient. Everything is shipped by air and it’s surprisingly cost effective.”
+
+If that program went away?
+
+“From what we’ve heard, the partners involved are very happy with it. If it goes away, it goes away for everyone, so the prices would probably rise for everyone. But we also have interesting back-up solutions even if it does.”
+
+On how long it takes customers to receive their goods:
+
+“In the U.S., the average time is 13 days or so. Across the world, it’s maybe a little higher. In certain countries like Brazil where logistics aren’t as optimized and there may be much more regulation around imports, it could be as long as 30 days on average, so it really depends on the market.”
+
+Answering which are the best-selling products on the platform:
+
+“Initially, it was a lot of fashion. Then we got make-up, home décor – cheaper or smaller items. What’s really taking off now is a lot of hobby stuff. Certain parts for cars, for example. Things for people who are into fishing gear, paintball, surfing, photography, drones. So a lot of different sets of users are coming who don’t need a branded good but need something that works, like fishing bait.”
+
+In response to a question about about non-discretionary items and whether we’ll see Wish take on Amazon more directly by selling items like paper towels:
+
+“The answer is yes and that’s starting to happen. There’s one package of like 20 toothbrushes that costs $3 dollars that we’re selling tens of thousands of every month. Paper towels are too large and too heavy to ship out of China but maybe we have a partnership with someone here who ships it out of their warehouse and we offer it that way. So we are thinking about non-discretionary more and more and it’s starting to creep into our platform.”
+
+Addressing reports that Wish has talked with Alibaba and Amazon and they want to buy the company for billions of dollars (which Szulczewski largely dodged):
+
+“We realized early on that unless you set out to build a really massive, self-sustainable business, you’re just not going to be able to do it. Basically, really big companies have these people in corp dev, god bless you [laughs], but there’s this asymmetry, which is like: the founders’ time is the most precious commodity that you have. You only have 24 hours a day. But there are corp dev people at these companies who have an infinite amount of time to spend with these founders…
+
+We want to build a self-sustainable business. We think that just like Alibaba, just like Walmart, we can get to hundreds of billions [of dollars in market cap]. I think both those companies were built on the same premise of saving time and money for their consumers. We’re doing the same thing on your phone.”
+
+On whether JD.com, China’s second biggest e-commerce player, is now aninvestorin Wish:
+
+“I was at Yuri Milner’s house for some kind of dinner party, and I met Richard [Liu], who’s the founder and CEO of JD, and I find their business fascinating; it’s the exact opposite of what we do. [Editor’s note: Unlike Wish and Alibaba, which directly connect buyers and sellers, JD is more like Amazon, buying branded goods from manufacturers, storing the inventory in its own warehouses and, once purchased, delivering the goods quickly – often the same day.]
+
+I think JD has the best logistics in the world. They have 80,000 employees delivering these goods. And we’re the exact opposite, so we struck up an relationship and we could probably learn a lot from them, and they could probably learn a lot from us, because we’re not competing because they’re not really doing anything outside of China and we’re not entering China, at all. So we really like them and yes, they invested $50 million in the last round.”
+
+On the company’s priorities going forward:
+
+“We take a tech-driven approach to curation and it’s slowly evolving to be more pretty and I think we’ll get there. But every time we try curation — the algorithm, in terms of conversion — it just destroys any kind of curation. It’s an order of magnitude difference. So we’re always trying things and maybe there’s a way to algorithmically curate [a prettier] interface. So that’s always been a priority for us.
+
+“[Another priority is] customer purchase experience, which is, ‘Hey, maybe for some of the products where we can forecast the sales really accurately, you should be able to get them in less than three days.’ That’s probably possible for half the GMV if we’re running at scale.
+
+“We’re also focusing more on customer support, which was, last year, up until November, horrific. Now it’s getting better.”
+
+Addressing how much repeat business Wish sees:
+
+“If you think of the rise of Taobao, they’re at 50 purchases per user per year. Amazon is at 15, by the way, which I’ve heard from many people and I think is accurate [information]. I think JD is somewhere below Amazon – they don’t give me that kind of data.
+
+“We’re at 5 purchases per year and that’s growing relatively quickly. We’re not something you use every week but we certainly want to be. As think as long as we can provide the most bang for the buck for consumers, we’ll get there.”
+
+On educating Chinese merchants, who not accustomed to thinking about the lifetime value of customers:
+
+“It’s true that consumer expectations in China are very different. Like, if you order a red sweater and you get a blue one, [shoppers are] like, ‘Eh, next time.’ So we have a lot of merchants that have only sold to Chinese consumers and we have to educate them that it’s not okay to ship a blue sweater because you don’t have any red sweaters in stock. [Laughs.]
+
+“We also have to educate them on what ‘counterfeit’ means. We have to literally tell them that you can’t just put an Apple logo on something and sell it, that that’s wrong. Some genuinely don’t know that. They’re like, ‘It’s my factory, I can do what I want.’
+
+“I think there are more engineers on the platform team, working with merchants, than there are on the consumer-facing product team [because it’s] more important to educate and work with the merchants to create a win-win situation.”
+
+On how the companyhas managed to see so much traction:
+
+“Two years ago, the merchants were like, ‘I’ll try this. I don’t know what the hell it is, but I hear other merchants are making money, so I’ll give it a shot.’ And if you tell them, ‘Hey, if you take this inventory and put it in the U.S. or Germany or Spain, you’ll make more money,’ they’re like, ‘No. You’re the fifth thing on my mind. There’s Amazon, Taobao, my own e-commerce site.’ But after you have two or three years of these merchants getting meaningful revenue and sales and it’s growing month over month, then you get their buy-in. Then it’s, ‘Okay, now you’re the third thing on my mind.’ Then, ‘Now you’re the second.’ ‘Now, you’re the first or second; how can I get more sales?’”
+
+Pictured above: Hans Tung, a managing director at GGV Capital and board member at Wish, and Wish cofounder and CEO Peter Szulczewski.

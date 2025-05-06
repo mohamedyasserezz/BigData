@@ -1,0 +1,9 @@
+Americans uneasy with IoT devices like those used in Dyn DDoS attack, survey finds
+
+A coordinated botnet attack effectivelychoked internet access to a large number of popular siteslast week, and the attack itself was made possible in large part due to the spread of connected Internet of Things (IoT) devices. Yet anew survey just released by IT security firm ESETand the National Cyber Security Alliance found that a good portion of Americans are not conformable with said devices from a security and safety perspective – even though around one-quarter of consumers own such a device.
+
+The survey found that 40 percent of respondents expressed no confidence in the safety, security and privacy of connected devices like web-enabled thermostats and appliances. A huge 88 percent have considered that IoT devices and any data they transmit via their wireless networks could be potentially accessible to hackers, but all that awareness and unease isn’t necessarily leading to preventative or curative action.
+
+While 50 percent of survey respondents said they were “discouraged” from buying IoT devices to begin with, owing to worries about cybersecurity, 14 percent don’t actually know how many connected devices they have communicating with their router, and 30 percent are sure they haven’t changed the default login/password info for their router itself – while another 20 percent can’t remember if they ever did or not.
+
+Default admin credentials and out-of-date firmware are both big contributing factors to the effectiveness of tools like the Mirai botnet that provided the means for last week’s attack, and the results of this survey don’t inspire confidence in our ability to trust consumers to help prevent a worsening of the security state of the IoT ecosystem. But perhaps the general unease consumers apparently feel with these devices will combine with heightened awareness in the wake of the Dyn DDoS event to encourage better overall IoT security practices.

@@ -1,0 +1,79 @@
+Kids need to reclaim their data and security… especially at school
+
+Another school year is now in full swing, which for many kids means reconnecting with friends and learning. It also means a start of another data collection cycle that is neither visible nor truly optional for the majority of the students.
+
+Over athirdof US middle and high school students use school-provided laptops or tablets. Even more kids are required to adopt a wide range of tech applications that allow for more personalized learning. Although this approach certainly has great educationalbenefits, it raises serious questions about the long-term security and privacy implications for this generation.
+
+We Know What You Did Last Summer
+
+A friend’s daughter recently shared a story with us: during a start-of-the-year assembly at her middle school, the principal gave a quick rundown on the all-too-familiar rules about what you can and cannot do on the district-owned laptops. This time though it came with a story about a boy, let’s call him Jack, who would regularly fall asleep during math class last year.
+
+In trying to figure out why, his teacher asked the administration for advice. Instead of reaching out to Jack’s parents, they went straight to his activity logs collected through the school-provided Chromebook. In inspecting Jack’s digital behavior, they learned that he regularly watchedparkourvideos on YouTube late into the night.
+
+Jack got busted, kids laughed. All learned the lesson: expect no privacy on school laptops, not even in the confines of your own home.
+
+Not one student in that crowd questioned the principal’s not-so-subtle point that school staff has remote unfettered access to everything they do, including their location, at any time. We asked why.
+
+The response was: “I didn’t feel it applies to us because we don’t break the rules.” And that is how the norms get formed.
+
+No doubt, schools have best intentions when putting controls in place to protect the kids and school property. However, since the districts are not run or even advised by information security experts, using a school-provided device or district-mandated apps often translates into granting a nearly unlimited access to kids’ digital and often offline lives to an unknown number of parties.
+
+No need to Worry, Until You Break the Rules
+
+Schools have complete visibility into everything students do in class or at home on school devices: web-browsing history, all files ever downloaded, research notes, and emails – with timestamps and often location attached to every activity.
+
+As kids go through the grade system, this data reveals a granular evolving picture of their behavioral patterns, learning habits or disabilities, and intellectual interests, stored and analyzed outside of their control. The record expands even further for the kids who inadvertently ignore the boundaries between school-related and private activities and access social networks or personal emails from a school device.
+
+With schools having limited resources, the monitoring functions are oftencontracted outto third party services tasked with flagging “questionable” content and sifting through countless emails, web searches, or postings. This means that third parties whose data protection policies are often unknown to the parents may have similar access to kids’ devices and data as the school administration does.
+
+Neither parents nor kids get to review or opt out of these arrangements without risking the student’s ability to effectively participate in the education process.
+
+Remember Jack? Falling asleep in class flagged him to have his activity logs be examined by the principal. But who decides what behavior is “questionable” enough to be tagged by algorithms or human observers? How far should the schools go in monitoring the students?
+
+Is remote surveillance throughvideo camerasor mics on school Chromebooks acceptable, like it was atHarriton High Schoolin Philadelphia or theLower Merion School DistrictinPennsylvania? What are the appropriate oversight mechanisms we should require to prevent abuse and information security failures?
+
+None of these questions are currently discussed with parents, let alone the students.
+
+When You Got Nothing, You Got Nothing to Loose
+
+As kids internalize the idea that they do not own their information and thus have nothing to preserve, security nihilism becomes a norm. Since no one is making the case for their digital rights and security in a way they can fully understand,kids begin to blindly accept any authority – be it parents, schools, or tech companies – making decisions about their data for them.
+
+This thinking doesn’t stop when students leave school premises or close down school computers, it informs how they use technology and treat their personal information across networks.
+
+With many positive social connections they build using the Web, kids also reveal a stunning amount of personal information to friends and strangers alike, including the tech companies themselves collecting data across apps and forever storing it beyond user control.
+
+According to a recentsurvey, in an attempt to take charge of at least the context of their communications online, kids create multiple social media accounts, unknown to the parents, with varying privacy settings. Yet, without a habit to question and navigate their security, kids end up leaving a lot deeper and wider digital footprint that would be considered safe.
+
+The accounts that tween and teen users mean to keep somewhat “private” on networks like Instagram, Musical.ly, and Snapchat are often created under usernames that contain their first and last names and their date of birth. In addition, the profiles may show where they go to school and their exact location at all times, with most photos geo-tagged in response to apps’ accurately designed UI prompts to share more.
+
+Aside from creating easy targets for identity theft, this behavior also cements strong habits that are hardly compatible with the cyber risks that everyone, including the kids, face today.
+
+Kids Data Should Not Live Forever
+
+Similarly to the school-collected data, neither kids nor parents know where the information collected through consumer apps resides, who has access to it, and how it is secured. The more data collected overtime to be aggregated across networks, the larger the attack surface becomes, potentially opening kids to criminal breaches.
+
+With no security being 100% impenetrable, school districts, families, and technology companies need to rethink what student data is necessary to collect, how it is secured, who owns it, and how long it should live.
+
+While some records need to be preserved for a long time, there is no reason why most kid-generated data should live forever.
+
+Similar to communities coming together in 1930s to demand that dairy manufacturers stamp an expiration date on milk to protect kids from getting sick, requiring an expiration date on children’s information andmetadatamust become a public health measure in the era of digital over-sharing and daily data breaches.
+
+Otherwise, due to poor security and lack of truly informed consent, tech companies and likely school districts will soon begin facing the liability questions as this generation finds its data exposed and exploited.
+
+Speak to Me So I Can Understand
+
+As security becomes everyone’s problem, transparency and a robust public conversation about the scope of school access and massive commercial data collection is key to helping users to understand and manage their risks.
+
+We all know that kids do not read long privacy policies and terms of service written in legalese when signing up for the latest app. If a company targets tweens and teens with its product, it can certainly learn to “speak their language” to explain what information is collected and whom it is shared with.
+
+When a kid creates a username on a company’s platform, its responsibility should be to help her understand why using her real name and her date of birth is not a good idea. And since apps collect kids’ data (which hopefully will soon expire), they can perhaps return a favor by making stronger privacy settings default for their young users.
+
+It is likely that if parents, students, and school officials fully understood the extent of data collection and the risks associated with that, the security culture and privacy hygiene among kids would be very different.
+
+The first step to recovery is supporting kids in reclaiming the ownership of their digital lives and bringing the longing for privacy back into this generation’s DNA. Starting now, every parent must begin askingquestionsand call for transparencyabout the school and corporate access to kids data and its security.
+
+The hardest part will be to transform the tech industry’s modus operandi, which is largely based on indiscriminate collection of information for monetization.
+
+Not unlike the automobile industry lowering emission and fuel consumption levels, which once was considered impossible, it must become a long-term goal for the tech community to strike a balance and moderate its own collection and use of data in the interests of kids’ information security.
+
+Send thisletterto your principal to understand more about what data is collected on your child, how it is protected and who has access to it. You can find security & privacy tipshere.

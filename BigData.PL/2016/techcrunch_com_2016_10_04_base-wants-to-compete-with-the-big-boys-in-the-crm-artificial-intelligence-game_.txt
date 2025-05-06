@@ -1,0 +1,21 @@
+Base wants to compete with the big boys in the CRM artificial intelligence game
+
+Baseisn’t the biggest player in a crowded CRM market by any means, but it’s not shying away from a fight with industry giants like Salesforce, Microsoft, Oracle and SAP. This week it introducedApollo, a stand-alone artificial intelligence piece its CEO claims is well ahead of its well-heeled competitors — and it chose to announce this new product in the middle of Dreamforce, Salesforce’s enormous customer conference.
+
+Artificial intelligence is the watchword of the day in CRM with bothSalesforceandOracleannouncing AI products/features in the same week a couple of weeks ago. The bigger companies are adding smarts to more than just CRM, but Base CEO Uzi Shmilovici thinks his company’s singular focus on CRM may be an advantage.
+
+Shmilovici claims for instance that his company’s predictive scoring is much better than Salesforce’s because he has more data. His argument is that in spite of Salesforce’s size advantage, sales folks don’t use the software. It’s one I’ve heard before from small players —  they design their products more for sales people’s needs.
+
+Regardless where you stand on that, Base believes its user friendliness means it has better data. Shmilovici points out it takes data from sales people to do predictive lead scoring, and the more data you have, the more accurate that’s going to be.
+
+Where he says Base Apollo differentiates itself from the competition beyond the data set is that it is stand-alone and it’s prescriptive, telling users what to do next. To be fair, this is precisely the type of actions Salesforce says Einstein will give its users — call this person because it’s most likely to give you the best shot at a sale.
+
+Yet, he says that Salesforce’s initial key AI features — Lead Scoring and Opportunity Insights — are features that have been in the base-Base CRM product for some time. Other features in the core product include email sentiment (looking for indications that a deal could be in danger of falling through), estimated close date (alerting you when a close date could be different from what you thought) and likelihood to close, which uses an algorithm to determine how likely it is you’ll close the deal.
+
+Apollo is supposed to go much further, aiming to tell you where you’re going in real time to provide information that can have an actual impact on sales. It analyses your data to find performance gaps in your sales process and makes actual recommendations to improve it.
+
+“If you do this, this is what will happen in the future. Here’s what you can do to impact your numbers in a meaningful. way. For every insight, you will increase your sales by x dollars if you do these things,” Shmilovici explained.
+
+That kind of prescriptive model could appeal to customers, but while the market is vast, the giants have far more resources to attack the problem. In the technology world, it isn’t always about who has the most advanced tech or even who is first, as much as who has the biggest pocketbook. In a market like CRM, it’s hard to get attention, but Shmilovici purposefully decided to make Apollo public the week of Dreamforce, even though it won’t be available until Q1 next year.
+
+Base has been around since 2009 and has raised almost $53 million including its most recent $30 million Series C round last September.

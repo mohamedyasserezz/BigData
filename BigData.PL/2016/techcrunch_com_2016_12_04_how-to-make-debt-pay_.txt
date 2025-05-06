@@ -1,0 +1,31 @@
+How to make debt pay
+
+Not all debt is bad debt. It’s conventional wisdom in the world of finance that the strategic use of debt builds better companies. The same is true for software. Companies that are strategic in their use of debt — in this case,technical debt— can develop products quicker, push them out faster and win in the market.
+
+The key word here is strategic. Technical debt must be balanced wisely — not enough and you’ll lose the race; too much and you’ll be in a hole out of which you’ll never climb.
+
+What exactly istechnical debt? The term was coined in 1992 by Ward Cunningham, the programmer who wrote the first wiki. Here’s how Cunningham described it: “Shipping first-time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt.”
+
+In theory, there is no limit to how much you can tweak software. You could throw time and resources at a development project endlessly, always making it better and more efficient. In practice, no development team has infinite time or resources, and at some point, you need to make the decision to stop iterating and move on. This is when technical debt begins to accrue.
+
+There are warring schools of thought about the benefits and perils of engineering debt. That’s probably because when people think about software, they automatically think of well-designed, bug-free systems that work flawlessly. But the endless pursuit of a bug-free system that works flawlessly is a surefire way to limit your ability to build products and respond to your customers quickly. Technical debt is an asset that can be leveraged to break out of this cycle, ship products and beat your competitors.
+
+The key to success is figuring out where in the development cycle you can afford to accrue technical debt and when you need to start paying it down. To arrive at an answer, you need a framework for reasoning about technical debt.
+
+First, identify the parts of your stack where youcan’tafford to have any technical debt.
+
+In large-scale transactional systems, where every piece of data is essential, you’re better off spending more time upfront designing systems to last and be easily maintainable — so this is a bad place to accrue debt. The same goes for mission-critical systems, where reliability and high availability are paramount. Our philosophy for critical systems is to iterate, but don’t stop iterating until it meets a really high bar. Another yardstick here is how often you make changes in that part of the system/codebase; debt begets debt, so if a component changes a lot, it will accrue more debt… whereas with a component that rarely changes, you can generally accrue some debt and let it sit for a long time.
+
+But let’s say you’re adding a new feature to an existing product. You don’t know yet if that feature will actually be effective and popular among users. Your goal is to roll it out as quickly as possible so you can collect feedback and iterate. This is a place where you can afford to value speed over rigor. Here, time to market is more valuable than error-free code, and you can always go back and clean up the code later. The advantage with this approach is that you’ve spent the least amount of time to prove your idea and can use that time for other projects.
+
+Another key to technical debt is to always have an understanding of how much time it will take to go back and pay down your debt. If it turns out the new feature you’ve built is successful and starts seeing adoption, you have to move quickly to pay back the debt to keep users pleased and ensure that your new feature doesn’t crash your system.
+
+Never forget that there is a cultural component to technical debt. Most engineers are perfectionists. We want to build things the right way. We don’t like the idea of taking shortcuts. So it can be demoralizing for an engineering team to be constantly forced to accrue technical debt and push products out to market as fast they can.
+
+It is key to speak openly and often about technical debt with the engineering team. When my engineers are working in the design document, I encourage them to articulate the places where a particular design decision can cause us to accrue technical debt. This makes talking about technical debt less emotional, so it’s no longer a philosophical debate. This approach also helps align the mindsets of the product managers, who want to move fast, and the engineers, who want to build correctly. Most importantly, it allows us to maintain a realistic perspective of our code.
+
+We also create a timetable for fixing the technical debt we take on. In our business, new challenges are always popping up. It’s easy to forget the old thing and go to the new thing and let the technical debt build until it becomes a problem. We reduce that risk by creating specific future projects for coming back and cleaning up the old code.
+
+A side benefit of technical debt is its usefulness in ramping up new engineers on the code base. One tool in our ramp-up for a new engineer is to have them work with an experienced developer to refactor parts of the code base we earmarked for fixing. This is a good way to bring new engineers up to speed quickly.
+
+In summary, it’s easy to look at the world in terms of black and white, good and bad. But building software is more nuanced than that. If you go with a dogmatic approach that technical debt is always bad, you will never get products to market fast enough. And if you believe technical debt is always good, you can end up with a sloppy engineering culture and a buggy code base that will haunt you down the road. But if you maintain a clear head and a balanced approach, technical debt can pay huge dividends for your organization.

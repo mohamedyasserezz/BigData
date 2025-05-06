@@ -1,0 +1,11 @@
+Segment adds Google BigQuery to expand its customer data platform
+
+Segmenthelps businessesmanage all their datafrom services like Google Analytics, Mixpanel and Salesforce — and send that data to a variety of destinations, whether it’s an attribution product or a data warehouse.
+
+The companyannounced yesterdaythat it’s expanding its offerings by integrating with BigQuery, Google’s data warehousing service. This might seem like a pretty small announcement, especially because Segment already supported other warehousing products — specifically Postgres and Amazon’s Redshift — but CEO Peter Reinhardt suggested that this reflects a broader shift in the “cloud wars.”
+
+“We’ve noticed a real upsurge in demand for BigQuery,” he said. “It’s the first real threat to Redshift.”
+
+Not every one of Segment’s 7,500 customers uses its data warehousing options, but Reinhardt said that “almost 100 percent” of its enterprise customers do, and there’s also significant usage on the self-service side. He estimated that data warehousing customers were split 50-50 between Postgres and Amazon before — but after a little more than a month of beta testing, BigQuery had already claimed 10 percent of the total.
+
+Among BigQuery’s advantages, according to Reinhardt, are the fact that it can be simpler to use, and its pricing structure may be more appealing to smaller businesses.

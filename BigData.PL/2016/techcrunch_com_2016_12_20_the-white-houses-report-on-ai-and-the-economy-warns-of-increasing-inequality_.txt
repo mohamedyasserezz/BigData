@@ -1,0 +1,37 @@
+The White House’s report on AI and the economy warns of increasing inequality
+
+The White House has issued a sequel toits October reporton how the U.S. should approach artificial intelligence and its effects on various groups and institutions.Today’s reportfocuses on the potential economic effects of AI, and while it’s far from a dark outlook, it does warn that with improper handling, automation could drive further inequality in this already deeply divided country.
+
+“You look at the last couple decades, we have seen an increase in inequality,” said Jason Furman, Chairman of the Council of Economic Advisers, on a press call discussing the paper. “In part that increase has been because of a technological fact: that technological innovation, more recently, has helped complement people with higher skills. So we now have a few decades of experience with technology helping to contribute to inequality.”
+
+AI, the report suggests, will continue this trend, and as such, requires the kind of proactive accommodation as other technologies, like those made for mobile phones and the internet.
+
+Three general strategies are suggested for making the inevitable automation of millions of jobs less impactful on the people doing those jobs.
+
+Invest in AI.The report from October addresses this in more detail, but generally the government must be wary that it doesn’t fall behind other countries or private companies in its husbandry of this nascent technology. Diversity is encouraged in the report as an essential ingredient in problem-solving and planning, and algorithmic bias is mentioned in particular as a challenge to be overcome. I asked for more details on this last goal and whether any official best practices or guidelines would be forthcoming.
+
+“We’ve called for the inclusion of ethics in data science and computer science education to make sure that the technical professionals who are making these decisions are aware of the implications of what they’re doing and are equipped with tools to address these issues,” replied the Office of Science and Technology Policy’s Ed Felton, “but we don’t see this as an area for aggressive new government action.”
+
+Educate and train for the jobs of the future.While careful not to throw the country completely under the bus, the report is unsparing in describing the current plight of some aspects of the American educational system.
+
+If the United States fails to improve at educating children and retraining adults with the skills needed in an increasingly AI-driven economy, the country risks leaving millions of Americans behind and losing its position as the global economic leader.
+
+The report does crow a bit about the (considerable) accomplishments of the current administration in modernizing schools and curricula, but warns that failing to double down on this could have grave long-term repercussions.
+
+Training programs to put displaced workers back in the mix are also needed, but the U.S. spends far less than its contemporaries on them:
+
+The report recommends multiplying current spending by a factor of six. If workers have the opportunity to retrain and find a new job, they’ll take advantage of it. But naturally, that won’t happen if there are no such programs, and we’ll have no one to blame but ourselves when unemployment rises.
+
+Reinforce the safety net.With a new technology threatening to produce huge numbers of displaced workers, it behooves us to invest in unemployment and healthcare to make sure these people can stay on their feet while finding or training for the next opportunity.
+
+Ensuring that the existing protections are compatible with the increasingly populous gig economy is one specific recommendation, for instance, but unemployment benefits must also be made compatible with the prospect of extensive retraining programs. Wage insurance could make it more attractive for an expert in a deprecated field to take a lower-level job in an emerging field.
+
+Basic changes to labor practices are also recommended, not exactly as a response to AI but as a response to the inequality it may engender. Higher minimum wages, modern rules on overtime and benefits, accommodation of unions and so on.
+
+One other warning the report gives, though it isn’t attached to any recommendation in particular, is this:
+
+The winner-take-most nature of information technology markets means that only a few may come to dominate markets. If labor productivity increases do not translate into wage increases, then the large economic gains brought about by AI could accrue to a select few.
+
+In other words, if we don’t make sure that AI is working for everybody, you can be damn sure a handful of people are going to make it work forthem. Let’s try to avoid that.
+
+You can read the full White House report here (PDF).

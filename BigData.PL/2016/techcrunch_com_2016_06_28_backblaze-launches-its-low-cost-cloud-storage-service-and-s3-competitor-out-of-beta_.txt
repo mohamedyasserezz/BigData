@@ -1,0 +1,17 @@
+Backblaze launches its low-cost cloud storage service out of beta
+
+Backblazeis still best known for its backup service, but the company has also set its sights on the fast-growing cloud storage market. While the company can’t compete with the likes of Amazon, Microsoft and Google when it comes to the overall feature set of its nascent cloud platform, Backblaze decided to significantly undercut its competitors pricing when it first announced its B2 cloud storage service last September.
+
+Today, B2 is coming out of beta and ready for production use. A number of partners, including Synology, Cloudberry, OpenIO and Cubix, also today announced that they will now offer B2 as a storage option for their customers.
+
+Backblaze says more than 15,000 users signed up for the service since the private alpha launch last year. In total, the stored more than 125 million files worth 525TB of data. B2 allows its users to upload files that can be up to 10TB in size. Given Backblaze’s stats, very few users apparently took the company up on this offer, but that’s still twice as large as whatAmazon‘s S3 service allows.
+
+Backblaze learned quite a bit about running an efficient storage operation from its backup service, which offers unlimited backups for $5 month for personal users. The company is currently using the sixth major revision of its storage servers, which also form the basis of the B2 service. The B2 service is also now backed by a 99.9% SLA.
+
+Other features of Backblaze’s storage service include the ability to have the company send you snapshots of your files by FedEx on a USB hard drive or flash drive (depending on how much data you need to move). Pricing for this starts at $99 for snapshots up to 110GB in size and $189 for snapshots up to 3.5TB.
+
+The main differentiator for B2 is its price, of course. Backblaze charges $0.005/GB/month for storage and the first 10GB/month are free. Downloads cost $0.05/GB, with the first 1GB/day being free.
+
+Backblaze CEO Gleb Budman tells me that the company saw a variety of use cases during the beta, with users ranging from large enterprises wanting to shut down their own data centers to individual users who only wanted to store a few files. One area enterprises were especially interested in was replacing their long-term storage infrastructure — which typically uses tape storage — with B2.
+
+Budman also noted that Backblaze is looking to open a second data center soon and that the company expects to open a third one around the end of the year. He did note, though, that even though its competitors offer more data center locations today, most users typically only use one. “Storing your data in two regions at minimum doubles your cost. For example, storing data in S3 regions West Coast & South America will cost you $0.07/GB…1500% more thanBackblazeB2,” he said. For many AWS users, he argues, the cheapest option for offering redundant storage may be keeping their data in one S3 region and on B2 (but he would say that, wouldn’t he?).

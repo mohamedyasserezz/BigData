@@ -1,0 +1,95 @@
+Hillary Clinton and the Blockchain
+
+While her continued support of computer science and STEM education, increasing open data or fighting for net neutrality wasn’t a surprise, a more unexpected announcement sits halfway through the document: “public service blockchain applications.”
+
+As the first person to have launched a “code sprint” out of the White House and fight to use words like “hacking” on the White House blog, I can tell you that getting words like “blockchain” into an announcement was challenging.
+
+The other important thing to note is she said “application,” not “regulation.”
+
+When governments start to depend on a technology, I believe they are less likely to aggressively regulate it because — they are just as dependent on its success, as consumers and businesses.
+
+Governments and elected officials around the world, regardless of politics, must understand the potential impact of blockchain-based applications. They must understand how the technology might be used to increase trust and decrease bureaucracy in the delivery of government services.
+
+Additionally, how might citizens use this technology to regain control over their personal data, such as their health care records? Lastly, what can the Federal government do to accelerate the development of this critical technology?
+
+To be sure, public blockchains are a nascent technology, and they require significant research and development to realize their full potential. But it’s also fundamentally important to the future governance of our society and economy. It’s critical that governments start engaging with it today to address both its challenges and its great potentialtomorrow.
+
+So, what exactly are public service blockchain applications and why should voters care about this issue?
+
+An important role of government is toguarantee the integrity of public registries. Government registries tell us who owns what land or automobile, a vital source of proof if citizens are to get loans from banks or obtain other services in relation to those assets such as insurance. The government records your birth, which helps you prove your identity and verify whether you can legally vote, have a drink or be on that little league team.
+
+Governments also keep a registry of passports issued, verifying citizenship and enabling you to travel abroad. Importantly, they also maintain registries of companies and occupational licenses, ensuring certain professionals have taken the proper steps, had the proper training or have insurance to work on the plumbing in your house or pilot an international flight.
+
+Most public registries are maintained in government databases, creating giant, siloes of information. As we saw with the hack of of the Office of Personnel Management when21.5 million people’s personal information was compromised— including mine — government databases have become appealing targets for foreign governments and nefarious actors, are also vulnerable to internal manipulation, and are rarely compatible with other government or private databases.
+
+It should be possible to use a trusted, secure public blockchain to keep track of and maintain an audit trail of this information in a way that should give citizens peace of mind. They would know their government is storing critical records in a trusted, transparent and accountable way where anyone can verify both the ledger and any copies of the data that are stored on non-government computers.
+
+Controlling access to government records using the blockchain may sound like science fiction, but the last two months alone say otherwise.
+
+TheRepublic of Georgia and the Bitfury Group announcedit would test land titling on the blockchain in an effort to “show the world that we are a modern, transparent and corruption-free country that can lead the world in changing the way land titling is done.” Not to be outdone, theSwedish government announcedwith partners ChromaWay, Kairos Future and Telia, its proof of concept for land title on the blockchain.
+
+And here in the U.S., theGovernor of Delaware announcedthat his administration would test out registering companies, tracking share movements and managing shareholder communications into a blockchain-based environment.
+
+This momentum will create a competitive environment for other governments to follow suit. In the wake of thehealthcare.govdisaster, the White House quickly replicated the UK government’s Government Digital Service and most modern governments look to Estonia as the model digital government.
+
+Blockchain implementations are the next step. Once this kind of transparency becomes the bar that all must strive for, it could become a decider for businesses looking to invest in one region over another.
+
+So, it’s encouraging that Secretary Clinton embraced the technology’s potential when looking at it in the context of her call to open more data.
+
+The blockchain could become a critical piece of infrastructure for governments to implement what I call “responsive open data.”
+
+Unlike today’s open data, responsive open data responds to the commands of citizens — what they want, when they want it, where they want it.
+
+By registering business licenses, property titles or birth certificates on the blockchain, governments might enable citizens to more efficiently conduct transactions with each other, minimizing the dependence on lawyers, notaries and other middlemen.
+
+It is expected that with blockchain registries, it will be possible for one person to verifiably transfer ownership of a car, a home or some other asset to another person without having to visit a government office or other third-party validator to confirm the transaction. The same public validation would take place; but via the blockchain’s open, distributed ledger.
+
+An incredible amount of work has been put into defending net neutrality, ensuring Internet Service Providers deliver equal access to content distributed on the internet, so that it remains open and free for everyone. I would say, the next phase will require us to redefine what we mean by this concept, to extend it to the right to control our own data.
+
+Companies such as Google and Facebook have a tremendous amount of personal information about you — it’s what makes their tools and apps so valuable. But it also makes it increasingly harder for you to leave those platforms for competitors. You should be able to control access to your data on a neutral platform, like a public blockchain, and share it with any company, person or organization you choose.
+
+This may seem trivial for your photos or comments, but it can become a matter of life and death with your healthcare records.
+
+On average,Americans visit 18 different doctorsin their lifetime. While both the HITECH and the Affordable Care Acts now enable and, in some cases, mandate that data from your doctors visits be stored digitally, medical records and results from different facilities and physicians are often stored in incompatible databases.
+
+This lack of interoperability creates untold inefficiency in the healthcare system, costing 150,000 lives and $18.6 billion per year, according to thePremier Healthcare Alliance.
+
+Today, you have more access to information about your health than ever before. From the personal tracking offered by Fitbit and Apple Watch to the at-home genetic testing through 23andMe, new services make it possible to access and store rich medical information in real time. Yet the most basic and traditional of our medical information — the records generated by your doctors — remains trapped in a lockbox to which you have only very limited access.
+
+The next president should call for personal data neutrality for all companies — giving citizens back control over their personal data.
+
+Let’s start with medical records, the blockchain can finally give every American a personal digital medical record that is accessible everywhere, portable anywhere, and secure in its privacy.
+
+Sound futuristic? MIT Graduate student researchers Ariel Ekblaw, Asaf Azaria and Thiago Vieira, along with Senior Research Scientist Andrew Lippman, are developing a cryptocurrency-backed technology to address these issues. They are developing a system, calledMedRec, for managing medical records that depends on the Ethereum blockchain.
+
+MedRec restores patients’ control over their medical data. It enables patients to personally take charge of the distribution of their personal medical records, breaking down the information silos and enabling your doctors to all be on the same page. MedRec also has the potential to include personal sources of data like your FitBit or 23andMe.
+
+Importantly, MedRec allows patients to securely grant other doctors access to their personal information, as well as healthcare providers, researchers, and even their children and grandchildren. It could, for example, help future generations more accurately answer questions about illnesses in the family, an increasingly important piece of data as precision medicine efforts scale up.
+
+By putting your health records into a blockchain-managed system, you and your doctor should not only be able to update and review your medical information in real time, but also know it has been held securely.
+
+The move from a centralized to a decentralized data infrastructure moves us from trust in institutions and companies to trust in technology. We’ve done it before with the internet — so much so that, over time, it has become an essential part of many people’s lives and is now responsible for $944 billion in global gross domestic product (GDP), according to theInternet Association.
+
+But as with the internet, there is a great deal of development work to be done if the blockchain is to have the same level of influence on our lives.
+
+People who played significant roles in building layers and pieces of the Internet believe such a move is possible, though they also warn of how far we have yet to travel. “Today’s blockchain is (not) the Internet in 1996 — it’s probably more like the Internet in 1990 or the late 80’s,” says,MIT Media Lab Director Joi Ito.
+
+While the bitcoin blockchain is the most secure and battle-tested public blockchain, it can only process 5–7 transactions per second. And many of the ideas proposed, including those in this post, would run up against serious bandwidth limitations if implemented solely on the public blockchain.
+
+An example of the dangers and thus the need for research: the Decentralized Autonomous Organization (DAO), a futuristic autonomous entity that is part crowdfunding and part venture capital. It raised more than $150 million in a matter weeks and promptlylost $60 milliondue to a bug in the code that was exploited by one smart coder.
+
+Today, most cryptocurrency development is led by a handful of dedicated developers, funded by either venture-backed startups, large companies or academia.MIT has raised $900,000 to support three developersof the bitcoin protocol. But if governments and their citizens want to benefit from public blockchains, there needs to be more engagement from the public sector.
+
+National Science Foundation,DoD’s Defense Advanced Research Projects Agency (DARPA)and theDepartment of Homeland Securityhave awarded a little over $6 million over the last two years to small businesses and universities for blockchain-based research. However, the UK, with a national budget that’s little more than a tenth of that of the U.S., has already launched a fund with almost$15 million for universities.
+
+To stay competitive and truly realize the economic and security benefits of this technology, the U.S. government should be investing at least $50 million a year in academic and business research on this technology.
+
+I’ve heard both optimistic and skeptical commentary in reaction to Secretary Clinton’s call for public service blockchain applications. I also remember the skepticism many of my friends in the tech community expressed when I joined The White House after having founded a start-up. Since then, more than 300 technologists from around the country have joined the Federal government, developing open source tools to achieve challenging policy goals.
+
+But, for every positive technology example I give, I can point to a frustrating counter-example.
+
+So, when people like DJ Patil, who worked closely with prominent bitcoin-supporter Reid Hoffman at LinkedIn, and Ed Felten, who wrote thetext book on bitcoinwith leaders in the community such as Arvind Narayanan, Joseph Bonneau, Andrew Miller, Steven Goldfeder, are now both Deputy CTOs at The White House — the positive technology examples they can enable start to outpace the negative ones.
+
+Having voices like theirs at the table is powerful and having a call for public service blockchain applications opens the dialogue between policymakers in a new Administration and the cryptocurrency community.
+
+Ultimately, by supporting the development of public blockchain-based government applications and funding critical research of this promising technology — the next president will have the power to significantly increase trust in government, decrease bureaucracy and protect consumer data based on the feedback from the cryptocurrency community. I believe Secretary Clinton’s call for public blockchain-based government applications is positive step forward in achieving those goals.

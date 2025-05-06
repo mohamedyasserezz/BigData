@@ -1,0 +1,43 @@
+Has SDN improved or just Kardashianized your network?
+
+Software-defined networking (SDN) has taken center stage in the networking industry for the better part of a decade now. In the spirit of the election season, it’s a great time to ask the question: Is your network better off now than it was before?
+
+The answer should be a resounding yes. For network engineers with a specific problem to be solved, there have never been as many tools in the toolbox to solve those problems. Indeed, with all the open APIs/automation frameworks and languages available to program them, the mix of custom/merchant silicon and x86 solutions available today and with the exponential reduction in cost and power consumption of network equipment on a per-bit basis, we may be in the Golden Age of Networking.
+
+But for many networks, a stark reality has emerged around SDN. Debates on the merits of esoteric networking technologies have been overtaken by an unending stream of fantastic pronouncements of panacean wonder. With hype trumping substance, networking technologies have fallen irrationally into and out of fashion, with some becoming famous for being famous.  This Kardashianization of networking has left many companies crippled with fear of missing out and paralyzed with confusion about what to do next.
+
+The following are some of the pitfalls that have befallen carriers and enterprises that have failed to master SDN and have instead become mastered by SDN.
+
+It is important to remember that the reality underlying most press releases falls somewhere in a truthiness continuum between padded resume and Soviet economic pronouncement. Trying to reverse-engineer a competitor’s technical solution, or even divine its true intentions, from a press release is fraught with peril. Also, remember your mother’s advice about not jumping off bridges just because everyone else might be doing it.
+
+A variation of this pitfall is the But <Insert Cool_Web_Services_Company> is using SDN refrain that usually follows any critical questioning of SDN. Indeed, it is true that some Cool_Web_Services_Companies use SDN, but it is important to understand where they are using SDN and why.
+
+Cool_Web_Services_Companies usually have multiple networks, some of which use SDN, while others/most resemble traditional (Pre-SDN) carrier networks. Fortunately, the engineers at Cool_Web_Services_Companies do tend to write long, detailed articles on the technical solutions they use and it is wise to read the whole article to understand the motivations and applicability of the particular SDN technologies they choose. What works within a data center might not be very useful in a network that connects data centers together, or one that peers with the rest of the internet.
+
+Perhaps the most frustrating pitfall engineers encounter is when they are told by their management they must do SDN. The motivation to put points on the board to demonstrate compliance with an executive SDN edict does not tend to lead to positive outcomes.
+
+Where SDN has been a boon is when engineers have started with the question: What is the problem to be solved? This may seem obvious and self-evident, but too often SDN strategies involve top-down selection of a fashionable solution first and then rigidly applying it to every problem (or worse, to non-problems).
+
+The strictest definition of SDN, as described by the Open Networking Foundation (ONF), is the physical separation of the network control plane from the forwarding plane, and where a control plane controls several devices. In terms of intuitiveness, this definition unfortunately betrays the practical goals and motivations of SDN — to reduce costs and accelerate innovation and agility in delivering network services. Companies can sometimes get caught up in the semantic debates of what does and doesn’t count as SDN and miss the point of this powerful movement.
+
+A better understanding of the spirit and power of SDN could be characterized simply as the marriage of software and networking to solve problems. This opens the doors to a full panoply of options: network overlays, automation frameworks that drive down operational costs and risk from manual processes, open interfaces that reduce the friction of mixing and matching equipment in various roles to drive down costs, etc.
+
+One underrated and underutilized SDN application in particular is the use of programmable APIs into the networking devices. These democratizing APIs enable permission-less innovation from the crowd to rapidly deliver new features and functions months/years faster than are typically developed by gear-makers. When understanding the spirit of SDN, beyond merely its literal definition, the potential of this technology becomes limitless.
+
+To those of a certain age, the mention of Menudo typically evokes vague recollections of a Latin boy band from the early 1980s that launched the career of Ricky Martin. What most don’t know is that the band included more than three dozen members, spanned three decades and spawned several spin-offs. When it comes to boy bands, certain patterns tend to emerge.
+
+While a boy band’s rise in popularity can be meteoric, its demise is almost always inevitable, usually cruel and often amusing. But on rare occasions, a star emerges — Ricky Martin, Justin Timberlake, Bobby Brown, Michael Jackson — leaving in his wake a jumble of mostly forgotten bandmates.
+
+Which brings us to SDN, an approach that most believe began in the late 2000s. In truth, the underpinnings of many SDN technologies were introduced in some form or another years/decades earlier. The large cast of SDN technologies includes many that are destined for future Where are they now? musings. But we can expect some stars to have an enduring impact in the industry.  Network overlay technologies (for example, VxLAN) appear to be one example.
+
+The lesson here is to search for the winners, not just assume every technology with the SDN moniker is equal — there can be quite a difference between Michael and Tito. Furthermore, even finding the star can be counterproductive if used in the wrong application. Ricky Martin in front of a pop audience will have the crowdlivin’ la vida loca; onstage in front of a heavy metal audience andla vidawill not be soloca.
+
+The greatest asset, worst liability and most overlooked component of any network is the human element that must design, deploy and operate it. Too often, the raw technical facets of a solution are solely considered to the exclusion of how humans will use and apply the technology. When the hype bubble inflates, critical thinking can grind to a halt, and the results can be calamitous.  Opportunity costs can skyrocket as scarce resources pour into dubious misapplications of trendy technologies dominating the headlines, crowding out less fashionable, but far more relevant and productive solutions.
+
+SDN has caused great disruption and noise, but has it actually made the network better? The answer to this question is ultimately a reflection of the motivations and goals of those who have sought to deploy SDN solutions.
+
+SDN is an umbrella of technologies, some powerful and disruptive, some of dubious value. Careers have been made, as well as broken, by SDN. For those network service providers that have started out with a problem to solve, objectively looked at the bevy of options provided within the umbrella and applied the right tool for the job, SDN has been a godsend. For those that have been caught up in the hype, started with a solution and worked backwards in search of a problem, that have sought to use SDN without fully grasping why, keeping up with SDN has been as productive a use of time as keeping up with the Kardashians.
+
+This is the first post in a two-part series on SDN and NFV. Read the second posthere.
+
+The opinions expressed in this work are solely those of the author and do not reflect the positions of any of the organizations with which he is affiliated.

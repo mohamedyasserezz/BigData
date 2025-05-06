@@ -1,0 +1,21 @@
+Restb.ai offers custom computer vision as a service
+
+Custom computer vision is the promise of bootstrapping Barcelona-based b2b startupRestb.ai. The team is pitching its machine learning algorithms at businesses wanting to fix a pain-point or aiming to enhance what they can offer their customers by being able to automatically determine what is in a particular image.
+
+While tech giants like Facebook and Google are using their own data to train their own AI algorithms for their own ends, Restb.ai’s big idea is to sell computer vision as a service, charging its business customers an initial training fee to build a custom model for their needs and charging per API call thereafter.
+
+The team launched back in March 2015 and has six customers at this point, according to Damia Garcia, the team’s VP of growth and biz dev, speaking to TechCrunch from startup alley here at Disrupt SF 2016. He added it has been focusing its early acquisition efforts on winning larger customers in multiple verticals, and is now looking to raise a seed round.
+
+One user of the tech so far is second-hand goods marketplaceWallapopwhich has used Restb.ai to identify and prevent users posting images of illegal drugs to sell on the site.
+
+Garcia claimed the accuracy of restb.ai’s model, once it has been trained for whatever custom use the customer intends, is 98 per cent. The system works by the user typing in whatever custom keywords the model has been trained on — such as make/model for cars in the above example — and will specify a percentage of how certain it is of a particular identification.
+
+It works in near real-time — and he noted another application of the tech being police automating cross-referencing number plates with a car make/model to ascertain that a licence plate has not been swapped onto another vehicle.
+
+The training process for each custom model takes some three weeks, according to Garcia, while the amount of data needed to feed the AI varies depending on the application. He said between 150 and 2,000 images are typically needed for training a particular custom need, with data provided by the customer.
+
+In the demo car example 1,500 images were needed per car, although the algorithm can identify a car model from a photo of just a tail light (for example), or from a photo of a crashed car. It can also specify which side/view the image is showing of the car.
+
+Other examples of use-cases for Restb.ai’s computer vision as a service include for real estate marketplaces wanting to identify and index photos of apartment interiors, for example, doing away with the need to manually tag uploaded images and allowing for better targeting of content based on having a better taxonomy of image data; and a Norwegian mining company that’s using the tech to automate and speed up identifying particular mineral crystals — freeing some of its human staff for other tasks.
+
+Garcia named one US competitor —clarifai— but said they are focusing on general modeling, such asidentifying nudity, whereas restb.ai is aiming to differentiate by offering custom deployments to meet very specific customer needs.

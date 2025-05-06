@@ -1,0 +1,49 @@
+Slack, now with 600 apps on its platform, pours $2M into 14 Slackbot startups via its Slack Fund
+
+Slack, the popular messaging app for co-workers to chat, share files and distract each other with GIFs, has taken some major steps forward to establish itself as a wider productivity platform. As of today, there are 600 apps integrated with the service, letting you bring in content from other services and share it with other users by way of simple, short codes. And now the company is expanding on another part of its platform strategy.
+
+Today, Slackannouncedit has invested a total of $1.97 million in 14 startups and unveiled the latest 11 in that list — all bot-style services. The investment comes by way of its Slack Fund, an $80 million investment vehicle first announced inDecember 2015, where Slack is teaming up with several top VCs to put money into promising startups as part of larger early-stage rounds.
+
+The startups getting announced today areAbacus,Automat,Birdly,Butter.ai,Candor, Inc.,Growbot,Konsus,Lattice,Myra Labs,SudoandWade & Wendy. All told, these companies collectively have raised around $30 million.
+
+It brings the total number of startups funded to date to 14, adding in three startups that Slack announced along with the launch seven months ago. (Those previous three areAwesome.ai,BeginandHowdy.)
+
+The rapid rise of bots — small programs that essentially replace human interactions with AI and machine learning to help you, a human, get something done or find out information a little quicker — is something that we’ve been tracking for a while now.
+
+There are now hundreds of startups that are building them, either as extensions for existing apps, or as standalone, native experiences in and of themselves. Some VCs,such as General Catalyst, have dedicated themselves wholeheartedly to seeking out the more promising of these; GC has actually backed four of the same startups that Slack has: Butter.ai, Growbot, Begin and Abacus.
+
+For Slack, which now has 3 million daily active users and 930,000 paid users, there are a couple of clear reasons why it is in its interest to fund and support these so-called Slackbots.
+
+For one, it’s good relations for a company that was originally built as a communications layer for developers (Slack’s developers, when they were still working on Glitch and whatever might come in its wake), and continues to count them among some of their more dedicated users.
+
+And secondly, it helps Slack seek out more interesting services that are built to work on Slack by design, making Slack itself a more useful and sticky service for its own paying customers. Slack itself notes that 90 percent of the teams using Slack that pay for the service also use apps “actively.”
+
+As Slack itselfwrites, “An ecosystem like ours is shared. Our impact as a platform is inherently and inevitably tied to the success of our partners and developers.”
+
+I asked, but Slack didn’t tell me just how many startups have pitched it for funding, but it is still looking to back more.
+
+Automatis making it easier for anyone to build a bot that passes the Turing Test. Automat is in private beta today.
+
+Birdlyconnects Slack and Salesforce so that anyone can access the information they need about a given account.
+
+Butter.aiis a personal assistant that makes all of your company knowledge easily accessible. Butter is in private beta.
+
+Candor, Inc.aims to improve working relationships through radically candid feedback. Candor’s Slack app is not generally available yet today.
+
+Growbotlets you encourage and commend your teammates for a job well done with a helpful bot.
+
+Konsusgets you 24/7 access to on-demand freelancers to help you get the job done, all via Slack.
+
+Latticehelps you establish goals, OKRs weekly check-in and continuous feedback with your Slack team.
+
+Myra Labshelps you build amazing bots with an API that provides machine learning modules out of the box. Myra is in private beta.
+
+Sudois a bot that manages your CRM, taking all of the pain of manual data entry away from the sales rep. Sudo is in private beta.
+
+Wade & Wendyare two intelligent recruiting assistants. Wade is a career advocate who helps find you opportunities and Wendy helps recruiting teams to source candidates. Wade and Wendy aren’t live yet, but you can sign up for their waitlist.
+
+Awesome.aihelps team stay in sync, find clarity and reflect on what’s important.
+
+Beginis a bot that helps improve your focus and efficiency, keeping you on top of all of your work.
+
+Howdyis a friendly, trainable bot that powers teams by automating common tasks.

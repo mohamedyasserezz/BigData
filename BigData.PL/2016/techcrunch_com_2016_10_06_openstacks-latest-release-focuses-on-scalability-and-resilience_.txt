@@ -1,0 +1,17 @@
+OpenStack’s latest release focuses on scalability and resilience
+
+OpenStack, the massive open source project that helps enterprises run the equivalent of AWS in their own data centers, islaunchingthe 14th major version of its software today.Newton, as this new version is called, shows how OpenStack has matured over the last few years. The focus this time is on making some of the core OpenStack services more scalable and resilient. In addition, though, the update also includes a couple of major new features. The project now better supports containers and bare metal servers, for example.
+
+In total, more than 2,500 developers and users contributed to Newton. That gives you a pretty good sense of the scale of this project, which includes support for core data center services like compute, storage and networking, but also a wide range of smaller projects.
+
+As OpenStack Foundation COO Mark Collier told me, the focus with Newton wasn’t so much on new features but on adding tools for supporting new kinds of workloads.
+
+Both Collier and OpenStack Foundation executive director Jonathan Bryce stressed that OpenStack is mostly about providing the infrastructure that people need to run their workloads. The project itself is somewhat agnostic as to what workloads they want to run and which tools they want to use, though. “People aren’t looking at the cloud as synonymous with [virtual machines] anymore,” Collier said. Instead, they are mixing in bare metal and containers as well. OpenStack wants to give these users a single control plane to manage all of this.
+
+Enterprises do tend to move slowly, though, and even the early adopters that use OpenStack are only now starting to adopt containers. “We see people who are early adopters who are running container in production,” Bryce told me. “But I think OpenStack or not OpenStack, it’s still early for containers in production usage.” He did note, however, that he is regularly talks to enterprise users who are looking at how they can use the different components in OpenStack to get to containers faster.
+
+Core features of OpenStack, including the Nova compute service, as well as the Horizon dashboard and Swift object/blob store, have now become more scalable. The Magnum project for managing containers on OpenStack, which already supported Docker Swarm, Kubernetes and Mesos, now also allows operators to run Kubernetes clusters on bare metal servers, while the Ironic framework for provisioning those bare metal servers is now more tightly integrated with Magnuma and also now supports multi-tenant networking.
+
+The release also includes plenty of other updates and tweaks, of course. You can find a full (and fully overwhelming) rundown of what’s new in all of the different projectshere.
+
+With this release out of the door, the OpenStack community is now looking ahead to the next release six months form now. This next release will go through its planning stages at the upcomingOpenStack Summit in Barcelonalater this month and will then become generally available next February.

@@ -1,0 +1,9 @@
+Amazon wants more people to develop speech-based adventure games for Alexa
+
+Amazon’s plucky little voice assistant already has a fairly broad skill set – but gaming has never really been Alexa’s strong suit. Granted, the AI is no Xbox, but that doesn’t mean there isn’t some potential for a little gaming fun. A few developers have already created titles for the platform, adventure games that are a bit of a throwback to the text-based titles that graced early home computers.
+
+The Wayne Investigationis of particular note, aBatman v Supermanpromotion written by DC Comics creators that managed to get better reviews than the big budget blockbuster it was tied into, asking users to help solve the mystery being the murder of Bruce Wayne’s parents (spoiler. Also he’s Batman. Double spoiler).
+
+To help ease game creators into the process, Amazon is offering a tool to make it easier to create titles for its home-ruling robot voice. Thedevelopment tool, available now through GitHub, breaks game creation down into a graphical interface, providing a sort of decision tree to map out the turn-by-turn game play.
+
+The company’s gota turn-by-turn breakdownof the Interactive Adventure Game tool on its developer blog.

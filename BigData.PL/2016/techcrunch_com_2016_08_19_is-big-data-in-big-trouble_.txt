@@ -1,0 +1,25 @@
+Is big data in big trouble?
+
+We recently saw two critical developments in the big data and analytics space.Tableau(DATA) released earnings and missed their forecast by $0.05; their stock dropped 5 percent. ThenHortonworks(HDP) announced a revenue miss that sent the stock into a downward spiral.
+
+What’s going on with the business intelligence (BI) and Hadoop space? Should we run for the hills, far away from the BI and big data space before it implodes?!
+
+Sensational headlines are sometimes just that… sensational. Behind the missed forecasts lie some important trends that investors and technology corporate buyers should keep in mind.
+
+First off, let’s take a look at pure performance. Tableau, the leader in business intelligence (by most accounts) grew 35 percent year-over-year. Thirty-five percent. What other publicly traded analytics company has grown at this pace over the last year?
+
+Moreover, we should look at their results in the context of the industry as a whole.Gartner’s forecast for worldwide dollar-valued IT spending growth in 2016 is at a flat 0.0 percent. Thirty-five percent growth is fairly exceptional by this benchmark. And take a look at Hortonworks’ results for this past quarter: total revenue grew by 46 percent year-over-year.
+
+Investors’ expectations are tough to manage. Technology buyers and industry observers should benchmark the performance of both organizations against the rest of the industry before they make an informed judgment.
+
+Quick perspective:Teradataalso reported revenue recently, and its business shrunk by about 4 percent YOY. All things remaining equal, Hortonworks could generate more revenue than Teradata by 2020.
+
+If you are a technology buyer, you are probably looking beyond these earnings. You are paying attention to the other developments that occurred in this space this summer:WorkdayacquiredPlatforain July,Qlik Techgot absorbed by private equity firmThoma Bravoin June. You might also have heard that Amazon is planning to release its business intelligence visualization solution next month, and you know that both Microsoft and Google already have products in this market.
+
+Betting on one vendor for visualization and business intelligence is becoming increasingly difficult.  Rather than worry about the earnings of the industry players, it’s better to focus on their approach and architectural vision instead.
+
+For one, the market is not very receptive to a monolithic and closed approach. When looking at Platfora’s architecture, you might have noticed that its biggest merit was its end-to-end integration, from the data platform to the visualization layer. This approach can only work for very specific use cases, for a few, highly specialized end users. It rarely works for organizations that want to expose a data service for a wide range of use cases for hundreds or thousands of users.
+
+Next, Tableau pioneered and drove the industry’s move to self-service business intelligence. Microsoft, Google and Amazon decided to enter the visualization market aggressively because Tableau’s success has demonstrated the power of putting data in the hands of business users.
+
+Platform vendors can now clearly see this is a growing, thriving market. Tableau has identified that there are more than 900 million underserved information workers that need business intelligence. That alone is about 10X the market currently called “Business Intelligence.” As Microsoft and Amazon drive down the price point of business intelligence, the industry is bound to see BI proliferate and expand into places we thought out of reach.

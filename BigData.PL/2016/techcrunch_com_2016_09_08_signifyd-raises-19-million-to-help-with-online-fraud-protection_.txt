@@ -1,0 +1,17 @@
+Signifyd raises $19 million to help with online fraud protection
+
+Online merchants spend a lot of money on chargebacks, which are demands by credit card providers to reimburse for fraudulent charges. That’s whySignifydcreated technology that assesses a transaction risk before the card is processed.
+
+The San Jose-based company is raising $19 million in financing for its fraud protection services. Investors include Menlo Ventures, TriplePoint Capital and American Express Ventures.
+
+Many e-commerce businesses do not have the resources to screen for risky transactions, so Signifyd’s financial guarantee has allowed them to secure clients like Jet.com, Lacoste, and Peet’s coffee. Signifyd says it has developed machine learning capabilities that are accurate enough for them to feel confident reimbursing the merchant on the rare occasions when its predictive technology is wrong.
+
+Signifyd’s platform uses “thousands of different data points to make a decision,” CEO Raj Ramanand tells TechCrunch. “We pay out 100% if we make a mistake.”
+
+The company typically charges clients up to 1% of transaction revenue, but the company estimates they save clients much more. “Most customers see a huge increase in their margins,” Ramanand insists, estimating that merchants end up declining about 3-5% of good revenue when they aren’t able to accurately assess whether a purchase is criminal.
+
+Pravin Vazirani, managing director at Menlo Ventures, says that “we’ve been investors in various e-commerce companies and so we definitely felt like we had some strong insight into how big a problem this is.”
+
+Tim Eades, CEO at vArmour, sits on the board at Signifyd and told us he believes in the company because it provides a quicker solution than other alternatives. “The majority of the market is just taken up by old tech. With Signifyd, you have a one minute product.”
+
+Signifyd has previously raised over $30 million from investors including Data Collective and Andreessen Horowitz.

@@ -1,0 +1,53 @@
+Hustle is the grassroots personalized mass-texting tool we need
+
+People hate phone calls and ignore emails, so how do you get them to protest, organize, fundraise and fight for the causes they believe in? By talking to them like humans, one-on-one. This is the way Hustle motivates people to participate at scale, and how its messages reached 3.95 million voters on election day.
+
+People hate phone calls and ignore emails, so how do you get them to protest, organize, fundraise and fight for the causes they believe in? By talking to them like humans, one-on-one. This is the way Hustle motivates people to participate at scale, and how its messages reached 3.95 million voters on election day.
+
+Hustle is a text-distribution toolthat allows organizers to quickly start individual, personalized conversations with huge numbers of supporters. It’s like mail merge for instant messaging. You write automatically customized scripts, upload phone numbers and assign staffers to text swaths of them one at a time in rapid succession. Supporters may reply directly to a real person who can convince them to act. And organizers can track their campaign’s progress.
+
+Today Hustle announces it’s raised $3 million led by Chamath Palihapitiya’sSocial Capital, and joined byIndex Ventures,Designer Fund,CanvasandMatrix Partners. Hustle’s tool has already been used by Hillary Clinton and Bernie Sanders, as well as the American Federation of Labor. But now Hustle will have the cash to hire engineers, designers and a sales team to push into new verticals like retail, hospitality and traditional nonprofits.
+
+“We want to massively humanize communication. And not in a bullshit way, but in an actual ‘we’re connecting real people together’ way,” says Hustle CEO and co-founder Roddy Lindsay.
+
+As one of the first data scientists at Facebook starting in 2007, Lindsay spent six years measuring the impact of connecting people. Later, while volunteering at Mark Zuckerberg’s immigration reform group Fwd.us, he witnessed the abysmal 1 percent conversion rate of email.
+
+While impersonal email blasts might get people to take lightweight actions like signing a petition, Lindsay says, “If you want people to show up and participate in events, and become a meaningful part of a movement, you need to engage people personally.” He experimented with personalized SMS calls to action, and saw 35 percent-plus engagement rates — as well as an opportunity.
+
+To turn the idea into a platform, Lindsay teamed up with Perry Rosenstein, a startup product lead and political strategist who was Obama’s Nevada New Media Director in the 2008 election. [Disclosure: Rosenstein is a friend and we built a social app together in 2013 called Signal that’s since shut down.] Lindsay had a strong working relationship with Palihapitiya while they were both at Facebook, so he raised some pre-seed cash from Social Capital.
+
+“The first thing that we did was hilarious,” Rosenstein says. “We ran an ad and put Roddy’s phone number in it. ‘Text this number.’ What was crazy about this was people would text it and we’d have really intimate conversations with them.”
+
+People love to text. Hustle’s research says 75 percent of millennials prefer texts to calls. The average pickup rate for calls from unknown numbers is 10 percent, but less than 5 percent for millennials. As for email, Lindsay says, “You can throw all the algorithm soup at optimizing your campaigns, but a 1.2 percent [conversion rate] is a failure.”
+
+Hustle was built for a hierarchy of three different users: organizers, agents and contacts.
+
+At the top, a handful of organizers from a business, group or campaign use Hustle’s web interface to write scripts in the first-person, like, “Hey <insert contact name> this is <insert agent name> from Fwd.us. I know you’re interested in immigration reform and there’s a rally next Tuesday at 7pm. Can I count on you to attend?”
+
+Organizers upload a file of names and phone numbers, or connect their CRM system to Hustle, then divide the contacts between their agents. Each agent uses Hustle’s iOS, Android or web app that instantly populates their name and the contact’s name for each text. It then lets them optionally customize the message and hit send on one after another, achieving a state of flow.
+
+Contacts don’t even know they’re “using” Hustle. They just receive the messages via normal SMS from a local Twilio-powered phone number, and can reply straight to the agent, unlike with an email blast.
+
+If they RSVP yes or no, the agent can mark that down in the Hustle app. But if they respond with questions or excuses, like “How do I get to the event?” or “I have to watch my kids,” the agent can coax them into the Yes column by explaining public transportation options or that the event has on-site child care.
+
+Organizers can watch the progress of their agents, nudging ones who fail to send their texts, and altering scripts with poor performance.
+
+The idea is that with a few organizers and 1,000 volunteers assigned 1,000 contacts each, a Hustle campaign could personally reach 1 million people. Lindsay claims Hustle is 48X more effective than phone calling, because the response rate is at least 3X and you can send 16X more texts in the time it takes to make a call.
+
+With the funding and help of Palihapitiya, Matrix’s Ilya Sukhar (who sold Parse to Facebook), Index’s Ilya Fushman, and Canvas’ Ben Narasin, Hustle wants to expand its diverse 12-person squad. It plans to hire a full team under its Director of Sales Ysiad Ferreiras, who got Hustle to $3 million in revenue its first year on the market.
+
+Hustle also wants to build out sophisticated semantic analytics tools. Those could determine the highest converting question responses, or algorithmically alter scripts to be more or less formal depending on the recipient, like adding emoji when talking to millennials.
+
+Hustle charges a $0.30 monthly fee per contact in a customer’s CRM, with discounts for yearly contracts and giant databases. Rosenstein says, “In our sales cycle, we look at who does calls and we crush them.” Hustle plans to attack more potential customers still relying on phones and emails in the era of mobile messaging.
+
+Others see the opportunity, too. The Hillary campaign ended up building their own clone of Hustle called “Megaphone,” though clearly that didn’t quite work. The mass email companies like MailChimp and Constant Contact might wise up and move into messaging.
+
+Hustle is also beholden to the platforms it runs on. “We’re definitely at the mercy of carriers, hardware, and government,” Lindsay admits. Messaging is also shifting from the open SMS standard to closed apps like WhatsApp, WeChat and Facebook Messenger. It will have to avoid being perceived as a spam tool and banned by those who deliver its rallying cries.
+
+“Our mission is not to be a text-messaging company,” Lindsay says. Texting in 2016 happens to be the best way to have the most real conversations with the greatest number of people with the least amount of friction. That will change, but we’ll change with it.”
+
+With the nation’s fractured political landscape, more people than every want to get involved. Lindsay says, “If there is a silver lining to the election last Tuesday, it is this: Many of us are waking up to the urgency of the moment.”
+
+But that intent is often squandered by tools that view activists as mere cogs in a campaign. Lindsay concludes, “It’s easy to get people to raise their hand, but once they do, treat them like a person.” They’ll hustle. They just need their passion harnessed.
+
+[Correction: This article has been updated to remove an erroneous quote.]

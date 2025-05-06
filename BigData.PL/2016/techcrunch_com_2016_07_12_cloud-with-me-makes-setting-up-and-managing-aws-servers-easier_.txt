@@ -1,0 +1,25 @@
+Cloud With Me makes setting up and managing AWS servers easier
+
+Nobody has ever accused AWS of being too easy to use. While Amazon’s cloud computing platform is extremely powerful and launches feature updates on an almost daily basis, all of that power comes with a lot of complexity. Even if you only want to set up a basic WordPress install on a single machine, getting started with the AWS Management Console can be daunting.
+
+Cloud With Mereduces this process to just a few clicks. The self-funded five-person team built the service to bridge the gap between old-school virtual machine-based hosting services and the cloud. “There is a gap between the old hosting companies and AWS,” Cloud With Me founder and CEO Gilad Somjen told me. “Everybody wants to move to the cloud guys, but it’s too hard.”
+
+To get started, you simply select what region you want to run your server in, what instance type you need and whether you want to install any additional software packages like WordPress, Drupal and Magento, or an email, database or FTP server. You also tell Cloud With Me which domain name you want to use (because getting your domain name to point to an AWS machine isn’t exactly trivial either). From there, you enter your AWS information and your server will be ready to go. Once it’s up and running, you can then also use Cloud With Me to manage your machines as well.
+
+Cloud With Me’s dashboard is currently available in 11 languages — more than AWS’s own management console.
+
+The company obviously doesn’t handle billing for AWS, so the cost of your servers will be billed directly by Amazon.
+
+The way the companymonetizes its serviceis by charging an additional fee for making it easy for you to install its add-ons like WordPress. Every add-on comes with a $3.99/month price tag (and because you read TechCrunch, you can use coupon code ‘tc30’ when you check out to get 30 percent off your add-ons until July 31).
+
+It’s worth noting that using add-ons is completely optional. You could just use Cloud With Me for free to set up basic servers without add-ons and the service will let you manage up to five servers for free, too.
+
+Cloud With Me’s add-on library is still rather limited right now, But Somjen tells me that the company will add support for more tools soon.
+
+Somjen argues that AWS doesn’t really have an incentive to go after the kind of user who would need a service like this because it cares more about enterprises and startups that spend big on running their services on AWS’s infrastructure. “AWS doesn’t care about clients who have one WordPress site,” he said.
+
+Since its quiet launch four months ago, though, Cloud With Me has brought 2,800 new accounts to AWS, Somjen says. That made AWS pay notice and Cloud With Me is now an official Amazon partner.
+
+While Cloud With Me makes it pretty easy to set up a server, I wish the company would make it a bit easier to see how choosing one region or server type over another will influence your AWS bill. Right now, the service sadly doesn’t give you an estimate of what you’ll pay to Amazon.
+
+Once you get to the second set of the setup process, where you enter your AWS info and enable Cloud With Me to access your AWS services, the process also becomes quite a bit harder. Somjen tells me that the team is working on making this step much easier, but for the time being, going from the extreme simplicity of the first step to finding your AWS access keys and creating permissions for Cloud With Me may come as quite a surprise to new users who have no familiarity with AWS.

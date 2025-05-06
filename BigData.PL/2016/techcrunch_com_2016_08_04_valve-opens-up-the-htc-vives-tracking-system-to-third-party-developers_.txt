@@ -1,0 +1,13 @@
+Valve opens up the HTC Vive’s tracking system to third-party developers
+
+One of the most technically advanced features of the HTC Vive virtual reality system is the way it tracks a user’s motions inside their play space. Valve, which collaborated with HTC to build the Vive, just opened its ‘Lighthouse tracking system’ up to third-party hardware developers building on the SteamVR platform to license royalty-free.
+
+What does this mean for the average VR user? A much richer experience down the road with a bevy of input and sensor options to best fit the experience. Full body sensor suits, new types of controllers and next-gen peripherals will all have a much easier time getting from development to people’s living rooms because of the integrations.
+
+This isn’t hugely unexpected on the part of Valve or HTC, who partnered to build the Vive and its underlying tech. For its part, HTC has been signaling a clear interest in third-party hardware solutions that add to the Vive experience. Earlier this week HTCopenedits Vive X virtual reality accelerator program to VR hardware startups with a new location in Shenzhen.
+
+“We are extremely excited about the potential mid- to long-term impact of our decision with our partner Valve to simultaneously open up our respective technologies in order to accelerate growth in the VR industry,” said Cher Wang, Chairwoman and CEO of HTC, in a statement. “The new wave of innovation this program will enable is going to be amazing to watch, the biggest winners will be the consumers and business customers around the world.”
+
+This really is a huge boon to the VR industry and will reduce fragmentation in a major way for consumers and developers. For every VR sensor or input company that’s been looking to find a home for their hardware, this news makes it possible for them to build Lighthouse tracking functionality into their devices instead of having to produce their own entire system from scratch.
+
+There’s a bit of a catch for developers, they’ll have to fly some people to Seattle to learn the ropes of the Lighthouse tracking system. If you’re a developer and you’re curious about licensing the tech, Valve posted someFAQson their site.

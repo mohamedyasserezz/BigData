@@ -1,0 +1,29 @@
+3Scan raises $14 million for a robotic microscope that could accelerate drug discovery
+
+Robots and software aren’t just changing manual labor in warehouses or kitchens. They’re also transforming medical research.
+
+A San Francisco startup called3Scan Inc.raised $14 million in venture funding to automate tissue analysis for scientists involved in drug discovery with its proprietary robotic microscope and computer vision systems.
+
+According to the company’s co-founder and Chief Operating OfficerMegan Klimen,3Scan can eliminate some drudgery for drug researchers who have been stuck using manual processes for tissue analysis.
+
+But more importantly, she said, 3Scan gives scientists a better view and more comprehensive data set from any given tissue sample than they have ever had before.
+
+Today, if researchers need to examine diseased tissue, they typically attain a 1 cm block of it, embed it in something like paraffin then slice it into sections that are stained, floated in a water bath and examined under different kinds of microscopes. They typically take fewer than a dozen slices and extrapolate everything they can from the data they get from those few slices.
+
+3Scan’s robotic microscope slices the tissue samples very precisely. Something like a micro deli-slicer, Klimen explained, 3Scan’s system can derive 10,000 slices from each tissue sample. The robotic microscope then uses machine vision to generate a digital, 3-D spatial map which researchers can review and explore on a screen, something like a topographical map of the Earth.
+
+3Scan’s machine is so efficient that it can do a year’s worth of tissue sample analysis in one day that it would take a pathologist to do in one year using traditional methods, Klimen said.
+
+The scans allow researchers a view into aspects of tissue that were not seen before, such as changes to vasculature, or blood flow, between tissue sample A and B. “You don’t have to use sampling techniques to make a guess about what’s in the tissue any more,” the COO said.
+
+Lux CapitalandData Collectiveled the Series B investment in 3Scan, joined by Dolby Family Ventures, OS Fund, Comet Labs and Breakout Ventures, as well as the venture arm of a U.S.-based research hospital that the startup didn’t have permission to name.
+
+The funding brings the company’s total capital raised to $22 million to-date in equity funding. Founded in 2010 by Klimen along with CEO Todd Huffman, CTO Matthew Goodman and Chief Engineer Cody Daniel, 3Scan also raised $390,000 in non-dilutive grant money fromBreakout LabsandStart-Up Chileprior to raising equity financing.
+
+The company generates revenue by providing imaging services to pharmaceuticals companies, labs or pathologists involved in pre-clinical drug discovery, today.
+
+In the future, it will seek FDA approvals for its machines to be used to examine human tissue. In pre-clinical drug discovery, scientists are evaluating tissue from mice or other animals.
+
+Klimen said for now, “We’re taking our instrumentation, which we have taken beyond the prototype phase with our earlier financing, and showing people what we can do with it.”
+
+The company, which employs about 30 full-time today in San Francisco, aims to move into bigger drug-discovery projects, and to give researchers new ways to analyze tissue using 3Scan software, including: automated cell counting and diagnosis.

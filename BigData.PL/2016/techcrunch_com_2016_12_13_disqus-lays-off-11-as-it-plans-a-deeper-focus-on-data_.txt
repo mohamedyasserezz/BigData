@@ -1,0 +1,19 @@
+Disqus lays off 11 as it plans a deeper focus on data
+
+Some downsizing and refocusing is underway atDisqus, the startup incubated at Y-Combinator that became an early mover in the business of offering a plug-in to help online publishers manage comments on stories. TechCrunch has learned and confirmed that the company has laid of 11 people, about 20 percent of its small staff, as it prepares to shift its business deeper into data services for publishers and advertisers.
+
+The cuts have been made in several departments, from sales through to engineering as part of the company “rebalancing” its priorities in light of that shift.
+
+Disqus, co-founded in 2007 byDaniel Ha(who is still its CEO) andJason Yanand with only $10.5 million raised in funding in all that time, is perhaps best known for its free commenting platform, which is in use across millions of websites and other communities today.
+
+But more recently Disqus has been trying out other things to expand its business. That has included a growing programmatic ad platformbased around sponsored comments, which debuted in 2014 (it’s this that makes the company money, as Disqus takes a share on ads that run through its otherwise free platform). And earlier this year, Disqus opted for another traffic gain as it relaunched of its own site as a central repository not just of content and comments from sites that you follow and comment on with a Disqus ID; but also of standalone comment threads that existed independent of these,Reddit-style.
+
+It’s not clear how well those consumer efforts have gone, but from what I’ve heard the plan is to halt them as Disqus turns to its B2B focus. The new effort will be built out of the (anonymised) data that passes through Disqus’ platform which sees some 2 billion monthly unique users.
+
+Disqus plans to reveal more details next year about these new data services, but one likely area it will focus on is marketing tech. Given how Disqus has used some of its data to help grow its own ad business, it could perhaps turn to offering data analytics to publishers and advertisers for more insight into what consumers are reading and discussing.
+
+While Disqus was a an early and leading player in the world of online comments, times have changed. In addition to Facebook’s aggressive move into the online comments (itreplacedDisqus for us here at TC,not quietly), there are other competitors like Livefyre, which isnow owned by Adobeandshifting its own businesspriorities.
+
+Along with all that, the nature of how people interact with content online has changed in recent years, with many now taking to social media to troll, fight trolls, and sometimes engage in spirited debate, rather than do it on sites, underneath the articles that got them thinking or outraged in the first place.
+
+From what I understand, it’s a small team at Disqus, only around 55 people, so cuts like these don’t come lightly. Good luck to them all.

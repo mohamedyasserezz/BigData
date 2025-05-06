@@ -1,0 +1,11 @@
+Simplenote, the planet’s most useful piece of software, is now open source on iOS, macOS and Android
+
+If you’re not usingSimplenote, you’re missing out. This… well, simple note app has been a standby and lifesaver for me for years, though occasionally I have worried about its future: Will it survive ifAutomattic,which bought it back in 2013, goes under or gets bought itself? What if the servers go down? Is there a god, and if so, does he or she use Simplenote, too?
+
+At least a couple of those worries are alleviated with the news that Automattic isopen-sourcing the Simplenote appson iOS, Mac and Android. The Windows app was already open, so this doesn’t come as a total surprise, but it’s still good news.
+
+The code is on GitHub, licensed under GPLv2. It’s hard to say what could really be improved about the app, at least the functions that I use regularly, but it’s more than possible that it could do those core functions more securely or efficiently. So, code monkeys, get grooming!
+
+Notably, the server-side code isnotbeing open-sourced, so that part remains in Automattic’s control — though it too may join its friends in FOSSworld in the future. But for now, you won’t be able to totally clone the service onto your own servers.
+
+If you haven’t tried Simplenote, you really should. It’s just cloud-synced text documents, and it’s so much simpler and more lightweight than something like Evernote (which daily grows larger and more cumbersome) that I use it for just about everything, from shopping lists to the Great American Novel.

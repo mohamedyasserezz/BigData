@@ -1,0 +1,31 @@
+Pat launches private beta to help AI understand what you say
+
+How many times have you wanted to throw your phone out the window of your car because Siri couldn’t understand the most basic phrases?
+
+Call Cheryl, no Vyshakh. Siri calls Cheryl anyway. Then a 20-minute argument develops with a series of “Hey Siri” commands followed by a string of unwanted Google searches and maybe even an iTunes song.
+
+I personally gave Siri a British accent in hopes that would somehow change things. It didn’t.
+
+CEO Wibe Wagemans, along with co-founders John Ball and Beth Carey, want to help AI actually understand what you say with their new company,Pat. Wagemans previously was President of Indoor Atlas,a company developing indoor mapping technology.
+
+Just as there is more than one way to skin a cat, there are numerous theories for how to enable artificial intelligence to better understand language. Pat’s approach of combining role and reference grammar (RRG) with a neural network is just one of those approaches.
+
+Large tech companies like Apple, Google, Amazon and Microsoft have invested billions of dollars into artificial intelligence research. Apple’s Craig Federighimade a point of mentioning the company’s useof long short term memory (LSTM) at WWDC. LSTM frameworks help AI better remember conversation history to make word and phrase recommendations within context.
+
+Wagemanswants to leverage linguistics work put forwardby William A. Foley and Robert Van Valin, Jr., over 30 years ago. Both Foley and Van Valin are involved in Pat helping to put their RRG theory to use in AI by applying a unique neural net.
+
+The RRG model focuses on the meaning behind words at the word level. The analysis forms a sort of middle layer of abstraction in the analysis of language. By focusing on meaning, the team will be able to implement a language-agnostic AI.
+
+Amy Du, CEO of DefinedCrowd, agrees that natural language understanding is a relevant focal point for future advancements in AI.DefinedCrowd provides crowd-sourced data to fuel machine learning.
+
+Du stressed that we need to maintain realistic expectations in AI. Any serious advancements are going to require significant investment. Language is constantly evolving and our technology must evolve with it. New words and phrases become part of our lexicon on a daily basis.
+
+M&A activity in the AI space has been nothing short of fire. Google nabbed British AI startup Dark Blue Labs in 2014. Notably,Dark Blue Labs had a strong connection to academics at OxfordUniversity. The acqui-hire strategy is all too real in this space for large tech companies.
+
+Wagemans said Pat is unlikely to partner with a single company with its technology.
+
+“This is even too big for one single partner,” said Wagemans.
+
+Pat has bootstrapped its operations so far with $2.5 million and is looking to raise $3 million more, according to a pitch-deck from the company. Approximately a dozen people are working on Pat. A portion of the team are part-time linguistics students.
+
+The company is starting off with a private beta. For now, the AI most of us interact with on a daily basis will continue to operate with the cognitive abilities of a young child deprived of human interaction. Every new approach brings with it the chance of ending our frustration and preventing a few phones from being intentionally destroyed in the process.

@@ -1,0 +1,113 @@
+Overdosing on VC: Lessons from 71 IPOs
+
+Venture capital is ahell of a drug. Used properly, it’s like adrenaline energizing many of the greatest companies of the past fifty years. Used incorrectly, it creates toxic dependencies.
+
+The conventional wisdom in the startup community is that when building the very best companies, more capital can be leveraged to accelerate even greater growth. But does this “go big or go home” approach stand up to scrutiny? In the best case scenarios, do companies that load up on venture capital actually outperform those that more efficiently deploy capital?We looked at 71 tech IPOs from the last five years to find out.
+
+AtFounder Collectivewe’ve been talking to our community about the virtues of what we call “efficient entrepreneurship.” We’ve written recently about the downsides of heavily funded companies, including the loss of exit optionality, and perils ofunsustainable burn rates, but how does aggressive venture capitalization look on the upside? By studying the best cases of venture capital success, what can we learn about the benefits of raising lots of money?
+
+The results were surprising – by examining the technology IPOs of the past five years, we found that the enriched (well capitalized) companies do not meaningfully outperform their efficient (lightly capitalized) peers up to the IPO event and actually underperform after the IPO.
+
+Raising a huge sum of money is a requirement to join the unicorn herd, but a close look at the best outcomes in the technology industry suggests that a well-stocked war chest doesn’t have correlation with success.
+
+Of the 20 most successful publicly-traded startups over the past five years (measured by current market cap), 14 raised in the neighborhood of $100M or less. Six raised less than $50M. One raised no capital at all. These are shockingly small amounts of money when you consider the median privately-funded unicorn has raised$284 million dollars.
+
+Evaluating startup performance is a messy business. Late stage companies are rightfully secretive. Acquisitions are messy financial affairs often engineered to obfuscate the true value of a transaction. The IPO market was the most transparent proxy we could find, and while imperfect, it is instructive. With notable exceptions, most of the biggest outcomes in venture capital are a result of IPOs. By studying the relationship between venture capital and IPOs of the past five years, we can get an idea of whether raising more capital in the best companies correlates to better outcomes.
+
+The data includes 71 companies that raised a total of $10.2B in venture capital
+
+Their combined market cap is $566B, or 55X the capital invested
+
+The average startup on the list raised $144M in VC to build a company worth $7.9B
+
+The median startup on the list raised $79M in VC to build a company worth $1.8B
+
+Setting Facebook Aside
+
+Acknowledging that there is only one Facebook and that it is an extreme outlier among outliers, we excluded the company from most of our analyses. Absent Facebook, the overall numbers still look pretty strong, but it is astounding to see how much one company skews the totals:
+
+70 companies that raised $9.6B in venture capital
+
+Their combined market cap is $202B, or 21X the original investment
+
+The average startup raised $137M to build a company worth $2.8B
+
+The median startup on the list raised $79M in VC to build a company worth $1.8B
+
+Exclusions
+
+We only looked at companies that held IPOs between 2011-2015. It would be interesting to go back further than five years, but it is also instructive to examine what is effectively the “unicorn era” in which private companies raised unprecedented amounts of capital. We excluded companies that were founded prior to 2000 (e.g. GoDaddy, FirstData), companies with unorthodox financing paths (e.g. Match Group, RetailMeNot), and companies in Asia and Russia, because they have significantly different financing environments. The result is a dataset,available for review, that includes 71 companies. Most of the data was taken fromCrunchbase, except where noted.
+
+We also excluded late-stage private equity, secondary offerings, and debt from the calculations, though they are recorded in the spreadsheet. We were less interested in the money raised in the IPO, as we viewed as a graduation point from the venture capital game and is largely a direct function of company size. The data certainly contains imperfections, though we did our best to get it right, and we’re open to feedback on the dataset, which is why we’re making it public.
+
+This data might suggest that “go big or go home” makes some financial sense, especially for investors. The most heavily funded companies do have larger total dollar returns. Counted together, the 20 best funded companies on the list raised $6.7B in VC and have an aggregate market cap of $62B, for a ~9X return.
+
+The 20 least funded companies on this list only raised $623M in VC, yet managed to return $48B to investors, or an 77X return.
+
+That’s a $14B dollar difference in aggregate returns. That’s non-trivial, especially to VC as an asset class. However, ~$12B of that difference is accounted for by Twitter, who raised a little less than a billion dollars in VC. So aside from those Facebook and Twitter, venture capitalists spent ~$5B to make an incremental $2B. It’s important to note that the stock market is volatile and that over the course of writing this post, the 20 most enriched companies have fluctuated dramatically. Still, the variance is usually driven by one or two outlier companies.
+
+It is true that there are a few companies founded each year that drive the bulk of the returns. It is also true that in the case of only a couple of outliers (Facebook and Twitter), heavily funding the best companies is a winning strategy for investors. However, It is not clear that VCs have been able to consistently identify the best performers and have instead overfunded even the most successful companies.
+
+This isn’t a knock on the VC model—it’s an asset class predicated on risk. The best firms in our industry have shown an ability to run this high risk playbook over many funds.
+
+It should be a lesson for founders though. Companies like Facebook and Twitter are critical for the health of the ecosystem, but are not a good model for other startups. Unless a founder is very confident that they are building the next Facebook scale business, they would be better served focusing on creating higher multiples instead of a higher exit value.
+
+VC can afford to risk overfunding a dozen companies in order to be a part of the epoch-defining winners, but entrepreneurs only have one shot. As a founder, are you willing to take 4X more risk for what, even in the best cases, results in a 24% premium? That’s basically what the companies on the top of this list did:
+
+The median enriched startup raised $193M to build a company worth $2.1B
+
+The median efficient startup raised $37M to build a company worth $1.7B
+
+The financial calculus for founders is even worse than it appears. Incremental funding will probably come with extradilution,and pre-IPO preferences that will favor the VCs if the startup’s hot streakfaltersand it doesn’t get public. Beyond the magnitude or risk, more capital limits the number of possible exit paths. The founders of 20 most efficient companies likely could have successfully sold their companies at any pointalongtheir development for a healthy return. Their enriched counterparts are locked into billion dollar exits with diminishing returns on capital.
+
+Is this actually the best model for VCs?
+
+It’s conventional wisdom in the VC market that investors should heavily lean into their winners, but are you better off doubling down on winners for diminishing returns or funding a new crop of startups with the potential to return 10, 20, or 30X?
+
+The most enriched companies raised $567M to return $3.5B or 6X
+
+The most efficient companies raised $12.9M to return $2.8B or 218X
+
+The most enriched companies raised 44X more money to get a 25% better return
+
+Market value at the IPO is important because it is often a marker of the venture capital exit value, but it’s also interesting to consider how these enriched companies compare to their efficient peers in the long term as public companies. Does instilling a sense of fiscal restraint early, where growth comes from disciplined customer acquisition, not a venture capitalist’s checkbook, lead to more sustainable businesses?
+
+It turns out the efficient companies have performed significantly better as public companies than the enriched group:
+
+Though it’s a ridiculously small sample, look at companies that raised an objectively large sum of money—say over $200M (nine companies in this sample), versus an equal number at the bottom of the list. The results are staggering:
+
+The 20 most efficient startups have appreciated by 89% since their IPOs
+
+Their enriched counterparts only grew by 22% in the same period.
+
+Our hypothesis is that too much capital over time creates a culture that substitutes cash for creativity and operational discipline. Big balance sheets allow companies to grow inefficiently, to paper over problems with headcount and spend, rather than confronting the core engine of value creation. Having less money forces a management team to make hard decisions early on and to cut off potentially wasteful problems that otherwise could linger indefinitely. This efficient ethos becomes part of the long term culture of productive performance that is difficult to infuse in the enriched companies that never operated in a constrained way.
+
+There is a fair counter-argument that the enriched cohort had higher valuations at the time of the IPO and that the value was captured by private market investors rather than public investors. While possibly true, entrepreneurs and VCs should consider the implication of this argument is that public market investors may apply significant discounts to theincreasingly large unicorn clubthat has raised large amounts of private capital prior to an IPO.
+
+It’s important to take a step back and consider how surprising this data set really is. The venture capital industry accepts as an assumption, that in the best outcomes, more money accelerates more success. Some would argue that it’s nearly impossible for a true winner to be overcapitalized – these companies are reinvesting the capital into their success economic engines after all. Capital gives you the ability to make more investment in drivers of the business – talent, R&D, customer acquisition, etc. Intuitively, it makes sense that enriched companies should do better than their lightly funded counterparts.
+
+We would have expected to see correlation in these numbers and be debating the embedded causality assumption that we assume in the venture industry.  In other words, we’d expect to debate whether the money caused the success (causality), but take for granted that the most successful companies were in a position to raise the most money (correlation with unclear causality).
+
+It’s shocking that no meaningful correlation is present in the data. Although the best performing companies are in the best position to raise the most capital, they don’t necessarily do so.
+
+With the exception of a few critical outliers, the better funded companies aren’t meaningfully bigger or better performing and actually become worse public companies. VC is an outlier business, a vocation premised on volatility, but the fact that highly-funded companies aren’t clearly outpacing their cash-restricted competitors shows there is a point of diminishing returns for capital even among the very best companies. The data suggests that VCs struggle to understand where that point is. The adage in VC has been that there are only 15 companies born every year that matter. If loading cash into companies is your game as a VC, it appears that there are only 2 companies over the past 5 years that actually mattered.  That’s a nearly impossible game to play.
+
+Looking at the data, 15 of the 20 best performing startups of the last five years raised less than $125M from venture capitalists. (We’re including Wayfair in this tally, which didn’t raise any capital for the first 10 years of the company’s life and whose deal was more akin to late stage private equity). Four, Atlassian, Shutterstock, Textura, and SkullCandy succeeded with no venture capital whatsoever. Splunk and Palo Alto Networks, combined, raised approximately $105M and currently have a shared market cap greater than $20B. Groupon and Zynga each raisedmultiple$100M+ rounds, nearly $2B in total, and are currently worth ~$5B.
+
+We know this analysis is imperfect. Some of the companies that IPO’d in 2015 haven’t yet reported four quarters as public companies and even if enriched with VC, might have more positive long term results. Still, this data should give founders and VCs pause. Though increasingly unfashionable in the unicorn era, it is quite possible, and perhaps even advisable, to build a billion dollar publicly-traded company with under $50M in venture capital.
+
+Looking at the data, 15 of the 20 best performing startups of the last five years raised less than $125M from venture capitalists. (We’re including Wayfair in this tally, which didn’t raise any capital for the first 10 years of the company’s life and whose deal was more akin to late stage private equity). Four, Atlassian, Shutterstock, Textura, and SkullCandy succeeded with no venture capital whatsoever. Splunk and Palo Alto Networks, combined, raised less than $100M and currently have a shared market cap greater than $20B. Groupon and Zynga each raisedmultiple$100M+ rounds, nearly $2B in total, and are currently worth ~$5B.
+
+Fundraising is a strategic choice that needs to be as carefully considered, just like your product roadmap, marketing strategy, or hiring plan. Unfortunately, entrepreneurs tend to make funding decisions opportunistically, or even worse, out of a sense of pride or false validation.
+
+If you’re enjoying success, money will be thrown at you. It’s flattering and having a strong balance sheet can be a good thing, but it does limit optionality and creates more difficult exit paths. Capital is rarely your biggest constraint or the biggest opportunity in front of you. Worst of all, the evidence shows that there is a limit to how much your balance sheet will help the long term value of your company even in the very best outcomes. Putting this data set in perspective, while the enriched companies underperformed, they were modestly financed compared to today’s unicorns.  Our median enriched company (top 20 in terms of capital) raised $193M before going public. Today’s unicorns sit at a median of $284M in capital raised and they may yet need to raise more money to reach the public markets. Our data suggests that this is not a positive sign for long term success. Buyers beware!
+
+The point of this isn’t to encourage bootstrapping; nor is it celebrating slow growth. We’re not advocating a “Just Say No” position on raising venture capital – we’re VCs after all. Though some companies are able to achieve huge success without fundraising at all, they are very unusual. Startups don’t get bonus points for trying to build a company on hard mode.
+
+The founders of these efficient startups had the same ambition and hunger to build businesses as their enriched counterparts. They just did a better job of it. These more efficient entrepreneurs are building real, international multi-billion dollar organizations with far less risk and likely own much more of their companies. The surprise in this analysis is that it appears likely that being capital constrained to some degree was helpful, not harmful, in that journey.
+
+The mystique of entrepreneurship used to be in the magical act of making something from nothing. Now, we celebrate founders who act like banks by raising huge sums from venture capitalists. We think this is unhealthy and needs to change. While the startup market has been flooded with capital, founders don’t need to raise huge sums to be successful, and it seems that even in the highest upside cases, raising less money leads to better companies. Yet today, most founders are convincing themselves to take the opposite approach.
+
+We’re making an argument for the efficient use venture capital, not against the use of venture capital. Venture Capital is an essential ingredient in the success of many startups, and there are rare times when adding huge amounts of capital is justified. But like most drugs, there is a time and place for their use and the side effects should be clearly noted to potential users.
+
+Our portfolio contains a number of companies that have followed the enriched model and others that were so efficient that they seemed fueled by the scent of a petrol soaked rag. The advice for both is the same. Think about how you would run your company differently if the money in the bank was the last you’d ever get? The answer to that question could make you a billionaire.

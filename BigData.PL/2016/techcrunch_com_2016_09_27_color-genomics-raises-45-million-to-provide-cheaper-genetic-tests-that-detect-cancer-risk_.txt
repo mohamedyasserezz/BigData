@@ -1,0 +1,31 @@
+Color Genomics raises $45 million to provide cheaper genetic tests that detect cancer risk
+
+Othman Laraki and Elad Gil were sitting on Twitter’s roof deck after their previous company Mixer Labs had been acquired. Gil had brought a small hard drive with him — which happened to contain data on his genome being sequenced — and Laraki wanted to take a look at the data.
+
+That led to the original hypothesis of Color Genomics: what if you could apply the same principles of data science and deep learning to analyzing the human genome, bringing the cost of scouring our information for signs of cancer and other potential problems and making it more widely available?
+
+Fast forward a few years later and the pair, along with co-founders Taylor Sittler and Nish Bhat have started and are running a genomic testing company, Color Genomics. The company today said it has raised an additional $45 million in capital in a round led by General Catalyst Partners, with new board members Hemant Taneja (of GC) and Susan Wagner (co-founder of Blackrock and also on the board of Apple).
+
+“We’re living through that transition into really starting to use this massive amount of data in the actual delivery of care process,” co-founder Laraki said. “It’s kind of funny when we take our cars to get an oil change they probably pick up more info from the car’s computer than our bodies when we go see the doctor. That transition I think is one of the big things that’s happening, what I think is really exciting about this timeline, we are living through that massive addition of data into how we think about care and prevention and such.”
+
+Right now, Color Genomics is focusing on testing for mutations that can lead to a higher risk for cancers, like ovarian, breast, prostate and colon cancer. If the patients know that they are higher-risk, they can practice the best-known methods to help prevent those cancers from getting worse, such as getting regularly tested — in the case of colon cancer, regularly getting colonoscopies.
+
+Color Genomics patients provide the company a saliva sample, which is tested with a combination of in-house scientists and software engineers that dig through the data available from those tests in order to find mutations that can lead to a higher risk of cancer. The data collected is shipped off to cloud servers to crunch through it.
+
+There’s an incentive for companies and other payers to get these kinds of tests. While the current test costs $249, if a payer ends up covering part or most of the cost, in the long run detecting risk for cancer and intervening can lead to an incredible cost savings for payers. If you’re a company covering medical insurance, it makes perfect fiscal sense to offer — and encourage — employees to regularly get these kinds of tests done.
+
+“For companies in many ways, they wear multiple hats,” Laraki said. “They’re payers, they’re covering the cost of cancer treatments which is very expensive. Preventing late-stage cancer once pays for an entire program. In addition they’re obviously very deeply aligned with the well-being and the actual outcomes for their population. For them it ends up being this double-value where it has a very direct ROI but in addition the employees and families are very grateful and happy to have access to something like this.”
+
+A recurring question during the meetings with Taneja as the company was looking into this recent financing round was how Color Genomics could make a test like this accessible to tens or hundreds of millions of people. That would prove the big question to the riddle as to whether a genetic testing company like this could be a profitable enterprise in addition to working to build tests that scan for dangerous mutations.
+
+“I don’t think you can subsidize your way to something that’s accessible to a full population,” Laraki said. “Having something that’s truly worthwhile from a payer standpoint, government or company, that if you invest X and get more than X back out — turning that and demonstrating it’s ROI positive, that’s a big piece there.”
+
+As part of extending the test’s reach into additional markets — and people — Color Genomics is launching a program that offers family members of people who have paid for tests an option to also get tested for $50. If someone ends up being a carrier of a mutation that can lead to a higher risk of cancer, that mutation came from somewhere in the family tree, and identifying who else possesses it can also help them potentially intervene before things get worse.
+
+Of course, relative to any kind of genetic testing — or any medical-related testing — is the overcast of the fallout from the Theranos scandal. What Laraki says is that the company applies many widely used standards and robotics, in addition to being highly transparent and publishing its validation data and working with well-known scientists.
+
+There are, of course, potential competitors that could arise. Genetic testing startups like 23andMe and Ancestry.com, which Laraki says focus more on “recreational” understanding of the human genome and a person’s background, could decide to branch into an area like this. Laraki says the company’s deep focus initially on detecting risks for cancer and application of data science is what will eventually lead Color Genomics to being a full-fledged company. And if they’re successful, they can potentially grow into other kinds of operations.
+
+“Part of the conversation was, what happens when you assemble truly world class software engineering team to work on this information, what can we do for people,” Laraki said. “If we can drop the cost of these tests by an order of magnitude, do we fundamentally change the math around clinical genetics. Not the recreational genetics, but clinical stuff. We’re really focused on building the infrastructure to make that possible, proving to ourselves that was something that would work.”
+
+Color Genomics launched its first product about a year ago, and has in total raised $60 million.

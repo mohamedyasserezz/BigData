@@ -1,0 +1,41 @@
+Is Section 702 on the verge of reform?
+
+A controversial law that authorizes the government’s bulk collection of internet data is being tested in a federal appeals court, giving anti-surveillance advocates hope that reform might be on the horizon.
+
+The 9th Circuit of the U.S. Court of Appeals heard arguments last week about the warrantless surveillance of an American, Mohamed Mohamud. Mohamud was convicted ofplanning to bomb a 2010 Christmas tree-lighting ceremonyin Portland — the plot was part of an FBI-facilitated sting operation — and is currently serving a 30-year prison sentence.
+
+The appeals case provides a rare proving ground for the law that props up vast NSA surveillance because Mohamud is one of the few criminal defendants who knows for certain he was targeted under theFISA Amendments Act(FAA). Roughly a year after his conviction, Mohamud’s lawyers were informed that their client was surveilled under the FAA. His legal team, along with the ACLU and EFF, has since argued that the surveillance violated Mohamud’s Fourth Amendment rights.
+
+“The Supreme Court has emphasized that a surveillance statute is reasonable only if it is precise and discriminate. The FAA is neither,” lawyers from the ACLU and the EFF wrote in anamicus brieffiled in Mohamud’s appeal.
+
+ACLU staff attorney Patrick Toomey argued his case before a three-judge panel in the 9th Circuit last week. But he had barely begun his argument about the constitutionality of FAA surveillance when Judge Carlos Bea, one of the three judges hearing the appeal, cut him off.
+
+“Is your argument based on the premise that even though the government legally procured information through the use of 702, once it had information on a U.S. person, it should not look at it?” Bea asked, adding, “Humor me, accept that as a premise. Accepting that the government procured the communication within the bounds of the Constitution and the statute, once it had that information, it cannot rummage around in that database?”
+
+Still, Toomey is optimistic that the court could issue a ruling that imposes limits on the FAA, particularly on Section 702, which allows the U.S. government to surveil foreigners outside of the U.S., regardless of whether they are suspected of a crime or have a connection to terrorism. Critics say that Americans’ communications are often vacuumed up along with those of foreigners. The law will be up for reauthorization in 2017, and Mohamud’s case — and the court’s ruling on it — have the potential to drive reform.
+
+“I think reform is definitely possible,” Toomey told TechCrunch after the hearing. “Just as we saw with the USA Freedom Act, the courts have a role to play in shaping the law around surveillance and the public discussion of it.”
+
+Even though Judge Bea questioned him on the premise that Section 702 is unconstitutional, Toomey said he was encouraged that the court agreed to hear from the ACLU and the EFF in the first place. “It’s clear they understood the significance of the issue,” Toomey said of the judges.
+
+Although the FAA has withstoodlegal challengesbefore, Mohamud is the first defendant to mount his own appeal. The Supreme Court paved the road for Mohamud’s appeal in 2013, when it declined to hear an ACLU case challenging FAA surveillance because the ACLU could not prove that it had been targeted under the law. Mohamud is one of the few Americans who can definitively claim to have been subject to FAA surveillance — and so he is one of the few Americans who can challenge it. (A similar case is also playing out in the 2nd Circuit; the defendant, Agron Hasbajrami, was informed after his conviction thathe was also a target of surveillanceunder the FAA.)
+
+Mohamud’s first brush with the FBI came just weeks after his 18th birthday, according toBuzzFeed. The teenager had threatened to run away to Yemen, and his father called the FBI in a desperate attempt to prevent Mohamud from leaving the country. Meanwhile, his mother found him hanging out at a playground — but the damage was done. An FBI agent checked Mohamud’s email address in a database and discovered that he had been in contact with Samir Khan, the editor of several extremist magazines. Khan was the subject of an FBI investigation — and so Mohamud became one as well.
+
+The FBI placed Mohamud under physical surveillance, added him to a no-fly list, and had undercover agents posing as militant recruiters contact him. The agents say that Mohamud proposed planting a bomb during one of their early meetings.
+
+It’s still not clear exactly what information the FBI obtained about Mohamud using FAA-authorized surveillance. It may have been his communications with Khan, but the prosecution refused to clarify this point during Mohamud’s trial. Mohamud’s defense team complained about this secrecy during trial, saying that it sought “suppression of unknown evidence […] gathered at unknown times by unknown means by unknown persons and agencies operating under unknown protocols,” BuzzFeed reported.
+
+But whatever the evidence was, it may be enough to overturn Mohamud’s conviction. If the 9thCircuit finds that Mohamud was the target of unlawful surveillance, some of the evidence against him could be thrown out. Mohamud’s lawyers have argued that he was entrapped by FBI agents, convinced to commit a crime that he would not have attempted on his own. Prosecutors have countered that Mohamud’s communications with Khan showed he was predisposed to terrorism and would have pursued it without the FBI’s influence. If the appeals court finds that Mohamud’s emails were illegally obtained, it could strengthen his entrapment defense.
+
+Because of the complex legal issues entangled in Mohamud’s case, some advocates believe that the 9th Circuit may not focus on the FAA issues in its ruling.
+
+“If people raise legitimate questions about this program and show why it’s overbroad, why we’re failing to meet our human rights obligations, we may have some luck convincing people that the statue needs to change. It will be an uphill battle,” Jadzia Butler, a privacy fellow at the Center for Democracy & Technology, told TechCrunch.
+
+Butler isn’t bullish that the 9th Circuit will drive reform: “It probably won’t, is my guess,” she said. “It’s a three-judge panel and two were more focused on evidentiary issues.”
+
+Ideally, any reform of FAA would narrow the kinds of information that can be collected and would prevent backdoor searches for Americans’ data, Butler says.
+
+“The minimization procedures also permit the government to conduct so-called ‘backdoor searches,’ in which the government searches its repository of FAA-collected communications specifically for information about U.S. citizens and residents — like Mr. Mohamud — including for evidence of criminal activity,” ACLU and EFF lawyers argued in their brief. “These kinds of queries are an end-run around the Fourth Amendment, converting sweeping warrantless surveillance directed at foreigners into a tool for investigating Americans in ordinary criminal investigations.”
+
+Even if the 9th Circuit ultimately doesn’t impose restrictions on government surveillance, reform may come from Congress. The Senate Judiciary Committee began itsreview process[pdf] of Section 702 in May, and some senators believe that changes to the law are necessary. “Additional reforms are needed to protect Americans’ privacy, and restore global trust in the U.S. technology industry,” Senator Patrick Leahy said.

@@ -1,0 +1,19 @@
+Intel buys computer vision startup Movidius as it looks to build up its RealSense platform
+
+Intel’s RealSense platform was the star of its Intel Developer’s Forum conference in San Francisco last month and it seems the company is only looking to grow the scale and capabilities of its computer vision tech. Today, the company announced that it is acquiring the computer vision startup behind Google’s Project Tango 3D-sensor tech,Movidius.
+
+In ablog post, Movidius CEO Remi El-Ouazzane announced that his startup will continue in its goal of giving “the power of sight to machines” as it works with Intel’s RealSense technology. Movidius has seen a great deal of interest in its radically low-powered computer vision chipset, signing deals with major device makers, including Google, Lenovo and DJI.
+
+The eight-year old company has about 180 employees with offices in Silicon Valley, Ireland and Romania. The company had raised $86.5 million in funding across several rounds from investors including Summit Bridge Capital, Capital-E, DFJ and Emertec Gestion amongst others.
+
+Terms of the deal were not disclosed.
+
+“We’re on the cusp of big breakthroughs in artificial intelligence,” wrote El-Ouazzane. “In the years ahead, we’ll see new types of autonomous machines with more advanced capabilities as we make progress on one of the most difficult challenges of AI: getting our devices not just to see, but also to think.”
+
+The company’s Myriad 2 family of Vision Processor Units are being used at Lenovo to build the company’s next generation of virtual reality products while Google struck a deal with the company to deploy its neural computation engine on the platform to push the machine learning power of mobile devices.
+
+At its recent IDF developers conference, Intel made major announcements related to its depth-sensing RealSense platform, including a new virtual reality platform calledProject Alloy, feature upgrades to its autonomous drone piloting and other initiatives aimed at enhancing computer vision in consumer and enterprise devices.
+
+Intel wants to get its RealSense sensor tech in as many devices as possible and a major key is keeping the power usage low enough to appeal to a broad array of devices. Movidius gives Intel an in to get its sensor tech on low-powered mobile devices. Movidius’s SoC claims a sub-1 Watt power budget, a rate much lower than competitors.
+
+“We see massive potential for Movidius to accelerate our initiatives in new and emerging technologies,” said Josh Walden, Senior Vice President and General Manager of Intel’s New Technology Group. “The ability to track, navigate, map and recognize both scenes and objects using Movidius’ low power and high performance SoCs opens up opportunities in areas where heat, battery life and form factors are key.”

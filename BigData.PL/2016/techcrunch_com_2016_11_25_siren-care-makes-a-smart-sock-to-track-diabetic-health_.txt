@@ -1,0 +1,23 @@
+Siren Care makes a “smart” sock to track diabetic health
+
+Diabetic health tracking startupSiren Carehas createdsmart socksthat use temperature sensors to detect inflammation — and therefore injury — in realtime for diabetics.
+
+Co-founder Ran Ma was working on growing biomass to grow back skin that had been damaged while at Northwestern University when she started learning how to treat diabetic feet and thought of making a wearable that could track and prevent injuries.
+
+Both type 1 and type 2 diabetes patients are prone to foot swelling, among other foot issues and it can lead to some serious problems such as infection or amputation of the foot if not checked. Early detection is crucial to head off any serious complications and Ma and her co-founder Veronica Tran believe built-in sensors are the key.
+
+But Siren’s socks aren’t the first wearable to aim for detection of a diabetic foot injury.SurroSense Rxis a wireless shoe insert for diabetics and the PressureGuardian fromTillges Technologiesis a boot designed to detect issues as well.
+
+But a boot is cumbersome and Siren’s socks are closer to the skin than a foot pad in your shoe. The sensors are woven into the fabric of the sock to detect when there is inflammation. All information is then uploaded to an app on your smartphone to alert you to an issue.
+
+All data is stored on the sock, on the app and in the cloud and when the sock detects a high-temperature difference — meaning there’s an injury of some sort to the foot — the app will send you an alert to check your foot.
+
+“It could be something as simple as you have a shoelace tucked into your shoe and don’t feel it and you can get an injury from that,” says Ma.
+
+Although these are wearables, there’s no need to charge the socks. Each sock comes with a full battery built to last for the whole six months lifespan. Siren says the socks are only “on” when you are wearing them and goes into deep sleep mode once you take them off. They’re also machine washable and built to endure at least the six months your supposed to wear them.
+
+Siren’s co-founders also have bigger plans than just temperature detection. “OurSirenSmart Textile technology is able to incorporate a number of sensors and electronics, including moisture sensors, pressure sensors, light sensors, LEDs, RFIDs, MCU, BLE, etc seamlessly into fabric,” Ma tells TechCrunch.
+
+That means in the future the company could make other smart textiles to detect injury in other parts of the body as well.
+
+Siren came out of 500 startups batch 18 and will start shipping its socks in the spring. You canpre-ordernow and Siren will start sending you a pair of seven socks (one for every day of the week) every six months when it’s ready to ship.

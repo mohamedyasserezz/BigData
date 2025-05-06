@@ -1,0 +1,29 @@
+Mobile security startup Appknox lands funding to focus on Southeast Asia
+
+Bugs be gone! That’s the philosophy behindAppknox, a mobile security startup from Singapore which has raised $640,000 in a pre-Series A funding round.
+
+The deal is particularly notable since it is the first public investment from SeedPlus, a new fund fromSingapore’s Jungle Ventureswhich is focused on early-stage deals.SeedPlus was announced in Mayand isrun by executives hired from Spotify, Evernote and SingTel-backed streaming service HOOQ.
+
+Formed by a trio of bug bounty hunters, Appknox has been around since 2014 but it only released its service one year ago. The company graduated the JFDI Asia accelerator program in Singapore in 2014 and later the Microsoft Accelerator in Bangalore, but this is the first time it has raised any formal capital.
+
+The company offers a software platform that is designed to help developers and startups easily spot vulnerabilities within their software and apps. Developers simply load their apps into the backend — just dropping an App Store or Google Play URL is enough — and it is then run on cloud-based emulator to stress test vulnerabilities.
+
+The level of service ranges from a set of standard-level checks, which can run inside 10 minutes, to deeper probing using both algorithms and human prying. Pricing is upwards of $799 per month depending on requirements.
+
+“The objective is to help developers and companies identify and fix security problems without being experts. Most companies don’t have a dedicated security team, and in those that do there can be tension between developers and security teams,” Prateek Panda, Appknox co-founder and CMO, told TechCrunch in an interview.
+
+“We can reduce security testing times from two weeks to a few days,” Panda added. “In less than 10 mins, developers can get details on a lot of automated test cases, so by the time you go out and grab a coffee there are some test cases to look at. But we will never do away with [the] human part… human testing makes sure an app is fully secured.”
+
+The company initially targeted the market in India after finding a product fit while in the Microsoft program. While it counts “almost all the major e-commerce and payments” companies in the country among its roster of 70-plus clients — which includes BigBasket, Redmart and HOOQ — Panda said that the lack of interest in security from the Indian tech community triggered a refocus on Singapore.
+
+“In the mobile security space, India is not a hot market, Singapore is far more mature —  businesses take security much more seriously,” he explained. “We’re helping set up operations and explore the market in Southeast Asia, we’re look forward to spending more time and money on deeper analysis and systems.”
+
+Appknox started out as a team of three hackers, but today it has 22 staff who are mainly based in India. Panda said the company is working to raise a Series A round in the next 6-8 months.
+
+He admits that security-as-a-service isn’t particularly well known in Southeast Asia, but the team draws inspiration from U.S.-based companies like Veracode, which hasraised over $110 million from investorsand is tipped to go public in the near futurehaving abandoned a listing last year. Veracode has been around for more than a decade, but Panda said Appknox has already nabbed some of its clients to outline its potential.
+
+He added that Appknox is keen to establish a U.S. testing base in the future, but for now it is in talks to build relationships with universities in the U.S. and Singapore to help tap into new talent.
+
+The founders may not have time to chase bug bounties anymore, but it is positively encouraged among staff. One of their most significant finds to date was a vulnerability inside Indian Uber rival Ola,unearthed in February.
+
+“We know so many ways to buy free ticket, free cabs, free food, etc,” Panda joked — but you suspect that there is a lot of truth behind that.

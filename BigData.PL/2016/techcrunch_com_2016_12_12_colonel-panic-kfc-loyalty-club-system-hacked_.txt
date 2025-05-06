@@ -1,0 +1,15 @@
+Colonel panic: KFC loyalty club system hacked
+
+Did someone order their chicken extra risky? KFC has alerted members of its Colonel’s Club loyalty system in the U.K. that its website had been targeted and several accounts potentially compromised.
+
+The 1.2 million members of the club, who can earn and cash in “Chicken Stamps” over repeated visits to the restaurant chain, were alerted by email of the intrusion. They were advised to change their passwords and, if the old passwords were shared with any other sites, to change those as well.
+
+This suggests that the finger-clickin’ good attacker may have had access to password data in one way or another, either through internal databases or by snooping on improperly secured login exchanges. I’ve asked the Colonel for more information on the nature of the hack, what measures the company will be taking to better secure its services and the accuracy of recent leaks describing the exact composition of the legendary 11 herbs and spices.
+
+KFC responded shortly after this post went live with this soothing statement:
+
+We take the online security of our fans very seriously, so we’ve advised all Colonel’s Club members to change their passwords as a precaution, despite only a small number of accounts being directly affected. We don’t store credit card details as part of our Colonel’s Club rewards scheme, so no financial data was compromised.
+
+Update: KFC elaborated on the hack itself at my request:
+
+As a result of automated software attempting to guess Colonel’s Club members’ passwords, we have implemented changes to our back end and front end systems. One thing customers may notice is the addition of reCAPTCHA on the website, which is used to distinguish between human and software login attempts.

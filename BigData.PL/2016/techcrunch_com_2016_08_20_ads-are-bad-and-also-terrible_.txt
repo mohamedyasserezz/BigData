@@ -1,0 +1,37 @@
+Ads are bad, and also terrible
+
+Every so often, I find myself forced to use the Web on a browser without uBlock or an equivalent; and every time, I think to myself “How do people live like this?” The un-ad-blocked web is a miserable cesspool of autoplaying video and hysterical calls to action, slow to load, hard to look at. It’s even worse on your phone, where ads devour your battery life andup to 75% of your data.
+
+Apple, to their credit, supports ad blockers for Mobile Safari. But Google? Yeah, not so much. You can run a separate browser, such asBrave. You can run through a proxy, or reset your DNS to use an ad blocker likeOptimal. But you can’t just add an ad blocker to Chrome for Android. Surprising that a company with Google’s technical chops hasn’t made that possible yet.
+
+…Or maybe it isn’t so surprising. After all, most of Google’s money comes from display and search ads. Perhaps relatedly, Apple also makes it pretty easy to change DNS settings on iOS: it’s a much bigger pain on Android, whether via the Wi-Fi settings orprogrammatically.
+
+The fundamental problem is that users hate ads but sites need ad money. The most interesting initiatives in the ad-blocking world are the two I mentioned above, Brave and Optimal, because both are trying to attack this root problem.Bravereplaces “bad ads” with “good ads” that don’t track or annoy users, with a long-game eye on replacing ad revenue with micropayments.Optimalwants to replace ad revenue with subscription payments shared across all sites that Optimal’s users visit.
+
+Ad blocking have become a big enough deal to have gotten Facebook’s attention: the social giant is nowblocking ad blockers, while promising to make the ads their users see nicer. As Josh Constineputs it, “Facebook thinks if it can make its ads non-interruptive, fast, and secure, people won’t mind.”
+
+Now, this has attracted a lot of amused skepticism:
+
+Shorter Facebook: "We've decided to win an arms race."https://t.co/c5KokLqD9b
+
+— St. Rev. Dr. Rev ⏭️☯️🏴😻 (@St_Rev)August 9, 2016
+
+and indeed an arms race hasensued. But I think Facebook is at least halfway right about this. Today’s ad ecosystem suffers from two fundamental problems:
+
+Bad ads are the ones which drain your battery and data. They are the pop-ups and pop-unders. They are the trackers and supercookies. They are the Outbrain and Taboola clickbait at the bottom of articles published by otherwise respectable media.
+
+We're in a world where social media has more comms-security than your bank, and porn sites have better privacy & integrity than news outlets
+
+— Alec Muffett (@AlecMuffett)August 16, 2016
+
+But even ads which are not bad are still terrible. People who are paid by advertising, one way or another, inevitably wind up rationalizing that ads are somehow good for people, that they like seeing ads as long as they match their demographic and interests, etc etc ad nauseum.
+
+I cannot stress enough that this is not true. Peoplehateads; it’s just a matter of degree. We hate commercial breaks. We hate display ads. We hate billboards. We live with them, because we have no alternative, but we hate them — and ad blockers have taught us that online, wedohave an alternative. We don’t have to see them at all. Replacing “bad ads” with “not so bad ads” does not make the fundamental concept of advertising any more palatable.
+
+There are rare exceptions to this rule, of course. Movie trailers are ads, but we don’t hate them — quite the contrary. We don’t much hate search ads, because theyonly appear when we are actively looking for something: this is one major reason that Google is a gigantic money-making machine. Similarly, for the same reason, we don’t hate the “People who bought this also bought” ads on Amazon.
+
+(Even ads that would otherwise be appealing — eg Apple’s gorgeous “Shot on iPhone 6S” posters — can become hateful; not in and of themselves, but because they’re part of the ever-accumulating background of advertising, the ongoing transactionalization of our entire public sphere. No advertiser has any incentive to cut back, so advertisingin totooverwhelms us to the point that we are, on some deep level, numbed and disgusted by it all. Call it a tragedy of the cultural commons. This is what Facebook wants to prevent — but despite its best intentions, I fear that well has already been poisoned by advertising elsewhere.)
+
+Will eliminating bad online ads cause people to forget that advertising is terrible, and lapse back into our learned helplessness? I hope not. A subscription-based automatic-micropayment solution is a better way, I think, and Brave and Optimal are taking steps in that direction. On one hand, I’m not optimistic that we can get to that better world from the current one any time soon; on the other, though, in the long run, doing things your customers hate is always, ultimately, a bad strategy.
+
+Right now that’s a moot point. In the short term, the important thing is that Apple, Brave, Optimal, Facebook, and many others are hammering home the point that “bad ads” are becoming less and less acceptable. The online advertising ecosystem is, I hope, heading for a ruinous collapse. Organizations which continue to use bad ads will ultimately suffer for it, and some will die, sooner or later. Let’s hope it’s sooner.

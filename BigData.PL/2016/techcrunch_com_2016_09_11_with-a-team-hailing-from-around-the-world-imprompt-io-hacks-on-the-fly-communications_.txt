@@ -1,0 +1,15 @@
+With a team hailing from around the world Imprompt.io hacks on the fly communications
+
+The team hailed from Lagos, New York, and suburban New Jersey and had been up for nearly 24-hours working onimprompt.io, a new collaboration tool for meetings on-the-fly for theTechCrunch Disrupt SF Hackathon.
+
+It’s a problem the hacking team knew quite well. Hailing from the coding staffing companyAndela, which pairs top-tier developers from Africa with startups and large tech companies in the U.S., the team was used to ad hoc meetings at all hours of the day.
+
+Brice Nkengsa, who runs Andela’s tech department from Lagos, worked with Tolulope Komolafe; an engineer at the New York-based funeral and estate planning services firm Everplans; Ladi Adenusi, a consultant at a large, New Jersey-based, financial services firm; and his Lagos-based Andela colleague Nadayar Enegesi, to pull together a hack using Amazon alexa, Slack, Google Calendar, Appear.in, Twilio, and node.js to create a new meeting service that the company plans to actually roll out internally.
+
+“Because the best ideas come from conversations in the hallway or late at night, this was an easy way to create a tool that we would use,” said Nkengsa.
+
+Indeed, Andela’s co-founder Christina Sass said that the company would definitely be rolling out the tool for use internally. By throwing a few Alexa’s in conference rooms, the company can track down employees across the globe and see if they’re available to meet… or can communicate asynchronously by transcribing the meeting and sharing it over Slack.
+
+“Whatever it is we are doing we want to make it work very well internally for hundreds so we can take it to hundreds of thousands,” Nkengsa said.
+
+As companies become more distributed, communications tools become increasingly important to keep people connected and allow project managers to be up to date on the latest developments of new builds. It’s not hard to believe that impropt.io could become another tool in the collaborative toolkit.

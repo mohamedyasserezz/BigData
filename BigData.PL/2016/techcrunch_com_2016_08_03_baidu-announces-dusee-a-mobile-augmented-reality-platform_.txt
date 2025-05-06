@@ -1,0 +1,17 @@
+Baidu shows off DuSee, an augmented reality platform for China’s mobile users
+
+Soon, hundreds of millions of mobile users in China will have direct access to an augmented reality smartphone platform on their smartphones.
+
+Baidu, China’s largest search engine, unveiled an AR platform today called DuSee that will allow China’s mobile users the opportunity to test out smartphone augmented reality on their existing devices. The company also detailed that they plan to integrate the technology directly into theirflagship apps, including the highly popular MobileBaidusearch app.
+
+“DuSee will enable our customers to deliver a delightful real-time AR experience to the millions of people who useBaidu‘s mobile apps every day, thus quickly bringing AR to a huge population,” Zeng Hua,Baidu’s Key Account Department Senior Director said in a statement.
+
+A press release from the company seemed to vaguely reference the successes of the type of AR made popular by apps like Pokemon GO, a title that has still yet to be released in China.
+
+“Many smartphone AR apps today work by ‘pasting’ a cartoon on top of the camera image, regardless of that image’s contents,” IDL Director Yuanqing Lin said in the release. “The next generation of AR apps will use AI to understand the 3D environment, and create virtual objects that have rich interactions with the user and the real world.”
+
+At first glance the technology seems a bit more rudimentary than AR systems other companies are building. It’s designed to work off of existing smartphone cameras so location mapping requires a physical real world marker unlike something like Google’s Tango platform, which relies on sophisticated camera technology.
+
+The technology, which appears to work similarly to tech we’ve seen from companies like PTC’sVuforia, offers China’s mobile users a chance to interact with traditional media in new ways while approaching augmented reality in a manner much less cumbersome than using an AR head-mounted display.
+
+The fact that Baidu is confident enough in its tech to directly build it into its main apps speaks volumes for the kind of role the company sees augmented reality playing in its mobile future.

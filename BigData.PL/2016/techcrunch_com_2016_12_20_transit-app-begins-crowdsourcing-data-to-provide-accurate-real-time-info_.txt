@@ -1,0 +1,11 @@
+Transit app begins crowdsourcing data to provide accurate, real-time info
+
+If you’ve ever used transit directions from any app, you’ll know that sometimes their estimates of how long a trip can take will be wildly inaccurate. That’s true for Transit, too – one of the best transit apps available, but Transit at least wants to do something about it, usingcrowdsourced data from its users to provide more accurate real-time infoabout how long things will take, and where buses and trains are actually located.
+
+They’re doing this both in cities where transit authorities actually provide real-time data feeds, and in plaids where they don’t, beginning with Montréal and Victoria, BC. The two pilot locations offer good test cases for the crowdsourcing deployment, because neither of them offers their own real-time data feed, and because in Victoria Transit can see how the app will work in a market where it has incredibly high rider density.
+
+That density is the key to success – while Transit only needs one rider on any given route using its previously launched GO real-time route monitoring feature to be able to offer real-time insights on said route, it still needs that one; the best way to get that is through user density, since the more people using the app, the more likely someone will be on any given route at any given time. Luckily, Transit says it already has the highest user population of any transit app in North America, so if anyone can make this work, it should be able to. Plus, it’s hoping to incentivize users with an in-app indicator showing you exactly how many other riders you’re helping out by using its GO feature to contribute to its crowdsourcing.
+
+Transit notes that even where real-time vehicle positions are provided by transit agencies in a city, the timing is often updated only periodically, with as much as 5 minutes between updates – and a lot can happen in 5 minutes.
+
+Realreal-time data could do a lot to improve commuter experience, which helps not only users and Transit, but also city transit services themselves by hopefully putting everyone in a better mood. Here’s hoping they can pull it off.

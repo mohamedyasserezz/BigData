@@ -1,0 +1,31 @@
+Ad-blocking browser Brave launches payments, so you can support sites with cash, not ad clicks
+
+Thead-blocking web browserBrave, co-founded by Mozilla’s former CEOBrendan Eich, is today rolling out its grand experiment “Brave Payments,” which will encourage web users to reward their favorite sites by automatically and anonymously sending them Bitcoin-based micropayments. The idea here is fairly radical — online publishers have always relied on ad revenue to fund their sites, but Brave believes they would be happy to go ad-free if people were willing to fund them directly.
+
+The question is, of course, will web users actually want to pay for content that has historically been free?
+
+It’s true that online advertisements have seemingly gotten worse over the years, but with the shift to mobile, their ability to negatively impact the web experience has increased.
+
+Where before, web surfers suffered with pop-up ads, flashy banners, interstitials and pop-overs, software like the popularAdBlock Plushas helped mitigate many of these issues.
+
+But on mobile, advertisements often make it difficult to read the content — even obscuring an article’s text as you scroll. Plus, along with the tracking pixels and scripts, publishers’ sites have begun to eat away at users’ bandwidth, which costs money.
+
+That said, technology companies like Facebook and Google have been spearheading solutions to this problem, as withFacebook’s fast-loading “Instant Articles”that strip out the extraneous content, andGoogle’s “Accelerated Mobile Web” project, which does much of the same for sites around the web. AMP also has the support of numerous publishers, analytics providers, adtech firms and tech companies, including LinkedIn, Medium, Pinterest, Reddit, Twitter and others.
+
+Googlerecently began penalizing mobile sitesthat show hard-to-dismiss pop-up ads, too.
+
+With these improvements, it’s unclear if web users will embrace Brave’s more altruistic paid support system. But at least Brave is crazy enough to try.
+
+To activate Brave Payments, Brave web browser users will switch on the option from the Preferences page, create a “Brave Wallet” and then fund it either with their existing Bitcoin wallet or by creating a new one withCoinbase.
+
+In the Preferences panel, users can also choose to configure which sites will receive payments by enabling and disabling those they visit. Determining which sites should be in a user’s list of favorites is done anonymously, however. Brave takes advantage of theAnonizeprotocol, combined with on-device via statistical voting, so neither it nor others can correlate page views with payments.
+
+In addition, the Brave Payments code is open source, to support verification and auditing, it says. Brave is partnering withBitGofor the per-user Brave wallets,Coinbasefor users to buy Bitcoin, andPrivate Internet Accessto mask the Internet Protocol (IP) addresses its uses from Brave’s own servers.
+
+Users can control how much they’re willing to pay. However, while Bitcoin is how the payments work under-the-hood, Brave users don’t really have to understand the technology.
+
+“We’re trying not to make users care about it or learn about it if they don’t want to,” Brendan Eich, Brave Software’s CEO, explained last month, following news ofthe company’s $4.5 million funding round.“The main idea with Brave is that you don’t have to think about Bitcoin, you just have this frictionless payment system.”
+
+Brave Payments is launching into beta today, and is asking for feedback from users via its support email address, and from developers via GitHub.
+
+The web browser is a freedownloadon Windows, Mac, Linux, iOS or Android.

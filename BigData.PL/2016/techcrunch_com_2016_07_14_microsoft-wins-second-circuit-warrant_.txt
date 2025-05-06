@@ -1,0 +1,29 @@
+Microsoft triumphs in warrant case against U.S. Government
+
+In a surprise federal court ruling, Microsoft has won its lawsuit against the United States Government over a warrant for a customers’ emails. The company has been fighting since 2013 to resist turning over the emails, which are stored in an Irish data center. The U.S. Court of Appeals for the 2nd Circuit ruled today that Microsoft is not required to comply with a warrant for the users’ emails if the data is not stored within the U.S.
+
+Microsoft’s case began in 2013, when a New York district court issued a warrant for emails and additional information about one of the company’s customers. Although Microsoft partially complied by providing some metadata and “non‐content information” about the customer, it argued that the emails themselves were stored in Ireland, and were therefore not subject to a warrant issued by a U.S. court. In 2014, a federal magistrate judge again ordered Microsoft to turn over the emails — but Microsoft appealed to the 2nd Circuit.
+
+Support for Microsoft’s case has poured in from industry, European government, civil liberties organizations, and even media: Amazon and Apple, the Electronic Frontier Foundation and the American Civil Liberties Union, and CNN and the Washington Post all signed on to amicus briefs in the case. TheIrish government backed Microsoftas well, arguing that the U.S. could pursue the data through existing treaties with Ireland rather than trying to circumvent the country’s sovereignty with a U.S.-based search warrant. “Foreign courts are obliged to respect Irish sovereignty,” the country’s lawyers argued in a legal brief.
+
+The case has garnered international attention and has been a lightning rod for debates about how and when law enforcement should be able to access online data. The Supreme Court seemed to tip in favor of extending government access to online information, regardless of where the data is stored, when it approvedchanges to Rule 41in April. The change would allow judges to issue search warrants for electronic media even if it is not located in the judge’s county (Congress is currently working toblock the changes).
+
+However, the 2nd Circuit wasn’t swayed by the Supreme Court’s acceptance of the Rule 41 modifications. Judge Susan Carney wrote in the court’sdecisionthat Rule 41 only expanded a judge’s authority to issue warrants within U.S. territory, not beyond it.
+
+“The application of the Act that the government proposes ― interpreting ‘warrant’ to require a service provider to retrieve material from beyond the borders of the United States ―would require us to disregard the presumption against extraterritoriality,” Carney wrote. “We are not at liberty to do so.”
+
+Although the government may appeal the case further and it may eventually land before the Supreme Court, Microsoft celebrated its victory.
+
+“We obviously welcome today’s decision by the Second Circuit Court of Appeals,” Microsoft’s president and chief legal officer Brad Smith said in astatement. “It makes clear that the U.S. Congress did not give the U.S. Government the authority to use search warrants unilaterally to reach beyond U.S. borders. As a global company we’ve long recognized that if people around the world are to trust the technology they use, they need to have confidence that their personal information will be protected by the laws of their own country.”
+
+The court’s decision will likely be hailed as a win by other industry giants. Many companies rely on overseas data centers for their infrastructure, andIrelandis a particularly popular location — Google, Facebook, and other companies all use data centers there because of its cool climate and tax incentives.
+
+However, the ruling could drive governments to push for data localization rules that would require companies to store data within their borders. “The Microsoft case is a real world data point that sort of summarizes a situation that’s been happening over the last several years,” Lee Tien, a senior staff attorney for the EFF, explained. “The data that cops normally look at or normally want to get for criminal investigations, even for garden variety sorts of investigations as opposed to terrorism, is often going to be fond in the servers of a company that’s in the cloud. And therefore the server may be located outside of the territorial jurisdiction of the country that is investigating.”
+
+As law enforcement struggles to access data, legislators might use the excuse to require companies to store user data locally. Russia enforces a data localization rule, and Brazil and France have considered similar legislation.
+
+“What we have not had so far is a particularly good, well-informed and honest debate about these issues,” Tien added. “I don’t think we’re ever going to think data localization is a good policy. It’s very bad for innovation.”
+
+Although Microsoft has triumphed in this case, its other battle with the U.S. Government continues — the company is stillsuing the Justice Departmentover gag orders that prevent it from informing customers when the government demands access to their data.
+
+This post has been updated with additional information about data localization.

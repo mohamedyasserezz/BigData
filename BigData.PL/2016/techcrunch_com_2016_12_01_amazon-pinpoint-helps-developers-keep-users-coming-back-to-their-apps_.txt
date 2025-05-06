@@ -1,0 +1,13 @@
+Amazon Pinpoint helps developers keep users coming back to their apps
+
+As developers build apps, the hard part becomes not only attracting sufficient audience to justify the exercise, but also finding ways to keep that audience engaged and coming back to your app. Today, Amazon announced a new tool called Amazon Pinpoint designed to let developers send highly targeted push notifications, that can help them stay connected to the audience.
+
+Amazon CTO Werner Vogels, making the announcement on stage at the re:Invent customer conference in Las Vegas, stressed that developers really need to be careful who they are targeting when make these push notifications, and as the name implies, they can begin to pinpoint specific groups, who based on what they know about them would be the best group to receive these notifications.
+
+For instance, a game developer could let users, who haven’t been using the app, know there are new levels available.
+
+As a developer, you want to know that you are going after the right people. You don’t want to waste resources targeting the wrong groups, who could grow tired of poorly targeted notifications and shut them off (or uninstall the app). Amazon Pinpoint helps developers analyze a set of mobile customers, understand their behavior and increase the likelihood that they are targeting the message to the right people.
+
+It may seem like a minor thing, but at a time when there are more than 2 million apps in the Apple iOS App Store, simply building the app is only step one in the process. If you can find a way to get people to use the app, these kinds of highly targeted messages can increases the chances they keep coming back — and that is what Amazon Pinpoint is hoping to do.
+
+It gives developers a tool that lets them cut through the noise and communicate directly with end users who care about what they are doing — and then measure the results.

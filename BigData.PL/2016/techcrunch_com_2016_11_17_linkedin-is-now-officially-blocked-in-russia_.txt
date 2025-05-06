@@ -1,0 +1,31 @@
+LinkedIn is now officially blocked in Russia
+
+Amid a tense stand-off and attempt at negotiations, Russia’s communications regulator Roskomnadzor has started to enforce aproposed blockof LinkedIn in the country, after the social network failed to transfer Russian user data to servers located in the country, violating alaw instituted in Russiarequiring all online sites to store personal data on national servers.
+
+The order against LinkedIn was issued in ashort statementon Roskomnadzor’s site (in Russian) — flagged to us by readerIlya Pestov, CMO at Statsbot — that cited the original Moscow District Court decision from August to block LinkedIn, along with the more recent case from November 10, in a Moscow City Court, to uphold that decision.
+
+LinkedIn has confirmed the block to us in a statement:
+
+“LinkedIn’s vision is to create economic opportunity for the entire global workforce. We are starting to hear from members in Russia that they can no longer access LinkedIn,” said a spokesperson. “Roskomnadzor’s action to block LinkedIn denies access to the millions of members we have in Russia and the companies that use LinkedIn to grow their businesses. We remain interested in a meeting with Roskomnadzor to discuss their data localization request.”
+
+The ban comes after LinkedIn — which is currently beingacquired by Microsoftfor $26.2 billion, although that deal is seeing some of itsown regulatory hiccups— tried to meet with Russian regulators on Friday, November 11, in a last-minute attempt to hold off the ban, which will see ISPs in Russia forced to comply with the block in coming hours or else face heavy fines and potentially blocks of their own.
+
+The statement they gave us last week, combined with what we know today, seems to imply that LinkedIn never got that meeting.
+
+“LinkedIn’s vision is to create economic opportunity for the entire global workforce,” a spokesperson told TechCrunch last week. “TheRussiancourt’s decision has the potential to deny access toLinkedInfor the millions of members we have inRussiaand the companies that useLinkedInto grow their businesses. We haveon Friday(11 Nov) again requested a meeting with Roskomnadzor to discuss their data localization request and we understand they are reviewing this proposal at the present time.”
+
+It’s not clear if LinkedIn hoped to buy more time to comply with the ruling, or if they were hoping to somehow negotiate an exception to the law. (We’ve asked, and will update if and when we get a reply.)
+
+There is a precedent for LinkedIn choosing to comply and perhaps asking for more time. WhenLinkedIn launched in China, it did so by building essentially a completely separate site, with data hosted within the country, in order to meet similar regulatory requirements. Others that have done this include Evernote.
+
+From what we understand, although there are a number of international sites accessible in Russia today, not all of them are hosting data within the country.
+
+It’s not clear why LinkedIn — which has out of its 467 million users only 5 million registered in Russia — was targeted in this case. Some have speculated that it was a warning to bigger sites to be on their guard.
+
+Russia has described its rule on localized servers as a way of protecting user’s personal data, although many dispute this reasoning, claiming that Russia simply wants an easier route to access that data for itself.
+
+Data and the hacking of it is, in a way, shaping up to be the next cold war frontier. Russia has been implicated in a number of high-profile hacking cases, such as the recent breach of Democratic National Committee servers. Those investigations arestill ongoing. Meanwhile, countries like the U.S. and U.K. areredoubling their effortsto build up their expertise and security both in response to the wave of breaches, but also perhaps to better arm themselves as aggressors.
+
+Facebook and Twitter, both accessible in Russia, are among those that todayappear still to keep their data housed out of Russia.AppleandGooglereportedly have complied.
+
+And, as is often the case with these blocks, if you are in the country and use a VPN service that essentially makes you look like you’re online in another country, you can continue to use LinkedIn and anything else that is or might get blocked.

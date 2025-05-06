@@ -1,0 +1,25 @@
+Study of Candy Crush players finds virtual currency buyers don’t go for upsells
+
+The upsell we all fall for at fast food joints and places like Costco doesn’t seem to work on purchasers of in-game currencies, according to a study conducted on millions of Candy Crush players. Turns out the decision to buy fictional bars of gold isn’tquiterational, economically speaking. Who would have thought?
+
+For two months, economists at the University of Chicagoworked with King to manipulate the prices of in-game purchases. Surprisingly, the virtual commodity is not sold with particularly nonlinear pricing. That’s where, for example, a small soda at Wendy’s costs $1.29, a medium costs $1.49 and a large costs $1.59. The amount you get doesn’t increase linearly with the amount you pay, and the result is that the larger item appears (as planned) to be the better deal.
+
+This is elementary retail theory, and we all fall for it constantly. It’s especially profitable when the thing being sold is a cheap commodity; for example, the cost of soda syrup and carbonated water is nearly negligible compared with what customers pay. So you would think a commodity that is literally unlimited and costs nothing would be a great one to offer crazy nonlinear pricing on.
+
+Interestingly, that’s not the case with King’s offerings. If you buy the biggest pack (1,000) of “gold bars” instead of the smallest (9), you only save 9 percent per unit! Yet people buy both — at very different frequencies, of course.
+
+The economists thought it would be interesting to introduce nonlinear pricing and see how that affected which users bought gold bars and when. Over two months, they and King systematically offered various discounts to over 14 million players. Here’s an exciting graph:
+
+The result of all their behind-the-scenes machinations? A big fat nothing.
+
+Well, not quite nothing, but even deep discounts like a 70 percent lower cost per unit failed to produce higher profits or more than marginally greater sales volume. In fact, some of the data suggested that people who would have bought small packs of gold may have decided not to because the discounted big packs made the small ones look like a bad deal!
+
+People who never bought anything continued to buy nothing. People who occasionally bought a small pack spent a bit more on deep discounts. And people who bought big packs spent less, canceling the others out.
+
+There was a possible but slight habit-forming effect in making occasional buyers do so with slightly higher frequency, but it wasn’t much. In the researchers’ own words:
+
+The ultimate conclusion of our experiment is that the potential gains to King from the forms of price discrimination we explored are remarkably small, in contrast to what one might have expected based on the prior theoretical and empirical literature.
+
+“From a corporate perspective, this experiment was somewhat a failure,” they admit. But from an academic perspective, it’s interesting: it challenges existing ideas and, like all good research, raises further questions. Why does this happen? What is the psychology behind in-app purchases, and why does it differ so much from retail ones, where this pricing strategy would have had a much greater effect? Is there a pricing technique thatwouldmake a difference?
+
+The paper, published earlier this week in theProceedings of the National Academy of Sciences, is very readable. Just what you need for a quiet Friday evening!

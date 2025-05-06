@@ -1,0 +1,15 @@
+YouTube’s 15-minute outage attributed to routine engineering push
+
+A routine engineering push was the source of a 15-minute global YouTube outage this morning, not a hack or DDOS attack. The issue has since been resolved, but was surprising given how reliable the Google-owned service has historically been. At the time of the outage, users who visited the site were met with a “500 Internal Server Error,” blank screens or other error messages.
+
+According to third-party outage tracking services, the outage didn’t appear to affect all markets to the same extent, which could explain why some people were complaining about the downtime on social media, while others found the site to be working.
+
+DownDector.comflagged the outage as beginning around 7:26 AM EDT, and saw thousands of reports coming during the peak of the downtime.
+
+Google did not confirm what caused the issue, but it initially seemed like it could have been tied to its cloud infrastructure.
+
+Shortly after YouTube’s outage, Spotify alsoexperiencedintermittent issues. This is notable because Spotifymovedto Google’s Cloud Platform in February —a big win for Googleover Amazon Web Services. Google Cloud Platform is also used internally at Google topower its own serviceslike Search and YouTube.
+
+One naturally might assume, then, that the two outages could be connected. However, according to persons familiar with the matter, this morning’s outage was YouTube-specific. The issue was resolved quickly because YouTube has engineering staff around the globe, including in the EMEA region.
+
+A Google spokesperson confirmed the YouTube outage to us, saying “during a routine engineering push today, YouTube went down for approximately 15 minutes. The issue has since been resolved and YouTube is working well.”

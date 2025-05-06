@@ -1,0 +1,27 @@
+Movidius brings its computer vision tech to the world’s largest security camera maker
+
+Soon your security camera will be able to tell whether it’s the mailman at the door or a thief.
+
+Computer vision is opening up the capabilities of video surveillance technologies that give sensors the ability to understand what they are looking at in the world around them.
+
+Today, Movidius announced an expansive deal with Hikvision, the world’s leading video surveillance company, to begin bringing its low-power Myriad 2 visual processing units into the company’s cameras. Soon those security cameras can begin actively monitoring the spaces they are set up in with all of that analysis happening in real-time on-device.
+
+The first Hikvision products using the Myriad 2 VPU technology will be shown off this week at the China International Exhibit for Public Safety.
+
+If you don’t know a ton about Hikvision, a company based in Zhejiang, China is the world’s largest manufacturer of video surveillance cameras, owning about 30 percent of the global market for security cameras. Nearly 66 million security cameras are shipped every year so Hikvision is getting around 20 million+ cameras into consumer and enterprise hands every year.
+
+“There are huge amounts of gains to be made when it comes to neural networks and intelligent camera systems” said Hikvision CEO, Hu Yangzhong, in a statement. “With the Myriad 2 VPU we’re able to make our analytics offerings much more accurate, flagging more events that require a response, while reducing false alarms. Embedded, native intelligence is a major step towards smart, safe and efficiently run cities. We will build a long term partnership withMovidiusand its VPU roadmap.”
+
+This deal with Movidius will begin with Hikvision optimizing certain cameras in its line with this technology with the goal of integrating the tech into the entire product line. Movidius’ computer vision tech should theoretically work on any type of security camera, regardless of how advanced its optics are, but Movidius CEO, Remi El-Ouazzane says that depth-sensing cameras specifically are really best-suited to capture accurate data using the company’s tech.
+
+Last mont, Intelannouncedthat it had purchased Movidius. That deal will wrap up by the end of the year, but this deal with Hikvision was in the works long ago.
+
+Security cameras have long been a focus for Movidius, whose low-power VPU has been the darling of tech companies like Google looking to bring complex computer vision processing to their devices. Movidius has largely been looking specifically at drones, AR/VR tech, and video surveillance devices, hoping to add utility to the devices but also redefine the autonomy of the devices.
+
+With security camera, Movidius wants the devices to do more than record situations but to actively monitor what it is constantly seeing.
+
+“Ultimately, what we are all trying to do is get in a mode where you prevent things from happening,” said El-Ouazzane.
+
+Movidius is selling this tech direct to manufacturers and says that many of the video surveillance companies they’ve talked to are seeing this as an opportunity to pursue a SaaS business model whereby they add-on computer vision recognition for a monthly fee.
+
+The Myriad 2 will be initially be integrated into select product lines—the partnership has already yielded a product that is “ready for market.” Movidius also teased that it has several other deals in the works with leading video surveillance companies.

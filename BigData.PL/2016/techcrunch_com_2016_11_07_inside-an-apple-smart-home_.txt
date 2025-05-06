@@ -1,0 +1,17 @@
+Inside an Apple smart home
+
+Ever since I saw Disney’sSmart Housein 1999, I’ve dreamed of a home that cleans itself and cooks breakfast, lunch and dinner. We’re not there yet, but Apple’s HomeKit andHome appgets us (me) a bit closer to that dream.
+
+Apple is racing against Amazon and Google to try to get the masses to adopt the smart home. Unlike Amazon and Google, Apple isn’t manufacturing its own devices — with the exception of the Apple TV that acts as a hub. Instead, it’s mostly relying on third-party manufacturers to make their devices compatible with its HomeKit system, and then unite all of those devices through a deep integration with iOS via the Home app.
+
+Last week, I had a chance to check out the ultimate Apple HomeKit-wired house, built by home construction company Lennar, in Alameda, Calif. There were over 100 HomeKit devices wired throughout the house, including Lutron Serena smart shades, a Honeywell Lyric Round Wi-Fi thermostat and a Schlage Sense door lock.
+
+Apple’s Home app aims to let you easily control all of your smart, internet-connected products in your home from one app. You can group together certain HomeKit devices to create or edit a new scene. Doing so enables you to activate multiple devices with one command — either a tap of the screen or via Siri.
+
+Shown above, you can see your favorite “scenes,” or, the modes you use most often. Scenes can range from what you want your lights to look like when it’s time for dinner to what products you want to have turn on when you come home. The “I’m Home” scene, for example, unlocks your door, turns on the lights and gets the thermostat going.
+
+The Apple TV works as a HomeKit hub, which lets you access your home remotely to do things like shut your garage door and view your doorway camera. To ensure complete privacy and security, Apple requires next-level encryption in all HomeKit-certified devices and physical access to the device in order to set it up.
+
+My experience with Home was pretty easy, though — Apple had already made sure all of the devices and scenes were set up prior to my arrival. If I were to do this entirely on my own, I wouldn’t install over 100 devices because I don’t own a two-story home. I live in a 3-bedroom apartment that I’m not even on the lease for, so I can’t exactly just do whatever I want with the space. I can, however, do some stuff.
+
+Apple pointed me to what I’ve come to call a smart home starter kit. It’s asmart plugthat lets you control lamps, heaters, fans and other devices from your Home app. To be clear, the iHome smart plug is also compatible with Nest, Amazon Alexa and Smart Things. Peep the video at the top of the page for a glimpse at what it’s like to live in Apple’s version of the smart home.

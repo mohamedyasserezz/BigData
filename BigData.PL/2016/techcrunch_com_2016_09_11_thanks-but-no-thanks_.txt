@@ -1,0 +1,19 @@
+Fake Number Club is a bot for “it’s not you it’s me”
+
+At the TechCrunch Hackathon today in San Francisco, Torrey Nommesen showed offFake Number Club, the easiest way to someone down if they ask you for your number. If you call or text a particular number, a robot will explain that your hopes and dreams of a long, loving and meaningful relationship have been crushed mercilessly like an ant marching across a kitchen counter.
+
+“If a creepy guy like me asks for your phone number,” Nommesen laughed on stage, “but you’re just not interested… I’m still cute, but there’s a way to let me down easily”
+
+Call +1 (415) 523-0057 and you’ll hear a message, “We’re sorry, but you were given a fake number because the person who gave it to you did not want you to have their real phone number. I’m sure you’re a wonderful human being, but for some reason, you were given a fake number because the person who gave it to you did not want you to have their real phone number. Please do not take this to heart.”
+
+Awww. The text message you get in return is somewhat less sensitive, but gets the point across succinctly.
+
+Nommesen drives for Lyft and runs theDrinking About podcastwhen he’s not crouched over a computer banging out code. He elegantly illustrates that it’s possible to be part of a hackathon without writing much code.
+
+“I wanted to do a different hack, actually, but couldn’t find anyone who would be able to help me,” Nommesen says. He tells me he headed over to the Twilio booth and asked how he could get started. “They told me to googlethe TwiML documentation. I did, and it turned out I was able to create the app without actually spinning up a server or writing much code.”
+
+I asked him whether Twilio had paid him to say that, but he just laughed. “I actually signed up for Twilio for a previous hackathon I did, but didn’t end up using it.”
+
+The intrepid hacker already has a few ideas for how the app could be improved.
+
+“I really want to add a delay, actually,” Nommesen says, explaining that someone sends a text right away, it’s a bit embarrassing, not to mention potentially dangerous, to get an immediate response from a bot.

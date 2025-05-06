@@ -1,0 +1,39 @@
+These are the TechCrunch Tokyo 2016 pitch competition winners
+
+You’ve probably heard of TechCrunch Disrupt (New York’s eventhappened in May, San Francisco’s wasin Septemberand there’sa rather fantastic London edition coming up in a couple of weeks), but we run events all over the world.
+
+This week, it’s all about Tokyo. From an original 154 companies, 20 startups were battling for a spot in the final Battle Royale. The judges were ruthless. Well, they were very polite — this is Japan, after all — but they were politely ruthless. Or ruthlessly polite. Either way, these are the six startups still standing after the two introduction rounds.
+
+The six finalists represent some of the most exciting new companies in Japan today.
+
+UPDATE: I’ve added the prize winners to the bottom of this article.
+
+Combinatoris aSaaS productfrom Refcome, which aims to make hiring less painful through turbocharging your employee’s social networks. The idea is to tap into the friends and family of your existing employees with a referral system. On top of leveraging referrals, the company adds a layer of analytics to the hiring process to ensure the highest-quality referrers can be rewarded for their efforts. The company currently has 35 companies live on the platform. Refcome is taking on the more established companyWantedly, which offers similar services.
+
+I believe Refcome’s Combinator is an interesting solution to hiring challenges — but it’s a crowded marketplace. Even in this startup pitch competition there are two HR companies that sound very similar; getting market dominance will be a real challenge.
+
+Syounika Onlineisa rather elegant solutionaimed at assuaging nightmare scenarios experienced by parents with young children. Instead of heading to the emergency room whenever a child develops a rash or a cough, the company connects parents with pediatric doctors over LINE or Skype at ¥3,000 (around $30) per incident. The company claims that the sharp increase in pediatric visits in Japan is unnecessary, with 90 percent of the visits being superfluous. By replacing these visits with an e-consultation, it makes healthcare way cheaper than a doctor’s visit, and faster, too. In addition to targeting parents, Syounika aims its services at nurseries and schools to reduce cost and inconvenience of sending children to the doctor needlessly.
+
+I think Syounika is a tremendously interesting company using existing technologies to solve a real problem. It may be difficult to scale internationally, but Japan’s market might just be big enough in this case to build a solid company.
+
+Update:Syounika Online was the overall winner of the pitch competition. Congratulations!
+
+Diggleisa budgeting / financial management solution. The company is trying to make budgeting, budget control and financial simulation for small businesses more streamlined — much likeXero,QuickBooksandWave, except aimed at the Japanese market. Diggle claims that Japan’s small businesses are still doing budgeting and bookkeeping using spreadsheets, and points out that a sheaf of Excel spreadsheets isn’t necessarily the best tool for the job. Diggle includes API integrations to help import and export data. The software lets users tag budget items by project, plan for various scenarios and deal with exceptions. The company charges $500-$1,000 per month for its service.
+
+Personally, I’m wondering whether there’s a space for Diggle in the marketplace; $1,000 per month is a non-insignificant expense. The aforementioned incumbents already have well-developed platforms that could be (and, in some cases, are being) localized for the Japanese market.
+
+Town WiFiis a tool(available foriOSorAndroid) to help people cut down on their cell data use and avoid extortionate data roaming rates by making it easier and faster to connect to commercial Wi-Fi networks. When opening a Wi-Fi network to the Town WiFi customers, a network operator gets access to send notifications to connected users. If there are no networks available near you, you can request them and the company is installing or negotiating access to hotspots nearby. The company is expanding to South Korea this week and is ambitiously planning to expand to 30 countries by the end of 2017.
+
+I can’t help but feel that the company is in a race against time. Wi-Fi had a place in the early days of smartphones, but 4G and 5G mobile data networks are getting faster by the day. In addition, data caps and data roaming charges are the next frontier of mobile phone use — it remains to be seen if the company can stay ahead.
+
+Scouteris asocial headhunting toolthat puts the power of the crowd to work to help hire your next generation of staff. It enables its users (called Scouters) to work as career advisors for their friends and acquaintances. A scouter can find and share job information with the people they advise, and offer recommendations that might help the hiring company. Finally, the scouts get a kick-back for successful introductions — much like regular headhunters. The company currently has 1,200 scouts on its books, which have led to 2,200 positions being filled. The company is attempting to align the incentives of the companies’ hiring managers, scouts and potential employees to ensure everyone is happy at the end of the hiring journey.
+
+I think that shifting the balance of headhunting to the crowd is a really interesting concept, and I can see it working well. At its heart, however, this means that you’re talking about a marketplace business, with all the challenges and opportunities thereof. You can’t really argue about 2,200 successful hires, however, so it’s going to be an interesting road ahead for Scouter.
+
+Foliois a financial tech company that is buildingan asset management toolto help people look after their money. Folio is trying to make it easier for customers to invest and manage their wealth. The company makes it possible to invest across technologies or regions without having to invest in individual stocks. The company is currently focusing on Japanese stocks, but is expanding to international shares and other asset classes in the near future. Folio is further planning a white-label solution for banks, to enable them to offer asset management
+
+In my opinion, Folio is a really interesting player. From the conversations I’ve been having here in Japan, the vast majority of people — even ones who are relatively wealthy — aren’t particularly investment-literate. Folio will be facing an uphill battle, but if it is able to educate and guide asset management (and if customers don’t just choose one of the plethora ofrobo-advisorsavailable in the market), it may find itself in a very lucrative position.
+
+The Best Excellency awardat TechCrunch Tokyo 2016 goes toSyounika Online.
+
+Sponsorship awards…

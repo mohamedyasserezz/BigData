@@ -1,0 +1,9 @@
+Velodyne’s latest solid-state LiDAR design keeps costs low for production at scale
+
+Velodyne has a new LiDAR sensor design that could help bring an autonomous-driving future closer than ever; it’s a small, solid-sate design that has a cost of less than $50 per system (when purchased at the kind of high-volume rates needed for mass manufacturing). LiDAR’s cost has been a limiting factor in seeing it applied more broadly as part of semi-autonomous driver assistance systems and fully autonomous cars targeting future production.
+
+Solid-state construction also has big benefits here, because it means the component contains fewer moving parts, and therefore fewer potential opportunities for failure. Using solid-state design also means that the component can be smaller, and more cost-effective, all of which have been key choke points preventing LiDAR integration into systems designed for use in affordable, mass-market vehicles.
+
+LiDAR is a key ingredient in autonomous driving because of how accurately it can measure distance between a vehicle and the physical world around it, including objects at rest and those in motion, like pedestrians. The accuracy of LiDAR’s measurements means it can pinpoint distance with the kind of accuracy not possible via other sensor systems, like standard optical cameras and radar. Some working on autonomous systems have been working around LiDAR, filling in the gaps with various alternative, more cost-effective methods, but ultimately a system that incorporates LiDAR with other sensors will probably be best-equipped to tackling full self-driving.
+
+This new design isn’t here quite yet, however; it’s in testing at the moment, and “will be integrated into future products,” according to Velodyne. We’ll find out more about when it’ll be made available to OEMs in 2017, the company says.

@@ -1,0 +1,23 @@
+This Russian project will detect a face in any TV channel in real-time
+
+These days you tend to hear about Russia in terms of its government hacking the US election. But some canny Russian developers have put their skills to something more productive: monitoring the TV appearances of world leaders.
+
+A team of Russian developers have released an AI powered algorithm that tracks all world leaders activities in all media. Based on the information theVersoservice analyzes the impact of each President/Prime Minister and shows a rating for them in real-time.
+
+Verso is an experiment to utilise algorithms designed to rapidly recognise faces (even blurry ones) which were developed at Moscow State University,
+
+Once a second the Verso platform takes a screenshot of a set of monitored TC channels. All the faces it detects are run through the computer vision processing, to see if there is one which matches the person the researchers are searching for.
+
+The algorithms it uses are able to tell in milliseconds if a person is at least a 99% match, even with blurred or turned heads. The data it delivers to its site is in real-time.
+
+Spokesman Eugene Gordeev, a managing partner at Russian Ventures, says: “Since we are just experimenting with AI and tweaking the system, some data may not be representative and gives only picture of relativity, that why we called it a project – Verso!”
+
+There’slive coveragehere to demonstrate the software on 20 channels
+
+Here’s an exampleof how the project looked at the second debate between Hilary Clinton and Donald Trump. Trump is very active at the start, but then Clinton takes it over and leads the audience till the very end.
+
+Verso is planning to make a searchable archive of at least 100 channels, where you could see patterns or trends, so you can have a full overview on any topic. Of course, it could be used to track any kind of object or product in any video.
+
+“Faces are just the beginning, we will add text and voice recognition, and of course understanding – so any video will be marked as positive/negative,” says Gordeev.
+
+Verso has $100K in funding so far but plans to raise more money.

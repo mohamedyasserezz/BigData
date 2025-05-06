@@ -1,0 +1,57 @@
+iOS 10 preview: Apple breaks down its walled garden
+
+As our phones become our primary computing devices, major iOS updates affect the workflow and lifestyle of hundreds of millions of people. Even minor changes can have major implications. So let’s dive into iOS 10 with an early look at Apple’s next mobile operating system.
+
+iOS 10 will be released this fall as a free update — the public beta should start very soon for the more adventurous iOS users. Every year, a vast majority of iOS users update to the latest version in the weeks following the release. It’s a free update after all.
+
+And yet, some of the big and small changes in iOS are much more telling than anything Apple could say or announce. iOS is a software statement, and it could potentially change the way we use our phones.
+
+Instead of running throughevery single new featurein iOS 10, I’ll focus on some of the major features and overarching themes of iOS 10. And it starts with extensions.
+
+You can’t say that you didn’t see it coming.Content blockers in iOS 9as well as third-party keyboardsin iOS 8were just the first steps. Apple is going all in on third-party extensions, and many core parts of the operating system are now expandable.
+
+Third-party developers can now buildSiri extensions. With Siri, you can now request a ride, send a message in any messaging app, call someone using a VoIP app, pay back someone using Venmo or start a run in a fitness app. It’s hard to test this feature given that these third-party extensions aren’t available in the App Store just yet. But you can be sure that it’s going to play an important part in iOS 10.
+
+Maps is also receiving extensions for some specific apps, such as ride-hailing apps, restaurant recommendation and booking apps. But Apple also went one step further and completely redesigned the user interface. I’ve been using Maps every day for the last year, and it feels less cluttered and easier to use. As a nice side effect, you get weather predictions in the corner.
+
+Even more surprising, developers can now build extensions for the Phone app. When WeChat updates its app for iOS 10 in September for example, you’ll be able to long press on the Messages icon and choose WeChat as the favorite messaging protocol with a particular person. Then, when you tap on the messaging button, it’ll launch a WeChat conversation. Similarly, incoming VoIP phone calls will look like regular phone calls.
+
+All these hooks around the operating system are a huge departure from Apple’s previous way of thinking. Instead of defining the one best way to contact people, look for restaurants or talk with Siri, Apple is taking advantage of its developer community to provide options.
+
+Even the home and lock screens aren’t the monolithic interfaces they used to be. Developers can now build interactive widgets for notifications and 3D touch shortcuts. So if you receive a push notification from the Uber app for instance, you can press on the notification to open a tiny widget with a map and the current status of your ride.
+
+As for the home screen, you can preview live content of your app by pressing on an app icon. For instance, you could see your last emails from your VIP contacts, the current weather without opening the Weather app, stock information, destination predictions and more. It’s already changing the way I interact with some apps.
+
+Of course it adds a level of complexity and it might get confusing once we have 30 different extensions in each core app. But it also adds a level of flexibility that was missing from iOS. Gone is the walled garden, and I can’t wait to see other extension types appear in iOS 11 and later.
+
+Apple laid down the foundations of its photo management platform with the release of the Photos app on the Mac and iCloud photo libraries last year. Now that your iPhone, iPad, Mac and Apple TV share the same photo backend and browsing feature, the company can focus on front-end features.
+
+In many ways, Apple is now playing catch up in this area withGoogle Photosand Facebook paving the way when it comes to smart photo organization features. While many thoughts it wouldn’t be possible to enable this kind of smart features without server-side computing, Apple is trying to prove everyone wrong.
+
+In iOS 10, the Photos app automatically creates smart albums based on the geolocation, computer vision and dates. A memory can be a week of vacation or your best photos of the last six months.
+
+Then, the Photos app will show you all the people in the album, a map and related memories. This feature isn’t quite ready for prime time just yet, but I’ve enjoyed looking at photos of a friend of mine who is moving to Hong Kong in a couple of weeks. Face recognition alone is a fascinating way to browse your photos.
+
+Other intelligence features include better keyboard predictions. Now, iOS can predict emojis based on words, replace a bunch of words with emojis in the Messages app, and adapt to the ever-changing languages around the world. iOS also suggests names, addresses and more based on the context.
+
+But my favorite iOS 10 feature is a simple one — bilingual keyboards. Now, I don’t have to switch dozens of times per day between my French and English keyboards depending on the context. I can type everything with the same keyboard, and iOS will figure out whether I’m typing in English or in French. You can even switch in the middle of a sentence, it works flawlessly. Millions of people who use multiple languages every day are going to love this feature.
+
+Apple has taken a strong stance when it comes to privacy and smart features like these ones. The company has mentioneddifferential privacyas a way to collect data without being able to link it back to a particular user. But if you’re particularly concerned about your privacy, you can even disable this data collection feature so that Apple doesn’t even see this data.
+
+Now, let’s talk about the elephant in the room — and it’s Messages. With Facebook Messenger, WeChat, Telegram, Line and a others iterating as quickly as possible and turning their messaging apps into full-fledged platforms, Apple needed to do something.
+
+Surprisingly, the Messages app hasn’t changed much ever since Apple introduced iMessage back in 2011. But this time, Apple isn’t just updating the Messages app. It feels like a brand new app.
+
+Let’s run through some of the new features. When you send a link in Messages, the app will automatically fetch a preview of this link. There’s a new photo picker that is very reminiscent of Telegram’s photo picker. It takes over the keyboard and lets you take a photo or pick an existing photo in your camera roll without having to tap on another menu.
+
+You can draw on your photos, write handwritten messages, send sketches and more. And even the default blue bubble can be customized with bubble effects. These effects are cool but a bit gimmicky. The full-screen effects are even more awkward.
+
+In addition to link previews, my two favorite new features are Slack-like feedback on messages and extensions. For instance, you can send a thumbs up or a thumbs down without having to send another message.
+
+And finally, you guessed it, third-party developers will be able to release extensions for Messages. It works a lot like Facebook Messenger apps. An extension lets you send stickers or put stickers on top of photos. An extension could also potentially allow you to send a payment, order food with someone and more. Once again, I could only test stickers as other types of extensions aren’t available in the App Store just yet.
+
+I haven’t even mentioned all the new features in iOS 10. There is a new lock screen design, some apps have been redesigned (News, Apple Music, Health), others received a few nifty features (Notes, Mail, the Clock app with a bedtime feature). The control center is more powerful too.
+
+But you get the most important point of iOS 10. Apple is turning its operating system into a flexible platform with apps that can transform the way you use some of the most important default apps. Third-party developers are going to have a lot of fun with it, and it’s going to make the iPhone and the iPad more capable devices. What else do you need?
+
+Oh, I know! In Messages, emoji-only messages are now three times bigger. And millions of people will upgrade in September just because of this feature. And, clearly, nobody cares about the rest anyway 🙃

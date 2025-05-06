@@ -1,0 +1,23 @@
+Pingpad hitches wagon to Slack with new collaboration tool aimed at enterprise
+
+Today,Pingpad, which launched last year as a consumer mobile app, did an about-face, announcing it has built a collaboration tool on top of the popularSlackenterprise communications platform. It shut down the consumer mobile app recently to concentrate on this approach.
+
+Ross Mayfield, one of the founders of PingPad, has been around since the earliest days of Enterprise 2.0, founding Socialtext, an early proponent of enterprise collaboration tools that mimicked the ease of web-based tools like blogs and wikis emerging in the early 2000s.
+
+Mayfield is building on that earlier experience to give users something he sees lacking in Slack, an integrated collaboration tool, and he’s taking a page from those early days by providing a Wiki to give team members more context and structure than they could derive from a linear Slack conversation.
+
+The new tool is essentially a Slack bot that captures the conversations and converts it into an organized, searchable and usable document.
+
+The bot can automatically extract information from the conversation and add it to the document on the fly or users can add content to the Wiki with a few simple Slack commands such as /note to write a note.
+
+Slackhas succeeded in enterprise collaborationwhere so many before it failed by building an open communications platform that’s friendly to developers andwatching it grow. Pingpad, which began this pivot as an experimental side project, sees great promise in hitching its wagon to Slack.
+
+As for a business model, Pingpad is free for up to 100 notes per team. After that it’s $4.00 per user per month with unlimited support.
+
+Mayfield sees a lot of similarities between what Slack is doing and what he did with Socialtext Signals, a micro blogging tool back in the day. “A lot of the features Slack is building, like message buttons were things we built in Socialtext Signals. We had a good integration story where you could integrate it with third-party apps, have notifications flow in, the ability to interact with them and even change data through a message sent as a signal to an underlying system of record,” he explained.
+
+For whatever reason, tools like Socialtext, which launched in 2002 and wassold in 2012 to Peoplefluent, couldn’t capture enterprise marketshare in the way Slack has to this point.
+
+Mayfield admits there are inherent risks in tying his company to another’s platform, but he sees the obvious connection and he thinks it’s worth the gamble. For a guy who has been at this for 14 years, he seen more than a few attempts and believes this approach can work.
+
+He hints the Wiki is just the first step, and if this takes off, you could see other tools and stand-alone mobile apps down the road.

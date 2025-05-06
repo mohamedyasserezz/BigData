@@ -1,0 +1,25 @@
+Yelp invites hackers to expose vulnerabilities through bug bounty program
+
+Hackers, start your engines.
+
+Yelp launched apublic bug bounty programtoday, inviting the world’s hackers to pick apart its websites and mobile app in search of vulnerabilities that could affect reviewers and businesses. Yelp will pay researchers for their work, starting at $100 and maxing out at $15,000 for more complex or critical exploits.
+
+The program, which Yelp is coordinating through the bug bounty platform HackerOne, is a public expansion of a bug bounty system that Yelp has privately run for two years. The private version was open to dozens of researchers, who uncovered more than 100 vulnerabilities for Yelp and earned $65,160 in total, and focused primarily on Yelp’s main website. Now, Yelp is inviting everyone to test several Yelp sites and products.
+
+Expanding the bug bounty program to HackerOne’s thousands of hackers will bring a much-needed diversity of ideas — and exploits. “Diversity will ensure they truly find everything,” HackerOne CEO Marten Mickos told TechCrunch. “When you invite everybody, statistically you will end up finding everything.”
+
+HackerOne automates the bug reporting and payment processes for companies, making it easier for them to introduce bug bounties. Tech giants likeGoogle,FacebookandApplerun their own bounty programs, but many others, including Twitter, Uber, and Github, run their programs through HackerOne.
+
+The expansion of the bug bounty program comes as Yelp has grown its security team. “Our security team has matured and we feel more capable to handle the increased scrutiny a public program gives us,” Yelp’s head of security Vivek Raman told TechCrunch in an email.
+
+Yelp, which averages 73 million unique visitors to its desktop site and 63 million unique visitors on mobile each month, is asking hackers to cover broad ground — the bug bounty program includes the company’s main website, yelp.com, as well as it’s business-owners website, apps, reservation platform, corporate blogs, support center, and API.
+
+Areas of particular concern for Yelp include reviews, which of course are the core of the company’s business. Yelp wants hackers to find exploits that would allow a review to be altered. The company also wants to make sure reviewers’ email addresses, payment details, and personal information stay private.
+
+Yelp wants to protect business owners’ privacy too — it’s asking hackers to look for problems in the business-facing website, biz.yelp.com, that would allow someone to maliciously impersonate a business owner, including an employee who may have some permissions on the business account.
+
+Yelp excludes automated vulnerability scanning, newly-acquired companies or sites, and third-party systems not under Yelp’s direct control. Eat24, the food delivery serviceYelp acquiredlast year, is also excluded from the program — for now.
+
+“As we continue to integrate Eat24 and other properties more closely withYelp, we’ll start to expand the scope of ourbug–bountyprogram,” Raman wrote. “We’ll likely follow a similar pattern as we did withYelp: a small-scale private program first, followed by a publicbug–bountyprogram.”
+
+To help hackers get started, Yelp is providing details on what kinds of vulnerabilities it wants discovered, and the code involved in its products. For all the details, check outYelp’s HackerOne page.

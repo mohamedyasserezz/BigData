@@ -1,0 +1,19 @@
+Backtrace, a debugging startup led by former AppNexus engineers, raises $5M
+
+Debugging startupBacktrace I/Owas launched to solve a real problem that its founders faced when they were engineers at adtech company AppNexus — at least according to Backtrace CEO and co-founder Abel Mathew.
+
+Mathew told me Backtrace aims to “solve the process of debugging,” something that most companies tackle by “cobbling together very old, outdated solutions” or by building their own tools.
+
+“That’s part of the reason why developers spend 50 percent of their time debugging,” he said. “It’s a huge cost to the industry … That cost is significantly felt when you have developers not using the right solutions.”
+
+The company is announcing that it has raised $5 million in Series A funding, bringing itstotal fundingto $6.1 million. The round was led by Amplify Partners, with participation from Work­-Bench and previous investors Rally Ventures and Tribeca Venture Partners. Amplify’s Sunil Dhaliwal is joining Backtrace’s board of directors.
+
+“Software won’t eat the world if engineers are held back by debugging technology conceived during the Cold War,” Dhaliwal said in the funding release. “Backtrace makes software better by automating this critical capability for an era where continuous delivery, web­-scale deployments, and enterprise-­class reliability will be the norm for all software developers.”
+
+[vimeo 196323169 w=640 h=360]
+
+Backtrace features include searchable error reports, a database of all crashes, debugging assistance, automated alerts and more. Asked for an example of how Backtrace is different, Mathew said that if an application crashes, a normal debugging tool might allow you to get astack trace, but Backtrace will “give me more context like variable information — you need to understand environmental information. … We allow you to explore that data at scale efficiently.”
+
+Customers include Mathew’s old employer AppNexus, as well as MediaMath, Circonus and Fastly. He said the company has been focusing on “demanding software in industries like enterprise software and internet infrastructure,” which usually means working with large enterprises. But it could be used by anyone building software.
+
+“From the small startup to the single, individual indie video game developers, Backtrace fits a need there,” he said. “Wherever software is, it’s inevitably going to have an error, inevitably have a bug. Backtrace is trying to solve the problem of managing and analyzing their errors at scale.”

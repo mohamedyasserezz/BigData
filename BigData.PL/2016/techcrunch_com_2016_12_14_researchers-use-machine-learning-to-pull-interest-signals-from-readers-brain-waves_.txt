@@ -1,0 +1,47 @@
+Researchers use machine learning to pull interest signals from readers’ brain waves
+
+How will people sift and navigate information intelligently in the future, when there’s even more data being pushed at them? Information overload is a problem we struggle with now, so the need for better ways to filter and triage digital content is only going to step up as the MBs keep piling up.
+
+Researchers in Finland have their eye on this problem and have completed an interestingstudythat used EEG (electroencephalogram) sensors to monitor the brain signals of people reading the text of Wikipedia articles, combining that with machine learning models trained to interpret the EEG data and identify which concepts readers found interesting.
+
+Using this technique the team was able to generate a list of keywords their test readers mentally flagged as informative as they read — which could then, for example, be used to predict other relevant Wikipedia articles to that person.
+
+Or, down the line, help filter a social media feed, or flag content that’s of real-time interest to a user of augmented reality, for example.
+
+“We’ve been exploring this idea of involving human signals in the search process,” says researcher Tuukka Ruotsalo. “And now we wanted to take the extreme signal — can we try to read the interest or intentions of the users directly from the brain?”
+
+The team, from the Helsinki Institute for Information Technology (HIIT), reckon it’s the first time researchers have been able to demonstrate the ability to recommend new information based on directly extracting relevance from brain signals.
+
+“There’s a whole bunch of research about brain-computer interfacing but typically… the major area they work on is making explicit commands to computers,” continues Ruotsalo. “So that means that, for example, you want to control the lights of the room and you’re making an explicit pattern, you’re trying explicitly to do something and then the computer tries to read it from the brain.”
+
+“In our case, it evolved naturally — you’re just reading, we’re not telling you to think of pulling your left or right arm whenever you hit a word that interests you. You’re just reading — and because something in the text is relevant for you we can machine learn the brain signal that matches this event that the text evokes and use that,” he adds.
+
+“So it’s purely passive interaction in a sense. You’re just reading and the computer is able to pick up the words that are interesting or relevant for what you’re doing.”
+
+While it’s just one study, with 15 test subjects and an EEG cap that no one would be inclined to put on outside a research lab, it’s an interesting glimpse of what might be possible in future — once there are less cumbersome, higher quality EEG sensors in play (smart thinking cap wearables, anyone?), which could be feasibly combined with machine learning software trained to be capable of a little lightweight mind-reading.
+
+“If you look at the pure signal you don’t see anything. That’s what makes it challenging,” explains Ruotsalo, noting the team was not interpreting interest by tracking any physical body movements such as eye movements. Their understanding of relevance is purely based on their machine learning model parsing the EEG brain waves.
+
+“It’s a really challenging machine learning task. You have to train the system to detect this. There are much easier things like movements or eye movements… that you can actually see in the signal. This one you really have to do the science to reveal it from noise,.”
+
+Ruotsalo says the team trained their model on a pretty modest amount of data — with just six documents of an average of 120 words each used to build the model for each test subject. The experiment did also involve a small amount of supervised learning initially — using the first six sentences of each Wikipedia article. In a future study they would like to see if they could achieve results without any supervised learning, according to Ruotsalo.
+
+And while the concept of ‘interest’ is a pretty broad one, and a keyword could be being mentally flagged by a reader for all sorts of different reasons, he argues people have effectively been trained to navigate information in this way — because they’ve got used to using digital services that function via a language of just such interest signals.
+
+“This is what we are doing now in the digital world. We are doing thumbs up or we are clicking links and the search engines, for example, whenever we click they think now there is something there. This makes it possible without any of this explicit action — so you really read it from the brain,” he adds.
+
+[youtube=https://www.youtube.com/watch?v=3XIJgiLJwbI&w=853&h=480]
+
+The implications of being able to take interest signals from a person’s mind as they derive meaning from text are pretty sizable — and potentially a little dystopic, if you consider how marketing messages could be tailored to mesh with a person’s interests as they engage with the content. So, in other words, targeting advertising that’s literally reading your intentions, not just stalking your clicks…
+
+Ruotsalo hopes for other, better commercial uses for the technology in future.
+
+“For example work tasks where you have lots of information coming in and you need to control many things, you need to remember things — this could serve as a sort of backing agent type of software that annotates ‘ok, this was important for the user’ and then could remind the user later on: ‘remember to check these things that you found interesting’,” he suggests. “So sort of user modeling for auto-extracting what has been important in a really information intensive task.
+
+“Even the search type of scenario… you’re interacting with your environment, you have a digital content on the projector and we can see that you’re interested in it — and it could automatically react… and be annotated for you… or to personalize content.”
+
+“We are already leaving all kinds of traces in the digital world. We are researching the documents we have seen in the past, we maybe paste some digital content that we later want to get back to — so all this we could record automatically. And then we express all kinds of preferences for different services, whether it’s by rating them somehow or pressing the ‘I like this’. It seems that all this is now possible by reading it from the brain,” he adds.
+
+It’s not the first time the team has been involved in trying to tackle the search and info overload problem. Ruotsalo was also one of the researchers who helped build a visual discovery search interface called SciNet,covered by TC back in 2015,that was spun out as a commercial company calledEtsimo.
+
+“Information retrieval or recommendation it’s a sort of filtering problem, right? So we’re trying to filter the information that is, in the end, interesting or relevant for you,” he says, adding: “I think that’s one of the biggest problems now, with all these new systems, they are just pushing us all kinds of things that we don’t necessarily want.”

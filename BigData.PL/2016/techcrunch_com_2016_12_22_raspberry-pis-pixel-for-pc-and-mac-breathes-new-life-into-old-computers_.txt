@@ -1,0 +1,11 @@
+Raspberry Pi’s Pixel for PC and Mac breathes new life into old computers
+
+Pixel is a lightweight operating system with a clean desktop UI released by the foundation behind the affordable, tinker-friendly Raspberry Pi $35 computer in September, and now it’savailable for PC or Mac userswho might want to throw old hardware into renewed service. The lightweight Linux-based OS now comes as a downloadable image you can either burn to a DVD or load onto a USB drive, letting you boot directly into the Pixel environment on any Mac or PC that has at least 512MB of RAM and an x86 processor.
+
+That means if you have an old laptop lying around, like the OG plastic MacBook or an ancient ThinkPad, you could get it going again with a modern OS for basic tasks, including web browsing via Chromium which is pre-installed. Other software in Pixel includes a select suite of productivity software and programming tools, and it’s all built on Debian, which itself has a wide range of free software available.
+
+Raspberry Pi is distributing a physical booting DVD withThe MagPimagazine on this month’s issue, but you can very easily create your own bydownloading the image hereand burning it to your own disk or drive. The Foundationrecommends Etcherto create the bootable drive, and indeed, it makes the whole process quite user friendly.
+
+This is a prototype build, so expect to encounter some bugs and hardware compatibility issues. Raspberry Pi says that modern Macs will have trouble recognizing the drive as bootable, so that’s a known problem. But the organization said it was important they create this Mac and PC version fist because they believe it’s useful for schools to be able to install the OS on old hardware, so that it’s one environment across home and school for students using Raspberry Pis at home, and because they really want to make a go of turning Pixel into the best desktop OS out there, regardless of hardware.
+
+The standard disclaimers apply: you use this at your own risk, and the risk of your files on your old computers. And if you want to save files locally, you’ll need to use a USB drive for write capability. But it really sounds like a pretty low-risk way to resuscitate old hardware you might have hanging around.

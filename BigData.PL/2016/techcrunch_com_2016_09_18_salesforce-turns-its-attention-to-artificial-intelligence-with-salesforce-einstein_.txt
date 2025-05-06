@@ -1,0 +1,25 @@
+Salesforce Einstein delivers artificial intelligence across the Salesforce platform
+
+Say what you will about Salesforce, the company is always looking ahead. This afternoon, it announced Salesforce Einstein, its artificial intelligence (AI) initiative.
+
+The timing, which comes just ahead of rival Oracle’sOpen World keynote address, is probably not a coincidence. Regardless, the larger AI theme is something Salesforce has been working on across various pieces of its platform over the last couple of years. Today’s announcement is about tying it together to show the breadth of this approach.
+
+Every year has its leading technology trends and clearly this year, artificial intelligence and its close cousin, machine learning are our favorite flavors. When the biggest companies including Google, Microsoft and AWS are building AI and machine learning tools, it is more than simply a buzzword.
+
+Salesforce has always tried to stay ahead of the curve. It was after all, one of the first true cloud offerings (even though we didn’t call it that then). Whenit announced an Internet of Things cloudlast year — when IoT was itself flavor the year — it caused some raised eyebrows, but Salesforce recognized that devices and sensors would be giving signals that its users could collect to understand customers and markets better.
+
+A year later we have Salesforce Einstein, which isn’t so much a product as a technology umbrella under which all of Salesforce’s artificial intelligence pieces live. Being a Salesforce announcement, it is of course broad and includes lots of individual components, but the gist here is that Salesforce wants to use every aspect of its platform to take the complexity out of AI, giving Salesforce CRM an intelligence blast, while exposing the AI APIs to let customers build intelligent apps on the Salesforce platform.
+
+The company pulled together 175 data scientists to help create Salesforce Einstein, while leveraging acquisitions such as MetaMind, PredictionIO and RelateIQ. In fact, MetaMind founder Richard Socher, holds the title of Chief Data Scientist at Salesforce now. Salesforce Einstein will touch every one of its products in some way eventually.
+
+Among the AI pieces it is including in the platform are advanced machine learning, deep learning, predictive analytics, natural language processing and smart data discovery.
+
+Ultimately, it’s not very different from exposing any other parts of the platform to customers, but it’s focused on making a smarter CRM tool, one that surfaces the information that matters. Sometimes this information may seem apparent, signals any reasonably good sales person would be looking for. Salesforce’s goal here is to put this key data front and center, and it believes even the most skilled sales pros will benefit from this approach.
+
+For inside sales teams making cold phone calls all day long, the system can surface the most likely candidate as the next call automatically. For sales people working territories, it can keep them apprised of key information such as when a competitor’s interest shows up in the news. While you could argue that an astute sales person would be tracking this information, the Salesforce Einstein approach is designed to leave nothing to chance.
+
+One of the issues for companies trying to build smarter applications is having access to a quality data set. Salesforce has access to a large body of information about customers, territories, and so forth, and it can provide aggregated data from customers who choose to share that information (without exposing any competitive details). It made clear it won’t share information if a company opts out, and it can assure that through the concept of data tenancy — that is, that each company has its own place of residency on the platform.
+
+Pricing and availability will vary, and may involve an additional charge, or could be included with the cost of the license, depending on the service. Einstein AI tools are built in across the platform such as Community Cloud with automated community case escalation and recommended experts, files and groups; Analytics Cloud with smart data discovery and Commerce Cloud with product recommendations. All of these are all generally available today, while others will be announced over the coming months. Prediction.IO is an open source machine learning tool, and is availablefor free download.
+
+It’s important to note that Salesforce didn’t necessarily invent these AI approaches, but is building a version of many AI and machine learning tools. That said, what Salesforce is attempting to do here is highly ambitious, and this is just the start. Being somewhat early, it could be some time before it really begins to take hold with customers in a broad way, but in typical Salesforce fashion, it wants to be there whenever customers are ready.

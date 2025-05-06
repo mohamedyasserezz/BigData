@@ -1,0 +1,21 @@
+Apple leaps into AI research with improved simulated + unsupervised learning
+
+Corporate machine learning research may be getting a new vanguard in Apple. Six researchers from the company’s recently formed machine learning grouppublished a paperthat describes a novel method for simulated + unsupervised learning. The aim is to improve the quality of synthetic training images.The workis a sign of the company’s aspirations to become a more visible leader in the ever growing field of AI.
+
+Google,Facebook,Microsoftand the rest of the techstablishment have been steadily growing their machine learning research groups. With hundreds of publications each, these companies’ academic pursuits have been well documented, but Apple has been stubborn — keeping its magic all to itself.
+
+Things started to change earlier this month when Apple’s Director of AI Research, Russ Salakhutdinov,announced that the companywould soon begin publishing research. The team’s first attempt is both timely and pragmatic.
+
+In recent times, synthetic images and videos have been used with greater frequency to train machine learning models. Rather than use cost and time intensive real-world imagery, generated images are less costly, readily available and customizable.
+
+The technique presents a lot of potential, but it’s risky because small imperfections in synthetic training material can have serious negative implications for a final product. Put another way, it’s hard to ensure generated images meet the same quality standards as real images.
+
+Apple is proposing to useGenerative Adversarial Networksor GANs to improve the quality of these synthetic training images. GANs are not new, but Apple is making modifications to serve its purpose.
+
+At a high level, GANs work by taking advantage of the adversarial relationship between competing neural networks. In Apple’s case, a simulator generates synthetic images that are run through a refiner. These refined images are then sent to a discriminator that’s tasked with distinguishing real images from synthetic ones.
+
+From a game theory perspective, the networks are competing in a two-player minimax game. The goal in this type of game is to minimize the maximum possible loss.
+
+Apple SimGAN variation is trying to minimize both local adversarial loss and a self regulation term.  These terms simultaneously minimize the differences between synthetic and real images while minimizing the difference between synthetic and refined images to retain annotations. The idea here is that too much alteration can destroy the value of the unsupervised training set. If trees no-longer look like trees and the point of your model is to help self-driving cars recognize trees to avoid, you’ve failed.
+
+The researchers also made some fine-tuned modifications, like forcing the models to use the full history of refined images, not just those from the mini-batch, to ensure the adversarial network can identify all generated images as fake at any given time. You can read more about these alterations directly from Apple’s work, entitledLearning from Simulated and Unsupervised Images through Adversarial Training.

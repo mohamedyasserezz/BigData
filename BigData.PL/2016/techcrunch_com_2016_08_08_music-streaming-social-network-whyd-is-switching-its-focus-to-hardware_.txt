@@ -1,0 +1,15 @@
+Music streaming social network Whyd is switching its focus to hardware
+
+French startupWhydstarted off as a social network for music lovers. Going forward, the company is going to focus on releasing a connected speaker. For existing users, the social network isn’t going away. Whyd is open-sourcing it and still hosting it atOpenwhyd.org.
+
+Launched in 2012, Whyd has been looking at ways toimprove music discoverability. The social network let you bookmark tracks and share them with your friends. It worked with many different streaming sites, including YouTube, SoundCloud and Bandcamp.
+
+And if you’re really into remixes, mixtapes and alternative music, you know that it can be a pain to keep track of all the good stuff you find on SoundCloud, YouTube and other websites. Spotify and Apple Music aren’t there when it comes to hosting all the music in the world.
+
+Whyd was a good way to follow curators and see what they were listening to. But now that all major music streaming services are fighting for music discovery, it’s hard to convince users that they should use yet another platform for the discovery aspect.
+
+But Whyd isn’t giving up. The company is now trying to launch a new product — a connected speaker. The company promises “ultra high-end audio and intelligent voice control” and launched atease site.
+
+As for existing Whyd users, the website now lives atOpenwhyd.organd the company is releasing the source code. Whyd hopes its most dedicated users will now take care of the code base with Whyd’s head engineer Adrien Joly still moderating the project.
+
+To be honest, I’m more curious about what the team has been up to with this mysterious speaker. It sounds like Whyd wants to build an Amazon Echo competitor with a better speaker, and focused on music. As the Amazon Echo is only available in the U.S., the company could easily get some customers outside of the U.S. The company says pre-orders should start soon.

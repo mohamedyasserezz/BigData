@@ -1,0 +1,11 @@
+Dooze is an alarm clock with consequences
+
+I’m not a morning person and the snooze button on my alarm clock regularly gets a workout. If you suffer from the same issue (and own an Amazon Echo or similar Alex-enabled device), then maybeDoozeis for you.
+
+Jade Feng,Junshu OkamotoandMuhammed Gübuilt the project during our Disrupt SF Hackathon this weekend. It gives you a strong incentive to avoid your snooze button because if you do, you’ll pay. Feng calls it “the alarm clock of your nightmares.”
+
+If you use Dooze and then tell your Alexa to snooze the alarm, you’ll be charged a set amount of money (using Braintree’s to charge your credit card). Do it again and that number increases. Then, if you snooze for too long, the service then asks a friend of yours to call you (using Twilio’s APIs). There is also an option to have Alexa ask you math questions if you snooze too long, too (I’m not sure which option is worse…).
+
+The team ran into into a major problem, though. Alexa doesn’t really allow you to set an alarm at this point. The team hopes that Amazon will add this ability in the next version, though, and as Feng and Okamoto told me, the plan is to come back to the service once Amazon makes it easier for them to work with alarms.
+
+It’d be cool if you could automatically make a donation to your favorite charity when you snooze, too, but that was probably beyond the scope of this weekend project for now.

@@ -1,0 +1,23 @@
+Slingr turns Slack into the ultimate task manager
+
+Slack is great for taking lunch orders and sharing GIFs with an international team (as us about “Whiplash Wednesday!”) but it breaks down when you try to get real work done. That’s why Slingr exists.
+
+Created by experienced product manager Grace F. Schroeder,Slingrwas designed first as a platform and then as a product. Shroeder wanted something that a disparate team could use to connect with each other and set up tasks and code maintenance. Her experience at multiple very early cloud startups told her that software as a service was the way to go.
+
+“In 2006, people were just starting to talk about cloud services. I encountered a few web development shops that were starting to configure tools like Sugar and VTiger for mid-sized companies,” she said. “They constantly complained that those early frameworks had rigid data models, and that ‘cracking’ the data model to get the application to work as the customer expected negated the time savings of having a platform in the first place. That stuck in my head as a problem that would never go away.”
+
+The result is Slingr, a platform that connects multiple cloud services together in an enterprise environment. Her initial proof of concept, SlingrPRO, is focusing on Slack integration.
+
+“Given the rise in popularity of Slack, we decided that the best way to showcase the flexibility of SLINGRPro was to create a dynamic application designed from scratch to help Slack users achieve their business automation/SaaS integration dreams,” she said. “Since we launched the application on the Slack App store in late July to beta customers, we’ve been able to add integrations to the Google Calendar, Google Contacts and most recently, IBM Watson Tone Analyzer. Now Slack users can run their written words through IBM Watson to see what tones will likely resonate with their readers.”
+
+The platform has 3,000 active daily users and they’ve raised $2.1M from a small group of angel investors to date. They’ve reinvested proceeds back into the product.
+
+The entire platform can do a number of things including rapid application development, UI and REST API auto-generation, and full-stack JavaScript application creation.
+
+“Our plan is to introduce a steady stream of integrations that work ‘out of the box’ with SLINGR/Slack,” she said.
+
+Obviously this is some pretty heady stuff. The way to think about Slingr is it’s an integration platform that connects various services – Google Calendar with Mailchimp with notifications sent to a Slack channel, say – and does it seamlessly and quietly. The value proposition for a big company is pretty clear.
+
+“In the olden days, when pterodactyls circled the earth, you’d have but a few software vendors sniffing around your door. The angst of decision making was low as long as you stuck to the Big Blues of the world. The only software that took root in the small business in a big way was Microsoft Office,” said Schroeder. “We see the most success in incremental everything. Small, non-disruptive steps that steadily get company data where it does the most good versus the swinging change pendulum that sometimes clock companies senseless.”
+
+If Slingr can automateWhiplash Wednesdaythen I’m all in.

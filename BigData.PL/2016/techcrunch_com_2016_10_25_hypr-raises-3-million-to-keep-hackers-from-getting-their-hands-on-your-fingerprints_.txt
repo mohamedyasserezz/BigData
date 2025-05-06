@@ -1,0 +1,31 @@
+HYPR raises $3 million to keep hackers from getting their hands on your fingerprints
+
+If your account gets hacked these days, the first thing you’ll do typically is reset your password, maybe beef up your security settings, and proceed to use the account or app again. But what if hackers get their hands on your fingerprint, iris or other biometric data? You can’t just change your fingerprints or eyes on a whim.
+
+That’s where a New York City startup calledHYPR Corp.comes in. The company has developed cybersecurity solutions to protect biometric data so that it can be used safely in lieu of alphanumeric passwords.
+
+According to CEO George Avetisov, what HYPR does is to decentralize and encrypt biometric data, making it a pain for hackers to get their hands on it in the first place, and requiring them to go after targets one by one, instead of breaking into a huge treasure trove of data through one corporate system.
+
+With HYPR, a user’s fingerprint, facial traits, or other biometric data is at least temporarily stored on their mobile device. HYPR encrypts this data, so it never leaves their tablet or phone directly.
+
+If a bank requires a user to scan their iris before they can make any transfer over a certain amount, HYPR sends the bank a token verifying the user’s identity for just that instance, so the bank doesn’t need to receive any actual scan of the customer’s eye.
+
+This process, called “tokenization,” is what makes chip-based credit cards safer than those with magnetic strips, too.
+
+HYPR has closed a $3 million seed round to make its cybersecurity products known within and beyond financial services where the company has gained early traction.
+
+HYPR’s CEO said the company sees demand for biometric security in every industry from banking to automotive and consumer electronics today.
+
+“It’s not a good user experience to have to log into your toaster with a password. And you don’t want to unlock your home or car door with a PIN that someone could hack and steal,” he said. “As more and more IoT devices become part of our lives, we will work with manufacturers to make them all as safe as a bank’s mobile app.”
+
+HYPR’s seed backers include:RTP Ventures,Boldstart VenturesandMesh Ventures.
+
+RTP Ventures Managing Director Kirill Sheynkman, previously the CEO and cofounder of Plumtree Software, said he expects HYPR to use its funding for hiring, and to work with customers in financial services, health insurance and the Internet of Things.
+
+“I believe in this day and age you have to focus your marketing, sales and business development on vertical markets,” the investor said.
+
+Sheynkman said one of the reasons he backed HYPR is that the company’s timing is great. Biometrics are just becoming mainstream, but HYPR already has clients and a serious product in the market, the investor noted.
+
+Our office doors may not be equipped with face-scannning locks quite yet, but smartphones from the iPhone to the Google Pixel use a fingerprint sensor, and myriad bank apps are using speaker recognition (a.k.a. voice prints) to verify users.
+
+Juniper Researchforecasts that by 2019, users will be downloading 770 million biometric authentication apps annually, compared to an estimated 6 million just last year.

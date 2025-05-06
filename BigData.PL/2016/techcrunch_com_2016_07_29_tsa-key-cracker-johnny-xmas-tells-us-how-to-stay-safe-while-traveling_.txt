@@ -1,0 +1,27 @@
+TSA key cracker Johnny Xmas tells us how to stay safe while traveling
+
+[youtube=https://www.youtube.com/watch?v=GekBT0a3STQ]
+
+A few days ago wereported that a group of hackers at the HOPE Conferencein New York told the world that they had cloned the last TSA Master Key. These keys, which were leaked in a Washington Post article, are a bit of security theatre coupled with a lot of poor engineering. Johnny Xmas believes, however, that personal security is important, and he wanted to tell us how they cracked the keys and how you can protect yourself in the future.
+
+TC: What’s your goal in cracking these keys?Johnny: We’re trying to provide a tangible means of understanding the problems with entrusting third parties with master keys we can’t revoke, such as happened recently with the Apple/FBI fiasco.
+
+TC: Tell me about this project? Why did this final key take so long?
+
+J: We (with the help of several others) released CAD designs of the first 7 keys in mid-2015. Jenna’s article from The Intercept has some good general detail on that, specifically that those 7 were recreated from photos obtained via TravelSentry documents. Fun fact – the CAD of the TSA006 key is not complete, and thus nonfunctional because the key is of a type that requires much more information than a 2D photograph can provide. This was publicly discussed often by those involved, but glossed over by reporters.
+
+The 8th key took much longer to figure out because it is not based off the Travel Sentry standard. It was designed by another company the TSA partnered with to design a lock/key standard: Safe Skies. You can see this notation on the lock in the cover photo you used on the article. To date, we have found no evidence that photographs of the Safe Skies master key have been discovered anywhere, or taken and leaked. As such, we had to reverse-engineer the key master key for this system.
+
+TC: How did you crack it?
+
+J: Long story short, Nite 0wl stumbled upon the Rosetta Stone of the Safe Skies system in the form of aTSA-approved combination lock. This combination lock had a keyway as well, but shipped with no key for the user. You may recall similar locks from High School or so, where you’d buy a combo lock from the bookstore, and it would have a keyway in the back of it for school administrators to be able to bypass the combination.
+
+Removal and disassembly of this lock tumbler revealed something terrible: the keyway was not dual-pinned to support both a master key and a “user” key; it only supported one single key. Since all TSA-approved locks are required to comply with a master key, and this lock could only take a single key, could Safe Skies really have broken the cardinal rule of key escrow and actually used the master key as the ONLY key for a lock?
+
+TC: How did you figure out the key configuration?J: The process of filing down a key to fit a lock is fairly easy and straightforward (pending you can disassemble the lock, which we had done). Once the key for this lock had been devised, it was tried on various other Safe Skies locks and it was confirmed: this was, in fact, the missing Safe Skies Master Key. Work was then begun on the CAD design, which was much more straightforward now that exact measurements could be made directly from a physical key.
+
+TC: You guys took umbrage when I suggested that luggage locks were pointless. Why?J: While I understand the irony you were attempting to convey with your mention of luggage locks being pointless, it’s somewhat misplaced. While yes, using a TSA-approved padlock to lock your luggage is pointless now, it has actually always been pointless. We have yet to come across a TSA-approved padlock that didn’t border on worthless garbage as far as strength and general “pickability” goes. Note the 006-style of locks are actually very secure as far as ability to be picked, though I’ve only seen these in use as built-in locks onRimowa luggage. On top of that, it seems very few people are aware thatyou are not required to use TSA locks on your luggage. You can use any lock you want, you just need to be aware that the TSA will cut it if they believe your luggage requires “enhanced screening.” Our good friend and longtime locksport pioneer Deviant Ollam likes to use famously insanely difficult-to-cutAbloy PL330 padlocks on his luggage. TSA often deems this not worth the hassle, though on at least one occasion his locks have been broken off by chaining them to the back of a truck.
+
+This brings up another important matter: most luggage itself is worthless garbage, as far as security is concerned. Putting a lock on junk luggage is like locking a paper bag. So, yeah, if you’re luggage is junk, don’t bother locking it. And if you’re not going to bother locking it, stop putting your valuables in it. Keep them in your carry-on that every airline allows you to have for free. If there’s nothing valuable in there to begin with, then this entire conversation is moot.
+
+[youtube=https://www.youtube.com/watch?v=wpIJVWXsBBI]

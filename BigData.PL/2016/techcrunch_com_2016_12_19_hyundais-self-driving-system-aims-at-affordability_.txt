@@ -1,0 +1,15 @@
+Hyundai’s self-driving system aims at affordability
+
+Automaker Hyundai wants you to know that it’s also embracing the race to autonomous driving — but it’s also hoping to do so in a way that differs from the approaches of most automakers, in striving for tech that will both be available in vehicles owned by individuals, and that will actually be affordable for a good portion of car buyers.
+
+Hyundai debuted its self-driving tech this week, with the first public rides provided on the streets of Las Vegas ahead of CES in January. Hyundai’s using the Ioniq as the base for its test vehicle, and surprisingly its prototype vehicles actually look pretty much like stock Ioniq’s — lacking the crown of large, obvious sensors that we’ve become accustomed to seeing in self-driving cars brave enough to tackle city streets.
+
+That doesn’t mean these cars are running blind; Hyundai’s vehicles include four optical cameras behind the windshield, front- and side-facing LiDAR units, front mid- and long-range radars and rear-facing radars, too. That’s still a more conservative sensor loadout than you might get on, say, Uber’s autonomous vehicles, but there’s a reason for Hyundai’s restraint: a smaller overall volume of input means less onerous compute requirements on board the vehicle, which ultimately means lower cost for the system overall.
+
+Hyundai’s looking to fill gaps in its overall sensor picture using downloadable, high-accuracy mapping data, which means an area needs to be fully mapped out before autonomous driving can take place there using these vehicles. But asEngadget found in its test drive, if the mapping is there, the system seems to handle on-road obstacles, like pedestrians, with ease, or at least it did during a Las Vegas public road demo.
+
+The important thing about Hyundai’s approach is that it might make it possible to include autonomous-driving features on an affordable, even entry-level vehicle, whereas others targeting self-driving systems for individual-owned cars are generally planning to offer them as high-end options on high-end vehicles, like Volvo.
+
+Hyundai says that its work in Advanced Driver Assistance Systems (ADAS) are helping chart its path toward full autonomy, with a planned sensor standardization deadline on vehicles and functional benchmark in place in the 2019-2021 range. Full autonomy still has a number of barriers to overcome, however, beyond the technical — including regulatory and customer acceptance — so vehicles with full autonomous capabilities in the hands of everyday drivers are still quite a while off.
+
+Still, Hyundai is already thinking ahead to mass production, and that could be a big help in the future, especially if the cost of components like LiDAR decrease considerably between now and then, as they appear likely to. Aiming for affordability for individuals, and not just fleets or luxury buyers, is also a noble undertaking. Tesla, it’s worth noting, also seems to have interest in making this happen with the sensor suite and compute stack that will ship in the Model 3, but Hyundai’s approach still could do a lot for the affordability of autonomy at scale.

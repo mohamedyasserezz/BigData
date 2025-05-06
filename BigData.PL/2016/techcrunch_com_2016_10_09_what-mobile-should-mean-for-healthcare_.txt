@@ -1,0 +1,43 @@
+What ‘mobile’ should mean for healthcare
+
+Ask a set of healthcare professionals about the future and they’ll answer: “Mobile.”
+
+Mobile technology is nearing ubiquity in America; aPew Research reportshows 64 percent of all adult Americans own a smartphone, and ownership rates among millennials reach above 80 percent. It’s clear that to stay relevant and access the next generation of patients, the healthcare industry must innovate its mobile efforts.
+
+But after a number of recent discussions with healthcare executives, I’ve noticed the industry is lacking a clear definition of what “mobile” really means. Continue the conversation with the same set of professionals being asked about the future and you might notice some use “apps” and “mobile” interchangeably. Others use it as a term to refer to anything digital. A few might not be able to define it at all.
+
+So what, specifically, is a mobile healthcare (mHealth) solution? Mobile healthcare (noun):
+
+Short definition — Any healthcare service provided via a mobile technology platform.
+
+Full definition — InConnected Sustainable Cities, authors Federico Casalegno and William J. Mitchell introduce readers to Lucia, a fictional 65-year-old diabetic living in the then-future San Francisco, and her futuristic device called a “Passport.” The Passport, described as “the size of a wallet, with a touch screen, GPS, Wi-Fi, and a ubiquitous video connection” was intended to integrate and coordinate a variety of services across the city… but, for Lucia, it is primarily an mHealth device.
+
+While walking to the bus stop, Lucia’s Passport recommends longer routes in order to comply with her doctor’s instructions to walk more. It allows her to check in for a clinic appointment and answer questions posed by her doctor while in route. After an appointment, the Passport reminds Lucia when it’s time to take her medication. The futuristic device is what most mHealth solutions strive to be — a context-aware system that streamlines several aspects of healthcare and helps improve patient compliance.
+
+The Passport may only be a concept, but the mobile devices we have today can be just as effective and efficient when it comes to mHealth. Current mobile platforms include smartphones, smartwatches and mobile tablets. Some potential technologies offer additional forms, like the hands-free Google Glass, but, as yet, have not reached the critical mass required to be deemed mainstream. Any healthcare service that sits on top of those mobiles devices is an mHealth solution.
+
+The designs for those healthcare services are diverse. Some mHealth solutions target future fitness or diet goals with gamified apps, while others deal with administrative aspects of the industry, such as scheduling appointments or refilling prescriptions through text. More yet specialize in helping change patient behavior or treat chronic diseases by providing tools to track symptoms and communicate with medical professionals. While varied, they all fall under mHealth.
+
+Today, many mHealth solutions are produced as apps. Nearly every health insurer in the U.S. has at least one app, including UnitedHealth, Anthem, Aetna and Kaiser Permanente, as well as most large U.S. hospitals (66 percent produce their own apps for patients, according toresearch from Accenture. There also are a range of popular consumer mHealth apps available, likeRunKeeperandMyFitnessPal.
+
+I have found the large number of mHealth apps offered can cause some confusion when trying to define mobile healthcare solutions, as companies producing their own mobile solutions can come to believe mHealth is equivalent to healthcare apps.
+
+Specifically, many companies find themselves pressured into an mHealth strategy because the competition is doing it, and the easier way to move forward is by developing an app. Yet, often they either copy what others have done or completely replicate what they are currently doing online or in person.
+
+One must take a step back and ask the question: Why am I doing this in the first place?
+
+Apps are part of the mHealth portfolio — but limiting the definition of mHealth to apps limits its flexibility. There are many other mHealth options beyond apps.
+
+Mobile, by its pure essence, is a communication tool. It provides individuals with a way to communicate and share information at any time, at any location, via multiple modalities (e.g. voice, text, messaging).
+
+Imagine being able to opt-in to a text-based reminder system set up by your doctor’s office to send you a custom text a few minutes before you need to take your medication, or an interactive system that allows you to send information about how many steps you’ve taken, your blood sugar levels or your diet for the day, and receive feedback from medical staff offering encouragement or correction. Systems like these are being implemented using technology readily available to patients, and are proving to have a wide reach for providers.
+
+Hahnemann Hospital, for example, created a pilot program to reduce its 30-day readmissions among chronic heart failure patients in 2015. The program utilized a text and email system to get patients into follow-up appointments by sending reminders ahead of the visit. After 10 months, the hospital had reduced its 30-day readmissions by 16 percent among patients who received the messages. The study showed that a simple text-based reminder system can be considerably effective in reducing readmission — which improves patients’ lives and reduces costs for the hospital.
+
+Of course, whether in the form of an app or an alternative system, mobile does have limitations.  Its limited display “real estate” and not always consistent and reliable connectivity speeds (depending on one’s wireless service provider) provide key constraints on its usability.
+
+The medium is not typically well-suited for processes where users need to consume detailed or lengthy information, or require an extensive amount of data entry. Likewise, some conversations and topics are best addressed through other forms of communication, like verbally or face-to-face. At the core, mHealth is not intended to be, nor should it be, a complete replacement for the traditional patient care system.
+
+What mHealth is designed for is becoming an integral part of themodernpatient care system. The medium is at its peak when developers and producers stick to the basics. Mobile has always been a means of communication, in real time and accessible around the world. Leveraging these strengths can take the friction out of administrative systems, provide better access for and to patients and, overall, help facilitate human connections. There are few options as powerful.
+
+Simply put, a mobile healthcare solution is a new and exciting source of innovation for the healthcare industry. It is a flexible healthcare solution not tied to any specific form and based on an evolving platform of mobile technology. And it has the potential to improve the patient experience while lowering costs for healthcare providers — as long as the industry can agree on an apt definition.

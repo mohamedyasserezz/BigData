@@ -1,0 +1,29 @@
+Navisens raises $2.6 million to power its crazy accurate inertial smartphone/AR tracking
+
+Whether you’re clumsily attempting to find where your Uber is parked or trying to find your friend at a crowded venue, it’s clear that GPS has some major limitations that need to be fixed.
+
+Navisenswants to gather reliable mapping data from users’ smartphones without even touching GPS, instead relying on sensors like the gyroscope and accelerometer to track the phone’s positioning in space.
+
+Today, the company is launching its main patent-pending product called motionDNA, which uses internal sensors in AR headsets and smartphones to track a user’s location in tight urban areas.
+
+“GPS wasn’t created for use in urban environments, no matter how much it’s assisted by cell towers and WiFi access points or Bluetooth beacons,” said Dr. Ashod Donikian, Navisens’ founder and CEO. “But every smartphone comes with motion sensors, which our software reads in a unique way so that it can tell where your phone is located indoors, outdoors, and underground, along with the direction it’s facing and whether the device is stationary or in-use.”
+
+In conjunction with the launch of motionDNA, the San Francisco-based company has just closed a $2.6 million round of seed fundingled by Resolute Ventures with participation from KEC Ventures, Amicus Capital, Arba Seed Investment Group and angel investor Gokul Rajaram.
+
+Getting readings from the IMU (inertial-measurement unit) can allow you to get more accurate data in tighter urban areas or locations where GPS access is a bit spotty. Once your point on a map is initially established, either manually or by some sort of beacon, the IMUs can not only determine, say, what side of an apartment building you’re in, but it can also find the specific floor and unit.
+
+Navisens, which was founded in 2013, is largely focusing its technology towards enterprise customers that are interested in tracking employees or customers. For instance, you may install an app for a department store running the motionDNA platform, and depending on the permissions you give the app it can accurately determine which display you’re walking by in a specific department on a specific floor. That allows the app to see where you’re spending most your time and directing your attention.
+
+The IMU can also determine the frequency of your movement so it can tell when you’ve stopped or are cruising around. This data can be insanely useful to enterprise customers looking for available insights on the physical presences of the unique parties that are critical to their operation.
+
+This is a huge development for these types of customers who have previously had to rely on installing infrastructure hardware like bluetooth beacons or wifi access points to get some of this data. Now, it can be as simple as having an app on a smartphone.
+
+This type of technology is quickly becoming critical to augmented reality applications where orientation and position are insanely important since the headset is fixed on your face and mapped visual interfaces depend heavily on real-world surroundings.
+
+MotionDNA certainly isn’t the first product to attempt to interpret IMU data for mapping purposes, but Donikian believes that his company’s calculations and algorithms give it an advantage in promoting greater reliability in the data gathered from some of the low-quality sensors it has to work with.
+
+Drift can be a huge problem for this type of technology, if the device goes too long without a reading from the IMUs, other solutions using what Donikian calls “traditional” inertial algorithms can lose track of its positioning and turn the data useless rather quickly.
+
+“The sensors using the traditional techniques will drift like crazy,” Donikian told me. “We have this machine learning hybrid type of approach that gives us this huge advantage in what we do.”
+
+There are undoubtedly still some limitations to relying on IMUs for tracking, but as the tech world shifts more attention to augmented reality and aligning real world and digital experiences, the need to fine-tune location awareness past GPS is going to be increasingly critical.

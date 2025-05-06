@@ -1,0 +1,125 @@
+Inside Intel’s race to build a new reality
+
+I
+
+n many ways, virtual reality is still a moonshot.The $2 billionacquisition of Oculusby Facebook in 2014 lent the neo-futurist hobby a decidedly shortened timeline for consumer adoption. To the tech titans operating alongside it, the purchase was a signal. Mobile’s most prominent success story was setting its eyes on what could possibly be the next platform shift. To the companies that had been burned by mobile, this was a signal to act on virtual reality.
+
+It’s ironic, if not unsurprising, that so many of the companies investing heavily in VR and AR are the ones that screwed up the mobile revolution or lost control of it.
+
+HTC is actively positioning itself to turn VR into a core business as its handset sales collapse. Nokia, once the mobile phone market king, is building high-end virtual reality capture systems. Microsoft, which never seemed to strike a chord with Windows Mobile, is working heavily to build up Windows Holographic OS for headsets.
+
+Intel’s past decade has in many ways also been defined by its failure to capitalize on the demands and opportunities of the mobile platform shift. Decisions to cling to the past in terms of system architecture made it difficult for the company to keep up with companies like Qualcomm, Apple and Samsung. Earlier this year, the company announced plans tolay off nearly 12,000 employeesand kill development on some of its Atom mobile chipsets.
+
+Intel CEO Brian Krzanich will be the first to tell you that his company’s mobile woes are its own doing.
+
+He sees his company’s virtual reality initiatives as very early-stage projects that could end up becoming a critical business for the nearly 50-year-old Intel, where he’s worked since joining as an engineer in 1982.
+
+That year, VR was mostly a futuristic dream captured by movies like Tron. VR has arguably arrived in 2016, yet there’s still a growing cynicism that current VR efforts are nothing more than a host of PR stunts for many wayward companies to feign innovation with modest R&D dollars.
+
+All of this was on my mind as I traveled to Intel’s Santa Clara headquarters to take an exclusive first look at the company’s virtual reality lab where it’s researching how to virtually replicate our sensory experiences. This research into how we see, hear and feel the world is feeding into the company’s first major head-mounted display initiative, Project Alloy. It’s a wireless standalone VR headset optimized for its own brand of VR — something it calls “merged reality.”
+
+If Intel’s early tease of its Project Alloy wireless HMD brought gasps, the announcement that the headset would highlight a new type of interaction called “merged reality” ushered groans. When it comes to terminology, we already have virtual reality, augmented reality, mixed reality and, I think, real reality (though I’m growing less sure of that everyday).
+
+I’m not going to say that merged reality is a term that needs to be added to the dictionary, but the philosophy behind it is notable. Merged reality is basically a fusion of VR and computer vision that gives a virtual reality headset the ability to understand the context around it, including the people, places and things that are unique to the environment. The technology heavily relies on Intel’s RealSense computer vision camera arrays, which the company has also been using to power robots, drones and autonomous cars.
+
+When it comes to merged reality, RealSense enables the headset wearer to seemingly gaze through the display and see parts of the real world (like your body and other people) in a wholly virtual environment. Intel hopes that this technology will be able to let you seamlessly merge the impossible environments of VR with the physical complexities of reality.
+
+Intel’s Santa Clara campus is a machine at work. The mouse-clicking and mechanical keyboard-clacking of engineers offered a light hum as I marched down the hallways with a team of Intel execs and employees guiding me through increasingly strict levels of security access.
+
+The first thing I noticed on the first floor section of the lab was its emptiness. The lab was largely cleared of employees while I was there touring the facilities, and certain areas were cordoned off. The click-clack hum had also hushed; this section of the lab contained a state-of-the-art 3D sound chamber where Intel is studying dynamic audio for merged reality environments.
+
+The first friendly figure to greet me was a robotic arm encased in a sensor-adorned open cage. This is where Intel does much of its work related to studying hand movements and building the algorithms to let the company’s RealSense sensors track the gestures. While VR compatriots like Oculus, HTC and Sony have introduced motion-tracked controllers for interacting with VR content, Intel is hoping to bring its hand-tracking tech to a level of finesse that makes interaction seamless, though many experts see some major challenges ahead for building this as a primary input method.
+
+//delivery.vidible.tv/jsonp/pid=56df4e9de4b0c9c31d626c18/vid=5817da335095496e466819df/564f313b67b6231408bc51ee.js
+
+After waving goodbye to the tireless robo hand, I ventured up to an even emptier sixth floor where Intel was designing the inside-out tracking technologies that allow its Project Alloy headset to be completely wireless.
+
+Right now, most good VR is tethered, meaning that you have a very long cord running from the back of your headset off to an expensive computer pushing high-end graphics. These systems are also positionally tracked by external sensors so that the system knows exactly where you are as you move about.
+
+Conversely, Project Alloy relies on a pair of RealSense sensor arrays to track your position based on your relative proximity to objects within your environment. You don’t have to set anything up or drill anything into your walls; you just walk into a room and toss on the headset.
+
+Speaking of which…
+
+After spending a bit of time with an insanely creepy-looking misshapen robotic head with camera eyes that Intel uses to test head-tracking on RealSense, I was prepped for my exclusive demo with Project Alloy.
+
+I first got a few new details on the hardware specs that the first-generation headset is running. The kit positionally tracks its location with a pair of DS4 RealSense cameras and relies on a Skylakechipset for application processing with an Intel Atom tackling the computer vision.
+
+Though it’s still in development, the next generation (dubbed “Alloy 2”) will gain a new RealSense 400 camera and will see an upgrade to a Kaby Lake processor, but most interestingly the headset will ditch the Atom and move to a visual processing unit from Movidius, one of Intel’slatest acquisitions.
+
+After a bit of geeking out, I resized the surprisingly comfortable headset and balanced it gently on my head. Though I played around with the headset for about 15 minutes, my impressions were immediate.
+
+Building headsets that need high-end PCs would seem like a fairly natural plan for a company that builds chipsets for high-end PCs.
+
+Certain things were very crude, others were very sharp but overall it felt like a decidedly different VR device, if not more of an aspirational concept. The inside-out tracking on the prototype certainly worked but the precision of the DS4 RealSense cameras left more than a bit to be desired. The next-generation model will thankfully see the resolution of the depth camera triple which will allow for more precise tracking, giving everything a considerably more crisp feel.
+
+Ultimately, the overall hardware experiences that arrive next year from OEMs will be the more critical take. Intel was quick to point out that consumer hardware isn’t really its forte; it’s focusing more on throwing something together to showcase the underlying tech.
+
+“At Intel we specialize in the hardware and experience, but we’re not by any stretch of the imagination best at building physical devices,” Intel exec Tim Parker told me as he walked me through the demo.
+
+//delivery.vidible.tv/jsonp/pid=56df4e9de4b0c9c31d626c18/vid=5817d7195095496e466819de/564f313b67b6231408bc51ee.js
+
+Alloy 2 will ultimately still be a reference design, albeit one that Intel will team up with “Microsoft and other partners” to refine the build on. Intel isn’t planning to move into the consumer hardware business anytime soon, but Krzanich hopes that the headset can establish these Intel technologies into the DNA of next-gen VR devices.
+
+“By the middle of next year, we’ll have Alloy done, open-sourced. That’s really our goal, you know. You open source this thing and allow everyone to build on it, kind of like the old Microsoft PC business,” said Krzanich.
+
+What I remain very curious about is how Intel will choose to move its tech into tethered merged reality experiences. It’s important to note that Intel already boasts a strong connection to tethered virtual reality thanks to those fancy desktop chipsets that it seems to make a few of. Interestingly, the executives I spoke to largely seemed to downplay the wireless nature of Alloy. In fact, the conversation often seemed to drift back to tethered VR pretty organically.
+
+“We could unfree you of the cord because we can put all of the compute in [the headset] and we can do all of the mapping, but if you really want the low-latency, high-end gaming, then [tethered VR] is always going to be the leading-end system,” Krzanich said.
+
+A major decision for Intel will come down to deciding whether merged reality is important enough to make the investment in producing a VR-specific chipset. Otherwise, building headsets that need high-end PCs would seem like a fairly natural plan for a company that builds chipsets for high-end PCs. Parker did not directly comment on whether the company was currently looking at VR-focused chipsets.
+
+With the demo under my belt, the only thing I could think of was where Intel goes from here. Alloy is, at its heart, an internal development kit, but there are so many directions open for the company to take it thanks to RealSense and Movidius.
+
+Through the course of several sit-downs with RealSense and Movidius executives, it became clear that Intel may have the virtual/augmented reality space a bit more figured out than it’s letting on.
+
+In a slightly cramped room, Achin Bhowmilk, VP of Intel’s Perceptual Computing Lab, showed me an advanced demo of the company’s latest RealSense model in a merged reality setting. The sensor array was not just mapping the space but identifying the objects within the multi-room environment. A feed of the capture session ran as the sensor identified a table and four chairs within the space to varying percentages of certainty.
+
+“The idea behind this product was to build in the ability to sense and understand the world,” Bhowmilk told me.
+
+This system is a far cry from the RealSense tech I’ve used on PCs. RealSense’s first incarnations were a bit of a mess. What was dreamed up as a new method of human computer interaction was introduced to consumers in the form of a clunky, if not largely useless, PC input system that simply was not ready for primetime.
+
+With virtual reality, RealSense has earned a computing platform more deserving of its computer vision agility. Krzanich told me that one day he hopes to have this tech be able to identify people from your contacts for you while you’re strolling about and then bring up the appropriate notifications in your field-of-view.
+
+“RealSense was originally thought up in our labs; we were trying to think about how the keyboard and the mouse have been around for 20 years now—how it’s been the same way we interact with computers—and so we thought that maybe we could release peoples’ hands from them,” Krzanich said. “Then a bunch of us were just playing with virtual reality over the last year and started to realize that you were kind of limited by those setups.”
+
+At Intel we specialize in the hardware and experience, but we’re not by any stretch of the imagination best at building physical devices.
+
+— Tim Parker, Intel exec
+
+RealSense gives spatial and contextual awareness to headsets, and Alloy gives hardware manufacturers a more accessible reference to integrate the tracking tech into their own products. The thing is, a great deal of these headset makers will already be using Intel tech, in the form of chips belonging to Intel’s soon-to-be-acquired Movidius.
+
+Movidius’s low-power Myriad 2 visual processing unit has become an industry standard amongst HMD manufacturers for its computer vision chops. Movidius was an early partner for Google’s Project Tango smartphone AR system and has announced partnerships with Lenovo to collaborate on VR devices. Myriad 2’s early ubiquity is certainly to Intel’s advantage as it looks to bring RealSense to more devices.
+
+RealSense and Movidius will undoubtedly be growing cozier, but Krzanich insists that Movidius will still be sold as a standalone product though it’s clear that both sides hope to see the products integrate quite closely.
+
+“We’ll continue to drive enhancements to the Movidius architecture, and what we’ll try to do moving forward is understand how that architecture can best be merged or connected to Intel architecture,” Krzanich said.
+
+Movidius CEO Remi El-Ouazzane also sees his product becoming more optimized for the RealSense platform, which he noted he’s been excited to closely integrate and “use the hell out of.”
+
+“Today, the truth is [the Movidius platform] is entirely agnostic,” the Movidius CEO told me. “I think that could change, I think we need to develop, with Intel, the competitive edge that makes the whole greater than the sum of the parts.”
+
+Many of the biggest proponents of virtual reality only see it as a holdover technology for augmented reality tech that will overlay digital images onto the world around us. Intel seems to be rather interested in observing how VR eventually morph into AR.
+
+Augmented reality is an exciting—if not suspiciously secretive—space. Developers have access to Microsoft’s HoloLens headset at the moment and the Meta 2 development kit will start shipping soon despite delays, but details are still scant regarding some of the other heavily hyped head-mounted display manufacturers.
+
+Magic Leap, which has raised nearly $1.4 billion from investors including Google and Alibaba, has yet to show off so much as a prototype of their upcoming headset. And though sources close to the company have told me that Apple is currently building multiple “mixed reality-type” headset prototypes based on different display technologies, there has been no official word from Cupertino regarding an actual product.
+
+Many of these headsets may have one item in common however, that being Movidius.
+
+“I’ll say very humbly that there is no big AR platform out there not using Movidius,” El-Ouazzane told me.
+
+He also detailed that Movidius technology was enabling its partners to miniaturize the head-worn glasses on many of these augmented reality systems by moving compute to pocket devices. He believes that inconspicuous form factors will help improve reception of the devices.
+
+“At the end of the day we should all have learned our lesson from the ‘glasshole syndrome.’ AR glasses will have to be devices that weigh 25 and 30 grams and will be fairly interesting devices to wear,” he detailed. “The vision, no pun intended, is to have as low electronics as possible so it will be a vision processor and a variety of components in terms of display with all the compute being taken care by what you have in your pocket which most likely will be your smartphone. That’s where all the AR engagement we have is.”
+
+There is no big AR platform out there not using Movidius.
+
+— Remi El-Ouazzane
+
+Though Krzanich stressed in our conversations that the industry is “a year or two away from getting the optics tech needed for augmented reality,” he hinted that Intel already has “all kinds of development” going on in the AR space currently.
+
+Merged reality is a fascinating venture into closing the gap between VR and AR. While Project Alloy is an early venture with apparent shortcomings, it’s clear that Intel is laying out plenty of runway for the company’s VR efforts. These efforts will continue to build out the computer vision and visual processing acuity necessary for more robust augmented reality devices and experiences.
+
+Intel is taking its time. Neither Movidius or RealSense are going entirely all-in on VR/AR headsets; each of them is also focusing its talents on other, more imminent, tech platforms as well, such as autonomous driving, security systems and drones. Project Alloy and merged reality give the company a clear product and product class to begin building up its efforts in the broader space across VR and AR.
+
+Predicting the next computing platform or distinguishing fad from future has never been an exact science, but Intel understands what’s at stake here with AR/VR and is setting itself up well to ensure that it doesn’t lose touch with these realities.

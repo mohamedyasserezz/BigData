@@ -1,0 +1,21 @@
+In Japan, Priuses can talk to other Priuses
+
+While the US waits to getSuper Cruisein Cadillacs next year,Toyotahas already rolled out a pretty robust V2V, or vehicle-to-vehicle, system in three models available in Japan. The latest version of the Prius, the Lexus RX, and the Toyota Crown, a luxury sedan sold in Japan, all have the ITS Connect system available as an option.
+
+The cars communicate using a channel abandoned by analog TV transmissions when they switched to digital a few years ago. The cars send and receive very simple–but very useful–information: location, speed, and heading. “People ask about privacy” regarding these communications said Toyota spokesperson Hideki Hada in a phone interview, “but this is very obvious information.”
+
+He’s right. The cars can communicate up to 300 m (nearly 1000 feet) in a 360-degree radius, a distance that allows a lot of humans to also see where your car is, how fast it’s likely going, and where it’s headed.
+
+Also, the vehicles are communicating directly with each other, no cloud required, via two small antennas on each car. The messages being sent and received are very small and frequent, Hada said, and do not require a lot of processing power.
+
+These three models are equipped to handle V2I, or vehicle-to-infrastructure, communications too. Some traffic signals can send information with their current color and the number of seconds before the light will change to the next color. If it’s about to change to green, the car will tell the driver. If it’s about to change to red, the Prius will kick into an aggressive regen braking mode to recover more energy. Besides managing traffic lights, ITS Connect will also communicate with the car ahead while you’re driving to improve adaptive cruise control and let you know if an emergency vehicle is headed your way.
+
+Hada said it was still too early to see a quantifiable benefit to having V2X communications since there are so few cars on the road using it so far, but more people are adding this optional tech to their new cars than the company expected.
+
+There are two factors driving that uptake. First,Toyotaworked with the Japanese government to promote this technology and educate consumers. Hada used a video of a winter pile-up of multiple cars as an example. V2V would help a driver avoid this situation, he said, because it’s communicating with cars 300m ahead that are saying they have stopped. This information would be relayed to both the driver and the central processor to avoid the hazard.
+
+Why not just let the car’s sensors save the day? The collision system alone uses cameras and radar. “These can’t see that far,” Hada said. “Their ranges are far too short.” The same processor receives all information from the sensors and V2X, so the brake system “knows” there’s an accident ahead. With V2V communications, the driver now has more time to apply that brake or evade rather than waiting for the imminent collision and the safety system to kick in at the last second. “If we add one more signal–V2V,” Hada said, “then we can have an earlier warning.”
+
+Now for the second reason people have been eager to add the V2X option: price. Buyers can see right on the invoice what ITS Connect costs: a whopping 17,000 yen. Which is $265. “The goal is to have it in every car, but it takes a while,” Hada said. “We’re not only doing it for tech appeal, [though] we started rolling it out on high-tech appeal cars.”
+
+Red-light communication similar to what the ITS Connect can do is the first step in V2I communications, one thatAudiis also taking with three of its 2017 models. And if your city has talking traffic lights (not all do), you can also try out theEnLightenapp for iOS and Android in whatever car you have.

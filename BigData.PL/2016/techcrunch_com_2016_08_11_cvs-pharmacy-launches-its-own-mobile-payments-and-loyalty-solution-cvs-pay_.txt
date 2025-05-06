@@ -1,0 +1,29 @@
+CVS Pharmacy launches its own mobile payments and loyalty solution, CVS Pay
+
+CVS Health today is launching its own mobile payments solution that will allow customers to pay for products, pick up prescriptions, earn ExtraCare loyalty rewards, as well as pay – just by scanning the barcode in the CVS mobile app. The idea, the company explains, is to eliminate the number of steps it takes today to complete a checkout, which today is a very manual process.
+
+Currently, customers have to either present their physical CVS rewards card at the register, or they have to say their name and birthday in order for the store associate to look up their account information. Then, after their purchases and prescriptions are run up, they have to pay. (Andthanks to the slow-to-process chip cards, this, too, takes time.)
+
+Now, all the verifications for the prescriptions and the payment – including name, birthdate, signature, and PIN – will take place in the app.
+
+“What we’re trying to do is provide real utility and solve real problems for customers using digital,” explains Brian Tilzer, CVS Health’s Chief Digital Officer. “With one scan, we’re taking away three or four extra steps that customers have lived with for a long time.”
+
+CVS Pay will be the first mobile payments solution CVS Pharmacy has adopted. The company doesn’t support Apple Pay or other rival, NFC-based technologies at its registers. While that doesn’t mean those will never arrive, what CVS likes about implementing its own solution is that it doesn’t require any new hardware, and it’s a full end-to-end solution.
+
+“It has to be more than just payments,” says Tilzer. “The value is in combining a couple of these things…and the examples in the market where that has happened have worked really well.”
+
+Notably, CVS’s solution sounds a lot like Starbucks’ loyalty program, where customers can store funds, pay for purchases and earn points at the register.
+
+The difference is that CVS is focused primarily on the needs of customers who are picking up prescriptions at the pharmacy. That’s why the app lets you do things like store additional payment cards, including FSA (Flexible Spending Accounts) or HSA (Health Spending Accounts), in order to split your purchases.
+
+Another handy feature is that the app will even work at drive-up windows. Instead of having to hand your phone over to the CVS team member, you can give them a five-digit code presented on the screen to process your transaction.
+
+The information in the app is also secured by way of your fingerprint, thanks to devices’ fingerprint reader systems like Apple’s Touch ID.
+
+What’s interesting about CVS Pay is how quickly the company was able to get it to market. While the building blocks have been coming together for some time, payments was something CVS started on only three or four months ago, Tilzer says.
+
+The company is able to move at this more rapid pace because ofits Boston-based innovation lab, where it develops apps for smart devices, among other things, as part of its shift from being just a pharmacy to being a more modern health care company. In the past, the companyhas partnered with IBM to use its cognitive computing technology Watsonto help CVS pharmacists determine patient risk, and help prevent chronic disease patients from having medical emergencies.
+
+It also this springinvested in the startup Curbside to bring mobile orders and store pickupto its retail locations – another integration made possible because of its lab in Boston.
+
+CVS Pay is launching today in select stores in New York, New Jersey, Pennsylvania and Delaware, and will roll out nationwide by year-end. It’s available in the iOS and Android CVS Pharmacy mobile app.

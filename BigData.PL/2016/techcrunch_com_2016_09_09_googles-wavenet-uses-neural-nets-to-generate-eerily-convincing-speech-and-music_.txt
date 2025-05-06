@@ -1,0 +1,23 @@
+Google’s WaveNet uses neural nets to generate eerily convincing speech and music
+
+Generating speech from a piece of text is a common and important task undertaken by computers, but it’s pretty rare that the result could be mistaken for ordinary speech. A new technique from researchers at Alphabet’s DeepMind takes a completely different approach, producing speech and even music that sounds eerily like the real thing.
+
+Early systems used a large library of the parts of speech (phonemes and morphemes) and a large ruleset that described all the ways letters combined to produce those sounds. The pieces were joined, or concatenated, creating functional speech synthesis that can handle most words, albeit with unconvincing cadence and tone. Later systems parameterized the generation of sound, making a library of speech fragments unnecessary. More compact — but often less effective.
+
+WaveNet, as the system is called, takes things deeper. It simulates the sound of speech at as low a level as possible: one sample at a time. That means building the waveform from scratch — 16,000 samples per second.
+
+You already know from the headline, but if you don’t, you probably would have guessed what makes this possible: neural networks. In this case, the researchers fed a ton of ordinary recorded speech to a convolutional neural network, which created a complex set of rules that determined which tones follow other tones in every common context of speech.
+
+Each sample is determined not just by the sample before it, but the thousands of samples that came before it. They all feed into the neural network’s algorithm; it knows that certain tones or samples will almost always follow each other, and certain others will almost never. People don’t speak in square waves, for instance.
+
+If WaveNet is trained with data from a single speaker, the resulting synthetic voice will resemble that speaker, since really, all the network knows about speech comes from their voice. But if you train it with multiple speakers, the idiosyncrasies of one person’s voice may be cancelled out by someone else’s, the result being clearer speech.
+
+Clear enough that it outperforms existing systems handily, though it isn’t without its quirks — perhaps a few more speakers need to be added to the stew.
+
+It can’t read text straight out just yet; written words need to be translated by another system not to audio but audio precursors — like computer-readable phonetic spelling. An interesting side effect of this is that if they train it without that text input, it produces an unnerving babble, as if the computer is speaking in tongues.
+
+What’s truly interesting, though, is the WaveNet’s extensibility. If you train it with an American’s speech, it produces American speech. If you train it with German, it produces German. And if you train it with Chopin, it produces… well, not quite Chopin, but piano in a logical, one might even be tempted to say creative vein.
+
+Whether it could produce a whole two-minute prelude is hard to say; composition isn’t quite as easy to systematize as basic chords and chromatic agreement.
+
+WaveNet requires a great deal of computing power to simulate complex patterns at this extremely low level, so it won’t be coming to your phone any time soon. If you’re curious about exactly how they arranged their convolutional layers and other technical details,the paper describing WaveNet is available right here.

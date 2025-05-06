@@ -1,0 +1,11 @@
+Yahoo says report on email scanning for intel agencies is “misleading”
+
+Yahoo issued a statement this morning on Tuesday’s report that the companybuilt a custom software toolto allow U.S. intelligence agencies to scan incoming email for all Yahoo users for certain selectors, calling the report “misleading” but not outright false.
+
+“The article is misleading. We narrowly interpret every government request for user data to minimize disclosure. The mail scanning described in the article does not exist on our systems,” a Yahoo spokesperson said.
+
+The email scanning, former employees toldReuters, began in early 2015 and was quickly discovered by Yahoo’s own security team, which was not informed of the software and initially believed it was the work of external hackers. The software was reportedly approved by top Yahoo executives, including CEO Marissa Mayer and general counsel Ron Bell, and Reuters indicated that the program remained active.
+
+That seems to be the part of the story that Yahoo is now disputing. Yahoo, which initially responded to the story by saying only that the company complies with the laws of the U.S., now says that the email scanning program “does not exist on our systems.” But Yahoo is not claiming that such a program never existed. We asked Yahoo to clarify this point and will update if the company responds.
+
+Other major tech companies were quick to point out that they had not been asked by intelligence agencies tocreate similar programsand would fight the requests in court if they were received. Yahoo has its own extensive history of fighting bulk surveillance requests and pushing for transparency about government requests for its users’ data, but Mayer and others at the company reportedly believed that they would not be able to win a fight against this particular request.

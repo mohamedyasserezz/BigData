@@ -1,0 +1,9 @@
+CoreOS updates it Tectonic container platform to make updates easy
+
+CoreOStoday launched an update to its Kubernetes-basedTectoniccontainer management service that makes it easy for its users to enable automatic updates of both Kubernetes itself and the containers it manages.
+
+Until now, it was surprisingly hard to keep a Kubernetes cluster updated without downtime. With this new service, which CoreOS calls “self-driving infrastructure,” users can choose to have Tectonic manage these updates for them without having to take their applications down. CoreOS previously enabled a similar functionality for its operating system (which it now calls Container Linux in a nod to how people are actually using it) and it’s now bringing the same features to Tectonic and the applications that run on top of it.
+
+“Businesses need to keep up with the advanced rate of innovation in the open source community and automatically updating software delivers the most current features and the most secure version of the software,” the company writes in today’s announcement. “Self-driving infrastructure solves these issues by making it possible to roll updates forward and back with the push of a button.”
+
+In addition to this update, the company also today announced that Tectonic is now free for users who manage fewer than 10 nodes (after that, it’s priced per node). That will likely get more developers to give the service a try — and the company is surely betting that they will then introduce it to the companies they work for.

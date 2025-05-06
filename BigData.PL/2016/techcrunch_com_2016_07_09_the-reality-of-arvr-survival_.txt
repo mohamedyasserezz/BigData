@@ -1,0 +1,73 @@
+The reality of AR/VR survival
+
+VR will be big, AR will be bigger (and take longer). But as in most early-stage tech markets,growth will be curved, not straight. There will be a few billion dollars of revenue this year, a progressive ramp in 2017 and a hoped-for inflection point in 2018 (when AR could deliver that magic combination of hero device, long battery life, cellular capability, strong app ecosystem and telco cross-subsidization).
+
+But AR/VR is still in the first of thefour stages of tech market development(hype cycle, facing reality, liftoff, sustainable market). Its installed base, from low-endCardboardthrough high-endHoloLens, is unlikely to top 100 million until 2018. So how can AR/VR startups survive whenlong-term AR/VR business modelswon’t have the scale they need to thrive for 18-24 months? You just need to know where to look. So let’s look.
+
+Get bought
+
+Oculus. Enough said.
+
+Raise a ton of money
+
+Magic Leap. Enough said.
+
+Do something else
+
+Existing businesses that intersect strongly with AR/VR are profitable springboards into the new market. Lightfield capture, render and streaming firmOTOY’s founders Jules Urbach and Alissa Grainger have been “working profitably with visual effects, TV, film, technology and games companies for years, whether as a high-end production service or via software licensing. We’re also serving 150,000 customers through cloud-based rendering and SaaS solutions.” So they can afford to invest in “the emerging wearable lightfield streaming business.”
+
+Cubic Motionchairman Andy Wood is also “accelerating in AR/VR by doing more of what we already do — helping creative minds express themselves with facial animation and tracking, nowin real time. So we are experimenting and investing during the early market.” 3D model publishing platformSketchfabCEO Alban Denoyel “doesn’t need VR to be successful, as our content can be consumed already with critical mass on the web (500,000 3D creators, one million 3D files, four million uniques). VR will take time to reach this scale for us. We make money from creators today, and long term will monetize through advertising and premium content.”
+
+Find a publisher
+
+Thepublishingmodel is pretty standard for the games industry, and is already helping AR/VR games studios build their businesses via development contracts with platform holders. The end product often has some sort of exclusivity at launch, which has not been withoutcontroversy.
+
+Own a vertical
+
+zSpace’s CEO Paul Kellenberger is providing a complete screen VR solution for education. “We’re now installed in over 300 school districts and 130 universities, with hundreds of thousands of users already. Our industry focus has delivered over 300 percent year on year revenue growth since 2013.”AR/VR unicorn MindMazeCEO Tej Tadi’s focus is on VR in healthcare “for motor recovery solutions post-brain injury. We use a subscription model, where hospitals get our hardware for free and pay for neuro-healthcare exercise/games content and analytics. We also have a subscription-based home product for compliance and training.”
+
+Have wealthy parents
+
+Aiming for the strategic high ground as a platform play sounds great, but requires serious piles of cash to make it work. If you’re a division of Facebook, Google, Sony, Microsoft, Samsung or other majors, a parent with deep pockets can see you through the early years. You could also get bought by one (see above).
+
+Sell picks and shovels
+
+High-end game engine leaderEpic GamesCEO Tim Sweeney says that “VR is already a profitable business for us from game developers and enterprise customers adopting VR for design visualization.” AR SDK companyVuforiapresident and general manager Jay Wright serves “almost a quarter of a million developers, and over 25,000 apps.”KudanCEO Tomo Ohno says, “We’ve been making money from app development, customized AR engine licensing and AR engine sales and have been able to fill the gap left from whenMetaio was bought by Apple.”
+
+LumusVP of business development Ari Grobman explains that “we sell see-through optical display modules that customers likeDAQRI,AtheerandThalesuse for industrial, medical and enterprise markets. Ultimately, we see ourselves enabling the larger consumer market too.” Natural gesture and body tracking firmGestigonCEO Moritz Von Grotthus sees the early market as an investment case. “We started biz dev with OEMs, but that is still an investment. Then custom work with OEMs to generate non-recurring engineering project revenue in 2016/2017. Finally a software licensing model when commercial units are deployed next year.”
+
+LytroCEO Jason Rosenthal “rents our lightfield cameras to Hollywood studios, VR video platforms, game developers and sports leagues, as well as enabling processing and editing of digital lightfield data. Third parties might also end up buying our equipment to provide their own production services.” ChipmakerAMDAlliances, content and VR corporate VP Roy Taylor “sells direct to consumers and via OEMs, as well as providing software to make it easier for the entire ecosystem.” Eye-tracking startupEyefluenceCEO Jim Marggraff also makes money “consulting with Head Mounted Display (HMD) makers, creating proof-of-concept projects, and licensing our eye-tracking and eye-interaction tech and IP.”
+
+Get sponsored
+
+VR entertainment pioneerTwo Bit CircusCEO Brent Bushnell is “focused on brand-funded content. Brands can rationalize this in a marketing budget and get early mover visibility for whatever they’re trying to promote.” VR video livestreaming firmNext VRCEO Brad Allen is also focused on sponsorship, but for slightly different reasons. “We’re already seeing sponsorship from major brands for major sporting events, and have had great success with concerts. However we think the resolution, and therefore the experience from AR/VR devices needs to be higher than today for pay-per-view and subscription models to work well.”
+
+Enable advertisers
+
+As an AR/VRunicorn,BlipparCEO Rish Mitra “engages brands, agencies and media owners to turn static media into AR interactive content, with real-time performance data. We monetize with platform access fees and performance-based pricing.” So enabling other forms of advertising to act as smartphone-based AR advertising is already yielding results.
+
+Sell to enterprises
+
+ODGCEO Ralph Osterhout has been selling to enterprises and governments for decades, and that’s what he’s doing now. “We sell ODG smartglasses directly to enterprises, but the largest orders come from our value-added reseller network today. With more Fortune 50 AR pilots underway, our pipeline of direct sales will yield larger orders still. Demand is growing so quickly that we are already back-ordered through 2016.” This theme is echoed byEpsonProduct Manager Eric Mizufuka for its AR HMD business. “We’re leveraging five years of investment, integrated manufacturing and our brand to sell both directly and via channel partners to enterprises. We’re building a sustainable, profitable AR business in the next year, not in a few years’ time.”
+
+Nokia’s head of digital media tech Paul Melin is already seeing demand for the company’s $60,000OZO360-degree camera from “sports, music, news, entertainment and advertising sectors. We are investing early, and are one of the first companies generating revenue.” Atheer CEO Alberto Torres is focusing its AR HMD exclusively on “medical, insurance, warehousing, oil and gas, utilities, aerospace and manufacturing enterprise clients. Our pilot projects could lead to large enterprise deployments in the next one to two years.”
+
+Sell to users
+
+AR/VR-focusedBoost VCmanaging director Adam Draper thinks that as well as making content for studios, “early-stage developers will make money by selling AR/VR apps for money in the app stores. There isn’t real in-app purchasing yet.” Virtual-world builderHigh FidelityCEO Philip Rosedale’s approach to making money is “to build marketplaces and tools that help people share content, and collect fees on those marketplaces. We believe that there will be a Cambrian explosion of 3D content development happening, as people figure out how to build with these new headsets and hand controllers.”
+
+GoProbusiness development director Mehrshad Mansouri describes how the company “will make most of our VR revenue from hardware sales direct to consumers. We’re also providing professional solutions from ourKolor acquisition.”Avegant’s Glyph HMD works with mobiles, consoles and drones already. CEO Joerg Tewes explains that, “We don’t need a new ecosystem, although that will come as an added bonus. We will expand into custom content and games, which will be an additional revenue stream for us.”
+
+Merge VRCEO Franklin Lyons is also going consumer. “We’re making mobile VR HMD revenue from retail sales, as well as some enterprise.” WhileSeebrightCMO Simon Solotko describes how it “is selling affordable mobile AR systems. Emerging capabilities like Tango are bending smartphones to AR, while we’re in the market for only $40. Entry-level mobile AR is a massive opportunity.”
+
+Be lean
+
+“It will take time to reach critical mass. I found out in mobile that there is huge value in learning during the early market, because the real opportunity might not be clear yet. Many of the first mobile games companies aren’t leaders today, and the same thing could happen in AR/VR,” says VR games developerResolution GamesCEO Tommy Palm. “There is no ultimate answer, but investors with a good understanding of timing are invaluable. AR/VR project work to help larger companies might be good for revenue today, but you could miss the actual opportunity with resources tied up to deliver short-term profits. The most important thing today is to stay lean.”
+
+SequoiaPartner Matt Huang describes this approach eloquently. “If you’re a startup in a market with uncertain timing like AR/VR, breaking into a curve is safer than accelerating.” VR animation startupBaobab StudiosCEO Maureen Fan is more emphatic. “We raised a good amount of money from strategic investors who we know will stand by us, but we don’t want to be a unicorn just yet. For now we would much rather be acockroach!”
+
+Innovate
+
+VR/AR animated storytellerPenrose StudiosCEO Eugene Chung is “focused on business model innovation in the next 18-24 months, rather than legacy monetization models today. Some of the most valuable tech companies today grew by creating revolutionary new models, and AR/VR could follow a similar path. For companies that monetize too early, there’s a danger of becoming addicted to that monetization approach, rather than innovating business models as the industry develops.”
+
+It’s worth keeping in mind that AR/VR is still a very early-stage market, with major innovations and upheavals yet to come. In the words of Leon Megginson(apocryphally quoting Darwin), “It is not the most intellectual of the species that survives. It is not the strongest that survives. But the species that survives is the one that is able to adapt to and to adjust best to the changing environment in which it finds itself.”

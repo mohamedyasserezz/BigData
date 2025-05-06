@@ -1,0 +1,31 @@
+AWS gets richer with VMware partnership
+
+VMwaresigned deals withMicrosoft,GoogleandIBMearlier this year as it has shifted firmly toa hybrid cloud strategy, but it wasthe deal it signed with AWS this weekthat has had everybody talking.
+
+The cloud infrastructure marketbreaks down to AWS with around a third of the market— and everybody else. Microsoft is the closest competitor with around 10 percent. While VMware has had deals in place with other major players, the one with AWS matters more because it gives AWS even greater advantage in the cloud market.
+
+The traditional vendors have taken a hybrid approach with Microsoft and IBM arguing that most large organizations, bogged down in legacy hardware and software, can’t afford to go whole hog into the cloud. It’s an argument that makes sense, especially for their customer bases.
+
+AWS on the other hand has argued that the future is the cloud, and while it welcomed any customers, it made its bet with the companies moving to the cloud or who were born there. That approach has clearly worked with the companyon an $11.5 billion run rate this year.
+
+Meanwhile, in spite of those strategic deals with other larger IT vendors, VMware has struggled with the cloud market. It boasts almost 100 percent penetration inside the data center. It was and remains the go-to company for server virtualization, and while that worked fine in a data center-centric world, that world is changing rapidly.
+
+What VMware did was provide a way to make use of all the resources in a machine in a much more efficient way, letting you break down that single server into multiple virtual machines. That was great for its time in the early 2000s when servers were expensive and finding ways to use them as efficiently as possible was a prime objective for IT.
+
+The cloud changed all of that, moving the virtual machine to the cloud where you could spin up whatever resources you needed whenever you wanted and only pay for the resources you were actually using. If you needed more, you simply spun up more. If you needed less, you could take them down. That put the data center model — and VMware — at a distinct disadvantage.
+
+You couldn’t just go out and buy more servers every time your work loads demanded it. There was a procurement process and it took weeks or months, while the cloud let you satisfy your needs almost instantly.
+
+VMwarehas actually been dabbling in the cloud since around 2010starting withan early Platform as a Service play called VMforce, which was supposed to work with Salesforce. It also began flirting with partnerships at around the same time with anearly partnership with Googletotake on the fledgling Microsoft Azure.
+
+It made another hybrid cloud attempt in 2013with the launch of vCloud Hybrid Service. It evenoriginally launched CloudFoundry, the open source private cloud platform, which eventually became part of Pivotal,the company that EMC, VMware and GE spun out in 2012.
+
+None of these gained much traction for VMware, however as the company was competing with all of these other vendors including AWS, Google, Microsoft and IBM — and there was little to separate itself from the pack. That brings us to the present day where the company is taking a new stab at the hybrid model and partnering like crazy with its former competitors.
+
+Teaming with AWS is a different matter than the previous announcements because with AWS it gets the top player in the market, which could help salvage its cloud business (and indeed its entire business) after so many false starts.
+
+As for AWS, it gets to play in the hybrid playground where it has had limited access until now. That gives the cloud infrastructure giant a way to go after Microsoft and IBM right in their prime markets and possibly gain even more marketshare.
+
+People were talking because it was the biggest deal for VMware by far, and as for AWS, well it was a case of the rich getting richer. That has to have the competitors feeling pretty nervous today as AWS puts a stake in the ground right in their territory — and VMware gets to come along for the ride.
+
+[graphiq id=”kLdFTG0cAAZ” title=”Vmware, Inc. (VMW) Stock Price” width=”600″ height=”617″ url=”https://sw.graphiq.com/w/kLdFTG0cAAZ” link=”http://listings.findthecompany.com/l/7174298/Vmware-Inc-in-Palo-Alto-CA” link_text=”FindTheCompany | Graphiq” frozen=”true”]

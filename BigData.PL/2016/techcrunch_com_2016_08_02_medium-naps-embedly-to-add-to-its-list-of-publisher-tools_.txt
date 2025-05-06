@@ -1,0 +1,21 @@
+Medium nabs Embed.ly to add to its list of publisher tools
+
+Mediumannounced today that it has acquiredEmbed.lyto support publishers with backend APIs for embedding content.
+
+Embed.ly supports writers by providing analytics on content and customized recommendations and promotions. Their APIs are currently used by an all-star list of publishers, including The New York Times, NPR and The Atlantic. Companies like Reddit and Airbnb also use the service.
+
+At this point, the company is servicing 500 million API requests per month. The team will continue to operate independently of Medium and is currently pursuing innovations in embedding native video.
+
+The analytics features of Embed.ly let publishers see who is clicking on what, and the number of plays and minutes watched for video.
+
+“We want publishers to understand why content is doing well,” said Kate Mason, head of communications for Medium.
+
+Medium is doubling down on publisher tools. Earlier this yearthe company acquired Superfeedr, a company that produces APIs to help produce feeds quickly and push them to the right places.
+
+As part of its services, Mediumrolled out a beta monetizationprogram allowing users to promote stories as an advertising unit. Additionally, the company has a membership program that enables content creators to lock some content behind a paywall.
+
+At a greater level, Embed.ly has consistently strived to standardize embedded content to make life easier for both content creators and content consumers.
+
+“The problem with embedded content is that there are no good standards,” said Sean Creeley, co-founder of Embed.ly. “We want what appears amazing on Medium to look great on WordPress VIP and other platforms. Medium gives us the ability and platform to create really great open standards around embeds.”
+
+To date, the company has raised $1.02 million in both equity and debt financing from Y Combinator, SV Angel, Lowercase Capital and others. According to PitchBook, the company’s most recent valuation was $3.9 million in 2011.

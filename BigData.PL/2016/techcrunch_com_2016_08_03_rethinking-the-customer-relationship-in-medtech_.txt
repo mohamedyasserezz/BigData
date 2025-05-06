@@ -1,0 +1,37 @@
+Rethinking the customer relationship in medtech
+
+In light of Dollar Shave Club’s recent sale, I started thinking about other industries that haven’t yetrethought thecustomerrelationshipby leveraging the cloud. A significant majority of FDA-approved medical devices — and their associated business models — should be rethought around the idea that the cloud is a core feature of the product.
+
+Pixie Scientificmakes smart diapers that monitor Alzheimer’s patients for urinary tract infections (UTIs). They are innovating on at least five distinct technical fronts: hardware, software, chemistry, cloud and AI/machine learning/image analysis.
+
+Today, the process of monitoring for UTIs in Alzheimer’s patients is rudimentary, at best. Diapers are changed every 6-12 hours, or if the patient smells too bad. This process repeats until the patient ends up in the ER screaming of abdominal pain caused by a UTI that’s made it to the bladder or kidneys.
+
+Pixie rethinks the entire process by monitoring urine content in near real time. As urine content begins to show signs of a UTI, care teams can act proactively.
+
+This is a profound shift: Not only are computers making recommendations (not diagnoses), but Pixie is building a library of data that will make their products the best in the world at detecting UTIs in Alzheimer’s patients. This medical device will leveragedata network effectsto improve recommendations. This medical device will get better as more people use it. That’s insanely awesome.
+
+Stasis Labsmakes a cloud-connected vitals monitor that can be used in any setting outside of the ICU. Rather than selling the hardware, Stasis provides the end-to-end system for a few dollars per bed per day. Traditionally, hospitals would have spent $10,000+ per monitor to buy and install a GE or Welch Allyn vitals monitor. These monitors require manual integration with electronic medical record (EMR) systems. To get alerts (e.g. “warn me if pulse drops below 50 for more than 10 seconds”), the EMR needs to integrate with a clinical decision support (CDS) system, adding even more cost.
+
+Stasis rethinks the entire process of vitals monitoring: their box just needs an internet connection, and that’s it. All alerts (e.g. “warn me if O2 dips below 93 percent”) can be managed from a browser/Android interface. Within a few years, Stasis will have the world’s largest database of vitals monitoring for every single disease state. They’ll use that data to make recommendations and predictions.
+
+Propeller Healthmakes an add-on that fits into any inhaler and records ambient data. Propeller helps asthma and COPD patients understand which environmental factors cause symptoms.
+
+Again, the cloud is paramount to deliver this service: There is no way Propeller could ever understand every environmental trigger and their associated impacts on patients. They didn’t have to. They simply record sensor data, ask the users for some input and aggregate and analyze the data to deliver insights.
+
+The examples I’ve provided are all FDA Class 1 devices — devices that are generally considered low risk in the event of failure. As the cloud invadesmedtech, it makes sense that entrepreneurs are starting with the lowest hanging fruit — Class 1 devices. Implantable medical devices and pharmaceuticals are Class 2 and 3 devices, respectively, so naturally, the capital requirements are higher for those.
+
+But the opportunities are easy to imagine:
+
+Of these examples,Proteushas been working on the third for about a decade. They’ve raised hundreds of millions of dollars with the fundamental aim of bringing the cloud to the business of pharma (and not just research, where pharma already does lots of computational biology/simulations). The opportunity is staggeringly large.
+
+The cloud changes not only the product, but the entire business model.
+
+No one in the adult diaper business has a directrelationshipwith the patient or caregiver. Because Pixie uses an app, Pixie has a front to build to engender thatrelationship. And that means Pixie can go direct to consumer, cutting out 50 percent of the cost that’s associated with retail. Althoughdiapers.com(owned by Amazon) has been going direct to consumer for a while, their business model has no lock-in beyond a recurring diaper subscription. Pixie’s does. Once customers go Pixie, they’re never going to go back. That changes how Pixie can think about CAC because their LTV will be much higher.
+
+Stasis is SaaS-ifying what was traditionally a capital expense. This will dramatically increase the size of the market by making vitals monitoring available to almost anyone in any disease state for just a few dollars per day. Home care, ERs and more. And they will become the first out-of-the-box solution that can predict adverse outcomes. In time, this function will be considered a basic requirement for all vitals monitors.
+
+Propeller, like Pixie, will build direct relationships with consumers. They’ll make recommendations. They’ll know who the consumer is, and deliver products, messages and services accordingly. They won’t rely on retail or other traditional channels of distribution because they will own thecustomerrelationship. Once customers go with Propeller, they’ll be locked into their ecosystem and look to Propeller for the next innovation in inhalers and asthma/COPD management.
+
+For implantable medical devices, there will be less opportunity to build a consumerrelationship. Patients aren’t going to decide between a Stryker or Smith Nephew knee replacement; surgeons make that decision (at least for the foreseeable future). But by layering the cloud into Class 2 and 3 devices, medical device manufacturers will have an opportunity to unlock mammoth revenue streams: true pay for performance from payors. Once devices can actually report real-world performance, insurers will gladly pay for surgeons to use the best devices, and for physicians to prescribe the best drugs based on real-world data and performance.
+
+Medtechcompanies will build direct relationships with consumers, providers and payors. Everymedtechproduct and business will be infused with the cloud as the industry inverts over the next 20-30 years.

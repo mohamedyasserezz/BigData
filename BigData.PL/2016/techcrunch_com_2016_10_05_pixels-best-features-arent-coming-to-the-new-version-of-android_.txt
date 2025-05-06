@@ -1,0 +1,41 @@
+Pixel’s best features aren’t coming to the new version of Android
+
+AtGoogle’s hardware event this week, the new version of the Android operating system, Android 7.1 (Nougat 7.1), was barely mentioned. As it turns out, there was a reason for that: some of thenew Pixel smartphones‘ best features won’t be arriving in the new OS. This includes features likeGoogle Assistant, the built-in customer support service,unlimited and free backup of full-res photos and videos, Smart Storage, and more.
+
+Details on which features were “Pixel-only” were previously reported byAndroid Police, citing a changelog provided by a Google source. Google confirmed to us those changes are accurate.
+
+Some of the omissions make sense. For example, only Pixel phones will ship with the new, “quick switch” adapterthat makes it easier to move your data from iPhone to Android. That requires hardware in the form of the adapter cable.
+
+The Pixel’s Camera app is also tied to the phones’ new hardware – that is, the Pixel sports a 12.3-megapixel rear camera which lets you shoot 4K video, and offers special modes like “Smartburst” for taking several photos in succession, among other things.
+
+Plus, the Pixel features a Sensor Hub processor with tightly integrated sensors and connectivity (i.e., Wi-Fi, cellular, GPS).
+
+One could even argue that bundling the free, unlimited photo and video backup service, via Google Photos, is just good marketing. It makes the Pixel smartphone more appealing to photo enthusiasts, who are looking for a reason to upgrade their current Android device, or perhaps pick the Pixel over the iPhone 7, where iCloud storage still costs money.
+
+However, some of the missing features are more surprising.
+
+Most notably, Android 7.1, the updated version of Nougat that powers the Pixel and Pixel XL, is lackingGoogle Assistant. This smart virtual helper is Google’s answer to Apple’s Siri, Microsoft’s Cortana, and Amazon’s Alexa. It’s a lot more robust than Google Now, the current digital assistant that ships on today’s Android devices and in the standalone Google app.
+
+Google Now is already fairly powerful – it lets you talk to it using natural language, and offers a variety of assistance, similar to rivals. This ranges from sending you alerts of information you care about – like how long it will take to get home on your commute, or when to leave to catch a flight, when your package will arrive, as well as weather, sports and stock information, or reminders of upcoming events, and more.
+
+It can also serve as a jumping off point for Google searches, by answering questions about nearby places, like restaurants or shops, or simply searching the web. And it offers more utilitarian functions, such as adjusting device functions, sending texts and emails, placing calls, or creating reminders.
+
+But Google Assistant is like an upgraded, smarter Google Now. It can do everything Now does, but its underlying A.I. technology is capable of having a two-way conversation with you, and can learn and recall personal details you share with it, then recall them in future chats. You can ask it to give you daily updates on information you want to track through a subscription feature.
+
+It also works with Chromecast and other Google Cast-enabled devices, and offers the ability to control smart home devices from Nest, SmartThings and Philips Hue.
+
+Plus, it will work with third-party services which can integrate with it via Actions (basically Google’s version of Alexa’s “Skills.”)
+
+Given Assistant’s increased prowess, it’s disappointing that it’s not immediately replacing Google Now in the Android 7.1 update. That doesn’t mean it won’t ever arrive on other Android devices – limiting Assistant to Pixel indefinitely would be crazy – but it’s definitely not coming via a free Android update in the near-term.
+
+Says a Google spokesperson:
+
+Our goal is to make the Google Assistant widely available to users, and we’ll continue to launch new surfaces over the course of the next year.
+
+Meanwhile, in terms of thePixel Launcherand user interface, only the Pixel smartphones will feature navigation bar icons that make room for accessing Assistant, SysUI accent color theming, the new look and feel of the set-up screen, the new wallpaper picker, and the dynamic calendar date icon.
+
+That being said, Android 7.1 will come with at least a few new goodies.
+
+This includes Night Light with hardware acceleration support, touch and display performance improvements, Moves (the new fingerprint gesture to open and close the notification shade), the seamless A/B system updates, Daydream VR mode, and several new APIs for developers like the app shortcut manager APIs and circular app icons support.
+
+Android 7.1 will launch as a Developer Preview later this month. Google wouldn’t confirm when it will begin to rollout to consumers’ smartphones, or which will receive the update first.

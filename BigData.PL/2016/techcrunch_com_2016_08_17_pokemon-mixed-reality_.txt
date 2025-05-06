@@ -1,0 +1,11 @@
+Pokémon Go goes mixed reality with Gestigon’s gesture tech
+
+[youtube https://www.youtube.com/watch?v=aFk2-B55do0]
+
+Come for the Pokémon Go AR, stay for the muzak Pokémon show theme: Gesture control startupGestigonhas created their very first mixed reality experience you can control with your own hands, and their source of inspiration is the Niantic and Nintendo-developed game that everyone’s going crazy for.
+
+The new offering from Gestigon uses its middleware tech combined with a Google Cardboard-based head-mounted display, as well as a pmd picoflexx 3D depth sensor and a Galaxy S7 smartphone from Android. The Galaxy S7’s camera captures your surroundings, and matches that up with the 3D spatial data from the picoflexx depth sensor to track hand movement. That lets you swipe through different scenes, grab virtual Pokéballs, and then throw them just like you would throw a real ball naturally IRL.
+
+Of course, this is by no means ‘official,’ which is why the UI you see differs from the Pokémon Go in-game look. That’s also why we get our lovely, slightly off variation on the Pokémon theme song as background music.
+
+Gestigon is using the Pokémon hype cycle to show off what its middleware can do, but you can actually get the full experience by ordering thecompany’s cardboard dev kit, since it’s providing the software in the video as a companion demo. I still think ti’s very early days for AR, but support for gesture control in experiences like this one do help make the case for why it’s an appealing area for tech development.

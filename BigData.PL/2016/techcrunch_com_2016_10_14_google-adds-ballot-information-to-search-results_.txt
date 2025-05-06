@@ -1,0 +1,21 @@
+Google adds ballot information to search results
+
+Google is again stepping up its efforts to provide U.S. voters with all the information they need ahead of Election Day with theadditionof ballot information to Google Search results. Web users who search for a query like “who’s on my ballot,” will now be presented with detailed information about the candidates, as well as information on your own state’s referenda.
+
+A search for “my ballot” and other phrases will also surface this same information, which is presented in a card that appears at the top of Google’s search results, titled “2016 election.”
+
+Google will first ask you to enter in the complete street address of where you’re registered to vote, before you’re able to see your ballot details. However, if you’re a regular Google Maps user, the search box will prompt you to use your home’s location, which you can do with just a click.
+
+Once Google knows where you’re voting, it will present the candidate details about who’s running in the election, both on the national and state level.
+
+Candidates are presented with their name, photo, and party affiliation. You can also click on individual candidates which will take you directly to a Google search for their name. That will help you more easily locate the candidate’s website, Wikipedia entry (which is also used to power the informational card to the right of the search results), and any current news where they’re mentioned, among other things.
+
+In addition, Google is today beginning to display your polling place location in the search results, when you search for “where to vote,” or something similar.
+
+The company says that it will continue to add data from each state over the next couple of weeks, as this information becomes available for both early voting and for those who plan to vote in person on November 8th. These two options will be presented as separate tabs (“Vote early” and “Vote on Election Day”), in the box that appears on the top of the search results.
+
+The box will also link to voting requirements and the ballot, for easy reference.
+
+The addition of ballot information comes following several other moves by the company to make voting information more accessible to web searchers. Starting this summer, Google has addedregistration information,voting informationandvoting information in Spanishto its search results. It has evenpushed users to vote directly from the Google homepage.
+
+The company notes, too, that it’s opening up this data to third-party organizations for free, who can use its products and theGoogle Civic Information APIto create tools that will allow them to integrate voting information into their own services.Uber,Twitter,ExpediaandHotels.com, are already offering aid to voters, as well as nonprofits likePew Charitable Trusts’The Voting Information Project, and Democracy Works’TurboVote Challenge, says Google.

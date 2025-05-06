@@ -1,0 +1,19 @@
+Shopify now lets stores sell directly in Facebook Messenger
+
+Shopify was early to bring its merchants the ability to converse directly with customers via Facebook Messenger, and now it’s launching the ability to actually sell directly within messages between stores and customers.
+
+The integration works by giving customers a “Shop Now” option when they start a conversation with any Facebook Business Page store usingShopify’s Messenger sales channel, which will bring up the merchant’s entire product catalog and let them tap through to browse and buy, completing purchases via Shopify’s checkout portal, which actually operates completely within Messenger, so there’s no round-trip needed.
+
+Shopify sees a lot of potential in using Messenger as a vector for direct sales, but the company acknowledges that it’s early days yet for an entirely in-message shopping experience, especially in the North American market.
+
+“From an end-consumer perspective, it’s still pretty novel to think of messaging a business first when you want to interact with them, so that’s going to take some time to catch up with some of the interactions that are common in Asia,” explained Shopify product manager Brandon Chu in an interview. “The outcome is moving to an internet version of what retail used to be, where you walk into a store and share with a merchant some of your problems or the thing that you’re looking for.”
+
+Still, Chu says that Messenger is a “very good complementary channel” for Shopify’s various other channels, since it allows merchants to do things like send order status receipts to customers via the platform, which kicks off a direct relationship that could lead to things like direct purchases within the service further down the line.
+
+“There are a few really important platform features that we’re going to be taking advantage of in the months to come, to keep more of that purchasing flow in the chat,” Chu notes when I ask about the future potential of shopping directly in Messenger.
+
+The first is different payment options, which Messenger’s 1.2 platform update enable, and the other is the use of web views, which uses a new feature that Messenger offers to let developers set the height of web views within conversations. Chu says this is actually key, because it means you can set a half-height web view that gives customers the info they’re looking for from the merchant’s online store, while still keeping them visibly within the context of the conversation they were having via Messenger.
+
+Chu also says they’re designing their messaging tools to be as useful across various platforms as possible for merchants down the road, but adds that Shopify sees Messenger as the clear leader right now in terms of reaching the highest number of people in the North American market.
+
+Shopify is definitely a leader in e-commerce when it comes to exploring new platform options: recent launches include aniOS keyboard that acts as a comprehensive back-end toolkitfor merchants who sell via various messaging and social apps. A bigger bet on Messenger seems smart, especially if the North American scene moves (as many are hoping it will) to more closely mirror the state of mobile in other markets, like Asia.

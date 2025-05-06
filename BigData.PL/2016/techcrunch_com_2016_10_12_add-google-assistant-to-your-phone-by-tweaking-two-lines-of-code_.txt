@@ -1,0 +1,19 @@
+Add Google Assistant to your phone by tweaking two lines of code
+
+WantGoogle Assistant, but don’t want to spend your allowance on a Pixel? I’ve got good news and bad news. The good news is you can get it with two tiny tweaks to a single config file — the bad news is you’ll need root access, and there’s no guarantee it’ll work on your phone in particular.
+
+⚠️Warning! Danger!⚠️Don’t try this unless you know what you’re doing. Fiddling around in root and bootloaders can and does brick phones.Make a backup first— lots of users are reporting problems.
+
+With that said… XDA user and shiba inubrianelvruns thethreadwith details and a growing compatible-phones list, andLifehacker has step-by-step instructions.
+
+First of all, you’ll need Nougat installed. If you have root, use a file explorer to find build.prop, under Root/System. Search for the following two values, and adjust them like so (or add them if you don’t find them):
+
+Save and reboot, then go to Settings>Apps, select Google, and clear its data and cache. It should reload with Assistant built in, which you can call up with a long home button press.
+
+Don’t have root? You may still be able to get the feature if you have an unlocked bootloader; you’ll need to go through a custom recovery image or the built-in fastboot. Even more problems are being reported with this method, though, possibly due to mismatched build.prop files.
+
+Mit Panchani runs you through the process below.
+
+Uninstall the Google app entirely to start. Then download the files fromhere(thanks FaserF) and flash them, GoogleAssistantVelvet.zip first and then GoogleAssistantBuildProp.zip second. Reboot, OK the extra permissions Google now wants and you should be off to the races.
+
+Sound like too much trouble? It might be! It’s risky! You probably shouldn’t. This Assistant doesn’t sound like all that much fun anyway. You’re going to anyway? Well, I tried.

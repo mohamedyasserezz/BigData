@@ -1,0 +1,17 @@
+Atlassian acquires Statuspage
+
+Atlassiantodayannouncedthat it has acquiredStatuspage, a Y Combinator-incubatedservice that allows online businesses to keep their users updated about the status of their online services. The financial details of the transaction were not disclosed.
+
+This marks Atlassian’s first acquisition sincegoing public last December. Adding a service like Statuspage, which launched three years ago, seems like a natural fit for Atlassian. The company has long argued that every company is now a software company, after all, and that means virtually every company now also needs a service to keep users informed when things don’t work as expected.
+
+As Atlassian president Jay Simons told me, Statuspage was one of the earliest adopters ofHipChat, which Atlassian acquired back in 2012, and Atlassian also hosts itsown status pageson Statuspage. “We are super-excited about their leadership position,” Simons said about Statuspage. “They have established themselves as the premier provider of these services.”
+
+Statuspage currently counts the likes ofNew Relic,Intuit,Venmoand Citrix among its “thousands of customers.”
+
+Simons also noted that he sees natural integrations between Atlassian’s JIRA project management service and Statuspage, for example.
+
+Statuspage co-founder Scott Klein noted that his company was doing quite well. Atlassian, however, will give Statuspage access to Atlassian’s larger user base and will allow the company to accelerate its product development cycle. In their official announcement today, the Statuspage co-founders also note that when the team explored the acquisition, “we were aligned on three important things: our complementary cultures, our desire to offer Statuspageas a standalone product, and our shared vision of the future of software.”
+
+To this, Simons added that “the other aspect that drove the marriage here is that like Atlassian, Statuspage is really focused on reaching the Fortune 500,000.” Companies like Comcast, after all, have the resources to build their own status-alert systems. “But if you are not part of the Fortune 500, you need a service like Statuspage.”
+
+Statuspage will indeed remain a standalone product after the acquisition, and Simons tells me that Atlassian currently has no plans to change the pricing for the service (whichstarts at $29/month). For the time being, current Statuspage users won’t notice any changes, either.

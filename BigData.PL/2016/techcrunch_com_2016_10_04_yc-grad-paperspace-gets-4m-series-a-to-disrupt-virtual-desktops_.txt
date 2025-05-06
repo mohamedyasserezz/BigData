@@ -1,0 +1,23 @@
+YC grad Paperspace gets $4m seed round to disrupt virtual desktops
+
+Paperspacefounders Daniel Kobran and Dillon Erb set out to solve a hard problem, one the typical startup might shy away from. They wanted to disrupt the mature virtual desktop market dominated by giants like VMware, Citrix and Amazon. Today they got a healthy $4 million seed round to pursue the dream — and announced general availability of the product.
+
+Investors for this round include Ludlow Ventures, Data Collective and Initialized Capital. Other individual investors also participated including Digital Ocean co-founder Jeff Carr.
+
+It is not easy to go after an established market, especially when it requires that you run your own data centers, but Kobran and Erb, who graduated from theY CombinatorWinter 15 class, did not let this get in the way of the pursuit of their idea. After trying many of the competing products out there, they decided they were simply too hard to install and maintain and too slow to do the big jobs.
+
+Virtual desktops provide workers with all the tools they need in a machine with an extremely small footprint. They offer IT the ability to control, secure and manage the desktops in their organizations. This is especially important in highly regulated industries like finance, healthcare and education.
+
+They took that concept a step further when they created a virtual desktop that runs in the browser and streams content to any device. What’s more, they set out to be the antithesis of the earlier generation of VDI, while providing all the advantages of security and manageability. To do that, they removed the complexity involved in getting up and running, including providing the ability to clone machines, integrate with exiting VPNs (virtual private networks) and use an existing Active Directory. They also offer enterprise customers one-click backup, monitoring, custom templates and shared drives– all with (they claim) push-button simplicity.
+
+All of this can be done in the cloud, of course. AWS offers this too, including the ability torent virtual desktops by the hour, but the founders explained you still need a high level of technical expertise to get your machines up and running using a service like AWS. They claim their solution puts this ability to create a virtual machine within the reach of just about anyone, even someone with little technical aptitude.
+
+But they didn’t want to stop there. They recognized running a VM inside a browser, they would need not just simplicity, but also speed, so they allot a dedicated GPU to each VM to ensure speed that should allow users to run even the most complex programs.
+
+Both founders actually came from architectural backgrounds, and they could see the value of VDI in their previous field, but the large files and complex programs involved made it difficult to use VDI in that setting.
+
+While their solution isn’t specifically geared toward those complex CAD operations, if it can handle that, they argue it can also handle almost anything financial services, education, legal, healthcare or any typical VDI setting can provide — and some not so typical like gaming.
+
+It’s unusual in this day and age to create a cloud solution that requires the startup to run a data center, but they found they couldn’t achieve the performance they wanted using cloud VMs. This forced them to invest in two data centers (located inside co-location facilities in California and New York). While the founders recognize this is an unusual way to go, they have taken the advice of those experienced advisors including Jeff Carr, who helped found cloud infrastructure vendor Digital Ocean, and knows a thing or two about building a business that requires owning your data centers.
+
+Besides Carr and other advisors helping them to get to this point, Kobran and Erb say their Y Combinator experience was invaluable “I don’t think it would have been possible without Y Combinator. It allowed us to tap into an incredible support network,” Kobran said.

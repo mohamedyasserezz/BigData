@@ -1,0 +1,39 @@
+Why the next great SaaS company will look nothing like Salesforce
+
+For years, a truism in software investing was that the value of application software lies in data, not in technology. Companies likeSalesforce,Workday, andServiceNoware valuable because they are the “system of record” (SoR), or single source of truth, for their customers’ most valuable information, such as customer records or employee data.
+
+As a result, they become deeply embedded in their customers’ business processes, making them hard to rip out. That gives them tremendous revenue predictability and pricing power. The technology itself — databases combined with workflow engines — is not particularly innovative; it’s the information captured by the technology that’s important.
+
+The newest crop of software applications turns this logic on its head. They mimic consumer companies by using technology as a “wedge” to gain widespread adoption and don’t even try to become systems of record.
+
+Instead, they are “systems of engagement” (SoE), meaning apps that employees actually use to get their work done. For example, takeSlack, whichForbesrecently identified as the most valuable private cloud company.
+
+The data in Slack is either low value (“water-cooler” conversations) or already lives in existing systems of record. The same is true for many other fast-growing apps, likeIntercom(customer interaction),Clari(sales),Culture Amp(employee feedback) andFront(shared inbox).
+
+Digging deeper, the specific areas of technology where these companies have innovated are ones that historically people have ignored — integration and design.
+
+At big companies, integration is the ugly step-child of any product roadmap: everyone wants it to work, but no one wants to work on it. Here’s an example: a senior executive at a leading SaaS company tells me that twenty people from different groups across the company show up for the “billing meeting”, where it’s decided how billing will integrate with core features. But no one wants to work on the billing team, creating those integrations.
+
+Startups have capitalized on that by creating high performance, scalable integrations, solving hard technical problems like how to sync without putting excessive load on the underlying system.
+
+Entire companies, such as our portfolio companyOkta, for single sign-on, orSegment, for analytics, are now built on integration alone.
+
+Integration companies, while not glamorous, can build market power by positioning themselves at the center of an ecosystem and creating an “ecosystem network effect”, whereby they become ade factostandard. Okta and Segment are both on their way to achieving this.
+
+But most new applications use integration to gather, organize, and analyze data. They win the hearts of their users through great design. That’s no small challenge, given growing data sets, shrinking screen sizes, and ever shorter attention spans, which is why the concept of design has become a huge differentiator.
+
+It works because it’s a win-win. Startups creating systems of engagement get users and revenue, by leveraging data in the systems of record. They also increase the data’s value, by using it more and adding to it. That makes the big software vendors happy, as (they believe) it increases their customer lock-in and helps them become more of a platform.
+
+What’s not clear is whether this will continue. Large companies like Salesforce want to innovate through technology. For example, the center-piece at this month’sDreamforce, its annual conference, is a new artificial intelligence (AI) initiative marketed as “Einstein”, which layers predictive models over its existing applications.
+
+Conversely, once a startup’s product is being used every day like Slack, it may start keeping more information within it and over time wean people off whatever they were using before (Outlook, Sharepoint, etc).
+
+The game-changer could well be artificial intelligence: if AI software could extract signal from the unstructured product feedback in Intercom or the sales forecasting information in Clari, the data in those systems could become more valuable than the limited fields captured in today’s systems of record.
+
+But that’s a long way off. For current startups, the message is clear. Don’t try to be Salesforce to Seibel, Workday to Peoplesoft or Coupa to Ariba. Those battles are over, and won’t be repeated. Instead, use technology — integration, design, perhaps machine learning or AI — as your wedge into the market.
+
+Play nice with existing systems, and then analyze how people are using your product. Feed that back into new product development and drive more engagement, ideally creating a virtuous cycle between usage and design that keeps you ahead of competitors.
+
+For examples of who does this well, look no further than the large consumer companies. It’s no coincidence that the two most awe-inspiring enterprise businesses today (AWS and Google Apps) both have a consumer heritage.
+
+That’s the winning strategy for today, and most likely tomorrow.

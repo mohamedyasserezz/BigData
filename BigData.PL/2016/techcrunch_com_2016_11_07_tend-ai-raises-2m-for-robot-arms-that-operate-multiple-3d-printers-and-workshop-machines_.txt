@@ -1,0 +1,27 @@
+Tend.ai raises $2M for robot arms that operate multiple 3D printers and workshop machines
+
+Back in June,Tend.ai came out of stealthwith its versatile system allowing a robot arm to tend to a dozen or more printers, laser cutters and other modern workshop tools. Now the company has raised $2 million to continue its work, courtesy ofTrue Ventures.
+
+Tend.ai’ssoftware allows a robot arm to start, stop and monitor multiple 3D printers and other devices, removing finished products and initiating new prints. That means people running businesses don’t have to get up in the middle of the night to check on a long print, or manually unload all the devices in the morning. It’s a big labor saver.
+
+“Right now, industrial robots are really good at doing things that need to be done a million times exactly the same,” said co-founder and CEO Mark Silliman in an interview. “But going from enterprise to SMBs [i.e. small and medium businesses] is they’re not necessarily as standardized. So making something that works in a dynamic environment is where a lot of our efforts are going.”
+
+To do that, the robot just needs a webcam mounted to its arm, providing a view of its surroundings. The Tend.ai software analyzes what the webcam sees and sends instructions to the arm: hit the start button on machine 6, or turn this dial 30 degrees clockwise on machine 9.
+
+The actual motions can be trained by the robot’s owner, but once the basics are down, a shared library of machines and their controls means a bot can get by just knowing, for example, where the power button is, and figure the rest out from there.
+
+True Ventures partner Toni Schneider jumped on the opportunity and took the whole $2 million round, indicating no small confidence in the potential here.
+
+“It has all the elements we look for,” he said in an interview. “Great team that has worked together before, deep experience, and a really unique, innovative product. I kept talking to people who told me these robots are the future of the industry, but a small business buys one, and then what? This takes something that’s been in use for a while and brings it to a larger user base.”
+
+Silliman noted that, since June, the software has been expanded to work with CNC and injection molding machines, which even further opens up the possibilities.
+
+He said his early adopter clients will be official customers come January 1, and while he wouldn’t name names, he did say there was “interest from the aerospace industry.”
+
+One can imagine how annoying it would be to print 60 slightly different wing designs for testing in a wind tunnel, for instance. Having a robot deal with it means less downtime during printing, and perhaps even fewer devices needed.
+
+The funding should help tailor the software to these mysterious but hopefully deep-pocketed potential clients.
+
+“At this point [money] is primarily going towards development,” Silliman said. They’re hiring coders and roboticists, but once things get to a certain level of maturity, some will go toward sales, of course.
+
+“While we haven’t actually done an investment quite like this before, it did feel a little bit familiar,” Schneider said. “We were investors in MakerBot, which is sort of an iconic 3D printing company, and Glowforge, which is also doing really well. It’s sort of an adjacent space, and it’s a good area for us where we’ve seen success before.”

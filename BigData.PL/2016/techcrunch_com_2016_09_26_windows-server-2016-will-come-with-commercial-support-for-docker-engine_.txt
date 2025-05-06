@@ -1,0 +1,17 @@
+Windows Server 2016 will come with commercial support for Docker Engine
+
+Microsoft loves to talk about how we are now living in a “cloud first, mobile first” world, but in this world, there is still plenty of room left for Windows Server. Today, at its Ignite conference in Atlanta, the companyannouncedthatWindows Server 2016will be available for purchase on October 1 and will then ship in mid-October.
+
+That’s pretty much in line with expectations, especially given that October 1 marks the two-year anniversary of the release of the first Windows Server 2016 preview.
+
+There are plenty of new features in Windows Server 2016, including improved security and networking tools, as well as better support for clustering. There are two marquee features in this release though: the addition of the Nano Server option, a stripped-down version of the OS for use in the cloud, as well as built-in support for containers.
+
+Microsoft already announced that it would use the Docker Engine for handling containers on Windows Server 2016. In addition, the two companies also today announced that they are extending their existing partnership and that Microsoft will make the commercially supported Docker Engine available to Windows Server 2016 customer at no additional charge. Microsoft will handle most of the basic support and then pass more complicated issues on to Docker.
+
+Microsoft says it will also highlight Docker’sdata center solutionto IT pros “as a way to enable IT pros to secure the Windows software supply chain and manage containerized Windows workloads, whether on-premises, in the cloud or in a hybrid environment.”
+
+This close cooperation between Docker and Microsoft once again raises the question whether Microsoft may end up acquiring Dockerafter all. Microsoft doesn’t build all that many third-party tools directly into its flagship server offering, after all.
+
+In addition to Windows Server 2016, Microsoft’s System Center 2016 will also be generally available in October. System Center, as the name doesn’t really reveal, is the company’s service for managing data centers and provisioning and managing hardware and virtual machines (be they Windows Servers machines, Linux boxes or machines running VMWare or Hyper-V).
+
+The company is also releasing a new preview ofAzure Stack today, which once it’s generally available in 2017, will allow enterprises to run the core Azure services inside their own data centers. This new version will preview a number of new features and technologies, including monitoring support and capacity planning, as well as previews of services like Azure Key Vault and Azure Queue storage.

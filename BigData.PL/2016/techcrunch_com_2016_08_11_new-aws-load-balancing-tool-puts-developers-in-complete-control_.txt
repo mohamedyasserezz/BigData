@@ -1,0 +1,23 @@
+New AWS load balancing tool puts developers in complete control
+
+This morningat a customer eventin New York City, AWS CTO Werner Vogels announced a new load balancing tool, which gives developers much more fine-grained control over how content gets distributed across servers.
+
+TheAWS Application Load Balancer, as it’s called, provides a way to direct specific content to go to a certain place instead of letting the load balancer decide as has been the case with the Elastic Load Balancing tool, which has been around since 2009.
+
+The new level of functionality probably won’t matter to folks running traditional applications, but it will give more control over the process to those running the more modern variety inside containers. Containerized applications are often broken down into a set of micro-services. It’s useful for developers to be able to control traffic to these micro-services.
+
+“This gives you complete control about how to send traffic to individual components in your system,” Vogels said.
+
+In practice this means you could direct all API content to one server and all mobile content to another. “Routing requests in this fashion allows you to build applications that are composed of multiple micro-services that can run and be scaled independently,”according to a blog postannouncing the new tool.
+
+Developers can select the traditional load balancing tool or the new one, depending on their requirements directly from theElastic Load Balancing Console.
+
+On a technical level, these two differ in a significant way. The older tool is a “Layer 4” load balancer, meaning it operates at the network protocol level, and can’t access more detailed information about what’s happening inside of the network packets. From this point forward, this tool will be called the Classic Load Balancer.
+
+By contrast, the newer Application Load Balancer tool, is a “Layer 7” load balancer, meaning it can peek inside those packets, and with access to this additional information can undertake more sophisticated tasks, such as allowing you to direct the packets where to go based on what you know about them.
+
+All of this additional information also means much more detailed metrics including new CloudWatch metrics, which lets you measure  overall traffic (in GB), number of active connections, and the connection rate per hour
+
+The new load balancing tool also supports WebSocket and HTTP/2. Each of these provides more modern methods of dealing with network traffic for those who wish to take advantage of it.
+
+The Application Load Balancer is available immediately, and according to AWS costs 10 percent less than the traditional variety in spite of the additional functionality. Billing is somewhat complex based on hourly usage and on Load Balancer Capacity Units (or LCUs), a complex formula that combines the number of new connections per second, the number of active connections and the amount of  data you transfer.

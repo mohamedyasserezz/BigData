@@ -1,0 +1,17 @@
+Slack swipes at Skype with video calls and reaction emoji
+
+Slack, the workplace collaboration platform with1.25 million paying usersand 4 million overall, is adding one more key feature to its artillery of tools for people to communicate with each other, and it’s one that could help it pick up even more users away from other services like Skype and Gmail: it’sadding video calling, the audiovisual complement to the audio chat services that it released earlier this year. Group video calls, for those on paid tiers, can handle up to 15 people currently, Slack says.
+
+Slack says the video calling feature will be available first on Slack for Mac and Windows on desktop and Google Chrome in the next few days. Those on mobile will be able to join video calls but will experience them as audio only.
+
+The service will work similar to its existing voice calling feature that it addedearlier this year, allowing users to turn on their cameras to each as well as hear each other. But it will also feature something else that is a twist on the many other video services out there today: emojis.
+
+A lot of people who use video and audio conferencing for calls with work colleagues will turn on the mute button so that their random coughs and sighs or other ambient noise will not interrupt the soliloquies of their coworkers. Now if they want to make quick responses to things they won’t have to fumble around for the unmute button: instead they can offer a thumbs up, or a fist bump or a dancing banana, or whatever is right for the moment.
+
+We’dheard back in Marchthat the company was going to be launching video chat at some point this year, and here it finally is. It’s not clear if it’s been built on the tech that Slack picked up in 2015, when itacquired YC company Screenhero, which had built a very light way for people to use video chat and share their screens with each other. (We’ve asked and will update as we learn more.)
+
+In any case, Slack says that by building its own video chat service, it’s not planning at this point to remove the ability to use other services. Slack — built on the idea of integrating hundreds of other apps and services into its bigger platform with the simple use of slash commands — also works with services like Google Hangouts and Zoom, and you can stillset these as your defaultif you prefer them to Slack’s native experience.
+
+While video calling will help Slack fill out more of its product as a complete and standalone platform, it could also help with something else: Slack has been seeingsome drop-offin its still pretty massive user growth, and we’d heard that there were also some issues with user retention alongside that. Meanwhile, video is one of the more popular services proven to increase the “stickiness” of sites by keeping people lingering around and engaging for longer; it will be interesting to see if it does the trick here, too.
+
+To date, Slack hasraisednearly $540 million and is valued at $3.8 billion.

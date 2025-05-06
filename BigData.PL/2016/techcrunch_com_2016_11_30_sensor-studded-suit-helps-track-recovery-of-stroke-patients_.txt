@@ -1,0 +1,17 @@
+Sensor-studded suit helps track recovery of stroke patients
+
+Millions of people suffer from strokes every year worldwide, and severe ones can require long-term care — but as with other rehabilitation regimens, it can be hard for doctors to track the everyday activities of their patients. A high-tech suit created by a Dutch grad student may be a powerful new way to help keep better tabs on those in recovery.
+
+Bart Klaassen, from the Netherlands’ University of Twente, and the rest of his team pursued it as part of a project resulting from Europe’s FP7 research initiative. Klaassen’s doctoral thesis is based on the work, as well.
+
+The idea is that while patients are closely monitored while at the rehabilitation clinic or in regular checkups, real-world tasks such as getting out of bed, navigating the house and cooking can only be reported secondhand.
+
+“There has long been a great need for systems like this, but the technology simply was not ready,” explained Klaassenin a news release from the school. But as other projects along these lines have proved, that’s not the case any more: sensors can be made small enough, fabrics smart enough and the resulting data coherent enough that a high-tech suit like this is not only a possibility, but potentially a major advance.
+
+The suit, which is worn underneath the clothes for several months, contains 41 sensors that track strength, flexibility, gait and other relevant metrics. They’re collected wirelessly and processed by (at present) university servers.
+
+“We have succeeded in modelling all of the relevant movements, and in cleaning up the data that is relevant for the therapist by filtering out the rest,” said Klaassen. “Our project has delivered new techniques and methods that can be used to monitor patients at home for extended periods of time, and to identify any differences with structured clinical measurements.”
+
+Presumably the sensors and data could also be used for tracking progress in cases other than those suffering from strokes, but Klaassen’s research is focused on the one domain for now. If it proves useful it could be adapted for use in other forms of physical therapy.
+
+The suit isn’t in production or anything right now and there are plenty of questions, from whether it can be made cheaply to whether it can be washed at all — I’ve emailed the university with some questions and will update the post if I hear back.

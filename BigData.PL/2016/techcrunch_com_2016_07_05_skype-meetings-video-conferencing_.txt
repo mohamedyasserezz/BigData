@@ -1,0 +1,11 @@
+Skype Meetings is Microsoft’s new free video conferencing tool for small businesses
+
+Microsoft todaylaunchedSkype Meetings, a new audio and video conferencing tool specifically designed for small businesses. Skype Meetings is essentially a stripped down version of theSkype for Business solution.
+
+The more fully featured Skype for Business product allows you to host meetings with up to 250 people and it’s deeply integrated into Outlook, Word and PowerPoint. Skype Meetings, on the other hand, only allows for PowerPoint collaboration (screen sharing, laser pointer, etc.) and screen sharing. Video calls are also limited to a maximum of 10 people during the first two months. After that, the maximum number of participants drops to three people.
+
+Participants can join Skype Meetings from virtually any device with the help of a personalized URL and the calls are powered by the same technology as Skype for Business calls. That means you will get to take advantage of Skype’s head tracking feature, for example, which ensures that a face will always be in the center of the screen, no matter where it is in the actual video image.
+
+The fact that the maximum number of participants drops to three after 60 days clearly shows that Microsoft sees this feature as the freemium version of Skype for Business. The regular free version of Skype after all, also allows forgroup calls with up to 10 people. It does not, however, include any of the business-oriented features that come with the new version of the existing Skype for Business.
+
+With this new tool, Microsoft is also clearly trying to compete with Hangouts, which Google has deeply built into its suite of office tools (and which allows third-party services to integrate new features, too).

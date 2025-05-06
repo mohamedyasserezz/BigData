@@ -1,0 +1,35 @@
+Civic launches a free service that aims to stop identity theft before it happens
+
+A new startup calledCivic, launching today, wants to help Americans stop becoming victims of identity theft. The company is aiming to topple similar identity protection services like LifeLock by focusing on a broader market than just credit monitoring, while also allowing people to respond to fraud alerts in real-time in order to prevent the fraud from actually taking place.
+
+Today, most paid services will monitor consumers’ credit reports for fraud, but that means they’re alerting customers that their information has been compromised after the fact.
+
+Civic aims to change that by actually alerting users via a push notification to their smartphone, or a text or email when their Social Security Number is being used at the time of the transaction. This gives the consumer power to deny the transaction immediately.
+
+This system is made possible through Civic’s Identity Protection Network, which will be a network of businesses who collect users’ personal data, including their SSN. This network could include members like banks, financial services, healthcare organizations or any other company that asks for your SSN. Consumers will be alerted when their SSN is used by a Civic partner.
+
+In addition, Civic is partnered with TransUnion for real-time alerts when there is a change to their credit report. But in this case, consumers are not able to prevent the change ahead of its occurrence, as with other Civic partners, due to limitations on TransUnion’s side.
+
+At launch, Civic has a couple of background checking companies on board as partners, includingOnfidoandGoodHire, but it’s in discussions with a number of others, including banks and financial services organizations.
+
+The startup arrives at a time when the number and frequency ofhacks and data breacheshas been increasing. From major retailers to banks to healthcare organizations and government databases, it’s almost impossible at this point to have not been affected at this point.
+
+Following a data breach, victims are typically provided with a year of free identity protection from the company at fault. However,accordingto Civic’s founder and CEOVinny Lingham, whopreviously sold his gift card startup Gyft to First Data, many hackers who steal your data will wait two-three years before reselling your info. That’s long enough for your year-long protection to expire.
+
+Lingham co-founded Civic withJonathan Smith, whose background is in banking and security, this January after seeing how prevalent online fraud was during his time running Gyft.
+
+He also realized that only a small percentage of Americans were willing to pay for credit protection services — only roughly 6 to 7 million do, he says.
+
+To go after a larger market, Civic will be entirely free to consumers, while also providing a baseline of protection similar to what you’d receive from a paid credit monitoring service. This includes credit monitoring alerts from those outside its network, $1 million in identity fraud protection to help victims recover and a 24/7 fraud support hotline.
+
+Meanwhile, it’s Civic’s partners who will pay to join the network, and their fees will reduce as the network scales.
+
+“You don’t get told when your ID information is being used, even if you use it yourself. There’s no feedback loop… If companies want to be responsible about using consumer data and especially Social Security Numbers, the person who owns that information should really get some sort of notification,” Lingham explains, as to why this model works.
+
+“The benefit to the companies is that they may get defrauded if someone else is pretending to be that person. If there was a feedback loop, they could immediately detect that fraud,” he says.
+
+Civic, a team of 14 in Palo Alto, isbacked by $2.75 millionin seed funding from investors including Social Leverage, Founder Collective, Ashton Kutcher and Guy Oseary’s Sound Ventures, Propel Venture Partners, Pantera Capital, Blockchain Capital, Block Chain Space and Digital Currency Group.
+
+Civic will use blockchain technology to decentralize its network, to make it safer from being a target of hacks itself — that’s why it’s working with those in the blockchain space. Lingham declined to provide details on how that will be implemented, however, as it’s not live yet.
+
+The service islive nowon the web, with an iOS app to follow in a few days and Android next month.

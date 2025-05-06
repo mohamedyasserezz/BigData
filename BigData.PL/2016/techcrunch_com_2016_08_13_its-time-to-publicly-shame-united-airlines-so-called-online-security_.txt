@@ -1,0 +1,37 @@
+It’s time to publicly shame United Airlines’ so-called online security
+
+Dear executives of United Airlines, I have some advice for you. 1: Fire whoever is in charge of your online security. 2: Burn down the building in which they worked; it may be tainted. 3: Salt the ground so nothing ever grows there again, to be safe. 4: Hire somebody competent who will not infuriate your users while simultaneously compromising their security.
+
+I know I probably sound like a disgruntled passenger who just had an unpleasant airline experience. Not so! I am actually fond of United, have flown hundreds of thousands of miles with them, and have upper-tier status with them. But I’m also an engineer who writes about security.
+
+It was bad enough when they replaced their free-form password security questions withdrop-down selections— I am not making this up — for “Your favorite artist,” “Your favorite pizza topping,” etc.,citing— I am still not making this up — the threat of keylogging malware.
+
+This has already beenappropriately evisceratedby Josephine Wolff inSlate, and, in fairness, it’s a kind of idiocy that seems to be common to large organizations. Citibank UK did the same thing for years, before they realized how dumb it was.
+
+The thing that bumbling bureaucrats like United’s security team never seem to realize is:you don’t make your systems more secure by making them hard to use. They will react by trying to make it easy again — by, for instance, picking the first answer in every option, rather than trying to remember both questions and answers that they did not devise and have no resonance for them.
+
+(Similarly, you shouldnotforce your users to change passwords frequently, or their passwords will grow weaker, they will write them down in multiple places, etc. I’m looking at you, AOL-which-owns-TechCrunch.)
+
+But even that was merely bad, eyeroll-provoking, frustration-inducing; whereas this week’s compounding sin provoked something more like righteous fury. This week they sent me an email saying:
+
+Your security questions will also be used as part of upcoming two-factor authentication to further protect your account — you’ll be asked to answer your security questions the first time you sign in from a device that we don’t recognize.
+
+For fuck’s sake, United.
+
+https://twitter.com/arirubinstein/status/763414363403329536
+
+First, you are compounding your flawed-because-user-hostile security problems by forcing people to use it more often. Second, you are calling that “two-factor authorization,” because, I don’t know, you believe in some kind of cargo cult? You have adopted security Dadaism, or security Situationism, rather than security engineering? (That would explain the pizza-topping question too, come to think of it.)
+
+Whoever is@united’s CISO/CSO needs to be dropped in a dunk tank.  Repeatedly.
+
+— focalintent (@focalintent)August 10, 2016
+
+Two-factor authorization has aspecific meaning: most often, it’s “something you know, something you have.” It actually does make you much more secure! (Even if you use SMS, which you probably shouldn’t, becauseSS7 flaws, etc.) Two-factor authentication isnot“enter your password, then answer stupid arbitrarily / externally chosen security questions.”
+
+Look, folks: two instances of a single factor is not 2FAhttps://t.co/scIrMuIIjg
+
+— Darren Meyer (@DarrenPMeyer)August 10, 2016
+
+So, just to summarize, United has:
+
+So I stand by my original suggestions. Sack them, burn it, and salt the remains. There’s nothing worth salvaging here.

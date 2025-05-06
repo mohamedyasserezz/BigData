@@ -1,0 +1,29 @@
+Rthm wants to be your comprehensive health AI
+
+If you’re Toronto-based startup MagniWare, you’ve learned some hard truths about the realities of what people will bear in terms of keeping tabs on their general wellness.MagniWarebegan life with a focus on hardware, looking to solve the problem of wearable fatigue by making a powerful sensor that was easy to use. But the hardware focus nearly exhausted the startup’s small initial funding pool. With its new appRthm, it’s acknowledging that the best way to get people using health-related tech is not to require any special hardware at all.
+
+If you’re Toronto-based startup MagniWare, you’ve learned some hard truths about the realities of what people will bear in terms of keeping tabs on their general wellness.
+
+Instead, Rthm offers informed advice on how to “extend your life” via exercise and meditation. It provides an added level of personalization thanks to a special method of measuring your heart rate and breathing using only the sensors that are already included in your phone. It also plugs into HealthKit for additional info, including sleep and activity levels. And before you think this is yet another startup selling snake oil in the guise of “wellness,” the company maintains that it’s only dealing in practices proven to have a measurable impact on real signals, like resting heart rate.
+
+Rthm is a rethinking of MagniWare’s original vision, which, according to co-founder Alexander Mosa, was one of providing everyday people with beneficial access to the results of medical research without the expense and levels of friction often involved. Mosa was pursuing his PhD in Virology at the University of Toronto when he and his founding partner and fellow PhD candidate Miles Montgomery decided they wanted to work on something that would benefit people now rather than only years later.
+
+“I became a bit disheartened by how long it would take for discoveries to be translated to citizenship,” he said. “There was an enormous amount of scientific research, an enormous investment from society into that research, but often the delta from the research to the instantiation was really quite long.”
+
+Now before you start thinking about certain other health-related companies that wanted to skip a few steps between research and public product (cough cough Theranos), Mosa says that what MagniWare wanted to do was not come up with new, untested tech and deploy it to the public, but rather to unlock the inherent value in existing, academically tested and replicated research.
+
+“My perspective is, let’s take the old science, where 20 publications have reproduced the findings, and rather than push it forward, let’s just make it free,” Mosa explains of their approach. “The way that we’re going to accelerate the public access and benefit from [the research] is if we can make it free.”
+
+Rthm, more so even than MagniWare’s earlier explorations into inexpensive, convenient wearable sensors, is the embodiment of this perspective. The app, which launched recently on iOS and which is coming to Android later this summer, doesn’t require any wearable accessories. Mosa claims that the sensor data it gathers from your phone is approaching the accuracy of chest-mounted wearables like Polar heart-rate monitors, and is much more accurate than most wrist-worn devices. My limited testing does seem to support those claims.
+
+Rthm is also free, with the startup using its own DeepRthm Genetic Analysis testing as a revenue source.
+
+The company’s genetic testing (conducted by a fully certified U.S.-based medical lab partner) is anonymized both at the supplier level and for MagniWare itself, so it never directly ties users to their DNA profile results. The genetics information is also used a bit differently than it is with other companies; MagniWare employs it to help provide a more complete picture of user health, so that it can include in its algorithmically generated advice an awareness to which types of health problems a user might be predisposed.
+
+Again, Mosa notes that their model is different here than what you might expect. He points out that it’s not useful to people to receive information like “you’re 15x more likely to develop Alzheimer’s,” nor is it even necessarily accurate when not informed by other factors beyond genetics. Rthm will use that information to provide more tailored and useful practical advice about dietary habits or being more active, but it won’t offer stark, misguided prognostications about the way you may potentially die.
+
+In fact, Rthm’s whole approach is much more down-to-earth, which is refreshing from a wellness tech startup in today’s climate of rewarding approaches that aren’t necessarily grounded in academic rigor.
+
+“We didn’t want to be ostracized by the academic community from U of T,” Mosa said. “At times, that definitely stifled us, because we maybe moved a bit slower because we maybe did too many replicates, maybe took a little bit longer to verify things before we went forward.”
+
+Mosa suspects that their pacing was likely quite a bit slower than the average tech startup might be comfortable with as a result. In the end, he said he’s “glad” they leaned on their academic impulse to urge caution, since Rthm is hopefully better poised to withstand scrutiny and live up to user expectations in the long run.

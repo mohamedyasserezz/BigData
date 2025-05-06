@@ -1,0 +1,29 @@
+Omise lands $17.5M Series B to expand its Stripe-like service in Southeast Asia
+
+Omise, a Bangkok-based payment enabler much like Stripe, has raised a $17.5 million Series B round to expand its reach across Southeast Asia.
+
+The company proves a payment gateway system that allows any retailer take credit card payments online. That’s long been a problem in Southeast Asia, which is compromised of six major countries, each of which requires a different payment solution — Omise is trying to offer a one-stop shop. Right now, its service is available in Thailand and Japan (the birthplace of CEO Jun Hasegawa), but there are plans to expand to Indonesia, Singapore and Malaysia, where it has carried out closed testing, in the coming months. Beyond that, Omise is looking at reaching Vietnam, the Philippines, and Mekong countries like Burma, Laos and Cambodia at a later date.
+
+This new round, which is one of the largest for a fintech company in Southeast Asia to date, was led by Japan-based SBI Investment, with participation from Sinar Mas Digital Ventures (SMDV) in Indonesia, Thailand’s Ascend Money (affiliated with mobile operator True), and existing backer Golden Gate Ventures. Omise has now raised over $25 million, includinga $2.6 million Series A in May 2015andundisclosed round from Golden Gate Ventureslast October, right afterthe Singapore-based VC firm announced a new $50 million fund.
+
+Omise — which is pronounced ‘Oh-Mee-Say’ and means ‘store’ in Japanese — was founded in 2014 by Hasegawa and Thailand-born COO Ezra “Donnie” Harinsut, who became friends after meeting on a homestay trip.
+
+The startup is focused on tapping the potential of e-commerce in Southeast Asia. Right now, estimates suggest less than five percent of the retail in the region is done online but, with more than 600 million people in the region and an increasingly affluent middle class, there’s a huge opportunity for growth. That’s one reasonAlibaba made a $1 billion investment in Rocket Internet-backed ‘Amazon clone’ Lazadaearlier this year, whilea recent Google report forecast Southeast Asia’s ‘online economy’ will reach $200 billion per yearwithin a decade. Omise wants to be the payment solution of choice for anyone selling online across the region.
+
+There are many rivals, including2C2P which raised $7 million last yearand ispowering a social commerce trial with Facebook.Stripe, meanwhile, is in the region, but it appears to beworking on creating demand in the U.S. from overseas via its Atlas project, rather than going for a full-on localization approach.
+
+Unlike its local competitors, Omise is solely focused on digital payments and not cash, which counts for around 60 percent of payments online right now in Southeast Asia. Harinsut explained that Omise sees cash-less as the future, and it aims to be faster and better than other solutions, which take multiple days for payout and involve manual processes.
+
+“We’re focusing more on pay out solutions, not only about accepting payments but also paying merchants or vendors. It is currently next day [payment to merchants], but we want instant — we automate everything, batch files and submit to bank, there’s no human involvement in the process. We try to reduce human error, time and fees,” he told TechCrunch in an interview.
+
+E-commerce is the most visible opportunity, but Hasegawa said that Omise is focusing more broadly on online retail beyond startups — that’s one reason it has operations in Japan, because many Japanese retailers are moving into Southeast Asia.
+
+“E-commerce is growing but much [of our business] is from big companies,” he told me. “Small startups aren’t really making progress yet. It is up to us to make it a self-sustainable business, focusing really on enterprises like airlines, insurance companies, mobile network operators and other subscription services like BDO-on-demand, e-retail and e-government. That’s our target segment right now.”
+
+Omise isn’t releasing any figures for its business — we did ask — but Harinsut said the company can reach profitability inside the next year. He explained that the challenge is about reaching suitable scale. Omise makes its money by charging 3.65 percent on transactions, with a one dollar fee for up to 60,000 (1 million THB) withdrawn, but it offers flexible packages for larger customers.
+
+Southeast Asia is the first priority, but the startup’s founders are also looking outside of their immediate geography, including Australia, New Zealand, Korea and Hong Kong, for future opportunities.
+
+“We’re also really interested in India,” Hasegawa told me. “It’s such a big market and there is still a huge gap for e-commerce and financial institutions. I believe they have some space.”
+
+The company has also been bulking up on personnel too lately. June Seah (formerly Visa APAC) and Michael Bradley (ex CyberSource, a Visa company) have joined the Omise advisory board. Bradley has also become Omise’s Chief Commercial Officer, alongside two more new hires: Sanjeev Kumar, also formerly with Visa CyberSource, who has become Chief Product Officer, and Luke Cheng, ex Groupon APAC, who is Omise Chief Financial Officer.

@@ -1,0 +1,21 @@
+DigitalOcean launches block storage and lets you store terabytes of data
+
+DigitalOceanhas become a popular cloud hosting providerover the years. But many customers have relied on third-party solutions, such as Amazon EBS, to host large sets of data. DigitalOcean is launching block storage so that you can keep everything on their servers.
+
+Using DigitalOcean for your hosting needs is quite simple. In just a few clicks you can launch and manage a virtual private server in one of the different data centers across the world. And these cloudlets are quite cheap. For example, for $20 per month, you get a virtual server with 2GB of RAM, 40GB of SSD storage, 3TB of data transfer and 2 units of computing power. 700,000 people have launched 18 million droplets since 2011.
+
+But what if you need to store hundreds of gigabytes of data but don’t need a lot of computing power? Before today, you could choose to pay for more powerful droplets or sign up for a third-party cloud storage provider.
+
+DigitalOcean is now providing a third solution with block storage. For $0.10 per GB per month, you can attach SSD-based storage to a droplet. So you’ll be able to keep your trusted droplet and add more storage without overpaying for computing power you don’t need.
+
+Data is replicated across multiple racks and is independent from your droplet. So you can upgrade your droplet and keep your block storage volume for instance. You can scale your volume from 1GB to 16TB.
+
+Compared to competing solutions, DigitalOcean doesn’t make you pay for transferring data in and out or for requests. It’s quite simple to figure out how much you’re going to pay — for example, hosting 100GB will cost you $10 per month, hosting 1TB will cost you $100 per month, etc. And DigitalOcean provides block storage, meaning that it’s like having a bigger hard drive. You can do whatever you want with it, not just push and pull files.
+
+As you can see, DigitalOcean’s pricing strategy is a bit different and you’ll need to calculate if it makes sense for your use case. If you want pure block storage so that you can put your database on there, DigitalOcean is competing withAmazon Elastic Block StoreandGoogle’s persistent disks. With today’s new feature, DigitalOcean is catching up on the competition and letting you host huge databases for example. DigitalOcean’s block storage costs more or less as much as Amazon EBS.
+
+If you plan on storing objects and don’t need a block of storage, on Amazon S3, storing 1TB costs $30 per month. But you’ll also pay $0.09 per GB that you deliver to your customers — this can add up. So if you plan on delivering terabytes of data, DigitalOcean is a good solution. But if your files don’t generate a lot of downloads, S3 might be a better option.
+
+Other object-based competitors include Google’sCloud Storage,Backblaze B2and Online.net’sC14. While Google’s offering costs more or less as much as Amazon S3, the other smaller competitors tend to be cheaper.
+
+In other news, DigitalOceanhas a new CTO. James Cariello is no longer CTO and Julia Austin is now the chief technology officer at DigitalOcean. The company also unveiled a new logo without a cloud. Here it is:

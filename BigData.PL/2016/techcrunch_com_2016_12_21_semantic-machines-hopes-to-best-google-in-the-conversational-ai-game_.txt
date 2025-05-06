@@ -1,0 +1,29 @@
+Semantic Machines hopes to best Google in the conversational AI game
+
+I believe it was Sartre who wisely said hell is conversational AI. Despite the best intentions of engineers, today’s machine learning really is the savior and handicap of personal assistants. Berkeley-based startupSemantic Machinesmight suffer the same Achilles’ heel, but its team of 18 artificial intelligence PhDs thinks it can get farther than the current state-of-the-art establishment.
+
+To understand what Semantic Machines is trying to build, you have to think about what existing personal assistants lack. Behind relatable names and repetitive humor, Siri, Google Assistant, Cortana and Alexa all essentially work the same way — they recognize and parse speech, classify intent and then execute commands. This is a perfectly good framework for building a voice recognition system that can interface with a string of APIs, but it falls woefully short if you expect it to carry an intelligent conversation.
+
+Intelligence is a tough nut to crack; it requires more than a great classifier. To build something you don’t want to throw on the ground, you need to balance data, learning, memory, computation and some semblance of goals. Semantic is trying to double down on the memory portion to give users the experience they expect.
+
+“Today’s dialog technology is mostly orthogonal,” explains Dan Klein, co-founder and chief scientist of Semantic Machines. “You want a conversational system to be contextual so when you interpret a sentence things don’t stand in isolation.”
+
+Google’s Assistant is one of the best assistants on the market, and even it struggles to carry the simplest of conversations. In the example to the right, you can see just how hard it is to get it to recall information from a message directly above. It promised to remember!
+
+Semantic Machines has aims to close the gap here and let memory stretch even further back. I sat down with Dr. Klein and CEO Daniel Roth at the company’s HQ to see a demonstration in person. The image below is from the company’s website, but appropriately reflects my live demo.
+
+In an exchange about booking a hotel, Semantic’s AI is able to take in information and make recommendations at a level of sophistication that just isn’t commonplace today. Of course, much of this is dependent on API integrations, but it shows promise.
+
+While not pictured, the same AI was able to recall the booking of a previous San Francisco trip and W hotel reservation to easily rebook at a later date.
+
+Roth doesn’t have plans to release Semantic Machine’s AI to consumers. Instead, he wants to package it up and sell it to enterprises so they can offer better services to customers. This makes sense from a business model and adoption standpoint.
+
+Unfortunately, even though services like Siri and Google Assistant struggle, they’re deeply integrated. It doesn’t matter how advanced a conversational AI is if it doesn’t have the administrative power to execute tasks on your iPhone.
+
+With this model, Semantic Machines also gets to monetize its product for specific use cases. Right now Roth is focusing on customer support and commerce, but that list is by no means finite.
+
+The stacked team is laser focused putting the finishing touches on its proprietary internal framework. Once the system is fine tuned, it will be easy to add future integrations.
+
+It’s important not to undervalue Semantic’s team and the statement it makes to the competitive industry. Despite being an early-stage startup, Semantic employees have more than 250 research publications to their names, and 300 patents.
+
+That type of brain power, concentrated together in a single startup, is rare. Companies like Facebook and Google can offer compensation packages to top AI researchers that are out of reach for most. That hurdle really can only be overcome with a team that’s juiced-up about the product they are building. That definitely seems to be the case over at Semantic Machines.

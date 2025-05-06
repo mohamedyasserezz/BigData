@@ -1,0 +1,21 @@
+Researchers track the trackers through 20 years of the archived web
+
+Everywhere you go on the web, trackers are working to reconstruct your every move. But who tracks the trackers? That’s just what researchers at the University of Washington are doing, with purpose-built tools and liberal use of Internet Archive’s Wayback Machine.
+
+The Tracking Excavator projectis an effort to quantify a trend we all have more or less accepted as axiomatic: as the web has grown, third-party trackers, from advertisers to analytics, have grown with it. It’s one thing to accept something as true, however, and another to show it and analyze it.
+
+“Until now, we didn’t have the tools to understand how these approaches have changed since the earliest days of the web,” said Tadayoshi Kohnoin a news release; Kohno and his colleague Franziska Roesner run the UW’s Security and Privacy Laboratory. “Now we can see how the quantity and variety of trackers has grown, and how some approaches have fallen out of favor while others are on the rise.”
+
+Not that it was easy. The team, led by CS grad students Adam Lerner and Anna Kornfeld Simpson, was working with a highly incomplete data set, much like the fossil record. Their primary source was the Internet Archive and its Wayback Machine. But that tool, for all its usefulness, was designed for savingcontent, like blog posts — not metadata or offsite code and scripts.
+
+“We had to develop techniques to extract tracking information from the archive,” said Kornfeld Simpson. “For example, we collected tracking cookies from archived HTTP headers and Javascript and then simulated the browser’s cookie storage behaviors to detect tracking behavior.”
+
+No shortcuts there — it took the team a year to sort through 20 years of records, starting in 1996. But the resulting tools and dataset are original and valuable.
+
+The study was presented at theUSENIX conference in Austin, and represents a sort of first pass at the data; deeper analysis is forthcoming. Among the facts they did discover is that the amount of third-party tracking happening on the average website has increased by a factor of four. That is to say that, in 1996, there wasmaybeone tracker on most websites, and now there are generally at least four.
+
+Individual trackers cover a larger part of the web, as well: no longer will an advertiser or analytics company be found only in a thin cross-section of sites. Instead, the biggest ones are now present on 20 to 30 percent of all sites tested. The trackers themselves have become more complex, watching and correlating many types of behaviors across many sites.
+
+These results do sound intuitively true, but the dataset collected by the team makes it possible not just to confirm them, but to graph them over time and link them to other developments with changes observed in it. Did ad-blockers make a dent or spur growth? Did improving web standards change the way trackers worked? What about changes in consumer spending and the economy?
+
+The “Tracking Excavator” the researchers built to automate some of the tracker-tracking process isn’t available for download yet, but theyplan to release it soon. In the meantime, you can browse through the data they collected and perform your own analysis, if you dare.

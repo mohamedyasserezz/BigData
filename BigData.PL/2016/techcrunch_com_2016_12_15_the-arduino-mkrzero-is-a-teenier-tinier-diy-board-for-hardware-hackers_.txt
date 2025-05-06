@@ -1,0 +1,9 @@
+The Arduino MKRZero is a teenier, tinier DIY board for hardware hackers
+
+What do you buy for someone who has everything? Either apink fairy armadilloor anArduino MKRZero. I’d recommend going with the Arduino.
+
+The MKRZero is basically a really, really small microcomputer with a number of outputs and headers as well as a battery management system and USB control. It’s great for learning or building 32-bit applications and it’s small enough to fit inside almost anything.
+
+What can you do with it? A few things including building aDIY Thereminand amoney spewing “Make It Rain” machinethat spits out dollars when you clap your hands. Obviously your results may vary.
+
+Little boards like this one are great fun and are always valuable experimental and hacking tools. At a mere $22 you could probably pick one of these up and learn a little Arduino programming in your spare time which is more than you can say for a pink fairy armadillo. All that little guy will teach you is how to love again.

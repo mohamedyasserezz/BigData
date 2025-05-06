@@ -1,0 +1,47 @@
+Key trends in machine learning and AI
+
+You can hardly talk to a technology executive or developer today without talking about artificial intelligence, machine learning or bots.
+
+While everyone agrees on the importance of machine learning to their company and industry, few companies have adequate expertise to do what they wanted the technology to do. Here are some insights into what we can expect in the coming years around ML and AI.
+
+Every application is going to be an intelligent application
+
+If your company isn’t using machine learning to detect anomalies, recommend products or predict churn, you will start doing it soon. Because of the rapid generation of new data, availability of massive amounts of compute power and ease of use of new ML platforms (whether it is from large technology companies like Amazon, Google and Microsoft or from startups likeDato), we expect to see more and more applications that generate real-time predictions and continuously get better over time. Of the 100 early-stage startups we have met in the last six months, 90+ percent of them are already planning to use ML to deliver a better experience for their customers.
+
+Intelligent apps are built on innovations in micro-intelligence and middle-ware services
+
+Companies today fall into two categories (broadly): those that are building some form of ML/AI technology or those that are using ML/AI technologies in their applications and services. There is a tremendous amount of innovation happening in the building block services (aka, middle-ware services) that include both data preparation services and learning services or models-as-a-service providers.
+
+With the advent of microservices and the ability to seamlessly interface with them through REST APIs, there is an increasing trend for the learning services and ML algorithms to be used and re-used — as opposed to having to be re-written from scratch over and over again.
+
+For example,Algorithmiaruns a marketplace for algorithms that any intelligent application can use as needed. Combining these algorithms and models with a specific slice of data (use-case specific within a particular vertical) is what we call micro-intelligence, which can be seamlessly incorporated into applications.
+
+Trust and transparency are absolutely critical in a world of ML and AI
+
+Several high-profile experiments with ML and AI came into the spotlight in the last year. Examples include Microsoft Tay, Google DeepMind AlphaGo, Facebook M and the increasing number of chatbots of all kinds. The rise of natural user interfaces (voice, chat and vision) provide very interesting options and opportunities for us as human beings to interact with virtual assistants (Apple Siri, Amazon Alexa, Microsoft Cortana and Viv).
+
+There are also some more troubling examples of how we interact with artificial intelligences. For example, at the end of one online course at Georgia Tech, students were surprised to learn that one of the teaching assistants (named Jill Watson after the IBM Watson technology) with whom they were interacting throughout the semester was a chatbot and not a human being.
+
+As much as this shows the power of technology and innovation, it also brings to mind many questions around the rules of engagement in terms of trust and transparency in a world of bots, ML and AI.
+
+Understanding the “why” behind the “what” is often another critical component of working with artificial intelligence. A doctor or a patient will not be happy with a diagnosis that tells them they have a 75 percent likelihood of cancer and they should use drug X to treat it. They need to understand which pieces of information came together to create that prediction or answer.
+
+We absolutely believe that going forward we should have full transparency with regards to ML and think through the ethical implications of the technology advances that will be an integral part of our lives and our society moving forward.
+
+We need human beings in the loop
+
+There have been a number of conversations on whether we should be afraid of AI-based machines taking over the world. As much as advances in ML and AI are going to help with automation where it makes sense, it is also true that we will absolutely need to have human beings in the loop to create the right end-to-end customer experiences.
+
+At one point,Redfinexperimented with sending ML-generated recommendations to its users. These machine-generated recommendations had a slightly higher engagement rate than users’ own search and alert filters. However, the real improvement came when Redfin asked its agents to review recommendations before they were sent out. After agents reviewed the recommendations, Redfin was able to use the agents’ modifications as additional training data, and the click-through rate on recommended houses rose significantly.
+
+Splunkre-emphasized this point by describing how IT professionals play a key role in deploying and using Splunk to help them do their jobs better and more efficiently. Without these humans in the loop, customers won’t get the most value out of Splunk.
+
+Another company,Spare5, is a good example of how humans are sometimes required to train ML models by correcting and classifying the data going into the model. Another common adage in ML is garbage in, garbage out. The quality and integrity of data is critical to build high-quality models.
+
+ML is a critical ingredient for intelligent applications… but you may not need ML on Day One
+
+Machine learning is an integral part and critical ingredient in building intelligent applications, but the most important goals in building intelligent apps are to build applications or services that resonate with your customers, provide an easy way for your customer to use your service and continuously get better over time.
+
+To use ML and AI effectively, you often need to have a large dataset. The advice from people who have done this successfully is to start with the application and experience that you want to deliver, and, in the process, think about how ML can enhance your application and what dataset you need to collect to build the best experience for your customers.
+
+We have come a long way in the journey toward every app being an intelligent app, but we are still in the early stages of the journey. As Oren Etzioni, CEO ofthe Allen Institute for AI, said in one fireside chat, we have made tremendous progress in AI and ML, but declaring success in ML today is like “climbing to the top of a tree and declaring we are going to the moon.”

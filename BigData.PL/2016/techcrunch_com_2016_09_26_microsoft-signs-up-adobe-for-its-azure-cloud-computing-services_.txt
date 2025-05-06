@@ -1,0 +1,21 @@
+Microsoft signs up Adobe for its Azure cloud computing services
+
+Microsoft and Adobe today announced a major partnership that will see Adobe deliver its cloud services on Microsoft Azure and that will make Adobe the preferred marketing service for Microsoft’s Dynamics 365 Enterprise CRM solution.
+
+Microsoft says Adobe will now make Azure its “preferred cloud platform” for its three main services: the Adobe Marketing Cloud, Creative Cloud and Document Cloud. Specifically, Adobe will use SQL Server and Azure’s machine learning services available in the Microsoft Cortana Intelligence Suite.
+
+“Customers today expect a well-designed, personalized and consistent experience every time they engage with a brand,” said Shantanu Narayen, president and CEO of Adobe, in a statement today. “Adobe and Microsoft will bring together the cloud horsepower and end-to-end capabilities brands need to design and deliver great digital experiences.”
+
+As is so often the case with these partnership announcement, quite a few questions remain unanswered. Traditionally, Adobe has run its own data centers, for example, and it’s unclear from today’s announcement what will happen to these (though we have asked Adobe for comment and will update this post once we hear more).
+
+Update: we have not heard back from Adobe, but Amazon’s AWS unit sent us the following statement: “We have a significant, long-term relationship and agreement with Adobe that hasn’t changed. Their customers will want to use AWS, and they’re committed to continuing to make that easy.”
+
+While Adobe started talking about the cloud early on, it mostly used it as a delivery mechanism for its subscription service at first. Over time, though, the company then added storage and began using the massive compute power available in its data centers to enable features that were otherwise impossible, especially on mobile devices, and make them available for third-party developers, too.
+
+During today’s Ignite keynote, Narayen also noted that he sees this as the next phase in Adobe’s partnership with Microsoft. “We have completely reformed how in the cloud we can reimagine the creativep rocess as well as documents,” he also noted.
+
+Microsoft itself will now make the Adobe Marketing Cloud its preferred marketing service for Dynamics Enterprise 365 and the two companies will collaborate on data integrations that will  make it easier for their users to work across the two services.
+
+“Customers today expect a well-designed, personalized and consistent experience every time they engage with a brand,” said Shantanu Narayen, president and CEO of Adobe, in today’s announcement. “Adobe and Microsoft will bring together the cloud horsepower and end-to-end capabilities brands need to design and deliver great digital experiences.”
+
+Microsoft and Adobe alreadypartneredon enterprise storage before, so while today’s announcement goes far beyond that, it doesn’t come as a total surprise given the two company’s previous relationship.

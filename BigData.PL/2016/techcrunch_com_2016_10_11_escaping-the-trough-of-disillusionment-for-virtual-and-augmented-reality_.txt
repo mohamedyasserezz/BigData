@@ -1,0 +1,79 @@
+Escaping the trough of disillusionment for virtual and augmented reality
+
+The desire for virtual reality is no new revelation. Since the renaissance artists have played with panoramas, depth, and other tools of perception to create illusions that are virtually or “almost” real.
+
+21st-century virtual reality (with “virtual” now meaning software-rendered) is also a well-trod idea within the still nascent history of computing technology. VR has been “just around the corner” since the 1980s.
+
+VR arcades popped up in local strip malls. Sega and Nintendo both produced 3D consoles in the early 90s to much fanfare, but high price points and low functionality resulted in commercial failure.
+
+All this is to underscore that technology to this point, had not caught up with long-standing desires of the human imagination.
+
+However, it would seem in 2016 the time for VR and AR has indisputably arrived.
+
+The barriers around price, content, and distribution of software tools are lower than ever before. Oculus was acquired by Facebook for $2Bn and companies likeMagic Leap,MatterportandBlipparraised massive rounds with close to $1Bn in aggregate funding.
+
+The amount of R&D dollars being spent on VR/AR by the top 5 technology companies and the amount of venture capital investment in VR/AR related start-ups has been mind-boggling.
+
+Long Road to Mass Adoption
+
+However, on the heels of massive rounds and much-hyped excitement comes the creep of unease and uncertainty.
+
+Gartner has placed VR within its tech hype cycle as precariously struggling out of thetrough of disillusionment, described as a period of waning interest as “experiments and implementations fail to deliver.
+
+Producers of the technology shake out or fail. Investments continue only if the surviving providers improve their products to the satisfaction of early adopters.”
+
+Indeed, deal-making in the VR space has not reached the peaks seen with Oculus and Magic Leap. In an eerie fashion, aggregate dollars invested map to the hype cycle curve.
+
+Funds that were hyper-bullish or early movers are now cautiously reworking their positions. Attitudes in Seattle, aworldwide hubfor VR, have also become decidedly chillier.
+
+At the recentGeekwire Summit, Nick Wingfield of the NY Times compared VR unflatteringly to “tablet PC in the early 2000s.” We have met with entrepreneurs who were seeking to complete funding or stretch the runway for the funding they already have to wait out the potentially long road to mass adoption.
+
+The reality lies somewhere between the hype and the disillusionment. User statistics on Steam Spy of popular Steam store games show that mass adoption could still be far off.
+
+Consider the highest ranked social VR game,Rec Room, has around 75 to 85 concurrent users per day with average play time right at the hour mark, while Facebook boasts over a billion concurrent users per day each spending around the same amount of time across its product offerings.
+
+The somewhat heavy-handed comparison serves to highlight that VR uptake is ponderously burdened by hardware adoption and ease of use. Prices are still too high for anyone but the hardcore technologist or gamer.
+
+We believe there is still a three to five- year runway before VR and AR start getting adopted by mainstream audiences. Until then, it will be a niche market of a few million units with accelerated growth.
+
+However, we still believe that in twenty years, VR will be a ubiquitous force and as pervasive and transformative as the internet was in the 90s or the smartphone was in the 2000s. Every 2D interface will be re-imagined and re-architected for 3D.
+
+The billion-dollar question then, is what lies between niche gaming and mass adoption, and where are the opportunities will be over the coming decades? Below are where we see the most exciting opportunities for VR.
+
+VR Will Harness the Power of Emotions
+
+Early VR content has often focused on VR’s immersive ability to teleport the user into an otherworldly or futuristic land. Think the popularThe Lab, or the surreal intergalactic androids of social gameAltSpace VR. However, in the hope to capture the otherworldly, such content inadvertently creates isolating, clinical and lonely, albeit wondrous experiences.
+
+However, VR’s unique and unprecedented power, lies not in its ability to remove the human fromthissociety, but rather in the medium’s ability to immerse the user ever deeper into it. It is in VR’s ability to tell stories that feel sohumanthat they are remembered by the mind to be “real”, create communication platforms that give a new gravitas to “nice to meet you virtually”, and social platforms that illicit strongsharedemotional responses previously impossible in traditional 2D interfaces. VR has been proven to be a potent
+
+VR has been proven to be a potentpain killer, and has also been noted for its potential to inflict emotionaltorture.Companies that excite us will figure out the secret of how to leverage the medium’s emotional engine – whether that is a joyous high-five between two players on the same team, mortal terror as you step onto a plank 100 stories above a bustling city, or being “there” for your baby’s first steps while halfway around the world.
+
+Adoption will be Mobile-First and Low-end Tech
+
+We believe that price is still a significant barrier for high-end VR and early mass adoption will be in a mobile-first, bottoms-up, consumer-centric format. As the Pokemon Go and Snapchat filter phenomena have shown, consumers are ready to adopt mixed reality technologies as long as they can be used with smartphones and wearables already on the market.
+
+Startups in this field will soon see substantial competition with incumbents such as Snapchat not only entering the AR mobileadvertisingand marketing space, but also the low-endwearablesspace with the Snapchat Spectacle, which today enables you to record video snippets that your eyes see, but you can imagine the unlimited potential this has to deliver low-tech AR experiences.
+
+On the hardware side, Samsung and Google are two juggernauts evangelizing bringing simple VR to the masses. Ahead of the holiday season, Samsung has announced afree Gearwith S7 purchase and Google has announced the release ofDay Dream, which at a $79 price point and simple fabric design, prioritizes mass appeal over high-end tech.
+
+Enterprise Applications
+
+Tim Bajarin recently wrote of how thesecond phaseof tech adoption between early and broader market adoption often sees the entrance of enterprises that try to implement the technology within their specific verticals. We can apply this to VR and also conclude that we are currently in that very phase.
+
+The market opportunity to transform industries like engineering, science, medicine, real estate, education and manufacturing will be very tangible in the short term. Google Glass, having failed with consumers, is back with
+
+The market opportunity to transform industries like engineering, science, medicine, real estate, education and manufacturing will be very tangible in the short term. Google Glass, having failed with consumers, is back withEnterpriseand Microsoft has made a clear and aggressivepushinto the corporate market with the Hololens.
+
+Outside of industries that benefit most strongly from 3D virtualization, we believe great levels of adoption will also be around workforce collaboration. Companies likePluto VRallow teams that aren’t in the same physical environment to enter a virtual environment and exchange information and ideas in a way that far surpasses two-dimensional video conferencing.
+
+There is a reason why even with advanced and ubiquitous video conferencing technology, business travel is still a trillion-dollar industry globally. VR communication platforms that nail presence and the idiosyncrasies of human emotional expression (while staying far away from a trip to the uncanny valley) will form the life-blood of future enterprise productivity.
+
+Delivery Platforms
+
+Prices are sure to drop over time, technology will continue to improve, and the hurdle for production and content creation has all but been solved. In fact, it is so easy to create VR content that we were recently able to cobble together our own Madrona game complete with a Gotham-like cityscape, creepy hallways, elevator rides and plank-walks all from open-sourced templates and YouTube Unity tutorials. Valve’s Steam VR and Oculus have both put a stake in the ground for the high-end distribution channel.  Some of these killer experiences are required to bootstrap the mass consumer adoption though we believe that in the long haul user-generated content will dominate the mass market. To that end, the final word on
+
+Valve’s Steam VR and Oculus have both put a stake in the ground for the high-end distribution channel.  Some of these killer experiences are required to bootstrap the mass consumer adoption though we believe that in the long haul user-generated content will dominate the mass market. To that end, the final word on distribution remains an open question. What will bethemode of distribution for VR, and how will users create, interact with, and view content?
+
+Final Thoughts
+
+VR remains a high-risk, potentially high-reward industry. We are excited by companies with solid design, solid leadership, and a vision of how they will grow as the market evolves knowing that mass adoption is likely still a few years away.  Considering that the first iPhone was released in 2007, consumer adoption can often be more instantaneous than anyone can imagine. All it takes is the spark to light the match – the killer app or experience to bring VR into its oft-promised realization. For those brave enough to weather the trough of disillusionment, the next computing revolution could lie just around the bend.

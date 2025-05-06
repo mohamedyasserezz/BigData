@@ -1,0 +1,21 @@
+PointShop hack uses AR to aid gadget buying
+
+Another hack presented on stage here at the TechCrunch Disrupt San Francisco 2016 hackathon uses AR to contextualize gadgets with the aim of helping consumers better understand what they’re looking at, find a local stockist and even buy the gizmo there and then.
+
+The two person team, Yosun Chang and Anuj Agrawal, demoed the hack working on an iPhone, pulling in company data about Apple via the CrunchBase API, showing a map for locations to buy the device via a MapQuest API, and using SAP’s Hybris API to power an ecommerce option.
+
+One neat feature of the app the team created as they hacked overnight lets the user tap to see a visual comparison of the real world object they are looking at with a related product injected into the frame digitally, such as the iPad in the below photo — a neat way for a gadget buyer to size up alternatives or related products.
+
+“People like to buy random things that they see,” said Unity developer Chang, explaining the rational for the hack. “We were thinking originally what if you can use reality as your primary key — usually a primary key is a string or an integer somewhere but what if it’s the objects? And every object is made by a company that’s probably in CrunchBase.”
+
+“You want to know about the company, and a lot of times people buy stuff without knowing, like, what Belkin does other than sell connectors,” she added.
+
+While the initial application makes most sense for gadget buying, the team reckons it could be expanded to useful for buying almost anything.
+
+“Ideally you’d be able to point it at any device and it would do the same experience where it would give you alternate results, maybe be able to let you do size comparisons, maybe let you do product comparisons, maybe even pricing information, likes sales,” said Agrawal, the team’s backend developer.
+
+And while he noted there are of course other AR apps (software and hardware) that inject product info around objects, the team still reckons their treatment brings something fresh in terms of how they present info to uses and their choice of data sources.
+
+Once the app recognizes the object it shows a selection of captions linked to it by lines, much like a diagram. These text annotations can be tapped to expand/pull in more info/buying options.
+
+“It’s a friendly presentation, the way it’s interactive,” Agrawal added discussing the UI.

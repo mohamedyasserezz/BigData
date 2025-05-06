@@ -1,0 +1,11 @@
+Google unleashes DeepMind on energy-hungry data center, cutting cooling bill by 40%
+
+DeepMindmay be a master at one of the most complex games on Earth, but can it handle the day-to-day energy concerns of a Google data center? Yes, as it turns out, and with a vengeance.
+
+The power needs of a data center depend on lots of factors, from demand to the weather, and adjusting to or predicting these variables in order to achieve maximal power efficiency can be difficult indeed. Google has been applying machine learning to the problem, building a neural model with which its AI can keep all these factors in mind, so to speak.
+
+The researchers finallylet DeepMind loose on a live data center— and the results were immediately validating. Overall energy use for cooling dropped 40 percent and stayed there.
+
+Google is already fairly concerned with energy use, having taken many steps toward using renewable power and keeping things efficient. So it’s not like no one was paying attention to begin with. The streamlining DeepMind did could also be generalized to other systems and deployed to other data centers — which the company will surely crow about when it comes to pass.
+
+The DeepMind team plans to publish a more comprehensive description of their work in an actual paper; we’ll add a link when we see it.

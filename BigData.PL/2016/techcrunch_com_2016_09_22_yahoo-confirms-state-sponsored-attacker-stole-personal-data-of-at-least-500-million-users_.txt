@@ -1,0 +1,49 @@
+Yahoo confirms state-sponsored attacker stole personal data of “at least” 500 million users
+
+As indicated by an earlierreport, Yahoo todayconfirmedit’s working with law enforcement to investigate a data breach which affected the account information of “at least” 500 million users. The company says that the user account information was stolen from its network in late 2014 by what it now believes to be a state-sponsored actor. The stolen information includes people’s names, email addresses, telephone numbers, birth dates, passwords (most hashed with bcrypt), and, in some cases, encrypted or unencrypted responses to security questions and answers.
+
+This makes the data breach one of the most serious to date, given not only who may be behind it, but the nature of the information the attackers were able to access, as well as the scale.
+
+With the answers to security questions, a hacker could easily jump through a number of online forms to reset users’ passwords on sites where an additional means of account verification – like two-factor authentication – is not involved.
+
+Yahoo says it has invalidated all the unencrypted security questions and answers so they can’t be used to access a Yahoo account, but of course those same questions are commonly repeated across the web.
+
+However, the attacker did not gain access to unprotected passwords, says Yahoo. Nor were they able to get payment card information or bank account information, as these were housed in a different system that the one that was affected.
+
+The company startednotifying affected users via emailbeginning at 11:30 AM PDT, and asking them to change their passwords as well as adopt an alternate means of account verification. It will additional ask those who haven’t updated their passwords since 2014 to now do so, too.
+
+Below is a copy of the email being sent to Yahoo users:
+
+Even if you weren’t affected by the breach, Yahoo suggests using Yahoo Account Key, a newer authentication tool that increases security but eliminates the need to use a password.
+
+Yahoo says it’s working with law enforcement on the matter, and that it found no evidence that the state-sponsored actor is currently on its network. However, the investigation is ongoing.
+
+As always following a large-scale breach like this, other hackers will attempt to capitalize on the news for their own ends.
+
+That means you may begin to receive phishing emails that purport to help you reset your password, but will really redirect you to malicious websites where they can more easily capture your personal information. Yahoo cautions users to be on the lookout for any unsolicited emails, and to avoid clicking links or downloading the attachments they may contain.
+
+For those with questions about the breach, there’s now a Yahoo help page dedicated to the topic athttps://yahoo.com/security-update.
+
+Here, a clickable Q&A offers a basic summary of all the above information, but doesn’t provide any further details about the attack itself. It simply answers questions like “what is a ‘hashed password?’ and ‘was my account affected?’, among other things.
+
+The most helpful content on that site is how to identify a legitimate email from Yahoo. On the Yahoo website or Yahoo Mail app, the email will display a small Yahoo icon to verify the sender. It will also not ask users to click clicks or open attachments.
+
+The Q&A also says that Tumblr user accounts were not affected by this attack.
+
+News that there had been a large-scale attack on Yahoo has been rumored for many months now, after word that a hacker called “Peace”was selling 200 million Yahoo user account credentialson the dark web. But with 500 million users affected – and maybe even more – the attack is much larger than previously speculated.
+
+The disclosure follows Verizon’s announcement that it was acquiring Yahoo’s core business in a $4.8 billion deal. (Disclosure: TechCrunch parent AOL is owned by Verizon.) Now it looks like it will be acquiring quite a headache, too.
+
+Update:
+
+Statement from FBI:
+
+FBI statement on Yahoo data breach says only that it's "aware of the matter."pic.twitter.com/CopvfhtBdA
+
+— Eric Geller (@ericgeller)September 22, 2016
+
+Verizon PR statement indicates the company has only known about the incident for 2 days:
+
+Verizon statement this afternoon regarding Yahoo security incident.$VZpic.twitter.com/KQTnyrjlJy
+
+— Bob Varettoni (@bvar)September 22, 2016

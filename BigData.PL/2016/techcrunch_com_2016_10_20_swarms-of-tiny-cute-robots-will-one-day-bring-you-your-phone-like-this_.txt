@@ -1,0 +1,13 @@
+Swarms of tiny, cute robots will one day bring you your phone, like this
+
+Robots are taking over factories and warehouses, but their next stop might be your desktop or kitchen counter. These tiny “Zooids” work together at high speed to act as tools, display information or move things around like little ants.
+
+The bots, named after the individual creatures that make up colonial organisms, were presented earlier this week at the Association for Computing Machinery’sUIST conference. Their creators, a multi-university group of roboticists, propose them as the beginning of a new type of “swarm user interface.”
+
+Each robot has little wheels, a touch sensor and gyros, and an optical sensor on top that monitors its position by watching patterns coming from a projector overhead. They don’t operate independently, rather taking instructions on where to go from the computer tracking them.
+
+There’s no shortage of possibilities. The robots can arrange themselves into shapes to display information, and you can interact directly with them by grabbing one and spinning or moving it — imagine an EQ materializing in front of you, or dials scooting over to your fingers when you open a certain app or game.
+
+They can manipulate real-life objects themselves, as well: in the video, they push a phone closer to a user, and one can imagine them tidying a desk when nobody is around, or coming out of a hole in the wall to collect crumbs and put your slippers away.
+
+The researchers really love the idea of these things,and explore it thoroughly in their paper. They’re also excited for others to try making and testing them, and provide everything needed to do so (save the parts themselves)at this GitHub page.

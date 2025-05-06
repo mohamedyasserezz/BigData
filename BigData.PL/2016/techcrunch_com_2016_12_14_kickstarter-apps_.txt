@@ -1,0 +1,13 @@
+Kickstarter is open sourcing the code for its Android and iOS apps
+
+Kickstarter is pulling back the curtain on its app development process. This morning, the crowdfunding platform istaking to its engineering blogto announce that it will be open sourcing the code for its native Android and iOS apps, in keeping with the company’s goal of giving startups a bit of a leg up.
+
+According to the company, inspiration for the idea arrived around the same timeit became a Public Benefit Corporation, in September of last year, playing into that larger idea of giving something back to the larger development community.
+
+The code will be made available starting today through the company’s Github repo, giving interested parties access to the process behind the work that goes into engineering and designing of the apps.
+
+“We kind of felt like, as a team, we were doing some unique things,” Kickstarter engineer Brandon Williams told TechCrunch ahead of the launch. “Engineers don’t often get a chance to share their work.”
+
+Among the more useful aspects available are access to the functional programming that was used to write the apps, offering up some insight into the creation and prototyping processes used to bring them to life.
+
+Here are a few of the offerings the company is highlighting in particular for developers,

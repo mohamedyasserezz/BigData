@@ -1,0 +1,23 @@
+Google’s Cloud Platform gets new a cold storage service
+
+At anevent in Londontoday Google announced a couple of updates to its cloud storage services. The most important of these is the launch of Coldline, a new cold storage service for archival data, but the company also announced its new Regional storage service and the rebranding of its Standard storage under the “Multi-Region” moniker.
+
+If you know yourGoogle Cloud Storage, the launch of a new cold storage service may surprise you. WithNearline, Google already offers a very affordable service for data archiving and disaster recovery, after all. When Nearline firstlaunched, it was very similar to Amazon Glacier in that you would get a very cheap storage service but you had to pay for that with increased latency. When Nearline came out of beta earlier this year, though, it also became much faster. Instead of three to five seconds of latency, access to data was now real-time.
+
+Coldline basically fills the gap that the improved Nearline service left after it came out of beta. Coldline storage will only cost $0.007 per gigabyte per month (and $0.05 per gigabyte retrieved). Nearline costs $0.01 per month. That may not look like a huge difference, but those numbers quickly add up if you are storing massive amounts of data.
+
+As a Google spokesperson told me, Coldline latency will be as low as access to the company’s other storage classes. “Building off the positive response from Nearline’s low-latency, this was an important design aspect for Coldline,” the spokesperson told me.
+
+Coldline is now also included in Google’s Switch and Save program, which offers enterprises that move their data to the Google Cloud up to 100 petabyte of free storage for a couple of months.
+
+With this update, Google is also now re-branding its current “standard” storage service for fast, highly available data access as “multi-regional,” and adding a lower-priced “regional” tier to this, as well.
+
+As the name implies, the multi-regional service is a highly available geo-redundant class of storage that ensures that if one region goes down, requests for your data can simply be routed to a different region. In that respect, it’s not that different from using the old Standard storage service in one of Google’s three multi-region locations (U.S., Asia and Europe).
+
+All existing Standard storage buckets in one of these multi-region locations have been converted to this new Multi-Regional storage class. Google’s SLA promises 99.95 percent availability for data stored in this service.
+
+To complement this multi-region storage service, Google is also now launching its Regional storage service. Data in this class is only stored in a single region, so it may not be quite as available as data stored in the multi-regional service (Google’s SLA promises a 99.9 percent uptime), but for many workloads where the data only needs to be close to where the compute happens, using this cheaper storage service should be just fine.
+
+To complicate matters a bit more, Google is also shelving its existing Durable Reduced Availability (DRA) storage class. Its replacement is the Regional storage service, but the company will continue to support the DRA class for existing customers. The company expects most users will move over to the Regional storage class, though.
+
+And that’s Google’s new cloud storage lineup. Some of it is only a rebranding of existing services, but even that helps to better define which service developers should use for different use cases. The only really new service here is Coldline, which now gives developers a real cold storage service on the Google Cloud Platform and clearly positions Nearline as the service for backups and long-tail content.

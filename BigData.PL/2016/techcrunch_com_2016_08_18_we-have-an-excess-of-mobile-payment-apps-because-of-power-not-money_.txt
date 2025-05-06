@@ -1,0 +1,33 @@
+We have an excess of mobile payment apps because of power, not money
+
+What the heck is up with all the mobile payment solutions hitting the market? Hint — it has almost nothing to do with money.
+
+Every week it seems like another retailer, bank, or technology company launches a mobile payments solution. Apple Pay, Android Pay,CVS Pay, Walmart Pay…Pre Pay…Over Pay…Tai Pay…it’s all a bit much.
+
+Rather than money or hardware, the mobile payments battle is a fight for ownership of the customer. Retailers care a lot about the top 20 percent of their shoppers. For companies like Walmart and CVS, recurring revenue is worth the extra cost of developing and promoting an app even ifApple Payand Android Pay end up being the most popular platforms.
+
+Retailers have reason to be worried, tech titans havebeen threatening retailfor the better part of the last two decades. It’s a learned animosity and it isn’t going away anytime soon, especially when massive amounts of customer data are at stake.
+
+The rise of retailer-branded mobile payments is the side effect of wounds left open back at the turn of the millennium. Growing technology companies like Google made it possible for one-click price comparisons, explains Alex Muller, CEO and cofounder of GPShopper.Froogle— the apt early name for Google Shopping — scraped the internet for merchandise, letting Google get out in front of major retailers and threaten them with ownership of customer data. Google makes 97 percent of its revenue from advertising. Ownership of key retail data, control of the search engine direction of shoppers to brands, and domination of advertising is enough to strike fear into traditional retailers.
+
+Determined to never loose control of the customer again, companies like Walmart and CVS are stepping up their efforts. Walmart Pay and CVS Pay are not just about mobile payments, they are about creating an all-inclusive shopping tool for incredibly valuable yet vulnerable recurring customers.
+
+Our mobile devices are becoming more and more personal to us by the day. Nobody wants the same device that controls their TV to also have their credit card on it. As the use of mobile payments becomes more prevalent, tech companies and retailers alike are racing to own the customer as early in the shopping process as possible.
+
+The mobile payment wars have been mischaracterized by many as a zero sum game. However, it’s difficult to have a winner when the players are not even playing the same game. The “Pay” moniker is really a lazy bastardization of multiple technologies. Apple, Google,and Samsungown their respective devices andcan implement NFCfor seamless omnichannel purchasing. Their mobile payment services will always win over brand specific solutions because everything about them is better.
+
+CVS Pay for example requires users to create an account to access what amounts to a clunky payment experience with a QR code. But CVS isn’t as much selling mobile payments as it is selling a brand. Users can find many traditional brand features in the app like reminders to refill prescriptions, a map to find local CVS stores, a list of ongoing sales, and an online shopping portal. The payment feature is really quite secondary to the other offerings. However, just because there isn’t a zero sum game for mobile payments doesn’t mean there isn’t still a battle over ownership of the customer.
+
+While it is true that Apple doesn’tdirectlycollect specific customer data, they dohold the keysto transactional data. Simply,merchants get less data from Apple Paytransactions than from traditional transactions done at the terminal. Retailers lose almost arbitrarily and Apple gains location data that is aggregated to “improve Apple’s wider services.”
+
+Muller explains that in a traditional payments ecosystem, retailers can leverage what’s called “tender steering” to drive down interchange costs. This means merchants can point consumers in the direction of less costly payment services, as theresult of an antitrust settlementreached between Visa, MasterCard and the Department of Justice. However, if Apple controls the sale, they then potentially benefit from tender steering and siphon off benefits from retailers. The key here is that it’s not so much about the lost money for large retailersas it is their loss of power.
+
+At first, many people think that the rise of retail specific mobile payments is the product of greed, but the reality is that it is about fear. Neither Apple nor Google, the dominant players in the space, charge merchants to accept transactions. Rather, Apple charges financial institutions and Google doesn’t even do that.
+
+Hardware, another scapegoat, has also had a minimal impact. Most large retailers already have payment terminals that can accommodate NFC, and even many small retailers have access to the technology. For big box chains, software updates can present a larger challenge. Giving away control at the point of sale takes a lot of trust and most retailers are just not there yet with major tech companies. A botched software update can cost millions in lost revenue within minutes. Additionally, new technology has a learning curve, especially for chains that have hundreds of thousands of employees — Walmart employs over a million people in the United States. Training employees on mobile payments is a challenge, especially with so many different technologies. In this way, additional mobile payment technologies dilute the customer experience at the same time they dilute the retailer experience.
+
+Ironically,when credit cards were first rolled out, they were industry and brand specific. The universal card didn’t come about for years because of massive security vulnerabilities and a lack of processing technology. Today, the system has flipped. Security is still relevant, but data has become everything. In today’s world, credit cards, loyalty programs and mobile payments are all fueled by data, and the most powerful brands are the ones that own that data rather than simply facilitate transactions.
+
+On the current path, stratification of adoption between SMBs and large retailers will continue. Walmart’s obstinance to accept third-party mobile payments doesn’t really matter much for either party. Retail specific solutions for mobile payments will continue to propagate for the fundamental reality that the future role of “brands” is at stake.
+
+Technology companies are breaking down barriers for consumers, aggregating information, and producing efficiencies. Retailers are struggling to retain the value of their individual brands in a world with increased transparency, but again this is nothing new — simply a rehashing of battles from the early days of eCommerce.

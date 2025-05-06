@@ -1,0 +1,21 @@
+Algolia wants to bring transparency to service-level agreements
+
+Service-level agreements(SLAs) are key when it comes to choosing a service that is going to play an important part for your own service. Cloud hosting services have an SLA, software-as-a-service products have an SLA, evenairlines have SLAs. Software-as-a-service startupAlgoliajustrevampedits SLA, and it’s interesting to see how the company is wording its policy.
+
+SLAs are simple: if a service goes down, the provider agrees to pay you back to compensate for the inconvenience. But some services make SLAs hard to understand, and you don’t really know what you’re getting if a service goes down. For something critical, you want to make sure that a service is willing to pay a lot of money if it goes down — it’s the best way to know that it is serious about staying up nearly 100 percent of the time.
+
+And yet, downtimes happen. Evenbig companiessuffer from downtime. So 100 percent of service availability is just wishful thinking. You want a company’s word that it is going to do everything possible to fight downtime.
+
+Algolia is a criticalreal-time search APIthat powers many of the services that you use and love. If Algolia goes down, you won’t be able to search for stuff on Medium, Twitch, Periscope or CrunchBase.
+
+Those big clients want to make sure that Algolia is making everything possible to stay up. Otherwise, it becomes a trust issue and you’re going to look for another search provider.
+
+Usually, services check every minute if everything is running smoothly. And yet, 59 seconds of downtime in a month means that you can theoretically only claim 99.9977 percent of uptime. Algolia wanted to go further.
+
+So the company threw away all the usual monitoring services and builtits own monitoring networkthat checks if everything is running fine every 30 seconds. This way, the company can provide a premium SLA.
+
+If you’re a premium customer, “we replicate your search on at least three different machines hosted by three different providers in three different data centers with three autonomous systems using at least two different Tier1 upstream providers,” Adam Surak says. And the company promises 99.999 percent of uptime thanks to its monitoring network.
+
+And instead of boring, complicated terms of services that tell you “for every minute of downtime, you’re eligible to blah blah blah,” Algolia has three charts that make it easy to understand what happens if the service goes down for 2 minutes, 20 minutes or 2 hours:
+
+All of this information will sound useless if you aren’t using Algolia. But I feel like this is the kind of transparency that you should expect from your software-as-a-service provider. And I hope more companies will create this kind of charts to illustrate their SLAs.

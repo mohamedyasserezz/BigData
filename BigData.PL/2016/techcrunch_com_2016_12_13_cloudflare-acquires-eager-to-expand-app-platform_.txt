@@ -1,0 +1,25 @@
+Cloudflare acquires Eager to enhance app platform
+
+Cloudflareannounced today that it has acquiredEager, a tool for easily integrating apps into any website. The company did not disclose the purchase price, but Eager’s four employees will be joining Cloudflare, and continuing to work out of their Cambridge, MA office — at least for the time being.
+
+Eager was founded in 2014 by two former HubSpot employees, Zack Bloom and Adam Schwartz. The company’s goal was to create an app store for websites to make it a fairly simple proposition to add apps to a site without coding.
+
+Cloudflare CEO and co-founder Matthew Prince said his company had launched something similar back in 2011 with around 30 supported apps, but that because of limited resources, they never expanded much beyond that.
+
+What’s more, their solution lacked APIs for other developers to add their apps to the app store on the Cloudflare platform. With Eager, the company can tap into a full set of APIs and give developers that access that was missing from their original solution.
+
+Faced with finding the engineering resources to expand the existing product, Prince said that Cloudflare was introduced to Eager by one of its funders, Union Square Ventures, which had invested in the company’s C round.
+
+He immediately liked what he saw in the product and began to pursue a partnership with Eager’s founders. That quickly led to a discussion about acquiring the company. Prince liked the founders on a personal level, and he saw a solution that could fit nicely into the Cloudflare platform.
+
+Eager was like a more mature version of the tool Cloudflare had created, with more than 100 apps already supported. He felt when you combined that with the reach of Cloudflare, which has more than 5 million users (and growing), it could really enhance the platform.
+
+Specifically, it enables non-technical end users to add an application in the Eager application catalog to any website without adding a line of code. This means, for instance, a non-technical marketing person could add a Google Map to the company About page by dragging and dropping the Google Map app without help.
+
+So instead of submitting a change request, routing it through the web development team for coding and approval, before finally implementing it, with the Cloudflare-Eager solution, the marketing person could just do it themselves and save a lot of time.
+
+Eager also has a nifty live preview feature, which lets users see what a tool looks like in a production environment without actually implementing it. This enables users to experiment with configurations such as placement, colors and other options before actually putting the app into live production on the website.
+
+The Eager solution will replace the existing Cloudflare app catalog in the second quarter of 2017, and be part of the administrative interface, just as the older version had been prior to the acquisition. Prince says that existing users will be ported over, and it should be a smooth transition.
+
+Cloudflare was launched at TechCrunch Disrupt in September, 2010 and has raised more than $180 million.

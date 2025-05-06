@@ -1,0 +1,9 @@
+The Husarion CORE2 is a brain for your death-dealing robotic projects
+
+As we approach the coming robot apocalypse it helps to know your enemy. In most cases our enemies will be made by other robots and their alien engineering will be very difficult to understand. But if they use theHusarion Core 2at least we’ll vaguely understand what we’re up against.
+
+The Polish-made Husarion Core 2 is basically a brain for a robot. It has connectors for sensors and servo motors and can connect directly to a Raspberry Pi to make your robots even smarter. There is a fullweb-based IDE for programming your boardas well as detailedsupport docs.
+
+Why do you need this $89 board? Primarily for the servo controls. Getting small robots to move is easy but getting bigger robots with bigger motors to move is a bit more difficult. By supporting devices that use 6 to 16V of power you can make things a little bigger and a little cooler than with standard boards.
+
+The Husarion team is also working to make their boards compatible with Lego Mindstorms and other popular robotics platforms, thereby ensuring that you will have a full understanding of the motorized Destructo-bot that’s about to break through your door and forcibly inject you with a tracking chip. Forewarned is forearmed.

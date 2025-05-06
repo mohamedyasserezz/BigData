@@ -1,0 +1,29 @@
+Microsoft offers concessions to EU regulators eyeing its $26.2B LinkedIn bid
+
+Microsoft has offered concessions to EC competition regulators in the hopes of smoothing the way for its planned acquisition of LinkedIn. It announced the$26.2 billion deal this June.
+
+Reutersreports the development follows a meeting between the Commission and Microsoft executives last week at which the EC expressed concerns.
+
+An EC spokesperson confirmed it has received “a commitments proposal” from Microsoft but declined to comment further.
+
+Commitments, in EC antitrust nomenclature, refers to remedies a company can offer if the Commission has concerns a merger/acquisition may significantly affect competition. These can include proposing certain modifications to the project to guarantee continued competition on the market.
+
+A Microsoft spokesperson declined to comment on what concessions it is offering. Nor would it comment more generally on the big data competition issue. But the spokesman did point tothis blog, written by competition lawyerStephen Kinsella(whose firm has advised Microsoft on a range of antitrust issues), which sets out arguments against big-data-related competition concerns as a blocker to the Microsoft-LinkedIn acquisition.
+
+Kinsella’s position is the big data competition concern essentially pivots on the question of whether a data set can be “unmatched.” “Unless there is convincing evidence that a particular data set is genuinely both non-replicable and uncontestable, it would place an unreasonable burden on competition enforcers if they were always obliged to analyse the impact on some rather nebulous ‘data market,’ ” he writes.
+
+Complaints that the LinkedIn acquisition might make it difficult for Microsoft’s competitors to launch future services are dismissed by Kinsella as moving into “the realm of an ‘innovation offence’ ” — where regulators would be tackling, in his words, “speculative impact” and “the levels of abstraction introduce too much uncertainty into the merger review process.”
+
+Clearly Microsoft hopes the Commission will come to similar conclusions. The majority of competition cases are cleared unconditionally by the EC, so the Microsoft-LinkedIn deal is already in a minority — although the EC spokesman said it also has “many cases” where parties submit remedies at this stage as they seek to satisfy regulator concerns.
+
+For more than a year now EU Competition Commissioner Margrethe Vestager has raised concerns about whether big data players’ data holdings can impact competition,warning at the start of this year:“If a company’s use of data is so bad for competition that it outweighs the benefits, we may have to step in to restore a level playing field.”
+
+Marc Benioff, chief executive officer of Salesforce.com — which also made a bid for LinkedIn — has been one of the mostvocal competitors opposing the acquisition, arguing Microsoft will use LinkedIn’s database of ~430 million professional profiles of users to “block competition.”
+
+For its part,Microsoft has saidit wants to integrate LinkedIn data into its existing software programs, such as Outlook email, Skype messaging and Office’s suite of productivity apps — combining the social graph of the professional network with data held within Microsoft users’ emails, calendars and comms in order to enable new utility and functionality. Such as “a LinkedIn newsfeed that serves up articles based on the project you are working on and Office suggesting an expert to connect with via LinkedIn to help with a task you’re trying to complete.”
+
+It has also said it wants to apply machine learning/AI on top of that mix to, in thewords of one Microsoft exec, Scott Guthrie, “create the ultimate selling tool, the ultimate customer support tool.” So another driver for the LinkedIn acquisition is its vast social graph dataset as a pure “raw material” for training the machine learning models Microsoft will need to build a next generation of smarter software.
+
+AI’s need for data to create new products likely helps explain the hefty price-tag on the LinkedIn acquisition. But it remains to be seen how EU regulators will weigh up the competition implications of any such LinkedIn-data-enabled future Microsoft products.
+
+The new deadline for the EC’s decision on the acquisition isDecember 6.

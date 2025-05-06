@@ -1,0 +1,17 @@
+Disrupt SF Hackathon ticket release, plus a special hackathon track
+
+Want to attend the Disrupt SF Hackathon but don’t have a ticket yet? We’re excited to announce the release of a fresh batch of tickets. And this hackathon comes with a twist.
+
+For the first time, there will be a special hackathon track dedicated to hacking on TechCrunch. In partnership withAutomattic’s WordPress.com VIP teamand CrunchBase, we’re granting access to all the published articles in TechCrunch’s CMS and the CrunchBase API. You’ll be able to build a product using TechCrunch’s 156,000 published articles and the vast information contained within CrunchBase.
+
+WordPress just made a long-awaited advancement in its evolution from being a blogging tool to becoming a full-blown application framework.A robustREST APIhas been folded into the WordPress core, unlocking tons of new possibilities for sites like TechCrunch that run on the platform. Most of WordPress’s core features can be accessed via the API, which is excellent news for developers who have felt the constraints of the platform previously.
+
+Coders can now break away from PHP, decoupling themselves from the WordPress backend and use any technology they would like. Some beautiful examples of these new, often JavaScript-powered sites are cropping upin the wild. Taking things a step further, WordPress is now able to be used to power robust mobile applications such asStoryCorps, a native app for iOS and Android that allows people to record and share their stories.
+
+Engineers from Automattic and TechCrunch are excited to share this API at our hackathon to see what creative uses our hackers might find for it, using TechCrunch as an example of a site employing it. And because everyone knows more data is more fun, CrunchBase will be givingaccess to its APIas well, which has millions of data points about startups, investments, people and acquisitions. The CrunchBase API is the backbone of several apps and programs that help companies and teams target sales prospects, foresee market trends, and focus on what matters most to their business.
+
+The hackathon starts at 12:30 p.m. on Saturday, September 10. Coders will have the opportunity to attend API workshops, including sessions co-hosted by Automattic, Crunchable and TechCrunch. The event lasts through the night. Then, on Sunday afternoon, teams will have 60 seconds to present their projects on the Disrupt stage to a panel of expert judges.
+
+All teams who earn a score of 3 or higher will win two free tickets to themain Disrupt conferenceon September 12-14. The winning team will get $5,000 in cash to share and loads of glory. And since we’re always looking for new talent for our product team, there’s a possibility that someone could land a job at TechCrunch out of this.
+
+We hope you’ll join us. Tickets are first come, first served and they go fast, so hurry up and grab yourfree ticket here.

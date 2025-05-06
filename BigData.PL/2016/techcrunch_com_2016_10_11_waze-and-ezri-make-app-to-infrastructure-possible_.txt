@@ -1,0 +1,25 @@
+Waze and Esri make app-to-infrastructure possible
+
+The interactive navigation appWaze, with its 65 million active monthly users, has partnered withEsri, which provides geographic information systems (GIS) software to 25,000 state, local and national governments. While the combination isn’t quite the vehicle to infrastructure (V2I) communication that will enable autonomous vehicles in the future, it is a kind of app-to-infrastructure system that improves traffic and creates more reliable maps for drivers right now.
+
+This isn’t anything new for Waze. It’s been running the Connected Citizens Program (CCP) since 2014, a free two-way data exchange with its municipal partners. It just announced its hundredth partner recently, Transport for London, but it works with cities around the globe, from Jakarta to Rio de Janeiro to Montreal.
+
+“Esri is a leading GIS software provider,” said Adam Fried, new business development manager at Waze. “Any time we see an opportunity to augment our data, we do it.”
+
+With so many municipalities already using Esri, it was easy to add Waze data to cities’ current mapping software. Fried said one of the biggest barriers Waze had encountered with municipalities was resource constraints — time, money and technology. Teaming up with Esri “meets our partners where they are,” Fried said, without having to invest in specialized software or training.
+
+It’s also not anything new for Esri, which partnered withHEREin 2013. “Cities are using our software as a system of record,” said Andrew Stauffer, who works with civic technology at Esri. Cities already have data on things like miles of roadway, street signs, school zones and school districts.
+
+“That’s what brought this problem to light,” Stauffer explained. “A community we were working with said, ‘You guys make some amazing maps and great analysis software, but how do we get the data out there into the public? Nobody’s going online to check a PDF or web application [for road closures, etc.]. They’re relying on apps to do navigation.’ Helping that city solve that problem is how we got introduced to Waze.”
+
+Stauffer described its part in the partnership as “taking the firehose of information from Waze and turning it into action.” Depending on how the municipality wants to use that data, it can take the Waze reports of a vehicle at the side of the road and dispatch emergency vehicles. Or it can detect a traffic jam and tweak the traffic light timing to ease congestion.
+
+Waze has already done just that with its Connected Citizens Program. “Boston took our data and analyzed it at major intersections for traffic flow. The city addressed signal timing and decreased congestion by 18%,” a major accomplishment in Boston. “Esri allows us to magnify that exponentially.”
+
+The possibilities range from the massive to the very small. During recent flooding in Louisiana, Waze worked with the Louisiana Department of Transportation, the city of Baton Rouge and others to disseminate information about shelter locations, closed roads and the best ways to navigate to safety. But Waze and Esri have also worked together to allow drivers in Johns Creek, Georgia, to report potholes and the city to respond by patching them.
+
+In case you’re worried about the government getting all up in your business via Waze, Stauffer notes that the data shared by Esri and the municipalities using its software is open data. Waze anonymizes and aggregates its data, so “we [at Esri] don’t have to figure out how to anonymize it,” Stauffer said. “They take it seriously, protecting their users,” he said of Waze.
+
+Waze also has more than 420,000 volunteer editors making sure maps are updated and information is verified. Stauffer said that in addition to Waze’s own verification and points system, the Connected Citizens Program allows users to see whether an event like a road closure was reported by the city or by users. There’s a little logo for the municipality that will pop up on the map to signal that it’s authoritative content.
+
+Both Waze and Esri see two-way communication as a way to ease traffic and get drivers where they need to go safely and quickly, whether that’s to work or during an emergency evacuation. “It’s shocking how much open data will fix things,” Stauffer said.

@@ -1,0 +1,15 @@
+Counting endangered sea cows is hard, so we’re going to make AI do it
+
+Can you spot the lone dugong in the image above? Look closer. Closer… still no? Try thislarger version. Give up?Here it is.Now do that with 45,000 more, and you’ll have a general idea of the population of these endangered critters. If that sounds tedious, then perhaps you, like researchers at Murdoch University, would prefer todelegate the duty to a specially-trained computer.
+
+Amanda Hodgson, of the school’s Cetacean Research Unit, has been using UAVs to capture images of marine animals for years, but the data piles up fast, and there are only so many grad students.
+
+Hodgson worked with computer scientist Frederic Maire, of the Queensland University of Technology, to automate the process.
+
+They trained amachine learningsystem on imagery where the sea cows had already been tagged, allowing it to look at fresh photos and spot them with about 80 percent accuracy. The success rate should improve, and at any rate it’s good enough to give a ballpark measure and indicate images that need to be scrutinized more closely.
+
+The one below, for instance, may need to be double-checked, since there are so many creatures in it and the shadows may fool the system into counting a few twice:
+
+With some tweaks, the system could also be convinced to watch for whales, dolphins, boats, and other common features of the coast that could stand to be quantified.
+
+Just one more way that machine learning and computer vision are helping out scientists and others across the globe.

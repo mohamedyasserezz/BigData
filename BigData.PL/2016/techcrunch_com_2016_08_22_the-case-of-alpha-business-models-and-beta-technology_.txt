@@ -1,0 +1,43 @@
+The case of alpha business models and beta technology
+
+Allstateis on a mission to vertically develop its telematics expertise and find new sources of revenue across different sectors bylaunching a new standalone unit called Arity(dedicated to data collection and analytics). It’s no surprise that Allstate’s own brands, such asEsuranceandAnswer Financial(which onlylast monthannounced the release of a telematics app called Streetwise Drivers Club), are clients. It’s a start on the path to the unknown.
+
+Allstate has been using telematics over the last six years to encourage safe driving — but apparently safe driving is too much of a lofty goal for a for-profit insurer that has already invested tens of millions of dollars in telematics.
+
+Allstate launched its voluntary Drivewise program in Illinois at the end of 2010. Participants received a dongle to install in their car with the promise of an immediate 10 percent enrollment discount and up to 30 percent performance discount on their auto insurance premium if they practiced safe driving. This wasn’t at all different from Progressive’s Snapshot device, which in its earlier days was called MyRate.
+
+WhileProgressivewas the first U.S. insurer to launch a wireless telematics device, Allstate was the first insurer to launch a telematics smartphone app that works instead of or alongside its plug-in wireless device and is tied to a points system. These devices typically track mileage, braking, speed and time of day when a customer drives, while newer developments of telematics apps also have a GPS component that can track whereabouts. So far, customers haven’t freaked out about their loss of privacy.
+
+Fast followers ensued; currently, 80 percent of the top 10 private passenger auto insurers offer one of two sorts oftelematicsprogram (or both): pay-how-you-drive (PHYD) or pay-as-you-drive (PAYD).
+
+Insurers are trial and erroring their way to market penetration
+
+One thing that is telling about the struggles insurers face in their path to usage-based insurance (UBI) penetration is the change in tactics deployed by insurers. Originally, newly rolled out telematics programs were monetary-reward-only programs. More recently though, Progressive introduced the fine print of “Snapshot doesn’t always save people money; and on occasion, it could increase your rate,” typically during renewal.
+
+Allstate, on the other hand, launched Allstate Rewards to allow any Drivewise drivers, and not just Allstate customers, to earn points that can later be converted to benefits in the form of merchandise, gift cards and local deals. The latter is perhaps the first signal that Allstate has a bigger vision on how it could leverage customers’ data beyond a “customer loyalty-slash-retention play.” As it stands, according toSimilarWeb, its Drivewise Android app was downloaded between 50,000 to 100,000 times, placing any bragging rights on hold.
+
+Moving on toState Farm, the leading insurer is playing both sides by offering a Drive Safe & Save telematics program tied to monetary rewards, as well as its Driver Feedback app that strictly provides tools for drivers to self-assess their driving behaviors, because safe driving is its own prize.
+
+Attract-and-retain turned reward-and-retain
+
+When all things are considered, the use of technology coupled with discounts to attract and retain lowest-risk drivers is a novel concept — one that very quickly eradicated any sort of competitive advantage due to the share of competitors with similar offerings and the cost to deploy such solutions (whether device-based or app-based).
+
+First, the majority of top insurers offer similar programs, and there’s no evidence to suggest that insurers without a telematics offering fare worse than their counterparts. In fact, in 2013,Geico, aka the odd one out, surpassed Allstate to become the second-largest U.S. auto insurer,according to data compiled by SNL.
+
+So while Allstate and Progressive saw their dollars flow, or should I sayFlo,into telematics, Geico gave its marketing budget a boost and achieved a noteworthy milestone, sustained to this day. In the grand scheme of things, most insurers with telematics propositions have continued to boost their advertising budget over the years despite their offering of a more cost-conscious, better yet, “fair” insurance policy, which should have sold itself. Takeaway No. 1: Telematics is both an IT and a marketing expense.
+
+Second, retaining customers via rewards isn’t a long-term strategy, it’s a tactic — and a very expensive one indeed, especially for insurers that need to execute this kind of operation. In reality, three-fourth of telematics customers receive an average savings of 14 percent. That comes out to ~$118 in annual discount when factoringthe average auto insurance policy premium being $841, according to the National Association of Insurance Commissioners. Again, nothing to brag about, albeit this piece is somewhat subjective. Takeaway No. 2: Operating costs and actual savings discount any telematics discount.
+
+The case for a more personalized pricing structure made possible because of this technology fits nicely with niche players likeMetromileandMarmalade, that either target low-mileage or inexperienced drivers.
+
+Five-year-old pay-per-mile San Francisco-based MGU Metromile (which is active in California, Illinois, New Jersey, Oregon, Pennsylvania, Virginia and Washington) has a single UBI solution targeting low-mileage drivers who drive less than 10,000 miles a year. The case for product-market fit.
+
+U.K.-based specialist insurer Marmalade operates in the land of the young and the restless, targeting young drivers (age 17-24) via a telematics offering, in which discounts are granted during renewal; a bigger likelihood of drivers staying with the insurer for at least two years. The case for the beauty is in the details.
+
+Over the long term, “safe driving” will become a goal pursued by several players that in turn will put into question how big of a role a single insurer can play in this field and actually achieve both scale and engagement. There will always be others, whether auto manufacturers or tech behemoths, that will introduce technological improvements to hands-free technologies and Advanced Driver Assistance Systems (ADAS), deeming driving scores irrelevant.
+
+The insurance industry is associated with high-touch, low-frequency customer touch points, and it is that sore spot that has led to the quest by insurers to create more touch points — but in reality, forced business models on what should have been a short-lived engagement gadget (after all, how long should drivers be asked to validate they are safe drivers?) for many mass insurers (with the emphasis onmass).
+
+The challenge lies between seeking the masses to capture more big data versus seeking a fit within segments of the insurance population. Now, Allstate is spreading its wings beyond insurance, looking to justify its telematics costs in the name of big data, now the turf of Arity.
+
+This is the era where insurers try to sell insurance in a hundred different ways, seeking meaningful and positive touch points with their customers. Mass insurers haven’t figured out yet their sustainable sweet spot around telematics, but, for now, they are busy satisfying their underwriting curiosity with fancier data sets. That, by itself, is an experience worth paying for; the question is, for how long?

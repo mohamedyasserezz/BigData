@@ -1,0 +1,37 @@
+MessageBird, a profitable rival to Twilio from Europe, introduces support for chat apps
+
+Twilio’s IPO this monthisn’t just good timing for the tech industry, which has been waiting for a promising public listing from one of its number, it has set up the perfect stage for a lesser-known European rival to boost its profile in the U.S..
+
+Before its listing, few people knew much about services like Twilio, which operates an SMS and voice platform that powers, for example, those verification messages you get when you use your number to sign up for a new app. But the U.S. firm’s raised profile has increase awareness of that particular ‘tech plumbing’ and its importance. Fewer people still have likely heard ofMessageBird, a stealthy company from Amsterdam that operates in the same space as Twilio and — unlike its now- New York Stock Exchange-listed competitor — is actually profitable.
+
+Now is definitely a good time for MessageBird, which was founded in Amsterdam, The Netherlands, and has never raised external capital, to step up as part of the current batch in Y Combinator’s accelerator program.
+
+Twilio and MessageBird play in the same space, but there’s plenty to differentiate the two. MessageBird CEO and founder Robert Vis explained that, while Twilio is pretty focused on enabling app developers, his company looks more to enterprise companies. Twilio has done a great job of dominating its space in the U.S. among anyone considering an app or mobile service, but Vis — who started MessageBird afterselling his previous payments companyfive years ago — has deliberately pushed into international markets like Europe and Asia Pacific.
+
+The stats are certainly impressive. Vis told me that MessageBird has 11,000 customers who make 300 million API calls each month. It also has direct carrier relationships in countries like Singapore, Indonesia, Japan, China, and the Philippines. The company pulled in $20 million in revenue last year and a positive $2 million EBITA; this year it forecasts $35 million in sales and $3 million EBITA.
+
+For context,Twilio reported a net loss of $35.5 million on $166.9 million in revenue last year. But it showed growth on 2014, when it reported $88.8 million in revenue.
+
+MessageBird is fully focused on growth, too, andit is announcing a new product this week: chat.
+
+“We’ve built an API on top of the chat platforms,” Vis explains. “So we can enable customer support via WeChat, for example, and rather than integrating each service we provide a ubiquitous platform.”
+
+Unsurprisingly, Vis sees the global potential behind this new service — given that the mobile messaging revolution began, and is strongest, in Asia.
+
+“We think Asia will be a major play for us,” he said, listing Weibo, Line, Messenger, Telegram and WeChat as some of the services that are supported. “We don’t think this will replace our text business but it is a nice addition.”
+
+WhatsApp,the world’s largest chat app with over one billion users, is missing from the list because it doesn’t offer a platform for developers.
+
+MessageBird is fundamentally different to Twilio, Vis explained, because, well, it is a startup that came out of Europe which means it had to learn a few things quicker. Such as making money. The company has been profitable since its first year, but Vis pushed himself to grow the business in the U.S. which is why it finds itself in Y Combinator — albeit as a bit of an outlier being already profitable, five years old and with 30 staff located worldwide.
+
+“It’s been a personal dream of mine to have a Silicon Valley vision of tech. I could go to San Francisco and try to meet people by myself but nobody really cares about me,” Vis explained rather candidly.
+
+“YC is the number one accelerator, and I feel it’s a very powerful platform to scale really quickly,” he added.
+
+“We noticed we were getting more customers in the U.S. who wanted to send their messaging global,” he said, of why MessageBird is in YC in the first place. “It’s incredible, I have to give them credit that they have an amazing network.”
+
+Raising money is a major reason startups get excited about YC’s network and Vis is leaning towards the idea of bringing on investors who, beyond capital, can offer strategic value to MessageBird.
+
+“Yes and no [the startup might raise funding] — only if it feels right. We’re not strapped for cash at all and can do a lot from our own capital, but it might be good to have a little war chest,” he said. “Investors from Asia and the U.S. could add some real value to our business.”
+
+“Could we grow even quicker if we stopped bootstrapping? We have a lot of equity and the potential to cause a lot of trouble in the world,” he joked.

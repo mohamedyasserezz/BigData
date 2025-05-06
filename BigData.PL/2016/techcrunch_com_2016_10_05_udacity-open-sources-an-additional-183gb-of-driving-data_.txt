@@ -1,0 +1,15 @@
+Udacity open sources an additional 183GB of driving data
+
+On stage at TechCrunch Disruptlast month,Udacityfounder Sebastian Thrun announced that the online education company would be buildingits own autonomous caras part of its self-driving car nanodegree program. To get there, Udacity has created a series of challenges to leverage the power of community to build the safest car possible — meaning anyone and everyone is welcome to become a part of the open-sourced project.Challenge onewas all about building a 3D model for a camera mount, butchallenge twohas brought deep learning into the mix.
+
+In the latest challenge, participants have been tasked with using driving data to predict steering angles. Initially, Udacity released 40GB of data to help at-home tinkerers build competitive models without access to the type of driving data that Tesla of Google would have. However, because deep learning models drink data by the pond rather than the gallon,the company pushed out an additional 183GB of driving data.
+
+The complete 223GB package contains data and both sunny and overcast footage from over 70 minutes of driving spread over two days in Mountain View. The variety of footage will bolster the quality of submissions and give participants more realistic data to work off of that better represents the challenges of real world driving and changing road conditions.
+
+The videos have also been pared up with matching data like latitude, longitude, gear, brake, throttle, steering angles and speed. All of this information will fuel the creation of convolutional neural nets, ultimately enabling cameras paired with deep learning to get you safely from point a to point b.
+
+“By letting the car figure out how to interpret images on its own, we can skip a lot of the complexity that exists in manually selecting features to detect, and drastically reduce the cost required to get an autonomous vehicle on the road by avoiding LiDAR-based solutions,” the company said in its Challenge #2 blog post.
+
+While 223GB sounds like a lot of data, it still pales in comparison to the massive libraries that companies like Uber and Tesla are accumulating with their self-driving cars. Some reports show that complex capture systems can generatenearly a gigabyte of data every secondand the aforementioned companies havemillions of miles of data.By nature, these Udacity data sets will be considerably more compact in size because they only contain rudimentary data and video footage, but the context underscores just how important data will be in fueling the creation of next generation automobiles.
+
+Of course this challenge in particular is not just about building a car, but learning along the way. If the challenge sounds interesting,head on over to GitHubwhere you can access Udacity’s data set.

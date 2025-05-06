@@ -1,0 +1,13 @@
+Google introduces speedier ads to its Accelerated Mobile Pages program
+
+Google has been working to create a faster news reading experiencethrough its Accelerated Mobile Pagesproject. Now it’s bringing something similar to online ads.
+
+AMP is an open framework for creating articles that load more quickly, particularly on mobile. (They also can be sped up by loading from Google’s cache.) At the timethe program was announced, Google said it would allow publishers to run ads on their AMP-formatted articles, just like any other articles, and it’salready added support for more ad types.
+
+Today, the company unveiled an AMP for Ads program, which allows marketers to create similarly optimized ads, presumably to run alongside those fast-loading articles. As Paul Muret, Google’s vice president of display, video and analytics put itin a blog post:
+
+With AMP for Ads, we’re bringing everything that’s good and fast about AMP to ads. Unfortunately, most advertisers’ campaign creative are not fully optimized for mobile experiences. AMP for Ads allows advertisers to build beautifully-designed ads in AMP HTML so that the entire AMP experience, both the publisher’s content and the advertiser’s creative, load simultaneously at AMP-speed.
+
+Google is also announcing AMP Landing Pages — so marketers can ensure someone will have a similarly smooth experience after they click on the ad, rather than being driven away immediately by a slow-loading page.
+
+Among other things, AMP is a way for Google to make the mobile web more competitive with Facebook’s Instant Articles, so it’s worth noting thatFacebook also has created an Instant Article-style ad format.

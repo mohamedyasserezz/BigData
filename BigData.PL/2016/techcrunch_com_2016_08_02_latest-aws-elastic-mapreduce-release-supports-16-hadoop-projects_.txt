@@ -1,0 +1,23 @@
+Latest Amazon Elastic MapReduce release supports 16 Hadoop projects
+
+Amazon announced the release of Elastic MapReduce (EMR) 5.0.0today, which includes, among other things, support for 16 open source Hadoop projects.
+
+As AWS continues to hone its various tools to help customers manage myriad enterprise functions in the cloud, this latest one is aimed at data scientists and other interested parties looking to manage big data projects with Hadoop.
+
+For those of you unfamiliar with Hadoop, “[It’s] fundamentally infrastructure software for storing and processing large data sets,”according to Mike Gualtieri, a Forrester analyst who covers this space.
+
+It’s different from conventional data processing software in that it distributes both the storage and processing over a set of nodes (which can scale to the thousands), providing a much more efficient system for processing large amounts of data.
+
+What’s more, it’s a tremendously popularopen source Apache project(with a really cute mascot) and a massive ecosystem around it, which is continually adding projects to help fill in holes and requirements.
+
+Hadoop is made up of these various projects to help users with the tasks they need to undertake when managing large sets of data, such as Hive, a data warehouse for Hadoop, and HBase, a scalable, distributed database — both of which are supported in AWS.
+
+Its popularity has given rise to several companies, such as Cloudera, Hortonworks and MapR, which have created commercial versions on top of the open source project.
+
+AWS has actually been on a frantic pace since July last year to continually update this tool and provide support for an increasing number of Hadoop projects to give its customers the widest number of choices.
+
+AWS has been using anotherApache open source tool called Bigtop, which, according to the project page, helps “Infrastructure Engineers and Data Scientists looking for comprehensive packaging, testing, and configuration of the leading open source big data components.” It has helped them accelerate the pace of development, according tothe company blog post.
+
+All of this should be good news for data scientists and other employees who work with large sets of data, who want to work in the cloud. What this release provides is an increasing number of options, making it easier for the folks working with the data to find Hadoop projects that matter to them on AWS.
+
+While Hadoop is about efficiency, big data remains a great use case for AWS, as it requires intensive use of tools like this and lots of storage and compute to process all of that data. For users, the elastic nature of cloud-based infrastructure means they can process as much data as they need and not worry about running into resource limitations, as they might on-premises.

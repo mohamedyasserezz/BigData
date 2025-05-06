@@ -1,0 +1,33 @@
+Uber rival Grab partners with Nutonomy to test self-driving cars in Singapore
+
+Fresh from raising $750 million in new financingthis week, Uber rival in Southeast Asia Grab is now making a move into the self-driving car space after it agreed to a partnership with NuTonomy, the MIT spin-out that is developing autonomous vehicles.
+
+NuTonomy gained attention for beating Uber to publicly testing self-driving cars whenit switched on a pilot in Singapore in August— just beforeUber began tests in Pittsburgh, U.S.. Its agreement with Grab will see it extend that trial by including customers from Grab in the testing phase for an initial two months.
+
+NuTonomy’s pilot is limited to one part of Singapore — a 2.5km square business district area called ‘One North’ that the government designated to testing self-driving cars — but Grab passengers are permitted to go beyond those boundaries and take a trip into nearby neighborhoods. In that case, one of the supervisors overseeing the autonomous vehicle will take the wheel to complete the journey.
+
+Despite raising over $1.3 billion from investors to date, Grab has not focused self-driving cars in the same way as Uber. In fact, the press release for its funding this week made no reference to self-driving cars or autonomous technology. While it is true that the infrastructure in most of the six countries that it serves in Southeast Asia are some way from being able to support the technology, the fact that autonomous vehicles are emerging in Singapore — Grab’s HQ and a market where the government has thrust its weight behind the idea — might be enough to get its attention.
+
+Nutonomy co-founder and CEO Karl Iagnemma with Grab Singapore head Lim Kell Jay
+
+A Grab spokesperson told TechCrunch that the tie-in with NuTonomy does not include an investment in either party, so for now this looks purely like a partnership play. Grab gets to see what state autonomous vehicle technology is at, while NuTonomy gains the benefits of Grab’s tech resources for routing, managing supply/demand, mapping and more.
+
+Grab indicated to us that it has an interest in offering self-driving cars in other parts of Southeast Asia in the long run, but for now Singapore is the primary focus.
+
+“This landmark tech partnership is a step towards supplementing Singapore’s transport network with an innovative driverless commuting option for underserved areas of Singapore — all accessible through the Grab app,” Grab CEO and co-founder Anthony Tan said in a statement.
+
+NuTonomy raised $18 million earlier this yearfrom investors that included the Singapore Economic Development Board. The company is running trials in the UK and U.S. and it hopes to introduce a fully commercial self-driving ‘robo’ taxi fleet by 2018.
+
+We asked Grab a couple of addition questions around the deal.
+
+TechCrunch: Is Grab developing its own self-driving technology outside of this partnership?
+
+Grab: Self-driving vehicles (SDVs) are a nascent technology and concept in Singapore and all around the world. We believe that partnering with NuTonomy, the leading SDV software developer, will enable us to research and refine the SDV user experience, study the application of SDVs in Singapore, as well as improve the efficiency of matching SDVs to passengers.
+
+Grab’s app platform is robust, highly scalable and widely used by commuters in Singapore. We have a strong understanding of Singapore commuter’s travel patterns and behaviors, we have one of the most accurate maps in Singapore that is updated constantly to ensure location accuracy, and we have built a robust fleet routing technology. These are critical components to move SDV from a trial phase into a real-world application. We believe that SDVs are a complementary service and an innovative solution to enhance the efficiency of Singapore’s land transport network, particularly where additional first-mile and last-mile connectivity is needed — as well as in underserved neighborhoods.
+
+Grab and NuTonomy bring complementary skillsets to the table. NuTonomy has proven expertise in building software for self-driving vehicles, while Grab has the know-how in fleet routing technology and localized mapping. By each focusing on our core strengths, we can more effectively create the most robust e-hailing platform for self-driving vehicles.
+
+TC: Are there plans to expand this trial to other countries outside of Singapore in the future?
+
+Grab: Singapore is the ideal test bed for SDVs due to its more advanced infrastructure and strong government support. It will be a longer runway for SDVs to be a viable transport service in other SEA cities, and Grab will continue to offer multiple transport services that meet the local needs of consumers, such as taxis, cars or bikes.

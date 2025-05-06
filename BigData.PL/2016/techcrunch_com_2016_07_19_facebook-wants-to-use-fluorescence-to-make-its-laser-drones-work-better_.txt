@@ -1,0 +1,19 @@
+Facebook wants to use fluorescence to make its laser drones work better
+
+A team of physicists and electrical engineers at Facebookpublisheda new idea for using luminescence to improve signal detection in free-space optical communication today.
+
+Facebook, in a partnership with Internet.org, has beendeveloping drones to deliver basic internet accessto remote locations around the globe. Last year, the company came out with a plan, codenamed Project Aquila, to use lasers to deliver information across long distances.
+
+Most people are aware of fiber-optic cables used for transmitting information for the internet. Verizon FIOS, the largest service, provides high-speed internet via light. Such services are limited by necessity for a solid cable for transmission between points.
+
+Facebook’s drones will shoot signals embedded in light directly through free-space without a cable. To effectively transmit data through light, the terminal signal point must be optimized for collection of information.
+
+Light and optics are complicated over long distances because of interference, noise and other physical and environmental factors.
+
+T. Peyronel, K. J. Quirk, S. C. Wang and T. G. Tiecke, all employees at Facebook, present a plan to increase the effective area and field of view of an optical receiver without compromising response times. The team used a physical structure to guide the light. The structure was covered with wavelength shifting dyes that absorbed the light being transmitted and re-emitted it at a different wavelength. A portion of the emitted light is collected by the fiber and guided to a small photodiode that converts the light into current useful in a semiconductor.
+
+The team noted that the same process with omni-directional properties has been used before to concentrate light for solar energy harvesting.
+
+One of the issues right now with using Facebook’s drones to transmit internet is scintillation effects, also known as twinkling. Atmospheric turbulence causes optical fluctuations that ultimately result in signal fading. The researchers believe that the new technology might be able to suppress these effects.
+
+This research, while promising, is not going to be enough to get Project Aquila working delivering internet to rural areas. Battery life for the craft is still an issue, and the new optical technology will still need more testing in the real world.

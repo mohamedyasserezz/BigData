@@ -1,0 +1,15 @@
+A stealthy startup called Cerebras raised around $25 million to build deep learning hardware
+
+Benchmark is doing another big investment before the end of the year, and this time it’s in a hardware startup called Cerebras Systems. From what we hear from sources, the round (which we heard others were participating in) is somewhere around $25 million, though it could be as high as $30 million.
+
+Details on the company are extremely sparse — we can’t even really find that much information about it on the Internet for starters. What we’ve heard from sources is that the company is working on a specialized next-generation chip (possibly a GPU) for deep-learning applications. Here’s the company’sdescription from LinkedIn(really the only thing that can be found from a Google search):
+
+“Cerebras is a stealth-mode startup backed by premier venture capitalists and industry leading technologists. We are serially successful entrepreneurs dedicated to solving problems others are afraid to tackle. We value integrity, passion, real world problem solving ability, and a sense of humor. We are always looking for extraordinary people to join our team.”
+
+On LinkedIn, Andrew Feldman — the co-founder and CEO of SeaMicro and then at AMD following the company’s acquisition — is listed as the company’s CEO. Its CTO, Gary Lauterbach, is also a co-founder of SeaMicro and then at AMD, according to LinkedIn.
+
+The demands for those kinds of processing is only going to continue to increase over time as more and more products shift to a more AI/machine-learning driven approach. As companies like Facebook and Google collect more and more data and need to apply machine learning at a huge scale, they’re going to need to figure out new ways to evolve that hardware or build better algorithms.
+
+Amazon recently unveiled a new tool that allows developers totap into as much GPU power as they need— signaling an obviously strong demand for processors that can use the kinds of capabilities of a GPU. So that a startup could attract funding if it’s conceived a new way to build GPUs or other kinds of chips that can improve that computing power or efficiency, it could lead to more powerful applications.
+
+Still, we’re trying to dig up as much information as we can on the startup, and we’ll update this story and continue to follow it as we learn anything new. Benchmark declined to comment. Feldman, reached via LinkedIn, said the company was still in stealth mode and not talking to the press about the company.

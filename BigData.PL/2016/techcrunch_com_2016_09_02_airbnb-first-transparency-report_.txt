@@ -1,0 +1,27 @@
+Airbnb releases first transparency report on government requests for user data
+
+Airbnb received 188 requests for users’ data from governments around the world in the first six months of this year, according to the company’sfirst-ever transparency report. The home-sharing company provided data in response to 82 of those requests.
+
+Airbnb is publishing a transparency report as part of itsCommunity Compact, an initiative to make the company more transparent to the public and to the local governments in the cities where it operates.
+
+“We’re building a more transparent community and sharing data about our community with the general public,” Airbnb spokesperson Christopher Nulty told TechCrunch. “We felt that this is an important first step. In the future, we’ll look to share additional sorts of data about our community.”
+
+In releasing its transparency report, Airbnb is joining the growing cohort of tech companies that regularly publish information about the government requests they receive.Google,Facebook,Uber, and others make transparency reports available, but most of those companies receive a much higher volume of requests than Airbnb.
+
+Google was hit with 40,677 requests in the second half of 2015, while Facebook received 19,235 requests during the same period. These companies hold troves of user data that is valuable to law enforcement, so it makes sense that they’d be slammed with requests. But Uber and Airbnb likely receive fewer requests because they don’t hold the same rich repositories of user communications, photos, and personal information. In its inaugural transparency report released in April, Uber said it received only 469 law enforcement requests over a six-month period.
+
+Nulty says Airbnb’s numbers are relatively low because the company works to promote safety for its users. “We take trust pretty seriously on our platform and we think that’s reflected in our report. During the first six months of 2016, we had more than 31 million arrivals across the globe, but an incredibly low number of requests. The vast majority of people on our platform are having safe experiences,” he said.
+
+Airbnb’s report says that the company works to inform users when their data has been requested by a law enforcement agency “unless we believe that doing so would be futile, ineffective, or create a risk of harm.”
+
+The company also included a canary in its report regardingNational Security Letters, which allow federal authorities to request user data from tech companies and often come with gag orders that prevent the companies from discussing it. Companies are only allowed to disclose how many NSLs they’ve received in ranges of zero to 499, but Airbnb says it hasn’t had to worry about NSLs so far.
+
+“To date, we have not received a national security letter or other similar request that would limit our ability to disclose it here,” Airbnb says in its report.
+
+Airbnb breaks down the requests by country of origin and discloses how many of the requests resulted in a disclosure of data, but doesn’t say whether the requests came from federal or local agencies or specify what kinds of data was disclosed.
+
+According to the company’s law enforcement guidelines, Airbnb will give basic information on users such as name, address, and payment data in response to a subpoena. Further details like reservation history require a court order, while messages and other communications require a warrant.
+
+The majority of requests for Airbnb user data came from French authorities, followed by law enforcement agencies in the United States, Germany, and the United Kingdom. Airbnb received government requests from just 21 of the 191 countries it operates in around the world.
+
+Even though Airbnb received a relatively low number of government requests, Slack is still winning the race to be the company with the fewest disclosures of user data — in itslatest transparency report, Slack revealed it had received just one government request.

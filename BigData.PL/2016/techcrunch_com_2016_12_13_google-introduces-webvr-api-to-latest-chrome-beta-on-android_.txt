@@ -1,0 +1,13 @@
+Google introduces WebVR API to latest Chrome beta on Android
+
+Today in ablog post, Google shared that the latest beta of Chrome for Android has adopted the WebVR API which will allow users to enjoy online content through Chrome with a VR headset.
+
+Introducing the WebVR API in Chrome Beta for Android, with support for VR headsets like#DaydreamView.https://t.co/m8BV65JKzYpic.twitter.com/FUKbsqTc6F
+
+— Google AR & VR (@GoogleARVR)December 13, 2016
+
+In the pat, you might have come across content on the web that asks you to toss your phone into a headset to view, but those experiences only offered a fixed perspective that really ignored most of what makes VR headsets cool. With this latest update, web developers will have access to the input and output capabilities of mobile VR devices and controllers as well as super pertinent data like the headset position and orientation info.
+
+All of this news of APIs and betas might seem a little bit boring, but it’s really going to throw open the floodgates of VR access on the web and give creators a place for VR content that isn’t YouTube of Facebook. This will greatly increase what you can do with devices like Google’s Daydream View mobile headset.
+
+The multi-platform nature of WebVR has excited a lot of developers with many believing the standard will soon encompass much of the VR content that people view. Google detailed in the post that WebVR support will soon be extended to desktop and Google’s low-cost Cardboard VR platform in a future Chrome release.

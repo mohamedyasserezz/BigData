@@ -1,0 +1,13 @@
+Pepper the Inflight Service Bot is a multi-lingual flight attendant who doesn’t hate picking up your garbage
+
+At the Disrupt SF Hackathon today in San Francisco, a team of seasoned software engineers unveiled Pepper the Inflight Service Bot, a robot flight attendant that doesn’t hate picking up barf bags, can circulate in a plane even when there’s turbulence, and can speak to passengers in their own language.
+
+The robot is built using the Pepper companion robot, IBM Watson’s artificial intelligence systems for natural language, and Panasonic’s in-flight data and displays, along with Here Maps indoor navigational data.
+
+It isn’t just for in-flight use. The robot can check in passengers at the gate, scan their tickets, and then circulate in a plane or wait at the end of a flight to tell passengers — in their own language — which gate they need to go to for a connecting flight.
+
+The hacker team for the Inflight Robot included Peter Ma, Eddie Aguilar, Diego Gonzalez, Brian Cottrell and Savalas Colbert.
+
+According to Ma, the team came together and was inspired to build a robotic flight attendant at Disrupt based on the APIs and tools made available to them here. They intend to develop the Inflight Robot further after the event, adding in further language capabilities, and other features.
+
+Outside of hackathons, the team consisted of engineers and video editors who work for DirecTV, Entercharge, and Grindbit.

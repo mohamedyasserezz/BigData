@@ -1,0 +1,25 @@
+Intuit wants to turn TurboTax into a platform
+
+Intuit’sTurboTaxstores highly detailed financial data for millions of users who import their W2s, their banking data, info about their mortgages and more. Right now, all of this data is locked into TurboTax, but the company is now thinking about how it can do more with it by giving its users the option to share this data with reputable third parties.
+
+As TurboTax EVP Dan Wernikoff, who has been with Intuit for 13 years but only joined the TurboTax unit five months ago, told me, one of the first questions he asked when he joined TurboTax was about the service’s data and how the company is leveraging it. Turns out, the company wasn’t doing much on that front.
+
+He believes there are a lot of opportunities for Intuit here. While most people only go to TurboTax during tax season, there are millions of people who visit the site every month. For the most part, they are doing so to download their prior-year tax returns because they need it as income verification to get credit products like a mortgage or auto loan.
+
+Consider this scenario: You finish doing your taxes and because TurboTax can easily figure out how much mortgage you paid and what your interest rate was, it can now ask you if you want it to ping its partners to see if you could get a better rate. Similarly, the company could ping you with potential savings or other offers when you log in to your account outside of the standard tax season because it knows you are probably applying for a loan.
+
+“Our main goal is to help people save money,” he told me, though he also freely admitted that TurboTax would obviously get a kickback when people refinance their homes after it generates a lead.
+
+To be able to do this, though, Wernikoff believes that TurboTax has to become a platform — similar to Intuit’s QuickBooks. “We might start with one or two providers to start hardening the API and think through how we would create a marketplace,” he said. “But this would be an open platform.”
+
+Sharing this kind of sensitive data is a tricky business and the TurboTax team is well aware of that. While hackers have definitely been able to hack into individual TurboTax accounts by using personal information, the service itself has a pretty good security record. During our conversation, Wernikoff repeatedly stressed that not only is TurboTax and the data it stores highly regulated, but also that its service is based on its users’ trust.
+
+Whenever you would share data with a third party, the company must inform you that you are sharing data and with whom you are sharing it. The idea here is to only share the exact data that’s necessary to, for example, pre-qualify you for a mortgage refinance, but no more. Wernikoff also stressed that the company would only work with reputable partners.
+
+The overall idea of unlocking the data in your tax returns is interesting in its own right, but Wernikoff’s idea of TurboTax as a platform goes beyond that. What if third-party services could hook into the actual tax return process, too? TurboTax is a generalist, after all, but maybe a third-party service could offer additional services to help you save money by more closely analyzing your investments or by looking at how a charitable donation could lower your tax liability.
+
+The team is also thinking about how TurboTax could become an identity service. “If you need a financial identity, people could outsource that to us,” he said, and stressed that millions of TurboTax patrons use two-factor authentication to log into the service and that sending a full tax return to the IRS is an extremely high bar to cross for identity thieves.
+
+Intuit is clearly looking at its QuickBooks playbook here. There, too, the software first moved from a desktop application to the web, and thenopened up a marketplacefor third-party services. Mint, too, has shown that consumers are now more comfortable with sharing their financial details with the company (and it’s interesting to think what Intuit could do by combining the data of Mint and TurboTax).
+
+It’ll be interesting to see what Intuit can do by turning TurboTax into more of a platform. What’s going to be even more interesting to watch, though, is how the public will react to this idea.

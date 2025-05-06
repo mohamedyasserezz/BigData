@@ -1,0 +1,29 @@
+TallyGo is a navigation platform that calculates traffic using a city’s existing network of road sensors
+
+Most GPS navigation apps use one of two methods to route you to your destination.
+
+The first method is called “detect and react,” and is when a navigation algorithm detects when you have hit traffic, then reacts by re-routing you around it.
+
+The second method uses historical traffic patterns to assume that because a specific road was congested on a Friday at 2pm two weeks ago, it probably will again be congested this Friday at 2pm. Using historical traffic patterns is definitely more accurate than “detect and react,” but still is pretty much a crap shoot.
+
+EnterTallyGo, a new type of navigation system launching atTechCrunch Disrupt SF 2016. TallyGo uses a new method of GPS routing that it calls “predict and avoid,” which detects how traffic is behaving before you even start your drive.
+
+But how is “predict and avoid” different than the historical method? Ugur Demiryurek, co-founder and chief scientist of TallyGo, explained that instead of using past measurements to guess how traffic is right now, TallyGo can actually sense live traffic data across an entire city.
+
+It does this by using tens of thousands of road sensors (typicallyloop detectors)in each city to determine how many cars are on a certain street right now, how fast they are moving, etc. TallyGo gets this data by partnering with cities (the first will be Los Angeles) to access their existing traffic sensors — Los Angeles alone has more than 25,000.
+
+These sensors are typically used by cities to monitor traffic internally, but the data is typically available to preselected companies that can prove to the city that the data will use used for good use — in this case reducing traffic congestion.
+
+Now I know what you’re thinking. Doesn’t Waze also get live traffic data by just using the GPS data from everyone running its app? And aren’t there a lot more than 25,000 cars on the road running Waze at one time, meaning their sensor data should be much more complete than the data from just traffic sensors?
+
+According to TallyGo, not really. The startup says that GPS traffic data collected from smartphones (i.e. any phone running Waze) is very inaccurate, and isn’t really useful until it is post-processed and analyzed in bulk. It also suffers from issues like drift, which makes it hard to determine exact speed (and is also why you sometimes see your Uber driving sideways down a street or backwards). So even though there are many more phones running Waze on the road than traffic sensors, no amount of volume can solve for the fundamental issues in inexpensive smartphone GPS.
+
+Long story short, this all means that TallyGo can use the data from traffic sensors to adjust routing data in near real time.
+
+TallyGo’s software has a few others benefits over traditional navigation apps. For example, they are using real-time APIs provided by law enforcement agencies to get instantly notified about accidents, as well as information they can use to predict when the accident will be cleared. On the other hand, Waze’s accidents are self-reported by users, which make them much less accurate. For example, Waze could show 10 accidents in an area, while TallyGo only shows two — this is because TallyGo can know when an accident is cleared without waiting for a user to manually report it.
+
+There is one downside to TallyGo not using self-reported data, which is the time it takes to add new data sources. For example, TallyGo’s service will only first launch in Los Angeles. And while they have plans to expand to San Francisco, New York, Chicago and Austin, this will take some time because the company has to manually integrate data from all of these cities’ traffic sensors. So while an app like Waze could theoretically launch one day and instantly be available worldwide, TallyGo has to roll out a bit more methodically.
+
+The company began as a research project out of The University of Southern California, and now has been spun out into its own company (with an equity stake owned by the university).
+
+Unlike Waze or Google Maps, which has an SDK to just direct users to their app from Uber or Lyft, TallyGo’s product is an SDK that actually lives inside other apps. They plan to license their app to any company that wants high-quality navigation inside their app or platform — like Uber, Lyft and even self-driving car platforms like Tesla and Google.

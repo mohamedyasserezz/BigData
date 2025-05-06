@@ -1,0 +1,31 @@
+Facebook corrects more metrics affecting ad reach, streaming reactions, plus Like & Share counts
+
+Facebook todayannouncedit’s correcting a few more issues with its metrics in areas like audience estimation for ads, live video reaction counts and its Like and Share buttons. Though the fixes are referencing several of Facebook’s more high-profile products, the issues being addressed aren’t as significant as the ones Facebook identified earlier in 2016, when it discovered that the figures foraverage video view time had been inflated for years.
+
+Following that reveal, Facebook has made a point to be more transparent about the miscalculations it finds across its system. Last month, for example, it announced it had found more bugs and errors that led to misreporting in products likeInstant Articles, video and Page Insights.
+
+This time around, there are only two corrections to misreported metrics, and one change that’s more of an improvement.
+
+This latter item is an update that’s rolling out to Facebook’s ad creation tool.
+
+When the advertiser starts building their ad, the tool gives them an estimate of the potential overall reach and the estimated daily reach of that campaign. Facebook says that it has improved its methodology on this estimation — specifically for sampling and extrapolating the potential audience size — so it’s more accurate.
+
+This helps give a better estimate for the target audience both on Facebook and cross-platform — meaning Facebook, Instagram and the Audience Network.
+
+While this change is about making numbers more accurate, the change to Live Video metrics is actually a correction.
+
+In Page Insights, Facebook was misallocating extra reactions per user (Likes, Hearts, etc.) to the “Reactions from Shares of Post” section instead of where they belonged on “Reactions on Post.” (The reactions were “extra” because the “Reactions on Post” column was only counting one reaction per unique user.)
+
+This issue meant that even though the total counts ended up being corrected, it could have given the impression that the Live Videos were seeing more engagement when shared than they really were.
+
+Facebook says this fix will roll out mid-December and will increase the “Reactions on Post” by 500 percent on average, while decreasing the “Reactions on Shares of Post” by 25 percent on average.
+
+The final issue involves a discrepancy found between the counts for Like and Share buttons via Facebook’s Graph API and the counts when you enter in a URL in the search bar in the Facebook mobile app.
+
+In this case, it’s still unclear why sometimes the mobile search query is higher or lower than what the Graph API is reporting. The company is still working to resolve this problem, it says.
+
+This one sounds more troubling than the live video reactions, but Facebook didn’t say how off the figures are from one another, or how often the problem occurs, as it’s still working on understanding why this is happening.
+
+Though none of these problems are mission-critical, they are further examples of Facebook having issues with its systems for providing transparency to those who use the network to make business decisions — whether that’s where and how to spend their ad budgets, or how to best grow their social media audience by using Facebook’s products.
+
+It’s also an example of how complex Facebook’s systems have become. The social network continues to release new products at a rapid pace, but its reporting systems haven’t caught up, it seems.

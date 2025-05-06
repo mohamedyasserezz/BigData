@@ -1,0 +1,37 @@
+The Smogathon hackathon aims to stop a smoky menace
+
+If you’ve ever visited Krakow, Poland, you’ll be familiar with the smog. Born of air pollution and fog, the smog regularly shuts down the local airport and casts a pall over this beautiful medieval city. A local entrepreneur, Anna Rys, wants to do her part to shut down the smog by bringing tech to bear on the environmental problem. I spoke to her about the mess in Krakow, herSmogathon, and the theory that a giant dragon is responsible for the pollution.
+
+TechCrunch: Tell me who you are.
+
+Anna Rys: My name is Anna, I’m 29 years old and I’m a startupaholic. That’s why I couldn’t stop myself from saying “Yes!” (or, to be completely honest, something along the lines of “Yeah, OK, if we don’t do it, nobody else will”) when my brother called me one not-sunny-at-all October afternoon and said we have to do something about the worsening air quality in Krakow. We’re both involved in the startup community in Krakow, so we knew that if we were to do that “something” it was going to be innovative. We also knew that there were a lot of innovative people out there working on air pollution-fighting projects or at least with some smog-killing ideas in mind. All they needed was for someone to support them, tell them that what they’re doing is important (and possibly profitable) and point them in the right direction.
+
+TC: Why Krakow? Why smog?
+
+Air pollution is NOT just a problem in Krakow or Poland. 3.3 million people worldwide die prematurely every year because of poor air quality – more than 40,000 in Poland alone. That’s about a dozen times more than the number of deaths caused by traffic accidents. And you would think it’s mostly respiratory health that’s affected, right? Well, think again and take a look at the WHO estimates. Moreover, global air pollution-related medical treatment costs and lost labor income amount to hundreds of billions of dollars. That’s A lot.
+
+For us though, the health factor was the most important reason. We realized that smog has been, quite literally, taking our breath away. Unfortunately, Krakow is one of the most polluted European cities. So, following that memorable and highly unbreathable October day and in just a little under five weeks we had gathered hundreds of people (participants, mentors, jury members, volunteers, and journalists) and companies (partners and sponsors) who cared about the same cause. We organized a 24-hour hackathon dedicated to creating smog-fighting solutions – Smogathon 2015.
+
+TC: Tell me about the Smogathon.
+
+AR: Last year’s event was a good first step. One of the teams participating in Smogathon last year went on to createAirly, a company thatproduces air quality sensorsand is now valued at about $1.2 million. We helped as much as we could but back then it wasn’t much, they had to put a lot of hard work and dedication into it.
+
+That’s why, this year, we have created a formula that will allow us to support the air pollution-fighting projects much better. And we’re not limiting ourselves to Poland this time; we have 28 teams coming to Krakow from all over the world for the event. We are giving them access to some of the best mentors and potential investors and the winners get about $25,000 for developing their project. But here’s the catch: they have to prove that they’re really determined and passionate about what they’re doing by surviving our 24-hour (de)mentoring bootcamp: Smogathon Bootcamp. Only the best teams can survive on this, the battlefield.
+
+The projects that qualified for Smogathon Bootcamp are all at different phases of development: there are well-developed ideas, there are MVPs and working prototypes, and there are mature companies. They all have one thing in common though – a potentially great impact on fighting air pollution with technology and/or science. There are three main areas the projects concentrate on: prevention, monitoring, and filtering.
+
+TC: How can you expand this outside of Poland?
+
+AR: Supporting the teams throughout the entire year after the boot camp of course, but also organizing a truly global event next year, with semi-finals in several different cities around the world and the final round in Krakow. We already have some amazing partners willing to support us, but we’re also still looking for more. It’s a pretty big undertaking that intends to get as many technological projects/startups/companies as possible to join the battle against air pollution. Also, we want the grand prize to be at least $100,000 in 2017. And yes, you’re already invited!
+
+TC: What’s the ultimate goal?
+
+AR: Simple: The goal is to get rid of air pollution as quickly as possible. We know it can be done when enough people are aware of the problem and put their minds to it. We want to do everything we can to support those people and their projects. More and more every year, because every year without a perceptible decrease in air pollution levels is a lost one.
+
+TC: Could it be the ancient dragon of legend making all the smog?
+
+AR: Well, there is, in fact, this legend associated with Krakow’s Wawel Hill, where the royal castle stands; to cut a long story short, a long long time ago, an insatiable, terrifying dragon had its lair under the hill, right on the bank of the Vistula river. It kept devastating the town and eating all the young maidens (it definitely wasn’t safe to be an unmarried virgin back then). In order to put a stop to this, the king promised his daughter’s hand in marriage to whoever defeated the dragon. Many brave men tried and many failed until, one day, a shoemaker’s apprentice named Skuba showed up with a sheep stuffed with sulfur and left it at the entrance to the dragon’s den. After eating the stuffed sheep, the poor beast’s stomach was a burning inferno and, in order to relieve the pain, the dragon drank so much water from the river that its belly exploded and it died. Skuba married the princess; the end.
+
+In Polish, we call this legendary dragon “Smok Wawelski” (literally “Wawel Dragon”). And, when you change only one letter at the end of the first word, it becomes Smog Wawelski. Since “smog” is a synonym for “air pollution” and – as I already mentioned – Krakow is one of the most polluted European cities, I’d say it’s very fitting. All the citizens of Krakow are familiar with that wordplay. Actually, that’s why last year we used this wordplay many times during the Smogathon – our key visual identification was a guy in a traditional cracovian outfit, wearing a gas mask and facing a smog-breathing dragon – The Smog.
+
+So yeah, in that sense, it definitely has to something with the dragon. It’s a funny wordplay and you can make fun of how bad the situation is… until you can’t make any more fun and have to either move out to a place where the air is breathable or do something about it. We decided to do the latter and fight the beast.

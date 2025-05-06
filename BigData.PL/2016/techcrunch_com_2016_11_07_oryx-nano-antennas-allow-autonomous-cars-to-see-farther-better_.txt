@@ -1,0 +1,15 @@
+Oryx nano antennas allow autonomous cars to see farther, better
+
+Oryx Visionhas created a “coherent optical radar system,” according to CEO Rani Wellingstein, that improves the depth perception of autonomous vehicles. The Israel-based company has emerged from stealth after Series A fundraising and is positioning itself as a competitor to lidar systems.
+
+Wellingstein pointed out that traditional lidar detects light with photoelectric sensors, “basically measuring the energy of the light.” But Oryx Vision uses what the company describes as nano antennas that are detecting with an electromagnetic wave, which allows the system to access additional information.
+
+The advantage is increased range and sensitivity for an autonomous vehicle that needs to know exactly what is surrounding it and what those things are doing. The Oryx antenna operates at a 10-micron wavelength that can see through fog and, unlike lidar, not get blinded by bright sunlight.
+
+Oryx engineers began working about six years ago to build a device that could surpass some of lidar’s shortcomings. It took a year and a half just to get the prototype to the point of being a usable, reliable array that can actually be used for imaging.
+
+Oryx says its antennas are also less expensive than the lidar systems being used in cutting-edge autonomous vehicles now. The cost of the imager the system uses is about the same as the camera in a mobile phone, and the company is using “the cheapest, most boring laser on earth,” Wellingstein said in a phone interview. The system uses very simple optics, so there’s no steering, no rotating elements and no optical rays to account for.
+
+Oryx has 20 people in the company so far, but now that financing is finalized, Oryx plans to hire more talent in Israel, Silicon Valley and Germany, and maybe elsewhere, depending on the demand from auto manufacturers and autonomous vehicle disruptors, Wellingstein said. The company is targeting companies that are building fully autonomous vehicles of the near future rather than the advanced driver assistance systems we’re seeing in cars today.
+
+“A lot of the most ambitious players are retreating from these spaces — Apple, Google,” Wellingstein said. “We think the technology aspect is still not there. Autonomous driving is about vision and decision, and there’s currently a gap between the two. There must be another technology, another sensor [besides lidar], to close that gap. Most of the players we’re talking to are not aware there is another technology. That is where we are.”

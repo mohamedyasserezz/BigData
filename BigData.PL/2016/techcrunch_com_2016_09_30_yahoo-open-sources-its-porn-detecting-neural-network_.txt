@@ -1,0 +1,15 @@
+Yahoo open sources its porn-detecting neural network
+
+Ever wonder how things get marked NSFW on the internet? It’s Yahoo. Yahoo does it — with their special-made, smut-trained, porn-detecting neural network. And now you can, too, because the team behind the system hasmade it open source. I guess you could say they’re down to fork.
+
+I jest, of course: Yahoo’s algorithm doesn’t do it all. In fact, detecting NSFW imagery is an infamously difficult problem. To paraphrase the famous saying,you know it when you see it, but you — admit it — have a lifetime of viewing pornography to reflect on when you make that categorization.
+
+Machines, however, are totally innocent — or they were, until Yahoo corrupted them by training an image-recognition engine on thousands of porn pics. They can never return to that state of grace we have stolen from them — but on the other hand, your online searches are less likely to randomly contain erogenous zones.
+
+Seriously, though, convolutional neural networks are an excellent tool for classifying images, as research has shown again and again over the last few years. After being trained on a database of a specific type of imagery, their algorithms home in on certain patterns — if it’s dogs, they learn to see tails, noses, snouts. If it’s cars, they recognize wheels, door handles, grills. And if it’s porn — well, use your imagination.
+
+The result is a system that can comb through a vast variety of imagery and give each a score, from 0 to 1, on how NSFW it thinks that particular picture is. This could be useful in many situations, and not just censorship ones. Titillating imagery is all well and good in its place, but being able to sift it out is useful when, for example, handling large data sets sourced directly from the web.
+
+Such a system could also inspect your emails and messages without any human intervention or (some would argue) any intrusion of privacy, and warn you if an image is potentially NSFW (handy for when coworkers try to prank you).
+
+You’ll need to provide your own porn to train the model with, but if you’ve read this far, I doubt that will be a problem. There are more details available at theYahoo blog post, and the model is available for downloadon GitHub.

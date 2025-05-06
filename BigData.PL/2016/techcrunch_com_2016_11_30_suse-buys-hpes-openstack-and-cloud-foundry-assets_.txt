@@ -1,0 +1,13 @@
+SUSE buys HPE’s OpenStack and Cloud Foundry assets
+
+SUSE, which probably is best known for its Linux distribution, has long been a quiet but persistent player in the OpenStack ecosystem. Over the last few months, though, the German company has also emerged as one of the stronger competitors in this world, especially now that we are seeing a good bit of consolidation around OpenStack.
+
+Today, SUSE announced that it is acquiring OpenStack and Cloud Foundry (the Platform-as-a-Service to OpenStack’s Infrastructure-as-a-Service) assets and talent from the troubled HPE. This follows HPE’s decision to sell off (or “spin-merge” in HPE’s own language) its software business (including Autonomy, which HP bought for $11 billion, followed by a $9 billion write-off) to Micro Focus. And to bring this full circle: Micro Focusalso owns SUSE, and SUSE is now picking up HPE’s OpenStack and Cloud Foundry assets.
+
+SUSE argues that this move will help it strengthen its existing OpenStack portfolio and that the acquisition of the Cloud Foundry and other Platform-as-a-Service assets will allow it to bring its own enterprise-ready SUSE Cloud Foundry solution to market.
+
+“The driving force behind this acquisition is SUSE’s commitment to providing open source software-defined infrastructure technologies that deliver enterprise value for our customers and partners,” said Nils Brauckmann, CEO of SUSE. “This also demonstrates how we’re building our business through a combination of organic growth and technology acquisition. Once again, this strategy sends a strong message to the market and the worldwide open source community that SUSE is a company on the move.”
+
+SUSE will also become HPE’s preferred open source partner for Linux, OpenStack and Cloud Foundry.
+
+HPE isn’t fully retiring from the OpenStack and Cloud Foundry game, though. HPE will OEM SUSE’s OpenStack and Cloud Foundry technology for its own Helion OpenStack and Stackato solutions, though while HPE says that this move simply means it is “evolving” its strategy “to focus on developing the next evolution of hybrid cloud solutions,” I can’t image that its customers won’t start wondering about the Helion platform’s future.

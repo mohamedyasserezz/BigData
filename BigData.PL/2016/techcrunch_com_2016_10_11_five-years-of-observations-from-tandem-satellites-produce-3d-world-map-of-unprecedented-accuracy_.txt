@@ -1,0 +1,19 @@
+Five years of observations from tandem satellites produce 3D world map of unprecedented accuracy
+
+A pair of satellites operating in tandem for five years have produced a depth map of the planet so exact you could theoretically zoom down to street level and tell an adult from a kid, or spot a breaking wave at Malibu. The immense database — some 2.6 petabytes — is available for free to researchers.
+
+TanDEM-X and TerraSAR-X are twins created by the German Aerospace Center, or DLR; the first was launched in 2007 and the second in 2010. Once aloft, they found each other and began flying in formation — about 350 feet apart, but exact enough that error was measured in millimeters.
+
+Together, these two spacecraft circled the globe over and over, their interferometric radar instruments scanning the same areas from slightly different angles, like two super-acute eyes in the sky.
+
+The 500 terabytes of data they beamed down over the years was continually processed to create real-world elevation models. The result is a 3D topographic map that’s precise to a single meter — far better than any other large-scale map out there.
+
+“We are now all the more fascinated by our initial scientific findings,”said DLR’s Richard Bamler in a news release. “Using the current elevation model, we have shown that in some regions of Earth, glaciers are losing up to 30 meters in thickness per year in the area of the glacier tongues.”
+
+The incredible resolution and accuracy of the new data set is powerful enough, but the satellites aren’t done yet; built to last five years each, they may last for five more. There’s still fuel in the tanks and no reason to stop imaging.
+
+In fact, a follow-up mission is already being proposed that would use new methods to provide depth maps of the world’s land masses every eight days — though not in quite as high fidelity.
+
+“We are once again anticipating a surge in scientific interest,” said Alberto Moreira, the project’s principal investigator. “Accurate topographical data is essential for all geoscientific applications. Earth as a system is highly dynamic, which is also reflected in its topography. Through frequent updates, we could capture such dynamic processes systematically in the future.”
+
+The DLR data is free for any scientific investigator — do you need a high-resolution topographic map of the globe for some reason?Sign up here.

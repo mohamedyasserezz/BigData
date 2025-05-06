@@ -1,0 +1,15 @@
+With PeppAR Waiter, SoftBank’s cute robot shows you your food in 3D before you order
+
+Crappy photos in restaurant menus be gone! Robots and augmented reality are here and ready to kill you off.
+
+That’s the plan for the future, at least, asPeppAR Waiter— an ambitious and forward-looking project from theTechCrunch Disrupt SFhackathon this weekend — showed us.
+
+Developed byYosun Chang,an intrepid hackerwho was involved in no fewer than four entries in the hackathon competition, PeppAR Waiter uses the adorable SoftBank robot Pepper and Chang’s own augmented reality service —Holo Yummy— to create a futuristic ordering experience.
+
+Pepper plays waiter and takes your order whilst holding a tablet with the menu. Using AR, the tablet also previews your food with a hologram that you can see via a companion app on your phone or tablet.
+
+Food ordered and previewed successfully, Pepper will then go off and fetch your order once it’s done. (There may be robots in the kitchen, butthat’s quite literally another story.)
+
+We’ve seen Pepper used as a restaurant waiter beforebut the addition of AR turns things up a notch. Chang’s other projects includeSnapGlass.esandPokeTrump.clubandPoint.Shopfrom the hackathon. She used a menu from trendy SF restaurantAtelier Crenn, which is on the Holo Yummy platform, but could easily add other restaurants and even things beyond food.
+
+Ultimately, she said, this kind of technology could have a place in high-end restaurants or hotels, where customers want to know what they are getting before it comes and might appreciate the robotic service. PeppAR Waiter may not be the service that makes it happen, but either way it served up a fascinating look at the future.

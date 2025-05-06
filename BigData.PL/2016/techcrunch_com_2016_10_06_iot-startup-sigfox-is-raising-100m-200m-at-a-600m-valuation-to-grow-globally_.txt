@@ -1,0 +1,23 @@
+IoT startup Sigfox is raising $100M-$200M at a $600M valuation to grow globally
+
+The Internet of Things — the area of technology where previously dumb objects are getting equipped with radio signals and microprocessors to be connected, monitored, controlled and supercharged through networks — is still in its early days, but one of the more interesting startups in the field is raising some significant money as it gears up to take a leading role in its future.
+
+Sigfox, the startup out of France that is building a global network for connected objects that emit low-power signals, is seeking to raise between $100 million and $200 million, at a valuation of around $600 million, according to sources. The round is likely to be closed by the end of this year, possibly as soon as next month, according to the company’s CEO and co-founder Ludovic Moan.
+
+The news comes at the same time that Sigfox is unveiling an identity rebranding, where it is positioning itself as a network not just for connected objects, but as a provider of connectivity for digital services, specifically seamless and more efficient handoff between different networks, for example.
+
+On top of solving some of the more immediate needs for connecting objects and networks, Sigfox has very lofty ambitions to do even more. The company believes that its architecture, which is not based on the operator’s view of network connectivity, could help eliminate data roaming, the cost and complexity of silicon for connecting objects, and even the need for batteries in devices.
+
+(Sidenote that I promise I am not making up: Moan is a big disciple of theSimulationtheory and also believes that his company could play a role in enabling our constructed existence. “[The simulation] is part of the vision that I have, and I want Sigfox to be able to stay true to this,” he said. “This world is virtual. At the end of the day we are not living in the real world.”)
+
+TechCrunch learned of the new financing round and has confirmed the details with sources close to Sigfox and then confirmed it with the company. The round is expected to include at least one strategic investor out of China and “some familiar faces.”
+
+The Chinese investors are of particular interest to Sigfox as it continues to build out its global network. The company is already live in 24 countries — including a100-city deployment in the U.S.— and plans to bring that to 30 in the near future. Moan — who confirmed the fundraising when I asked him about it directly — also told me that China and India, huge markets for mobile and wireless services, are very much in its sights as a part of that.
+
+To date, Sigfox hasdisclosed around $150 million in fundingwith its last valuation at around $400 million. Existing investors include typical financial backers like Elliott Management and Partech Ventures, as well as a long list of strategic investors including utility giants Air Liquide, chip and equipment makers like Intel andSamsung, and a host of service providers like Eutelsat, Japan’s NTT and Telefonica.
+
+The company has made waves in the industry up to now by providing an alternative network and model to the flavor of IoT that is being put forward by carriers. Carriers, of course, are looking to IoT as a route to adding more data traffic to their existing networks. On top of this they are hoping to build out their services businesses to integrate and help run those IoT systems on behalf of other organizations. That makes sense, since the basic data connectivity for connected objects is a low-margin business.
+
+And if IoT is a game of scale, Sigfox is hoping to be the biggest. The company’s pricing starts at €1 per device per month up to €1 per device per year (with a sliding scale based on volume), and it already has over 8 million low-powered devices registered on its network, which covers 1.35 million square kilometers and 358 million people.
+
+It also says that it works with 1,000 partners that include network operators, component manufacturers, integrators and platform developers as part of its business, and that 250 startups are currently developing IoT projects implementing its connectivity. Existing projects include the BT.TN universal button, water management services and connected home initiatives.

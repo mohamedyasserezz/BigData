@@ -1,0 +1,45 @@
+Evernote confirms a serious bug caused data loss for some Mac users
+
+A number of Evernote users are now being alerted via email message of a serious bug that may cause data loss in certain versions of the company’s Mac application. Not all Evernote Mac users were affected by this bug, however, but those who received the email will need to update their Mac app immediately in order to protect themselves from experiencing the issue.
+
+According to the email sent to users, the bug can cause images and other attachments to be deleted under specific conditions, when using Evernote for Mac. The company claims only “a small number of people” have been impacted by the glitch, which occurs in the version of the Mac software released in September, and less frequently, in the versions released since this June.
+
+In these applications, certain sequences of events can cause an image or other attachments to be deleted from notes without warning, but text is not affected. For example, the bug can be triggered by skimming quickly through a large number of notes, Evernote says.
+
+The email explains that once the company identified the problem, it worked quickly to implement a solution and attempted to restore all lost data.
+
+The issue was underdiscussionin Evernote’s forumsearlier this month.
+
+For heavy Evernote users, the bug could have a major impact.One user in the forums postedthat they had 20,000 notes in their Evernote account, as part of their PhD research. Hundreds (or maybe even thousands) of their notes may have now become corrupted, according to their post.
+
+Unfortunately for some affected users, data recovery was not possible through automated means, the company’s email stated. Instead, Evernote is advising those users who are missing attachments to use Evernote’snote historyfeature in Evernote Premium to try to recover the missing data.
+
+Because not all the impacted customers are on this premium, paid tier of the note-taking service, the company is also offering a free year of Evernote Premium, the email said. Customers will additionally receive priority support via email and chat. (Those already on Premium, meanwhile, can use the gift code to extend their subscription another year.)
+
+Earlier, the company was handling requests for access to the note history feature via one-offs, according toan employee’s note posted to the forums on October 2nd.At the time, the employee said that anyone who didn’t have access to note history could message him in order to receive temporary access.
+
+Of course, after a company loses your data to this extent, some of these customers may decide to export their notes and use a competing service, like Microsoft OneNote, going forward.
+
+The current version of Evernote for Mac (version 6.9.1) fixes the problem.
+
+To install the update, you can either select “Help -> Check for Updates” from the menu, or you can update the software through theMac App Storeor theEvernote websitedirectly.
+
+This issue, though not universal, is still a bad look for the struggling company.
+
+Evernote a year ago replaced CEO Phil Libin with Google alum Chris O’Neill,lost several other execs,cut some of its unprofitable operations, andraised its prices. It also recently began amove to Google’s cloud platform– a means of reducing its infrastructure costs, that the company promised would also mean a “faster, stronger and more stable” service in the future. Evernote says the bug is not due to the cloud migration, though, when that is complete it will be able to better prevent and handle situations like this in the future.
+
+Evernote confirmed the email to TechCrunch;  The specific build numbers affected are 453991 (directly downloaded from Evernote’s website) and 454042 (from the Mac App Store). The best way to prevent any further impact is to update to the current version (6.9.2 which is 454158 direct download and 454159 in the Mac App Store, the company says. Evernote says that fewer than one percent of “active” Mac users were affected.
+
+The full text of the email to affected users is below. The subject line (in case you need to search your inbox!) is “We’re sorry. Please update Evernote for Mac.”
+
+We have identified a bug in some versions of Evernote for Mac that can cause images and other attachments to be deleted from a note under specific conditions. We believe you are one of a small number of people impacted by this bug.
+
+Please update Evernote on your Mac to the latest version as soon as possible:•From the menu, go to Help > Check For Updates…•If you do not see this menu option, update through the Mac App Store or from our websiteThe bug can occur in the version of Evernote for Mac released in September, and less frequently in versions released since June. In these versions, certain sequences of events, such as skimming quickly through a large number of notes, can cause an image or other attachments to be deleted from a note without warning. Text in notes is not affected.
+
+Once we identified the problem, we worked quickly to implement a solution and attempted to restore all lost data. Unfortunately, some of your attachments couldn’t be automatically restored. However, you may be able to recover your attachments using Evernote’s note history feature available through Evernote Premium.
+
+We are giving your account one free year of Evernote Premium to make amends and give you access to priority customer support via chat or email. If you already have Premium, the gift code can be used to extend your subscription for one additional year, or banked as Points to use for later.If you run into any difficulties redeeming your code, follow ….
+
+We understand how important your notes and attachments are, and we apologize. Again, please update your app as soon as possible to prevent any further loss of data.
+
+The Evernote Team

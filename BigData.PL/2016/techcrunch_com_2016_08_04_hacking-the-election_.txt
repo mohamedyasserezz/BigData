@@ -1,0 +1,25 @@
+Hacking the election
+
+During what was likely the first presidential campaign fundraiser held at the Black Hat security conference in Las Vegas, campaigners made their case for Hillary Clinton as the cyber candidate.
+
+Last night, Jeff Moss, the founder of Black Hat, and Jake Braun, a former Obama campaign staffer and security consultant to the Department of Homeland Security,pitched Clinton to the security prosattending the conference as the favorable candidate on issues like encryption and the decriminalization of security research.
+
+And if you don’t agree with her policies, they argued, at least she’s not urging Russian hackers to help her steal an election.
+
+Clinton’s candidacy has been fraught with security issues, from her endless email problems to therecent hacksof the Democratic National Committee, so she doesn’t seem like a natural first pick for voters who live and breathe cybersecurity. But, Braun argued, agreeing with Clinton isn’t the point — protecting democracy from hackers is.
+
+Tickets to the fundraiser, which a Clinton spokesperson told TechCrunch was organized “without any involvement from the campaign,” ran from $100 to $2,700. Braun and Moss took the opportunity to pitch Clinton to undecided voters, appealing to a core appreciation of the democratic process.
+
+“What I’m deeply concerned about in this election is how are we going to make sure that Donald Trump hasn’t given the Russians a free pass to do something that they very much believe is in their interest from a policy perspective, which is try and flip this election by attacking our electronic voting systems,” Braun told a crowd of dozens of tech executives at the unofficial Clinton event last night. “I think that’s something that this community should be deeply concerned about.”
+
+Trump’s comments about the DNC hack have sent shock waves through industry and government alike (although he didn’t directly call on Russia to sway the election in his favor, Trump suggested that Russian hackers should release Clinton’s emails and said he wished he had their hacking power). Braun seemed skeptical of such an attack, noting the difficulty of scaling an attack on enough voting machines to rig an election in a swing state, but he said Trump’s hacking threats should be enough to turn the cybersecurity community against the GOP candidate.
+
+“While the rest of the public might not necessarily know how vulnerable our actual voting apparatus is to cyber attacks, and how engaged Russia is in cyber attacks that affect the democratic process globally, we all know this,” Braun added. “We want to make sure the world knows this, and Donald Trump and his affiliates know that it is not okay to tell the Russians that they can come and hack our democracy.”
+
+Moss described himself as an independent voter and was more muted in his advocacy for Clinton, although he agreed that Trump’s comments on the DNC hack swayed him. “What’s going on is really fucking scary. It’s my civic duty to do what I can to sort things out,” Moss told the crowd.
+
+Security researchers aren’t the only ones worrying about vulnerabilities in voting machines. DHS secretary Jeh Johnson said yesterday that it may be time for America to consider its digitized ballot system as critical infrastructure.
+
+“We should carefully consider whether our election system, our election process is critical infrastructure, like the financial sector, like the power grid,” Johnson said. “There’s a vital national interest in our electoral process.”
+
+In addition to protecting encryption, free speech and security research, attendees pressed Braun on the protection of the election’s “critical infrastructure.” Jason Healey, a cyber policy expert who attended the event, suggested that states should be given funding to protect themselves against DDOS attacks on election day. “This is about policy, not politics and defending democracy, not Democrats,” Healey said.

@@ -1,0 +1,19 @@
+Postleaf is an open-source blogging platform for the design-conscious
+
+Content management systems are boring until you have to use one. You can install a little Drupal or WordPress, pick up someSquarespace, or just dump toMedium, the graveyard for posts about protein shakes and VC funding. But what if you could roll your own CMS? And what if you made it really cool?
+
+That’s what Cory LaViska did. LaViska is the founder ofSurrealCMSand has been making it easy to edit stuff on the web for nine years. Rather than build and sell an acceptable CMS, however, he took all of his best ideas and made a far better CMS. And he made it open source and called itPostleaf.
+
+The real killer feature is inline editing. LaViska has had extensive experience in making it easy to build web pages so he’s added some truly simple editing to the product as well a Zen mode. He’s also making easier backups including a system that backs up both content and images, ensuring that when your server dumps you won’t lose all your hard-won posts.
+
+“I believe that inline editing is the future of content management. I first brought this feature to Surreal CMS a few years ago and users absolutely loved it,” said LaViska. “Some time later, I was looking for a blogging platform for a personal project, but I couldn’t find a single one that shipped with inline editing. That’s when the idea for Postleaf was born.”
+
+And things seem to be taking off. It was already featured on Product Hunt and it’s a popular GitHub repository.
+
+“The download count is somewhere around 1,500, but I don’t have an exact number because of an integration error early on,” he said.
+
+The project is currently in beta but it will be getting plugins, themes, and additional features soon. LaViska wants to see this take over as the de facto CMS for the design-minded, a nice mix of Medium, Ello, and a better Tumblr. That he offers all the code for free is gravy enough to make up for the death of Gawker which, we should note, used the decidedly un-pretty Movable Type. You can download the codehere and try it yourself.
+
+[vimeo 173818268 w=640 h=360]
+
+Postleaf TeaserfromA Beautiful Site, LLConVimeo.

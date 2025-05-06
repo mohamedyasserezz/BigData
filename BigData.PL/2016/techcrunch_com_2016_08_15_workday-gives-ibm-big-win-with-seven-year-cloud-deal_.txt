@@ -1,0 +1,21 @@
+Workday gives IBM big win with seven-year cloud deal
+
+Workdayannounced a 7-year cloud infrastructure deal withIBM Softlayertoday to run their development and testing services on IBM’s cloud, handing IBM a huge win in the process.
+
+The Wall Street Journal firstreported the news.
+
+It’s a big deal from a number of perspectives. First of all, it’s the size and scope of the deal, running seven years. Secondly, it’s a big-name SaaS vendor moving a big part of its workload to IBM’s cloud and forgoing a big competitor such as Google or Microsoft (or even sticking with AWS).
+
+Workday runs parts of its business on AWS, but it chose to go with IBM for this aspect of its business, which could lead to additional business, reasons R Ray Wang, founder and principal analyst at Constellation Research.
+
+“While this isn’t the production workload, it could lead to the shift from Amazon to IBM and that’s the big question — if you have test and development, why not production as well?,” he asked.
+
+Workday, which sells cloud ERP software had originally looked at HP, but when they got out of the cloud business, Workday had to look elsewhere, according to Wang. He says that Google and Microsoft weren’t really options because in the case of Microsoft, it already offers Dynamics ERP (cloud and on-prem) and Google could be looking to move into this space, as well. Workday wanted to stay away from vendors who could potentially compete with them, Wang explained.
+
+“Workday doesn’t want to be beholden to another competitor. It’s their biggest fear and IBM isn’t competing with Workday,” he said.
+
+As for IBM, it brings the company a big-name cloud client into the fold, as it tries to compete with AWS, Google and Microsoft in the cloud infrastructure market. IBM is ahead of Google in third place inthe latest marketshare numbers provided by Synergy Research.
+
+But not all analysts agree with Synergy. A recent report from Gartner indicatedIBM wasn’t doing as well as Synergy’s numbers suggested. Regardless, this deal should be good news for Big Blue.
+
+Workday wasn’t willing to comment for the story beyondits press releaseannouncing the deal. IBM didn’t respond to a request for comment.

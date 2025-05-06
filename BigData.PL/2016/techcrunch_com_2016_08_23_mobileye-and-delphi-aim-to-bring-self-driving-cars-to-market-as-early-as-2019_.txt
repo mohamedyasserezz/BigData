@@ -1,0 +1,15 @@
+Mobileye and Delphi aim to bring self-driving cars to market as early as 2019
+
+Mobileye, a key supplier of components like image processing  and computer vision systems for automakers, announced a partnership with self-driving software and hardware provider Delphi today to be able to bring Level 4 and 5 automation ready for market to car makers by 2019.
+
+The two companies are coming together with the intend of giving OEMs an end-to-end solution they can use to bring production cars to market. The two will show off the first results of their combined platform at the 2017 Consumer Electronics Show in January, and will demo both urban and highway driving autonomy. Following that, the plan is to start broader fleet testing beginning in 2017, with roll-out of test vehicles to various cities and vehicles around the world.
+
+Level 4  and 5 autonomy involve the vehicle operating without driver involvement at all, letting people in the car concentrate entirely on other activities. On a conference call discussing the news, Delphi CEO Kevin Clark said that the plan for the system the partnership is building will retain a steering wheel, brake and gas pedal in the car so that a driver can take over if necessary or desired. This contrasts with Ford’s vision ofputting cars without steering wheels or brakes on the road by 2021, but presumably if true level 4 or 5 autonomy is achieved via the partnership, manual controls would be optional for OEMs
+
+Part of the goal of the union is to reduce the cost for carmakers, Mobileye CTO Ammon Shashua explained on the call. The system will be “camera and radar-centric,” and involved LiDAR only as “a redundant cost” which will bring the hardware “cost of the entire system to a few thousand dollars for OEMs.” Component cost is a key concern for adding full autonomy to production vehicles, and a reason why companies are investing inreducing the cost of LiDAR in general.
+
+The partnership’s stated goal is to bring its system to production by 2019, and Clark said on the call that depending on how early carmakers come on board as test partners, that could mean it arrives on shipping vehicles as early as late 2019, or early 2020.
+
+Asked about the seeming uptick in urgency around getting Level 4 and 5 autonomous cars on the road, Clark cited heightened regulatory scrutiny and a focus on safety as causing the drive to skip ahead to full driverless tech.
+
+“What we’d say is what you’re seeing is accelerated demand for active safety solutions ultimately pulling forward the demand for level 4 and level 5, part of which is driven by the success of shared mobility solutions out there,” Clark noted on the call.

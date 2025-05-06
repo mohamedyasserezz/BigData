@@ -1,0 +1,17 @@
+uSens shows off new tracking sensors that aim to deliver richer experiences for mobile VR
+
+Startups in the VR space are increasingly growing confident that consumers will want to interact with objects in the virtual world the same way they do irl — with their hands.
+
+uSensis showing off the first line of its Fingo hand-tracking developer kits. The sensors have an eye toward mobile VR and integrate inside-out positional tracking tech, allowing an attached headset to track the user’s location within a space.
+
+Accompanying the launch of its Fingo hardware, the company is launching itsuDevnetwork to assist developers looking to integrate uSens’ tech into their hardware or software.
+
+The sensor hardware the company is showing off is just for developers; uSens CTO Dr. Yue Fei assured me that the company has little intention of getting in the consumer hardware business and is entirely focused on having its hand-tracking software adopted by manufacturers. Ideally, these hand/positional-tracking solutions will be incorporated directly into the headsets themselves.
+
+This has so far seemed to be an oddly difficult sell to mainstream headset manufacturers, which have largely seemed to focus on building their own proprietary hand-tracking tech from the ground up. With Fingo, uSens will likely have an added advantage thanks to the inside-out positional tracking offered on the Color Fingo and Power Fingo models.
+
+When it comes to sensor tech, the only thing that can generally be better about one company’s solution over the other is the software’s accuracy. Leap Motion is definitely one of the main competitors of uSens in the field of hand-tracking tech. I had the chance to demo uSens’ software at VRLA earlier this month and the company has done a particularly good job at building an accurate skeletal tracking system.
+
+Leap Motion has had dev kits out in the wild for quite a bit, so they definitely hold an early advantage in terms of developer tools like theirInteraction Enginethat they’re rolling out now, but uSens’ particularly strong focus on mobile may give the company more flexibility, especially as more and more OEMs start building headsets compatible with Google’s Daydream reference design.
+
+In the meantime, the Fingo suite of modules is compatible with Google Cardboard and Gear VR, as well as the “more serious” VR headsets like those from HTC and Oculus. The company is beginning to roll out pre-orders for the developer kits, though pricing was not announced.

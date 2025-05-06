@@ -1,0 +1,27 @@
+Opera Max update adds privacy tools but annoys some users
+
+Opera has rolled out a set of privacy features to its data-saving proxy for Android,Opera Max. It’s now billing it as a “data management and privacy app”.
+
+The company previewed the new privacy mode last month, saying it would be starting a gradual rollout — with the feature first available inSamsung’s S Secure modeon the Samsung Galaxy J5 Prime and Galaxy J7 Prime phones. Today it says the privacy features are now available to all Opera Max users, regardless of the Android device they’re using.
+
+Opera Max originally launched in February 2014, with a focus on bandwidth and data consumption, with the company touting the free app as a way for Android users to save money.Opera saysthe idea with the new privacy mode is to expand the app to create a “privacy timeline” in addition to the “data usage timeline”, by providing a breakdown of how apps on the device are sharing data with third parties.
+
+“We want to educate our users by revealing which apps are sharing your data through trackers without your permission,” said Sergey Lossev, Opera Max’s head of product, in a statement.
+
+Although, with more apps offering their own data compression features — Facebook, for example, expanded its suite of data ‘lite’ apps to include Messengerlast month— Opera Max arguably needs to do more than just data compression if it’s to keep attracting users.
+
+The new privacy mode on Opera Max lets users view real-time privacy alerts by scrolling up and down the timeline. They can also tap on individual timeline cards to drill into a “privacy breakdown” of what an app did in a particular session. Although some reviewers are critical of how clearly this information is presented.
+
+Another new feature is the ability for users to push a button to encrypt all app data and browsing traffic — to offer an additional layer of “industry-standard TLS/SSL protection” when using unencrypted apps on a public Wi-Fi or mobile network.
+
+Also included: an ad tracker blocker feature, based on the open sourceEasyPrivacy filter list, aimed at reducing how much ad profiling Opera Max users are subject to. Although another user of Opera Max posting a review on Google Play notes the app can’t be used to restrict Opera’s own apps.
+
+And, rather ironically, Opera does display some ads within Opera Max to, in its words, “keep the app free for all our users”. But in the words of another reviewer of the app: “I wonder how much data I would be saving if the near constant and extremely annoying parade of ads was to go away. I would rather pay for a pro version than deal with this BS, so I am uninstalling this (cr)app.”
+
+As well as complaining about an apparently increased volume of ads within the app, multiple users are also unhappy that the new version requires them to interact with it more frequently (every 12 hours vs every seven days) to keep it active.
+
+An Opera spokesperson responding onGoogle Playto criticisms of the app becoming ‘nagware’ argues that having users using the app “only when you need it” should decrease the load on its servers “and make Opera Max more efficient”.
+
+But, from users’ point of view, the new more intrusive interface for Opera Max looks to be rather less efficient to use.
+
+“The ‘old’ version just ran in the background doing it’s data saving thing. But now it’s constantly popping up reminding me to reset some kind of timer. I’ll give it a run for a while and see if it still saves data or not,” adds another reviewer.

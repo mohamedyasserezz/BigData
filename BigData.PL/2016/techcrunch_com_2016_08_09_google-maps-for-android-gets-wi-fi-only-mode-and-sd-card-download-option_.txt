@@ -1,0 +1,17 @@
+Google Maps for Android gets Wi-Fi-only mode and SD card download option
+
+Google is making its Maps app more accessible to users in emerging markets with two nifty features for the Android version of the service.
+
+The company today announceda Wi-Fi-only option for the Google Maps app for Android —it began testing the feature last month— and it also added support for SD card data download.
+
+The two features might not seem like a huge introduction, but this is a big deal for people who own a budget smartphone with limited internal storage and have a pre-paid or limited data plan.
+
+The Wi-Fi only option will be great for those who travel overseas too, since cuts down on the often limited data plans for travelers, and helps others avoid data roaming charges altogether.
+
+Offline support for Maps has long been a blessing, allowing you to download the data for a city or place before you even visit. But the size of that download can be prohibitive. That makes the additional of SD card support equally as important for those who juggle limited space on their phone, asGoogle explained in a blog post.
+
+Entry-level smartphones come with internal storage capacities as low as 4GB, while higher-end models range between 8GB and 32GB. For many of us, that’s not enough for all the videos, music, apps, and photos we cram onto our beloved smartphones. To ensure that Google Maps users with any storage capacity can download and use offline areas when they need them most, we’ve added the ability to download your offline areas to an external SD card (if your device supports them) on Google Maps for Android. Now you’ll never have to choose between snapping more food photos or the ability to navigate offline.
+
+Google also added more transportation options to Maps, introducing integrations with Go-Jek and Grab in Southeast Asia, and expanding its existing support for Gett, Hailo and MyTaxi to cover Ireland, Poland, Italy, Austria, Russia, and Israel.
+
+These new features are part of Google’s ongoing efforts to tailor its products to a new generation of mobile-only internet users. Other initiatives have includedfree Wi-Fi on India’s railways,offline playback for YouTube, andthe acquisition of Singapore-based startup Pie— its first deal in Southeast Asia — to power engineering for Google’s “Next Billion” team.

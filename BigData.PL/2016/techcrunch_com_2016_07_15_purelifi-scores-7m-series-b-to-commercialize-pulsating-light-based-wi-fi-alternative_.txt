@@ -1,0 +1,11 @@
+PureLiFi scores £7M Series B to commercialize pulsating light-based Wi-Fi alternative
+
+PureLifi, the University of Edinburgh spin out that is developing what it calls ‘LiFi’ technology, an alternative to Wi-Fi that uses modulating LED light as a way of sending data from one LiFi-equipped device to another, has raised just over £7 million in Series B funding. Leading the round is Singapore’s state-owned investment firm Temasek, while the startup says the new capital will be used to begin commercialising the technology.
+
+The LiFi technology is described as using the visible light spectrum instead of radio frequencies to deliver high-speed wireless data communication. In simple terms that means using LED light, pulsated in a way that isn’t noticeable to the human eye, to send data wirelessly.
+
+Interestingly, LiFi tech has some potential advantages over Wi-Fi networks. These include greater security due to its ‘line of sight’ requirements (no snooping on a network from outside a building or the other side of a wall), and being able to use existing lighting infrastructure to double up as LiFi access points. Higher data transfer speeds, in comparison to Wi-Fi, are also promised.
+
+However, some of those advantages, not least the ‘line of sight’ requirement, aredistinct disadvantages too. Any wireless technology based on light won’t work in a lot of outdoors situations either.
+
+With that said, PureLiFi says it’s already working with the likes of Cisco and Lucibel to provide LiFi networks. Since the startup’sSeries A last year, it has completed the development and production of the LiFi-X product, the first mobile LiFi dongle.

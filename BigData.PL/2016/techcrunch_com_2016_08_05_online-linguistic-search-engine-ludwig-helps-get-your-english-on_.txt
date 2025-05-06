@@ -1,0 +1,31 @@
+Online linguistic search engine Ludwig helps get your English on
+
+If you’ve ever tried to write in a language that isn’t your own, you are probably well aware of at least two things: first, writing requires much more time than usual and, second, even online translation services are often wrong.
+
+I
+
+Italian researcher Antonio Rotolo faced these issues early in his academic endeavors. To pursue an international career, he was required to publish his papers in English. After six months at MIT, he came up with the idea of a new kind of online translator — one that could not be wrong (unless The New York Times, BBC or other generally reliable sources made a grammatical error).
+
+Online since February 2016,Ludwigis a linguistic search engine designed to help people write correct English sentences. The company, headquartered in Catania, Italy, was started by a group of researchers and engineers from Sicily who have worked in a number of universities in the U.S., Norway, Germany and Spain. In July 2014, Ludwig received a €25,000 ($27,880) grant from Telecom Italia, a $15.29 billion telecommunications company.
+
+The first thing to know about Ludwig is that users must take an active role. “Our final goal is making people independent,” said co-founder Federico Papa, who has a PhD in Public Management. “We firmly think that learning a language is an active process.”
+
+To use Ludwig, people should type into the Ludwig bar not the sentence they want to translate (as they would do onGoogle Translate), but their best guess of the English translation they need. Then, an algorithm compares this sentence with a database of contextualized examples, all coming from reliable sources, such as The New York Times, PLOS ONE, BBC and scientific publications. Ludwig then shows a list of results, allowing users to check their sentences and learn the correct one.
+
+“We don’t think of us as a competitor of Google Translate,” said CEO Rotolo. “People can get their translations on Google Translate, and then check on Ludwig whether or not their translations are correct.”
+
+The startup was named after one of the most influential philosophers of the twentieth century,Ludwig Wittgenstein, who focused on philosophy of language, among many other things. “Wittgenstein came to a conclusion: the meaning is determined by context,” explained Roberta Pellegrino, Ludwig co-founder and a cognitive scientist doing a PhD in Business at the Wharton School of the University of Pennsylvania. “Context is exactly what only Ludwig provides, by searching a database of millions reliable sources.”
+
+Another free online translation tool,Reverso, has a huge database of examples from multilingual texts. “To be included in Reverso, each text must have a twin text in another language,” said Rotolo. “Ludwig works differently: We check any sentence written in English with reliable English texts.”
+
+In at least one case, Ludwig might lead users to reach an impasse. Let’s say, for example, that I need to check if “data” is singular or plural. Ludwig shows examples for both forms, “data are” and “data is.” In this case, engineers Francesco Aronica and Salvatore Monello explained, users can verify which form has more results, but also do additional research on the web.
+
+According to the company, Ludwig has an average of 10,000 page views a day and 75,000 users on a daily basis from 168 countries.
+
+International students are some of Ludwig’s target users. Nearly 1 million foreign students studied at U.S. colleges and universities in 2014/2015, according to theInstitute for International Education, and a large part of them (44 percent) enrolled in a STEM program,creating a pipeline of talentfor jobs related to science, technology, engineering or mathematics.
+
+The online version of Ludwig is now free to use, but the company is working on four ways to generate revenue. Adding ads to the online version is the first. The second revenue stream is an API version of Ludwig that could be integrated in the online platforms of language schools. Also, the company will launch an ads-free desktop app in the fall. Lastly, the company would like to sign partnerships with reliable sources by offering them the opportunity to drive traffic to their online archives.
+
+For the future, the company hopes to find an angel investor who is also a mentor. As for leaving Sicily for the Silicon Valley, Pellegrino said: “We are open to the option, but our dream is living and working in Sicily with an international team.”
+
+Full disclosure: This article was written using Ludwig to check several sentences and, sometimes, prepositions. The author of this post is a non-native speaker of English.

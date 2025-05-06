@@ -1,0 +1,17 @@
+Atomic is like Google Docs for interface prototyping
+
+MeetAtomic, a prototyping service for your next mobile app or website. It works in your browser, but it’s a lot more powerful than you’d expect. Atomic handles animations and lets you make interactive designs. And you can collaborate on your designs with your team in real time.
+
+The startup launched theversion 2this week adding a bunch of new features that make your design more interactive and easier to create. Atomic launched in September 2015 and costs between $15 and $35 per month. But first, let’s take a step back and look at Atomic’s features.
+
+While there are many native apps for quick prototyping, such asSketch, they don’t provide a good multiplayer experience. If you’re working with a team of designers, you’ll want to use a service that sits in your browser. In fact, Atomic has released a Sketch plugin so that you can export your designs.
+
+There are many cloud services for interface design, such asMarvel,Proto.ioandInVision. Eventually, it depends on the way you like to work, but I can see many designers choosing Atomic over say InVision — the service feels polished and flexible.
+
+When you’re working on a design, it starts with interface drawing. If you’re not using Sketch, you can add buttons, text and images from your browser. Compared to Photoshop, it is tailored to interface design. I’m not sure Atomic is as powerful as Sketch on this front, but you can keep using Sketch for the initial steps as Atomic doesn’t stop there.
+
+You can then add animations and interactions. You get to decide which type of click, tap or swipe you need to do to trigger something. And a sort of mini-video editor lets you configure interface changes based on these interactions. Some parts of your interface can be scripted — “if this happens then do that after 3 seconds.”
+
+With the second version, you can also add text fields in case you’re designing an app that relies a lot on text fields. You can also re-use components of your design in multiple screens.
+
+The ability to re-use parts of your design and work in teams should be a big time saver for teams of designers. And finally, you can preview your designs in your desktop or phone’s browser. Other people can comment and add notes for a specific area of your design. Atomic could be a good way to test different designs before working with developers on the actual implementation.

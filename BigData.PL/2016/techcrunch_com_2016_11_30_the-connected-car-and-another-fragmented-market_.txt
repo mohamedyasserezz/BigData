@@ -1,0 +1,37 @@
+The connected car and another fragmented market
+
+As any new industry takes shape, technical fragmentation occurs. The connected car is new and hot and, like markets prior, there’s a huge land-grab unfolding in front of all consumers. Up close, it feels very much like the early days of smartphones: Everyone was trying to be a player. All companies built their own flavor of software and, as a byproduct, all hardware (smartphones) was weak, at best. Apple and Google (Android) quickly began to standardize that market and, well, the rest was history.
+
+With the connected car, much is the same. Everyone is competing for space in your garage with the promise of life-changing car and home connectivity. The connected car as part of the larger home is the Wild West of the IoT. The future is very exciting and promising.
+
+Your car can now talk to the internet — but what is it supposed to do and say? Car manufacturers are trying to figure out what makes sense for the drivers and passengers. Much is still unknown.
+
+Currently, most major car manufacturers have their own flavor of car connectivity; to stay competitive, they need to. In broad strokes, they all do the same thing. They have some early iteration of touchscreen technology that incorporates streaming music, onboard computer diagnostics and basic controls for the car (heated seats, A/C, etc.). The more advanced car manufacturers have some companion applications that can precondition the car, unlock the doors and show historical trip details for basic social collaboration. Again, still very early in the life cycle.
+
+The most advanced, in this case, is Tesla. Tesla does all of the above and begins incorporating what the future will likely be for all cars. Tesla has proper onboard computer displays, interesting and more natural human input to controls and connectivity to the car, even when you’re not driving, through an immersed online community and companion app.
+
+Even with Tesla leading the way, we’re falling behind where the future is going. With every car company building their own siloed systems, we are still in the dark days — as we saw years ago with early software operating systems and more recently with smartphones.
+
+Here’s the big problem — like industries prior, this fragmentation means devices won’t talk to one another in any streamlined way. We have no standardized open framework for car suppliers to build their hardware (cars) on top of and, thus, developers will not..ever…ever…ever…spend time thinking about how cars and drivers can work together in a unified way. This is currently the biggest missed opportunity for market maturity.
+
+In the most simple terms, we need an “Android type” system for the connected car, home and potentially IoT. We need to standardize how cars, appliances and the larger home talk to one another. As we begin to standardize, we will see, as we have in the past with other industries, a streamlined approach to human and computer interaction and a limitless opportunity for new market growth.
+
+For instance, there are multiple areas where the connected car is going to have huge impacts. The first will be how the car interfaces with your home. The car, based on location and driving habits, will alert the house that you’re coming home. It will analyze the current weather and precondition your house. It will turn the heat or A/C on, condition the lights based on time of day and potentially preheat the oven — preconditioning your home for your arrival.
+
+The second will be how you as a driver interface with your car, other cars and the larger exterior elements. A connected framework like this will know based on driving habits where you’re going and will automatically calculate driving suggestions based on weather, traffic (Google does this) energy efficiency (especially as we move more to electric) and other, similar cars in your fleet.
+
+A world where you know in real-time — based on exterior temperatures, wind, cars around you and driving habits — suggested speeds you should drive for desired outputs. Such outputs would be: most efficient, fastest to destination or least congested.
+
+A social layer where you can naturally communicate with “smart notifications” would allow you to communicate with other cars in your proximity, and automatically incorporate social tools like Instagram and Spotify, where your pictures and songs simply appear “on your road trip” as you drive, inside your app and car screen, ready to be shared with the world. This type of system would also enable recommendations for when more complex systems like auto-drive should be turned on and off.
+
+The good news however is, this future is not nearly as far off as it once was. Fortunately, a few powerhouse companies and funded startups are working on this and already have early iterations in the marketplace. There are a few different categories taking shape within the automotive software industry.
+
+There are companies like Google and Apple that are focused on taking software from your phone and interfacing with the car’s existing console systems. This is a necessary but incremental step in the right direction to bridge the gap from car manufacturer to software company.
+
+Similarly, there are startups, like TeslaTracks and EVDriving, that are taking more of the open, social model, where tracking is done from the phone or computer to the car with an app interface on a phone.
+
+Finally, there’s a suite of tools, likeAutomatic, that plug directly into the port in your car and push out driving-related information — which is not new, but is starting to play more of a role as drivers become comfortable sharing their data (especially with insurance companies).
+
+All of these types of companies are helping shape how the automotive world will interface with software. Imagining a framework that can ingest and model multiple feeds as Android did would enable this type of deep communication. We have the data, we even have the devices to transmit such information, but while we’re making positive headway, we don’t yet have the mature software to incorporate and thus push downstream to the car manufacturers and, finally, consumers.
+
+Many teams are working on a solution, and a winner will soon be decided. The company that wins will unlock an incredible amount of revenue, because connectivity is going to be the new horsepower.

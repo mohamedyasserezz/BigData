@@ -1,0 +1,21 @@
+Microsoft brings new AI-powered features to Office 365 and Dynamics 365
+
+Microsoft’s Ignite conferenceis bringing 23,000 IT professionals to Atlanta, Georgia this week and the company is using this opportunity to talk about how it plans to bring more intelligence to its tools and platforms.
+
+As companies gather more and more data, Microsoft argues, it’s becoming imperative that the tools these companies use also become smarter. This means bringing better analytics to the workplace to help individual employees become more productive, but also bringing machine learning-powered tools to services like its CRM serviceDynamics 365.
+
+One thing the company’s representatives stressed repeatedly during a small press event ahead of the conference was that Microsoft doesn’t believe AI technologies will replace humans but instead empower them. We’ll see how that works out in the long run.
+
+In concrete — and more immediate — terms, this means Microsoft is bringing more cloud-powered intelligence services to Office 365 in the near future, for example. The upcoming QuickStarter for PowerPoint and Sway will be able to give you curated outlines for any topic — including text and Creative Commons-licensed images — to provide you with the foundation of you presentation. In addition, Excel will also soon allow you to easily transform geographic data into Bing-powered maps and Tap for Word and Outlook will help you find existing content inside your company that could be relevant to a document you are working on.
+
+Office 365 is also about to get a built-in tool that lets you track your productivity with the help of Microsoft MyAnalytics (previously known as Delve Analytics). The service allows you to compare your personal analytics (how much time to you spent answering emails, making Skype calls, editing documents, etc.) with those of your other team members (all without your manager ever seeing the data, though, Microsoft promises).
+
+The company says Dynamics 365, too, will soon get smarter thanks to built-in AI assistants that will help surface actionable data and even help sales teams find the best next action as they are trying to close a deal. This new Relationships Assistant for Dynamics 365 for Sales is based on theCortana Intelligence Suite, which Microsoft introduced in 2015.
+
+Most of these new features are now available for Office 365 customers, though some — like the PowerPoint QuickStarter and maps for Excel — are only coming later this year.
+
+Internally, Microsoft is also currently using a new AI-powered virtual agent across its U.S. call centers to help its employees better answer its customers questions.
+
+Microsoft’s definition of “intelligence” is still pretty vague, of course, but it’s clear that the company believes its work in machine learning, when combined with its cloud platform, can give it a leg up over its competitors.
+
+In the world of CRM tools, Salesforce recently introduced itsEinstein platform, which also promises to bring more smarts to its services. Google, which often leads the way in terms of deep learning research and applying it to consumer products, doesn’t currently play in this field, but that company, too, is starting to leverage some of this research across its productivity tools, too.

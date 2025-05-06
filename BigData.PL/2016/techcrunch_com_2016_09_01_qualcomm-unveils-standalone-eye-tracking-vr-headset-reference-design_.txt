@@ -1,0 +1,23 @@
+Qualcomm unveils a wireless eye-tracking VR headset
+
+Another day, another VR headset that you will never be able to buy.
+
+Today at the IFA conference in Berlin, Qualcomm unveiled a reference design for an all-in-one headset built on the company’s new Snapdragon VR820 architecture.
+
+The company’s Snapdragon 820 is already one of the most popular smartphone SoC’s on the market, but Qualcomm believes that mobile VR’s full potential isn’t being reached on the 820 because the headsets aren’t single-minded enough.
+
+This headset design, built in partnership with Shenzhen-based Goertek, isn’t something that consumers are going to be able to try out, Qualcomm unveiled this as a reference design to entice OEMs to build all-in-one HMDs on the new VR820.
+
+The design for this standalone headset includes integrated eye tracking with two cameras, dual front-facing cameras for inside-out positional tracking and four microphones. The system powers 1440×1440 per eye resolution being blasted at a rate ofup to70 frames per second.
+
+Notably, this reference design also marks one of the first headsets from a major company that features eye-tracking baked-in. The company said it is using an existing company’s solution for this headset though they declined to comment on specific partners.
+
+Eye-tracking can deliver a superior experience to users by giving them another way to interact with onscreen content. On the computing side, eye-tracking can also lighten system constraints through a process called foveated rendering, by which the full display resolution is only rendered at the center of your gaze, mimicking how the human eye actually works.
+
+Most experts suggest that at such “low” resolutions (compared to say 8K per eye), foveated rendering really doesn’t do anything to lighten computing loads, but Qualcomm decided to include the feature on this reference design regardless.
+
+All-in-one headset designs are a bit of a strange beast right now, most smartphones aren’t optimized for high-quality mobile VR experiences, that being said the price-of-entry is much lower for consumers who only need to purchase a cheap no-frills headset that houses their mobile device. Meanwhile these all-in-one headsets will likely sport exceptional price tags while not holding to the established quality standards on tethered headsets.
+
+Intel showed off designs for its all-in-one Project Alloy VR headset a few weeks ago, and while there are some differences in capabilities, it’s clear that both companies see wireless VR as where the industry is headed. While Intel used its headset to highlight the power of its Real Sense positional tracking system, Qualcomm is interestingly the one looking to show off its chipset.
+
+Qualcomm’s VR820 SoC is going to be available in Q4 of this year, and the company detailed that headsets utilizing the system architecture would be available soon after.

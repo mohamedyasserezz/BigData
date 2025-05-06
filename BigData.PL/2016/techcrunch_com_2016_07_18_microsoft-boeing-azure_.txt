@@ -1,0 +1,13 @@
+Microsoft and Boeing team up to streamline aviation through big data and AI
+
+Cortana is set to fly the friendly skies thanks to a new partnership between Microsoft and Boeing, bring the Microsoft intelligent assistant closer still to thedomain of its namesake. Microsoft and Boeingannounced a partnership todayto move Boeing’s suite of digital aviation offerings over to Azure, and the end result is that said servers are going to begin to get smarter, according to Microsoft.
+
+“Centralizing Boeing’s digital aviation applications on Azure will allow Boeing to analyze a large set of data provided from multiple sources,” a Microsoft spokesperson told TechCrunch via email, explaining how the partnership is set to make Boeing’s offerings better for airlines that use them. “Boeing could use the Cortana Intelligence Suite to help airline operators more effectively manage inventory, more efficiently schedule pilots and cabin crews, or proactively schedule maintenance that might otherwise delay a flight based on the data intelligence they gather from the cloud.”
+
+That means that first, this is a very early partnership – the focus here is on the potential to expedite certain tasks in the future. Second, this is not about Cortana flying planes; instead, it’s a project designed to use data analysis on the likely gigantic set of info processed every day through Boeing’s systems with the end goal of eliminating time and effort wasted on frequently repeated processes.
+
+Imagine a centralized ‘smart scheduler’ that knows what planes need what maintenance and when, along with staff availability, flight schedules and cargo load-outs – it could be a lot more proactive than most human-run systems likely are now.
+
+Of course, the more connected systems operating in a world like aviation, the more people are bound to worry about the potential for hackers and other ill-intentioned people interfering with those systems. Both Microsoft and Boeing are obviously aware of that, and both told TechCrunch they make sure security is a key consideration in their system designs.
+
+We’d all probably like an AI that can help make sure that, for example, your checked bags are on the turnstile by the time you get to the baggage claim (or at least cut down on the time it currently takes), but we’ll have a wait at least a little while to see what concrete results comes out of this partnership first: Microsoft told us that they’ll have more to share about their “joint work” with Boeing “before the end of the calendar year.”

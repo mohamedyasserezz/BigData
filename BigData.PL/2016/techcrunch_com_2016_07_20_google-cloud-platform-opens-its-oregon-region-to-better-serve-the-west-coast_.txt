@@ -1,0 +1,15 @@
+Google Cloud Platform opens its first West Coast region
+
+Back in 2006, Googleopenedits first owned and operated data center inThe Dalles, Oregon, and starting today, you’ll be able to host your Google Cloud Platform applications in Oregon, too. The company today announced the launch of its first West Coast region (formally known under the poetic name of ‘us-west1’).
+
+The company firstdetailedits plans for opening this new region at a developer event in March.
+
+Google promises that this new region will mean reduced latency for users on the West Coast. The company’s own data shows latency reductions for users in Vancouver, Seattle, Portland, San Francisco and Los Angeles of between 30 to 80 percent compared to using the ‘us-central1’ region in Council Bluffs, Iowa, which until now, was the company’s closest data center complex to the West Coast.
+
+The new us-west1 region joins Google’s Central US and Eastern US regions, as well as the company’s international regions in Eastern Asia and Western Europe.
+
+For now, developers will be able to use Compute Engine, Cloud Storage and Container Engine in the Oregon region, with others following later. Compute Engine users will get two availability zones in the region. Other services will likely launch in Oregon in the near future.
+
+Google recently opened its newest data center building in The Dalles and the company plans toexpand its presencein the city and recently bought a large parcel of land about a mile away from its original site. Oregon also plays host to data centers fromApple,FacebookandAWS.
+
+It was always rather odd that Google didn’t offer a cloud computing region closer to its home market. Compared to competitors like AWS and Microsoft Azure, Google’s selection of cloud regions was always paltry and it’s only now that the company is trying to catch up. The company launched itsEast Coast region last October, and will likely open its East Asia region in Tokyo later this year, with the launch of 10 more regions planned for 2017.

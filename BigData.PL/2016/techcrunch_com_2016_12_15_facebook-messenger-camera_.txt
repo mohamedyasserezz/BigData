@@ -1,0 +1,63 @@
+Facebook Messenger’s artsy new camera turns any text into filters
+
+What’s better than a few geofilters? A billion algorithmically generated filters. That’s Facebook Messenger’s strategy to steal the visual communication crown from Snapchat, thanks toits new camera featurethat rolls out today. Well, actually, “a billion” is selling it short.
+
+Messenger’s camera can make an infinite number of overlaid graphics to jazz up your photos and videos. It takes anything you type, then programmatically spawns art that blows up those words in goofy fonts that you can splash atop your imagery. If Messenger recognizes the meaning of your text in any of 15 different popular languages, it will even offer up filters with related art.
+
+Plus, it’s got augmented reality selfie lenses, holiday-themed masks, props to paste on, Prisma-esque style transfers, influencer-suggested filters and art that helps you tell friends what you’re doing or ask them to hang out. This camera is a swipe away or tap away at all times, living a layer beneath the rest of Messenger.
+
+“A lot more conversations are starting from photos,” Facebook’s head of Messenger David Marcus tells me. Around 10 percent, in fact. “We wanted to make sure we could be a first-class citizen when it comes to visual messaging, and naturally for that you need a good camera.”
+
+Indeed, 2.5 billion photos, videos, emoji and stickers are already sent each day on Messenger, now that emergent behavior is getting the product support it deserves. The new features are rolling out to all users today and tomorrow oniOSandAndroid, and the holiday effects should be available for everyone by December 21st.
+
+TechCrunch got a deep look inside the creation of the new Messenger camera, speaking with execs and artists to learn why and how the texting app is redefining itself in the age of chat via images.
+
+For a social network that’s really just a skeleton brought to life by the media its users share, Facebook has always had a penchant for art. As I walk the immense length of Facebook’s new 430,000-square foot Menlo Park office building, it’s hard not to stop and gawk at the posters. Facebook’s Analog Research Lab screen printing room churns out motivational banners with wild colors and bold text.
+
+Now Facebook is bringing that flare inside Messenger. “At first we didn’t have any art so we had to work to assemble an art team,” Marcus explains. They were tasked with turning the most commonly expressed feelings, activities and questions into images people could stick on their Messenger photos. And not just in English.
+
+“We work with creators all over the world for people all over the world,” says Jennifer Whitley, Messenger’s Creative Director. “One-third of our library is created for specific regions and demographics.” Both social media influencers and local graphic designers were recruited to give Messenger a diversity of iconography.
+
+That comes with risks, though. Snapchat was criticized for offering a“yellowface”selfie filter that looked like an Asian stereotype. Whitley tells me that when Messenger’s team made art for countries like Thailand, “we vet that and get that reviewed by people who speak the language. We don’t want to help self-expression that could be dangerous.”
+
+Meanwhile, design and engineering teams worked to extract meaning from common phrases, and link them to different art so Messenger can create “programmatic frames” that scale to 15 languages, with more coming. And by collaborating with theMSQRD artificial intelligence selfie filter team Facebook acquired this year, they built out a slew of new masks to make you look funny, or just more comfortable, on camera.
+
+A gallery of all the different Messenger art
+
+Before Facebook suddenly acquired Instagram in 2012, it was building its own photo editing app called…Facebook Camera. Before getting shut down to give Instagram room to breathe, it taught the company about multi-image uploads and color filters.
+
+Now Facebook is reviving the project. It’stesting some of the same features in Facebook properas are launching today on Messenger, in a multi-pronged attack on Snapchat, which has become its most cunning competitor. The new camera is also at the heart of Messenger’s direct Snapchat Stories clone called“Messenger Day”that debuted a few months ago in Poland and is now testing in 15 countries.
+
+Here’s a crash course in all the new Messenger Camera features:
+
+Swipe to Access:Just pull down from anywhere on the Messenger app’s inbox, hit the overlaid shutter button, or the camera icon in threads, to open the camera. It sits behind your inbox, as well as individual threads so you can instantly capture those spontaneous moments.
+
+Stylized Shutter Button:To tip you off if there’s new seasonal creative tools you won’t want to miss, the normally transparent shutter button that sits atop your inbox will occasionally get bedazzled with holiday gift wrapping or other effects to let you know there are Santa hats and reindeer antlers to try on.
+
+Shoot First, Pick Friends Later:Now instead of having to a pick a thread, then shoot a photo, you capture content first, then select all the different friends or group chats you want to send it to in a distribution screen reminiscent of Snapchat.
+
+Selfie Masks, Style Transfers and Effects:Before you shoot, you can add different Snapchat-style 3D selfie masks, filters that make your images look like paintings and environmental effects.
+
+Art Picker:After you shoot, tap on the Smiley icon atop the camera screen and you’ll pull up a tray of all the different art you can add. They’re divided into categories like “I’m Doing,” “I’m Feeling” and “Who’s Up For?,” which combine art and utility to turn boring text messages into eye-catching imagery so you’ll be more social.
+
+Programmatic Frames:Type words into the Art Picker’s search box and you’ll see pre-made art related to the meaning of your text. And if it’s a name, gibberish or something Messenger doesn’t understand, it will algorithmically generate stylized filters that incorporate your words in fun fonts.
+
+Props:Add some eyeglasses, a hat or a beard with prop stickers you can paste on your face. Grab a multi-piece disguise and resize different pieces separately to fit your head.
+
+Type, Doodle or Sticker:You can also spice up your images the old-fashioned way with overlaid text, drawing or any of Facebook Messenger’s popular stickers.
+
+Blank Canvas:If you don’t want to take a photo, you can swipe sideways or hit the palette button to create a solid color canvas to write on top of or adorn with stickers that are already sent 2 billion times per day.
+
+“When I already know what I want to say, how do I personalize what I’m saying?” That’s how Messenger Director of Product Management Peter Martinazzi describes the intent of all these new features.
+
+There are plenty of visual “communication” apps, from Snapchat to Instagram and beyond. But they were all built off a base of photo sharing, rather than messaging. So while other apps might focus on showing friends something fun, Messenger’s camera has a practical bent. It wants to help you make plans, express what’s on your mind and inform close friends what you’re up to.
+
+“At its core it’s a messaging app, so we want to make sure if you want to communicate ‘who’s up for drinks?’ you can do that in areally cool, engaging way,” Marcus concludes. “The main use case we’re trying to power is people communicating with their friends and families, expressing themselves when they’re apart.”
+
+This is the latest of a dozen attempts by Facebook to copy Snapchat’s top features and prevent more users from straying there. Facebook appears undaunted by criticism of it stealing ideas, hoping its versions will stick even if they make it look unoriginal or uncool to some.
+
+Maintaining Messenger’s efficiency as a utility is critical. More than one billion users rely on it to handle the normal conversations that get them through the days. Messenger can’t stray too far from the mission or people will ditch it for more spartan chat apps. That’s why it’s worked to embed the new art features without obstructing the speed of text if people want to keep it simple.
+
+And that’s where the true opportunity for Messenger is. Rather than ham-handedly trying to force the logistics of your life through an ephemeral content platform like Snapchat or a photos-first app like Instagram, its camera is designed to augment words rather than replace them.
+
+That could even make us less lonely. Tossing a drab “who wants to hang out?” text into a group chat can seem desperate, discouraging the shy. But if Messenger makes that same question fun to look at it, we might not be so apprehensive to reach out.

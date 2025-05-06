@@ -1,0 +1,77 @@
+WhatsApp to share user data with Facebook for ad targeting — here’s how to opt out
+
+Facebook-owned messaging giant WhatsApp hasannounceda big change to its privacy policy which, once a user accepts its new T&Cs, will see it start to share some user data with its parent company — including for ad-targeting purposes on the latter service.
+
+“[B]y coordinating more with Facebook, we’ll be able to do things like track basic metrics about how often people use our services and better fight spam on WhatsApp,” WhatsApp writes in ablogon the change today.
+
+“Facebook can offer better friend suggestions and show you more relevant ads if you have an account with them. For example, you might see an ad from a company you already work with, rather than one from someone you’ve never heard of.”
+
+WhatsApp will also be sharing the data with the “Facebook family of companies” — so presumably its user data could also be fed to VR firm Oculus Rift, another Fb acquisition, and photo-sharing network Instagram.
+
+WhatsApp data that will be shared under the new T&Cs includes the phone number a user used to verify their account, and the last time they used the service.
+
+Two pieces of data which — on a creepiness scale of ‘personal intel you’d rather not hand over to a data-mining tech giant’ — are both right up there.
+
+You can read the full WhatsAppprivacy policy here.
+
+There is an option to opt out of some of the data sharing (specifically for ad and product purposes)  — see lower down this post for more details — although most users will just tap ‘I agree’ to WhatsApp’s new T&Cs without reading them and realizing what they are agreeing to.
+
+This is why, as we’ve said before,T&Cs suck. And why user consent to a massive privacy shift like this should certainly not default opt people in.
+
+This is undoubtedly a huge step-change for a service that has typically prided itself on championing user privacy, including completing a rollout of end-to-end encryption across its entire serviceearlier this year, and continuing tofight requests from authoritiesto hand over user data.
+
+But once WhatsApp agreed to be acquired by data-mining social network giant Facebook, back inFebruary 2014, the writing was arguably on the wall for any pro-privacy stance.
+
+Facebook is in the business of monetizing usage via interest-based advertising fed by harvesting the personal data of its users. WhatsApp’s original business model, of charging users a small yearly subscription fee for an ad-free messaging service, was discontinued after Facebook took over ownership of the service.
+
+The annual $1 fee was ditched inJanuarythis year, but WhatsApp still does not have a replacement business model — given its anti-ads stance, although it is laying the groundwork toopen up business accounts. And the intel it will be sharing with Facebook under its new T&Cs will likely be used to further its plans there.
+
+At the time of the acquisition Facebook said it would be keeping the messaging giant independent, despite some obvious overlap with its own Facebook Messenger app.
+
+While WhatsApp founder Jan Koumclaimedthere would be no changes. “Here’s what will change for you, our users: nothing. WhatsApp will remain autonomous and operate independently,” he wrote at the time, adding: “There would have been no partnership between our two companies if we had to compromise on the core principles that will always define our company, our vision and our product.”
+
+Fast forward a couple of years and one core principle — privacy — is now being, if not entirely compromised, at least loosened — given that Facebook will now be able to link users of its own social services with WhatsApp users. It will also be able to track relative usage of its services vs activity on the messaging app, as WhatsApp feeds it engagement intel via the ‘last used’ signal.
+
+It’s not clear from the WhatsApp blog post if other user data will be shared with Facebook. The wording suggests this is entirely possible, although if a user has updated to the latest version of the app, which end-to-end encrypts all content, then their messaging content at least cannot be shared, so long as the person they are messaging has also updated.
+
+WhatsApp also makes this point in its blog post, noting: “When your messages are end-to-end encrypted, only the people you are messaging with can read them — not WhatsApp, Facebook, or anyone else.”
+
+But that’s kind of missing the point about letting Facebook triangulate users across two massive services, withover a billion active usersapiece. It remains to be seen whether that collapsing of boundaries between two distinct services will catch the attention of data protection regulators in Europe, which has more stringent privacy rules, and where Facebook has already faced multiple data protection related investigations and legal actions — andcontinues to do so.
+
+We’ve asked WhatsApp for a comprehensive list of everything it intends to share with Facebook, and for a comprehensive list of everything Facebook intends to do with the data it will be receiving on WhatsApp users and their usage of the service — and will update this post with any response.
+
+As well as phone number and last seen data, TechCrunch understands Facebook will also be fed intel on a WhatApp user’s operating system, mobile country code, mobile carrier code, screen resolution and device identifier. All of which open up plentiful tracking/ad-targeting possibilities.
+
+But this looks very much like Facebook trying to ‘fill in’ missing mobile phone number data via the more comprehensive WhatsApp address book — given that the latter requires users to supply a number to verify an account, whereas it is possible to use Facebook without supplying your mobile number (albeit, Facebook might well have grabbed your digits via your friends uploading their contacts’ books to the service anyway… And the service periodically nags those who haven’t to add a mobile number…).
+
+WhatsApp says the data is being shared to “coordinate more and improve experiences across our services and those of Facebook and the Facebook family” — going on to cite the following three specific examples:
+
+In WhatsApp’s privacy policy it fleshes this out a little more, including noting potential marketing and ad-targeting use-cases for sharing its user data with Facebook — writing (emphasis mine):
+
+We joined theFacebook family of companiesin 2014. As part of the Facebook family of companies, WhatsApp receives information from, and shares information with, this family of companies. We may use the information we receive from them, and they may use the information we share with them, to help operate, provide, improve, understand, customize, support, andmarketour Services and their offerings. This includes helping improve infrastructure and delivery systems, understanding how our Services or theirs are used, securing systems, and fighting spam, abuse, or infringement activities. Facebook and the other companies in the Facebook family also may use information from us to improve your experiences within their services such as making product suggestions (for example, of friends or connections, or of interesting content) andshowing relevant offers and ads. However, your WhatsApp messages will not be shared onto Facebook for others to see. In fact, Facebook will not use your WhatsApp messages for any purpose other than to assist us in operating and providing our Services.
+
+Learn moreabout the Facebook family of companies and their privacy practices by reviewing their privacy policies.
+
+One such marketing use-case for Facebook to make use of the WhatsApp phone number data is for itsCustom Audiencesad offering, whereby businesses using its platform can target ads based on an existing customer contact list they have.
+
+So any WhatsApp users that have given a business the same mobile phone number they use for the app can be served targeted ads by that same business via Facebook.
+
+While a Facebook product use-case for the phone number data is to expand the friend recommendations it can send — by it being able to identify more networks of friends, based on linking more people to mobile numbers.
+
+Opting out of the data-sharing entirely does not seem to be possible, but WhatsApp is offering a partial opt out — specifically for Facebook ad targeting and product-related purposes.
+
+However it notes that data will still be shared “for other purposes such as improving infrastructure and delivery systems, understanding how our services or theirs are used, securing systems, and fighting spam, abuse, or infringement activities”.
+
+So there is no way to totally opt out, short of short of stopping using WhatsApp.
+
+A WhatsApp spokesperson declined to comment on why it is not offering users a complete opt out of data-sharing with Facebook, but in a statement the spokesperson said: “We understand people with WhatsApp accounts might want to opt out of sharing their account information to improve their Facebook experiences. They have an additional 30 days to opt out after accepting the new terms so they have time to consider their choices.”
+
+WhatsApp details two ways to opt out of sharing data for Facebook ad targeting on its bloghere.
+
+Firstly if you haven’t already agreed to the new T&Cs you can opt out before agreeing to the new terms by tapping to read the full terms of service and privacy policy — and scrolling to a control at the bottom of the document — where there’s a check-box option for sharing the data which you then untick before hitting agree…
+
+If you’ve already accepted the new T&Cs without unchecking the box to share your information with Facebook WhatsApp is also offering a thirty-day window to make the same choice — via the settings page in the app.
+
+To exercise your opt out in this scenario you need to go toSettings>Account>Share my account infoin the app and uncheck the box/toggle the control displayed there. And do so within the thirty-day window. Presumably, after that, even this partial opt out will expire.
+
+This post was updated with additional details and comment

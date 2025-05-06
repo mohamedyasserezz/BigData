@@ -1,0 +1,37 @@
+Notion raises $9.5M for a smarter email app, now live on mobile and soon, Alexa
+
+A startup aiming to offer a better email experience by prioritizing the messages that are most important to you,Notion, is today publicly launching its service, which is available as a mobile app for iPhone and Android, and soon, a voice-activated skill for Alexa. The company is also today announcing $9.5 million in Series A funding.
+
+The round was co-led by Drive Capital and Accel, and included participation from Hyde Park Venture Partners and Silicon Valley Bank.
+
+Based in Ann Arbor, Michigan, Notion was co-founded in 2013 by the team that previously co-founded data backup company, BitLeap, which was acquired by Barracuda Networks in 2008. This includes Notion CEO Guy Suter, along with technical co-founders Lindsay Snider and Ian Berry.
+
+Suter says the inbox overload issue is something the team had struggled with themselves, but they also realized it was something that continued to be a problem for everyone.
+
+“My cofounders and I are entrepreneurs at heart. We saw a problem, so we sought out the best way to solve it,” explains Suter. “That exploration led us to A.I. and all its possibilities. We combined our expertise in data storage and founding and running successful businesses with the A.I. expertise in Ann Arbor’s own backyard,” he says.
+
+“That’s why we have focused on building a great engineering team and also tapped the resources in our network, like University of Michigan’s Artificial Intelligence Lab, and Computer Science professor Jason Mars as an advisor,” Suter adds.
+
+While there are a number of third-party email apps on the market to choose from – and many which focus on achieving ‘inbox zero’ – Notion’s biggest differentiator is that it aims to solve the problem of too many emails by utilizing A.I. technology to understand which messages should be read and responded to first.
+
+This concept of email prioritization is something you’ll find in rival services, as with Gmail’s “Priority Inbox,” andOutlook’s “Focused Inbox,” for example.
+
+Similarly, Notion also analyzes the relationships involved in your email communications in order to predict what’s important. The company claims it has accuracy of over 95 percent from the start – in other words, it requires less time and training before it begins to be useful after its initial installation.
+
+The system itself includes a collection of proprietary technologies (patent pending), like those that quantify responsiveness between people, map introductions made between people, and identify messages needing a response.
+
+The way it puts this all to use is by grouping the less important emails together for quicker archiving, offering smarter notifications about incoming mail, prompting you to reply on deadline, and detailing your relationships with those you correspond with in the app’s “People” section.
+
+Of course, in order to do its job, Notion requires access to some personal information, but it’s transparent about what data it collects and stores, which is spelled out inits privacy policy.Essentially, the company says it will collect personal data to improve its product’s accuracy, its content, and advertising.
+
+For example, it will store metadata about who you correspond with most, or the likelihood a sender wants a response, but the actual emails themselves are only temporarily stored, and you can wipe all the data Notion stores from the app’s Settings (or by simply deleting the app from your phone).
+
+In addition to the app’s ability to prioritize messages, Notion can also highlight those items that are waiting for a response, so you can better determine which emails to answer before others. This is a feature not found in competitors, and something that could be most useful to those who have a lot of inbound requests and questions.
+
+The larger vision with Notion, however, is not just to fix email, but to take this same intelligence and extend it beyond the inbox.
+
+“Notion is on a mission to improve how we communicate, and sees opportunity for our intelligence layer to benefit other communications channels such as Slack, Facebook, etc.,” notes Suter. “Additionally, our plan is to provide a paid service offering for teams so they can use communications intelligence to improve how they communicate with each other and externally,” he says.
+
+The service is live now oniOSandAndroid, and will soon work on Alexa. The Alexa skill will let you listen to important emails, those waiting on replies, plus snooze, send, or archive messages. (See above video for a demo).
+
+Notion will also arrive on Mac, Windows and the web.

@@ -1,0 +1,67 @@
+Tech tips to help stay safe in Trump’s America
+
+Tech is as much a liability as it is an opportunity, as this election demonstrated. The next few years will be scary for many reasons, and to some more than others, and part of that will be the continued and likely expanded exploitation of the technologies and services we’ve come to rely on. Communities likely to be targeted by Trump policies may want to take a few steps online to help ensure their safety and privacy.
+
+Trump has gone on the record asking for backdoors to encryption and devices, saying he supports surveillance, and is against Net Neutrality. Policies pursuant to these goals will necessarily put your data at risk.
+
+The following are privacy tips anyone can use, but they are particularly relevant for anyone who, for example, plans to participate in protests or grassroots organizing, or for undocumented immigrants who would like to decrease their online presence. I’ve listed them roughly in order of importance.
+
+If Trump makes good on his promise to make deportation of undocumented immigrants, you can expect police to bring the same measures they use in serious crimes to bear on this task. One such measure is the interception of mobile phone calls and messages, whether using a Stingray-type device (which imitates a cell tower, causing phones to send it data instead) or more traditional tapping at the network level.
+
+Ordinary phone calls and text messages are incredibly easy to collect this way, and are often also exposed as part of other investigations. It’s easily imagined that the police may run a dragnet in areas densely populated by immigrants and watch for keywords pertaining to under the table employment, family across the border, remittances, and so on.
+
+They can’t do that if you’re usingan app like Signal, which uses “end-to-end encryption,” preventing electronic snooping anywhere along the line — including on the service’s own servers and while the data is in transit between networks and devices. This type of encryption is the bane of every authority because not only can they not see what is being sent, nor can the company that runs it, so the information can’t be subpoenaed or hacked out.
+
+It may be a pain, but getting your family and friends switched over to one of these apps could prevent a lot of trouble down the line.
+
+Some other options, if for some reason Signal doesn’t work: WhatsApp is a popular and versatile option, but it’s owned by Facebook, and while it’s technically independent, that still makes us nervous. Apple’s iMessage is reliable and popular, but requires an iOS device or Mac — Apple is also under tremendous scrutiny, having been called out specifically by Trump as a company to put pressure on.
+
+Avoid Allo and Telegram, which have been criticized for their encryption and privacy choices.
+
+If you’re on a major computing or mobile platform, encryption is available but may not be enabled by default. Windows hasBitlocker, Macs haveFileVault— turning them on is simple (follow the instructions in those links) and it doesn’t change the way you use your computer at all.
+
+It’s the same, more or less, on iOS and Android. On Android, go to Settings>Security>Encrypt Phone and follow the instructions there. Some phones may have this enabled by default, but it’s good to check. On iOS, if you’ve set up a PIN or TouchID, your device is already encrypted — but if you skipped that step because you don’t like tapping a code every time you check your email, you might want to reconsider that choice now.
+
+Trump’s naked xenophobia, tacit support of vigilantism, and lack of concern over police militarization and brutality suggest it may soon become far less safe for people of color, Muslims and Sikhs, LGBT individuals and other targeted minorities to walk home alone. Tech can’t prevent bigotry and bashing, but it can at the very least help create a safety net.
+
+Apps likeKitestringandCompanionlet you set emergency contacts, and if you, for example, don’t check in at home within 15 minutes, or if you shake the phone hard for 5 seconds, it will send them your location and a message that you need help. (They use SMS, but we’ll make an exception in this case.)
+
+It’s scary and unfair that this should even have to be recommended, but it’s an opportunity to protect yourself using technology you already have. Check with some friends and see what app looks best.
+
+Part of the fun of social networks is the idea that you’re sharing with the world. But law enforcement also uses them as investigative tools, establishing whereabouts, work history, and anything else that your posts imply. Like anything you say to the police, this can and will be used against you, and if you have reason to think you may be targeted by them, you should make it difficult to get at. Making your account private is an easy way to do that, even if it’ll be harder to garner followers.
+
+Be sure to check your preferences and privacy settings in every app and service and opt out of things like default public check-ins or anything with “personalized,” “tailored,” or “curated” in it — it means they’re reading your data.
+
+On Google, you shouldturn off (“pause”) your location historyand opt out of other tracking measures in thesearchandadsareas. On your phone, you can turn off location services or restrict them per app. Using an alternative to Google, likeDuckDuckGo, helps keep your browsing habits private.
+
+The Electronic Frontier Foundation has aplug-in for Chrome, Firefox, and other browsersthat forces them to make a secure connection even when it isn’t the default for the website or service you’re connecting to. You’ll also be warned when the connection isn’t secure (browsers also tell you this, but not very loudly).
+
+The latest versions of Windows, macOS, Android, and iOS don’t bring just the latest features, but also lots of fixes for serious security holes. These fixes will apply to a few of the previous versions, but not really old ones. Hackers — and the authorities — know this. If your phone and OS are new enough to take full advantage of encryption tools and resist well-known methods for unlocking and hacking, they’re secure against adversaries domestic and foreign.
+
+It isn’t always easy to stay updated, but keep it in mind when buying a new phone or computer. If you’re on an OS more than a year or two old — before things like full-disk encryption were standard — you should consider updating at the earliest opportunity.
+
+Slightly older iPhones will still get the critical updates (mainly iOS 8) that added broader encryption, as will Nexus phones and other flagship devices. Budget (but still modern) phones like the Moto E and G are also great options for those on a budget.
+
+Virtual Private Networks obscure your internet traffic from your ISP and others by routing it through other servers first. If all your connections are to your VPN (which then passes it on to wherever it was headed), and your VPN doesn’t keep any records of those connections, there are far fewer ways for your browsing to be tracked.
+
+Good VPNs cost money. We don’t recommend any VPN in particular, but it should be a VPN that plainly states that it doesn’t log your traffic. Examples includeExpressVPN,Anonymizer, andPrivate Internet Access. There are dozens to choose from, however, and I don’t claim to be an expert;many are reviewed hereif you want to be careful about the jurisdiction the VPN is based, the extent of its record keeping, and so on.
+
+If you attend lots of protests or demonstrations, or often choose to film police encounters, you might want to keep a burner phone around in case yours gets smashed or confiscated. You can get a cheap Android phone for $100 or less, and if you aren’t relying on SMS and phonecalls, you can do pretty much everything you need over wi-fi until you get a replacement.
+
+Should the authorities choose to enforce blocks of certain websites — for your own sake, of course — the easiest way to do it is ordering major domain name services (which connect URLs like beta.techcrunch.com to IP addresses like 155.91.18.66) to simply prevent internet users from getting to them. Fortunately, this type of censorship is as easy to circumvent as it is to put in place.
+
+You can easily change the DNS your computer uses in its network settings.OpenNIC has detailed instructionsfor various operating systems, and has proven itself trustworthy.Google’s Public DNSis another option, and has the benefit of being easy to remember: change the preferred and alternate DNS servers to 8.8.8.8 and 8.8.4.4 respectively.
+
+Another way governments have quashed dissent is by suppressing mobile communication altogether. It can’t hurt to have an app likeFirechatinstalled on your phone, which passes messages directly between devices without the need for a network. This is also useful in case of power outages and other disasters — a good emergency measure to take regardless.
+
+Even if the various smart appliances worked well, we’d still have issues withtheir security and the way data is handled. You’re not missing out on much, so just skip the wi-fi front door lock and Amazon Echo for now.
+
+This is harder to do for many people, since services like Gmail and Dropbox have become practically ubiquitous. But if you’re really worried about privacy, there are options that provide similar services but with a “zero knowledge” guarantee — basically that the company that runs them never knows a thing about what you use their service for.
+
+ProtonMailis a solid one if you’re looking to get away from Gmail, or just have a second email for sensitive topics.SpiderOak Oneis like a super-private Dropbox.
+
+If you’re really worried about snooping, consider using an alternative to the standard operating systems that’s designed with privacy and security in mind. This isn’t an easy option but it might be good to explore if you have an old laptop or phone lying around.
+
+Copperheadis worth trying if you’re used to Android, although it won’t have all the conveniences of the usual Google-powered version.Tailsis what Edward Snowden has recommended for desktop and laptop work that needs to stay private. It’s basically a simple, security-focused OS that deletes itself when you’re done.
+
+Suggestions? Comments? I’m under no illusions that this list is complete or perfect. Feel free to contact me or leave a comment below if you think something should be added or adjusted.

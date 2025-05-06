@@ -1,0 +1,15 @@
+Synq launches a video API so you don’t have to build video delivery from scratch
+
+Say you’re an app developer and you need to give your app users a way of uploading, storing and playing back video. Instead of having to build your own video content management system or licensing one of the existing ones,Synqoffers developers a third option. The company is launching its “cloud video API for Developers,” service today, aiming to be a full video infrastructure in a box.
+
+There are a number of auxiliary services that developers no longer build themselves — unless they have specific needs. Examples include telephony services (replaced by Twilio), payment services (Stripe/PayPal/Square) and in-app analytics (too many to mention).
+
+The company likes to describe itself as the Twilio for video, which they might want to rethink, given thatTwiliodoesdo video, but not in the way Synq is envisioning its service.
+
+“Video is the odd one out,” says CEO and founder of Synq, Stian Hauge, lamenting the difficulty for developers to use video in their applications. “Our platform gives developers the needed flexibility to implement advanced video capabilities in existing infrastructure from any source, and at the same time prep them for AR, VR and the power of machine learning.”
+
+The product includes multiple content delivery networks, and Hauge suggests that the company will be able to compete with the likes of Akamai and CloudFront on content delivery speed and price for video.
+
+So why wouldn’t you just useVimeo,Brightcove,Kalturaor any of the tons of other platforms out there?
+
+“The established video platforms will take care of storage, transcoding and distribution,” Hauge admits, but says that that’s only part of the challenge. “The customizability of their offerings are restricted; they use rigid data structures, standardized workflows and only have limited APIs available. Synq is developers-first with an API that allows for fully programmable queries and webhooks.”

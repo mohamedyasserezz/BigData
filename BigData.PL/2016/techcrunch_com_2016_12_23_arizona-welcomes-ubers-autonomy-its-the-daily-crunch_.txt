@@ -1,0 +1,35 @@
+Arizona welcomes Uber’s autonomy: It’s The Daily Crunch
+
+Every Monday, Wednesday and Friday our daily guided tour of the biggest tech stories from the past 24 hours will appear here on TechCrunch.com. To getThe Daily Crunchin your inbox every day of the week, sign up hereand be sure to take a look atthe rest of our newsletters while you’re at it.
+
+Uber rage quits California, Pokémon Go hits the Apple Watch hype wall and Super Mario might be running against time when it comes to revenue. All that and more in The Daily Crunch for December 23, 2016. And don’t worry – yule make it through 2016.
+
+1.Uber trucks its self-driving cars to Arizona
+
+It looked like the California DMV had scored a rare PR victory over Uber when it revoked the restoration on Uber’s 16 autonomous test vehicles, effectively ending the company’s San Francisco pilot service. But Uber fought back with a splashy, well-documented convoy taking its cars and bringing them to their new home in Arizona, where they’ll start service in the coming weeks with the State’s full approval.
+
+Uber’s hoping this turns into a black eye for California, since it’ll make them look anti-progress. But CA is being very reasonable with their autonomous test permit requirement, so we’ll see how the return to the state goes for Uber’s self-driving cars if and when it happens.
+
+2.Pokémon Go comes to the Apple Watch
+
+Well, Niantic made good on its timeline for Pokémon Go for the Apple Watch. It’s here! But it’s also not that great. I tried it out for all of about five minutes, before realizing it doesn’t fix any of the problems Pokémon Go has as a game, and it succeeds only in making me feel bacd about my lethargy. The Pokémon Go dedicated hardware is a much better add-on for the core experience.
+
+3.Super Mario Running out of steam?
+
+Super Mario Run is a record-breaker, but can it go the distance? The number of users who are spending in-game is dropping off very quickly, but that kind of makes sense given its purchase model. Still it’s also continuing to face negative reviews because of how its structured, and Nintendo probably isn’t too keen on spending on its carefully built brand credibility on mobile titles that look designed to drive in-app spend.
+
+4.Signal’s Android update skirts censorship
+
+Encrypted communication app Signal has pushed an update that will work around state-controlled censorship in places like Egypt where it’s been blocked, which is great news. The app also put stickers and doodles in the update because it’s not ALL just about privacy all the time – sometimes it’s about fun.
+
+5.Airbnb looks poised to start booking flights
+
+Ahead of its IPO, Airbnb might be looking to de-risk some of its business by building flight booking into its service offerings. Rather than face increased acceptance of its rental model, it seems to be encountering more resistance from regulators and from building owners and management companies, so varying the ways in which it makes money is only logical. And even if hosts can skirt these rules, itgets downright awkward.
+
+6.Uber says that apparent persistent location tracking is actually iOS Maps bug
+
+Uber’s been upfront about why it wants more access to user location data, but some were finding that it appeared to be tracking their location even days or weeks after they last opened the app. Well it turns out that’s not Uber’s fault, but the fault of an iOS Maps extension made available to developers in September. Basically, if you use the Uber integration in the native iOS Maps app, you’ll see the icon indicating the app is using your location, and it’s actually nbd.
+
+7.Tesla on track to return Autopilot to new cars next week
+
+Good news! Features of Autopilot that haven’t been enabled on newer Tesla hardware, ironically because the new hardware is so much better, should be coming back sometime next week.Celebrate!

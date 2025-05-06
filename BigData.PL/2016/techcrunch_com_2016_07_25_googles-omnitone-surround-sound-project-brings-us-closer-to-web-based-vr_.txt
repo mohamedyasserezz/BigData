@@ -1,0 +1,13 @@
+Google’s Omnitone surround sound project brings us closer to web-based VR
+
+As has been the case with so many industries, the pendulum of VR will eventually swing back from dedicated apps toward web-based systems — and when that happens, Google will be ready. It published details of a new method for delivering serious surround sound over the web — a system it callsOmnitone.
+
+Plain ol’ multi-channel surround sound may be fine for watching a movie on a flat screen, but when you’re navigating a virtual environment with total spatial autonomy, you need a bit more. You need ambisonics, which simulates a full sphere of sound around you, giving sounds coordinates in 3D space and letting a renderer do the work of converting that coordinate into the appropriate sound waves.
+
+The problem Google’s Chrome WebAudio team faced was how to make this happen in the browser using the tools already available — so as not to clutter the web with yet another standard. The solution they came up with is clever, but really quite straightforward.
+
+The ambisonic sound stream is as much about the location of the sound as the sound itself, so Omnitone combines that location with orientation data from the VR headset’s sensors. So if your head is pointed rightwards and upwards X and Y degrees, that transformation is applied to the ambisonic stream right away and the whole audio sphere is shifted relative to the user.
+
+Then it makes its way to an eight-speaker virtual speaker setup, then is mixed down to stereo using a binaural renderer — and voilà, you’ve got passable streaming full-sphere surround sound using nothing but existing web components!
+
+You can test it out on these demos— that is, if you can get them to load. I couldn’t. But there will probably be a more full-fledged rollout soon, with a YouTube VR experience or the like, so I’m not worried. Everything’s open source, of course;check out the code here on GitHub.

@@ -1,0 +1,15 @@
+DeepMind’s differentiable neural computer helps you navigate the subway with its memory
+
+In his best-selling 2011 bookThinking, Fast and Slow, Nobel Prize-winning economist Daniel Kahneman hypothesized that thinking could be broken down into two distinct processes — aptly named fast and slow thought. The former is all about your gut, the initial automatic responses you have to things, while the later is calculated, reflective and time-consuming. A new algorithm from DeepMind is beginning to show us that so-called “slow” thinking may soon be within the reach of machine learning.
+
+In a new paper published in Nature,the Google subsidiaryDeepMindexplained a new approach to machine learning that uses something called a differentiable neural computer. Of course, the new computer isn’t a physical piece of hardware, it’s more of a technique for organizing information and then applying that prior knowledge to unique problems.
+
+Neural networks operate using what essentially amounts to a very sophisticated trial and error process, eventually arriving at an answer. These frameworks are great for some tasks, but have room to improve in applying stored connected facts to real-world challenges.
+
+DeepMind’s technique merges notions of memory with more traditional neural networks using a “controller.” The controller saves information by either storing it in a new location or overwriting a previously occupied location. Throughout this process, an association between the information is formed via the timeline of when new data was written in.
+
+The controller uses that same chronology along with the actual content of what has been saved to retrieve information. The framework created is navigable and proves itself effective for drawing insights from graph data structures.
+
+These graph structures are complex representations of data that are commonly used to represent things like customer purchasing preferences and GPS navigation information. DeepMind tested its differentiable neural computer on the London Underground and was successful at generating routes from the structured data. According to the company, the next step in development will be trying the new algos on larger data sets.
+
+You can read more about these new tools on DeepMind’s sitevia its blog post on the subject.

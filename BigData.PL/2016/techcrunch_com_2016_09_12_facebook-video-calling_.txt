@@ -1,0 +1,23 @@
+Facebook Messenger’s audio and video calling reaches 300M users
+
+Phase 1: Kill SMS. Phase 2: Kill Skype, FaceTime, and your phone. Phase 3: Profit? Facebook is making strides towards becoming a multi-media communication juggernaut, its head of Messenger David Marcus announced today at TechCrunch Disrupt SF. Out of Messenger’s one-billion users, 300 million people use its audio and video calling features each month. That’s around the size of Skype’s entire user base.
+
+Facebook is uniquely well-suited to disrupting traditional home and mobile phone voice calling and their successor, video calling. It has the most complete social graph of family, friends, and acquaintances – going beyond what’s in most people’s phone contacts. It has a one-billion user chat app where people are already spending tons of time. And it has the technology infrastructure to support high-bandwidth transmissions.
+
+Before the talk, Marcus told me“There’s a new paradigm when we think of real-time communications. We had to catch up when we didn’t have voice and video conversations, Now out of the billion users, over 300 million are active users of audio and video calling. Apps that are supposed to do just that are much smaller than that.”
+
+Facebook first began experimenting withVoIP audio callingin Messenger back in 2013, while it opened upvideo callingin mid-2015.Group audio callinglaunched in April 2016, and you can expect Facebook to eventually one-up competitors with group video calling. Snapchat, Google Duo, and others in the space also currently lack group video calling.
+
+Asked about Facebook’s plans for group video calling at TechCrunch Disrupt SF 2016, Marcus broadly hinted that it was in the works.
+
+“If you look at what we’ve launched to date, it’s a pretty logical thing to build at some point,” he said.
+
+Most communication apps and operating systems work from a basis of text messaging, with the ability to place somewhat distinct audio and video calls. But Marcus tells me Facebook wants to push the idea that those multimedia options are always at the ready as part of the ongoing thread. That’s why it launchedInstant Videofor live connections in Messenger this month. You simply unmute these options when you want to rather than initiating a new type of call.
+
+That could make Messenger more immersive, and bring it closer to the goal of simulating a face to face conversations.
+
+While audio and video have been important to Facebook and  Messenger, the network has seemingly been ignoring the rise of voice computing platforms, like Amazon’s Alexa, Google Now, and Apple’s Siri, for example. Marcus noted that Messenger isn’t actively developing a similar technology.
+
+When asked if Messenger might then fall behind as products like Amazon’s Echo voice controller gain popularity, Marcus conceded, “maybe”.
+
+Additional reporting: Sarah Perez

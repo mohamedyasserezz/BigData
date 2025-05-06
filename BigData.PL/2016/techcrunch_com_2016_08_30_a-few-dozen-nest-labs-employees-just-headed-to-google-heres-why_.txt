@@ -1,0 +1,27 @@
+A few dozen Nest Labs employees just headed to Google; here’s why
+
+Nest Labs, the maker of smart thermostats and smoke detectors, is parting ways with a few dozen employees who work on its Internet of Things platform. According to aFortunereport that we’ve independently confirmed, those employees are joining Google per a restructuring.
+
+Both companies are subsidiaries of parent company Alphabet.
+
+The move would seem to make sense. Like Nest, Google has delved into the business of the connected home, including with its OnHub wireless router and Google Home, a portable speaker that’s powered by voice assistance technology and will takedirect aimat Amazon’s popular Echo product once it ships later this year.
+
+Nest’s thermometers and cameras promise to communicate with Google Home.
+
+Nest employs roughly 1,000 people, including in engineering, product marketing and product management.
+
+Though its platform team was responsible for building out Nest’s APIs (so Nest products can communicate with other devices), as well as Nest’sWeave protocol(which allows Nest devices to communicate with each other), Nest will continue to build and develop software around its app, site and other services.
+
+The decision to separate Nest’s platform team from the rest of the company comes almost exactly a year after Google created Alphabet in an attempt to make better sense of its core advertising business and the company’s other interests. These include life sciences (Alphabet’s standalone businesses include Verily and Calico), its broadband service (Google Fiber), its startup investments (GV) and its self-driving car business (Google X).
+
+Alphabet has gained more insight into these separate entities, though the transition has appeared rocky at times.
+
+GV hasseenturnoverof late. Verily’s CEO has come under fire for beingdivisive. Google Fiber has reportedly been ordered tohalve its teamto 500 people, owing to soaring costs. And Google X is said to be struggling to getproducts out the door.
+
+Nest itself underwent a major change in June, announcing that itscontroversial co-founderand CEO, Tony Fadell, would be leaving the company.
+
+Fadell was subsequently replaced by Marwan Faraz, who has a background in the cable and communications industry.
+
+Faraz continues to lead Nest. Meanwhile, Google’s newly expanded platform team is being led by Hiroshi Lockheimer, who joined Google a decade ago and holds the title of SVP of Android, Chrome OS & Play.
+
+Correction: This post originally identified Calico’s CEO as the subject of reports about being divisive.

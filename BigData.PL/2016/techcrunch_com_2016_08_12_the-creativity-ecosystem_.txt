@@ -1,0 +1,55 @@
+Facebook’s next big platform: Your camera
+
+Facebook can’t build everything. For a decade, its strategy has been to provide the canvas, then let developers paint it however they want. That’s because there’ll always be another game. Another app. Another… selfie filter?
+
+The hot trend in consumer social networking has progressed from text update sharing to gaming to one-off utilities to basic photo sharing to now, when content creativity apps have taken the spotlight. People are tired of sharing the same old picture of their face, food or sunset; they want tools that help them make and share something unique.
+
+Hence, the rise of Dubsmash and Musical.ly for lipsyncing, Periscope and Facebook Live for broadcasting, Prisma and Artisto for reimagining images and Boomerang and Phhhoto for generating GIFs.
+
+The king of these creation tools is Snapchat — a single app that tries to do it all. Photos, videos, filters, text, drawing, emoji, Bitmoji, 3D stickers, face swaps and, most memorably, animated selfie lenses.
+
+Snapchat quickly grew its community by offering outlets for creativity no one else had, always staying one step ahead. Its acquisition of Ukrainian object recognition startup Seene spawned the dog face, flower crown and rainbow puke lenses that made Snapchat iconic.
+
+Over the years, though, Facebook has become the most prolific and skilled copy-cat in software. It’s the Samsung/Xiaomi of apps. This year it acquired Seene competitor MSQRD, built a camera into the top of the News Feed and launchedInstagram Stories. The social giant isn’t even shy about it any more. Instagram CEO Kevin Systrom admitted to me that Snapchat inspired Instagram Stories, and“They deserve all the credit.”
+
+Now, in order to leapfrog Snapchat andkeep more users from straying there, it has to stay fresh. So its next big opportunity is to put out a rallying call just as it did forgamesin 2007,websitesin 2010,Open Graphapps in 2011 andLive video broadcastersearlier this year.
+
+Facebook should launch a new developer platform centered around the camera.
+
+Instead of trying to dream up every conceivable selfie filter, image modification and video effect, Facebook should get an ecosystem of devs to build them.
+
+F8 2016 was dominated by the launches of the Messenger Bot platform and Live video API. But amongst the April conference’s announcements, Facebook released theProfile Expression Kit. It allows you to make special animated or enhanced profile pictures using other apps like MSQRD, Boomerang, Vine, BeautyPlus, Flixel’s Cinemagraph and Lollicam. Mysteriously, we haven’t heard much about the Profile Expression Kit since…
+
+Yet with theacquisition of MSQRD, the integration of creativity tools into Facebook’s product seemed inevitable. So when Facebook launched two new camera experiences last week, I pressed their builders about the potential for a camera platform.
+
+Instagram’s CEO said “Neon (an Instagram Stories drawing tool), while a small example, is an example of where we want to take this product — where we think of really unique, creative ways of augmenting your photos that haven’t been done before and we use this platform just to go crazy with them. That’s what we’re looking to do.”
+
+When asked if the creative tools will be all first-party like the native Neon drawing option, or if third-parties could contribute, Systrom said “I think it will be first-party mostly.”
+
+But then he opened the door for an ecosystem play, saying, “I think there are examples of third-parties that you could imagine, but we’ll address those as they come. The MSQRD team — we work with them in the sense that they keep in touch with every single image-centric company at Facebook. We don’t have MSQRD in thisyet. Part of that is we allow for camera uploads, so if you’re using MSQRD you can upload easily to Instagram. You can imagine in the future there will be touch points.”
+
+It would seem Instagram is open to the idea of a camera platform once the launch settles and users get the hang of its simple initial version.
+
+Days later, Facebook launched its first MSQRD integration, allowing people in Canada and Brazil to play with Olympic-themed selfie filters. They exist inside the test of what I’ve called thecamerafeed, which automatically opens a selfie camera atop the News Feed each time you visit to spur you to shoot and share.
+
+Product Manager Sachin Monga told me “Having this camera inside of Facebook will introduce the opportunity for more sharing options in the future.”
+
+On their own, Instagram Stories and the Facebook camerafeed could help stem the decline of original, personal content sharing that was down 15 percent year-over-year as of February,according to The Information. Facebook needs this must-see content that you can’t get elsewhere, like the generic news links you post to the feed.
+
+But Facebook could super-charge these camera experiences with a crowd of developers.
+
+Facebook has the resources to task tons of smart people with concocting new lenses and filters and effects. Still, there’ll always be a scrappy developer on the other side of the planet with an even more viral idea. Just look at howPrisma’s fine art filtersbecame an instant hit.
+
+Rather than trying to compete with these developers, Facebook should co-opt them.
+
+Facebook and Instagram already let apps slide newly created media over to their status composers. As always, though, Facebook’s carrot to lure developers to its platforms is growth. With 1.71 billion Facebook users and 500 million on Instagram, the company has plenty to share.
+
+To drive growth, Facebook would need to provide what devs can’t get in the crowded app stores — discoverability. If it created a drawer of creation tools from third-parties, users would never run out of ways to share. This mimics how Facebook built into Messenger extra apps for GIFs, transportation and more.
+
+Eventually, these developers will want to earn money, not just grow their user count. They could charge a small initial download fee or sell premium filters in their apps. Alternatively, they could build what I call “Sponsored Creation Tools,” where brands pay to have devs build them filters or effects that promote them. Snapchat is already doing this withSponsored Lenses, but I wouldn’t expect Facebook to because it focuses on huge, scalable revenue streams like News Feed ads. For independent developers, the door is wide open.
+
+Devs might be worried about getting in bed with Facebook because the giant might steal their filter ideas. Facebook is already keenly aware of what’s popular in the market, though, and it’s comfortable copying, so there’s no real way to avoid that.
+
+If the camera platform panned out, Facebook and Instagram could become more exciting, surprising places to visit. Instead of the same feed, the same selfies and baby photos and party pictures, there’d be new toys to play with each day.
+
+Facebook is now 12 years old. Instagram is almost six. They must constantly reinvent themselves tostay alive. They don’t have Snapchat’s youthful buzz. ButSnapchat decided to shut down its platformand go it alone. Once again, Facebook could get by with a little help from its friends.

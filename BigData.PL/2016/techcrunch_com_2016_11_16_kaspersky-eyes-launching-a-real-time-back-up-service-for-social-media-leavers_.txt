@@ -1,0 +1,29 @@
+Kaspersky eyes launching a real-time back-up service for social media leavers
+
+Veteran security firm Kaspersky Lab is looking at launching a real-time encrypted back-up service for social media users to store their data outside the walled garden of Facebook, Instagram, Twitter and Google+.
+
+At this point it’s testing how much appetite there might be for such a service — launchinga websitewith details of the potential app, which it’s calling FFForget, where people can sign up to express interest and provide feedback on the sorts of features they’d like to see. Any beta launch would not be before early 2017, it says.
+
+Kaspersky’s thesis is that while social media remains wildly popular there are also widespread feelings of disaffection with how social giants such as Facebook monopolize people’s time and attention, and how they lock users in by merit of holding both their friendship networks and their personal data.
+
+Kaspersky commissioned its own research on the topic, polling more than 4,800 web users across nine languages, and says it found a majority of respondents (nearly 78 percent) reported they had already considered ditching social networks. While more than one-third (39 percent) reckon they are wasting time on social networks.
+
+The poll was conducted before the current controversy about the impact on democracy ofsocial networks helping to spread misinformation online— but that could stoke further disaffection with tech platforms which algorithmically filter content to maximize user engagement and ad clicks.
+
+FFForget is envisioned as a fix for the data lock-in issue — by providing a mechanism to free users of major social networking platforms from the fear of leaving their information behind should they decide to pull the plug and close their accounts. Kaspersky found around one-fifth (21 percent) of survey respondents worry about losing things like their photos should they quit a network.
+
+A lot more respondents (62 percent) were concerned about losing contact with friends. Although, for some of these social platforms, you could argue the friendship networks in question involve a lot of weak bonds — when you consider how sprawling these sorts of quasi-public social networks tend to be, and how many users can be seen pruning connections on such services (rather than seeking to preserve every person they ever added), versus, say, the relative intimacy of mobile messaging apps.
+
+However, the public-following element of a network like Instagram is obviously also a draw for those posting content in the hopes of building an audience. As ever with social networks, it’s a case of horses for courses — and the FFForget service clearly won’t appeal to everyone.
+
+It’s worth noting that some social networks do already let users export data. Twitter, for example, has an option in settings for users to “request your archive” — which creates a downloadable file of all your tweets. However, it’s a manually triggered process that can take as long as a few days before the file is available.
+
+Facebook also lets usersdownload an archiveof their info — but, again, it’s necessary to manually request this. Whereas the FFForget’s paid subscription service would be real-time, letting a user close an account immediately, should they wish, without having to also jettison their data.
+
+The premium version of the service (envisaged costing $1.99 per month) would also offer a content browsing and organizing interface, and real-time sync API access to allow for access to a user’s social network content to third-party apps and services of their choosing — again freeing up some of their locked-in social media data for alternative uses.
+
+A freemium version is also planned, with fewer features, and what’s billed as “basic encryption” versus the premium service’s “military-grade encryption of your choice, with DES, AES, Blowfish.”
+
+A spokeswoman for Kaspersky confirmed data backed up via the freemium version would still be client-side encrypted — so there’s no intention of Kaspersky trying to data-mine users’ social networking archives. On the contrary, the service is billed as having “no tracking, no ads.”
+
+As well as positioning FFForget as a fix for social network fatigue, Kaspersky touts it as a way to safeguard social network data against an account being closed or taken over by hackers.

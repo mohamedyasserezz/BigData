@@ -1,0 +1,65 @@
+What we learned about Elon Musk’s Mars plan in his Reddit AMA
+
+Elon Musk, founder and CEO of SpaceX, hosted aReddit “Ask Me Anything”this afternoon. He noted that the AMA should focus on SpaceX’s plans for Mars, which Muskrevealedduring the International Astronautical Congress last month.
+
+This will be under /r/spacex, not the general AMA. Meant to be supplemental to the IAC talk.
+
+— Elon Musk (@elonmusk)October 23, 2016
+
+Overall, Musk mostly answered questions about SpaceX’s plan to colonize Mars and the technology required to get there.
+
+He stated that their Interplanetary Transit System (ITS) would be powerful enough to travel back to Earth after landing on Mars at any point during Earth and Mars’ orbits. This is a feature particularly useful for human missions where emergencies may arise and an immediate mission to or from Mars may be necessary for survival.
+
+Musk mentioned that one of the biggest ITS challenges they’re working on right now is finding a way to properly seal their carbon fiber tanks in the ITS booster. Building large rocket parts out of carbon fiber is relatively new, so SpaceX is currently working through tests with a carbon fiber ITS oxygen tank model.
+
+Other interesting AMA revelations are detailed below.
+
+SpaceX’s Mars Plan
+
+In a few different questions, Musk was asked more about what the SpaceX Mars plan would actually look like. He explained that the first missions to Mars would involve the SpaceX Red Dragon capsule without crew. These would be scouting missions designed to test their landing technology as well as theirin situ resource utilizationcapability.
+
+Then the ITS spaceship, otherwise known as the Heart of Gold spaceship, will fly to Mars with equipment required for a Mars-based propellant plant. Next, the first crewed mission, which will have about a dozen people, will fly to Mars to troubleshoot the propellant plant as well as the Mars Base Alpha power system.
+
+Eventually, Musk said, SpaceX plans to double the number of flights each time Mars and Earth become closest to each other, which happens every 26 months. This synodic period between Mars and Earth actually becomes a challenge when you consider that it may notalwaysbe convenient to travel between these planets during this window.
+
+For risk-averse agencies like NASA, this small window is restrictive and a bit scary. What if you have an emergency on Mars a month after you land and need to return to Earth?
+
+Well, one Reddit user pointed out that the SpaceX ITS system appeared to have enough power to make those types of emergency missions, if necessary. The user asked if the ITS spaceship could “be used to fly between Mars and Earth even outside the launch windows enforced by the synodic period, when payload mass is not a primary factor? It could be used for emergency purposes such as medical supplies/instruments and experts, or for other high priority but low mass cargo like critical replacements.”
+
+Musk replied with a simple “yes.”
+
+Musk also reaffirmed what many in the Reddit communityalready pointed out, which was that SpaceX’s carbon fiber oxygen tank for ITS was really the star of his IAC presentation. Making large parts out of carbon fiber is a very challenging thing to do, so the fact that SpaceX seems to have already built a full-size carbon fiber tank for their ITS was a pretty big deal.
+
+“Yeah, for those that know their stuff, that was really the big news :) The flight tank will actually be slightly longer than the development tank shown, but the same diameter. That was built with latest and greatest carbon fiber prepreg. In theory, it should hold cryogenic propellant without leaking and without a sealing linker. Early tests are promising.” Elon Musk, CEO of SpaceX
+
+Mars Bound Technology
+
+Interplanetary Transit System (ITS)
+
+SpaceX’s Interplanetary Transit System consists of a booster, and a spaceship.
+
+When it comes to the robustness of ITS, Musk noted that the ITS spaceship could handle peak loads of 10 to 15 g’s without breaking up. He went on to say that the ITS booster would work nominally under 20 g’s but might be able to handle 30 to 40 g’s without breaking up. For reference, a nominal reentry for the Space Shuttle went through a max of about 3 g’s during launch or reentry.
+
+ITS Booster
+
+One Reddit user pointed out that the ITS booster can hover and asked if SpaceX ever planned to use that capability. Musk said that it wasn’t likely.
+
+“A high acceleration landing is a lot more efficient, so there wouldn’t be any hovering unless it encountered a problem or unexpected wind conditions. A rocket that lands slowly is wasting a lot of fuel.” Elon Musk, CEO of SpaceX
+
+ITS Spaceship
+
+When asked what the interior of the spaceship will look like, Musk said that they plan to release live mockups of the spaceship in a year or two.
+
+Raptor Engine
+
+When asked about the major challenges that need to be overcome for his Mars plan to be successful, Musk said that the biggest challenge originally was finding the right material to make the ITS engine out of.
+
+“It used to be developing a new metal alloy that is extremely resistant to oxidation for the hot oxygen-rich turbopump, which is operating at insane pressure to feed a 300 bar main chamber. Anything that can burn, will burn. We seem to have that under control, as the Raptor turbopump didn’t show erosion in the test firings, but there is still room for optimization.” Elon Musk, CEO of SpaceX
+
+Now, he said, the biggest challenge is to seal their carbon fiber tanks (located in the ITS booster) properly.
+
+“Biggest question right now is sealing the carbon fiber tanks against cryo propellant with hot autogenous pressurization. The oxygen tank also has an oxidation risk problem as it is pressurized with pure, hot oxygen. Will almost certainly need to apply an inert layer of some kind.” Elon Musk, CEO of SpaceX
+
+Falcon 9 Reusability
+
+And on a non-Mars topic, Musk was asked about the reusability of the Falcon 9 rockets currently flying. He stated “I think the F9 boosters could be used almost indefinitely, so long as there is scheduled maintenance and careful inspections.” He emphasized that the current Falcon 9 rockets in production would be retired soon and that their next version would be designed for easy reuse. The new Falcon 9, which he calls “Falcon 9 Block 5” – the fifth and final version in the Falcon series, is scheduled to have its first flight in six to eight months.

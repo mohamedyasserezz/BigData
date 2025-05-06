@@ -1,0 +1,15 @@
+Twitter cuts Dataminr access for law enforcement fusion centers
+
+Facing pressure from theAmerican Civil Liberties Union, Twitter announced that it will limit the data access it formerly provided to domestic surveillance hubs. Twitter’slongstanding policyhas been to prohibit the use of its data for surveillance, but a social media monitoring firm it partially owns, Dataminr, has repeatedly taken government contracts that give local and federal law enforcement unfettered access to news alerts based on Twitter’s raw data.
+
+The ACLU discovered Dataminr’s work with fusion centers throughpublic records requests, and Twitter responded in aletterthis week that it would instruct Dataminr to cut off access for all77 fusion centersin the United States. Fusion centers contracted with Dataminr “could search billions of real-time and historical public tweets and then potentially share information with the federal government,” said Nicole Ozer, technology and civil liberties policy director at the ACLU of California.
+
+Dataminr disputes Ozer’s point about access to historical tweets, claiming it never gave “direct firehose access” of historical archives of tweets or bulk Twitter data to any clients. Dataminr says it uses Twitter’s wealth of data to craft breaking news alerts, but does not share the “firehose” data with any of its customers.
+
+Twitter said Dataminr has refined its product over the last year to focus more on breaking news alerts for media companies and first responders, while Dataminr says breaking news has been its core offering all along. Experiments with geospatial analysis, such as the one the ACLU uncovered, have been abandoned according to the company.
+
+“Together, we have worked towards a focused Dataminr breaking news alert product for the purpose of first responders learning about news and events as early as possible. We see public benefit in a targeted Dataminr alerts product of this kind,” Colin Crowell, Twitter’s vice president of global public policy, wrote.
+
+Dataminr said in a statement that it is working with Twitter to protect privacy and civil liberties, and it will still offer a limited version of its product to law enforcement for use in first response.
+
+“We offer a limited version of our product, which provides tailored breaking news alerts based on public Tweets, to those supporting the mission of first response. Datatminr’s product does not provide any government customers with their own direct firehose access or features to export data; the ability to search raw historical Tweet archives or to target or profile users; conduct geospatial analysis; or any form of surveillance,” a Dataminr spokesperson said.

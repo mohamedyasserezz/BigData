@@ -1,0 +1,25 @@
+“Breaking Good” by teaching kids to hack at R00tz Asylum
+
+The news of the DNC emailhackhas put the issue of securing the US election systems against foreign attacks andboostingthe resilience of national critical infrastructurefrontandcenter. It has also raised thestakesfor solving theshortageof cyber security professionals that can actually address these risks.
+
+One way to widen the cyber talentpipelineis to start education early, very early in fact.
+
+Today, most kids are avid technology users, spending countless hours on their devices, creating content and sharing deeply personal data — photos, networks and locations. Yet, very few have looked inside of a computer or had a chance to reverse-engineer an app to understand how it can be broken into, compromising its users.
+
+r00tz Asylum, the longest running kids hacker conference taking place at the heart ofDEF CON, has steadily grown to become one of the largestspacesfor kids to explore cyber security, cryptography, hardware hacking among many other topics. r00tzhas consistently been one of the most diverse programs in information security where girls and boys are equally supported to explore ethical hacking.
+
+Although hacking is yet to overcome its bad rap among the general public, r00tz kids seem to be immune to its influence,embracingtheir newly acquired skills as superpowers that come with great ethical responsibility. When they learn how easily the air traffic control systems can be compromised, they think of it as a personal security issue that may affect their families flying home from Las Vegas — something they now know can be solved with strong encryption and authentication protocols.
+
+For younghackersthat come to DEF CON every year, it requires no proof that without understanding how to break a system and then put it back together, it is impossible to make the tech they love and use more secure and resilient. Learning how to identify the weak points across web servers and break into designated websites teaches r00tz kids playing at this year’s pentester workstation to detect the attackers and understand their game.
+
+Given how complex and interdependent the technology space that today’s kids will inherit has become, the r00tz mission is rather focused on instilling a hacker mindset than teaching a specific set of skills. And more than anything, the hacker mindset is about having the freedom to innovate and break things to understand how they work and how they can be made better.
+
+Tellingly, two of the longest lines were for the junkyard and soldering stations where kids could break computers apart to see a motherboard for the first time and then (maybe) put them back together. As one of the r00tz kids explained: “When we see a computer, we normally just see a box that works. But exploring what is inside was actually super empowering. Normally, we are never given a chance to break stuff without consequences. But that’s what helped me understand how the technology I use all the time actually works.”
+
+Another r00tz hacker perceptively quipped: “Many kids at school don’t understand that the apps they use a million times a day are created by coders. They think it is just magically there”. Indeed, it is much easier for kids to see themselves as creators rather than only consumers of technology when they have an idea of what is under the hood of a karaoke or a photo-sharing app.
+
+Over the past 6 years, r00tz kids havelearnedfrom world-renownedhackerswho openly share their “war stories” because they stronglybelieveit doesn’t benefit the global community ifonly a handful of peoplehave critical knowledge. This year, almost half ofr00tz speakerswere kids – form 9-year-old Emmett sharing his experience of setting up Capture the Flag to 16-year-old GajetGirl talking about 3D printing.
+
+Speaking at the end of this year’s r00tz, the legendaryDan Kaminskychallenged the kids to “go ahead, break stuff, that is how I got to where I am … Understand how it really works, understand how it really breaks. But also understand that your job doesn’t stop there. We have the Net to protect — you are going to be in a position to make things better.”
+
+Many of the r00tz kids are eager to do justthat.

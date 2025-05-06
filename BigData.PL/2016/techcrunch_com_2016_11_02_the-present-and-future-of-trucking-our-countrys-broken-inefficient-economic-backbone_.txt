@@ -1,0 +1,57 @@
+The present and future of trucking, our country’s broken, inefficient economic backbone
+
+The trucking industry is enormous and vital. it remains the primary way we move goods and touches the lives of nearly the entire American population.
+
+Trucking is the physical backbone of e-commerce, and person-to-person shipments. In the US alone, spending on overland logistics reached over $700 billion last year. At least $600 billion of that is FTL (full truckload), roughly half of which is private carriers and half of which is brokered freight.
+
+The rest of the market is comprised of “parcel” shipping at $49 billion, LTL (less than truckload) at $35 billion, and Air at $28 billion, making trucking one of the largest single industries in the country. According to the last US census, truck driving is the most common job in America. The map below outlines the most common jobs in each state in 2014.
+
+The industry is broken down into three key roles. Understanding them will help highlight the inefficiencies and opportunity:
+
+Shippers (the demand): These are the companies who need their products moved – from small manufacturers all the way up to large brands like Nike, Nordstrom, Ralph’s, etc.  In total, there are 1.7 million establishments in manufacturing, wholesale, and retail. They demand 400 million class 8 shipments per year in the US alone (18 wheeler trucks/trailers).
+
+Carriers (the supply):These are the fleets and the independent truck drivers. There are 3 million drivers for 2.5 million class 8 trucks in the US. This sounds like a surplus of drivers, but there is actually a shortage of drivers because the trucks need to be operating almost 24/7 to keep up with demand. This shortage is in part a product of the fact that younger generations are not finding trucker jobs as attractive as the baby boomers did. Most drivers and trucks are associated with one of the 532,000 carriers in America.
+
+This shortage is in part a product of the fact that younger generations are not finding trucking jobs as attractive as the baby boomers did.  And most drivers and trucks are associated with one of the 532,000 carriers in America.
+
+However, the carrier market is extremely fragmented:  90% of carriers have fewer than 6 trucks in their fleet and 50% of carriers are owner/operators.
+
+Brokers: There are about 13,000 freight brokers in this country, who act as intermediaries between shippers and carriers. Brokers maintain their success because of the fragmentation of the shipping and carrying industries. They act as the intermediary between the supply and demand to ensure products are moved when they need to be and the right drivers are assigned to the right loads. Brokers typically take a 15-20% commission (over $300) on each load, and collectively do $150 billion a year in revenue for booking and managing loads end to end.
+
+There are a lot of factors that go into this management and almost all involve human to human interactions. Freight brokerage is the most fragmented part of the trucking industry with the top 20 brokers accounting for less than 4% of total revenue.
+
+Since drivers often have to wait weeks to receive payment for their work and most live paycheck to paycheck, brokers often engage in “factoring,” in which they will pay the driver on the spot for an extra 3-5% clip of their pay. This exploitative practice is known as “QuickPay”, and it is highly leveraged against the truck drivers.
+
+Note: Some large shippers employ their own private fleets but still use brokers/carriers to fill in the gaps.
+
+Shippers, Brokers, and Carriers all suffer from extreme lack of modern technology. The entire industry is run on archaic 15+ year old software, almost no data is captured, and none of the software systems can communicate with each other.
+
+The main way the three major forces communicate is via human interaction. Not that surprisingly, 67% of shippers don’t use any software at all (they still rely on paper records).
+
+Carriers suffer the most from this medievally inefficient state of affairs. Drivers often sit idle, waiting hours for pick-ups and even driving routes with no loads – if their firm is beaten out by another carrier for a local shipping order (28% of private fleet trucks are driving empty). There are entrepreneurs building businesses around optimizing the LTL (less than truckload) space, but the LTL market represents less than 5% of the industry with its $35bn in spend.
+
+They are also facing early problems with adoption; Cargomatic recentlylaid off 50%of its staff, for instance.
+
+Brokers have seen the most innovation but it is still only a slight improvement over legacy software. Hours are still wasted on waiting for quotes and booking trucks. The only way to locate drivers is still by calling them and asking which also makes it extremely hard to filter for quality and enables a lot of fraud. An average broker books 3-4 shipments per day.
+
+This manual process results not only in wasted time but sub-optimal pricing and routes for shippers and carriers. There have been a few companies, like Coyote Logistics, which have developed in-house solutions to “optimize” their firm.
+
+Coyote sold for $1.8 billion to UPSlast year and the only competitive advantage was that they ran on marginally better software (think UX/UI improvements). This enabled them to attract the best people and create a dominant sales force amongst the brokerages. As part of oursmart enterprise thesis, we see logistics brokerage firms integrating software that replaces up to 90% of human-run, time-intensive processes – simultaneously stripping down on wait times for trucking operations.
+
+Fortunately, the technology community has taken notice of the massive opportunity in this space. There has been a 90% increase in venture capital put to work in this space since 2013, totaling to over $400 million ($71 million in 2015 alone).
+
+Companies have focused on optimizing specific verticals of the industry—shippers, carriers, and brokers. Once a winner emerges in each respective field, they will eventually seek the holy grail of owning the horizontal software layer that facilitates communication across the entire industry (even down to interfacing with warehouse software).
+
+We have met with teams that are building companies to do everything from asset tracking to electronic document management; shipment management and optimization to analytics for brokers and shippers; tracking and fleet management (both GPS hardware and software) to messaging and of course payments.
+
+It will be very interesting to see if these companies band together and share data to improve the industry overall; or fight it out to become the first unified software for all parties. Fortunately, with a market this enormous, there can be a number of big winners.
+
+Startup companies should be focused on building products that capture large data sets and have a strong network effect. If they do this and partner with leading industry players, they can scale toward massive adoption much quicker.
+
+Think about how many people in the ecosystem each shipper, driver, and broker comes into contact with! The first few deals will be the hardest to close but can lead to enormous amounts of growth if positioned correctly. This industry is known for being old, stodgy, and hard to penetrate, so it is key that the initial product can coincide with the current software to make adoption frictionless.
+
+Note: You are already seeing Platooning, which needs v2v communication.  The 1sttruck saves 2% of fuel, 2ndtruck saves 12% of fuel and 3rdtruck saves 9%.
+
+If we keep relentlessly innovating, this industry will be on its head in 10 years. The highly fragmented overland logistics markets will end up crystallizing around core software services which unify discrete elements of the shipping process. We expect that conglomerate/large operations will emerge in the trucking industry, horizontally integrating across the status quo of small firms, and vertically integrating brokerage and carrier services.
+
+Brokerages will be replaced almost entirely by software and sync harmoniously with the shippers’ TMS. There will be no more load board, paper documents, or empty routes. The $26bn wasted last year on idle trucks can fuel more R+D for engine efficiency. Trucking will become semi-autonomous (a group of semi-autonomous trucks actually just drove across Europe). In addition, Uber recently acquired Otto to develop its self-driving car program. Overall, the logistics industry is positioned to pare down as it becomes faster, cheaper, and more streamlined.

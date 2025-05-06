@@ -1,0 +1,29 @@
+Some Android users can now make video calls on WhatsApp
+
+WhatsApp’s impending support for video calling appears to be closer to launch. According to new reports, the feature is now functional in some of the beta builds of the Android application, following its recent arrival in the Windows Phone version of the Facebook-owned messaging app. The iOS app was also updated just last week, but video calling support was not included at that time.
+
+The arrival of video calling on Android was first spotted by the blogAndroid Police, which found that some users on the beta builds of the application were able to access video calling through an updated app interface.
+
+For those on a version of WhatsApp which includes video calling support, you’re able to tap the call button or tap on a contact card to kick off a video call. In this case, a new dialog box will appear, offering the choice between a standard voice call and a video call. In addition, the call log will show which calls were made via video by annotating them with the camera icon, instead of the telephone icon.
+
+However, there isn’t yet a way to call other WhatsApp users who don’t also have video calling support. If you try to, WhatsApp defaults to a voice call.
+
+Android isn’t the only platform where video calling has been switched on. Last week,some users on the WhatsApp beta for Windows Phonewere also surprised to find that the feature was now functional. And in this case, it didn’t require an app update – indicating a server-side change could enable it.
+
+In the Windows Phone beta, video calls worked the same as on Android. When you tapped the call button, you could pick between voice and video. During calls, you can also mute the call or switch cameras, early adopters noted.
+
+Before you get too excited, let’s remember that this is not the first time Android users were randomly able to use video calling.A beta build released in Mayhad turned this option on then, but WhatsApp later removed it.
+
+That being said, WhatsApp in the past has trialled big updates to its apps in a similar fashion. For example, it was a couple of months before voice callingwent from testing on Androidto being publicly available on the platform, and then another month beforeit went live on iOS.
+
+What is interesting is that it’s taken this long to bring the feature to WhatsApp’s1 billion users, given the messaging service now has access to resources and the technical know-how from parent company Facebook, whichswitched on free, VOIP video calls in April 2015.
+
+In any event, the timing is ripe for a video calling launch on WhatsApp, assuming it wants to remain competitive. Failing to get this feature out the door could leave room fornewcomer Google Duoto gain traction with smartphone users, as video calling grows in popularity.
+
+Unlike Apple’s FaceTime, Duo works across both iOS and Android, but doesn’t offer much in terms of frills, like group calling or video effects. Google also weirdly split up text and video into separate apps,DuoandAllo, instead of combining them into a single, more functional app.
+
+Reached for comment, WhatsApp declined to offer insights into its plans for video calling, saying only that “we do not comment on future product plans or beta releases of WhatsApp.”
+
+Update: some are seeing on iOS –
+
+https://twitter.com/amdou/status/790975086195052544Image credits: call screens,Android Police;OneWindows.es

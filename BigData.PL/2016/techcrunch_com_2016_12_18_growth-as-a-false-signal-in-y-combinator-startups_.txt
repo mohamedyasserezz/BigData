@@ -1,0 +1,37 @@
+Growth as a false signal in Y Combinator startups
+
+One has to appreciate how Paul Graham built Y Combinator into the world’s flagship accelerator and handed it off to others to continue its impressive run at the top of the heap. In fact, I have yet to meet a founder who regrets joining the program.
+
+But after stepping away from the YC scene for five years* and then returning to observe the last two demo days, I now wonder if some of the views Paul shared in his original, widely readEssaysare being taken to absurd extremes. The evolution of his take on startupgrowthserves as an excellent example.
+
+Paul says in short that “a good growth rate during YC is 5-7% a week” and that “the best thing to measure the growth rate of is revenue.” He goes on to explain that successful startups follow an “S-curve.” Founders hope to have exited an initial period of slow growth by demo day, showing that they’re just starting to climb the steep slope of that curve. If all goes well, growth will not slow down until their company matures years later.
+
+Indeed, the conventional line of thinking now appears to be that a member of this “5% Club” is in great shape and that everything else should just fall in line. So many founders do everything they can to show that they’ve achieved this milestone by their demo day. This is not just the case with Y Combinator startups of course; it has become a common ritual across accelerator programs everywhere.
+
+Revenue growth has become, in essence, the presumed divining rod of a startup’s success. Much as farmers have used forked sticks over the ages to identify the location of water under their properties, investors are using early revenue growth to identify which fledgling startups will become the long-term winners. And this is despite theexplicit effortsof Sam Altman and others at Y Combinator to caution against a “growth at all costs” approach.
+
+This increasingly heavy focus at demo day on growth, and growth alone, by investors and founders alike, has become absurd and unrealistic. It results in a false signal that will lead to disappointment and investment losses more often than not. Perhaps a look at what the actual revenue growth numbers look like will help everyone realize the magnitude of this absurdity.
+
+Let’s take a look at the exact revenue growth Y Combinator startups claimed at the most recent demo day in August. We ran the numbers on the 22 companies** in the group that shared their revenue and revenue growth metrics.
+
+These companies reported month-over-month revenue growth rates ranging from 6-200 percent. The average was 60 percent and the median was 41 percent. Six companies reported at least a doubling of their revenues each month.
+
+If we applied the companies’ monthly growth rates to their reported revenue, then after just one year the 22 companies would be generating about $21 billion in combined monthly revenue, or $963 million monthly revenue per company.
+
+If we annualized revenue for each company on the twelfth month after demo day, then annualized revenue per company would vary from $1 million to $159 billion. Of the 22 companies, 14 would have over $100 million in annualized revenue, and three of them would be generating more than $30 billion each, making them the 6th (besting CVS), 33rd (besting Procter & Gamble) and 91st (besting Nike) largest companies in the country, respectively.
+
+There is quite possibly another Airbnb or Dropbox in this Y Combinator class that will grow into a unicorn, but the overall results of the class will end up very far from the numbers above.
+
+Investors should realize that high growth rates over such a short window in the early days of a startup by no means indicate that it’s on track for unicorn status, or anywhere close for that matter. The paradox is that companies with long track records of growth do not typically join Y Combinator in the first place. They take their product-market fit and resulting revenue growth and run with it — all the way down Sand Hill Road.
+
+By all means, if a company does have sustainable growth under its belt, then the founders should promote that. They should promote the hell out of it, in fact. Investors simply need to be confident that any reported growth is authentic and did not arise from startup “slights of hand,” such as launch articles in the media, the opening of a waiting list or a one-time social influencer blitz.
+
+But more importantly, investors should recognize that most Y Combinator companies are still figuring out their businesses by demo day. They are not ready to push hard on growth just yet.  This period of exploration should be expected and embraced.
+
+As investors, we should be focused on whether a company has impressive engagement and retention metrics. We should examine its early unit economics closely. We should see if its users absolutely love the product. If these foundational elements are in place, I for one am usually willing to bet that growth will come, and that it will come sooner rather than later.
+
+*I attended most of the early Y Combinator demo days, resulting in Tandem’s investments in companies such as PagerDuty, Flightcaster and ZumoDrive. However, when the round sizes of the companies became too large and the valuations too high to support Tandem’s then pre-seed model of investing, I tapped out. When Tandem started doing traditional seed investments of $1 million-plus earlier this year, I started attending the demo days again, and we backed one company in each of the last two cohorts (Deako and Sixa).
+
+**All company names have been anonymized. Two companies reported only GMV and GMV growth. To extract revenue from these numbers we assumed a 15 percent transaction fee.
+
+Nick Mayberry, director of content at Tandem Capital, contributed to this article.

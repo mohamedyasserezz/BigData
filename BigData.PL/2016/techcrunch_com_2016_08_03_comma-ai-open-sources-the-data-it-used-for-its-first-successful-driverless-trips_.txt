@@ -1,0 +1,23 @@
+Comma.ai open-sources the data it used for its first successful driverless trips
+
+Comma.ai, the startup that George Hotz (aka Geohotz) founded to show that making driverless vehicles could done relatively cheaply using off-the-shelf components and existing vehicles, hasopen-sourced a dataset of 7.25 hours of highway driving.
+
+It might not seem like a lot, but in terms of comparative datasets for highway driving out there, it is. And it’s what Hotz used to build the initial successful self-driving demo used toferry Bloomberg around for comma.ai’s big public debut.
+
+“When I started this project, I didn’t want to have to put things in cars – I just wanted to play with the machine learning,” explained Hotz in an interview. “But I looked around and there was no good source of data to do that.”
+
+Hotz points to theKITTI datasetand themore extensive and recent Oxford RobotCar datasetas a couple of sources, but these involved urban driving tests. Hotz was after a highway driving data source.
+
+“There is not a good highway dataset to replicate what we had in Bloomberg and what we had in Nvidia, and I think it’s time that the whole world should be able to do this,” Hotz explained.
+
+This doesn’t mean just anyone can take comma.ai’s data and turn their 1998 Ford Tempo into a self-driving superstar – but it’s a starting point. Comma.ai did not open source what they’re using to drive their test car, and the dataset represents where the company was at in terms of total data as of around six months ago; the company has obviously gathered more in the intervening time.
+
+“I believe in being as open as possible without killing the host organism; we make sure we keep the company alive to open source more stuff,” Hotz told me about comma.ai’s approach to making their sets available to the general public. “There were a lot of missteps along the way to get this sort of data – no one needs to repeat them.”
+
+Hotz emphasized that what comma.ai wants to do by open-sourcing data sets like this one is to enable the hobbyist community to accomplish more without having to do fairly basic, but time-consuming and resource-intensive work of collecting basic driving data for use in training machine learning systems. He points toDeepDrive, a self-driving car system which uses neural nets to drive virtual cars in Grand Theft Auto V as a prime example of the kinds of people they’re looking to help.
+
+Helping hobbyists means building a talent pipeline, too: comma.ai can watch what people are doing with the data they open source, and bring in-house the brightest lights among that community.
+
+“The other reason that we release things like this open source is that we’re incredibly confident that we have figured out what we’re going to ship, and our path to winning the positive feedback loop that is self-driving cars is there. And let’s pull some people up behind us, too.”
+
+Ultimately, Hotz says, the comma.ai philosophy is simple – tell people exactly what they’re doing, but remain confident in the startup’s ability to do it faster, smarter and cheaper.

@@ -1,0 +1,51 @@
+Silent Circle’s Blackphone revealed as a sales flop
+
+Encrypted comms company Silent Circle is being sued by its former joint venture hardware partner, Geeksphone, for not paying part of a previous agreed sale price for buying out the latter’s share in the joint venture — and lurking at the heart of the dispute are flopped sales of the Blackphone smartphone the pair developed.
+
+Court documents, obtained byForbes, lay out the dispute between the two former partners in detail, with Geeksphone suing over an unpaid $5 million payment that had previously been agreed as part of the $30 million sale. The payment was due in April.
+
+The pair entered into a joint venture to develop the security and privacy-focused Android based Blackphone back inJanuary 2014, before Silent Circle went on to buy out Geeksphone’s half of the JVa year later. A second device, theBlackphone 2, was launched in September 2015.
+
+The court documents, including exchanges of lawyers letters, reveal Silent Circle has been struggling to build momentum with the Blackphone hardware business after several distributor agreements did not pan out as expected, saddling the company with debt.
+
+Silent Circle had expected orders for 250,000 Blackphones from three distributor agreements it thought it had secured, including with Dubai-based BigOn Telecommunications and Kumion in South Korea — but both those deals fell through. In the other instance expected sales of 100,000 Blackphones to America Movil resulted in orders for just 6,000 phones.
+
+In a letter to Geeksphone dated March 2016, to propose debt restructuring of the $5M payment, Silent Circle’s general counsel Matt Neiderman writes: “The hardware business has proved to be a significant financial drain for Silent Circle. Because of the large purchase orders that proved to be bogus, Silent Circle borrowed money to purchase inventory and parts ahead so that it would be able to deliver devices to meet the demand it believed it had, and focused most of its resources on preparing for the launch, marketing and sale of the Blackphone 2.
+
+“However with sales lagging far behind even the most conservative estimates, Silent Circle has been forced to attempt to raise additional operating capital so that it can refocus its efforts on its software business and absorb the losses from the hardware operations.”
+
+The letter goes on to detail a previously undisclosed $20 million Series C round of funding that Silent Circle was aiming to secure in February of this year — but with their lead investor imposing conditions that it have a path to being cash-flow positive in the next four quarters and a balance sheet free of secured debt.
+
+For this reason Neiderman was writing to Geeksphone to restructure the $5M debt. He notes the company had hoped to raise an additional $20 million to pay down some of its debt but was unable to secure that additional investment. At that time he offered Geeksphone several options to restructure the debt, including a reduced sum of $1 million to pay it off in full — but evidently the Spanish company rejected the terms.
+
+In the court documents Silent Circle states that its failure to raise an additional $20M caused it to have to revise its business plan “dramatically” to cut costs — forcing it to terminate “dozens” of employees and reduce operating costs by around half. Renegotiating its debts was thus a priority.
+
+In a subsequent letter from Silent Circle to Geeksphone, dated May 2016, Neiderman takes a more aggressive tack with the former partner, asserting that Silent Circle would not be paying the debt and claiming Geeksphone had failed to make agreed “specific capital contributions” to the JV to warrant its 50 per cent stake in the business — including “sweat equity” to develop the initial OS for the device, plus “know-how and access to distribution and sales networks” to help sell the smartphone.
+
+He goes on to claim that Geeksphone’s actions led to increased costs and inefficiencies for the JV, and alleges they were also partially responsible for the sales team of the joint entities building unrealistic sales forecasts for 2015 of more than $750 million in revenue — the actual figure turned out to be less than $10 million.
+
+“[I]t was based in large part on these inflated sales figures and corresponding valuations that Geeksphone induced Silent Circle to pay it $30 million,” he adds.
+
+Neiderman then sets out a wider accusations that Geeksphone was in fact facing insolvency of its own business at the time it entered into the JV, offloading its costs onto the other company and not being in a position to contribute its agreed half of capital contributions to the venture — noting that soon after selling its half of the JVGeeksphone wound up its smartphone businessto focus on selling “specialized wearables”.
+
+At the time it announced its exit from the smartphone market, Geeksphone said the mobile ecosystem had moved on and its founding concept of serving a niche geek community was no longer a viable way to differentiate a mobile handset business. Its total smartphone sales were never disclosed. Over its five+ years of operation the startup released a total of six handsets, and only referred to selling “several thousand terminals” in all.
+
+The court documents also reveal Silent Circle’s dissatisfaction with the initial Blackphone hardware — another blame it’s laying at Geeksphone’s door.
+
+“SGP badly overpaid for the device and adopted a processor platform that was inherently flawed for an enterprise-focused device and had to be changed for the Blackphone 2. With poor specifications, underperforming but overpriced hardware and no guidance from Geeksphone into the distribution of the device, the Blackphone 1. proved to be a major financial failure, costing millions of dollars, all funded by Silent Circle,” writes Neiderman.
+
+Despite its failure to build significant traction with a hardware business, Silent Circle is still apparently considering making a Blackphone 3, and is looking at ways to reduce manufacturing costs.
+
+On this, Vic Hyder, its chief strategy officer, toldForbes: “What we’re looking forward towards is to alleviate that financial pressure on us, do it maybe with a partner and then go forward with making a Blackphone 3 in a way that’s more competitive.”
+
+Hyder also said Silent Circle will not be filing for bankruptcy. And confirmed the company has cut 20 to 25 of its 120 staff this year. Wages have also been reduced for some staff, he said.
+
+Two of the joint venture co-founders have departed the company in recent months — with both veteran crypto expert Jon Callas leaving to go to Apple, and former Geeksphone co-founder Javier Agüera, who became chief scientist of devices at Silent Circle, moving on to pastures new.
+
+The turmoil at the company perhaps best explains another bit of news that emerged recently, namely itsfailure to maintain a warrant canary— which Neiderman told TechCrunch was a “business decision”, rather than the result of it receiving any warrants.
+
+Given how low Blackphone sales have evidently been it is perhaps rather more credible that the company might not have received any warrants.
+
+TechCrunch understands there had been discussion within the company about publicly explaining its decision to terminate the warrant canary via a blog post. In the event the canary was silently discontinued — leading to speculation about user data being compromised.
+
+Neiderman declined to comment in detail on the lawsuit when asked about it by TechCrunch earlier week, saying only: “We find the claims made by our former partner both unfortunate and legally and factually misguided. As you know, we are working with outside attorneys in New York in responding. As you’d expect, we can’t discuss pending litigation, but we are opposing the New York action and expect that it will be resolved in our favor.”

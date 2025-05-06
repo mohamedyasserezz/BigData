@@ -1,0 +1,19 @@
+ZAP brings the manufacturing process to the cloud
+
+“Today it takes two to five years to get a factory to produce a car,” begins John Dogru. “A product’s timing to market is everything, and there’s a lot of latency. How do we, for the first time in history, go from the design to product instantly?”
+
+Rapid prototyping technologies like 3D printing have long dangled the promise of speeding up the lengthy manufacturing process (it’s right there in the name), but each still present their share of bottlenecks, including a number of proprietary system roadblocks that make it difficult for designers to move between different machines.
+
+Dogru’s company3DPrinterOSaims to streamline process. In its first incarnation as “the world’s first operating system for 3D printers,” the company moved workflow to the cloud, offering up a browser-based software solution that allows people to upload their CAD (computer aided design) files, format them in real time and print them through connected machines. “Manufacturing is one of the last things that hasn’t moved to the cloud,” he adds. “It’s basically still where computers were, 30, 40 years ago.”
+
+The company has already rolled out a pilot program to Duke University, helping hardware startups springing out of the university prototype their products with minimal friction. With the launch of ZAP, the company will extend its reach beyond 3D printing to other connected manufacturing machines like water jets, laser cutters, CNC machines and even robotic arms. The cloud platform operates on the simple premise that all of the machines utilize the same basic X, Y, Z coordinate system, so sending and executing files should be a fairly straightforward process.
+
+“All of these robots run on a three-dimensional system,” explains Dogru. “Why do we have different software for each of these things? Why can’t a designer just communicate his design with the machine.” ZAP’s interface is pretty straightforward. Once a file is entered into the system, users can chose their machine from a drop-down menu of dozens of different options.
+
+The system will layer the design on top of a three-dimension field that represents the manufacturing bed. It will also alert the user to the technical limitations of the system. Once the model is laid out, the user sends it to a connected machine (which appears in the interface as a live video feed) and starts the manufacturing process.
+
+“ZAP is taking this entire workflow, all your machines, designs and workflows real time into one platform so companies can get through prototyping and rapid manufacturing process faster, with zero latency,” says Dogru. “Connecting all your designers with ideas, directly with machines and as companies start to scale globally with R&D facilities world wide, they need to move this process into the cloud to save huge time, resources and ability drastically reduce time to market. “
+
+The CEO sees the usefulness of ZAP’s cloud-based manufacturing platform extending greatly as 3D-printing technology transitions from solely a prototyping technology to an essential part of manufacturing. “ As these machines come down in costs, it becomes the way things will be manufactured in the future,” says Dogru. “Designers can go straight into production without having to change the factory setup. Customers can make instant revisions without stopping production. This is why Adidas and Nike are building 3D factories, that can be changed on the fly. We are helping in this transition.”
+
+And if the ZAP model proves successful, it could be quite lucrative for Dogru’s company, with $200,000 per license for companies utilizing the platform.

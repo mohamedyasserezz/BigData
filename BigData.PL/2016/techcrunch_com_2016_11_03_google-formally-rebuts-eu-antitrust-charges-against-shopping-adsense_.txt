@@ -1,0 +1,43 @@
+Google formally rebuts EU antitrust charges against Shopping, AdSense
+
+Google has now formally responded to two antitrust charges brought against it by Europe’s Competition Commission, rebutting charges of exploiting the popularity of its search engine to boost its price comparison service, Google Shopping, and its ad placement service, AdSense.
+
+The company has yet to respond to a third EU antitrust complaint — regarding complaints that it uses its Android mobile OS as a ‘trojan horse’ to promote its own products and services at the expense of rivals’ — but in ablog postoutlining its response in the Shopping case the company’s SVP and general counsel, Kent Walker, said it will be responding to the Android Statement of Objections “in the days to come”.
+
+In a statement provided to TechCrunch on Shopping and AdSense, a Google spokesperson said: “We remain confident that these claims lack evidence and are wrong on the facts, the law, and the economics. The surest signs of dynamic competition in any market are low prices, abundant choices, and constant innovation — and that’s a great description of shopping on the internet today.”
+
+A spokesperson for the EC confirmed it has received Google responses.“In each case, we will carefully consider Google’s response before taking any decision on how to proceed and cannot at this stage prejudge the final outcome of the investigation,” the spokesperson added. The company had been givenseveral extensionsto Commission deadlines for responses.
+
+Europe’s investigation into complaints about Google Shopping has dragged on for some six years at this point, although the Commission only issued a formal Statement of Objections (SO) inApril 2015, extending that inJuly this yearwith further objections, when it also issued objections against AdSense.
+
+“We have further strengthened our case that Google has unduly favoured its own comparison shopping service in its general search result pages,” said competition commissioner Margrethe Vestager in July. “It means consumers may not see the most relevant results to their search queries. We have also raised concerns that Google has hindered competition by limiting the ability of its competitors to place search adverts on third party websites, which stifles consumer choice and innovation.”
+
+Writing about the Shopping charges today, Walker makes a case that the online shopping landscape has evolved significantly in the past decade — arguing this is why certain price comparison services are no longer ranked so highly in search results.
+
+In aninternal memo to staffback in 2015, he had described the EU’s Statement of Objections as an opportunity for Google “to tell our side of the story”.
+
+“As the market changes, there are inevitably shifts among competitors. The data show that the handful of price comparison sites who’ve filed competition complaints don’t reflect the wider marketplace,” he argues today. “There are hundreds of shopping comparison sites and over the past ten years, some gained traffic, others lost traffic. Some exited the market, others entered. This kind of dynamic competition is undeniable. Online advertising is evolving rapidly, with companies like Facebook, Pinterest, and many others re-inventing what it means to connect merchants with consumers.”
+
+“There is simply no meaningful correlation between the evolution of our search services and the performance of price comparison sites. Meanwhile, over those same ten years, a rapidly increasing amount of traffic flowed from our search pages to popular sites like Amazon and eBay as they expanded in Europe, hardly a sign of our ‘favouring’ our own ads,” he adds.
+
+The popularity of ecommerce giant Amazon for online shopping is evidently a key plank of Google’s defense against the Shopping charges, with the company dubbing Amazon “by far the largest player on the field”.
+
+Walker also argues that consumers “can and do click anywhere and navigate to any site they choose”, and that search engines, price comparison sites, merchant platforms, and merchants all compete with each other in online shopping — making online shopping a highly dynamic and growing playfield, as he describes it.
+
+“In the year-and-a-half since the Commission’s original filing, we’ve seen even more data confirming this. For example, arecent studyshows that for many German online shoppers, Amazon is the first port of call on the web. A third of online consumers first go to Amazon, irrespective of where they ultimately make their purchases. Only 14.3% go first to Google, and only 6.7% to price comparison sites.A recent US studyshows similar results: 55% of US consumers start their online shopping on Amazon, 28% on search engines, and 16% go straight to individual retailers,” he continues.
+
+“The Commission also claims consumers don’t go to Amazon to compare product features and prices. But Amazon providestools to do exactly that, plus the ability to buy products and have them delivered the next day, which makes Amazon an even stronger competitor. It’s not surprising that when Amazon and other new competitors arrived in European countries, traffic to sites offering only price-comparison went down.”
+
+Google also points to rising usage of mobiles and retailers’ “dedicated apps” as bolstering its case that consumers have changed how they shop online, and therefore that shifts in Google search results merely reflect that changing reality.
+
+“[T]he Commission’s revised case still rests on a theory that just doesn’t fit the reality of how most people shop online,” argues Walker. “Consumers don’t just look for products on a search engine, then click on a price comparison site, and then click again to visit merchant sites. They reach merchant websites in many different ways: via general search engines, specialist search services, merchant platforms, social-media sites, and online ads served by various companies. And of course merchants are reaching consumers directly like never before.”
+
+“Forcing us to direct more clicks to price comparison aggregators would just subsidize sites that have become less useful for consumers,” he adds. “Ultimately, we can’t agree with a case that lacks evidence and would limit our ability to serve our users, just to satisfy the interests of a small number of websites.  But we remain committed to working with the Commission in hopes of resolving the issues raised, and we look forward to continuing our discussions.”
+
+He concludes by asserting that while the two other antitrust cases involve “different claims and different substantive questions”, they also “similarly cite just a few complaints to justify broad legal claims” — although it remains to be seen what Google’s detailed defense against Android antitrust charges will be.
+
+With AdSense the company has already made some changes to how it operates that service in the hopes of resolving the Commission’s objections.
+
+“Our text ads help websites generate income and have always faced strong competition from other ad formats, so we disagree with the Commission’s assessment. Nevertheless, even before the Statement of Objections was filed, we changed practices the Commission takes issue with, so we hope to resolve this case quickly,” said a Google spokeswoman.
+
+The EC could fine Google up to 10 per cent of its global revenue — some $7.5 billion — if it finds the company has breached European competition law.

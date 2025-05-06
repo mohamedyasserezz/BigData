@@ -1,0 +1,19 @@
+Dataiku grabs $14 million for its collaborative data science platform
+
+French startupDataikuhas been profitable for the past three years. But the company wants to go further and is raising a $14 million Series A round led byFirstMark Capitalwith all existing investors also investing.
+
+Dataiku helps data scientists and data analysts manage huge sets of data to get some insights about what’s happening with their customers, suppliers, transactions and more. It’s a powerful analytics software solution with many different ways to visualize your data.
+
+“Our goal is to grow the company and become well-known,” co-founder and CEO Florian Douetteau told me. “We want to become a global player in the analytics industry.”
+
+As machine learning and big data are becoming more and more important, a collaborative tool like Dataiku could be key when it comes to prototyping data-driven models and extracting data.
+
+This might sound obscure to you, but it turns out that many companies are using Dataiku every day, from SMBs to Fortune 500 companies. L’Oréal, Hostelworld, Bechtel and more are using the product. For instance, NPR uses Dataiku to make recommendations for shows that you’ll like based on what you’ve already listened to. Dataiku is compatible with other solutions from Microsoft, Cloudera, Tableau and more. It is also compatible with all sorts of database formats, from MySQL to NoSQL and Hadoop.
+
+There are many different applications. You could figure out your churn, analyze your costs, detect fraud and build predictive models in many different industries, from e-commerce to insurance and factories. I feel like Dataiku wants to be the starting point when companies are thinking about investing on data science.
+
+And this year has been a turning point for the company as the company has grown by 300 percent, doubled the size of its teams and more. That’s a great way to lead to a funding round.
+
+With today’s funding round, the company wants to make it clear that it is a serious contender. “When it comes to big data in general, there have been a lot of investments over the past four or five years,” Douetteau said. “There has been a lot of communication around big data, more than what companies had actually achieved.”
+
+Douetteau also told me that he doesn’t want to make empty promises and Dataiku is only going to announce features and products that are already live. This way, Dataiku could prove that what they’re doing is more than just smoke and mirrors.

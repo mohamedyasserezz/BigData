@@ -1,0 +1,35 @@
+Google Home brings Google’s smarts to your living room
+
+Google Homeis an interesting product to review. In a way, it’s just an internet-connected microphone and speaker array that draws all of its smarts from the cloud. On the other hand, it’s maybe the purest reflection of Google’s ambitions in both the artificial intelligence and home automation space.
+
+Once you get your home, setup is easy. I barely remember doing it. The Google Home app finds the device, creates a temporary WiFi connection between your phone and your Home, connects the Home to your regular WiFi, and a few chimes later, you are done. If you plan on using multiple homes, then you can also name your unit in the app. From there, you can choose your preferred news sources and music services, but as far as the actual setup procedure goes, it couldn’t have been easier.
+
+As far as the AI experience goes, Home delivers — but that’s no surprise, given that Google already has long had a lead over competitors like Apple’s Siri, Amazon’s Alexa and Microsoft’s Cortana. Because its intelligence is in the cloud, it will also only get smarter over time (which makes these devices rather future-proof if you’re thinking about them as an investment). When you’re reviewing Google Home then, you’re really looking at three things: the microphone, the speaker and the Google Assistant.
+
+We’ve already writtenquitea bitabouttheGoogle Assistant, which is at the core of the Home experience. Needless to say, it’s probably the smartest of the personal assistants right now. You can still stump it with questions it can’t answer, but it usually handles those with grace and at least tries to read you an excerpt from a web page. Often, I’m surprised it does have an answer (“How many days till election day?” “Can you give me a recipe for beef bourguignon?”); sometimes I’m surprised it doesn’t.
+
+The issue with devices like the Amazon Echo and Google Home is that they do still occasionally misunderstand you. For the most part, that’s not a big deal. Google Home, though, seemed to understand me better than my Echo Dot.
+
+As far as Home’s other core features go (microphone and speaker), there’s a lot of good news here, too. A lot of people were concerned about the fact that Google Home only features two microphones (compared to the Amazon Echo’s eight). Whatever black magic Google worked with them, those two seem to work just as well as Amazon’s eight — maybe even a tiny bit better. Placing the Home next to my Echo Dot, both easily work from across my living room. When calling them from the next room over, “OK, Google” generally worked a bit better than “Alexa.”
+
+One other positive thing I noticed with Home is that it does a nice job of recognizing my “OK, Google” command when it’s playing music or the news. It immediately turns down the music to a whisper and listens to your questions.
+
+I’m no audiophile by any means, but Google’s bottom-mounted speakers sounded as good as one can expect from this size. I didn’t notice any major distortion at the highest volumes (but there was definitely some), and, while you won’t get earth-shaking bass from Home, it still delivers a nice enough punch. If you need more, then hooking up an Echo Dot to your existing audio system is probably the way to go if music is the most important feature for you in one of these devices.
+
+At least right now, Home doesn’t have as many partners in its ecosystem as Alexa. Personally, that hasn’t been a problem for me. If you have Philips Hue lights, then those should work right out of the box. Same with Samsung SmartThings devices and your Nest thermostat. My home is pretty dumb, so except for the Chromecast integration, I haven’t been able to try this yet. Thanks to its IFTTT integration, you’ll likely still be able to control devices that aren’t currently on Google’s partner list.
+
+Currently, Home only supports Google Keep for shopping lists and notes, though I would love to see it integrate with some of the tools I use already instead of having to switch to something else. The good news here, though, is that the existing integrations work perfectly fine.
+
+As for music, it works with Google Play Music, YouTube Music, Spotify and Pandora. You can set the default to any of those four and if you need to play a specific song, radio station or playlist from another service, you can always ask for it by name. It works as advertised. Home also integrates with TuneIn, so you can still listen to good-old radio, too.
+
+The other form of audio content you’ll likely listen to on the Home is news. There, Google lets you pick and choose from a variety of sources that range from NPR to Newsy, Fox News, ABC News, Bloomberg Tech, ESPN and others.
+
+One statistic you’ll hear quite a bit is that Alexa currently lets developers write “skills” for its platform. There are thousands of them. Google Home isn’t yet open for developers, but in daily use, that didn’t strike me as a major issue. Currently, the only real third-party “skill” featured on the Home is an Uber integration.
+
+By default, the Google Assistant is already more capable than Alexa when it comes to day-to-day tasks like asking for translations or random information. With Home, you don’t need to install a new skill to get translations or restaurant recommendations (and let’s face it, most of the Alexa skills aren’t very good right now — which may be because of the simple fact that developers can’t charge for them).
+
+The hardware itself has been compared to many things (air fresheners come to mind). I actually like the design, and if you don’t like the plain white base, you can always switch it out for something more colorful. The unit itself only has a power port. That’s it. There’s no Ethernet port and no way to get audio out of it, either.
+
+The design is meant to let the Home blend into virtually any room and still look modern. In that, it succeeds. The ring of LEDs at the top allows you to see when the device is listening to you (there’s a mute button on the back if you want to completely shut down the microphone) and working on your answers. The top is touch-sensitive, and allows you to set your volume.
+
+At the end of the day, you currently have two choices when you are looking for a voice-activated, AI-driven speaker in your living room: Google Home or one of Amazon’s Echo devices. If I had to choose today, I’d pick a Google Home. At $129, it’s cheaper than the Echo (though admittedly more expensive than the Echo Dot), it’s smarter out of the box and, while it may have fewer partners in its ecosystem, it works together with your Chromecast device, which extends its functionality to your TV.

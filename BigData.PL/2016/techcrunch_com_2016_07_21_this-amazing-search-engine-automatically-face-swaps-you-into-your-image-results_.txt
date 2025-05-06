@@ -1,0 +1,19 @@
+This amazing search engine automatically face-swaps you into your image results
+
+Ever wonder what you would look like with long, wavy hair? I think you’d look great. But how can you try on a few looks without spending a fortune at the salon, or hours in photoshop? I’m glad you asked. All you need is a selfie andDreambit, the face-swapping search engine.
+
+The system analyzes the picture of your face and determines how to intelligently crop it to leave nothing but your face. It then searches for images matching your search term — curly hair, for example — and looks for “doppelganger sets,” images where the subject’s face is in a similar position to your own.
+
+A similar process is done on the target images to mask out the faces and intelligently put your own in their place — and voila! You with curly hair, again and again and again. It’s a bit likethat scene in Being John Malkovich. Just as creepy depending on what face you’re putting in what situation. Keri Russell looks great in every style, though, as the diagram below shows.
+
+It’s not limited to hairstyles, either: put yourself in a movie, a location, a painting — as long as there’s a similarly positioned face to swap yours with, the software can do it. A few facial features, like beards, make the edges of the face difficult to find, however, so you may not be able to swap with Rasputin or Gandalf.
+
+Dreambit is the brainchild of Ira Kemelmacher-Shlizerman, a computer vision researcher at the University of Washington (she also does interesting work infacial recognitionandaugmented reality). And while it is fun and silly to play with, it could have more serious applications.
+
+Kemelmacher-Shlizerman has also created systems that do automated age progression, something that can be useful in missing persons cases.
+
+“With missing children, people often dye their hair or change the style so age-progressing just their face isn’t enough,”she said in a UW news release. “This is a first step in trying to imagine how a missing person’s appearance might change over time.”
+
+In an email to TechCrunch, Kemelmacher-Shlizerman noted that the software is still very much in beta mode and as such can’t exactly be used by the FBI.
+
+Dreambit and the processes behind it will be presented at SIGGRAPH next week, but you canread the paper, “Transfiguring Portraits,” right now.

@@ -1,0 +1,23 @@
+I am in a test for Twitter’s new @ reply design and it is a mess
+
+Disclosure: Everyone and their mother has an opinion about stuff Twitter is doing wrong. This one is mine.
+
+Twitter is testing a new design of the @reply that is intended to ‘clean up’ the conversation view by completely removing usernames from tweets.I’m in the test bucket(a group of users that Twitter is having take the features for a spin to see how they react) and it is a mess.
+
+Here’s an example of the new reply setup:
+
+Another example is in the header image I put above this article. Am I involved in that conversation? Who else is that is not pictured? Who knows?
+
+There’s a bunch of weird, junky stuff going on with this choice. Here’s a few things:
+
+The solution for this mess should probably start with removing the user names from the character count but leaving the actual user names themselves. Much in the way that a link (eventually, still not implemented, lol) or photo is added and appears in the tweet but does not count towards the character count.
+
+https://twitter.com/panzer/status/792049042494599168
+
+The argument against this is that ‘normals are confused by ‘@ names’. I disagree. I think that this may have been an issue early on but enormous swaths of people have been familiarized with usernames by the huge audience for tweets on mainstream media, TV and the web, as well as in pop culture like Jimmy Kimmel’s Mean Tweets segments and on and on.
+
+People understand usernames as names. Removing iconography like profile pics or ‘@name’s’ from the tweet deletes important context and creates confusion where there is no need.
+
+I understand completely that this is just a test of something Twittermightdo. I am just encouraging them very strenuously not to. If they want to make conversations more friendly, I’d suggest a nested, forum-like response thread.
+
+https://twitter.com/stop/status/791866920907575296

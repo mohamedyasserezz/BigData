@@ -1,0 +1,25 @@
+Cyanogen failed to kill Android, now it is shuttering its services and OS as part of a pivot
+
+It’s been a rocky few months forCyanogen, the ambitious startup that aimed to build a better version of Android than Google. It has laid off staff, let go of its CEO and parted ways with another co-founder — now it is shutting down its services and nightly software builds on December 31.
+
+The news was announced ina brief blog postreleased late on Friday:
+
+As part of the ongoing consolidation of Cyanogen, all services and Cyanogen-supported nightly builds will be discontinued no later than 12/31/16. The open source project and source code will remain available for anyone who wants to build CyanogenMod personally.
+
+This update means owners of a device that runs the Cyanogen OS — such as the OnePlus One — must now transition over to the CyanogenMod ROM, which is not a commercial product and is managed by a community of developers led byformer co-founder Steve Klondik.
+
+This essentially marks the end of Cyanogen’s grand ambition.Outspoken former CEO Kirt McMaster once claimedhis company was “putting a bullet through Google’s head,” but now it is transitioning to a different approach that new CEO Lior Tal believes will be more attractive to OEMs.
+
+Tal, who was previously Cyanogen COO, described the new Cyanogen Modular OS program as “designed to achieve the original objective of an open and smarter Android without the limitations of requiring the full Cyanogen OS stack and individual device bring-ups.”
+
+Essentially, Cyanogen has given up on killing Google and will instead adapt to live in Google’s world.
+
+Its software was always a hard sell because it required handset makers to ditch Android and Google services entirely in favor of Cyanogen’s own alternatives. Then there was the politics. OnePlus was Cyanogen’s largest partner, but the relationship was strained andit ended on a sour note after just one device.
+
+Now that these Cyanogen services are dying, Tal’s strategy is to unbundle what the Cyanogen OS did offer so that it can work in conjunction with regular Android builds and the stock services that Google provides with it.
+
+“The new partnership program offers smartphone manufacturers greater freedom and opportunity to introduce intelligent, customizable Android smartphones using different parts of the Cyanogen OS via dynamic modules and MODs, with the ROM of their choice, whether stock Android or their own variant,” Tal said ina statement in Octoberwhen he took his new role.
+
+Cyanogen has raised $115 million to date from investors that include Andreessen Horowitz and Benchmark,according to Crunchbase.Tal said in late Novemberthat the company is “well funded,” yet it has spent half of the year in cost-cutting mode. It mademade layoffsover the summer and recently shuttered its Seattle office in order to “consolidate” its workforce into one team based out of its base in Palo Alto. The closure of its services is a further cost-saving move that fits with its pivot to make it more accessible and less of commitment for prospective partners. The question now is whether it can offer anything that partners actually want and will pay for.
+
+Hat tip@ow

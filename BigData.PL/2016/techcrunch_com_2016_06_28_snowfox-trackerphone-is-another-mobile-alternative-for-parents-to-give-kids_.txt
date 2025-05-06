@@ -1,0 +1,33 @@
+Snowfox trackerphone is another mobile alternative for parents to give kids
+
+Finland-based Internet of Things startupHaltian, which back in 2014crowdfunded an IoT developer deviceaimed at lowering the barrier of entry to building connected devices, is lining up its next IoT device: a tracker phone for parents to give younger kids.
+
+The target age group for the screenless, compact smartphone alternative — calledSnowfox Trackerphone— is ages six to eleven. CEO Pasi Leipälä says the idea is to offer parents peace of mind about where their kids are plus the ability to call them when needed, as well as a simple communications device for children who may be too young to have a full-featured phone of their own.
+
+The device has GPS and voice functionality, with a button on the side that can be used by kids to request a call back from their parents. Pushing this will send a push notification to the companion SnowFox app on their parents’ smartphone. To respond to an incoming call kids also just push the button.
+
+The device can also be configured to automatically send geofenced notifications to the companion app — for instance to tell a parent their child has arrived at or left school. It’s been designed with active lifestyles in mind, and is touted as “playproof” and waterproof. It’s also a quasi wearable, with a loop allowing it to be attached to bags or worn around the neck on a lanyard.
+
+There’s been an explosion of thing-tracking connected device startups in recent years — such as SF-based Tile which justlast month raised another $18 million. Children tracking devices have also been an emergent category, with basic GPS trackers joined by wearable options, including some with comms features such asTinitell. Snowfox thus joins a competitive space, although Leipälä claims existing solutions are often missing core features or else aren’t reliable. Hence the team reckons there’s room for one more.
+
+Pricing for the Snowfox trackerphone will be €149 (RRP), while the monthly connectivity cost is €9.90. The device is not yet up for ordering, though, with Haltian running anIndiegogocrowdfunding campaign to raise $50,000 to help with go-to market costs.
+
+Leipälä confirms R&D on the device is all but done at this stage, with the trackerphone due to arrive in the Finnish market at the end of July. He says the crowdfunding campaign is aimed at helping the startup scale the product to international markets by proving out pockets of demand. Getting the word out more widely also still makes crowdfunding an attractive route to take, he adds.
+
+“We are preparing already our first production batch,” says Leipälä, discussing why Haltian has opted once again for a crowdfunding route to market. “But in the meantime in order to grow the international market we need to be scaling up the productions and making the country specific type of approvals etc. So they are requiring funds.”
+
+The Snowfox runs on the underlying software platform that Haltian created for its earlier Thingsee One IoT dev device — including a cloud and application framework it created — so it’s both being powered by that earlier tech, and acting as a showcase for “what kind of great things can be created in top of Thingsee platform”, as Leipälä puts it.
+
+The startup, which was founded by several ex-Nokians, also designs connected devices for third parties. So there are multiple strands to its IoT business: design services, developer focused offerings and now its own connected device consumer play which utilizes the dev tools it has made.
+
+“We have been generating profit but we have been investing practically all the profits into our own platform and device development,” says Leipälä.
+
+Scaling this IoT business therefore depends on investing in market expansion and creating a growing portfolio of its own devices, he adds. After Snowfox, he says Haltian may look next at building a similar trackerphone type device targeting elderly users who might not be comfortable using a fully fledged smartphone.
+
+“We are carefully studying the dedicated use cases to be able to understand that we are able to provide a great service — it’s not only about the device,” he tells TechCrunch. “So, for example, on Snowfox actually the main users are the parents who are able to see where their kids are going. And then also call them when they need. It is a full service. The device is only one part of it.”
+
+Multiple IoT startups have been emerging in Finland in recent years — unsurprisingly so given the huge talent pool accumulated within former world number one mobile maker Nokia. Talent that for multiple years now, at least since the decline of Nokia’s dominance of the smartphone market, has been unlocked to feed the local startup ecosystem. The government has put a lot of effort into the education system to bolster development in this area.
+
+“There is a lot of bright and competent people available with a lot of new ideas,” says Leipälä, discussing Finland as an IoT hub. “IoT is one of the key branches where there is possibilities to grow and the use case are practically unlimited. And now the IoT hype has been living for let’s say three, four years. Now it’s coming into reality.
+
+“But you need to be finding specific use cases. Like having this kind of product, e.g. kid tracking. Or one good example isEnevo, a Finnish company who is creating an ‘Internet of bins’ — they connect garbage bins and are then optimizing the transportation based on that data. These kinds of specific use cases are now coming, based on the tech and what’s available.”

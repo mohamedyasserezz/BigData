@@ -1,0 +1,7 @@
+Salesforce Inbox gains calendar from Tempo acquisition
+
+Salesforce’s efforts to turn its Inbox app into a central resource for salespeople has a new trick: An integrated calendar built from itsacquisition of Tempothat pulls in contact data from your Salesforce database, giving you a way to quickly find out more about the people you’re meeting with. Only CRM data is pulled right now, but in the future, the product will draw in relevant email exchanges and team communications, according to Salesforce (viaVentureBeat).
+
+With this addition, Salesforce Inbox becomes a bit more like a sales-oriented self-contained productivity suite – almost like a vertical specific Office 365 or Google Docs, but centralized in a single application. If Salesforce does indeed stay true to its product roadmap and bring in more office-style features, this could be a big help it providing it more ammo for taking on competition in the sales software space.
+
+The new Tempo-based calendar will be added to Inbox via an update coming in September, and will roll out to both iOS and Android clients.

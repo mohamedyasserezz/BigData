@@ -1,0 +1,15 @@
+Zero is a mobile automation app for email addicts
+
+Email apps are a dime a dozen. There are the regular emails apps that come with our phones, there’s Gmail andSparkand there’s 50 others that all offer just about the same thing.Zerois trying something different.
+
+Think of Zero as an AI-enabled email system. It reads your messages as they come in and allows you to do all the regular stuff – move emails into trash, snooze them, archive them – but a special AI assistant is always there to help you send canned responses (“I can’t reply today because my dog is caught in the piano.”) and notify you when you’re missing important messages.
+
+The creators are CTO Gevorg Karapetyan, CEO Alexander Babin, and COO Alexander Volkov. All of them are data scientists with deep backgrounds in AI and Babin, for his part, even started a hybrid vehicle company at the age of 24. They built Zero to help themselves.
+
+“It is a well understood fact that the average computer or even our smart phone, can hold and process a lot more information in far less time than any human ever can. By focusing on mobile devices, we started to create email client that uses behavior based, personalized productivity features and allows our users to save time when working with email, staying on top of important tasks and contacts and automates some redundant processes,” said Babin.
+
+Our three main goals are to recommend the useful, extract the essential, and automate the repetitive,” he said.
+
+The interface is surprisingly sparse but usable and I especially enjoyed the AI assistant. When it pops up you get to see a list of emails you probably shouldn’t ignore and it’s all generated automatically. Plus the sliding function list – snooze, archive, etc. – is richer than any I’ve seen. The key to the technology is that the processing is actually done on the phone and not in their servers, ensuring privacy goes along with your convenience.
+
+The guys have seen 10,000 monthly users so far and growing. It’s a cool product with a cool mission even though, let’s face it, none of us are ever going to get to Inbox Zero.

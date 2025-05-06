@@ -1,0 +1,23 @@
+Yext launches a developer platform for its location database technology
+
+Howard Lerman will often jump in front of a white board in front of you in a room and talk about how he wants to turnYextinto one of the next huge enterprise platform plays following SAP and IBM.
+
+That’s probably not too outlandish: His company, Yext, currently serves as probably the largest database of location data for businesses and other venues around the world. It’s constantly updating, regularly getting new data from new businesses and pipes all the right information to most of the services you use on a daily basis to get around. That data feeds information like location on a map, open hours and other points.
+
+Still, all that data has largely been for the use of Yext, and they have been able to decide what to do with it. But today, the company said it is opening up that database to developers working with its partners so they can build tools internally that will map back to locations.
+
+“Imagine that you went to a hotel or restaurant and you left a bad review on Google,” Lerman said. “Yext hears that bad review happened using a review monitoring, and what a developer could do is set up a web hook into Zendesk, so whenever a 1-star is hooked wherever, notify Zendesk to create a ticket that contains the content of that view.”
+
+The new Yext location cloud opens up a lot of the core features with a developer console. Those developers can create apps that can access all the different fields that are available in Yext’s location databases, which includes types of data like location, reviews, analytics, social and other user information.
+
+In the earlier example, it might give those customers a way to quickly fire off replies to reviews on places like Google. Or, in other instances, companies that work with Yext can develop tools to ensure that callers are routed to the closest service center, or make sure all the correct data is printed on a receipt. A laundry company might want to access all the hotel location information for hotels it works with where it delivers towels, and a developer internally can build a tool to tap into all of that. The idea is that Yext wants to enable its customers to be able to develop tools for custom cases, whether that’s for small businesses or much larger ones.
+
+So the breadth of apps that a developer could create is actually quite wide. The launch today was largely a response to a lot of customers trying to get Yext to build those sorts of bespoke tools for them, or trying to build something more janky internally to get something like that working. Yext could have gone the route of building these things on a one-off basis for its partners, but in many cases, it makes more sense to open up a developer platform like many previous large enterprise companies have.
+
+For a company like Yext, building these kinds of tools is increasingly important as it attracts larger clients. The larger partners get, the more niche and specific their needs might get, and having to build all those extra tools in-house would require a large consulting staff. That creates a ton of overhead for a smaller company, and for Lerman, it seems that the case is better to just let those companies build the tools themselves.
+
+Yext isn’t the only company trying to become the location system of record, of course. The most obvious potential competitor would beFoursquare, which has gathered its own very large data set on what the various traits venues have and how customers regularly interact with them. Foursquare’s data set isn’t exactly like Yext’s, though, in the sense that businesses are telling Yext where they are, whereas Foursquare is often figuring out a rough polygon for where those businesses are based on where people are checking in or leaving reviews.
+
+So the natural next step for something like this, you could imagine, would be opening it up to third-party developersoutsideof Yext’s customer base that might be able to build apps that would be successful. That’s a path that plenty of large platforms have taken in the past, and it’s worked out well. When I asked Lerman about that, his response was actually saying aloud, “dot, dot, dot.”
+
+“We’re not going to talk about future plans,” he said. “More to come very soon. Salesforce before they made the app ecosystem, they made Force.com. People made the same connections over and over, putting data into Zuora. Phase 2 was people were creating connections to Zuora over and over, so they said, let’s let a third-party dev create a custom connection to Zuora.

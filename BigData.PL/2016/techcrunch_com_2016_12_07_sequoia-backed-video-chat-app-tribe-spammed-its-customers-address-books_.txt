@@ -1,0 +1,113 @@
+Sequoia-backed video chat app Tribe spammed its customers’ address books
+
+Can mobile app startups please stop building SMS invite systems into their apps already? The latest example of a venture-backed startup getting dinged by customers for having spammed their entire address book without permission is Sequoia portfolio companyTribe. Thevideo chat apphit the App Store last year, and had been well-received until now.
+
+With a number of clever twists on standard video chat, Tribe itself is an interesting product. It canadd subtitles to video chats and can identify “magic words” in conversationsthat are then turned into links to the things you referred to, like directions, the weather, a song, a place, and more.
+
+As of October 2016, the app had been downloaded half a million times, and was seeing around 40,000 daily users. Earlier this year, it also pulled in $3 million in seed funding, led by Sequoia, with the aim of challenging dominant chat apps, like Snapchat and Messenger.
+
+But it doesn’t take much to tarnish a brand, and violating users’ trust is an easy way to lose a following.
+
+In Tribe’s case, its SMS invite system apparently had an “issue” – or, at least, that’s the official explanation the company is telling users via its Twitter account.
+
+According to a number of Tribe customers, including those who posted publicly and reached out privately, the app sent out SMS invites to everyone in their address books without permission.
+
+That has resulted in people – including those who were only hearing of Tribe for the first time – being spammed with text message invites. And because some victims had more than one friend on Tribe who was affected by the problem, they received multiple SMS invites throughout the day.
+
+One user reported having received 32 spam invitations, for example, andanother said they received up to 47 invitesin a single day.
+
+Unlike other apps in the past,like Ever (previously Everalbum), it’s not clear if Tribe used misleading onboarding screens that tricked users into inviting everyone in their contacts. That would still be shady behavior – and the kind that can get youat least temporarily banned from the App Store. But some users are saying they never gave the app permission to invite anyone at all. This would make Tribe’s glitch not just an annoyance,but also an illegal one.
+
+As one tipster told TechCrunch, they received at least 20 texts from people who said they never sent out invites. Many are also saying this on Twitter.
+
+However,another Tribe user pointed outthat the app waspre-selecting all their contacts on a misleading screen, which means those who spammed their address books may haveaccidentallygiven the app permission to do so.
+
+The problem is that you can’t necessarily prove which is true due to the fact that some parts of an app can be updated without having to go through the App Store review process, and it’s possible to A/B test different user experiences at the same time.
+
+In any event, people are angry:
+
+https://twitter.com/gregseguin/status/806273322438692864
+
+Up to 47@HeyTribeinvites today…this is not a good way to build a customer base.
+
+— Andrew Bleich 🌱 (@andrewbleich)December 6, 2016
+
+I'd never even heard of@heytribe, let alone downloaded it, and I've received 32 notifications from them saying my friends invited me. NOPE.
+
+— Katie Topper (@toppsyturby)December 7, 2016
+
+@heytribeyou fkers are spamming my contacts like crazy. Garbage lead gen. Terrible growth idea. And your UX is stressful and not intuitive.
+
+— Geronimo Ramos III 🤙🏾 (@geronimocramos)December 6, 2016
+
+STOP STOP STOP@HeyTribepic.twitter.com/udklmxmwsV
+
+— Charlotte Chaffanjon (@CChaffanjon)December 5, 2016
+
+Hey@HeyTribe, you immediately lose my trust by automatically inviting everyone in my contacts to your app. LAZY (inappropriate) marketing!
+
+— Harrison Forman (@htforman)December 6, 2016
+
+@HeyTribeIt's really not okay to send an SMS to all the contacts on my phone without my consent…#whataboutprivacy#screwthis
+
+— Jordy van Kuijk (@yowdyyowdy)December 6, 2016
+
+@HeyTribeSTOP spamming all my professional contacts!!! This is such shady practice. Good luck with your App Store ratings
+
+— Bowen Li (@bowenlibl)December 6, 2016
+
+https://twitter.com/jasonpjason/status/806045246387687424
+
+Received a spam text from@heytribe– best way to get attention AND lose mindshare#spam#badpractice
+
+— Rajesh Setty (@RajSetty)December 6, 2016
+
+https://twitter.com/rishibedi/status/806310955768385536
+
+.@sequoia– FYI your portco@HeyTribeis juicing its user acq numbers by spamming new users' contacts without permission
+
+— Cam Mullen (@MullenCam)December 6, 2016
+
+did anyone else miss where in the@HeyTribesetup process we gave them permission to text all friends to join??? seems pretty sketch
+
+— Brian Kusiak (@bkusiak)December 7, 2016
+
+https://twitter.com/bmyu10/status/806294447671558145
+
+@HeyTribehey does tribe message your contacts when you sign up? I didn't invite anyone, but a few have had texts?!
+
+— Jozef Maxted (@jozefmaxted)December 7, 2016
+
+https://twitter.com/sargentned/status/806304880172285952
+
+do you have any information for us here?? Why were all of those texts going out to our contacts without our permission?
+
+— Brian Kusiak (@bkusiak)December 7, 2016
+
+Tribe’s response to customers does not include an explanation of what went wrong, or even really, much of an apology.
+
+Instead, the account is individually tweeting back to affected customers a vague message saying that it “fixed an issue on our end.” In some cases the account adds “sorry” to its tweet, but other times it simply answered with a more generic reply instead.
+
+“Thanks for the feedback and we are always looking for ways to improve the Tribe platform,” the account said in response to some of the earlier complaints.
+
+https://twitter.com/HeyTribe/status/806200406615343104
+
+While Twitter can’t be used to determine how many people were actually spammed due to this issue, a glitch of this nature should be cause for concern. It violates user trust (and possibly, the law), so it shouldn’t get to fly under the radar.
+
+At this point, it would be appropriate for Apple to pull the app for an additional review to ensure the technical fix is in place, as the startup claims.
+
+We’ve reached out to Tribe for comment, but one was not provided at the time of publication. If the company responds, we’ll update.
+
+Update, 12/7/2016, 8:30 PM ET –
+
+Tribe founder Cyril Paglino responded to say that, yesterday, the company updated its onboarding flow and was testing some new marketing strategies.
+
+“We quickly noticed some issues with a subset of our users. The issue was solved as soon as it was brought to our attention, in few hours,” he says. “We tooked it very seriously. To be precise, no one has been spammed since the middle of last night.”
+
+“We never want to violate our user’s trust and acutely understand how vital that is to our community. We highly value our user’s privacy, and we always want Tribe to be a place where you can communicate safely and securely.”
+
+He further added that the issue affected 0.3% of the user base, and the team has determined that no one sent invites to their entire address books – it was capped at 20 invites sent per person.
+
+Update, 12/12/2016, 8:00 PM ET –
+
+Tribe has publisheda formal apology to its blog.

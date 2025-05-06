@@ -1,0 +1,23 @@
+This all-analog DNA circuit calculates without going digital
+
+It’s a sign that we’re living in the future when using our own genetic machinery asa form of calculator or storageis nothing new — but make no mistake, it’s still very early days in this field and there are plenty of surprises ahead. Today’s surprise, for instance, is the use of DNA to do exact arithmetical calculations entirely in analog.
+
+One might expect that any calculating done by a DNA would sort of by definition analog, but that’s not the case. In fact, DNA is useful for this kind of thing precisely because it is, in a way, already digital. The process of arranging base pairs into codons, which is how DNA encodes information, is remarkably like how we use binary symbols in sequence to form bytes.
+
+Such a ready digital analogue, if you will, makes DNA a natural fit for the type of programming we’ve already developed. But that’s not the only way to use it.
+
+Duke computer scientists, led by Professor John Reif and grad student Tianqi Song, have shown that DNA canperform mathematical functions without aping computers composed of switches and logic gates.
+
+DNA strands, of course, have two sides, and pieces with bases that correspond — adenine with thymine, cytosine with guanine — will naturally attach to one another. And the more matching base pairs, the better the fit. This makes it possible to create various strands that will interact with each other in predictable ways — this one with a great fit will displace that one, and a third will displace one but not the other. (Note: this paragraph originally listed the wrong chemicals for DNA’s bases, which for some reason I wrote in a hurry and forgot to double check. That’s embarrassing.)
+
+You get enough of these pieces, you can start building a logic to how they interact. That’s what the team did, and by controlling the input strands and watching for the final concentrations of each, they created a process that can do addition, subtraction, and multiplication — with more complex operations on the way.
+
+Now, this isn’t meant to replace digital computing, naturally, or even digital computing using DNA. Simple calculations take hours to do, and the logic isn’t easily adjustable.
+
+“We can’t even begin to think of competing with modern-day PCs or other conventional computing devices,” cautioned Reif in the Duke news release. But, he added, “Even very simple DNA computing could still have huge impacts in medicine or science.”
+
+Slow they may be, but these operations are being done with just a handful of easily replicated strands. Imitations of digital computers involve much more molecular machinery — which also happens to be highly fragile. Analog DNA computing could be done within the body’s natural environment, since it could be carefully coded to avoid strands being interfered with by the usual genetic processes.
+
+DNA calculators swimming in your bloodstream could constantly be calculating the levels of a medication, activating a protein signal when it dips below a certain level. Strands attached to special molecules made to detect, say, cancer cells could also start a process that alerts doctors or even kickstarts the body’s own immune reaction.
+
+The research, which was funded by the National Science Foundation, was published in the journalSynthetic Biology.

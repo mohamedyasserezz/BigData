@@ -1,0 +1,35 @@
+Bot Metrics gives developers the tools to measure and analyze their chat bots
+
+Bot Metrics, a San Francisco-based company that specializes in —you got it..— metrics and analysis for chat bots has landed funding to help developers and early bot enthusiasts get a better understanding of their services and users.
+
+We’ve said it before, but mobile has totally shifted the goal posts, particularly around analysis and measurement. Earlier this summer,I wrote about a change Kik madeto end the inaccuracy of using ‘monthly active users’ for measuring mobile messaging apps.
+
+“Existing metrics tend to favor feed-based consumption rather than chat. Everyone can make up their own rules for measuring monthly active users,” Kik’s head of data told me in June as it began looking at different signs of engagement.
+
+And he’s right.
+
+Chat apps are for chatting. Clearly I’m not very “active” if I’m just chatting inside your app once a month. But finding a new paradigm and tools to quantify how active I am, and by default how changes to the app impact user behavior, isn’t easy.
+
+So if the challenge of measurement is tough for messaging apps, then it is multitudes harder for chat bots, which live inside the relatively measurement black hole that is messaging apps. Then there’s the added challenge that existing tools for mobile simply don’t translate to bots, which are driven by context and different kinds of engagement.
+
+This is where Bot Metrics is one of the early arrivals that is attempting to add some clarity, color and measurement to let developers track and improve their bots.
+
+“Developers are spending way too much time figuring out the things we take for granted with mobile apps,” Arun Thampi, one half of the founding team at Bot Metrics, told TechCrunch in an interview. “It’s kind of like bad old days of web analytics.”
+
+For those who think the chat bot trend is done, fellow Bot Metrics co-founder Sandeep Chivukula believes that things will push on now.
+
+“Every day, a new enterprise company taking about bots,” he said. “We went through a hype cycle, got into the disillusionment trough, and now people are starting to understand it won’t do everything but the interface is good for many things.”
+
+Thampi — who uncovered the scandal ofPath uploading users’ address booksback in 2012 — is a relative bot veteran. He first dabbled last year withNestor, one of the first intelligent assistants for Slack, his latest curation isa business card scanner bot for Messengerand, alongside Chivukula, he curatesan excellent newsletter on all things chat bots.
+
+A lack of tools got Thampi tinkering and ultimately developing a measurement system. Unlike others though, Bot Metrics is offering its platform open source. That’s to say that the system — which is implemented using a single line of code — can beinstalled and used for free from GitHub here.
+
+Thampi explained that a major factor in this move to gain adoption is that many of the partners with whom Bot Metrics work, and inspires to work with in the future, manage projects for major companies who might require a local installation inside their firewall. IBM, Salesforce and Facebook are among those investing in bots.
+
+Bot Metrics isn’t monetizing right now and it doesn’t immediately have plans. Thampi and Chivukula explained that it could do so using value added services, such as business metrics for a particular bot, traditional support-based contacts, or managed hosting inside a corporate firewall.
+
+Right now, Thampi and Chivukula work with a handful of contractors but this new funding — which is provided byGraph VenturesandSocial Capital— will enable the hiring of permanent staff. Thampi said the undisclosed sum would give around 18-24 months of runway to grow the business.
+
+“We don’t have to say anything [about the importance of bots] because there are enough major players putting actions behind their words,” Chivukula said. “What we’ll realize as we start seeing more of these is which bots are successful and which aren’t. It will create a competitive ecosystem.”
+
+Bot Metrics hopes it can play its part.

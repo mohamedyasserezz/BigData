@@ -1,0 +1,15 @@
+NASA’s Curiosity rover can now pick which bits of Mars to scan on its own
+
+Curiosity may be an older dog (the rover landed on Mars in 2012), but it’s still picking up new tricks. NASA’s Jet Propulsion Laboratory recently revealed (viaVerge) that the robot can now pick its own targets when choosing rocks to scan with its laser spectrometer, a task formerly reserved for remote operation by scientists back here on Earth.
+
+JPL created the software that now lets Curiosity choose “multiple targets per week” for analysis by the rover’s onboard Chemistry and Camera (ChemCam) instrument. The majority of targets are still human-directed, but adding some autonomy into the mix allows Curiosity to continue ID’ing and analyzing targets of opportunity, even when there’s no person directing its ChemCam gaze.
+
+The software category that’s used to help Curiosity decide where to aim its laser spectrometer is called AEGIS, or ‘Autonomous Exploration for Gathering Increased Science.” It’s designed to help fill in the gaps, when humans are otherwise occupied.
+
+“This autonomy is particularly useful at times when getting the science team in the loop is difficult or impossible — in the middle of a long drive, perhaps, or when the schedules of Earth, Mars and spacecraft activities lead to delays in sharing information between the planets,” robotics engineer Tara Estlin, the leader of AEGIS development at JPLexplained to NASA.
+
+Curiosity’s autonomy operates within human-defined limits, too, meaning scientists can change the criteria for what constitutes a good target depending on what they’re interested in finding.
+
+Self-guided smarts also helps Curiosity support scientists in another key way: Our weak human eyes are terribly fallible when it comes to trying to target extremely fine facets of objects, especially when operating remotely across a vast tranche of space. AEGIS helps Curiosity use image analysis to hit even the smallest targets the first time, thanks to autonomously refined aim.
+
+Increased autonomy for space exploration means greater data sets, which means greater potential for ground-breaking discovery. Just be sure to alwayskeep in mind the cautionary tale of V’ger, NASA.

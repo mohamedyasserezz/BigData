@@ -1,0 +1,21 @@
+Facebook’s Artificial Intelligence Research lab releases open source fastText on GitHub
+
+Every day, billions of pieces of content are shared on Facebook. To keep up with the data, Facebook has been using a variety of tools to classify text. Traditional methods of classification, like deep neural networks are accurate, but have serious training requirements.
+
+In an effort to classify both accurately and easily, Facebook’s Artificial Intelligence Research (FAIR) lab developed fastText. Today, fastText is going open source so developers can implement its libraries anywhere.
+
+FastText supports both text classification and learning word vector representations through techniques like bag of wordsand subword information. Based on the skip-gram model, words are represented as bag of character n-grams with vectors representing each character n-gram.
+
+“In order to be efficient on datasets with a very large number of categories, fastText uses a hierarchical classifier, in which the different categories are organized in a tree, instead of a flat structure (think binary tree instead of list),” said Facebook authors Armand Joulin, Edouard Grave, Piotr Bojanowski, and Tomas Mikolov in a post.
+
+For those less artificially intelligent, the bag of words process is fast because it essentially ignores word order and instead focuses on the occurrences of a word. “Words”are represented in a multidimensional spaceand linear algebra is used to calculate the relationship between a query and a categorized set of words. Remember that when we feed a computer text, we are starting from scratch. To adults, grammar is intuitive — we know what words are, where they end and where they begin. Computers can handle the most complex computational challenges, but can struggle to differentiate “I love TechCrunch” from “CrunchLove iTech.” Methods like this essentially take a qualitative analysis problem and force it to be quantitative through the addition of statistics.
+
+These techniques enable fastText to be faster than traditional deep learning methods. Facebook created this nifty comparison chart to show us side-by-side accuracy.
+
+FastText is not restricted to English and can work with other languages including German, Spanish, French, and Czech.
+
+Earlier this month, Facebookimplemented an anti-clickbait algorithminto its Newsfeed. While the algo is quite complicated and focuses on both behavioral identifiers and language, fastText enables developers to create similar tools themselves.
+
+Not to brag, but Facebook says that the new open source technology can be “trained on more than 1 billion words in less than 10 minutes using a standard multicore CPU. fastText can also classify a half-million sentences among more than 300,000 categories in less than five minutes.” #HumbleBrag
+
+Starting today, Facebook’s fastText will be availablefrom their GitHub.

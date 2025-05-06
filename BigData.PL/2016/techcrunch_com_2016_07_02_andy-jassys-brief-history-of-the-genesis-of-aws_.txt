@@ -1,0 +1,43 @@
+How AWS came to be
+
+There arelots of stories about the formation of AWS, but this much we know: 10 years ago,Amazon Web Services, the cloud Infrastructure as a Service arm of Amazon.com, was launched with little fanfare as a side business for Amazon.com. Today, it’s a highly successful company in its own right,riding a remarkable $10 billion run rate.
+
+In fact,according to data from Synergy Research, in the decade since its launch, AWS has grown into the most successful cloud infrastructure company on the planet, garnering more than 30 percent of the market.That’s more than its three closest rivals — Microsoft, IBM and Google — combined(and by a fair margin).
+
+What you may not know is that the roots for the idea of AWS go back to the 2000 timeframe when Amazon was a far different company than it is today — simply an e-commerce company struggling with scale problems. Those issues forced the company to build some solid internal systems to deal with the hyper growth it was experiencing — and that laid the foundation for what would become AWS.
+
+Speaking recentlyat an event in Washington, DC, AWS CEO Andy Jassy, who has been there from the beginning, explained how these core systems developed out of need over a three-year period beginning in 2000, and, before they knew it, without any real planning, they had the makings of a business that would become AWS.
+
+It began way back in the 2000 timeframe when the company wanted to launch an e-commerce service called Merchant.com to help third-party merchants like Target or Marks & Spencer build online shopping sites on top of Amazon’s e-commerce engine. It turned out to be a lot harder than they thought to build an external development platform, because, like many startups, when it launched in 1994, it didn’t really plan well for future requirements. Instead of an organized development environment, they had unknowingly created a jumbled mess. That made it a huge challenge to separate the various services to make a centralized development platform that would be useful for third parties.
+
+At that point, the company took its first step toward building the AWS business by untangling that mess into a set of well-documented APIs. While it drove the smoother development of Merchant.com, it also served the internal developer audience well, too, and it set the stage for a much more organized and disciplined way of developing tools internally going forward.
+
+“We expected all the teams internally from that point on to build in a decoupled, API-access fashion, and then all of the internal teams inside of Amazon expected to be able to consume their peer internal development team services in that way. So very quietly around 2000, we became a services company with really no fanfare,” Jassy said.
+
+At about the same time, the company was growing quickly and hiring new software engineers, yet they were still finding, in spite of the additional people, they weren’t building applications any faster. When Jassy, who was Amazon CEO Jeff Bezos’ chief of staff at the time, dug into the problem, he found a running complaint. The executive team expected a project to take three months, but it was taking three months just to build the database, compute or storage component. Everyone was building their own resources for an individual project, with no thought to scale or reuse. (I think you can guess where this is going.)
+
+The internal teams at Amazon required a set of common infrastructure services everyone could access without reinventing the wheel every time, and that’s precisely what Amazon set out to build — and that’s when they began to realize they might have something bigger.
+
+Jassy tells of an executive retreat at Jeff Bezos’ house in 2003. It was there that the executive team conducted an exercise identifying the company’s core competencies — an exercise they expected to last 30 minutes, but ended up going on a fair bit longer. Of course, they knew they had skills to offer a broad selection of products, and they were good at fulfilling and shipping orders, but when they started to dig they realized they had these other skills they hadn’t considered.
+
+As the team worked, Jassy recalled, they realized they had also become quite good at running infrastructure services like compute, storage and database (due to those previously articulated internal requirements). What’s more, they had become highly skilled at running reliable, scalable, cost-effective data centers out of need. As a low-margin business like Amazon, they had to be as lean and efficient as possible.
+
+It was at that point, without even fully articulating it, that they started to formulate the idea of what AWS could be, and they began to wonder if they had an additional business providing infrastructure services to developers.
+
+“In retrospect it seems fairly obvious, but at the time I don’t think we had ever really internalized that,” Jassy explained.
+
+They didn’t exactly have an “aha” moment, but they did begin to build on the initial nugget of an idea that began at the retreat — and in the Summer of 2003, they started to think of this set of services as an operating system of sorts for the internet. Remember, this is still three years before they launched AWS, so it was an idea that would take time to bake.
+
+“If you believe companies will build applications from scratch on top of the infrastructure services if the right selection [of services] existed, and we believed they would if the right selection existed, then the operating system becomes the internet, which is really different from what had been the case for the [previous] 30 years,” Jassy said.
+
+That led to a new discussion about the components of this operating system, and how Amazon could help build them. As they explored further, by the Fall of 2003 they concluded that this was a green field where all the components required to run the internet OS had yet to be built — at which point I’m imagining their eyes lit up.
+
+“We realized we could contribute all of those key components of that internet operating system, and with that we went to pursue this much broader mission, which is AWS today, which is really to allow any organization or company or any developer to run their technology applications on top of our technology infrastructure platform.”
+
+Then they set out to do just that — and the rest, as they say, is history. A few years later the company launched their Infrastructure as a Service (a term that probably didn’t exist until later). It took time for the idea to take hold, but today it’s a highly lucrative business.
+
+AWS was first to market with a modern cloud infrastructure service when it launchedAmazon Elastic Compute Cloud in August, 2006. Surprisingly, it took several years before a competitor responded. As such, they control a vast amount of market share, at least for now. Rest assured, some very well-heeled competitors like Microsoft, Google, IBM and others are gunning for them.
+
+When asked if he ever foresaw the success they’ve achieved, Jassy was humble, saying, “I don’t think any of us had the audacity to predict it would grow as big or as fast as it has.”
+
+But given how the company carefully laid the groundwork for what would become AWS, you have to think that they saw something here that nobody else did, an idea that they believed could be huge. As it turned out, what they saw was nothing less than the future of computing.

@@ -1,0 +1,33 @@
+Are banks promoting phishing?
+
+I’ve recently seen a few examples of services that ask customers to type in their online banking usernames and passwords so the service can access their bank accounts on their behalf. The applications are fairly broad and definitely useful — making payments, ID verification and analyzing data, for example.
+
+This is a security anti-pattern. This is bad news.
+
+Banks regularly email their customers to say they will never ask for your password in an email and that attempts to do so should be reported as phishing. I’m aMetro Bankcustomer and the footer of each of their emails says:
+
+We’ll never send you an email, text or a website link asking you to enter your Internet Banking or card details. If you’re suspicious […] contact us immediately and we’ll get our security team on the case.
+
+Phishing is a serious security issue for banks.Industry datasuggests that losses from online banking fraud were up 64 percent to £133.5 million in 2015 from £81.4 million in 2014. A Google search for “bank phishing” turns up results from all the major high-street banks, with titles like “Recognising & Preventing Phishing” and “Phishing & email scams.” Barclays has even started producingvideos on the subject. So if the industry is, rightly, concerned with educating people about the risks of phishing, why on earth are they happy for their customers to put their login details into any other website than their bank’s website?
+
+I’ve spoken to the service providers about how they are able to offer this service to customers, as my first assumption was that it would be against the terms and conditions of the various online banking services. Having checked a few online banking terms and conditions, customers are not protected against fraud if they have not kept their passwords safe.Lloydseven references information “aggregators” explicitly — Lloyds can close your online banking account if you give your security details to the service provider.
+
+The response from the service providers is interesting — and unnerving.
+
+All the service providers quoted “PSD2,” the revised Directive on Payment Services, a European law that came into force in November 2015. This is timetabled to pass into U.K. law in January 2018 (although Brexit…) and requires that banks open digital access to customers’ bank accounts to other companies. This is a huge deal. One of the people I spoke to about this said that the “banks could see the writing was on the wall with PSD2,” so they did not put up any objection to the service provider taking the username and password of the bank’s customer.
+
+But access is not the only thing PSD2 is meant to promote. Commissioner Jonathan Hill said at the launch of PSD2 that:
+
+European consumers want to know that their payments are safe when they shop or make a payment online. The new Payment Services Directive will ensure that electronic payments in Europe become more secure and more convenient for European shoppers.
+
+Of course, the arrival of PSD2 in early 2018 is providing a stimulus for companies to build services on bank accounts. If early adopters use a method of customer login that is indistinguishable from phishing, the problem that currently looks limited to a handful of services will burst into a million pieces when access to bank accounts is not only encouraged, but legislated for.
+
+When Twitter first took off, it was not uncommon for a new website to ask for your Twitter username and password in order to, say, tweet on your behalf. Back in 2006,Blaine Cook, Twitter’s architect at the time, started working on an alternative that allowed you to grant access to certain information or capabilities, such as tweeting as you, without giving away the keys to your whole account.
+
+What Blaine and his collaborators worked on eventually became theOAuthstandard and now powers all the “login with” Facebook/Twitter/LinkedIn/Google buttons you see on websites all over the internet.
+
+So why not OAuth for banks? TheOpen Bank Projectadvocates for OAuth, but, unfortunately for us U.K. customers, its adoption has been limited so far to German banks (however, this in itself is a great success). The U.K. government commissioned the Open Banking Working Group (OBWG) in late 2015, to explore the question of opening up data held by banks. The OBWG published their findings as theOpen Banking Standardin August this year. Happily, they have also recommended the use of OAuth*. The only U.K. bank that has taken up the OAuth gauntlet so far isMonzo.
+
+So the outlook at this point is mixed. The Open Banking Standard is not expected to be implemented in its full glory until 2019, although initial services that only read information are expected in 2017. If you’re reading this as a consumer, be vocal in demanding safe and secure access to your bank account. If you are responsible for building an online product, make a point of not making poor choices for your customers. Between now and 2019, there is still plenty of time for keen fintech startups to open services that train bad habits into people and leave them vulnerable to fraud.
+
+*Technical caveat: There are some credible issues with their choice of the particular version of the standard — Teller.io is beingparticularly proactivein response.

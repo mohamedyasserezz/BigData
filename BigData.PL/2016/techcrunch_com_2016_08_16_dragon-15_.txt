@@ -1,0 +1,11 @@
+Nuance brings deep learning tech to its Dragon speech recognition
+
+Your speech-recognizing friends at Nuance are back with a major update to their flagship app, Dragon. The popular productivity software isnow in its 15thversion, an update that promises some substantial improvements in accuracy courtesy of the company’s own deep learning tech, which forms the basis of its speech engine.
+
+According to Nuance, this latest upgrade brings better accuracy “upwards of 24 percent,” with improved ability to recognize and learn accents and voice patterns, while adapting to the acoustics of the speaker’s environment.
+
+Here’s a quote from the company’s CTO, “Training such Deep Neural Net models typically requires large amounts of training data and a high-performance computing environment. However, our new Dragon portfolio includes our latest breakthrough that allows Dragon’s Deep Neural Nets to continuously learn from the user’s speech during use on a standard personal computer, and drive accuracy rates in some instances up to 24 percent higher.”
+
+Version 15 also brings a simplified UI, formatting improvements, more support for audio transcription and optimization for a number of touchscreen Windows PCs. And as per usual, there are a whole slew of different editions of the software, tailored to various usages. The list includes Dragon Professional Individual, version 15; Dragon Legal Individual, version 15; and Dragon Professional Individual for Mac, version 6.
+
+Dragon Professional Individual hits September 1st, priced at $300, but will run less for those upgrading from older editions. The Mac version has the same pricing structure and Legal Individual will run $200 more.

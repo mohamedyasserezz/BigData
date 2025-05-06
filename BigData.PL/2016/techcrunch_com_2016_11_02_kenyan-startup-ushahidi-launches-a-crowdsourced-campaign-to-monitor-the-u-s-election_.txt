@@ -1,0 +1,29 @@
+Kenyan startup Ushahidi launches a crowdsourced campaign to monitor the U.S. election
+
+The Kenyan software companyUshahidihas launched a campaign to observe the upcoming U.S. elections.
+
+The operation, calledUSA Election Monitor, will track voting irregularities reported via website, email, Twitter and SMS and post accounts to an onlineinteractive map.
+
+“It’s a citizen-inspired, citizen-led election deployment,” Ushahidi’s Executive Director Daudi Were told TechCrunch.
+
+While Ushahidi was used in the 2012 presidential election, namely for polling by the Obama campaign, Were says there are unique factors in the 2016 race that warrant the company’s attention.
+
+“There are some issues in this U.S. election that are pretty unprecedented around voter suppression and other voting irregularities,” said Were. “Ushahidi does election monitoring in 40 countries around the world. We said: ‘Why not for the U.S.?’ ”
+
+Ushahidi’s interactive U.S. link has specific reporting tabs for long lines, ballot issues, voter suppression or witnessing violence. “The system also allows for reporting positive experiences and no issues at all,” said Were.
+
+November 8 is the official date for Americans to vote for the next U.S. president, 469 open congressional seats and other state and local races.
+
+Ushahidi will manage its 2016 U.S. operation from its Nairobi headquarters and through a team of its 30 staff in 8 countries, including the U.S.
+
+USA Election Monitoring is interviewing volunteers for its verification team, who will receive training kits and briefings on Ushahidi’s methodology for screening, verifying and reporting election events that come in digitally through citizens on the ground.
+
+The company has significant experience in this field, going back to its East African roots. It was originallydevelopedas an open source crowdsource app in response to Kenya’s 2007-08 election violence and quickly gained global recognition as a highly effective tool for digitally mapping demographic events anywhere in the world.
+
+The app’s four original creators —Erik Hersman,Juliana Rotich,Ory Okollohand David Kobia — founded the Ushahidi international IT company in May 2008. The venture has since received Silicon Valley backing (see TechCrunch’sJuly Africa roundup) and its software has been deployed 100,000 times in 160 countries.
+
+Ushahidi will apply the methodologies and expertise gained observing elections around the world in places such as Kenya, South Sudan and Japan to its 2016 USA Election Monitoring campaign. “We’ve designed the platforms and the teams to remove the subjective and review each piece of data objectively before posting,” said Were.
+
+The legitimacy of the 2016 U.S. presidential election has been called into question through a number ofunusual claimsfrom Republican candidate Donald Trump. Chiefly, that the voting system is “rigged” and the American media is colluding to assist his opponent Hillary Clinton. Trump’s backed this up with somewhat unspecific calls for his supporters to “monitor the polls,” which has raised concerns of potential intimidation or even violence at U.S. voting stations.
+
+So what happens if Ushahidi’s USA Election Monitor campaign tracks significant instances of instability? “We have a methodology to review and escalate to the proper local authorities, be it first responders, election officials, or law enforcement,” said Were.

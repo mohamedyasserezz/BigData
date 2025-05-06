@@ -1,0 +1,13 @@
+Google launches final release version of Angular 2.0
+
+After Google launched the first version of itsAngular web application frameworkin 2010, it quickly became one of the hottest web technologies. Since then, the web has changed, though, and when Google announcedAngular 2in 2014, it created quite a stir in the web development community because this new version wasn’t just an update, but instead a complete rewrite that wasn’t compatible with the older version. Today, after numerous preview and beta releases, the company is officially launching the final release version of Angular 2.0.
+
+“Angular1 first solved the problem of how to develop for an emerging web,” the company writes in today’s announcement. “Six years later, the challenges faced by today’s application developers, and the sophistication of the devices that applications must support, have both changed immensely.”
+
+Application developers today, however, also have a far wider choice of JavaScript frameworks. Facebook’s React framework especially has a lot of momentum behind it, though, to be fair, the two projects have slightly different styles (Angular is a far more opinionated framework, for example) and strengths (React Native makes it easy to build native apps, for example). But given that Google doesn’t give developers who built applications with Angular 1.x an easy upgrade path, many of them are now looking at which technology to use next.
+
+Angular 2.0 introduces a number of new features, including better support for modern browsers and mobile development. The team also moved a lot of the core functionality into modules that now make it easier to use third-party libraries in addition to the built-in ones. The team now also recommends that developers use TypeScript to write their apps. TypeScript is a Microsoft-developed superset of JavaScript that adds features like static typing and class-based object-oriented programming.
+
+Looking ahead, the Angular team plans to provide developers with more guides and examples to help them learn Angular 2.0 faster. In addition, the team plans to put more work into animations for Angular 2.0 and move itsWebWorker supportout of its experimental branch.Angular Universal, a project that lets you render your app server-side so first-time users will quickly see a server-rendered version of your site, for example, will also soon get support for more languages.
+
+Going forward, the team will also move to releasing Angular updates through three channels (major, minor and patch). Major versions are those that introduce incompatible API changes. Minor versions signal the addition of backwards-compatible functionality and the version numbers for the patch version ticks up as backwards-compatible bugs are fixed.

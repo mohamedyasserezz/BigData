@@ -1,0 +1,27 @@
+Intel unveils a ready-to-fly drone, the Aero, to win over developers
+
+At theIntel Developer Forumon Tuesday, Intel unveiled a new, hardware product — a ready-to-fly drone; specifically, a quadcopter, aimed at software developers rather than casual hobbyists or commercial drone operators.
+
+Intel’s drone is a fully assembled unit that runs on Intel’s Aero Compute Board with a Linux operating system, RealSense for vision and comes with Santa Monica startup AirMap’s software development kit pre-loaded.AirMap, generally, helps drone users fly only where it’s safe and legal to do so.
+
+Other chip makers, likeNVIDIA,AmbarellaandQualcomm, have been vying to gain market share in the burgeoning, if not yet clearly regulated, domestic and international drones market.
+
+But they’ve done so by selling their microprocessors to other hardware manufacturers, including companies that make UAVs or cameras and other systems that are integrated into them to enhance functionality, usually around filming and aerial data capture.
+
+Ambarella has supplied chips in the built-in cameras on DJI’s drones, and for GoPro cameras that can be mounted onto 3D Robotics drones, for example. And Qualcomm’s Snapdragon Flight platform and 4k cameras have been used in drones like the Tencent-Zerotech model called YING that sends data from mid-flight to Tencent’s social media platforms QQ and Wenxing.
+
+Intel is also an equity investor in drone tech startups, including: Yuneec, which makes drones that automatically avoid obstacles even in tight spaces; Airware, developers of an operating system for commercial drones; and PrecisionHawk, makers of a fixed-wing drone and software for agricultural and other commercial drones.
+
+Intel also acquired Ascending Technologies, a German autopilot tech company, in January of this year.
+
+The inclusion of AirMap’s software development kit in Intel’s Aero Ready-to-Fly quadcopters is a boon for the startup, which only launched this week at a closed conference for developers in Santa Monica, California.
+
+AirMap was already a partner of leading drone makers DJI, as well as 3D Robotics and Aeryon Labs.
+
+The startup’s CEO Ben Marcus told TechCrunch on Tuesday that AirMap is on a mission to “make drones a part of everyday life.”
+
+He said pervasive drone use can’t safely happen without an air space management system that covers the lower air space where drones fly, and relays that real-time information to drone operators, manufacturers and app developers about air space conditions.
+
+AirMap also makes data accessible in real time to other stakeholders like airports and regulators who need to know how and where drones are operating.
+
+TheAero Ready-to-Fly dronewill be available to purchase by the end of this year, but Intel did not announce a firm on-sale date or price.

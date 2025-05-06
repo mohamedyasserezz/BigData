@@ -1,0 +1,39 @@
+Prowler.io raises $2M to help AI systems make smarter choices
+
+As we inch closer to a time when we may rely on truly autonomous devices to move us or do things on our behalf, the need for software that’s able to think on its feet (or mid-air) will be essential.
+
+Now, an artificial intelligence startup working on this emerging area of machine learning has raised a seed round of funding to try to do just that. Cambridge, UK-basedProwler.io, which is building a platform that can be used by makers of autonomous systems to help those machines think and learn to make better decisions, has raised £1.5 million ($2 million).
+
+The company is still largely in stealth with little information available online. But CEO Vishal Chatrath tells me that the funding — which comes from Passion Capital, Amadeus Capital and Singapore’s Infocomm Investments — will be used to continue research and development of its platform, as well as hiring more talent to build it.
+
+That new talent will be joining a small but noteworthy team: two of the co-founders, Chatrath andDr. Dongho Kim (CTO), are both early and core employees of VocalIQ, an AI startupacquired by Applejust 13 months after launch (its tech is being used to build the next generation of Siri). The third co-founder,Aleksi Tukiainen, is coming straight out of graduate school at Cambridge, where he worked on machine learning methods and control systems, with a special focus on collaboration platforms, solar vehicle design and self-learning robots.
+
+Prowler — the name refers to a voracious mind, thinking through all angles of a situation all the time; not a sneaky bot — is working in an area that currently has only a handful of peer companies, but is in demand across a number of industries.
+
+As Chatrath describes it, you can divide the challenges of developing AI into two general branches: perception and decision making.
+
+A lot of what has been created up to now has been on the perception side of the equation: computer vision, image recognition and other systems to help decipher the world around the machine.
+
+These problems, Chatrath said, are as good as fixed, even if they continue to be improved all the time. “From a researchers perspective, perception is a solved problem,” he said. “We know a dog is a dog.” We used to think that no machine could identify a face as well as a human could, and yet now they do.
+
+That leaves the other branch used in building autonomous systems, decision making, which is the area where Prowler has been working.
+
+Up to now, there have not been many companies that have tried to tackle this area at an advanced level. Prowler uses a process called “reinforcement learning,” which is also what Google-ownedDeepMindand VocalIQ are using, Chatrath said.
+
+(The alternatives, used in many cases today, are autonomous systems based around premade, hand-crafted rules andMarkov design processes, long strings of if/then types of commands, for example. These, however, have their limitations and the more complex a scenario becomes, the less likely that an autonomous system using these rules will be able to cope.)
+
+Chatrath said that the aim of Prowler is to make a platform that will be accessible by way of APIs and a set of pre-made scripts to use its thinking algorithms in a number of places. This could apply in industries like transportation, manufacturing, medicine and hospitality, but for now the first area that Prowler will tackle is the gaming world.
+
+The reason, Chatrath said, is because in games, creators are developing increasingly realistic and graphic interfaces, but a lot of the responsiveness of the characters in those games still feels robotic and repetitive. While gaming might not feel like an “essential” problem like self-driving cars (which could kill people if they don’t work correctly), it’s an existing and very ripe market for perfecting the same technologies.
+
+And the gaming industry faces the same problem as other industries when it comes to sourcing the technology or the talent to make it: the talent pool capable of building better “personalities” for these characters is pretty small, with companies like Google’s DeepMind snapping everyone up.
+
+“One reason reinforcement learning is not used more is that DeepMind, for one, has cornered all the people who were experts in reinforcement learning to do general AI,” he said.
+
+That leaves a vacuum for a startup to inspire a few engineers to build a platform that the rest of the world can use.
+
+“We invested in Prowler.io because we see near limitless use cases for next-generation machine and reinforcement learning to revolutionise industries,” said Eileen Burbidge, partner at Passion Capital. “From smart city infrastructure to agriculture to drones, in the very near future powerful artificial intelligence is going to change the world we live in for the better. The huge potential of the technology combined with the calibre of the Prowler.io team make this a very exciting proposition.”
+
+If Prowler is the real deal — and it looks like a couple of NDAs with some strong companies, plus the funding from seasoned AI investors point to it being so — Chatrath says that the intention is not to build a company that simply will be snapped up by a bigger fish.
+
+“We believe this has the potential to exist as an independent,” he said. “I think of this as analogous to Adobe tools for graphic design. In the early days of the mobile industry we didn’t have any job description for user interface designers. You had to be a coder. But Adobe created higher level design tools so that graphic people who didn’t know how to code could make beautiful designs. We want to do the same, building a toolset to help anyone create specific behaviour.”

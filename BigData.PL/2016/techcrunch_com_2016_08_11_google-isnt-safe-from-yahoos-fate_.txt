@@ -1,0 +1,61 @@
+Google isn’t safe from Yahoo’s fate
+
+Yahoohas been beaten up in the press for so long that it’s hard to remember how untouchable the company once appeared.
+
+Afawning profile in Fortune magazine from 1998outlinedYahoo’s commanding position. “Yahoowon the search engine wars and was poised for greater things,” the article concluded, wisely prefacing the remark by warning, “Let’s leave aside, for now, questions of whetherYahoowill be aroundin 10 years.” At the time,Yahoowas drawing a then-impressive 40 million users a month. By 2000, the figure would jump to185 million.
+
+We all know what happened next. Recent press is awash in retrospectives, takeaways and lessons learned — many of which focus onYahoo’s failure to buy Facebook andGoogle, or sell to Microsoft. We’d like to think thatYahoo’s failure has made us wiser and more cautious, less likely to repeat the same mistakes. We’d also like to think that having witnessedYahoo’s demise we would be better able to spot a company that was at peak valuation and about to begin a long-term unraveling, a company that was on the wrong side of major trends.
+
+Would we, though? What if that company isGoogle, one of today’s untouchables?Yahoowent from a $125 billion valuation in 2000 toVerizon’s $4.83 billion acquisitionin just 16 years. Could the same thing happen toGoogle, ahem, Alphabet, in 2032?
+
+Definitely.
+
+Of course,Google’s numbers look great now. Fresh off reporting earnings on July 28, it once again beat expectations, sending its stock price surging. Industry observers walked awayimpressed by the strong growth in mobileadvertising revenue — seemingly a sign thatGooglehad effectively pivoted into the next big market for digital ads. What the latest numbers conceal is that the company is approaching the height of monetizing its existing assets with advertising, and that’s exactly the time to start worrying seriously about the future.
+
+Beneath the clean upward trajectory ofGoogle’s success, the digital advertising industry that it has long ruled over has fallen into turmoil and rapid change. It’s not clear ifGoogle’s advertising business will sustain its dominance.
+
+Googleis on the wrong side of major trends in the digital advertising industry:Googlecaptures direct response dollars as digital ad spend shifts up the funnel, its focus is still on browsers and websites as engagement is moving into apps and feeds,Googleis deeply dependent on search during a shift to serendipitous discovery and ads designed to interrupt the user’s attention are being replaced by advertising designed to engage them. Its competitor, Facebook, is on the right side of all these trends. CanGooglecatch up and avoidYahoo’sfate?
+
+Mary Meeker’s 2016 internet trends report had one slide that got everyone in the ad business talking.Slide No. 45detailed the discrepancy between the time consumers spend on each channel — print, TV, desktop, mobile — and the ad dollars devoted to reaching them in those channels. TV and print were oversubscribed, while mobile received less than half the dollars it seemingly deserves.
+
+Future growth in mobile — and in digital overall — depends on attracting ad dollars away from traditional channels like print and TV. The challenge with doing so is that ads in TV and print are generally “upper funnel” ad dollars — designed to drive awareness and intent instead of precipitate a direct response. Digital — particularlyGoogle’s core search offering — has proved itself an excellent vehicle for direct response, but hasn’tproved its worth as a medium for the kind of upper funnel dollars that will fuel future growth.
+
+Google’s search advertising model is built on direct response in that it charges for search ads that people click on. In theory, this is an entirely transparent model: After all, advertisers only pay when the advertising works. What it conceals is that they are taking more credit (and charging more) for value that its ads didn’tdeliver. By charging you for the click that follows a search,Googleeffectively takes credit for the entire funnel of purchase consideration that led you to type in the search and click on the link in the first place.
+
+AdWords can demand a high cost per click (CPC) for a competitive keyword like “Vacuum” because people who search for it and click on it already want vacuums; they developed purchase intent and are very likely to convert. But the ad itself didn’tcreate their purchase intent — it just takes credit for it.Google’s lower funnel ads are getting credit for upper-funnel effectiveness, in no small part because the latter is just too hard to measure.
+
+The remarkable success of that model has allowedGoogleto soak up a ton of the money in digital advertising, and the way that advertising was measured became the rest of the ad industry’s self-imposed standard.
+
+Thisisn’tGoogle’s fault. CPC search advertising has thus far been the most transparent model in a non-transparent system. The real “holy grail” of advertising — connecting attention to action, measuring (and giving proper credit to) every touch point along the way — is still yet to happen. But that day is coming. And once advertisers can close the loop on a real attribution model, the credit and a chunk of dollars will shift away from search and into ads that drive awareness and influence — effectively driving digital dollars into the upper and mid portions of the customer funnel where Facebook-style ads are more effective.
+
+One of the early signs of this shift has already manifested itself in thedeclining aggregate CPCacrossGoogle, which fell 8 percent YoY last year.
+
+For everyone that’s notGoogle, it’s impossible to guarantee that those seeing the ad have already developed purchase intent. Actually, on average, only half of one-tenth of a percent. of people who see traditional display ads actually click on them (theaverage click-through rateon display ads is 0.06 percent) andonly 50-60 percent are even viewable.
+
+As a result, publishers can’tcharge much for low-performing, interruptive display ad units. And so they have to sell more and more of these low-performing ads, clogging their pages with takeovers, wrappers and pop-ups that weigh on load times and ruin the user experience. The result of these interruptive tactics is that consumers have rejected digital advertising outright, leading to an unprecedented rise inad blocking, which grew 41 percent last year.
+
+Publishers and consumers have reached the tipping point, finally realizing that display advertising presents them with a no-win proposition. If they show enough display ads to turn a profit, they risk alienating their readers and driving them to block ads. And brands, for their part, are looking for a more effective medium than display ads for the upper-funnel advertising traditionally reserved for TV — the kind designed to drive brand awareness and purchase intent.
+
+Smart publishers have realized that the user experience put at risk by interruptive ads can actually form the basis of a more lucrative and sustainable offering in the form of sponsored content. The success of sponsored content depends on publishers delivering some value and relevance to their audience. And advertisers are realizing that sponsored content is a more effective vehicle for driving the kind of deep engagement and influence that their upper-funnel dollars are designed to achieve.
+
+Facebook is built for this shift to sponsored content. From Pages to Sponsored Posts, Facebook has staked its monetization strategy on feed-based non-interruptive native units that brands and publishers are turning to in greater and greater numbers, precisely at the same time as they turn away from the interruptive rail-based ads thatGooglesupports.
+
+Googleis aware of this threat and has enabled more content advertising on its platform bybringingsuch advertising to its DoubleClick display business. These new ads, however, are banners masquerading as content. This ignores the true appeal of content advertising, which is that the message can deliver some value to the consumer — some message thatisn’tjust “sign up now” or “buy now.” Lacking that, content advertising can look like just another ad unit and just a shift ofGoogle’s direct response business into the feed.
+
+Googlehas a search monopoly. But search no longer has a monopoly on the way that people find and engage with content. Just asFacebook has surpassedGooglein generating traffic to publishers, we are seeing the search bar slowly give way to a more organic process of discovery. As Seth Godin hasexplained, search is “the action of knowing what you want until you find it,” while discovery is “when the universe (or an organization or a friend) helps you encounter something you didn’tknow that you were looking for.”Googleis working from behind in this rapid evolution from basic search to organic discovery.
+
+The shift to mobile has already changed the dynamics of search.Google’s average number of searches per month — 100 billion —has been the same since 2012. That nets out to aboutone search on mobile per day, on average. By contrast, the average user spends50 minutes a day on Facebook. Facebook has surpassed search to become theNo. 1 source of traffic for digital publishersor content providers; social has replaced SEO.
+
+With discovery leveraging all the data that Facebook knows about the user, there is less need to search.
+
+The reason that sponsored content works so well on Facebook is that as users continue to spend more time on mobile than desktop, they are expecting to see feeds rather than websites.
+
+This is compounded by the fact that users spend just15 percentof their time on mobile in web browsers. The rest is spent within a select handful of apps, and Facebook’s Instagram, WhatsApp, Messenger and Facebook Mobile dominate the rankings for both downloads and time spent.
+
+Google’s answer to this is Accelerated Mobile Pages, or AMP, aGoogle-hosted environment similar to Facebook Instant Articles in which pages load faster. AMP is a great improvement (try it out ong.co/amp— on your mobile device) but it’s not really a feed in the truest sense. It’s just a faster web browser. There’s none of the individual curation that you get on Facebook — or that you might have gotten ifGooglePlus had taken off.
+
+Google’s strong performance in mobile from this last quarter has convinced Wall Street that it is poised to succeed in the mobile business writ large. But despite scale of Android adoption,Google’s mobile success is just the continued success of its existing search business on a different screen. It relies on users behaving the same way on mobile as they do on desktops; namely, searching through browsers for things they already want. But as the browser gets replaced by the feed, and search replaced by discovery,Googleis in as much of a disadvantage on mobile as anywhere else.
+
+UnlikeYahoo,Googlehas been good about identifying trends and using their remarkable war chest to get ahead of them. The company has brilliantly bought its way into leadership in strategic emerging categories: just look at YouTube, Android, DoubleClick AdMob. As much credit asGoogledeserves for these maneuvers — it’s fair to say that the expertise that kept them ahead of the trends was not home-grown.
+
+The business of digital content monetization is moving to a human-centric focus on quality and engagement. It is a shift that is not only technological in nature, andGooglewill need more than just new technology to get ahead of it. It needs a lessGoogle-y approach to content and creativity — a cultural shift and departure from the company’s left-brain comfort zone.

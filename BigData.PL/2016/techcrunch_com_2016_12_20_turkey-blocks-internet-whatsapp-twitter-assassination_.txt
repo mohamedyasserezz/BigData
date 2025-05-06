@@ -1,0 +1,25 @@
+Turkey maintains Tor block, flicks social networks offline for 12 hours
+
+In light of the assassination ofRussian Ambassador Andrey Karlov, Turkey further tightened its already restrictive limits on certain forms of internet use. The most recent censorship thrust followed the revelation that the statenow blocks Torwithin its borders. Turkey appears to have clamped down on social app use for a roughly 12-hour period following the international incident.
+
+According to an update onTurkey Blocks, an organization that monitors real-time censorship data in the country, starting around 8:45 p.m. local time “[the] monitoring network detected severe slowdowns affecting Facebook, Twitter, YouTube and WhatsApp for some, but not all, internet users in Turkey.”
+
+The restriction appears to have mostly blocked the social networks listed above, with Turkish ISP TTNet and mobile internet providers remaining unrestricted.
+
+“The blocks have been lifted as of just around 6 a.m. local time the morning after the assassination,” TurkeyBlocks founder Alp Toker told TechCrunch via email. “This social media shutdown was unusual — though there was an official broadcast ban, some operators didn’t implement the block so their users could still get through the whole time. That could be down to an administrative error in implementing the ban, or even a refusal to comply, say due to contention about Russia’s role in Syria — we don’t really know at this point.”
+
+Confirmed: Social media slowdown for many users detected in#Turkeyafter#Russiaambassador shooting broadcast banhttps://t.co/Fga9p84TIqpic.twitter.com/V8jyjWW6mS
+
+— Turkey Blocks (@TurkeyBlocks)December 19, 2016
+
+According to Toker, such a refusal wouldn’t be without precedent. During the 2016Turkish coup attempt, provider Turkcell claims to have resisted government demands to restrict its services.
+
+Previously, Tor provided one of the most useful workarounds for intrepid Turkish citizens looking for access and anonymity. Now, unfettered online access will be limited to those able to circumvent the state’s crackdown on Tor and VPNs. Custom VPN deployments and Tor bridge relays appear to remain viable for now.
+
+The Turkish government has a nasty habit of clamping down on social networks around major political events. In 2014, Turkish authorities blocked Twitter for a two-week period that only ended when a court ruling deemed the actionsunconstitutional. In 2014 and 2015, Turkey cut access to social networksprior to local elections. In 2016, Turkey appears to be more comfortable than ever with short, strategic social app blackouts that usually last less than 24 hours.
+
+If history is any guide, Turkey may continue to ramp up its digital censorship, cutting access to chat services like WhatsApp on top of the VPN block.
+
+“Everything we’ve seen suggests the Tor/VPN block is here to stay, not a measure that gets switched on or off at request… So that’s a pretty serious escalation,” Toker said. “It’s when the two are combined that Turkey gets a potent new capability to restrict the flow of information as desired far more effectively than in the past. And it gets to collect more surveillance data on websites visited etc. which has reportedly been used to arrest alleged coupists and opposition group members in the ongoing crackdown.”
+
+If you’re in Turkey and need a solution, we’d recommend our guide onhow to get around Turkish censorship. With Tor off the table, it’s possible that some of the other loopholes still work, but it’s likely a matter of trial and error.

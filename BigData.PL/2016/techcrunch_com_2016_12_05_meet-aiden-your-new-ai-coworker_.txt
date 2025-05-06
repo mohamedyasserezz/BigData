@@ -1,0 +1,49 @@
+Meet Aiden, your new AI coworker
+
+Let’s say you want to know where one of your digital marketing campaigns is getting the most traction: Twitter or Facebook. You might need to check several dashboards across your social accounts and Google analytics to compile the data — and even if you conclude that one platform is outperforming the other, that might change next week as users shift their attention to Instagram.
+
+“As a marketer, you spend tons of time in fragmented dashboards. People spend almost 10 hours a week just searching for data. Another point we found out is that 60 percent of ad spend is actually wasted. Two of the big challenges for marketers today are a) what is important with my data and b) what do I do next,” says Pierre-Jean Camillieri, who co-foundedAidenwith Marie Outtier.
+
+Aiden is the artificial intelligence solution to that marketing waste. It’s intended to feel like just another co-worker, relying on natural language processing to make the exchange feel chatty and comfortable. Aiden queries data from multiple dashboards and quickly compiles it into flashy charts, making it easy to find and digest. Marketers can meet Aiden where they are, whether that’s Slack, text message, or email.
+
+Outtier spent eight years working in digital marketing, so she knows firsthand how frustrating it can be to manage marketing data. Aiden can help stay on top of vast datasets, she says, and even detect shifts in the market before burning through the marketing budget.
+
+“There’s a number of other tools that we’re going to be plugging in to, so we have a holistic view. Aiden is going to recommend to shift some of the budget from this channel to that channel. The goal is really for it to make recommendations that change over time.”
+
+Although many artificial intelligence solutions aim to be generic personal assistants that can look up the weather and manage a calendar, Aiden is specifically attuned to marketing, so it can fish out marketing techniques — even if the co-worker chatting with Aiden isn’t dropping specific terminology.
+
+Aiden also uses pattern recognition to detect changes and make suggestions — so if your company’s website is getting a burst of traffic from a media article, Aiden will notice the change and suggest a marketing campaign, including the media mention.
+
+Aiden is currently available on a subscription model, with an enterprise tier coming next year.
+
+“Today a lot of marketing spend is not optimized at all,” Camillieri explained. “Aiden is going to help tremendously with that.”
+
+Battlefield judge Q&A (condensed and edited for clarity):
+
+Can you talk a little bit about your route to market?
+
+It’s really hard to get agencies to pay for anything unless it gets them more business. Instead of 10 clients, most marketing analysts can manage 50 clients with Aiden. In the sample of clients we have in private beta, agencies save time and add more clients.
+
+How many integrations have you built so far?
+
+We’ve worked on two things for now: Facebook for advertisers and Google Analytics. We sat down with our clients and asked, “How do you use it and what do you need?” Now it’s a matter of prioritizing based on their demand.
+
+Is the core product a better dashboard or optimizing spend?
+
+It’s a mixture of helping you better see through your data. On top of that, it’s something that holds your hand. It’s prediction as well as visualization.
+
+How many clients do you have now?
+
+We’re at six companies. All of them are spending on digital marketing; some of them are spending $80k a month and some are spending $10k a month. Our goal is enterprise in 2017.
+
+When is your public launch?
+
+In the next two months. We are constrained by the lack of resources but we are closing a round soon.
+
+What is the AI element?
+
+The first thing we wanted to do is take Marie’s expertise and put it into algorithms. She knows how to optimize a Facebook campaign. We try to anticipate what we think is going to happen. To do this well, we need strong domain expertise in marketing plus the technical expertise.
+
+How much data do you need before you make recommendations?
+
+Some things are not that difficult. We don’t need tons of time. Dollar spend equals data collected. If you don’t spend a lot of money, it’s harder for us to get those numbers.

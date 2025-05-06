@@ -1,0 +1,11 @@
+A new tool can crack a credit card number in six seconds
+
+In what amounts to a very clever brute force attack, a group of researchers has figured out how to find credit card information – including expiration dates and CVV numbers – by querying ecommerce sites. The process, which was outlined inIEEE Security & Privacy, involves guessing and testing hundreds of permutations of expiration dates and CVV numbers on hundreds of sites.
+
+MasterCards aren’t susceptible to this attack because their system shuts down cards after 100 attempts. Visa cardholders aren’t so lucky.
+
+The researchers, Mohammed Aamir Ali, Budi Arief, Martin Emms, and Aad van Moorsel, believe that their tool can also be used to guess ZIP codes and address data or hackers can simply correlate location data with issuing banks or use skimmers to figure out where different cards are used. If the commerce site doesn’t require a ZIP code, however, cracking the card is as simple as running a program.
+
+The researchers believe that these attacks are already happening in the wild and that their solution – while distressing – isn’t unique, which makes it much scarier.
+
+[youtube=https://www.youtube.com/watch?v=uwvjZGKwKvY]

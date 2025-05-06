@@ -1,0 +1,27 @@
+Stand up against the stand-up
+
+It’s custom; it’s tradition; it’s dogma; it’s a cargo cult. It is well-intentioned, but all too often, ill-advised. It’s done because it is the thing one does. It wastes your time, shackles your mind, kills your productivity. It is the ritual that so many software developers suffer silently through, every day It is the daily stand-up. I say to you: no more!
+
+Before I lay waste to my target, let me first say: it’s notalwaysawful. If your team is all in one physical location; if they all start their work at exactly the same time; and if the stand-up takes fewer than ten minutes, with any issues raised immediately assigned to be dealt with later by ad-hoc groups for whom they are relevant — in that case a daily stand-up is, indeed, an excellent way to maintain momentum, identify problems as soon as possible, and foster team communication.
+
+Which is why the daily stand-up became A Thing, back in the days of yesteryore when nobody on your team worked remotely, much less in entirely different time zones; when nobody arrived an hour earlier or an hour later than anybody else; when “agile development” was still about actually being agile. Those were the years. But this is today. To quotemyself:
+
+In many places, ‘agile development’ has become codified into a fixed, carefully specified process of “standups” and “scrums” and “sprints,” which is darkly ironic given that the key principles of the Agile Manifesto include “value individuals and interactions over processes and tools” and “value responding to change over following a plan.” So what did companies create and fervently follow? Agile processes, tools, and plans. Sigh. If you are a Certified Scrum Master, you are doing it wrong.
+
+Similarly, if you have a daily stand-up, it should not be because you take it as received faith that this is a good idea; it should be because you have carefully interrogated its actual purpose and outcome, and concluded that it is worthwhile despite its significant costs.
+
+I’ll get back to those costs. First let’s talk about a stand-up’s intended purpose: to maintain momentum, identify problems, and foster team communication. Back in the bad old days the only alternative for voice communication was email. Today, though, we have tools like Slack, or the like. If your team is in constant asynchronous communication via Slack and its ilk, why do you need a synchronous stand-up? Conversely, if your teamisn’tin constant asynchronous communication, do you really think your problems are so small that a mere daily synchronous stand-up will help?
+
+Now let’s talk about the costs. Yes, there are costs. There arevery significantcosts, ones which are often essentially invisible to managers. For further explication let me refer you to Paul Graham’s excellent essay “Maker’s Schedule, Manager’s Schedule“:
+
+there’s another way of using time that’s common among people who make things, like programmers and writers. They generally prefer to use time in units of half a day at least. You can’t write or program well in units of an hour. That’s barely enough time to get started. When you’re operating on the maker’s schedule, meetings are a disaster. A single meeting can blow a whole afternoon…
+
+Worse yet: for a lot of people, their sharpest, most productive time is first thing in the morning. So standups face a catch-22: they either occupy the very best and most productive time of many developers’ days, or else they detonate in the middle of the day, generally requiring atleasttwenty minutes of context switching before and after.
+
+Figure your stand-up lasts twenty minutes. Then the developer time it occupies, including context switching, is one hour per developer. Suppose your team has eight developers: then asingle twenty-minute daily standupoccupies eight hours a day of developer-time … in other words, is equivalent to an entire person sitting around doing nothing, ever.
+
+Now, granted, some people may find greater cohesion, greater sense of purpose, a greater sense of belonging, from a twenty-minute meeting once a day. Sometimes you may have a specific need for the whole team to sync up (before meetings imposed by clients or executive, for instance.) Sometimes, again, you actually do have everyone in the same physical location starting at the same time every day, the circumstances for which the stand-up was originally proposed.
+
+But for certain projects, and certain teams — I would suggestmostof them — the stand-up can and should be replaced with thecheck-in: as soon as every team member comes online in their morning (or evening, if they’re like some night owls or faraway contractors with whom I’ve worked…) they contribute to a dedicated “check-in” Slack channel or equivalent, reporting what they did yesterday, what they’re doing today, what problems and unknowns they face.
+
+As others come online, they communicate to solve these issues, via text or voice or shared screen, coordinated of course by your friendly neighborhood project manager. But not all at the same time. In this glory era of asynchronous communication, synchronicity is highly overrated.

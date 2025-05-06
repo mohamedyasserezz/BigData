@@ -1,0 +1,41 @@
+Unsexy Flexport scores $65 million as software eats shipping
+
+Freight forwarding is a multi-trillion industry, but most people don’t even know what those words mean. It’s the business of moving boats, trucks and planes full of stuff across the world that’s recently been neglected by technology.
+
+Historically, freight forwarding has been handled by a mess of paper manifests, emails and spreadsheets, with little transparency, insights or flexibility to change routes on-the-fly. But sometimes the dullest types of work hold the biggest opportunities for startups.
+
+EnterFlexport, which just raised a$65 million Series Bat a valuation well over $300 million to make freight forwarding programmable. CEO Ryan Petersen calls it “the SeamlessWeb of commerce.”
+
+Flexport is both a traditional freight forwarding service that arranges your goods to be transported, and a data provider. You can learn more about its back story, business and kerfuffle with Steve Jobs in our profile of the company,“The unsexiest trillion-dollar startup.”
+
+Flexport’s softwareingests verified manifest dataabout what’s being shipped, how much it’s worth and where it’s going. Manufacturers can then use this data to optimize the routes taken by their goods, and make sure they always have enough products in stores. You can’t shop your shipment around to multiple forwarders, but instead Flexport provides deeper visibility into what’s happening to your freight.
+
+The promise of using the data value-add to disrupt massive freight forwarding businesses like DHL and Expeditors convinced most of Flexport’s existing investors to double down and fill out this round.Founders Fund, Bloomberg Beta, Felicis Ventures, First Round Capital, Susa Ventures, Yuri Milner and others are all back for this Series B, with the addition of Joe Lonsdale of 8VC. Founders Fund’s Trae Stephens will join the board of Flexport, which has nowraised $94 million totalsince being founded in 2013.
+
+“Flexportis where ‘software eats the world’ meets international shipping” says Y Combinator founder and Flexport investor Paul Graham. “Can you imagine what the world would be like if international trade was made easier, the way software has made our work and personal lives easier?”
+
+How Flexport works
+
+Unlike many of today’s fast-rising startups, Flexport isn’t bleeding cash. “We actually make money on the growth. I think that’s pretty unique here. We have the opportunity to be one of the first really profitable unicorn companies,” Petersen tells me.
+
+He has a right to be proud, but also might be kicking himself. The volume of goods shipped by Flexport is up 16X year over year, and the company just crossed $1 billion in merchandise moved this year. Those goods would be worth $2.5 billion at retail, while all of Amazon saw $107 billion in revenue in 2015. Petersen beams, saying “We’re 2% of their size just a few years into our business.”
+
+But perhaps if he had waited a few more months to raise the Series B, Flexport would be flying at a much higher valuation. The round came together over the summer, but “we’ve grown revenue 80% in two months,” and racked up $500,000 in August, Petersen says, simultaneously shocked, excited and a bit wistful.
+
+Yet he knows this situation is much better than running out of money or not having enough to compete. “I was tired of being cash constrained. We want to go play offense.”
+
+Flexport will pour the funding into further international expansion, especially setting up offices to “grease the wheels” with China, from where many of its clients ship. “We really want to invest hard in China. We’re gonna make mistakes there, though they won’t be on the order of what Uber did,” laughs Petersen.
+
+Flexport’s Shenzhen office joins those located in Hong Kong, New York, Amsterdam and elsewhere, instead of the startup building one massive headquarters. “The small teams are much more fun to work on and in many ways are more productive. Instead of an office with 1,000 people in it, I’d rather have 10 offices with 100.Everybody knows each other’s names. It leads to less politics.” Petersen says he’s happy to shell out for top-notch video conferencing equipment.
+
+The cooperation of these teams has created Flexport’s next big differentiator: the ability to re-route shipments down to individual pallets while they’re en route.
+
+“Let’s say you’re a company that sells speakers, and you sell into three different retailers: Target, Best Buy, and Walmart. Right now you need all this inventory in the warehouse so when they buy a pallet, you can send it,” Petersen explains.
+
+Now with Flexport’s API, “You can buy a whole container of speakers from China, and from the container in the ocean you can re-route those pallets (to whichever store wants more). Businesses go crazy from this. They can have less inventory in the warehouses, and basically turn those containers into moving warehouses,” Petersen tells us.
+
+New board member Trae Stephens says “Flexport’s helping to tackle the problem of bringing the industry to the internet age. The value of full visibility into your supply chain won’t just lead to smarter decisions, it could completely change your business.”
+
+Flexport will have to duke it out with startups like Haven trying to pick it apart with specific services, and the wealthy freight forwarding giants eager to clone or out-spend it. Petersen says one of their competitors’ Chief Information Officers keeps calling Flexport’s customers to see what it should be doing better. Another offered a Flexport employee 5X their salary to jump ship, but they stayed loyal. “Why? Because he knew they were going to fail,” says Petersen.
+
+“Competitors either ridicule us or take us very seriously, but either way they don’t like us.” In startups as in video games, if the enemies are getting stronger, you’re moving in the right direction.

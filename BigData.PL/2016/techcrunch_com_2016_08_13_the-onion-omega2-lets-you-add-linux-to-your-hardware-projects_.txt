@@ -1,0 +1,13 @@
+The Onion Omega2 lets you add Linux to your hardware projects
+
+Need a tiny, $5 computer to build a robot that will bring you your slippers, initiate a massage chair session, and pour out your daily dose of bourbon?The Onion Omega2can do all that and more.
+
+This tiny board is Arduino-compatible but also runs Linux natively. This means you can plug it in and get a command line or access the system via a desktop-like web interface. It has Wi-Fi built in and can be expanded to support cellular, Bluebooth, and GPS connections.
+
+“Omega2 is a Linux computer designed for hardware projects. It does a few things. First it allows software developers to develop hardware using high-level programming languages and familiar developer tools. It also allows non-technical people to program using drag and drop interface,” said co-founder Boken Lin. “We created modular expansions so people with limited electronics knowledge can still build complex hardware projects.”
+
+I saw this teeny board in the flesh in Columbus and was pretty impressed. To get a command line on something this tiny is pretty cool and the fact that it’s completely modular and self-contained is incredible. Obviously you need some programming skills and some extras to get at the heart of this bugger but it’s a fun way to start hardware hacking.
+
+The unit itself costs $5 on Kickstarter and will ship in November. Lin also created the firstOnion Omegaback in 2015. This model is more standalone and a bit faster. The $5 unit comes with 32MB RAM and 16MB storage while the $9 “Plus” model has 128MB RAM and 32MB storage. Docks to connect the device to power and storage cost about $15. You can even add an OLED screen to see what’s going on inside the little brain.
+
+While it will take a little programming to get this thing to mimic your friendly neighborhood dog, because you can program in Python, PHP, and nodeJS you won’t have to learn new language to get started.

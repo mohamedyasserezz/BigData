@@ -1,0 +1,25 @@
+Numerai is a crowdsourced hedge fund for machine learning experts
+
+Richard Craib believes that some of the best stock pickers aren’t on Wall Street. The former hedge funder came to the realization that tech’s machine learning experts may be able to build better predictive models than those with finance backgrounds.
+
+Craib carried this thesis forward when he launchedNumerailast year, a crowdsourced hedge fund. The startup hopes to attract the best and brightest minds at companies like Google and pay them for their AI skills.
+
+And the first year saw significant traction, with 7,500 “data scientists” creating algorithms on Numerai’s platform. Now the startup is announcing $6 million in funding from First Round Capital and Union Square Ventures to continue their team’s expansion and buy more historical data sets (Craib refused to say where they get their data).
+
+“We invested because Numerai is an open access hedge fund,” said Andy Weissman, a partner at Union Square Ventures. Anyone is allowed to participate, so it’s a “model built upon a set of principles that have open participation andanonymity at their core.”
+
+Numerai works by building its own financial model that incorporates the algorithms submitted by others. The team democratizes participation by making the data readily accessible, but ensures that it is encrypted and not shareable.
+
+Users are invited to download the data and build their own algorithm, targeting regions or sectors of the stock market. Most of the participants reside in the U.S., Russia or China.
+
+These people do not invest in or generate any income from the hedge fund directly, but the most accurate submission gets awarded about $60,000 in income per year, with the top 100 users all paid some money. Craib says that users are paid in bitcoin to guarantee anonymity for people who want to hide their participation in Numerai. He acknowledged that because of the anonymity, he doesn’t know whether some of the entrants are doing something that violates the protocols set by their employers.
+
+The fund size is over $1 million right now, with much of the money coming from Craib personally. He hopes that a favorable investing track record will help attract institutional investors and that they can ultimately charge performance fees.
+
+Yet while Numerai has a unique approach to getting the brightest minds of tech to participate in equities, the algorithms can only be formed based on previous data trends. And past behavior is not necessarily predictive of future behavior.
+
+But the reliance on historical data is essential, says Craib. It ensures there’s “no way for them to impose their own biases.” He says they weight the best-performing algorithms more heavily in their formula.
+
+Craib could not reveal their positions or share whether or not they have outperformed the DJIA, because it would violate SEC rules about marketing to the media. He just was able to say that they are raising new funding because they’re “performing very well.”
+
+Numerai is based in San Francisco andpreviously raised fundingfrom Howard Morgan, Naval Ravikant and others.

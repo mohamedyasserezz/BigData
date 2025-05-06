@@ -1,0 +1,15 @@
+AWS gives developers larger instances to work with
+
+Amazon kicked off its 2016 AWS re:Invent conference with a peppering of announcements regarding its EC2 instance roadmap. The company dropped an updated R4 instance, expanded T2 instances, and a new F1 instance.The F1 utilizes field-programmable gate arrays (FPGAs) to offer a solution that is faster than traditional CPU/GPU combinations for quick reprogramming.
+
+While those new instances will be available today,Amazon also showed off new elastic GPUsas well as I3 and C5 instances that will launch shortly in the future. We decided to break outthe F1 instanceandnew elastic GPUsin their own posts but info on the other instances is below.
+
+Amazon’s working hard to stay ahead of competitors like Google by packing as much power into EC2 instances as it possibly can. While instance updates can be expected on a regular basis as the cost of components decreases, today’s releases pack an undeniable power punch.
+
+Amazon’s T2 instances, commonly used for web servers and small databases, got a serious extension with new T2.xlarge and T2.2xlarge instances. The former will include 16 GiB for 2x the memory while the later packs in 32 GiB for 4x the memory. Both new instances will run on a 64-bit platform. At a price-per-hour basis, Amazon quotes $0.188 for the xl instance and $0.376 for the 2xl instance running on Linux.
+
+Amazon’s solution for in-memory processing also got an upgrade today.The company effectively doubled memory in moving from the 244 GiB of memory on the previous R3 instance to the 488 GiB of memory found on the new R4. This change also comes with a move to DDR4 for twice the speed, a 1.8X L3 cache and a 2x boost to 64 vCPUs. The R4 instances will feature High Frequency Intel Xeon E5-2686 v4 “Broadwell” Processors (2.4 GHz).
+
+Users of NoSQL databases like Cassandra and MongoDB and friends of Hadoop got a treat in the form of a 9x IOPS increase on the new I3 instance. It will have 3.3 million IOPS alongside 488 GiB, a 15.2TB NVMe SSD and 64 vCPUs. This is roughly twice the stats across the board when compared to the prior I2 instance.
+
+Last but not least, Amazon announced that its C5 instance would replace the C4’s Intel Haswell processors with Intel Skylake for, you guessed it, twice the performance. Coming in six sizes, instances are optimized for machine learning, multimedia, and scientific calculations. Amazon is offering twice the vCPUSs on the new C5. Throughput and memory will increase by 3X and 2.4X respectively. This means the new C5 instance will include 144 GiB of memory and 12 Gbps to EBS.

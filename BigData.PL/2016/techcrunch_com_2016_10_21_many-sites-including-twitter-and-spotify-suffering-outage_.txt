@@ -1,0 +1,37 @@
+Large DDoS attacks cause outages at Twitter, Spotify, and other sites
+
+Several waves of major cyberattacks against an internet directory service knocked dozens of popular websites offline today, with outages continuing into the afternoon.
+
+Twitter, SoundCloud, Spotify, Shopify, and other websites have been inaccessible to many users throughout the day. The outages are the result of several distributed denial of service (DDoS) attacks on the DNS provider Dyn, the companyconfirmed. The outages were first reported onHacker News.
+
+“We are actively in the third flank of this attack,” Dyn’s chief strategy officer Kyle York told reporters around 4:30 p.m. ET today. “It’s a very smart attack. As we mitigate, they react.”
+
+Dyn’s general counsel Dave Allen added that, with the help of other infrastructure companies Akamai and Flashpoint, Dyn has determined that some of the traffic used in the attacks comes from the Mirai botnet, a network of infected Internet of Things devices used in other recent large-scale DDoS attacks.
+
+Dyn and other DNS providers operate as a link between the URLs you type into your browser and the corresponding IP addresses. DDoS attacks are frequently used to censor specific websites by overwhelming them with junk traffic and knocking them offline. However, by attacking Dyn, it’s possible to overwhelm that directory function and cause outages and loading problems across a large swath of the internet.
+
+Other sites experiencing issues include Box, Boston Globe, New York Times, Github, Airbnb, Reddit, Freshbooks, Heroku and Vox Media properties. Users in Europe and Asia may experience fewer problems than those in the U.S. — according toDownDectector’s outage map, the DDoS attacks against Dyn are primarily impacting U.S. users.
+
+The DDoS attacks on Dyn began this morning. Service was temporarily restored around 9:30 a.m. ET, but a second attack began around noon, knocking sites offline once again.The DNS provider said engineers were working on “mitigating” the issue, but a third wave began around 4:30 p.m. ET before being resolved roughly two hours later.
+
+“The complexity of the attacks is making it complicated for us. It’s so distributed, coming from tens of millions of source IP addresses around the world. What they’re doing is moving around the world with each attack,” Dyn’s York explained.York said that the DDoS attack initially targeted the company’s data centers on the East Coast, then moved to international data centers. The attack contained “specific nuance to parts of our infrastructure,” he added.
+
+TheWhite House press secretarytold members of the press this morning that the Department of Homeland Security is looking into the attacks. Dyn employees said the company is working with law enforcement to investigate the attacks and has received support from customers, competitors, and the State Department.
+
+Dyn said it has not yet attributed the attack to any group or country, and that the DDoS traffic has been coming from tens of millions of discrete IP addresses around the globe. Although DDoS attacks are sometimes accompanied by extortion letters that ask a company to hand over bitcoin in exchange for ceasing an attack, Dyn said it has not received any messages from its attackers. “We are working incredibly diligently on that with the law enforcement community and infrastructure community,” York said of the attribution process. “No one wants to be next.”
+
+The DDoS attack on Dyn follows on the heels of one of the largest DDoS attack in history, which used the Mirai botnet to target the website of independent cybersecurity journalistBrian Krebs. Although DDoS attacks have historically used large networks of compromised computers called botnets to send junk traffic to sites, overwhelming them and making them inaccessible to legitimate users, the Krebs attack expanded in scale by using compromised Internet of Things devices like security cameras to build a botnet. IoT devices are cheaply manufactured and notoriously insecure, making them easy to compromise.
+
+After the attack on Krebs’ website, thecode used to build the botnetleaked online, making more massive DDoS attacks all but inevitable.
+
+“There are 3.4 billion internet users globally and 10 to 15 billion IoT devices. It’s a complex world. All we can do is lock arms together and see how we can rectify this,” York said.
+
+Security researcher Bruce Schneierreportedin September that several internet infrastructure companies had been targeted with DDoS attacks, although they had not caused the kind of widespread outages experienced today. Shneier wrote that the attacks seemed designed to test companies’ defensive capabilities:
+
+“These attacks are significantly larger than the ones they’re used to seeing. They last longer. They’re more sophisticated. And they look like probing. One week, the attack would start at a particular level of attack and slowly ramp up before stopping. The next week, it would start at that higher point and continue. And so on, along those lines, as if the attacker were looking for the exact point of failure.”
+
+“Someone is extensively testing the core defensive capabilities of the companies that provide critical Internet services,” Schneier added.
+
+If you’re experiencing connection problems, you can try changing your DNS settings (instructions for how to do this on Mac and Windows arehere). Anecdotally, our staff has used OpenDNS (208.67.222.222 and 208.67.220.220) andOpenNIC serversand seen connectivity improve.
+
+Developing…

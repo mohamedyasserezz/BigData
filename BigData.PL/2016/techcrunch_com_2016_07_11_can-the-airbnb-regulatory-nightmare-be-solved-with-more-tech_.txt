@@ -1,0 +1,45 @@
+Can the Airbnb regulatory nightmare be solved with more tech?
+
+Got an angry mob of local government officials, taxi drivers and hotel operators trying to shut down your business? There’s an app for that. But can solving regulatory nightmares really be that simple?
+
+Sharing economy startups like Airbnb and Uber have gone nuclear to defend their business model, suing city governments or shuttering their services entirely when they don’t get their way.Airbnb recently sued the City of San Franciscoover legislation that would require Airbnb to boot hosts off its platform if they don’t register with the city.
+
+Uber and Lyft haven’t had much more success when flirting with regulators. The two ride-sharing companiesflew the coop in Austinafter voters affirmed city legislation requiring fingerprint-based background checks and strict rules on drop-off and pick-up locations.
+
+These battles between tech companies and local governments have become formulaic: Municipality makes gutsy move, draws national attention for sticking up to industry giant, company refuses to compromise. The public rapidly grows tired of the laborious council hearings, judicial proceedings, settlements and votes. Rinse and repeat in hundreds of cities across the country.
+
+Instead of constant regulatory stalemates, what if companies and governments worked together to streamline the oversight process? One tech company hopes to become the collaboration platform where Airbnb and cities like San Francisco can set aside their differences.Accela, a civic software company, says it has been in talks with companies like Airbnb and Uber to find a SaaS solution for their political woes. Accela believes it has the technology to solve regulatory problems — but implementing Accela’s tools will require bringing companies and governments to the table, a challenge that could prove difficult.
+
+Accela has quietly played a background role in issues like gun and marijuana licensing for quite some time. Its software is used by more than 70 percent of the 50 largest U.S. cities to manage permitting and open data. Founded in 1999, the private company has raised $300 million to date.
+
+Now, Accela is turning its attention to sharing economy regulation. Maury Blackman, CEO of Accela, believes that it’s going to take a tech solution to solve a tech problem. Blackman and his team are currently developing a product that will enable municipalities to accept digital permit applications for things like short-term rentals and transportation services.
+
+Such a solution is elegant on paper, but it’s unclear whether Blackman will be able to create something millennials will use and municipalities will accept. San Francisco, New York and other major cities often require rigorous documentation and registration before hosts can rent their homes on Airbnb. An efficient futuristic system could allow homeowners to upload time-stamped and geotagged photos and registration paperwork from their mobile device — but implementing such a system could require legislative change and extensive cooperation from tech companies that are often tight-fisted with their data.
+
+To make this kind of system work, Airbnb would need to share a list of its hosts with city governments, so it could be cross-checked with a list of those who have registered with the city. Governments would need to reduce barriers for hosts by allowing them to file for permits online and allowing them to submit their paperwork through the Airbnb app.
+
+Airbnb, Uber and others will also need to be flexible, as regulations are often made on a city-by-city basis. “The federal government is not going to regulate this,” said Matthew Yale, the Head of Regulatory Affairs at political strategy firmTusk Ventures. Tusk straddles the roles of Olivia Pope, Patton Boggs and Marc Andreessen for tech companies that run into regulatory hurdles, and works with Uber and other major companies.
+
+“If there is not going to be some compromise or efforts made, I would question the longevity of the business,” Yale added.
+
+Accela wants to be part of backend integration for the sharing economy, and has done this type of integration before. The company worked with Yelp to include health inspection records into restaurant profiles. Accela also offers a solution for solar permitting that enables users to submit necessary documents and photos straight to inspectors and utility companies. A process that once took 30 days now takes one.
+
+Before change can happen in sharing-economy regulation, municipalities first have to lower the barriers to compliance. Applicants should not be required to send physical documentation to multiple government offices and wait for approval. Once compliance is attainable, tech companies have to stop letting users violate known regulations. The best way to accomplish this will be backend API integration directly with civic regulatory data.
+
+There is precedent for SaaS-induced societal change. Marijuana was made legal in Denver, CO in 2012. The city was hit with a wave of retail marijuana applications spread across seven types of licenses. Accela estimates that the city saved $3.5 million over the last five years by centralizing information on the company’s platform. Information sharing and modernized management systems enabled the city to respond to applications twice as fast as before implementation.
+
+Asheville, NC is one of a small number of cities using Accela to manage homestays. The system isn’t slick, but it works. Asheville hired an enforcement employee in another signal that the city is ready and willing to work with renters. The most advanced test run was in Dubai. Users in the city can use a web portal to receive regulatory approval to list their homes as short-term rentals. Taking the process digital only solves part of the problem, but saves time and provides scalable oversight to the wild-west sharing economy.
+
+The best catalyst for change will be government association meetings like the National League of Cities, where municipal leaders mingle and share best practices. It may sound comical, but summits like this actually do spark change. Accela is at a huge advantage because the company already has relationships with urban decision makers.
+
+The federal government is not going to regulate this.Matthew Yale
+
+Getting the sharing economy under control will almost certainly take longer than expected. Accela plans to work in baby steps with its lobbyists. Startups rightly should fight to maintain user experience so long as it doesn’t come at the price of safety. That said, it’s harder to disrupt laws than eager startups may think.
+
+Airbnb acknowledged the prospect of a platform to allow municipalities to accept permit applications for short-term rentals online was interesting when we asked the company, but decided not to comment further. We reached out to Uber but the company did not respond to our request for comment. My money is on an Airbnb-Accela partnership over the next six to 12 months.
+
+Taking permits digital will only go so far in solving the regulatory ailments of the sharing economy. Anything short of backend deployment within an app like Airbnb will be a disappointment.
+
+“Not going to rule it out, our tech can make that possible,” said Tim Woodbury, Director of Government Relations for Accela. “It’s a matter of whether cities and the sharing economy head in that direction.”
+
+Change is going to be minimal until government starts dreaming and tech gets realistic.

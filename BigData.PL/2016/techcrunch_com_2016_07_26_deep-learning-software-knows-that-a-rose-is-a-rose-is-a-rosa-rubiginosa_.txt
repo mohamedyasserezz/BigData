@@ -1,0 +1,15 @@
+Deep learning software knows that a rose is a rose is a rosa rubiginosa
+
+We can’t all be botanists, unfortunately, but most of us do have smartphones, and that may be a start. A computer vision system built by Microsoft Research Asia can identify thousands of species of flowers with nothing but a picture.
+
+The Smart Flower Recognition System (Microsoft always did have a way with branding) began serendipitously, with the chance meeting ofMSRA’s Yong Ruiand botanists from the Chinese Academy of Science at a seminar. Rui’s image analysis work was a perfect match for the botanists, who were trying to figure out how to sort through millions of publicly submitted images of local flowers.
+
+Ah, spring! When a young researcher’s fancy turns to inter-disciplinary collaboration.
+
+The system is built on – what else? – machine learning, specifically aCaffeconvolutional neural network trained in 800,000 flower images. Different species of flowers are differentiated enough that, like faces, they can be told apart by running them through a series of filters made to highlight certain features.
+
+Certain curves, certain dark spots, certain proportions – the subtle reasoning of the neural network mirrors our own intuitive recognition of familiar shapes and colors.
+
+“The flower-recognition engine enables domain experts to acquire plant distribution in China in an efficient way. Not only that, this engine can help ordinary people who have a strong interest in flowers to gain more knowledge.”
+
+I asked Rui when the Smart Flower Recognition System will make its way into some kind of web service or app, like so many other experimental machine learning systems. If I hear back, you’ll be the first to know.

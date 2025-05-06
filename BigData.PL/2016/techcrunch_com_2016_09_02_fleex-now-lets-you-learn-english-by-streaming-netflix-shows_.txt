@@ -1,0 +1,19 @@
+Fleex now lets you learn English by streaming Netflix shows
+
+When I first coveredFleex, itwasa neat little video player that let you learn English using your favorite movies or TV shows. Since then,Reversohas acqui-hired the team behind Fleex and now plans to relaunch the language learning platform with a new killer feature — Netflix shows.
+
+Maybe I’m biased because it’s basically how I learned English, but I think watching all your movies and TV shows in a foreign language will drastically help you when it comes to learning that language.
+
+At first, you start with subtitles, then you switch the language of the subtitles so that both the audio and the subtitles are in the foreign language. Then you drop the subtitles altogether. You’ve got to force yourself so that when you go to the next phase it feels difficult to understand at first.
+
+On Fleex, you start with subtitles in both your native language and English. Slowly, Fleex removes subtitles in your native language. For the hardest parts of the video, you still get subtitles in both languages, but not all the time. Then Fleex removes subtitles completely.
+
+At any time, you can pause the video, click on a word to look up the definition inReverso Contextand add it to your list of words you want to learn.
+
+Fleex costs €6.90 per month or €39 per year. It still works with TED talks and your personal videos if you don’t download the Fleex player on your computer. But the company is also adding Netflix as a source. I couldn’t try it yet, but it’s supposed to go live any day.
+
+So how does Netflix support work? It’s a client-side integration. Netflix doesn’t have an API, but uses an HTML5 player that browser extensions can play with. For instance, you can add subtitles and interactions on top of the Netflix player.
+
+“Netflix wasn’t available internationally a couple of years ago,” Reverso CEO Theo Hoffenberg told me. “But now, Netflix is quite open and we can work with the Netflix player directly. It’s not an API, but it’s open.”
+
+The good thing is that Netflix can’t stop them from doing that as everything happens in your browser. From Netflix’s servers, it looks like yet another person streaming a show on Netflix. And Netflix will probably be happy that you’re spending more time (and money) watching Netflix content anyway — it’s a win-win.

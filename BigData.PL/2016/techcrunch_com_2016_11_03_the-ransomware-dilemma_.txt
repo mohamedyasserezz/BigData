@@ -1,0 +1,111 @@
+The ransomware dilemma
+
+More than 90 percent of all phishing emails are now ransomware. The average amount paid via ransomware has grown from $40 in 2009 to $1,000 in 2016. This amount will grow even faster as ransomware moves to enterprise.
+
+An LA-based hospital paid $17,000 and, according to FBI records, several small businesses have paid as much as $80,000. Many are embarrassed to admit it, so we may never know the real figures. According toCyber Threat Alliance, ransomware variant CryptoLocker generated $325 million for the hackers within 100 daysof launch. At the Black Hat 2016 CISO Summit in Las Vegas, several industry experts projected a billion dollars will be paid in ransomware in 2016.
+
+Everyone. Individuals, enterprise, small businesses, schools, churches, public libraries — a sample of those exploited can be seen in the following table. When a church in Oregon was hit with ransomware,Pastor David Eppelsheimer told Newsweek,“My theology is…love my neighbor even if he steals from me. But I was angry at the moment. It felt like a faceless, nameless evil from the other side of the world descended on me and my church.”
+
+Entity
+
+Amount
+
+Ransomware Paid
+
+Pest control company, North Carolina
+
+$80,000
+
+Insurance company, Pittsburgh, Pennsylvania
+
+$70,000
+
+Restaurant, Florida
+
+$30,000
+
+School district, South Carolina
+
+$10,000
+
+Police department, Massachusetts
+
+$750
+
+Church, Oregon
+
+$500
+
+Wire Transfer Fraud
+
+Aircraft manufacturer
+
+$50,000,000
+
+Regional bank in northern Florida
+
+$7,000,000
+
+Indian tribe, Washington
+
+$277,000
+
+Materials company, Pennsylvania
+
+$198,000
+
+Assisted living facility, Pennsylvania
+
+$190,800
+
+Source:FBI records,Reuters
+
+Hackers are getting clever, and now offer Phishing-as-a-Service, which is enabling more than 50,000 cyber thieves. Security researchers at Fortinetrecently uncovereda novel offering — Phishing-As-A-Service. An entity called Fake Game can help anyone become a phishing scam-artist. For just $3.50 /month (or $7.12 for three months) you could build a phishing campaign, steal passwords and break into accounts. For any wannabe phisher, the ROI is very simple: Invest less than 10 bucks and scam at least $500, possibly more. It can be a neat little side gig.
+
+Fake Game has 61,269 subscribers, or phishing artists in the making. Put it another way, Fake Game has upwards of $2 million ARR.
+
+Intel Security CTOSteve Grobmanhas a somewhat scary yet plausible view of the future of ransomware. His team demonstrated a simple hack via which an adversary can gain control of your car (or home) and demand ransomware.
+
+Ransomware + connected cars istermed as jackwareand has started to gain attention. “We need to raise awareness of building security in design and development phase — not as an afterthought,” Grobman says. The IoT world is fraught with security shortcomings. “We foresee rogue internet access points in public places stealing credentials, and ransomware creating low-level havoc on connected homes.”
+
+By some estimates, there are four million variants of malware — and they keep evolving fast. Ransomware Tracker has a depressing snapshot of the cat-and-mouse game of new variants.
+
+Startups are taking two approaches to tackling this nightmare. PhishMe, IRONSCALES and KnowBe4 offer tools to educate employees/users. Others that help prevent spread of malware have broader offerings.
+
+Approach
+
+Methods
+
+Select companies
+
+Education
+
+Educate employees to identify phishing attacks
+
+PhishMe,IRONSCALES,KnowBe4
+
+Prevention
+
+Advance persistent threat mitigation, user behavior, endpoint protection
+
+Area 1 Security,Exabeam,CrowdStrike
+
+The “education” approach is not your average “classroom” approach, but rather creates an enterprise-driven phishing campaign. The enterprise can send a mock phishing email, track employees who open these and educate them. This ensures that the phishing “open rate” drops over time. A CISO of a leading healthcare company told me their CEO wants to see the “open rate” and how it’s reducing over time. “We run a campaign once every 30-60 days and aim for lower open rate percentages.”
+
+PhishMe, a U.S.-based company that recently announced a Series C of $42 million, has grown to 200+ employees with offices in Asia and Europe. Closely following it is IRONSCALES, with offices in the U.S. and Israel and customers on three continents. Eyal Benishti, CEO of IRONSCALES, says that “the rapid pace at which ransomware is evolving means that it’s not sufficient to just train employees. We need to elevate intelligence to another level. The hackers are getting organized — we should up our game.”
+
+Indeed, managing open rates of phishing emails may be on approach. But it needs to be in conjunction with other security solutions. Barry Shteiman, director of threat research atExabeam, completed ananalysis of ransomwareand looked at more than 80 strains. “We need behavioral modeling and automated techniques to tackle this problem,” says Shteiman.
+
+Oren Falkowitz, CEO ofArea 1 Security, wants to preempt phishing attacks before they occur. “We are working with an organization which has 100,000 employees. Their CEO wants an ‘open rate,’ currently at 20 percent, to come down to 10 percent. But here is the point — 10 percent still means there are 10,000 entry points into the network. The hacker needs only one entry point.”
+
+Therein lies the conundrum of protecting ourselves. Hackers have evolved their game and today ransomware has no signatures, no beaconing/C2 activity. The programming logic is sufficient. For the startups/innovators, this creates a classic technological whack-a-mole dance. Besides that, entrepreneurs have to worry about attracting a good team, sustained differentiation marketplace, pricing and growth.
+
+Not too long ago, I met a self-proclaimed serial entrepreneur (or imposter) who kept screaming “the cold war is back on.” Variants of ransomware do not operate in some countries. These are Ukraine, Russia and Iran. It immediately uninstalls itself should it find itself running on a machine in these countries. Maybe that madman was right?
+
+The FBI has done phenomenal work in taking downGameover ZeusCryptoLocker and DNS Changer, and even offered a $3 million award for the top hacker. The DOJ recentlyresponded to Senator Thomas Carper(Delaware) on what the agency plans to do about ransomware. If you read the questions posed by the senator, it reinstates hope that we have elected officials who know and care about these issues deeply. When most commercial solutions are weak, or make tall claims for solving the “security flavor of the day,” we continue to feel vulnerable. Besides expensive operational take-downs, do we have a proactive approach?Over drinks, some forward-thinking industry leaders suggested that the government can turn these hackers into allies by creating opportunities for them. It could “import the talent” via targeted recruiting into U.S.-based security companies. Or it could fund security companies to pull them out from the dark side. After all, these hackers are looking for a job and a decent lifestyle. America has all that and more.Now, if Trump gets elected, we may just need some more 400-pound gorillas.
+
+The FBI has done phenomenal work in taking downGameover ZeusCryptoLocker and DNS Changer, and even offered a $3 million award for the top hacker. The DOJ recentlyresponded to Senator Thomas Carper(Delaware) on what the agency plans to do about ransomware. If you read the questions posed by the senator, it reinstates hope that we have elected officials who know and care about these issues deeply. When most commercial solutions are weak, or make tall claims for solving the “security flavor of the day,” we continue to feel vulnerable. Besides expensive operational take-downs, do we have a proactive approach?
+
+Over drinks, some forward-thinking industry leaders suggested that the government can turn these hackers into allies by creating opportunities for them. It could “import the talent” via targeted recruiting into U.S.-based security companies. Or it could fund security companies to pull them out from the dark side. After all, these hackers are looking for a job and a decent lifestyle. America has all that and more.
+
+Now, if Trump gets elected, we may just need some more 400-pound gorillas.

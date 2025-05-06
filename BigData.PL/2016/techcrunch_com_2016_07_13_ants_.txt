@@ -1,0 +1,13 @@
+Scientists are studying ant colonies to create better network analysis
+
+Ants are really good at lots of things. Lifting, communicating, ruining picnics. Turns out they’ve got the whole voting thing down to a science, too. When time comes to move nests, the plucky little insects vote by quorum. The democratic process is determined, at least in part, by how often they bump into one another.
+
+Scientists believe that ants have a knack for determining their own population density based on how often they collide while exploring their environments. It’s a random exploration that turns out to be a really good method for figuring out how many are present in a space.
+
+“What we’re doing is giving a rigorous analysis behind that intuition, and also saying that the estimate is a very good estimate, rather than some coarse estimate,” MIT electrical engineering and computer science grad student Cameron Musco explains,previewing a new paper on the subject. “As a function of time, it gets more and more accurate, and it goes nearly as fast as you would expect you could ever do.”
+
+The paper argues that these sorts of “random walk” explorations could provide the basis for network communication algorithms used to estimate everything from social to ad hoc device networks, determining data when random sampling isn’t available for various reasons. In the random walk scenario, the ant or other “explorer” is equally likely to visit any adjacent cell on a graph. Much to the researchers’ surprise, this method is nearly as fast at determining population density as sampling.
+
+Musco again, “If you’re randomly walking around a grid, you’re not going to bump into everybody, because you’re not going to cross the whole grid. So there’s somebody on the far side of the grid that I have pretty much a zero percent chance of bumping into. But while I’ll bump into those guys less, I’ll bump into local guys more. I need to count all my interactions with the local guys to make up for the fact that there are these faraway guys that I’m never going to bump into.”
+
+Image via MIT

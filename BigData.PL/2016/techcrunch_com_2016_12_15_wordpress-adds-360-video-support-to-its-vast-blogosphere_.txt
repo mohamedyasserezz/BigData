@@ -1,0 +1,11 @@
+WordPress adds 360-video support to its vast blogosphere
+
+WordPress is embracing WebVR as it begins to roll out support for 360-degree videos and photos to its network of sites. In ablog post, the company says its aim is “to make publishing VR content as simple as publishing text or photos to the web.”
+
+Currently, the 360-photo feature has been made available to all blog account types while the 360-video uploader is still in beta and will roll out only to premium or business WordPress.com accounts.
+
+The technology allows users on supported browsers to dive into 360 content, either moving around the sphere in 2D mode with their finger or cursor or by tossing on a VR headset and moving their head.
+
+WordPress isn’t doing anything too technically crazy here, they’re just jumping on the WebVR train that’s been gaining some major steam as of late. The WebVR standard is supported by most major desktop browsers except Apple’s Safari, you also still can’t view 360-videos in iOS Safari either because Apple.
+
+The WP team says that they’ve tested the immersive videos and photos on a variety of headsets including Google Cardboard, Gear VR, Daydream, Oculus Rift and HTC Vive. So if you’re currently using one of these headsets you shouldn’t have a problem checking out 360 photo and video content in VR. Notably, you will need to download experimental browser builds to view 360 content inside a desktop VR headset like the Rift or Vive.

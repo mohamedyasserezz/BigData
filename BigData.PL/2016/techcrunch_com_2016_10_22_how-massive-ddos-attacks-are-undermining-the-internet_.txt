@@ -1,0 +1,29 @@
+How massive DDoS attacks are undermining the Internet
+
+On Friday morning, I awoke to find that our company-wide single sign-on and cloud storage was disrupted due to the massive distributed denial of service (DDoS) attackagainst domain host Dyn.
+
+This attack was big, disrupting consumer services like Spotify and Netflix, all the way to enterprise-grade providers like Heroku and Zendesk. Once the dust has settled, it’s likely that this attack will have impacted more people, in more ways, than any other in memory.
+
+A DoS attack is an attempt to make something on the network unavailable to users, for example, a website. A distributed denial-of-service (DDoS) is when the attack is launched by many unique IP addresses—or, as in this case, devices—all aiming traffic at one or multiple targets. The target simply crumbles under the pressure of so much traffic.
+
+In the past few weeks, hackers have upped the DDoS stakes in a big way. Starting withthe attack on KrebsonSecurity.comand increasing in severity from there, hundreds of thousands of devices have been used to perpetrate these actions. A number that dwarfs previous attacks by orders of magnitude.
+
+While it isn’t yet confirmed, evidence points to the attack that we saw on Friday morning following this same playbook, but being perpetrated on a much larger scale, relying on Internet of Things (IoT) devices rather than computers and servers to carry out an attack.
+
+In fact, in all likelihood an army of surveillance cameras attacked Dyn. Why surveillance cameras?  Because many of the security cameras used in homes and business around the world typically run the same or similar firmware produced by just a few companies.
+
+This firmware is now known to contain a vulnerability that can easily be exploited, allowing the devices to have their sights trained on targets like Dyn. What’s more, many still operate with default credentials — making them a simple, but powerful target for hackers.
+
+Why is this significant? The ability to enslave these video cameras has made it easier and far cheaper to create botnets at a scale that the world has never seen before. If someone wants to launch a DDoS attack, they no longer have to purchase a botnet—they can create their own using a program that wasdumped on the internetjust a few weeks ago.
+
+Moreover, DDoS attacks aren’t the only problem with vulnerable IoT devices: these devices can also be a pathway for hackers to get behind a company’s firewall.
+
+The other reason why this is so significant is that, by most accounts, we are extremely unprepared to secure our devices from being taken over. Early government and commercial efforts have focused on how manufacturers can build better security into devices. But this is problematic for a couple reasons, not the least of which is that IoT devices cannot run traditional cyber security software.
+
+As a result, there are fewer “tools in the shed” to protect the IoT than there are for computers that run traditional operating systems. Some IoT devices can be patched, others can’t. For the device that can be patched, this is a very manual process and not something that is routinely done.
+
+What’s the answer here?  As with everything with cybersecurity, there is no silver bullet. Even when it comes to IoT, we have to remember one of the fundamental tenets of this field: defense in depth. Moving beyond the acknowledged need to be better at patching devices, we must then ask if devices are protected by a robust perimeter security solution and are continuously monitored for suspicious behavior.
+
+We can debate the merits of the different approaches but the point is that all of the necessary levels and approaches are being considered and that we do not have device tunnel vision.
+
+We do not need to reinvent the wheel when it comes to protecting networks from IoT.  But we need to recognize that massive DDoS attacks utilizing IoT devices have the potential to undermine the reliability and availability of the internet. With the backbone of our economy relying on it, it’s time to get serious about fighting these hackers. The first thing we need is to prevent our devices from being used as ammunition.

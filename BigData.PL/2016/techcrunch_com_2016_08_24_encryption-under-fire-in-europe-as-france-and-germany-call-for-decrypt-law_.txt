@@ -1,0 +1,51 @@
+Encryption under fire in Europe as France and Germany call for decrypt law
+
+A fresh chapter of thecrypto warslooks to be opening up in Europe, after the French and German interior ministers took to a podium yesterday to lobby for a law change that would enable courts to demand that Internet companies decrypt data to help further criminal investigations.
+
+So, in other words, to effectively push for end-to-end encryption to be outlawed. Yes we’vebeen here before—many times.
+
+Giving a joint press conference in Paris yesterday with German’s Thomas de Maizière, France’s interior minister Bernard Cazeneuve called for the European Commission to change the law to afford security agencies the ability to access encrypted data.
+
+They want their proposals discussed by the European Commission at a meeting next month.
+
+The context here is that France and Germany have suffered a spate of terrorist attacks over the past year, including a co-ordinated attack in Paris in November 2015 that killed 130; a July 2016 attack in Nice where a truck driver ploughed into crowds celebrating Bastille Day; and a stabbing in a church in Northern France that killed an elderly priest.
+
+A series of knife attacks and a suicide bombing have also taken place in Germany over the same timeframe — purportedly carried out by Islamist terrorists. Although the significance of encrypted comms to carrying out any of these terror plots remains unclear.
+
+TheFTquotes Patrick Calvar, French homeland security chief, saying “gigabytes” of data was collected after November’s mass shooting in Paris — and that it is “often encrypted, and impossible to decipher”. The paper also notes that the Isis cell responsible for the Paris attack used WhatsApp and Telegram — two comms apps that offer end-to-end encryption. However the same Isis cell was also reported to haveused unencrypted SMSin their comms.
+
+Cazeneuve’sspeechyesterday touched on various aspects of internal security, including calling for better border controls in Europe and improved information sharing between EU member states. But on encryption he framed the challenge for Europe’s democracies as a need to “armer” themselves against terrorist’s use of encryption with a legislative power to afford security agencies access to the encrypted comms apps he said terrorists are using to communicate.
+
+While referencing the importance of encryption for lawful activity such as protecting financial transactions, Cazeneuve singled out certain comms apps that make use of end-to-end encryption as problematic for security services — name-checking the Telegram app specifically. (Although it’s worth noting that Telegram only uses e2e encryption for a ‘secret chats’ feature; other messaging apps, such asWhatsApp, have rolled out e2e encryptionas the default for all comms.)
+
+“What we are saying, however, is that exchanges more systematic operated via some applications, such as Telegram, must be able, as part of court proceedings — and I stress this — to be identified and used as evidence by the investigation and magistrates services,” said Cazeneuve [via Google Translate].
+
+He noted that some Internet companies are co-operating with European security services that request access to their user data but flagged Telegram as a company where state security agencies have “no contact”.
+
+The two minister are calling for the EC to legislate to enforce the same rights and obligations on operators of any telecom or Internet service offered to users in Europe, regardless of whether they are headquartered in Europe.
+
+And for a new obligation on operators deemed uncooperative — i.e. when it comes to removing illegal content or decrypting messages for the security services on demand.
+
+“If such legislation were passed, it would allow us, at European level, to impose obligations on operators that uncooperative disclose such to remove illegal content or decrypt messages, exclusively in the context of criminal investigations,” added Cazeneuve.
+
+The tug of war over end-to-end encryption
+
+The call for decryption on demand echoes the political trajectory in the UK over the past few years, where the Conservative government has pushed to expand surveillance legislation and cement legal powers to demand decryption via legal warrant.
+
+The UK’s Investigatory Powers bill, now progressing through the parliament’s upper chamber,includes limits on the use of end-to-end encryptionthat could be used to require a company to remove encryption. Or even force a comms service provider not to use end-to-end encryption to secure a future service they are developing.
+
+Of course the basic point about end-to-end encryption is that the operator does not hold the encryption keys, so cannot decrypt data itself. But with politicians legislating for decryption on demand the legality of e2e encryption becomes undermined — and its usage imperiled.
+
+And as myriad security experts, tech industry bodies and data protection advocates continue to point out, backdoored encryption inevitably entails security risks for all users — not just for the suspects security agencies want to target. There is no ‘golden key’ just for the security agencies.
+
+Expressing concern at the latest Franco-German proposals, for example, the Europe director of the Computer & Communications Industry Association, Christian Borggreen, had this to say a statement: “We are worried that EU proposals can allow governments to challenge end-to-endencryptionand thus threaten the security and confidentiality of Europeans’ communications.
+
+“It is certainly understandable that some would respond to recent tragedies with backdoors and more government access.  But weakened security ultimately leaves online systems more vulnerable to all types of attacks from terrorists to hackers.  This should be a time to increase security — not weaken it.”
+
+Meanwhile, only last month the EU’s data protection supervisor, Giovanni Buttarelli, put out anofficial opinionon areview of the region’s ePrivacy directive— next in line for updating, after theEuropean parliament adopted the GDPR earlier this year— in which he specifically calls for end-to-end encryption to be safeguarded.
+
+“The new rules should… clearly allow users to use end-to-end encryption (without ‘backdoors’) to protect their electronic communications,” Buttarelli writes in his ePrivacy opinion. “Decryption, reverse engineering or monitoring of communications protected by encryption should be prohibited.”
+
+The ePrivacy directive governs how companies handle customer data but currently only applies to telcos, not Internet companies such as WhatsApp — aka the providers of over-the-top comms apps that offer alternatives to SMS.
+
+Telcos are lobbying for the law to be expanded to encompass Internet companies. Even as security agencies are pushing for backdoors into encryption. Leaving data protection advocates to point out the folly of risking the security of all users… So tl;dr: get ready for yet another chapter of the crypto wars.

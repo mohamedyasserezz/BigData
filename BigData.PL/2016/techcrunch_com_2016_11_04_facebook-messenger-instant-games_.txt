@@ -1,0 +1,39 @@
+Facebook Messenger is testing “Instant Games” like this one from King
+
+Facebook Messenger is preparing to launch a new “Instant Games” platform that will let people  play lightweight games against friends. Candy Crush maker King.com is already testing one of these Instant Games called “Shuffle Cats Mini” in New Zealand, TechCrunch has discovered. And other studios including Big Viking also appear to be prepping for the Instant Games launch.
+
+[Update 11/29/16:Facebook Messenger has now launched its Instant Games platform]
+
+Facebook has been largely shut out of the native mobile gaming world by Apple’s iOS and Google’s Android. But by building games into Messenger by using it as a portal to mobile web apps, Facebook could create a new platform that drives Messenger engagement. Users could come to Messenger to play Instant Games, challenge friends via Facebook Messages, and potentially earn Facebook a cut of in-game purchases. Facebook did not immediately respond to a request for comment.
+
+Earlier today,The Informationreported that Facebook is building the Instant Games platform for asynchronous games that you can take turns playing with friends, not necessarily at the same time. Instant Games expands on the success of the chess,basketball, andsoccermini-games Facebook itself built for Messenger earlier this year by allowing third-party developers to build them too. Facebook plans to release a development kit or tool later this month, though developers haven’t been told if they’ll be able to charge for in-game purchases.
+
+The Information wrote that Facebook is already privately testing Instant Games, though it didn’t name any studios. TechCrunch has discovered casual gaming giant King.com already has aFacebook Page for its Shuffle Cats Minigame that it refers to as “a slick card-flicking Instant Game from King”.
+
+The Page is actively allowing users in certain regions like New Zealand to play, but those in the US get an error message when they try to load it on mobile. Shuffle Cats Mini seems to partially load on the web, revealing a game where you fling cards at targets in a little shooting gallery, but you can’t finish a game or share your score to compete with friends — which would mirror how Messenger’s basketball and soccer games worked.
+
+After some more digging, we found that earlier this week, a startup called Big Viking announced it’d raised over $21 million to build “HTML5 instant games”, according toVentureBeat.
+
+When I asked Big Viking CEO Albert Lai today about the company’s plans, he told me “HTML5 is a technology that basically allows us to embed our games into anything and everything as well as inside messenger platforms with bots. In any messenger platform, [people] can play our game. This completely shifts the power in the distribution system. Anywhere there’s a messenger we can deliver our games instantaneously.”
+
+Yet when I asked if that meant Big Viking’s title could be Facebook Instant Games, he suddenly got cagey and told me “I can’t speak to anything related to what we may or may not be doing on Facebook.” That makes it sound like Facebook forbid him from discussing it.
+
+OnBig Viking’s site, you can play a preview ofGalatron VS, a vertically-scrolling arcade spaceship shooter game with a messaging twist. You receive in-game challenges like trying to score 10,000 points via messages from a computer-controlled character.
+
+The game is already available via messaging app Kik’s game store. There, you chat with a bot who recruits you to “Galatron Space Academy”. After some banter, you’re given a link to play the HTML5 game. You can compete in tournaments that display the ‘ghosts’ of other players alongside your spaceship as you play. This fits with the idea of Instant Games being asynchronous. Your friend on Facebook Messenger could perhaps play, then challenge you, and you’d see the echo of their run as you play yours.
+
+Galatron looks especially impressive for an HTML5 game, with sharp graphics and responsive controls. It shows that HTML5 may have finally matured to the point that the mobile web standard is worthy of competing with native mobile games.
+
+Once upon a time circa 2009, Facebook built a massively popular gaming platform on its desktop site in partnership with developers like Zynga and EA. But as users shifted to mobile, Facebook’s games couldn’t follow. iOS and Android became the home for mobile and social gaming, and Facebook stopped earning its 30% taxes on in-game purchases.
+
+In 2011, Facebook tried to launch an HTML5 gaming platform codenamedProject Spartan. The problem was that they HTML5 standard was still weak and developers hadn’t figured out how to push its performance limits. Studios weren’t able to make games that stood up against native iOS and Android games, and the platform quickly flopped and was scrapped.
+
+At the end of its desktop era in Q4 2012, Facebook earned $256 million in payments, largely from games, off its 1.06 billion users. Since then, Facebook has grown to 1.79 billion users, yet payment revenue has declined to $196 million.
+
+But now Facebook is making another big push into gaming. This week it officially announcedFacebook Gameroom, a desktop PC gaming platform similar to Steam but more focused on casual gaming. Meanwhile it’s preparing a mobile assault.
+
+Instant Games is the culmination of years of groundwork. Facebook launched theMessenger platformfor content and utility apps in April 2015, andone legitimate gamecalled Doodle Draw appeared but never grew popular. Then this April Messenger launched itsbot platform. Both were designed to allow users to do more than just chat inside the app, from calling an Uber or editing photos to receiving news and shopping.
+
+Gaming could expand Messenger’s capabilities while naturally leveraging Facebook’s social graph. Compared to deeper native mobile games, the beauty of lightweight HTML5 games like Shuffle Cats Mini or Galatron VS is that you don’t need much instruction or experience and can play during short breaks in your day. That makes them convenient, accessible to the mainstream, and viral.
+
+What these lightweight games lack is solo replayability. That’s where friends come in. You might not want to fling cards or shoot little space ships over and over on your own. But if you’re working to beat your best friend’s new high score, you might keep coming back to Facebook Messenger.

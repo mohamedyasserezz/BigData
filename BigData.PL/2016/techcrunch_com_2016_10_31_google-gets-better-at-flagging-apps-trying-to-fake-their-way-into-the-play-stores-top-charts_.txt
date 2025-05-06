@@ -1,0 +1,15 @@
+Google gets better at flagging apps trying to fake their way into the Play Store’s top charts
+
+Google todayannouncedit’s rolling out a new detection and filtering system on the Play Store to crack down on those developers who use illegitimate means to boost their apps’ rankings in the store’s top charts. This will affect apps that use methods like fraudulent installs, fake reviews, and incentivized ratings, the company noted.
+
+While Google already had technology it used to detect these sorts of manipulation attempts, the new system is a step forward in terms of its accuracy. When it detects an app that has moved up the charts through ill-gotten means, the system will filter it. In addition, developers who continue to engage in these practices will have their apps taken down from Google Play.
+
+As the company explains, not only do such manipulations violate theGoogle Play Developer Policy, they also harm the wider community. Other developers whose apps should otherwise be highly ranked would end up lower in the charts, as a result, and users would be pointed to apps in the top charts that didn’t deserve to be there.
+
+Of course, monitoring its app store for fraud and spam isn’t something that’s unique to Google Play. Apple, too, has often faced this problem on its own iTunes App Store, as well. Often, app developers will buy downloads in order to juice their rankings, given how the top charts favor metrics like installs and download velocity combined.
+
+Over the years, we’ve seen everything fromautomated download botstospammy app install adstooutright scamstofake ratingsand more – all attempts by shady developers to earn a better chart rank than their app naturally deserved.
+
+This same problem affects Google Play, even though app discovery on the Play Store isn’t as driven by the Top Charts, as on iTunes. (Instead, Play Store users are directed first to personalized recommendations based on installs, while Top Charts are tucked away in another tab.)
+
+Google says the new system is rolling out today. The company suggests developers who use third-party marketing services to check to make sure they engage in legitimate practices.

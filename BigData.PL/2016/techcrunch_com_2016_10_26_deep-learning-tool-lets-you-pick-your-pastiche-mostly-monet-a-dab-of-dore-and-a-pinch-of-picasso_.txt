@@ -1,0 +1,21 @@
+Deep learning tool lets you pick your pastiche: Mostly Monet, a dab of Doré and a pinch of Picasso
+
+For years we’ve been skeptical, and rightly so, of the “art filters” you can put on your photos, webcam videos and so on. But Google may have made them relevant again — or at the very least, interesting — by letting youmix and match them in real timeusing a single specialized neural network.
+
+If you painted your cat in the style of Van Gogh, first of all, congratulations, that’s great. You might call it a “pastiche,” which is a conscious application of an existing style or creator to a new work.
+
+Pastiche is difficult because you really have to learn the style of the original artist, and make it recognizable in the new work. Difficult tasks like this are irresistible to artificial intelligence researchers, who deep in their hearts believe there’s nothing a human can do that a computer can’t do better — or at least faster.
+
+Systems have been created for “style transfer,” neural networks trained on big databases of an artist’s work or analyzing a single work in great detail. But it proved to be difficult computationally, as well, requiring lots of number crunching to interpret a single new image in the style of, say, Claude Monet.
+
+The latest work from Google Brain, however, makes style transfer almost trivial to compute, making it possible not just to apply in real time to video, but to mix different styles together.
+
+While normally the neural network would repeatedly recreate the target image (your cat) until it elicited a similar feel to the source image (the painting), the new system moves up a level. Instead of learning the look of a single painting, the new style transfer network learns the style shared by multiple paintings by the same artist.
+
+For Monet, that might mean a certain color palette, or stroke style — that sort of thing. It may not be as specific as making something look just like one work in particular, but it still manages to capture the overall feel.
+
+You may be thinking, wait, don’t I already have this on my phone? And certainly Prisma and other apps create a similar effect. The difference is that those apps use a separate, specialized network for every art style — you select it, the app’s servers do the calculations on the Van Gogh system and spit out the result. In this case, it’s all being done by one super-efficient neural network that knows and can combine dozens of styles based on lower-level features. That may sound academic, but it’s actually a major step forward — a highly generalizable model.
+
+And as you can see in the video, it can be done quickly and mixed together with other styles — though whether impressionist and cubist techniquesoughtto be blended is another question altogether.
+
+The paper describing the new technique isavailable to read on Arxiv; hope you like Brad Pitt! He’s in almost every example image.

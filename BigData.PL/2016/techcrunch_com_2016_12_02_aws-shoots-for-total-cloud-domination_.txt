@@ -1,0 +1,23 @@
+AWS shoots for total cloud domination
+
+AWS held its annualre:Invent customer conference this week— and as it revealed one new service after another, one thing became clear: the company with a marketshare lead that is by Gartner’s estimate10 times bigger than its 14 closest competitorscombined, has no plans to slow down or rest on its laurels.
+
+If that market lead isn’t enough to shake up the competition, according to data from Gartner,AWS S3 storage is 1.6 times as large in terms of pure data storedon its servers, as all the other object storage services in their Magic Quadrant combined.
+
+All of this is bad news for competitors like IBM, Google and Microsoft (not to mention, Oracle and Alibaba), but AWS isn’t just dominating because it was first (although that’s part of it), it’s also continuing to innovate at an astonishing rate, adding around 1000 new features every single year up from 722 just last year, according to a chart posted by CEO Andy Jassy during his re:Invent keynote.
+
+The question is, how does the competition catch up in the face of this market dominance and pure power to innovate? Dharmesh Thakker, a general partner with Battery Ventures says one saving grace is fear of vendor lock-in. Nobody is going to put all their eggs in one basket anymore, nor is he about to dismiss Google or Microsoft just yet, two companies withtriple digit year-over-year growth ratesin the cloud.
+
+“Microsoft Azure is a viable contender, and Google certainly knows how to manage infrastructure better than most tech companies, but the gap is significant and only growing by the day,” Thakker told TechCrunch. While Google and Microsoft can use their deep pockets to keep up on the innovation front, it’s harder to overcome the data disparity.
+
+“While Microsoft and Google can hire and acquire their way through the software stack to close the gap with AWS, the growing data-gravity gap — the amount of data managed by S3 which natively uses AWS services — will make it very hard for competitors to catch up,” he pointed out.
+
+Ray Wang, principal analyst at Constellation Research, isn’t ready to cede the enterprise to AWS just yet. He says that Microsoft and Oracle have a leg up in the enterprise, simply because they are comfortable and familiar, and they have a strong presence already. Moving from on-prem to the cloud with familiar tools is less daunting than moving everything to AWS, in his view.
+
+One area where Dan Sholnick, a partner at Trinity Ventures, sees AWS running behind is artificial intelligence, which is part of a huge transformation in how developers will be building software moving forward. The companytried to close that gap with some announcements this week, but it has a ways to go to catch up with Microsoft and Google, which have a head start in this important area.
+
+“Amazon is behind in AI and they know it. They are taking the infrastructure and development underlying [the Amazon Echo] and democratizing it. Amazon is making a big push with Rekognition, Lex and Polly, [services announced this week],” Sholnick said.
+
+Of course for every new feature, there is an equal reaction from the competition, regardless of who leads. The question for everyone at this point is can anyone actually catch AWS? It has to be a formidable task, no matter how fast you’re growing. But with an IT infrastructure market potential of $300 billion, nobody is throwing up the white flag just yet.
+
+As we’ve learned, things can change quickly in technology, even when there is an obvious and dominant market leader. Just because AWS has a big advantage now, doesn’t mean it always will, but as we saw this week, it shows no signs of slowing down, as it continues to put intense pressure on its competition.

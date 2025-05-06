@@ -1,0 +1,25 @@
+How the International Olympic Committee is using technology to educate future host cities
+
+As the Rio Games draw to a close and the competing athletes pack up, leaving the Brazilian metropolis behind, theInternational Olympic Committee (IOC)is already hard at work laying the foundation for the future spectacle of Olympic games.
+
+Throughout the Games, the IOC’sOlympic Games Knowledge Management programhas been collecting data and compiling reports to share knowledge of the Games with future host cities.
+
+The program, which was created to help prep the Sydney 2000 Olympic Games, has added an immersive and interactive video platform to its numerous management initiatives by collaborating withTeleport, a Swiss-based startup that launched a few months ago.
+
+The Teleport team has developed a Random Access Video Encoding (RAVE) algorithm built in JavaScript using theMeteorframework.
+
+“We are always looking for ways to contextualize our content to make it more intuitive,” said Christopher Payne, Head of the Olympic Games Knowledge Management program. “The Teleport platform is an excellent way to do this as it positions content with an obvious visual reference that transcends language barriers.”
+
+This will obviously come in handy when sharing knowledge with future host cities like Tokyo, PyeongChang and Beijing.
+
+The meeting between the Swiss startup and the Lausanne-headquartered IOC was a fortuitous one — and the Swiss connection certainly helped. “We were in the right place, at the right time,” said Cem Sever, co-founder and Business Development Manager of Teleport.
+
+Their collaboration began with a proof of concept for theYouth Olympic Games, which took place in Lillehammer, Norway in February.
+
+Satisfied with the result, the IOC decided to use Teleport for the Rio Games as well. But the Committee has chosen not to open up the platform to the general public at this stage, using it only internally as an educational tool.
+
+“We’re using it for B2B projects with future organizers,” said Payne. “We hope that Teleport will innovate our information management services, illustrating the many challenges of operating the Games.”
+
+For the Rio Games application, the IOC created three Teleport environments focused on different types of venues, which the observers will be able to reference when they plan their own Games.
+
+“For the first time, we will connect the huge volume of content we have about the specifics of operating the venues to ensure that the operational requirements of every space are well understood,” said Payne.

@@ -1,0 +1,33 @@
+Relax, artificial intelligence isn’t coming for your job
+
+There is a pervasive underlying fear fromgenerations raised on dystopian science fictionthat artificial intelligence and robotics will be the undoing of humankind. Eventually, the conventional thinking goes — even the likes ofElon Musk and Stephen Hawking are on boardhere — artificial intelligence will become smarter than the organic variety and terrible things will happen as machines take over the planet.
+
+In reality, however, it’s much more likelyAI isn’t going to destroy us— or even take our jobs. In fact, it’s very likely going to help us do our jobs better. Think about that for a moment. The idea that AI could help us work smarter is not nearly as sexy as the notion of robot overlords taking over Earth — but it is a much more realistic view of artificial intelligence technology in 2016. It’s worth noting, that’s as true for the line worker at a factory as it is for a salesperson or knowledge worker.
+
+While it may seem like every software engineer in Silicon Valley is trying to create the perfect algorithm to replace human workers, many are simply trying to find ways to make you a better employee by combining the power of the computer with your creative working brains.
+
+Paul Daugherty, CTO at Accenture, says in his company’s viewpoint, artificial intelligence will be about enhancing humans, not replacing them — anddriving tremendous economic growth in the process. While SciFi-fear mongering might make good headlines, it’s not what his company is focused on when it comes to artificial intelligence.
+
+“Our goal with AI is not to make super humans, it’s to make humans super.” While that might be a clever marketing turn of phrase, he insists the company is focusing on solving real business problems with AI — finding ways to simplify the complex.
+
+To that end, Accenture is looking at three concrete approaches to artificial intelligence: It wants to transform business processes by making them more intelligent, provide a more effective way for humans to interact with machines to allow us to take maximum advantage of the machine’s data processing capabilities (possiblyusing smart glassesas an interface), and finally, it wants to help surface unstructured data, a problem business has been working on for decades.
+
+Lest you think this is all about improving the lives of knowledge workers, Daugherty says that AI will reach down to the factory floor. He tells of a manufacturing client his company has been working with who combined AI with an augmented reality headset to teach low-skilled workers new jobs. The workers are fed very specific instructions through the headset — and they learn much more quickly this way. They found employees loved this approach, as did employers because they could distribute workers across a variety of tasks without a lot of costly training.
+
+When one looks at AI, one of the places we are starting to see it emerge in a big way this year, has been insales tools from Salesforce, Oracle, SugarCRM, Base and others. The thinking is that sales teams can’t possibly keep track of all the factors out there that could be having impact on an individual sale — and that’s where the machine can help.
+
+Good sales people have an innate talent for communicating with their customers and knowing how to push and prod them to the final sale. What they often lack, no matter how good they are, is an understanding all of the underlying issues that could have a negative impact on a possible sale, says Rich Green, chief product officer at SugarCRM.
+
+That’s where AI can come in providing information about how the current deal relates to other deals, what’s happening in the news that could have an impact on a deal, what the tone suggests in the latest email exchanges, and so forth. A machine and good CRM software can process all of this external information, provide insight to the sales team, and let humans worry about the social interactions that are needed to close the sale.
+
+It’s certainly a point Salesforce was pushing earlier this yearwhen it launched Einstein, its artificial intelligence platform — and it’s something you can expect to see in all kinds of software in the coming years.
+
+Regardless of how you feel about it, AI is going to be built into most software moving forward. It’s just the natural course of software evolution. If you can build smarter software, why wouldn’t you? Daugherty believes that, because of this, we will see a much more rapid adoption curve for AI than we did with cloud computing.
+
+That’s partly because, with the cloud, a company had to make a deliberate decision to switch from on-prem to an entirely new model, and it has taken some time for that idea to catch on. AI will simply be part of the fabric of much of the software being built from this point on. It’s also a technology that has been in development for years, waiting for the right moment. We now have the compute power and data to make it work in real business scenarios.
+
+As Amit Zavery, senior VP for the Oracle cloud platform told me, it’s not as though in the future, you can have the software with AI or you can save a few bucks and get the software without it. It’s simply going to be built in. When Zavery talks to customers, they ultimately don’t care about the underlying technology. They want some sort of business value — and if it’s AI delivering it, so much the better.
+
+That said, all of the major vendors — Google, Microsoft, AWS, Oracle, IBM or any platform vendor — are also exposing artificial intelligence programming tools in the form of APIs, putting this kind of technology within reach of every company. We don’t know how long it will take for organizations to start building more intelligent applications internally, but it would seem if they build the APIs, the developers will come.
+
+While things often tend to move more slowly in technology than many of us think, AI is a trend that should progress much more rapidly as the software vendors push it deeper and deeper into the software they develop. As this happens, it’s important to keep in mind, the goals of this approach are designed to help you work more efficiently and intelligently — not to remove you from the equation.

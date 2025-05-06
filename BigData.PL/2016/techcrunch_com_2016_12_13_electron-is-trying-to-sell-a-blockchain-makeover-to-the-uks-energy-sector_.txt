@@ -1,0 +1,43 @@
+Electron is trying to sell a blockchain makeover to the UK’s energy sector
+
+UK startupElectronis hoping to convince the energy sector to buy into the transformative potential of blockchain technology — and, down the line, unlock commercialization opportunities for over the top services running on a decentralized infrastructure platform.
+
+At this point it’s built a demo platform on theEthereum blockchain, and has pumped in simulated data from 53 million metering points and 60 energy suppliers as a dummy representation of the UK energy market — using that to run tests which it claims show such a platform would enable energy supplier switches to be executed up to 20x faster than current switching rates.
+
+That’s the efficiency and cost-saving carrot it’s hoping will convince industry players to buy in to a vision of upgrading their current “hodgepodge” of processes, says co-founder Paul Ellis, whose financial services background led him to the idea of applying blockchain to a sector that’s not renowned for innovating business processes without being marched into doing so by the stick of regulation.
+
+“The energy market is built on technology that mostly is around 25 or 35 years out of date. It’s been built up over a period of time — it’s a hodgepodge of different systems. And it tends to be driven more by regulators than for example the financial services industry is,” he says, arguing that blockchain in particular could provide “a lot of very helpful benefits for this industry”.
+
+“The financial services industry is incredibly focused on this, in large part because of one of their core functions is acting as a custodian of record. [But] the energy industry don’t see that as one of their USPs… [Yet it’s also] a highly competitive, heavily regulated industry operating over a shared infrastructure.”
+
+The sector’s existing shared infrastructure includes platforms for balancing and settlement, and for shared registration facilities. Electron’s aim is to encourage the energy industry to collectively shift these functions onto shared blockchains.
+
+An example of an area it reckons could benefit from utilizing blockchain technology is registration services — aka mechanisms whereby various energy industry assets are recorded. So a blockchain here would be both the place of record where energy providers go to obtain information about particular assets, and also to record any transactional changes.
+
+“These are good reasons to have blockchains. They’re very cost effective. You don’t require third party intermediaries to operate these shared platforms,” argues Ellis. “A blockchain provides a way to remove the cost inefficiencies and the barriers to innovation that a central service provider would necessarily bring.”
+
+He says Electron would not be looking to monetize any shared blockchain infrastructure directly, only covering its costs there, but rather via the commercial services opportunity these platforms would unlock.
+
+“Where we see benefit is when you start commercializing… the opportunities that this throws up,” he tells TechCrunch. “For example… the kind of thing that could be done would be offering services that make switching or registration of change of ownership of properties easier to do when the property changes hands.
+
+“It might be connecting in things like births, marriages and deaths — so that suppliers are better informed about the status [of their customers]… Or it would be licensing and selling the technology into other areas, or extending it to other utilities such as water or telecoms.”
+
+Electron also touts the potential for blockchain to lay the foundations for households to participate in peer to peer energy, and flexibility trading in future — turning energy surplus and varying demand into a potential market.
+
+Ellis also reckons energy regulators could potentially gain — by, for example, being afforded privileged access to the blockchain to gain real-time intelligence on the marketshare of the various energy providers instead of having to survey providers to generate market data.
+
+All this is the grand vision of what’s possible with a radically different infrastructure. But of course for any of it to be possible Electron needs the UK’s energy industry to buy in and be convinced that investing in decentralized blockchains is worth its while, vs, for example, having a single provider run a centralized database that all players plug into — which would be an alternative route to improve switching efficiency, for example.
+
+“We have a number of conversations going on,” says Ellis of progress on its sales pitch. “There’s a degree of interest in finding out more.”
+
+“I think the logic of co-operating to develop this is very strong — so we’re very optimistic that we’ll get a lot more buy-in on this, and get a lot more people around the table,” he adds.
+
+He reckons a best case scenario for getting its blockchain platform up and running in the domestic energy market is within “about two years”, noting that regulator Ofgem has set a similar timeframe for the industry to provide a next day energy provider switching platform for consumers — so there’s still some regulator stick being brandished here. If Electron can sell the concept in the UK he’s confident the approach could be replicated in other energy markets.
+
+The London-based startup, which was founded at the end of 2015, has raised around £400,000 (~$500k) in pre-seed funding from private investors to date, as well as securing two Innovate UK grants (totaling £150k) to develop its technology.
+
+In terms of other blockchain startups targeting the sector, Ellis says most in the energy space are focusing on peer-to-peer energy trading — name checking the likes ofTransactive Gridin New York, andPower Ledgerin Australia — vs pushing to decentralize top down, as Electron is hoping to do.
+
+“We’re not aware of anyone else who’s focusing top down. And that’s the reason why we’ve started our process with this registration platform because that’s very much a top down energy industry infrastructure issue,” he says.
+
+But the challenge of convincing a slow moving industry to take a radical change of technology direction perhaps explains why few others are focusing their disruptive efforts on building an industry-wide collaboration.

@@ -1,0 +1,47 @@
+Megan Smith and Alexander Macgillivray tout Obama administration’s tech victories, but ‘it’s a work in progress’
+
+Eight years is a long time in the tech industry — not so much in politics, though. At Disrupt SF today, U.S. Chief Technology Officer Megan Smith and Deputy CTO Alexander Macgillivray reflected on the hard road the Obama administration has traveled in tech, the work they’ve done, and things that will take eight more years (at least) to accomplish.
+
+“It feels like that 1997, 1998 period around here,” Smith said, indicating the bay area in general and the then-nascent tech industry. “It’s early, but we’re on that path, and we need to IPO this thing and get the American people what they deserve.”
+
+The tech boom metaphors ended there, though. Smith and Macgillvray were eager to share the projects they’ve pursued over the years. And with just a few months to go before a new administration takes over, they seemed anxious to ensure the future prospects of those projects, as well.
+
+Smith was optimistic, calling up a picture of global cooperation and mutual aid, having recently visited South Africa for an Open Government Partnership meeting.
+
+“It’s really the beginning of digital government,” she said. “People are not only doing open government and FOIA type things. They’re sharing code. They’re moving to this place where the service delivery and the data science and data driven government… we can use these incredible governmental budgets and access points for is really going to be realized.”
+
+“All of it is stuff we’re rushing to get done. Everything from cybersecurity to making sure we’re tackling inequality, that we’re working on some of the interesting long term things, like artificial intelligence,” said Macgillivray. “The federal source code policy is a great example where we need the help of this audience to make sure the pilot program we have of in terms of open sourcing more federally funded, federally developed software is successful.”
+
+“The use of tech and tech innovation is at the core of our country,” said Smith, listing off a series of forward-thinking presidents and administrations going back to Washington, who started the Army Corps of Engineers before even taking office. “It’s a work in progress, and we’ve started and set up a lot of things that are going to continue to grow. It’s only going to accelerate.”
+
+As Macgillivray pointed out, 2008 was a different time in technology: the iPhone was brand spanking new, Facebook was still just a social network, and things like Uber, Snapchat, Airbnb, Kickstarter, and Twitter were nowhere near their current size, if they existed at all. And in spite of the many institutions and initiatives started since then, in some areas there’s still a major gap between the reality of the tech world and extant policies and goals.
+
+Encryption is one of the issues on which this administration differs from the tech community, having suggested mandated back doors in services and encryption methods. Smith (understandably) attempted to steer the conversation away from this controversial topic, but Macgillivray addressed things more directly.
+
+“As a government our stance is that we don’t think legislation is appropriate at this time,” he said, stressing at the same time that he felt that the goals of law enforcement and encryption proponents were not at odds. “The right way to think about these problems is with a real grounding in the technical problems. Encryption is one of these 21st century marvels. Even the folks who have spoken out on it in law enforcement believe it’s a foundational building block for what we do every day online.”
+
+Smith did bring up an important point, however: cybersecurity needs to be a full-court press. Budget, technology, and people all need to be given serious updates.
+
+“We want to make sure policy is informed by those with the best technical skills,” she said, highlighting the US Digital Service and Presidential Innovation Fellows programs as examples of matching engineers and tech industry vets with the policymakers who need their expertise.
+
+“It will deeply affect the quality of cybersecurity if we can get all Americans playing on the field,” she said. “This is one of the great moonshots of the 21st century.”
+
+“We need many many many more cybersecurity folks,” Macgillivray said, “and we need that talent group to be more diverse. It’s really important to have diverse perspectives to tackle the problem. As a government there’s a lot for us to do there, but it’s a fast moving problem that we as an industry need to tackle.”
+
+“When people look at diversity and inclusion they think of it as a charity institution,” said Smith. “But it’s deeper than that. It needs to be on the short list of priorities. Talk about it at every meeting. We need help from Hollywood, from the media, from ourselves, correcting the Wikipedia records that aren’t correct… the microaggressions, the unconscious bias we all have.How do we give people the tools to see that?”
+
+Inertia is a huge problem as well, with aging government systems allowing things like the Office of Personnel Management hack. Traditional upgrades — like replacing decades-old systems and standards, is also on the table. But that’s another problem the next administration will have to pursue.
+
+“It’s something the President has been focused on, ” Macgillivray said. “We rolled out a cybersecurity national action plan. We also took some concrete steps, proposing in the 2017 budget to make a huge fund, a $3.1 billion revolving fund to help the federal government get rid of some of the oldest legacy services and replace them with modern services.”
+
+Transparency is another area that is caught between advances made and advances yet to come.
+
+“Of course all of us have great mapping data and weather data from the USGS and NOAA, we want to think about every agency,” said Smith, listing opportunities — for instance, census work mixing with open data sets from online realtors.
+
+But one topic that the public seems baffled there isn’t more data available on is use of force by police. This issue has been in the public eye for years, but hasn’t been matched with an equivalent outpouring of data. Smith said they were making progress:
+
+“We now have over 60 jurisdictions in the police data initiative, this is an open data transparency initiative that goes with data-driven justice. These jurisdictions are committing too pen these data sets and engaging the community, which will engage tech folks, both locally and nationally.”
+
+Ultimately Smith, Macgillivray and their colleagues have only had the change to start the process; even basic technical updates to our infrastructure take years to accomplish, let alone addressing systemic bias or keeping up with the breakneck pace of the tech industry. But they were nothing if not optimistic.
+
+“The next step of software eating the world is software eating social problems,” said Macgillivray. “And the skills of the people in this room are needed.”

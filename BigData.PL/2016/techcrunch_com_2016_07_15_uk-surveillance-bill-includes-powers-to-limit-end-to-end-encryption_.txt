@@ -1,0 +1,73 @@
+UK surveillance bill includes powers to limit end-to-end encryption
+
+The UK government has explicitly confirmed that a surveillance bill now making its way through the second chamber could be used to require a company to remove encryption. And even, in some circumstances, to force a comms service provider not to use end-to-end encryption to secure a future service they are developing. The details were revealed during debate of the Investigatory Powers Bill at a committee session in the House of Lords this week.
+
+This cementsconcernsover the phrasing of a clause in the bill that refers to the ‘removal of electronic protection’, which critics, including from the technology and security industries, have long been warning risks outlawing the use of strong encryption in the UK.
+
+The government’s counter argument has been that there should be no safe spaces for terrorists and criminals to operate online, i.e. where their communications are definitively out of the reach of security and law enforcement agencies.
+
+Speaking for the government during a bill committee session on Wednesday evening, Lord Howe reiterated that view, going on to reject a series of proposed amendments aiming to clarify what the government can and can’t request of companies under the bill’s Technical Capability Notices.
+
+“This is a vital power,” said Howe of the ability to require the removal of electronic protection. “Without which the ability of the police and intelligence agencies to intercept communications in an intelligible form would be considerably diluted.
+
+“Law enforcement and the intelligence agencies must retain the ability to require telecommunications operators to remove encryption in limited circumstances. Subject to strong controls and safeguards to address the increasing technical sophistication of those who would seek to do us harm.”
+
+“Encryption is now almost ubiquitous and is the default setting for most IT products and online services. If we do not provide for access to encrypted communications when it is necessary and proportionate to do so then we must simply accept that there can be areas online beyond the reach of the law,” he added.
+
+Technical Capability Notices are a very wide-ranging provision within the IP bill which can impose requirements on companies to assist state agent investigations, such as by providing access to a communications service. Or even a requirement they maintain a permanent capability to provide access if/when needed.
+
+The oversight process for Technical Capability Notices has been improved since the original draft of the bill, with Lord Howe noting that judicial authorization is now required in addition to senior ministerial sign-off for these notices. He also pointed to the bill’s new privacy clause which requires the Secretary of State to “give regard to the public interest in the integrity and security of telecommunications systems” when making a decision on whether or not to issue a notice.
+
+The new Investigatory Powers Commissioner will also be required to approve requests for Technical Capability Notices — which is a step up from the prior route for UK state agents to impose technical obligations on companies, via section 94 of the Telecommunications Act (which will be repealed in favor of the IP bill).
+
+Howe also claimed the IP bill does not expand on existing state agency capabilities vis-a-vis removing encryption, emphasizing that it can only be used to require a company to remove encryption where it is “reasonably practicable” for them to do so.
+
+He went on to note that any encryption a CSP hasnotapplied themselves would “almost inevitably fall outside these provisions because it would not be reasonably practicable for a company to de-encrypt”. The implication being that CSPs would not be asked to remove end-to-end encryption since they do not have the technical capability to decrypt the data.
+
+Although he noted that the IP bill’s applied standard — of what is “reasonably practicable” — could vary from one CSP to another.
+
+“This isn’t, in many cases, asking companies to do something that they would not do in the normal course of their business,” Howe added, noting how many companies do not use end-to-end encryption in order to afford themselves access to user data for their own business imperatives. (The government clearly wants the power to be able to tap into those data-mining business models for its own investigatory intel.)
+
+However other peers speaking during the committee session expressed continued concern that the bill as currently couched still poses a risk to the use of strong encryption.
+
+“Once encryption is weakened, it’s weakened for everyone. And once it’s weakened at the request of the government that weakness is available to all the people who would do us harm,” warned Lord Strasburger.
+
+During the debate, Howe was specifically pressed to specify whether Technical Capability Notices would allow for the government to require companies not to use end-to-end encryption on future services in order to afford state agents access to decrypted communications data if/when served a warrant.
+
+“Is there an expectation in this bill, in these clauses, that where a service provider is developing a new service they must ensure in that development that they have the facility to access what the user would assume is encrypted data,” asked Lord Harris of Haringey.
+
+“It depends on what is reasonably practicable for the communications service provider to do,” replied Howe. “Usually this power will apply to encryption that the provider has applied itself or which has been applied on their behalf. If there are other circumstances where it would apply I will take advice and write to the noble Lord but we come back to what is reasonably practicable for the company to do.
+
+“And this is why the government maintains a dialogue with communications service providers to ascertain what is practicable and what isn’t and what would be cost effective and what would not be.”
+
+Pressed a second time by Harris to clarify whether the bill sets up “an expectation” that CSPs be required to avoid using end-to-end encryption for future services, Howe again gave no definitive answer.
+
+“Are they required to make it technically practicable for future services for this to be allowed?” asked Harris.
+
+“It might be,” responded Howe. “But they might not be. Again it depends on what is reasonably practicable in the particular circumstances and those circumstances might vary from provider to provider and from situation to situation so I don’t think it’s possible for me to generalize about this.”
+
+“I fear that the noble Earl is taking us up quite a long cul-de-sac here,” added Strasburger. “Because the implication of what he’s saying is that no one might develop end-to-end encryption — and one of the features of end-to-end encryption is that the provider cannot break it himself… So he seems to be implying that providers can only provide encryption which can be broken and therefore can’t be end-to-end encryption.”
+
+Strasburger suggested the government’s position could, “in theory” make the next version of the Apple iPhone illegal in the UK, adding that in his view there is still “quite a lot of work to be done” to shore up this aspect of the bill to avoid compromising data security and risking the trusted reputations of UK technology companies.
+
+With the iPhone example Howe did at least provide a modicum of clarity.
+
+“The Apple case… is not one that I’m advised could occur in this country in the same way,” he said, making sure to thread even this slender moment of reassurance with some linguistic obfuscation.
+
+“I was certainly not implying in any way that the government wished toban end-to-end encryption,” Howe added, although given his other open-ended statements there’s very little comfort to be drawn from the phrasing of that sentence either.
+
+“The bill is clear that any attempt to obtain communications data must be necessary and must be proportionate or it will not be permitted. It is crucial that the bill provides a robust, legal framework which means that the law is consistently applied correctly,” added Howe.
+
+Another contribution to the debate came from Lord Paddick, who pointed to targeted Equipment Interference (aka state hacking powers, which are also sanctioned by the IP bill) as a potentially more useful and less invasive route for state agents to obtain the sought for comms data, i.e. rather than resorting to overly wide-ranging Technical Capability Notices.
+
+“Certainly targeted Equipment Interference is, if you like, the next step if interception should not be possible for any reason,” said Howe.
+
+The debate concluded with the various amendments that had been seeking to tighten the bill’s scope for removing encryption being rejected by the government.
+
+Crazy scenes in Lords this evening on#IPBill. Govt wants decryption capability but can't see risk of bad actors using it too. Unbelievable.
+
+— Paul Strasburger (@LordStras)July 13, 2016
+
+The committee stage of the bill continues on July 19 when further amendments will be discussed in the Lords.
+
+An independent review of the various bulk investigatory powers contained in the bill — such as the ability to hack into devices or intercept communications en masse — is also ongoing, with QC David Anderson due to report on that matter later this summer.

@@ -1,0 +1,19 @@
+SafeZone guides you to safe spaces in crises
+
+The five person crew that developed Safe Zone wanted to do something more meaningful than creating just another geo-based social app.
+
+So on this, the 15th anniversary of the September 11th terrorist attacks, at the TechCrunch SF Disrupt 2016 Hackathon the team rolled out SafeZone, an app that guides users to safe spaces nearby.
+
+“We live in a time where public safety is more important than ever,” says Kevin Lay, a graduate at San Francisco State University and one of the five programmers who worked on the hack.
+
+The app uses the MapQuest API to show users a map to a safe zones (currently with a focus of police stations or hospitals) in the event of a crisis. The user only has to tap a single button and a map display comes up that shows the nearest safe zone and directions to it.
+
+The team is looking to add another feature that would connect users immediately to 911 emergency services, too.
+
+Terrorism, natural disasters and mass shootings are unfortunately the tenor and pitch of our modern world. It’s great to see technology applied to tackling these kinds of real-world problems.
+
+The other developers on the project, Sheen Kao, from CalPoly, Kai Mou (a developer who flew all the way from New York for the hackathon), Chris Gradwohl, from UC Santa Cruz, and Matthew Serna from SFSU all agreed that the project was a bit more substantial than your everyday hack… and they’re looking to continue working on the project.
+
+Working on only three hours of sleep, the team managed to pull together a rough demo of the project but plans to add integrations with Facebook.
+
+It’s an app that also resonated with the TC team. On our backchannels several writers chimed in with support for the project. Here’s hoping they roll this out. It’s a sad but necessary tool to have in today’s sadly terrifying world.

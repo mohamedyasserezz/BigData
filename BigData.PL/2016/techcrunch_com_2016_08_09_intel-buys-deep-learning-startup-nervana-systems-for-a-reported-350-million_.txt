@@ -1,0 +1,21 @@
+Intel buys deep learning startup Nervana Systems for a reported $350 million
+
+Intel announced Tuesday that it is acquiring deep learning startupNervana Systemsin a move that looks to bolster the role of AI solutions within the company. Recodereportsthat the price tag of the deal is north of $350 million, adding to what has been a pretty active (to put it mildly) last few weeks in tech M&A.
+
+In ablog post, Nervana CEO and co-founder Naveen Rao specified that his company is intending to continue development on efforts related to its deep learning framework, platform and hardware. The San Diego-based team of 48 will all join Intel’s Data Center Group once the deal has closed.
+
+“[Nervana’s] IP and expertise in accelerating deep learning algorithms will expand Intel’s capabilities in the field of AI,” Diane Bryant, EVP and GM of the Data Center Group at Intel said in ablog post. “We will apply Nervana’s software expertise to further optimize the Intel Math Kernel Library and its integration into industry standard frameworks.”
+
+Furthermore, Bryant specified that the startup’s expertise would “advance Intel’s AI portfolio and enhance the deep learning performance and TCO of our Intel Xeon and Intel Xeon Phi processors.”
+
+The two-year-old startup had raised nearly $25 million from investors including DFJ, Data Collective, Fuel Capital, Lux Capital and Allen & Co. The company captured attention early-on with its hardware-centric approach to AI solutions and has since pursued technologies aimed at training neural nets.
+
+Data Collective Managing Partner Matt Ocko, who directed the firm’s Series A lead investment in Nervana had nothing but praises to sing of the company’s potential.
+
+“Intel didn’t just buy something that is simultaneously faster and more power-efficient than Nvidia,” he said. “Intel bought something that it can sell on boards and systems and even supercomputers to its customers ready-to-go that out-punches anything that Facebook or Google or Baidu or Microsoft has.”
+
+Ocko believes that there was little standing in Nervana’s way from continuing to make waves in the space and going on to be worth “multiple billions,” but Intel’s scale and prestige offered Nervana the quickest route to getting their tech into people’s hands as quickly as possible.
+
+“This thing was a freight train,” Ocko told me. “[The founders] wanted to get the technology to the maximum number of people at the maximum speed and Intel came in and said, come on in, we’re going to give you guys the world’s best semiconductor process at the biggest scale with an effectively unlimited budget, marketing, customer support, you name it.” Ocko detailed.
+
+“And no one says no to Intel.”

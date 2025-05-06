@@ -1,0 +1,27 @@
+Riot wants to be like Slack, but with the flexibility of an underlying open source platform
+
+In the ‘old days’ there were plenty of messaging apps and aggregators, but they survived in an open source world. Today, business models dictate that platforms like Slack must keep their messages to themselves.
+
+It would be nice if open-source alternatives could bring back the days of flexibility, combined with today’s world of excellent user experience. What if Slack were simply an excellent tool running on an underlying open-source platform? Could it create the same value?
+
+Riot (formerly known as Vector while it was running in Beta)is a new UK-borne app hoping to have a crack at that.
+
+It’s aiming to bring conversations and productivity tools together, across different apps, and providing the ability to tweak and host your own version by being open source, while also being secure. Riot is built onMatrix, an open standard for decentralized persistent communication.
+
+Riot lets teams share data and collaborate on projects across different communication apps and third party tools. It uses Matrix to bridge to external networks such as Slack, IRC, Twitter and Gitter.
+
+It also offers hosted integrations to third party apps like GitHub, Jira and Jenkins, and relies on Matrix for bots and other integrations development.
+
+Because it’s run on Matrix, Riot has end-to-end encryption using Matrix’s Megolm, an advanced cryptographic ratchet. Teams can therefore choose to run their own server for added company security compliancy.
+
+Users can jump into any public room listed in the directory, or private ones via a link, and start collaborating. New room participants can be invited by email and any guest user can then decide to upgrade and sign up for a Riot account. It’s not unlike how Redhat commercialised Linux.
+
+Competitors in this space might be Slack, Whatsapp, Telegram and other messaging and collaboration apps. But if they are not service your needs and you’d prefer to tap into an open-source method of doing things, Riot is an option.
+
+A word of caution however: It’s currently better suited to developer teams and tech startups than it is to, say, corporate environments that will prefer the slickness of Slack.
+
+Riot is currently free, and the basic service will probably remain so, but it has plans to offer paid additional hosted services like optional integrations and bigger storage options.
+
+Right now Riot is a product of Vector Creations Limited, a wholly owned subsidiary of the publicly-floated Amdocs, but assuming it takes off the founders Gary Miles, Amandine Le Pape and Matthew Hodgson could well take it in a different direction. It’s no coincidence that Riot runs on Matrix as Hodgson, the Riot CTO, is the technical lead on Matrix.org.
+
+For now, it is what it is and an alternative to other platforms out there.

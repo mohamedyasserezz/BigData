@@ -1,0 +1,11 @@
+AWS Personal Health Dashboard helps developers monitor the state of their cloud apps
+
+DevOps teams will be happy to hear that Amazon is launching its own dashboard for Amazon Web Services. Personal Health Dashboard, as the company calls it, is its latest release from the stage of re:Invent 2016 to support more advanced cloud apps monitoring.
+
+The tool puts critical infrastructure data in one place. The dashboard will automatically notify teams of failures and allow them to respond immediately with Lambda functions if something needs changing.
+
+Companies like Geckoboard offer similar services, but this will be the first time Amazon has offered its own dashboard with a full suite of notifications and the tools to react in real-time. Teams previously were forced to augment Amazon’s basic dashboard with third party services to fully monitor their cloud applications.
+
+Notifications take one more barrier out of monitoring operational data. If a failure occurs, you will be able to move instances elsewhere quicker than ever before.
+
+Putting all this information in one place is a pretty common sense move for the company. All of this positions AWS as a more complete tool for launching cloud applications.

@@ -1,0 +1,21 @@
+Microsoft wants you to write better, stay focused and bore fewer people
+
+Microsoftannounceda number of updates to Word, PowerPoint andOutlooktoday that will bring more of its machine learning smarts (among other things) to some of its core Office suite products.
+
+For Word, the focus is on helping you become a better, more confident writer. With Researcher for Word, the team is now building a new tool into Word that helps you find information regarding the topic about which you are writing. Those sources can be online journals and encyclopedias, history databases, national science and health centers, as well as other trustworthy sites, and you can import formatted references directly into Word.
+
+The idea here, of course, is to allow you to do your research without switching content. While this is probably a great tool for high school students and maybe even college students, chances are this won’t replace the kind of subscription-based research database to which your local college library has access. For the most part, though, Microsoft isn’t trying to sell it as that either, and mostly considers it a way to help you start your research.
+
+Microsoft says this features is powered by the Bing Knowledge Graph.
+
+Office 365 Insiders will get this update this month and other subscribers will get access soon thereafter.
+
+Also new in Word is Editor for Word. Editor uses Microsoft’s machine-learning expertise to provide you with spell and grammar cheques that go beyond the kind of basik tools currently available in most word processing tools. “Instead of just highlighting mistakes, Editor teaches users of all abilities how to improve their writing, accounting for conciseness, word choice and more,” Microsoft says. So when you once again use “affect” instead of “effect,” Word won’t just tell you that you’re wrong, but also explain why (just like that poor uninsured adjunct who taught your English 101 class has probably done a million times now, too).
+
+You will now see red squiggles for spelling issues and blue double underlines for grammar problems. When Word spots issues with your writing style, it’ll highlight those with a gold dotted line.
+
+If you, like a million others, use Outlook on the desktop, you’ll now also finally get access to what’s probably the best feature of Outlook for mobile: Focused Inbox. Like Gmail’s priority inbox, Focused Inbox also highlights the emails that are most likely important. While I’ve found that Priority Inbox and Focused Inbox on mobile do occasionally highlight different emails, it’s hard to imagine wading through my inbox without these tools, so it’s good to see them come to the desktop, as well.
+
+Also new in Outlook is support for @mentions (yep — just like on Twitter). When you @mention somebody in an email now, that person will be automatically added to the TO: line and the recipient will get an extra notification and know that this is a really important email (I assume). This feature is now available to all Office Insiders using Outlook 2016 on Windows and Mac.
+
+The last new feature is Zoom for PowerPoint. This takes some cues from other presentation tools likePrezi, in that it aims to make your presentations more dynamic and allow you to go beyond the basic slide-to-slide style and rearrange your presentation on the fly when you notice that your audience is slowly falling asleep. Here is what this looks like in practice:

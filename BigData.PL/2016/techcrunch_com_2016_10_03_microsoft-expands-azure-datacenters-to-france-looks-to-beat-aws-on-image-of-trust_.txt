@@ -1,0 +1,29 @@
+Microsoft expands Azure data centers to France, launches trust offensive vs AWS, Google
+
+Companies like Microsoft, Amazon and Google continue to compete fiercely in the area of cloud services for consumers, developers and enterprises, and today Microsoft made its latest moves to lay out its bid to lead the race, while also launching a new mission to position itself as the cloud provider you can trust.
+
+Microsoftannouncedit would build its first Azure data center in France this year, as part of a $3 billion investment that it has made to build its cloud services in Europe. At the same time, the company also launched a new publication,Cloud for Global Good, with no fewer than 78 public policy recommendations in 15 categories like data protection and accessibility issues.
+
+The new expansion, investment and “trust” initiative were revealed by Microsoft CEO Satya Nadella, who was speaking at an event in Dublin, Ireland. He said that the expansion would mean that Microsoft covers “more regions than any other cloud provider… In the last year the capacity has more than doubled.”
+
+As a measure of how Microsoft and Amazon are intent on levelling each other on service availability right now, the news of the French data center comesone month after Amazon announcedthat it would also be building a data center in France.
+
+Nadella, of course, did not mention AWS by name but that is the big elephant in the room for Microsoft. Nadella said today that Microsoft has data centers covering 30 regions across the globe, “more regions than any other cloud provider,” with the European footprint including Ireland, the Netherlands, the UK and Germany.
+
+In Germany, its data center is operated by Deutsche Telekom on Microsoft’s behalf in atrustee model, a move made both for “digital sovereignty and compliance,” Nadella said, “and a real world understanding of what the customer needs.”
+
+The popularity of cloud-based storage and services has grown exponentially in the last several years, fuelled by the rise of smartphones and tablets that rely on cloud-based architectures to run apps; as well as a rise of other consumer and enterprise services that have also taken a remote storage and processing approach to deliver software more efficiently.
+
+While Microsoft may have lost to companies like Google/Android and Apple when it came to building a mobile platform or phone that is widely used by the mass market, it’s hoping that its presence in cloud services will give it a place at the table for computing in the future.
+
+“We have a very particular point of view by what we mean by mobile first and cloud first,” Nadella said today “It’s about the mobility of your experience across all devices in your life [and] the way to achieve that mobility … those experiences… is only possible because of the cloud.”
+
+As a business, it provides a very constant amount of recurring revenue for companies like Amazon and Microsoft, and as such is a strong engine for their respective financial performance. Offering basic services in the cloud like instances for developers also lays the ground work for upselling customers with a number of other features, ranging from other software and products through to more technology to improve apps, such as machine learning and artificial intelligence technology. (Nadella described his vision, for example, of “bots in every app”.)
+
+The business aspects of the cloud were less the focus of today’s presentation. More to the point was a new, interesting position that Microsoft is laying out for itself as the “more trusted, more responsible and more inclusive” cloud provider, in the words of Nadella, presumably in contrast to others like Amazon and Google.
+
+Microsoft has an interesting backstory when it comes to making news in Ireland. The country — in part due to its tax structure — has become the home for a number of major tech companies — not just Microsoft, but Facebook, Google, Apple and many more — when setting up their international headquarters, covering global operations outside of the U.S., which means that regulatory questions that arise in Ireland over issues like data protection or paying taxes have larger reverberations beyond it.
+
+In the case of Microsoft, the company waslong embroiledin a case it was fighting against the U.S. government over data that it stored in servers in Ireland, that the U.S. government wanted to access. (Itwon the caseearlier this year.)
+
+“Little did we know that this data center would lead to litigation against our own government… little did we know that if we persisted we would actually win the case,” said Brad Smith, Microsoft’s chief legal counsel and its president, in the presentation today. “People have rights and those rights need to be protected. We need to build a cloud that is responsible as well.”

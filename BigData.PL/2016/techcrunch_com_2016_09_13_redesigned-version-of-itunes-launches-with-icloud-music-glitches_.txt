@@ -1,0 +1,21 @@
+Redesigned version of iTunes launches with iCloud Music glitches
+
+Apple is having a rough day with the rollout of its new software platforms: in addition to the bugthat was bricking users’ iPhones when upgrading to iOS 10,the new version of iTunes –iTunes 12.5.1– is also having issues connecting to iCloud Music Library this morning.
+
+This is a notable update for iTunes, which is likely prompting a surge of downloads, but it’s unclear what’s causing the iCloud connectivity issues.
+
+In the new release, Apple is introducing a completely redesigned Apple Music section, including the addition ofthe personalized playlists, as well as Siri integration. You’re now able to ask Siri on your Mac what songs and artists you want to hear, assuming you’ve also upgraded to the latest release of macOS, which introduces support for Apple’s virtual assistant.
+
+Siri is able to play music for you from either your own library or Apple Music, in the new iTunes.
+
+Also arriving today is Picture-in-Picture mode. This lets you watch videos from iTunes while you’re multitasking in other windows. The playing video will float above your desktop and can be dragged to any corner of the screen.
+
+However, users who are upgrading to iTunes 12.5.1 today are having problems with iCloud Music Library following the installation of the new software. After launching iTunes, an error message appears, warning that iTunes is “Unable to connect to iCloud Music Library.”
+
+What’s frustrating, though, is that after you dismiss this warning message, it will pop right back up again as it attempts to reconnect. This causes the app icon to annoyingly bounce in Mac’s dock, trying to get your attention about the notification.
+
+Unfortunately, this makes it difficult to really begin to use the upgraded version of iTunes, as the message continually interrupts.
+
+Apple’sservice status pagedoesn’t show any issues at present, which may mean this glitch is only affecting those people who have installed the software today. We’ve asked Apple for more information and will update if a response is provided.
+
+Update: Apple service status page did confirm the outage, and shows that the issue was resolved this afternoon.

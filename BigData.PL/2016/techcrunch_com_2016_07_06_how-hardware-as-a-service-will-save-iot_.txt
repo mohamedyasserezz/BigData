@@ -1,0 +1,49 @@
+How Hardware-as-a-Service will save IoT
+
+Here’s the dirty little secret about the Internet of Things: The Things might not work, and you might not use them.
+
+Asaconsumer, many of your gadgetswillcollect dust tucked away in a drawer (I must admit, I havealarge box full of wearables and other things with which I don’t know what to do).Asabusiness, many of your deviceswillnot performaswellasexpected, turning into maintenance-heavy money pits.
+
+This is because it’s hard to gauge the usefulness ofanew, innovativehardwareThing. Some won’t be useful; otherswillstop working. Even the ones that you love, the hard-working devices that serve you every day,willsoon become obsolete, replaced by newer, better, shinier Things.
+
+And so we keep buying these new Things, seduced by their promises — and later often find ourselves saddled with buyer’s remorse.
+
+But soon, thanks toaconcept calledHardware–as–a–Service(HaaS), we’ll have fewer of these regrets, because we’ll own fewer of these Things. Thanks to HaaS, the way individuals and businesses consumehardwareproducts is changing.
+
+Hardware–as–a–Service, which clearly has roots in Software-as–a–Service, isabusiness model where companies sell packages that includehardware, software, maintenance and, sometimes, installation, foramonthly fee. Under HaaS, customers pay for services, not Things; consequently, HaaS contracts often includeaservice-level agreement (SLA).
+
+Here are some examples:
+
+Vivintisasmart-home company that offers security sensors, smart locks, thermostats, installation, servicing and 24/7 customer support foramonthly fee. Most of thishardwareis made by the company. Plans start at around $60/month, withafree trial period and minimum contract length.With more than 1 million customers and $650 million in revenue, their strategy seems to be working.
+
+Hitachi recently announceda“trainsasa service” contractwith Virgin in the U.K. for 65 new high-speed Hitachi trains. Under that deal, Hitachi maintains ownership of the trains, and is paid based on their trains’ reliability.
+
+In fact, transportation is the leading edge of HaaS. Bike-sharing programs like NYC’sCiti Bikeprovide access to bicycles foraslittleas$15/month. In many cities, car-sharing programs likeZipcarandcar2gohave replaced the need to ownacar.Uber recently launched $5 ratesto provide an everyday transportation option for commuters, further reducing car ownership needs.
+
+Even the large tech companies are starting to get on board. Earlier this month,Microsoft launched “Surfaces-as–a–Service,”allowing business customers to payamonthly fee foraMicrosoft Surface, unlimited phone/in-store support andhardwareupgrades.HP is reportedly exploring HaaS plansfor their device product lines. And some analysts believe that an “Apple-as–a–Service” subscription-based revenue model is the answer to that company’s woes.
+
+Hardware–as–a–Serviceis here because it makes sense. Almost allhardwareisadepreciating asset: why would we want to own it? For example,anew car loses nearly 10 percent of its valuewhen driven off the lot. In these cases, it makes simple economic sense not to own.
+
+HaaS also taps into the current zeitgeist of minimalism,where books about decluttering become bestsellersand less-than-400-square-foot housesbecome the focus of popular TV shows,aswellasthe growingsharing economy.
+
+There are many more advantages for customers. HaaS transforms an up-front capital expenditure into an ongoing operating expense, which also allows for more accurate cost/value comparisons: e.g. “Is this worth $X/month to me?” Operating expenses become cheaper through shared use, especially for Things we don’t always use: e.g. bike/car sharing.
+
+There is less worry about maintenance because of bundled-in servicing, which means any errors, bugs and other misbehaving gremlins become the headache of thehardwareprovider. Included servicing also caps the total cost of ownership: You know exactly how much itwillcost foraslongasyou use it.
+
+With HaaS, problems are fixed faster: Sometimes thehardwareprovider is not paid if the Thing is not operating (e.g. Hitachi’s trains), which incentivizes them to repair equipment quickly, even proactively (i.e. preventative maintenance). And there is less need to worry about obsolescence. You pay for theservice, not thehardware; newer, cheaperhardwareoften enables the provider to offerabetterserviceto you, which encourages them to upgrade.
+
+HaaS also has advantages forIoTcompanies, justassoftware vendors benefited from SaaS. HaaS is easier to sell because of the lowered up-front cost. HaaS contracts generate predictable monthly revenue. HaaS plans create longer customer relationships, which can drive further sales. Bundlinghardware, software, maintenance and installation improves margins: Pricing becomesafunction of the value provided, not of the underlying (and diminishing)hardwarecosts. In other words, HaaS can beashield against the endless march ofhardwarecommoditization.
+
+Of course, HaaS is not completely new — we’ve already seenasimilar transformation with SaaS, which paved the way by making subscription services widespread and generally accepted. HaaS is alsoaresult of the recent flood of innovation released by the lowered barriers for buildinghardware: cheaper components, easier prototyping, more accessible contract manufacturers, newer distribution channels andhardware-friendly investors.
+
+It is the next step in the evolution of product-delivery models: from buying, to financing, to renting/leasing and now to HaaS.
+
+The key difference with HaaS is you pay for the usage of theservice, not the asset, which is why we see HaaS underavariety of names: Smart-Home-as–a–Service(Vivint), Trains-as–a–Service(Hitachi), Cars-as–a–Service(Zipcar, car2go, Uber), etc.
+
+In other words, HaaS isanew way of thinking. HaaS changes the relationship between the vendor and customer, extendingaone-time transaction intoalong-term relationship. This means customers need to pay more attention to how their vendors operate, and vendors need to pay more attention to their existing customers.
+
+Of course, HaaS may not fit allhardwareproducts. Some deviceswillbe so cheap that they’re disposable. Somewillbe so expensive that they’ll require up-front payment just to support cash flow needs (especially for startups). Other businesseswillstill thrive off of crowdfunded pre-sales.
+
+But HaaS is here, and we are better off because of it.
+
+Thanks to Mike Freedman, Jamie Cuffe and Nitin Chopra for reading drafts of this article.

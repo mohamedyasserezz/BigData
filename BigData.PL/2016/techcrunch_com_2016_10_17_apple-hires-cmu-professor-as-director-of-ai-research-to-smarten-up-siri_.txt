@@ -1,0 +1,19 @@
+Apple hires CMU professor as director of AI research to smarten up Siri
+
+Apple is making a visible push in the direction of AI today by hiring Carnegie Mellon University professorRuslan Salakhutdinovfor what appears to be a newly minted position: director of AI research.
+
+Salakhutdinov, whoannounced his new position on Twitter, works in the fields of deep learning and neural networks; he’s published dozens of papers in the last couple of years alone. The topics he’s worked on run the gamut, but the main thread is one of human-like understanding of various media: recognizing objects in images, actions in videos, and so on.
+
+He linked to anopen position at Applethrough which people could apply to join his team, though the description is predictably vague:
+
+We are looking for exceptional hands-on research scientists with a proven track record in a variety of machine learning methods; from the realms of deep learning, reinforcement learning, unsupervised learning, and computer perception. You will be joining a world-class, multidisciplinary team and will be participating in cutting-edge research in deep learning, machine intelligence, and artificial intelligence. You will be solving real-world, large-scale problems.
+
+PhDs only, by the way. Stay in school, kids!
+
+Tim Cooktold the Nikkei just todaythat the company would be establishing a research lab in Yokohama partly dedicated to researching AI. He described AI as “horizontal in nature, running across all products,” saying it was used “in ways most people don’t even think about.”
+
+These moves may seem to some like playing catch-up with rivals Google and Microsoft, which have been dedicating serious resources to basic AI research for years. Apple’s name was conspicuously absent from arecently established “partnership on AI,”and Google is in the middle of a full-court press as it looks to integrate its Assistant platform into as many products as possible.
+
+But it must be mentioned that, for better and for worse, Apple has always been a more private company when it comes to this sort of thing; its researchers rarely present at conferences or publish papers, and their advances are rarely heard about until they’re being described in the dulcet tones of Jony Ive in a meticulously crafted product introduction video.
+
+We’ve contacted Apple and Salakhutdinov for more information and will update this post if we hear back.

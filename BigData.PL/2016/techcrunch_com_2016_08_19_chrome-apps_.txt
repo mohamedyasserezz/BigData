@@ -1,0 +1,11 @@
+Google will phase out Chrome apps for Windows, Mac and Linux
+
+First, if you’re using Chrome apps on Windows, Mac or Linux, I’m sorry for your loss. Second, please take some solace in the fact that you really were one of a kind. AsGoogle noted in a blog post today, active usage numbers were pretty low for the offering.
+
+Today, approximately 1% of users on Windows, Mac and Linux actively use Chrome packaged apps, and most hosted apps are already implemented as regular web apps.
+
+It’s not surprising, then, that the company is starting to phase them out as it works to simplify its browser. Standalone Chrome apps will be going the way of Buzz and the Nexus Q, phasing them out over the next two years. It’s a multi-step process, beginning with the limiting of newly published apps to users on Chrome OS by the end of the year.
+
+In the second half of 2017, Windows, Mac and Linux apps won’t appear in the Chrome Web Store, and early the following year, people using the aforementioned operating systems won’t be able to load them at all.
+
+To help ease the transition, Google is providing developers tools to help migrate their apps to the Web.

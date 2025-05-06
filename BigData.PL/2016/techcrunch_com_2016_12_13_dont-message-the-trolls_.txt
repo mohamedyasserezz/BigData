@@ -1,0 +1,41 @@
+Imgur matures into a meme social network with chat and following
+
+There should be a term for how, given long enough, every social app adds a chat feature. Maybe “Carson’s Law”, named after Johnny Carson, the king of chit-chat on late night TV. Well, Imgur’s time has come.
+
+Thecontent discovery sitewhere 150 million monthly users upvote the best memes, GIFs, science tricks, and sob stories todaylaunchedchat and following features. These could make Imgur even more sticky, recentering it from the images you find to the people you share them with, even if you’ve never met them in real life. The question is whether Imgur can keep these private channels from turning into sewers.
+
+Imgur has always had a remarkably strong and supportive community, driven by the fact that everyone is united by the same homepage of top content, rather than seeing personalized feeds like on most social networks. Inside jokes and emergent behaviors reign.
+
+There’s the hatred of reposts of old content, enthusiasm for introverts scoring little wins in work or love, and the deification of Imgur’s curly-haired community manager Sarah Schaaf. Users recently donated frequent flier miles to send 20 needy “Imgurians”home for the holidays, and 20,000 have signed up for its annualSecret Santa gift exchange.
+
+There’s also a smaller, seedier side, where contributors who reach the front page request people send them nude photos, and users comment with an unassuming “.” to bookmark erotic content they call “research material”. Though the site prohibits outright pornography, sexed-up cosplay and lists of adult film stars still get massive attention.
+
+Sarah, sister of Imgur founder Alan Schaaf, downplays the racier bits, saying “One of the things I’m most proud about is that despite the massive scale, Imgur has managed to stay an overwhelmingly positive place.” She sees its purpose as three-fold: to help users discover new things, geek out on what they love, and share with like-minded people.
+
+Yet until now, staying in touch or consuming a specific user’s content was tough. There’s long been basic private messaging, but it only worked on desktop with no notifications, and didn’t support rich media like GIFs. It was really more like a bare-bones internal email system. And you had to proactively visit someone’s profile to see what they’d recently shared.
+
+Rolling out today, chat brings true instant messaging to Imgur. It works on mobile where users get notifications and can share text, links, Imgur posts, and GIFs — which have been the most popular in beta testing. For the many Imgurians who’ve built long-distance online friendships on the site, chat will draw them deeper into the service rather than forcing them out onto some other communication tool.
+
+Following allows people to select their favorite Imgur accounts and get notified if one of their submissions gets enough upvotes to hit the “Most Viral” page. If there’s a particular GIF wizard, story teller, or meme aggregator you love, you’ll know when they post something great. Notifications are a clumsy way to browse content at higher volumes, though. We’ll see if Imgur eventually offers a feed for consuming posts by people you follow. That could put it more directly in competition with social networks like Facebook.
+
+Unfortunately, the chat feature feels a bit half-baked in ways that could be problematic when unleashed on such a massive community. Imgur is full of power users, with82% spending over 3 hours a weekon the service as of last year. And after being bootstrapped for five years, it’s onlyraised one funding round of $40 millionin 2014, led by Andreessen Horowitz. With the 2015 launch ofSponsored Postads still gaining steam, Imgur lacks deep pockets like other social networks that can throw legions of product designers and engineers at new features.
+
+That leanness shows here. Imgur doesn’t have a serious anti-spam and harassment system in place to fight abuse of its chat product, and seemed unprepared for some of the scenarios I asked about.
+
+Anyone can send anyone a message without the need to “friend” each other, and there are no defined message sending limits in place. Users are free to send links that could lead to scams and shopping sites. There are no granular noise-reduction tools beyond blocking people individually that send unwanted messages, or turning off notifications entirely. Women who post selfies could be inundated with come-ons from the majority-male user base.
+
+Imgur does have a “mini-team around spam” plus a content moderation squad, Sarah says. But they’ve been focused on keeping out broadcasted content that’s largely image-based. And since low-quality content sinks out of view quickly on Imgur, the community has helped keep spam at bay.
+
+Private messaging is a different ball game. Abuse there is targeted and therefore more personally threatening. And chat generates notifications so trash can attract the immediate attention of any user, rather than only hitting the grizzled hardcore users that comb its user submitted section for gems.
+
+If Imgur doesn’t get a handle on these problems, they could spiral out of control, regardless of whether the startup considers this an early “minimum viable product” beta version of chat.
+
+Schaaf tells me Imgur “is not a free speech platform”, distancing itself from former sister site Reddit. Imgur was the preferred image hosting site for Redditors, until Reddit finally added its own native hosting system. Meanwhile,Reddit has been plagued by trollsspilling hatred out of its confined Subreddits like R/The_Donald and onto its home pages like R/All.
+
+“We want Imgur to be open to everybody and fun for everybody. When something isn’t fun to a specific group of people, we need to think about it in accordance with our community rules. Everything we can do to shape it in that direction, we’re gong to do” Schaaf explains.
+
+As for the “Send Nudes” front-page edits that some might see a just ‘locker-room talk’ but others find misogynistic, Schaaf tells me “Asking for sexually explicit things is against our terms of service and hopefully they get kicked out.” But I’d doubt Imgur will suddenly start banning users who do that.
+
+Becoming a true social network is a massive opportunity for Imgur. Not just because it will drive engagement that could stoke revenue generation, but by offering interpersonal connection to a demographic often isolated behind their computer screens. These social features will also force Imgur to grow up fast, and learn hard lessons about the nature of humanity that can sometimes stray from the light.
+
+There’s already plenty of room for filth on the Internet, and Imgur doesn’t need to be another. Unlocking the doors of its users via chat will require more police on the streets ifImgurwants to remain a beacon of positivity amongst the darkness of the web.

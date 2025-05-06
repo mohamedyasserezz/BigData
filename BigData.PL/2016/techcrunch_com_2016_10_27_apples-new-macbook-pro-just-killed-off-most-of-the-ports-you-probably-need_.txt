@@ -1,0 +1,25 @@
+Apple’s new MacBook Pro kills off most of the ports you probably need
+
+Apple justintroduceda shiny, super thin new MacBook Pro. But for what was birthed, a lot of widely-held standards had to die.
+
+Today, Apple removed the MagSafe 2 charging port type, they stripped away the HDMI port, they ripped out the SD card slot, they shuttered the Thunderbolt 2 ports (which you probably used like three times) and they most notably killed the standard USB port. All these ports, which power data transfer and charging for most everything you likely use, have been replaced by four Thunderbolt 3/USB-C ports. Surprisingly the folks at Apple saw it fit to give the headphone jack a stay of execution on the new model.
+
+Complaining about Apple sacrificing existing consumer needs in terms of connection types is getting pretty tiring. Most have made a lot of sense, generally when the company was retiring the proprietary standards that it was largely the only one pushing. See: Firewire or Thunderbolt 2. Others, like losing the headphone jack on the new iPhone 7 or ditching the old USB on the new MacBook have created a bit more of an uproar among users that aren’t psyched about needing a dongle on-hand at all times to connect their device to things they need.
+
+But even with the death of the headphone jack, Apple was making a broader declaration that it believed most headphone manufacturers would soon be adopting bluetooth and designing wireless headphones. With this MacBook Pro, Apple still sees people needing all of these other ports (see slide below), they just don’t seem to care that consumers will need to buy a separate accessory in order to do so.
+
+What Apple does have on its side here is that USB-C/Thunderbolt 3 are invariably the future thanks to their more compact design and faster transfer speeds. USB-C and Thunderbolt 3 are different connection standards with the same physical port. This is an important note because while the MacBook Pro ports are compatible with both types, the regular MacBook only interfaces with USB-C.
+
+This justification by way of superiority might sound a bit unsatisfying to MacBook buyers who had to hear this exact same reasoning when Apple wasted space on the Thunderbolt 2 ports that were ultimately only adopted by a few high-end peripherals, but this time around Apple isn’t the only one leading the USB-C/Thunderbolt 3 revolution so this will likely see a different outcome.
+
+That doesn’t make it any easier for consumers who have loads of devices—many made by Apple—that will now need a dongle to connect to their “professional” computer.
+
+The argument for most users defending the single USB-C port on the new MacBook was one of frequency. How often do you really need to plug something into your laptop in an age of Airdrop and Dropbox? But if that’s the case why even give consumers four of them on the MacBook Pro? Well, theoretically because the Pro is for “power users.”
+
+But for all of the Final Cut X and Logic power users that will enjoy editing content on the highly-touted new Touch Bar, how many are ultimately creating that content using classic peripherals that won’t be updating to USB-C connections anytime soon?
+
+Ports aren’t just window dressing to professionals, they’re necessary connections that offer you freedom to plug-and-play with new tools no matter where you’re traveling. How many filmmakers are going to try to show a project they’re working on a projector and will have to ask whether anyone has a dongle so they can connect to HDMI? How many photographers are going to be stuck without access to a compatible card reader now that the MacBook Pro has ditched the SD card slot? People won’t even be able to physically connect their iPhones to Apple’s flagship laptops without a $25 new cord.
+
+These could ultimately just be growing pains that will subside as the Thunderbolt 3/USB-C standard gets adopted, but going all-in while so few devices use this standard is really annoying. The veiled suggestion that the USB Type-A, HDMI port or SD card will be anywhere near obsolete by the time Apple offers another MacBook refresh occurs in a few years is just laughable.
+
+Apple has always been accused of being arrogant with their decisions to abandon legacy technology or embrace new standards. They’ve grown to distort this criticism into a declaration ofcourage. The difference is, in the past events Apple has largely just been integrating emerging connection types alongside old standbys, but thanks largely to the fact that Apple’s products are rapidly growing thinner than the port types themselves, the company is ditching what consumers need and changing its philosophy towards connection standards in what really seems to be fundamentally unfriendly to consumers.

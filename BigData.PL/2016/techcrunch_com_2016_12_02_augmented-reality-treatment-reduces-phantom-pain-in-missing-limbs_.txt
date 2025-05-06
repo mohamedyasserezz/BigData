@@ -1,0 +1,21 @@
+Augmented reality treatment reduces phantom pain in missing limbs
+
+Phantom limb pain is a mysterious ailment: people with amputations experience aches and acute pains in an arm or leg that isn’t there — making the problem notoriously difficult to treat. But a new type of therapy using augmented reality is surprisingly effective at reducing even the most intractable phantom pain.
+
+The AR therapy method,first proposed in 2014by Max Ortiz Catalan of the Chalmers University of Technology,just completed its first, highly promising clinical trial. The team selected 14 amputees whose phantom limb pain was chronic and unresponsive to other therapy methods.
+
+The patients were equipped with myoelectric sensors that detect the signals in muscles that once controlled the missing limb. These signals are tracked and analyzed, and linked to movements in a virtual environment — opening the hand or twisting the wrist of an on-screen limb.
+
+Once this calibration is complete, the virtual limb is superimposed on a live webcam image of the patient, starting just where the real limb stops. The user thinks of movements, and the virtual limb executes them. Over 12 semimonthly sessions, patients were asked to put the virtual limb into various positions, use the sensors to control a car in a racing game, and so on.
+
+Amazingly, by the end of the 12 sessions, reported pain was reduced by about half, and interruptions of daily activity or sleep from it were similarly cut down. The four patients on pain medication reduced their dose, two of them by 81 percent. Six months later, the improvements were still present, implying a lasting therapeutic benefit.
+
+“The results are very encouraging, especially considering that these patients had tried up to four different treatment methods in the past with no satisfactory results,” said Catalan in a news release. “We also saw that the pain continuously decreased all the way through to the last treatment. The fact that the pain reduction did not plateau suggests that further improvement could be achieved with more sessions.”
+
+If the idea that moving a virtual limb around in AR could relieve pain strikes you as strange, don’t worry — it is. But phantom pain is a poorly understood phenomenon and sometimes the effectiveness of treatments is matched only by their strangeness.
+
+Phantom itches are also a problem, for example: imagine how maddening it must be to have an itch you can’t scratch because the limb it’s on isn’t there. The solution, some have been lucky enough to find, is to arrange mirrors so that a limb that’s present appears to be in the place of the missing one. Someone scratches it, and the phantom itch disappears. Believe it or not, this and other forms of mirror therapy are established practice — though not always effective.
+
+This AR-based method is sort of like mirror therapy taken to the next logical level, and it may prove a valuable tool in the treatment of this mysterious but very real condition.
+
+Next up: more tests. 30 patients, this time with leg amputees as well. The paper describing this initial clinical trial waspublished in The Lancet.

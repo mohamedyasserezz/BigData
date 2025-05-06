@@ -1,0 +1,31 @@
+Microsoft awards hardware startup ENTy the 2016 Imagine Cup
+
+The festivities have wrapped for Microsoft’s Imagine Cup, a global competition among students and young people to create new software and devices.The winner this yearwasENTy, a polished and highly practical hardware solution for tracking posture, helping with diagnosis and possibly treatment of diseases that affect balance.
+
+There were 35 teams in the finals, split evenly between three categories: games, innovation, and global citizenship. All of them presented to a panel of judges on Wednesday, after which a winner was selected for each category. Those three were each awarded $50,000, but the grand prize — prestige and a private mentoring session with Satya Nadella — was reserved for today’s final ceremony.
+
+It took place at my very own Garfield High School (go Bulldogs!) and filled up our newly refurbished Quincy Jones Auditorium. An energetic beatboxer opened things up, but with it being before 9AM and coffee not allowed inside, I was eager for things to get started in earnest.
+
+Eventually the finalists were ushered out, along with the three judges: Dr Jennifer Tang, a previous winner and founder of Eyenaemia; Kasey Champion, computer science education specialist at Microsoft Learning; and John Boyega, whom you might remember from 2011’s Attack the Block and some flick about a Star War.
+
+In the games category wasPH21’sclever mobile title, Timelie, that combines tactical stealth with control over time. In global citizenship wasTeam Amanda, which aims to prevent bullying with a VR experience that measures the user’s response to bullying-related media. And in innovation was ENTy.
+
+ENTy(the ENT stands for ear, nose, and throat — not the sentient trees) is a device and app that monitor balance and posture in real time, meant to help doctors diagnose and check up on inner ear problems like vertigo.
+
+The patient straps on a device the size of a pack of cigarettes to the small of their back, and a set of sensors sends data to an associated app. There’s a real-time readout of position, and you can see that over time as well for a test that, for example, requires a patient to stand straight for 20 seconds with their eyes closed.
+
+The team is only three people, from Romania’s University Politechnica: Iulian-Razvan Mateșică on hardware, Cristian Alexandrescu on the app, and Flavia Oprea on business development. She took the lead in presenting the tech and fielding questions — extremely well I might add; in fact, all the presentations I saw were highly polished, especially for students for whom English is not their first, or even second, language.
+
+ENTy’s next step, presumably after getting some real talk from the CEO of Microsoft, will be to make the device a little more presentable. They’ve already tested it with several doctors and hundreds of patients, and the response has been very positive, but the device itself isn’t, as they say, ready for its close-up.
+
+“The doctors say they don’t want it any smaller,” Oprea said in a Q&A Thursday. “But we have a plan for B2C to make it smaller — it has to be, how do you say, a sexy wearable, for everybody.”
+
+To that end they are working with a firm in Bucharest to design and promote the device outside doctors’ offices, though the strictly medical side is also being pursued — but that seems to be mainly paperwork. Collecting data for machine learning is also on the table, but there’s even more red tape associated with that.
+
+After the ceremony, Oprea also spoke with great optimism about the prospects of young women in tech, at least in Bucharest.
+
+“The number of girls that are interested is growing,” she said. “We’re telling them not to be afraid, and not to listen to negative advice like ‘computers are for boys.’”
+
+As a final treat, Microsoft invited Garfield’s principal, Ted Howard, on stage to accept a donation: “$100,000 worth of” Surface Books, which I take to be 85 or 90 of them. The school is looking a lot better than it did when I was going there in the late ’90s, but you better believe GHS appreciates the gift — somehow I doubt they’re swimming in laptops.
+
+Here’s looking forward to next year’s cup and the fresh ideas that come with it.

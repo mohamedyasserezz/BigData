@@ -1,0 +1,25 @@
+Coinbase is adding support for Ethereum
+
+SinceCoinbasewas founded in 2012, hundreds if not thousands of Bitcoin competitors (typically referred to as alt-coins) were created. But Coinbase ignored the noise and remained focused on supporting just one currency – Bitcoin.
+
+But today that changes, as Coinbase is announcing that they are adding site-wide support forEthereum, a digital currency with a built in programming language designed to support and execute peer-to-peer digital contracts.
+
+The writing was on the wall for some time. In May, Coinbase co-founder Fred Ehrsam published a post on Coinbase’s blog titledEthereum is the Forefront of Digital Currency. Around the same time, Coinbase added support for Ethereum trading toGDAX, its online professional cryptocurrency exchange.
+
+But adding system-wide support for Ethereum on Coinbase is a much bigger step than just adding it to their exchange. Because while GDAX is mainly a professional exchange for traders, plain-old Coinbase is much more geared towards your average joe who is just dipping his toes into cryptocurrency for the first time.
+
+In fact, that’s what made Coinbase so unique when it launched. It provided an easy to use interface to buy, sell, and safely store Bitcoin at a time when only nerds could figure out how to download a native wallet app and interface with an anonymous online exchange.
+
+And now by supporting Ethereum, Coinbase is essentially repeating history. A still (comparatively) unknown digital currency will now be accessible to anyone with an email address and a debit card.
+
+And this isn’t a half-baked integration. Ethereum will be getting the full treatment with the exact same functionality the platform provides for Bitcoin, even within their mobile apps and APIs. In Ehrsam’s own words…“Ethereum will be a first-class citizen on Coinbase”.
+
+So now the big question is…why?
+
+Ehrsam essentially explained that Ethereum is unlike any new digital currency they’ve ever seen – mainly because it actually improves upon Bitcoin. Previously, the hundreds of alt-coins that have been created just tweaked small parts of the Bitcoin codebase like block size and confirmation time…not improvements worthy to be deemed the future of digital currency, and default not enough to get them onto Coinbase.
+
+But Ethereum is different. Ehrsam says that while it may be riskier and newer than Bitcoin, it represents the bleeding edge of digital currencies. This is mainly because it was designed to allow applications to be built directly on top of the currency itself.
+
+While examples are still sparse, Ehrsam (and much of the crypto community) believes that developers will be able to utilize Ethereum to build much smarter and more complicated applications than possible on Bitcoin.
+
+By adding the currency to its platform, Coinbase is only further validating the community’s assumption that Ethereum may be here to stay. And, according to Ehrsam – it may not be the end. Coinbase is committed to being cryptocurrency agnostic. This means eventually supporting dozens if not hundreds of digital assets ranging from crypto-based financial derivatives to in-game tokens for an iPhone app.

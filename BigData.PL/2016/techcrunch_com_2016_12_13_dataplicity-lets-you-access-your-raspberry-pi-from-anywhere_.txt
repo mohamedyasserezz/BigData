@@ -1,0 +1,15 @@
+Dataplicity lets you access your Raspberry Pi from anywhere
+
+Say you’re just a small-town girl living in a lonely world and you took the midnight train going anywhere. How would you reconnect to your Raspberry Pi while on the road? You would go into a smoky room, fire up your laptop andtry Dataplicity.
+
+Dataplicity is essentially a VPN for your RaspPi. It not only lets you connect to your Pi remotely but you also can “wormhole” a web server through the system, allowing you to run a mini website from the comfort of your all-in-one computer.
+
+Setup is as simple as entering your email address and pasting a command into your Pi’s terminal. The command essentially creates a new user and enables the VPN tunnel. Once it’s up and running you can activate wormhole —here’s my server… be gentle — and you can reboot the board and even access the command line.
+
+Elliot Mackenzie created the product when he was working on HyDip, an “automated tank gauging solution for the transport, aviation, fuel and agriculture industries.” He quickly came to understand the power of IoT and how valuable it would be to access devices like Raspberry Pi’s remotely.
+
+“People around the world are building amazing projects using the Raspberry Pi, but accessing your device remotely is still a massive pain,” he said. “Before Dataplicity, users looking to remotely access their Pi and/or host a web admin console from their Pi would have to set up custom solutions using DynDNS, Static IP, VPN or Port Forwarding (options that no one likes). With Dataplicity, all you need to set up and link your Pi is one line of code. Users can share projects using our unique Wormhole feature, which lets them create a web interface for their Pi at a fixed URL.”
+
+Mackenzie built the project to be completely secure — only those with your credentials can access your Pi — and easy to set up and use. Adding a web server, for example, is as easy as installing nginx and pressing a button. The service even lets you see how much disk space you have remaining.
+
+Everybody wants a thrill and little tools like Dataplicity let anyone roll the dice with their Raspberry Pis just one more time. Indeed, instead of putting up with the smell of wine and stale perfume, now you can do a little work on your Raspberry Pi remotely and you never have to stop believing. (guitar solo)

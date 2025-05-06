@@ -1,0 +1,91 @@
+Facebook puts friends above publishers in “News Feed Values” and ranking change
+
+After the conservative trends fiasco, Facebook is pushing itself to a new standard of transparency. The company ispublishinga formal “News Feed Values” document that details how it decides what shows up in your feed — a common question amongst users.
+
+Those core values are that friends and family come first, that the feed should inform and entertain, that Facebook is a platform for all ideas, that authentic communication beats spam, that you have the controls to hide or highlight what you want, and that Facebook will keep iterating to improve the experience.
+
+Facebook is also makinga feed ranking changetoday that literally puts its primary value that “Friends and family come first” into practice. The News Feed will now show posts from friends higher up in the feed than posts from Pages like news outlets. Pages should expect a decline in reach and referral traffic, especially if they rely on clicks directly to their posts rather than re-shares by their followers.
+
+While the News Feed is ranked by a computer algorithm, Facebook’s Adam Mosseri explains “News Feed is a system that’s designed and built by people, those people have values, and those values are reflected in how we make decisions on a regular basis.” By publicly solidifying those values, users may gain faith that Facebook doesn’t have ulterior motives when deciding the best content to show them.
+
+Facebook chooses from between thousands of potential stories when building your News Feed each day. It could never show you everything. Even though people spend an average of 50 minutes a day across Facebook’s properties, there’s far more content than would fit.
+
+In fact, choosing what appears is getting tougher over time since more users and publishers are joining the social network, and they’re sharing more frequently. The competition for space leads to an inevitable decrease in reach for any particular piece of content, stirring allegations that Facebook purposefully picks stories that will earn it money, or that it’s maliciously pushing Pages to pay for ads in order to get seen.
+
+But in reality, Facebook’s goal first and foremost is to create a feed that keeps people satisfied — both quantitatively in terms of the volume of their engagement measured in clicks and time spent, but also qualitatively according to surveys it’s constantly serving to a sample of users.
+
+Mosseri, who’s been working on Facebook’s News Feed for much of its near-10 year existence, sat down with reporters at Facebook’s Menlo Park headquarters last week to discuss how the feed works, and how the company’s values determine how it evolves.
+
+[Update: We’ve removed the audio recording of Mosseri’s talk and we’ll be adding a link to a full text transcription instead shortly.]
+
+Facebook was built on the idea of connecting people with their friends and family. That is still the driving principle of News Feed today. Our top priority is keeping you connected to the people, places and things you want to be connected to — starting with the people you are friends with on Facebook. That’s why if it’s from your friends, it’s in your feed, period — you just have to scroll down. To help make sure you don’t miss the friends and family posts you are likely to care about, we put those posts toward the top of your News Feed. We learn from you and adapt over time. For example, if you tend to like photos from your sister, we’ll start putting her posts closer to the top of your feed so you won’t miss what she posted while you were away.
+
+Our research has also shown us that, after friends and family, people have two other strong expectations when they come to News Feed:
+
+●Your feed should inform. People expect the stories in their feed to be meaningful to them — and we have learned over time that people value stories that they consider informative. Something that one person finds informative or interesting may be different from what another person finds informative or interesting — this could be a post about a current event, a story about your favorite celebrity, a piece of local news, or a recipe. We’re always working to better understand what is interesting and informative to you personally, so those stories appear higher up in your feed.
+
+●Your feed should entertain. We’ve also found that people enjoy their feeds as a source of entertainment. For some people, that’s following a celebrity or athlete; for others it’s watching Live videos and sharing funny photos with their friends. We work hard to try to understand and predict what posts on Facebook you find entertaining to make sure you don’t miss out on those.
+
+What That Means
+
+The subtext here is that Facebook puts the benefit of its users above publishers, developers, advertisers, and even its own monetization. That’s because Facebook knows that if it doesn’t prioritize people, they won’t keep coming back. Without an audience, publishers can’t generate referral traffic, developers can’t gain app installs, ads don’t generate sales, and Facebook will wither.
+
+Recently, the balance seemed to have shifted too far in favor of news publishers. Between the election cycle and big publishers learning how to create visually stimulating videos, the feed began to feel dominated by news outlets instead of everyday people, and now Facebook is evening things out.Parse.ly saysFacebook delivers 41.4% of all referral traffic to publishers, even beating out Google’s 39.5%. It crushes every other traffic source.
+
+Still, Facebook is essentially telling publishers addicted to its referrals that, “that’s your problem”. Facebook will surely be diplomatic when it needs to constrain that flow of traffic. But the same situation that led to the rise of Facebook Instant Articles despite them giving Facebook vastly more power over publishers will dictate things here: Facebook needs publishers’ content, but it doesn’t need any one particular publisher, and since the independent outlets could never unionize for a boycott since a few would likely scab and still publish there, they’re all at the mercy of the social network.
+
+“I’d expect reach for publishers to go down a small amount but a noticeable amount” says Mosseri. “We’re trying to connect people more to friends and family because people are telling us that they’re more interested in it and that they feel like it’s getting drowned out.”
+
+What’s also interesting is that Facebook is clearly outlining how its goal to be a utility supersedes its desire to be a source of entertainment, though both are important. Mosseri explains “Informative doesn’t necessarily mean hard news…There are other things that are informative. Learning about a ball game is informative. Learning about how to cook a meatloaf…is informative. ( I actually love meatloaf sandwiches)…So it’s sort of a broad approach to informative content.”
+
+Facebook wants to be more than a slew of viral videos or memes. Users might be drawn to click on shallow content, yet it can feel too frivolous and ultimately unsatisfying. Informing users about the lives of friends and current events makes Facebook less replaceable or skippable.
+
+We are not in the business of picking which issues the world should read about. We are in the business of connecting people and ideas — and matching people with the stories they find most meaningful. Our integrity depends on being inclusive of all perspectives and view points, and using ranking to connect people with the stories and sources they find the most meaningful and engaging. We don’t favor specific kinds of sources — or ideas. Our aim is to deliver the types of stories we’ve gotten feedback that an individual person most wants to see. We do this not only because we believe it’s the right thing but also because it’s good for our business. When people see content they are interested in, they are more likely to spend time on News Feed and enjoy their experience. It’s important to note that while we welcome a multitude of viewpoints, we also believe strongly that people should feel – and be – safe when they use Facebook, and we therefore have Community Standards that define the behavior that we think is out-of-bounds on the platform. We think it’s possible to be inclusive without making Facebook a place where people are subjected to attacks, hate, or other harmful behavior.
+
+What That Means
+
+Facebook is conveying that News Feed is a reflection of our interests, not some puppet master controlling them. Despite the allegations, Facebook believes that suppressing conservative trends or any other type of content would simply lead to an unsatisfying experience for those who want to see it. Inform and entertain the masses, and the feed will keep showing you prominently.
+
+So why reveal these News Feed values now? The obvious answer is that Facebook got torn apart in the press over allegedly suppressing conservative trends, in part because there was no transparency about how the trends were chosen. Ahead of today’s feed change that could hurt publishers, it needed for transparency around the feed.
+
+“We realized we need to just do better and do more” says Mosseri. Though he’s been talking publicly about News Feed and the company has been announcing changes to the algorithm for years, Mosseri admits, “We’re still sort of ramping up in our maturity and how we can communicate effectively, this is just sort of one milestone, this isn’t the end. There’s more we need to do.”
+
+In practice, that means that while Facebook may bias its decisions towards its stated values, “we’re not going to try decide that one point of view or one agenda or one politician should get more distribution. That’s not our role” says Mosseri.
+
+AUTHENTIC COMMUNICATION
+
+The strength of our community depends on authentic communication. The feedback we’ve gotten tells us that authentic stories are the ones that resonate most. That’s why we work hard to understand what type of stories and posts people consider genuine — so we can show more of them in News Feed. And we work to understand what kinds of stories people find misleading, sensational and spammy, to make sure people see those less. The strength of our community depends on authentic communication. The feedback we’ve gotten tells us that authentic stories are the ones that resonate most. That’s why we work hard to understand what type of stories and posts people consider genuine — so we can show more of them in News Feed. And we work to understand what kinds of stories people find misleading, sensational and spammy, to make sure people see those less.
+
+What That Means
+
+Spam doesn’t work well on Facebook. People see right through the charade.
+
+Mosseri told reporters that “We found over and over again in all sorts of ways that people prefer real and genuine content over things the think are disingenuous or shady. Public figures that post more raw, authentic moments tend to do better than those who post more processed, packaged content.”
+
+The best way for people and publishers to reach a large audience is to post authentically, rather than trying to trick the audience into liking or clicking. Talk to people like they’re human rather than robotic customers. The more that celebrities and publishers sound like friends, the further they’ll get in the feed. That’s a big reason why Facebook is pushing its Live video broadcasting — it forces people to be unscripted and authentic.
+
+Ultimately, you know what’s most meaningful to you — and that’s why we’ve developed controls so you can customize what you see. Features such as “unfollow,” “hide” and “see first” help you design your own experience — and when you use them, we take your actions as feedback to help us better understand what content is most important to you. For example, if you hide a story from someone, that signals that you’re less interested in hearing from that person in the future. As News Feed evolves, we’ll continue building easy-to-use and powerful tools to give you the most personalized experience.
+
+What That Means
+
+While the News Feed’s algorithm makes the final decisions about what you see, those decisions are all based on the data you feed it. Everything from who you friend and follow, to what feed stories you over over or click, to posts you hide or mark as spam. Though it may seem inscrutable, the best way to improve your News Feed is to teach it. Hide and unfollow what’s boring or annoying. Like something if you actually like it, rather than just scrolling past.
+
+We view our work as only 1 percent finished — and are dedicated to improving along the way. As we look for ways to get better, we will continue soliciting feedback. We will be as open as we can — providing explanations in News Feed FYI wherever possible and looking for opportunities to share how we work.
+
+What That Means
+
+FacebooktweakstheNewsFeednon-stop to make sure it aligns with the values above. If something gets out of balance, Facebook risks users disappearing. The News Feed constantly evolves to thwart tactics designed to game it, so even if you see something getting more visibility than you think it should, it will probably get put in its place with the with the next ranking update.
+
+Facebook pulls in an outrageous amount behavior and survey data about what people want to see. That’s the only way the 200-person News Feed team can keep up with the interests of over 1 billion daily visitors.
+
+“Another…human touch…is how we evaluate success” says Mosseri. “When we launch changes, we see if people act different. We look at what they do and what they say. Do they Like more or do they comment more? Do they spend more time? Do they share more? Etcetera.”
+
+The problem is that behavior data alone could preference click-bait that’s not actually satisfying. That’s why “we also look at what people say. We run tens of thousands of surveys in over 30 languages all over the world every day. And we ask people about how interested they are in a given story or how satisfied they are with their experience. We use those answers to inform our decisions all the time, which is a human touch but at a very personal level.”
+
+It may be a bitter pill to swallow, but businesses need to come to grips with the fact that they’re not #1 in Facebook’s heart. If there were, there’d soon be no users left for Facebook to share with them.
+
+Facebook narrowly averted this disaster back in 2010. Spam from games like Zynga’s FarmVille was overrunning the feed, annoying non-gamers, and pushing them away from Facebook. While Zynga benefitted from you asking friends to help milk your virtual cows, it hurt users, and Facebook made sweeping changes to the feed to shut out game spam on behalf of the platform’s long-term health.
+
+Though not as drastically, Facebook is doing the same to news publishers today, while being much more upfront and transparent about it. Meanwhile, the company must be carefulto protect its Messenger app from the army of chat botsit unleashed at its F8 developer conference this year.
+
+The future of Facebook will rely not just on ranking algorithms, but also artificial intelligence. If Facebook can understand the semantic meaning of the possible posts for your feed, and match them against the types of content you’ve enjoyed in the past, it can predict which statuses will inform you, photos will delight you, and videos will entertain you.

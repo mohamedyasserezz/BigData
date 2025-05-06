@@ -1,0 +1,19 @@
+MedEye medicine verification tech gets $5.6M to target new markets
+
+Dutch hardware startupMint Solutionshas closed a €5 million (~$5.6M) Series B funding round for its medicine-scanning tech,MedEye, a system that’s designed to reduce errors when medicines are given to patients, such as the wrong tablets or dosage.
+
+The scanning device uses computer vision algorithms to identify pills that are about to be given to a patient, integrating with a hospital’s existing workflow and IT infrastructure to cross-reference that scan data with a patient’s prescription information — such as a wristband barcode system. Pills are placed into the scanning drawer on the device for identification.
+
+The MedEye system can also use external cameras and barcode scanners for verifying non-solid medicines, such as liquids, or other medicines not in its pill database.
+
+Mint Solutions last closed a €4.425M Series A funding round in July 2014. Since then it’s rolled out the system to four Dutch hospitals, with three more implementations “in progress”, according to CEO Gauti Reynisson. The new funding will be used to accelerate its rollout in the Netherlands, and also eye customers further afield.
+
+Reynisson says Belgium and the UK are possible markets for expansion outside its home territory. It’s also looking at moving into “adjacent markets”, such as care homes, where its tech would also have obvious application.
+
+While it started with a pure hardware business model, Mint has since expanded to offer a SaaS model with MedEye — for example offering analytics to help hospitals spot internal problems with administration or dispensing of medicines.
+
+“In hospitals where MedEye goes live we typically see about 200 medication errors stopped in the first few weeks, and that rate continuing as the implementation expands,” says Reynisson.
+
+“MedEye has grown from being a tool to check and verify all solid oral medications, into becoming a complete medication verification system that handles all medications and various different workflows for e.g. double verification of high risk medications. MedEye is a turn key solution to stop and prevent medication errors, and at the same time improving quality of documentation and saving nurses time in the complete medication process,” he adds.
+
+The Series B funding was led byBrabant Development Agency (BOM Capital) and existing shareholders LSP (Life Sciences Partners), investing via its LSP Health Economics Fund, and Seventure Partners. Other existing investors, including NSA Ventures and a number of private Icelandic investors, also participated in the round.

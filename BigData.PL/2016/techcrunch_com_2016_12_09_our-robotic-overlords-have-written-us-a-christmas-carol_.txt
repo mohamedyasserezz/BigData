@@ -1,0 +1,11 @@
+Our robotic overlords have written us a Christmas Carol!
+
+As we roll toward the end of humanity and the moment of robot takeover, it’s important to start learning the songs and customs of our inhumane artificial overlords. Researchers at the University of Toronto, for example, showed an AI a picture of a Christmas tree and asked it to write a song about it. The result? A song that we will soon all be singing as we huddle in the dark while our robot masters howl “Again! Again!” in their chip-tune voices.
+
+ANvidia press releasedescribes the route the AI took to build the song.
+
+First the team fed in a hundred hours of music into a neural network, which allowed it to create listenable music, complete with melody, instruments and drums. Then they used a second neural network to analyze a picture of a tree. The neural network obviously couldn’t know that we don’t put flowers on our trees (yet) and presumably it took a few cultural clues from other sources, especially when it suggests there might be music coming from the hall. You put the two together and you have a beautiful song of joy, blessing and the inevitable fall of the human armies to the onslaught of dead-eye robots bent on victory and vengeance.
+
+Happy Christmas from the future!
+
+[vimeo 192711856 w=640 h=360]

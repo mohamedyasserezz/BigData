@@ -1,0 +1,9 @@
+Ruff wins TechCrunch Beijing 2016’s startup competition
+
+The winner of TechCrunch Beijing’s 2016 startup competition isRuff, a special Internet of Things development platform designed to let devs easily develop code in JavaScript to run on a variety of devices. The aim of the platform is to make it easier to develop for IoT, using development tools that web devs either already know or can pick up easily.
+
+Ruff already has a big community of developers on its platform, the startup said on stage, and has an extensive library of repositories with support for a range of devices, including sensors, cameras and LEDs that are used frequently in IoT hardware.
+
+The platform also simplifies the process by eliminating the need for cross-compiling, and also removing any requirement for kernel development. They company says its simplification of the process for creating functional code for use in IoT applications means that product developers can instead focus on turning their concept into reality, and deploying code quickly and ready to run.
+
+The runner-up was Staro, a 360-degree camera that incorporates a number of sensors in order to avoid using fisheye angles for capturing their images, which avoids distortion warping and color issues you typically see from consumer-level 360 cameras. The camera is shipping now.

@@ -1,0 +1,17 @@
+Atlassian’s HipChat gets group video chats
+
+InAtlassian‘s view, video is the next battlefield in the enterprise chat wars (a war it is mostlyfighting with Slack, it seems). Its HipChat group messaging app launched one-on-one video chatsback in 2014, but today, it is pushing this further by launching group video chats, as well.
+
+To enable this, Atlassian built a new video platform based on its acquisition of BlueJimp and that company’s Videobridge appliance and Jitsi WebRTC-based open source video conferencing software. When Atlassian acquired BlueJimp, it already said that it did so to bring group video chats to HipChat, so today’s news doesn’t come as a complete surprise. What may be surprising, though, is that Slack doesn’t offer a similar tool yet.
+
+As Atlassian’s GM of HipChat Steve Goldsmith told me, the idea here was to bridge the gap between team chat apps and video conferencing service. Too often, after all, those video services only introduce new layers of complexity and friction, which in turn makes it less likely for team members to want to use them (let alone set up a spur-of-the-moment video chat).
+
+Goldsmith also noted that the technical integration of the feature was pretty easy because the team was able to build on years of experience thanks to the BlueJimp acquisition (what was harder, he said, was building the actual user experience around it).
+
+With this new feature, all it takes is a click to start a video call with up to 10 people. That’s not a huge group, but Goldsmith argued that this isn’t a technical limit (which is much higher). Instead, Goldsmith argued that he thinks 10 is about the maximum number of participants for a video chat to still work effectively. The HipChat team plans to listen to its users, though, and then maybe loosen that restriction over time.
+
+You can, by the way, also bring in people from outside of your HipChat rooms (and your company), too. They will simply get a link to click on, just like with other video chat services. Just like similar video chat services, HipChat will automatically feature in the main window whoever is currently speaking.
+
+To enable this feature, HipChat set up servers running its customized version of Jitsi in its data centers around the world.
+
+We know that Slackplans to launch video chatssoon, too, but we don’t know when it plans to actually start testing it. As for HipChat, the new feature is now available to all paying users.

@@ -1,0 +1,15 @@
+Leap Motion shows off Interaction Engine for their VR hand-tracking tech
+
+VR makes the most sense when you don’t have to learn the controls and stuff just works.
+
+Today, Leap Motion dropped an early access beta version of their Interaction Engine which makes it easier for developers to build VR environments can adroitly manipulate with their hands. In ablog post, the company calls the engine “a layer that exists between the Unity game engine and real-world hand physics.”
+
+The company alreadyshowed offan early version of their Interaction Engine this past February with the “blocks demo” of their updated Orion tracking platform. The new developer tools are now available as a module for theirUnity Core Assets.
+
+Leap Motion is quickly becoming the industry standard for VR hand-tracking tech and the feature evolutions they’re implementing are beginning to really leave competing companies in the space in the rearview mirror.
+
+This early access beta of the Interaction Engine gives developers access to the real meat of what makes Orion unique. Not only has hand-tracking recognition seen great improvements in finding the joints of your fingers no matter their position, but the team has made it entirely less frustrating for users to interact with in-game objects so that it’s clear when you want to grab an object or smack it out of your view.
+
+Leap is beginning to work with headset manufacturers on integrating their sensors directly into headsets, and although current owners of Oculus Rift or HTC Vive headsets can attach their Leap Motion sensors directly to their headsets and check out some short demos, it’s still in its dev kit stages so stuff to actually do is limited.
+
+Being able to use your hands in virtual reality can be more than just something neato, accurate hand-tracking tech helps users navigate VR experiences intuitively with one less piece of input hardware in the way.

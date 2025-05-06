@@ -1,0 +1,81 @@
+The diagnosis and the cure of automation
+
+A while back I was flipping through my Facebook feed and stumbled across an interesting post from Jeremiah Owyang. He challenged people to, “name one job in the future that won’t be automated.” A bunch of different ideas popped into my head. Everything from doctors and lawyers to artists and athletes. One by one, I crossed them off the list. In the end I was stumped. I couldn’t think of one job that someday won’t be dehumanized.
+
+I’ve said before there is always a tipping point — a specific number when it makes more sense to solve a problem with technology than it does to solve it with labor. But even then, the transition is rarely instantaneous or glaringly obvious. It usually happens over several iterations. Jobs don’t just vanish, they evaporate.
+
+That got me thinking about the process of automation. How does it happen? Are we running down hill trying to eliminate one job at a time, or are we walking down hill trying to eliminate them all?
+
+As I see it, there are two kinds of jobs. First, you have mindless, repetitive labor. Those are the easiest to automate and the first to go. Foxconn for instance, recentlyannouncedthey were reducing ”employee strength from 110,000 to 50,000 thanks to the introduction of robots.” Previously people were assembling products for Apple and Samsung. Now machines are doing it.
+
+They’re not alone. A new set ofstudiesfrom the International Labour Organization predicts that 56 percent of salaried jobs in Cambodia, Indonesia, the Philippines, Thailand and Vietnam could be displaced by automation and advanced technologies, such as robotics and 3D printing. The industries where jobs are most at risk? Textiles, clothing and footwear.
+
+At least Foxconn tried to spin a rosy picture. In a statement, they said, “we are applying robotics engineering and other innovative manufacturing technologies to replace repetitive tasks previously done by employees, and through training, also enable our employees to focus on higher value-added elements in the manufacturing process, such as research and development, process control and quality control.”
+
+To paraphrase, not all jobs are being automated at Foxconn… yet.
+
+In a recentarticleI mentioned the shift in the fast food industry from labor to machines. Most of that was focused on the order process. Companies like Hardee’s and McDonald’s are installing kiosks that allow customers to place their own orders, replacing the need for cashiers. For them it’s simple math. The machines cost less than paying someone $15 an hour. They’re also more productive.
+
+But, what about food preparation? In 2012, Momentum Machines announced a new robot that could prepare 400 hamburgers an hour. At the time, they predicted that it could replace two or three line cooks, saving the average restaurant $90,000 a year in operating costs.
+
+Now it looks like they’re bringing it to market in their ownrestaurant. They found some retail space in the SoMa neighborhood of San Francisco. But, the machines won’t be doing all the work. Somebody’s got to do the things robots can’t (or won’t?) So, in a twist of irony, they placed a “help wanted” ad on Craigslist (the listing has since expired). The ideal candidate will do the “tough, unglamorous and occasionally dirty work of restocking, hauling trash, and tidying up.” But, they’ll also be doing some things people in restaurants typically don’t, including “software troubleshooting, market research, and product development research.”
+
+Which brings us to the second kind of job: problem solving. In food service, those are things like R&D, quality control and now apparently, software troubleshooting. In architecture, it’s ideation and execution. In legal, it’s discovery and litigation. In medicine, its diagnosis and cure.
+
+In nearly every industry, an inordinate amount of human capital is spent studying problems and determining solutions. Could AI do a better job? If it can, what happens to all the human problem solvers?
+
+Consider the legal market. Recently the law firm of Baker & Hostetler became the first to hire an artificial intelligence named ROSS to handle their bankruptcy practice. ROSS is a software program housed on IBM’s Watson platform. In recent weeks at leasttwo other firmshave licensed ROSS, as well.
+
+According to IBM, ROSS is “a digital legal expert that helps you power through your legal research.” You ask it questions in plain English, and ROSS reads through “the entire body of law and returns a cited answer and topical readings from legislation, case law and secondary sources to get you up-to-speed quickly.” In addition, “ROSS monitors the law around the clock to notify you of new court decisions that can affect your case.”
+
+IBM suggests that, “ROSS lets you get back to being a lawyer.”
+
+At this point, it’s really more of a paralegal than an attorney. Paralegals by definition do research and conduct other tasks as assigned by the firm, but their work ultimately falls under the responsibility of an attorney. They do much of the discovery. Attorneys act on the results.
+
+So, how will it impact paralegals and legal assistants?  There are more than270,000paralegals in the U.S. alone; on average, they make about $50,000 yearly. It’s easy to think they’ll be quickly phased out.
+
+But on average, paralegals work 40 hours per week and are expected to bill for 30 of them. The average billable hour for a paralegal is approximately $125 an hour. Assuming they work 48 weeks a year, they’re generating $130,000 per year in profit for their respective firms.
+
+Cognitive computing is much faster. What takes a human hours can be done in minutes by a machine. While that’s clearly more productive than human labor, one has to question whether it can be as profitable.
+
+Maybe it’s not a choice we get to make. Competitors leverage technology that drives cost out of the equation. Any industry that’s heavily reliant on labor is poised for disruption.
+
+What about areas of the law that aren’t so profitable, or where legal advice costs more than it’s worth?
+
+For example, considerDoNotPay. It provides legal advice that helps people contest parking tickets. The free service, offered in New York and London,employsan artificial intelligence chatbot. So far, it has taken more than 250,000 cases and won more than 160,000 of them, saving its users more than $4 million in fines. It’s coming to Seattle next, and also moving into other legal areas where it can dispense advice without charging a fee.
+
+Is DoNotPay scratching the surface of an untapped market? “I feel like there’s a gold mine of opportunities because so many services and information could be automated using AI, and bots are a perfect way to do that,” said DoNotPay’s creator, Joshua Browder. “These people aren’t looking to break the law. I think they’re being exploited as a revenue source by the local government.”
+
+In this case at least, it seems AI is creating a job that no human could do, and in the process might serve some social benefit. But, what about the lost revenue for cities like London and New York? Eventually jobs will be displaced. Maybe they’ll even employ their own bots?
+
+Legal isn’t the only industry where problems can be better solved with technology. Consider the medical profession.
+
+Doctors and other healthcare professionals rely on a process to identify and treat an illness. They typically use theSOAPmethod to manage and track their diagnosis. They start by asking the patient subjective questions in an attempt to identify their chief complaint. Then they take objective measurements like vital signs and conduct physical examinations to look for other abnormalities. Then they assess the situation, going through a list of other possible diagnoses, usually in order of most likely to least likely. Finally they create a plan for what should be done to treat the patient’s concerns.
+
+But, too often, illnesses are misdiagnosed. One recentstudysuggested that it conservatively happens 5 percent of the time, resulting in 12 million diagnostic errors in the U.S. alone, each year. Otherresearchsuggests the frequency of misdiagnosis is more like 10-20 percent.
+
+Maybe you’re wondering about the impact on patients. A recentsurveyrated the severity of misdiagnosis. Of the 669 cases reported, 28 percent were severe enough to be life threatening or had, in fact, caused death or permanent disability. Another study, from a VA system in Texas,revealedthat many of the errors involved common diseases, and 87 percent of those had the potential for considerable to severe harm, including death.
+
+According to that research, “errors occurred most frequently in the testing phase (failure to order, report and follow-up laboratory results) (44 percent), followed by clinician assessment errors (failure to consider and overweighing competing diagnosis) (32 percent), history taking (10 percent), physical examination (10 percent), and referral or consultation errors and delays (3 percent).”
+
+Other factors that lead to misdiagnosis include communication between physicians and patients and a health care system design that hinders the diagnostic process by discouraging transparency and limiting performance feedback to clinicians.
+
+Could artificial intelligence be more effective?
+
+Researchers at Indiana Universityfoundthat machine learning could increase patient outcomes by 50 percent at about half the cost. Using sophisticated models, the software compares multiple diagnoses and maps out their impact over time.
+
+As researcher Kris Hauser put it, “Modeling lets us see more possibilities out to a further point, which is something that is hard for a doctor to do. They just don’t have all of that information available to them.”
+
+But will AI replace physicians? Probably not any time soon. As Hauser’s fellow researcher, Casey Bennett said, “even with the development of new AI techniques that can approximate or even surpass human decision-making performance, we believe that the most effective long-term path could be combining artificial intelligence with human clinicians.” Bennett went on to add, “let humans do what they do well, and let machines do what they do well. In the end, we may maximize the potential of both.”
+
+It seems the natural progression is for artificial intelligence to replace humans at what they don’t do well. Sooner or later, that translates into jobs. Maybe that means entire careers like medical assistants and paralegals, or maybe just fewer people doing those jobs.
+
+When does it cross the line, not only determining the diagnosis, but also applying the cure?
+
+If your job is monotonous, it will likely soon be gone. Machines are more capable and cost less. If you solve problems for a living, you might have a bit more time. For now at least, artificial intelligence is better suited to handle the diagnosis. That probably means there will be fewer of you doing your job. Most of those who are, will be focused on the cure.
+
+In the longer term though, even those jobs are ripe for extinction. As artificial intelligence becomes more sophisticated, it will be tasked not only with solving problems, but also finding better ways to deliver solutions. Machines will get smarter, faster and even more proficient.
+
+So it seems across nearly every industry, automation is silently creeping forward. In some cases, the goal is to wipe out entire job categories. In others, it’s a matter of thinning the herd until eventually none are left.
+
+Which leads me back to the original question of which job won’t eventually be automated. I still can’t think of one.

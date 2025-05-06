@@ -1,0 +1,51 @@
+Every company is a technology company, but most don’t behave like one
+
+In 2011, Marc Andreesen famously wrote aWall Street Journalessay declaring that “software is eating the world.”Five years later, the five largest companies in the world by market capitalization are all software companies.
+
+However, in today’s information economy, Apple, Alphabet, Microsoft, Amazon, and Facebook are not the only important large technology companies.
+
+As technology becomes more and more pervasive across industries and functions, companies like Exxon, GE, Citi, and Walmart are all racing to become technology companies as well.
+
+Today, we are less interested in the distinction between technology and non-technology companies (because there are very few successful companies that are not technology companies). Instead, it’s more interesting to ask questions like – Tesla is a technology company rapidly learning to become an automobile company, and Ford is an automobile company rapidly learning to become a technology company – which one is going to get there first?
+
+In short, software is eating the world, but software companies aren’t the only ones taking a bite.
+
+How do companies in real estate, finance, healthcare, manufacturing, or other industries that have traditionally not been recognized as technology industries become technology companies? What are some of the key learnings that we see from startups and companies that are successfully making this transition?
+
+Leading a transformation to become a successful technology company is not a job that can simply be tasked to the CTO or CIO. The level of engagement and investment to lead a successful transformation requires the CEO and board of directors to not only be fully bought in but to be the main drivers of the change.
+
+Goldman Sachs has known for many years that technology is a key competitive advantage in financial services. In onerecent WSJ article, a top Goldman executive valued a license for their risk measurement system at well over $1 billion, and possibly even up to $5 billion. They have since open-sourced the system in a move to attempt to drum up new business.
+
+More importantly, however, Goldman Sachs’ Chairman and CEO Lloyd Blankfein has repeatedly stated that “Goldman Sachs is a technology firm” and highlights the fact that Goldman Sachs actually employsmore engineersthan companies like Facebook, Twitter, or LinkedIn and often competes for talent and wins against top internet companies.
+
+One of the key drivers for the rapid growth of new technology companies is the low capital requirement to build a company today. New companies no longer need to buy hundreds of thousands of dollars of servers and equipment; instead, they can pay for servers on demand from cloud providers when needed.
+
+This dynamic makes it more important than ever for companies to hire great people. In fact, a recent survey Madrona conducted in conjunction with its annual CIO Summit found that 89% of Fortune 500 CIOs say hiring top talent is their number one concern today.
+
+GE has likely made the largest investment in this space to change the story that young engineers and college graduates hear about the company with a series ofYoutube videosand television ads. Though it remains to be seen whether these videos work, GE has recognized that filling its talent pipeline with young engineers and technologists is critical and is investing accordingly.
+
+At a company like Microsoft or Facebook, engineering positions are the most prestigious, highest status roles at the company. The founders and CEOs of technology companies are often engineers and may have even built early version of the products themselves.
+
+For companies to successfully make the transition and become a technology company, cultures need to change to take into account the unique way that software development works and to highlight the importance of technology and the people who manage and build it.
+
+One example of a move towards a developer friendly culture is happening at Walmart. WalmartLabs recentlyopen sourcedElectrode, the application platform that powers Walmart.com. Electrode is a modular platform that helps improve application performance, and Walmart is open sourcing the software to give back to the open source world and benefit from additional contributions from the community.
+
+It is important to keep in mind that building a technology-driven culture is not just about free lunches and massages. As Joel Spolsky CEO of Stack Overflow said in arecent interview, “If you want to attract and keep developers, don’t emphasize ping-pong tables, lounges, fire pits and chocolate fountains. Give them private offices or let them work from home because this uninterrupted time to concentrate is the most important and scarcest commodity.
+
+The pace of technology adoption is getting faster and faster every year. For example, it took decades for electricity and telephones to reach 50% of US households, but today it takes only years for new technologies like smartphones and tablets to reach a majority of the population. This underscores the importance for companies to continuously adopt new technologies that can enhance productivity and also to continuously experiment with new technologies that have the potential to be disruptive to the business.
+
+An interesting anecdote fromThe Lean Startup, one of the manifestos for startup founders, is that Intuit holds themselves accountable to being innovative and agile by using two key metrics: (1) the number of customers using products that didn’t exist three years ago and (2) the percentage of revenue coming from offerings that did not exist three years ago. Historically for Intuit, it took a new product an average of 5.5 years to reach $50 million in revenue; at the time the book was written, they had multiple products generating $50 million in revenue that were less than a year old.
+
+Particularly, as the world is moving towards cloud computing, continuous development, and continuous updates are the name of the game.  Agile development practices enable you to continuously deliver better experiences for your customers andwaterfall development methodologyis a relic of the past.
+
+The classic case for why legacy competitors can do everything “right” and fail is the force of disruptive innovation described in Clayton Christensen’sThe Innovator’s Dilemma. Businesses can reject innovations based on customers’ current needs while innovative upstarts develop products in a way that meets customers’ future needs.
+
+Recently, we have seen automakers take very innovative approaches to automotive technology as autonomous vehicles move to the front and center of the startup world with the acquisitions of companies likeOttoandCruiseand public pilots of new technologies like Uber’s self-driving cars in Pittsburgh or Tesla’s Autopilot feature.
+
+Ford, in particular, has been very vocal about the autonomous future and the importance of working differently in the context of today’s technology-driven world. Ford’s CEO, Mark Fields,has writtenthat “As little as four years ago, our approach was aligned with the thinking of most automakers today, which is taking incremental steps to achieve full autonomy by advancing driver assist technology. This is not how we look at it today. We learned that to achieve full autonomy, we’d have to take a completely different pathway.”
+
+Conclusion
+
+The race to become the market leader across a variety of sectors and geographies is speeding up amongst older incumbents and promising, young startups. Startups have a lot to learn from the established management and financial practices of incumbents, but incumbents have a lot to learn from startups as well. The companies, young or old, that use technology to best create competitive advantages for themselves will win.
+
+Technology needs to be a fundamental fabric of the company’s DNA and culture as companies truly internalize that “Every company is a technology company”.

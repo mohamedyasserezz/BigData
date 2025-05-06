@@ -1,0 +1,39 @@
+Cloud security vendor Zscaler bats away patent infringement lawsuit
+
+Symantec, one of the world’s largest cybersecurity companies, closed its giant acquisition of Blue Coat Systemsin August, ushering in a new regime under incoming CEO Greg Clark.
+
+He hasn’t wasted much time in disparaging upstarts in the market, either, including the well-funded, venture-backed companiesCylance,TaniumandCarbon Black.
+
+Now, lawsuits may be next. To wit, Symantec last weekfiled a lawsuitagainst one of its partners,Zscaler, saying the cloud security vendor has infringed on seven of its patents, including around web security and threat prevention.
+
+Symantec didn’t inform Zscaler about the suit in advance of going public with it, evidently. In astatement last weekto the outlet CRN, Zscaler’s chief legal officer said Zscaler “learned of Symantec’s lawsuit from their press release issued earlier this afternoon and [we] are in the very early stages of assessing their claims. While we are unable to comment on the merits of their claims at this time, we defend ourselves vigorously against lawsuits of this nature.”
+
+Zscaler has since begun reaching out individually to customers to tell them the suit is little more than a bullying tactic that won’t impact its business, shows a letter authored by Zscaler CEO Jay Chaudhry and obtained by TechCrunch earlier today. The nine-year-old company declined to comment on the letter or when, exactly, it was authored, but it reads:
+
+Dear Robert,
+
+You may have heard about the lawsuit recently filed by Symantec against Zscaler. Zscaler will defend itself vigorously against these claims.
+
+Zscaler was founded to transform the old world of IT to a cloud-enabled enterprise, from the world of on-premise security appliances to cloud-based multi-tenant Internet gateways. When our customers and partners think of Zscaler, the first thing that comes to their mind is technology innovation. Our innovations are protected by a large growing portfolio of 98 issued and pending patents focused on cloud security.
+
+It is unfortunate that many large incumbent companies will resort to litigation when they can no longer innovate. They attempt to use it to hinder rapid growth and customer adoption of unique technologies offered by younger, vibrant companies like Zscaler. In certain situations, as is the case here, the incumbent companies make such claims without any advance notice.
+
+We believe this will have no impact on our services to our customers and partners. I want to assure you that you will continue to receive our innovative cloud service that provides great value — fast user experience, unmatched security and lower cost.
+
+We feel privileged to earn your business and look forward to serving you well in the future. Please do not hesitate to contact me if you have any questions.
+
+Regards,
+
+Jay Chaudhry
+
+What follows next in this particular fight remains to be seen, but muscle flexing is a strategy that worked for Clark at Blue Coat, which he led from 2011 through its sale to Symantec.
+
+As he recently told CRN, by October, he’d already set up “war rooms” at Symantec akin to units he’d set up at Blue Coat to “put the lights out on everyone in that sector.” Clark added in that same interview, “We intend to deliver a similar situation as we integrate Blue Coat and Symantec and get going.”
+
+At a public speaking event in L.A. this fall, Clark surprised some when he told the crowd that “Cylance and some of the others have got some better marketing at the moment. We are working to change that. You will see a sea change in our market.”
+
+At that same event, he called Carbon Black and Tanium “trendy” and warned potential customers that each company addresses just one aspect of endpoint security.
+
+Zscaler has raised roughly $150 million from investors. Its backers include TPG and Lightspeed Venture Partners. The companytold The Wall Street Journalin August of last year that it anticipated going public within 12 to 24 months.
+
+Pictured above: Zscaler founder and CEO Jay Chaudhry

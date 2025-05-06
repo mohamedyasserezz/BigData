@@ -1,0 +1,19 @@
+WhatsApp adds GIF support in iOS app
+
+Amid increased competition from Apple’s iMessage, Snapchat, and Google’s new entry Allo, Facebook-owned WhatsApp has now rolled out support for sharing GIFs in its messagingapplication on iOS. According to the app update text in iTunes, the new feature will allow users to send and receive GIFs, including Live Photos and shorter videos, both of which can be now converted to animated GIFs.
+
+For videos, the clip has to be six seconds or shorter, in order to be sent as a GIF. Meanwhile, you can send a Live Photo as a GIF by using the 3D Touch feature from the “Attach” interface. From there, you’ll choose the option “Select as GIF” when selecting the Live Photo from your Photo and Video Library.
+
+While you can send GIFs (and Live Photos or videos) from your phone, WhatsApp also includes an integrated GIF search engine, powered by Tenor or Giphy. (We’ve asked the company to clarify how it’s choosing which engine to display as the default to which users, but it didn’t yet respond.)
+
+You can search through the available GIFs to find those you want to share, and mark select items as Favorites to be used again in the future.
+
+In addition, you can edit your GIFs after selecting them, by trimming the clip, rotating it, by adding emoji or colorful text, ahead of hitting “Send.”
+
+All of these changes have not yet rolled out to the Android version of the app, which could be why WhatsApp hasn’t yet made an official announcement about the update. The features were also available during beta tests. During the testing period, WhatsAppswitchedthe default GIF search engine from Giphy to Tenor at one point.
+
+However, Giphy is still involved. “We’ve been working with WhatsApp since they started exploring integrating GIFs,” notes Giphy’s Director of Biz Dev, David Rosenberg, adding that it’s fairly standard for apps like this to leverage multiple providers.
+
+WhatsApp also confirmed to us that both Giphy and Tenor are being used, but the selection is not based on region. There are no other GIF providers involved, however. The company wouldn’t comment on when the same feature set is arriving on Android.
+
+The change comes at a time when Facebook has been increasingly focused on competing more directly with rival Snapchat through a number of features across its platforms, including Facebook itself, Messenger, Instagram and WhatsApp. More recently, the companywas spotted testing a clone of Snapchat’s Stories feature on WhatsApp, called “Status.” This offered a similar editing interface, as it allowed users to snap photos or videos then using an in-app editor to add other content, including their own scribbles, text and emoji.

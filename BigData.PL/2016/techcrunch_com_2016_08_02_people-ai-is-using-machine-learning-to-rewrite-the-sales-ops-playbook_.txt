@@ -1,0 +1,15 @@
+People.ai is using machine learning to rewrite the sales ops playbook
+
+People.ai, a company bringing machine learning algorithms to sales operations, is emerging from stealth. The platform uses machine learning tech to give sales reps what it calls a predictive playbook on how to close deals based on past success. People.ai also shows managers how well team members are doing in relation to this standard. The company is part of Y Combinator’s summer batch.
+
+The problem People.ai is trying to solve is the lack of data about salespeople. Co-founder and CEO Oleg Rogynskyy compares the sales success process to that of developers, explaining that “when you are looking at a developer’s work, you know how they think because you can look at their code and GitHub. You may not know exactly what they’re working on but you can see how they’re doing it.”
+
+The process is often the opposite for tracking salespeople. You can see how many emails they send, how many calls they made and when — every step of the way toward closing a deal. Somehow, it magically turns into revenue — but there’s little visibility. People.ai wants to provide this groundwork for tracking crucial data across sales teams and identifying what leads to success.
+
+The service works by scanning email, calendar, phone, WebEx, conference tools and other data sources. It records all the events that happen across the different platforms used by salespeople, and identifies common threads. It then isolates what it deems to be the average best way to close a deal. So not only is the tech able to see what a salesperson did correctly, but also where they deviated from the playbook.
+
+The algorithms have been able to uncover unproductive behaviors, such as salespeople not spending the right amount of time at certain phases of a deal, for example. In addition to helping track sales progress, People.ai could be used to monitor onboarding progress, training trajectory and could prove a useful tool for recruiters to optimize hiring.
+
+So, doesn’t Salesforce already do this? Rogynskyy maintains that the pain point of using Salesforce is the manual data entry and time-consuming activity logging that no one actually does — making for analytics that are inaccurate and don’t tell the full story of a deal’s progress. People.ai automates the entry process. “We’re the first ones to get 100 percent coverage in all activities salespeople do. So the data is totally reliable, homogenized and normalized.”
+
+People.ai currently employs a small team of just over 10, and the product has been deployed by about 50 B2B companies. The endeavor is backed by Y Combinator and several angel investors.

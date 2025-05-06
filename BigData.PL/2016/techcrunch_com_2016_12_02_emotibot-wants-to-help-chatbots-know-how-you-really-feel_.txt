@@ -1,0 +1,13 @@
+Emotibot wants to help chatbots know how you really feel
+
+Emotional intelligence is a hard thing to achieve, even in humans. But it’s especially difficult in robots, and maybe even more so in chatbots, whose available tools for picking up on emotional cues are quite limited.
+
+Emotibotis a Chinese startup focused on making sure personal assistants, chatbots and virtual customer service agents can accurately understand the emotional state of people they’re dealing with. Having someone respect your emotions while dealing with any kind of customer service interaction, you might know from personal experience, can make a huge difference in quality of service.
+
+Bots right now are pretty emotionally stunted; some can crack jokes, pulling from a pre-programmed pool of one-liners, but few, if any, can detect that you might not be in the best of moods for hearing a wisecrack and instead opting for a more sympathetic response.
+
+That’s exactly what Emotibot is promising potential customers; a chatbot with tact. To achieve that capacity for social decorum, Emotibot uses inputs include text, audio and visual signs via device camera, or a combination of all three depending on what channels are available.
+
+Right now Emotibot offers public-facing apps you can use via WeChat or on Android, to see what their emotional chatbot is capable of. The company’s main business is building custom solutions for clients looking to offer up their own emotionally aware chatbots, however, and they’re targeting all kinds of platforms, from messaging apps, to smart speakers and connected cars.
+
+Emotibot claims a 95.63 percent accuracy rate when detecting emotions via visual cues in China, which is industry-leading. Localization is obviously something that takes work with emotion detection, but the company believes its engineering talent is up to the task.

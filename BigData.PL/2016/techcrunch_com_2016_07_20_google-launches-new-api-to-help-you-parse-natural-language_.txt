@@ -1,0 +1,15 @@
+Google launches new API to help you parse natural language
+
+Google todayannouncedthe public beta launch of itsCloud Natural Language API, a new service that gives developers access to Google-powered sentiment analysis, entity recognition, and syntax analysis.
+
+This new API joins Google’s other pre-trained machine-learning APIs like theCloud Speech API, which is now also available in public beta, theVision APIand theTranslate API.
+
+The new Cloud Natural Language API currently supports texts in English, Spanish and Japanese. Google notes that the idea here is to offer a service “that can meet the scale and performance needs of developers and enterprises in a broad range of industries.”
+
+Offering an API for sentiment analysis and entity recognition isn’t new, of course. Services likeThomson Reuters Open Calaishave offered support for entity recognition (that is, the ability to automatically identify and label the people, organizations, locations, and events mentioned in text) for almost ten years now, after all. Sentiment analysis, too, isn’t exactly a new concept either.
+
+Syntax analysis APIs that can identify parts of speech and createdependency parse trees, on the other hand, aren’t as widely available yet. It’ll be interesting to see how developers will use them in their apps, but it’s easy to see how this could be used to power chat bots, for example, and help them understand incoming requests.
+
+Pricing for using the Natural Language APIs depends on which one of the three different services you are using and how many records you plan to analyze. Here is Google’s pricing chart:
+
+For the Cloud Speech API, which can recognize over 80 languages, pricing is based on how many minutes of recordings you plan to analyze: the first 60 minutes per month are available for free and after that, you will pay $0.006 per 15 seconds.

@@ -1,0 +1,27 @@
+Amazon ramps up AWS Educate with free e-learning and job ads
+
+Amazon’sambitions to go deeper into the education market are crossing over into another interesting opportunity for the tech giant: online recruitment and job hunting.
+
+Today, the e-commerce company’s AWS cloud services divisionannouncedthatAWS Educate—originally launchedlast year as a resource library (and promotional platform) for students and educators to use AWS more — would start to offer free online courses and other learning modules; and alongside that, those modules would align with a new service where AWS advertises jobs from across the industry in a new AWS Educate Job Board.
+
+For those familiar with the work that LinkedIn is doing tobring together its Lynda.com online education acquisition with its own recruitment business, as well as the efforts that it is making in emergingmarkets like Indiato offer online training and job placement, it seems like AWS Educate could potentially be viewed as a competitor. Tellingly, AWS Educate is launching first in the U.S. as well as India,Singapore,South Korea,Japan, andChina.
+
+To start with, AWS Educate will feature 25 modules, referred to as “Cloud Career Pathways,” that Amazon said will include videos, lab exercises, online courses, whitepapers, and podcasts. Altogether, there will be at least 30 hours of training each in four professional areas: Cloud Architect, Software Developer, Operations-Support Engineer, and Analytics and Big Data Specialist.
+
+Completing these, in turn, will give the user “digital micro-credentials in the form of badges and certificates that appear on their AWS Educate profile,” AWS says. And AWS will link the learner up with relevant jobs being posted from companies that include Cloudnexa,Instructure, Salesforce,Splunk, Udacity, and (naturally) Amazon itself.
+
+Amazon says that since launching AWS Educate in May 2015, some 500 institutions have signed on to use it; AWS doesn’t disclose numbers of individuals using the resources. However, for a company whose whole business model is predicated on scale, it seems that it’s now keen to bring those numbers up, sweetening the deal with job placement opportunities when you complete a course.
+
+“We built AWS Educate with a vision of helping to cultivate a cloud-enabled workforce. It’s been inspiring to see students from every corner of the globe – fromBrooklyntoBombaytoSingaporetoSeoul– embrace AWS Educate, eager to digest learnings from top computer science courses, and get their hands on their first Amazon S3 bucket,” saidTeresa Carlson, WP, Worldwide Public Sector, AWS, in a statement.
+
+“Based on that vision, we are taking the program one step further and adding a connection to employers who are in need of the cloud skills students can learn on AWS Educate. We’ve designed Cloud Career Pathways that will help students get targeted experience and skills, and placed those side-by-side with relevant jobs from some of the most in-demand technology employers today.”
+
+The idea is also to build AWS’s B2B credentials and relationships: the company, for example, is not only posting job openings from Udacity, but it is sourcing content from it as well.
+
+Udacity helped design AWS Educate’s Cloud Career Pathways by providing over 30 courses that align to the job families, the company said. “These courses are applicable to some of the most in-demand fields today,” said Zhalisa Clarke, VP of Business Development at Udacity. “The mission of AWS Educate perfectly aligns with our belief that education and lifelong learning is a basic human right, and we look forward to working with AWS to make STEM content available to more students around the world.”
+
+Placing an ad for a job on AWS Educate is completely free, as is using the site as a student or educator, a spokesperson confirmed.
+
+Offering services for free that might cost something elsewhere would align with how Amazon approaches a lot of new product areas: it prices competitively — or not at all — to bring in more users, who either represent a sizeable revenue opportunity in aggregate, or (in free cases) lead to the potential of paying for other goods and services down the line.
+
+Indeed, this is how Amazon has approached other moves into the education space: earlier this year, itlaunched Amazon Inspire, an online platform for education resources. Inspire is also completely free to use, but it helps bring educators to Amazon’s platform in hopes of them spending money in other areas of its business. These include Whispercast for managing e-books, textbooks and educational apps; AWS access to schools, students and teachers; Kindle direct publishing for education; “School Lists” and Amazon Business to buy supplies; and physical products like the Kindle e-reader and the Fire tablet.

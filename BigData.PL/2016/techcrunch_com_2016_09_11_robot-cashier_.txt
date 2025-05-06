@@ -1,0 +1,13 @@
+PepperPay’s robot photographer replaces cashiers
+
+Machine vision technology will let any smartphone or tablet recognize objects so we don’t have to rely on humans or barcode scanners. TechCrunch Disrupt SF Hackathon projectPepperPaybrings machine vision to the checkout process.
+
+You just hold up the item you want to buy in front of a robot wielding a PepperPay-equipped device that can take a picture of it and instantly recognize what it is. You can then complete the purchase checkout and escape the store without standing in a long line.
+
+Checkout automation holds big opportunities for reducing overhead costs of brick-and-mortar businesses and increasing customer satisfaction. More grocery stores are offering self-checkout, but barcode scanning is clumsy for untrained users.
+
+Replacing that process with simply holding up an item and taking a photo of it could speed up checkout and vastly reduce the need for specialized hardware.
+
+PepperPay was built by Dave Idell, Adam Chew, and Nisha Garigarn. It relies on IBM Watson’s image recognition and PayPal for transactions. They were inspired by long lines at Walgreens that could have easily been solved with an idea like theirs.
+
+While PepperPay demoed its technology with Aldebaran’s Pepper humanoid robot, a simpler table-top version of the tech built into an iPad might be sufficient. Eventually, the economy will have to deal with unemployment caused by robotics and AI displacing human workers, because tech like PepperPay is on the way.

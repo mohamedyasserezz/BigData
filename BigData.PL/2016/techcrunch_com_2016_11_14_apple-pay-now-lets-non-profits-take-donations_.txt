@@ -1,0 +1,33 @@
+Apple Pay now lets nonprofits take donations
+
+Apple announced this morning that its payments service Apple Pay will now support the ability to make donations to nonprofits, starting today in the U.S. This includes both Apple Pay on the web, where it can be integrated into websites’ checkout flow, as well as within mobile applications. The changes are rolling out just ahead of the holidays, something participating nonprofits hope will have a big impact on their ability to raise funds during this time of increased charitable giving.
+
+Apple previously had a rule that banned iOS apps from collecting funds for charities or fundraisers via Apple Pay. That means if they collected funds, it would have to take place outside the app, such as through Safari or SMS. Now, they’ll be able to integrate “donate” buttons right in their app and process the transactions through the payments service.
+
+On mobile, that means users can use TouchID. Meanwhile, on the web, users click the Apple Pay donate button in Safari, then can confirm their payment via their iPhone or Apple Watch.
+
+Already, online stores supporting Apple Pay on the web have seen an increase in checkout conversion rate of up to 2x on mobile, and customers are able to checkout up to 60 percent faster with Apple Pay, according to figures fromShopify.
+
+The reason that the payments system works well is because it allows customers to use their contact and billing information they already have on file, which saves time over having to manually fill out forms at checkout.
+
+Apple Pay today has tens of millions of customers, and is adding one million more per week. The technology is integrated in thousands of iOS apps, and has more recently arrived on the web in Safari. In addition, TouchID supporthas been added to Apple’s new MacBook Pro,so you can checkout on the web with just a press of your finger.
+
+Apple Pay transactions have also increased by nearly 500 percent year-over-year, for the September quarter. And more transactions were made in September 2016 than across all of fiscal 2015, the company said.
+
+In other words, there are now enough customers on Apple Pay for this launch to have a measurable impact on giving programs.
+
+A large number of nonprofits are launching with Apple Pay, including the following: American Red Cross, American Heart Association, charity: water, Children’s Miracle Network Hospitals, COPD Foundation, Crohn’s & Colitis Foundation of America (CCFA), Doctors Without Borders, Feeding America, GlobalGiving, International Rescue Committee, Red, St. Jude Children’s Research Hospital, The Nature Conservancy, Save the Children, The Water Project, UNICEF, United Way, WNET, World Vision and WWF (World Wildlife Fund).
+
+A few others have plans in the works for supporting Apple Pay in the near future, including American Cancer Society, CARE, DonorsChoose.org and PBS along with its local stations.
+
+One nonprofit that’s supporting the new technology, charity:water, explained to us how the increase in mobile traffic played into its interest in mobile giving.
+
+“Currently, nearly 25% of our donations come from mobile. We’ve seen steady growth in mobile traffic to our site over the past few years, so it’s important we make giving through mobile as easy as possible,” explained Scott Harrison, charity: water founder and CEO.
+
+“So many people want to give, but complicated and clunky donation systems discourage them. Integrating Apple Pay makes the giving experience incredibly simple and convenient, and we hope it will encourage more people to join our mission and enable us to transform lives within seconds,” he added.
+
+Charity:water will be integrating Apple Pay across all its giving platforms on desktop and mobile, and will also allow donors to use it when joining the monthly giving program.
+
+To help vet nonprofits ahead of their integrations with Apple Pay, Apple is working withBenevity, a platform that helps enable workplace and corporate charitable giving programs. The company will launch an online application form for any nonprofits that want to integrate Apple Pay in their apps.
+
+Apple Pay’s move to support nonprofits is a big challenge to rival digital payment services, likePayPal, which already has close to half a million charities using its platform to take donations. However, Apple Pay support for nonprofits is not as broadly available at present, as it’s limited to the Apple ecosystem and the U.S. for the time being.

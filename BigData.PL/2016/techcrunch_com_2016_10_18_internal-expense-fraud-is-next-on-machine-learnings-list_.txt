@@ -1,0 +1,31 @@
+Internal expense fraud is next on machine learning’s list
+
+What reactions did people have to the movie trailer forMorgan(which was created entirely — and for the first time — by an AI bot, and a pretty famous one at that)?
+
+“That’s creepy.”
+
+Which is a fair reaction. Computers can now write, read, learn and speak. And for some, this is pretty scary — people are terrified that bots will snatch their jobs and eventually take over the world and render humans useless (films likeI, Robothaven’t helped this).
+
+Many people naturally hold irrational fears. Just look at the amount of individuals terrified of sharks when, in actual fact, they’re much more likely to be killed by shopping onBlack Friday. So when it comes to machine learning, businesses shouldn’t shy away, they should embrace it and make it work for them.
+
+Previously, AI was only something to which techie people in Silicon Valley had access; this is no longer the case. The technology’s growing pervasiveness is seen in the increasing popularity of service bots and digital assistants like Alexa and Siri getting constantly smarter.
+
+It’s great that companies likeSift Science, whichrecently received $30 million in funding, plan to use machine learning and artificial intelligence to predict and prevent fraud everywhere online — especially with reports suggesting card issuers and banks could be saving$12 billion annuallywith the help of machine learning fraud-detection systems.
+
+We know machine learning is already proving its worth in the financial services sector, so there’s no reason why it can’t lend a hand to enterprise technology. And more specifically, the process that time forgot — the tedious expenses process.
+
+As it stands, machine learning hasn’t been used to detect dodgy expenses, though we’re certainly moving in the right direction for that soon to become a reality. But how much of an issue is internal expense fraud? And what might bots detecting our expense anomalies look like?
+
+Worryingly for businesses, dodgy expenses are increasingly becoming a cultural norm — one which is seriously affecting bottom lines. From government to the private sector, high-profile cases of this are commonplace. But digging deeper than the headlines, at Concur we found that23 percent of employeesthought it was acceptable to fudge their expenses, coupled with the Financial Fraud Action revealinga financial scam was committed once every 15 secondsin the first half of 2016.
+
+Can machine learning swoop in to save the day for businesses (and the dodgy expenses process)?
+
+Perhaps. AI’s ability to analyze huge swathes of data and spot patterns could be just the help the issue of workplace fraud needs. Unlike humans, machines won’t be affected by hangovers and sleepless nights, so the likelihood of a bot missing a dodgy-looking expense is more unlikely than us mere mortals.
+
+This isn’t to say that it will make finance teams redundant; instead, it will simply make their lives that bit easier by taking on the heavy lifting. And technology can only work effectively as long as there’s someone monitoring and using the data in clever ways — showing the need for both bot and body.
+
+However, it’s also important people don’t assume just because a machine states something that it’s necessarily correct. This is exactly whatStanislav Petrov did in 1983when he questioned the foolproof computer that detected an “incoming missile” from the United States — the protocol was to retaliate with a nuclear attack — but Petrov suggested the computer was wrong, by using his brain, and saved the world in the process.
+
+Machine learning offers clear advantages. Not only would it complete the job in a fraction of the time, freeing up finance teams to take on the more important tasks, it also could put people off the age-old “oh I’ll slip in that receipt from Sunday lunch last week” when they’re faced with an intimidating bot.
+
+We’re already living in a digital world. It’s seen in every sphere of our lives, from contactless payments to simply how we consume everything online. So really, it’s in finance departments’ best interest to supercharge their outdated Excel docs into something more apt for the modern world, so that when the inevitable occurs — and machine learning detection systems are put in place — they’re halfway clued up into handling them and all hell won’t break loose.

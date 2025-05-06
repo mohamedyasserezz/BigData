@@ -1,0 +1,33 @@
+Facebook now flags and down-ranks fake news with help from outside fact checkers
+
+Snopes, FactCheck.org, Politifact, ABC News, andAPwill help Facebook make good on four of the sixpromises Mark Zuckerberg madeabout fighting fake news without it becoming “the arbiter of truth.”It will make fake news posts less visible, append warnings from fact checkers to fake news in the feed, make reporting hoaxes easier and disrupt the financial incentives of fake news spammers.
+
+“We’re not looking to get into the grey area of opinion,” Facebook’s VP of News Feed Adam Mosseri tells me. “What we are focusing on with this work is specifically the worst of the worst — clear hoaxes that were shared intentionally, usually by spammers, for financial gain.”
+
+Facebook will now refer to fact-checking services that adhere toPoynter’s International Fact-Checking Network fact-checkers’ code of principlesthe most egregious and viral fake news articles flagged by users and algorithms. These include non-partisanship and fairness; transparency of sources, methodology and funding; and a commitment to corrections. Facebook is starting with the five above but hopes to grow that list to dozens to quickly get a consensus on a story’s accuracy.
+
+If they confirm a story is fake, they notify Facebook through a special reporting website it exclusively built for them, and can include a link to a post debunking the article. Facebook will then show posts of those links lower in the News Feed. It will also attach a warning label noting “Disputed by [one or more of the fact checkers]” with a link to the debunking post on News Feed stories and in the status composer if users are about to share a dubious link, plus prohibit disputed stories from being turned into ads.
+
+Facebook will only send the most popular potentially fake news stories to avoid inundating the fact-checkers; if publishers disagree with their labels they’ll have to take it up with the third-parties. Mosseri confirms that these fact-checking services won’t receive any payment from Facebook, but may get a traffic and branding boost from the debunk post links.
+
+As for why services would do the fact-checking labor for free, Mosseri says, “We’ve been met with a lot of positivity. What we’re doing, we believe, is aligned wit their mission.” As for the risk of them too aggressively labeling stories as fake, Mosseri says. “I think that it’s going to be very public what they dispute, and it’s going to put them under healthy scrutiny. So If they just start disputing to try to get traffic, people will see what they’re disputing and call them out if there’s any issues…I think there’s checks and balances actually on both sides.”
+
+Beyond warnings, Facebook is making it easier for users to report fake news with the top-right corner drop-down menu on News Feed. It will analyze whether people are significantly less likely to share an article after reading it, and use that as a signal that a post is low value and should be shown less prominently in the News Feed.
+
+Spammy Facebook Pages that try to masquerade as legitimate publishers (think TechCrunch.co instead of the real TechCrunch.com) will have their stories shown less. And Facebook will continue to detect people commenting “fake” or “hoax” on links to power down-ranking and referrals to fact checkers.
+
+Finally, Facebook is trying to hit purposeful fake news spreaders in the wallet. It will no longer allow domain spoofing in ads that previously spammers say an ad led to a legit publisher instead of their own site. Facebook will also scan landing pages of suspected fakers, and if they’re primarily just ad-covered spam sites potentially levy enforcement actions against them.
+
+Mosseri admits that “We have multiple beliefs that are not at odds but do have some tension,” in reference to the balance between avoiding censorship of free speech and the need to thwart misinformation. “We believe in giving people a voice…but we also believe we have a responsibility to reduce the spread of fake news on Facebook.”
+
+The two areas for improvement Zuckerberg cited that Facebook is still working on are better classifiers to automatically detect fake news, and preventing fake news from appearing as “Related Articles” that appear below links. These updates will begin by rolling out in the U.S. where many of the fact checkers are based, but, Mosseri says, “we’ll be looking to expand this internationally as soon as we can.”
+
+Update: Zuckerberg has nowpostedsome thoughts on today’s updates, noting that (emphasis mine):
+
+“Facebook is a new kind of platform different from anything before it. I think of Facebook as a technology company, but I recognize we have a greater responsibility than just building technology that information flows through. While we don’t write the news stories you read and share, we also recognize we’re more than just a distributor of news.We’re a new kind of platform for public discourse — and that means we have a new kind of responsibilityto enable people to have the most meaningful conversations, and to build a space where people can be informed.”
+
+As for how Facebook will handle all this on the backend, Mosseri says “There are both algorithms and humans involved.” Specifically, “a small team” of Facebook staffers will help check on fake news sites masquerading as real publishers, but “There’s no people involved in the sense that no one [from Facebook] is going to weigh in on whether these stories are true or false.” Algorithms will tally fake news signals and prioritize what’s sent to the fact checkers.
+
+Disrupting fake news and banishing the most obvious cases from the feed is essential to keeping the world accurately informed. Indeed, 44 percent of U.S. adults have said they get news from Facebook, and its 1.8 billion users make the impact of hoaxes on the platform massive. Facebook will have to execute on these changes without appearing to lean to the left, as its leadership and employees are known to be liberal, exacerbating accusations that its Trends feature suppressed conservative stories.
+
+If Facebook’s multi-prong approach can decrease the prevalence of fake news without becoming overbearing truth police, it could dismantle one of the greatest threats to its future as a core internet utility.

@@ -1,0 +1,9 @@
+For your videos, Valossa knows if you’re happy or sad
+
+Video analytics platformValossajust launchedVal.ai, a platform to help video creators, advertisers and other video boffins figure out what’s going on in video. In addition to computer-vision tricks (“Man on a beach”, “car interior”, “kitten is surprised“), the platform can do sentiment analyses (person is happy / person is sad / person is confused) and even heart rate analysis based on a high-definition video stream alone.
+
+I tried the platform out at TechCrunch Disrupt and was bowled over by how much the company knows about me, based purely on a video feed. The heartbeat feature, especially, is a neat trick. The company uses microscopic changes in the image feed to detect when heartbeats are occurring – and if my Apple watch’s heartrate monitor is anything to go by (it might not be) it’s actually remarkably accurate. Even if it proves not to be a hundred percent precise on an absolute basis, it could be useful for people analyzing video footage to see relative (i.e. heart rate increasing / heart beat slowing) changes.
+
+“There are many uses for our technology,” explains Ville Hulkko, the company’s chief commercial officer. “Especially for people working on huge film projects. Imagine you are looking for a particular piece of footage of a dog and a ball on the beach, for example. If you don’t remember when it was taken, you’ll spend a long time looking for the correct video clip. With our technology, it’s easy: You just search for it.”
+
+The company’s sentiment analysis engine is eerily good. You can try it out on theWhat is my Moviewebsite, launched at Disrupt last year — try entering “dog gets lost” or “hero wears a suit” or “money is burned”, for example. Awesome, no?

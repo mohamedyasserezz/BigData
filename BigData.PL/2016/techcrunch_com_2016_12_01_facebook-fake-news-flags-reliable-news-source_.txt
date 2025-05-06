@@ -1,0 +1,21 @@
+Reports of a Facebook fake news detector are apparently a plugin
+
+Update:The feature appears to be an implementation of the Chrome pluginB.S. Detector, which some users took as a test by Facebook itself. We’ll continue to investigate but for now it looks like this is not a Facebook feature. Yes, the irony is rich.
+
+Facebook is showing red warning labels above fake news links in the News Feed for some users in what appears to be a limited test. TechCrunch attained the screenshot below of the warning from a source. The warning reads “This website is not a reliable news source. Reason: Classification Pending” In some cases, ‘State-Sponsored News’ appears as a reason.
+
+The warnings are one of the first visible sign of the new approaches to fighting fake news that Facebook CEOMark Zuckerberg laid out last month. We’ve reached out to Facebook with a request for comment and will update if we receive a response.
+
+The fake news flag tests appear to have been running for over a week, though they seem to be vanishing from some users’ feeds as quickly as they appear. That behavior is in line with the way Facebook regularly tests new product features through limited, live rollouts to small swaths of its massive user base.
+
+The warning message in the screenshot is from an instance of the test that appeared live today. It shows a flagged a story from occupydemocrats.com, a website included on awidely circulated list of fake news sources. The headline reads “2,000 Veterans Just Arrived At Standing Rock To Form ‘Human Shield’ Around Protesters.”
+
+Notably, this particular news story checks out as true and was also picked up byThe New York TimesandReuters, among other reliable fact-checking outlets. That suggests that Facebook is blacklisting entire sites rather than individual news stories. It also demonstrates the potential for false positives in Facebook’s system, where accurate stories are slapped with the “not reliable” warning.
+
+Hacker news userideonexusnoted the same warning feature last week:
+
+“Coincidentally, I was on FB today and started seeing a red flag on two friends’ posts reading, “This website is not a reliable news source. Reason: [REASON]” with reasons like state-sponsored news and unclassified. The flag appeared on an article about Pokemon Go that was clearly sensationalist speculation and a conspiracy website about George Soros.
+
+Facebook has enduredintense criticismfor allowing fake news to proliferate on the News Feed, as some believe hoaxes and misleading stories helped Donald Trump get elected. While at first the company was reluctant to admit fake news was a big problem, media pressure spurred it towards action.
+
+Fake news is a scourge that threatens an informed democracy, though it would be risky for Facebook alone to become the truth police. Without proper transparency, that could lead to censorship and allegations of bias, as well as being an operational nightmare for the company. Working with outside verification services, media, or academic institutions could allow Facebook to classify fake news without assuming full control of or responsibility for the decisions about what’s true.

@@ -1,0 +1,21 @@
+Augmented reality makes prototyping easy on Shaper’s Origin CNC machine
+
+Innovations in 3D printing have done their part to inspire maker-culture. We print, or at-least try to print, drones, human organs, and even medications. Additive techniques are practical and accessible for much of the prototyping process. However, just because we can print synthetic drugs with 3D printers, doesn’t mean we can print somethingas simple as a walnut radio.
+
+Shaper, a San Francisco based hardware startup, is putting time and money into making CNC, or Computer Numerical Control, prototyping as easy as printing on a MakerBot. Accomplishing this is no easy task, and the Shaper team has had to implement technologies far outside the experience of most mechanical engineers.
+
+Origin, Shaper’s first product,leverages computer vision and augmented reality to take the learning curve out of CNC machining. But before we dive too deep into the innovations this small team has been able to come up with, let’s first make sure we understand prototyping 101.
+
+Shaper CEO Joe Hebenstreit explains that there are two fundamental ways to build something. You can start with a structure, let’s say an ice block, and carve away material to create beauty or you can start with nothing and assemble small parts to create something greater than the sum of each part, like a house. Constructing a house is a great metaphor for additive construction. 3D printers additively print layers of material until they create an object. CNC, on the other hand, is a subtractive process where an object is cut down to a useful shape. Typically techniques like aluminum fabrication and wood carving require subtractive rather than additive construction.
+
+To cut an object with CNC you typically have to operate within a fixed workspace with fixed materials, much like a traditional printer, so that the machine can interpret designs. Origin however can operate in any workspace with a wide-variety of materials including wood, carbon fiber, and vinyl. Almost any flat surface can become a workspace because Origin has a camera on its back that is consistently searching for a specialty ShaperTape. The tape, included with the purchase of the machine, enables the cutting head to contextualize itself — movement is with respect to the tape.
+
+With this baseline information, all it takes is a little bit of computer vision and some math and you can visualize cuts in augmented reality. Hebenstreit was previously product design lead and engineering manager, for Google’s Project Glass where he dealt with similar augmented reality challenges. In addition to Hebenstreit, early prototypes of the device were fabricated at MIT by co-founders Alec Rivers and Ilan Moyer.
+
+The Origin has a touchscreen attached behind the cutter that simulates the cutting space for the user. When someone finishes a design on the computer, they simply drag and drop it to a Shaper folder that is accessible from the device. Once open, producing a prototype is as easy as a children’s coloring book.
+
+All you have to do to make a precision cut is drag Origin along the virtual lines and you will be able to replicate CNC parts made by traditional machines that can cost tens of thousands of dollars. As if that wasn’t easy enough, the cutting head is mounted on motors that will autocorrect mistakes in positioning. Rather than line up every cut perfectly, all you need to do is get within a few inches and the machine can automate even the most intricate cuts.
+
+Shaper raised a $3 million dollar seed round that included participation from Eniac Ventures, SOSV, Founders Guild, Comet Labs, and Root Ventures. The company has plans to bring in even more capital to expedite production and continued research and development.
+
+Origin will go on sale at9 a.m. PSTonTuesday, August 23rd. The handheld hardwarewill sell for $1,500 for early pre-sale buyersbefore ultimately retailing for $2,099.

@@ -1,0 +1,15 @@
+Occipital launches $500 dev kit to turn your iPhone into a room-scale tracked VR headset
+
+For iOS or Mac users interested in VR, there isn’t a lot you can do right now without migrating to the dark sides of Android or Windows.
+
+Occipitalis aiming to get people on the iOS platform access to some more cool VR opportunities. Today, the company opened up a $500 development kit today that brings room-scale motion tracking to iOS (as well as Android) smartphones, Uploadreports.
+
+The dev kit utilizes the company’sStructuresensor. This has already been mounted to iPhones and iPads to help people build 3D meshes of their environments but this is the first attempt to give the sensor a VR-focused application. The iPhone is still a pretty imperfect platform due to system levels constraints in regards to latency, but this is the best that can be done until Apple gets its act together.
+
+Room-scale allows users to enjoy VR no matter where they move in a space. It will also allow you to move around in VR without bashing into your couch or wall due to its depth-sensing capabilities. It’s easier to see than to explain honestly. Just check out the quick video below.
+
+Despite a plethora of rumors related to Apple’s planned entry into the VR/AR space, there hasn’t been anything on-the-record other than CEO Tim Cook simply saying that augmented reality had huge potential. iPhone users that are interested in VR are pretty much stuck with Google Cardboard for the time being, and with Android Nougat’s upcoming VR mode, that experience is going to be trailing behind significantly.
+
+With these add-ons from companies like Occipital, we’re seeing what the next generation of smartphone cameras are going to be capable of. Apple’s iPhone 7 Plus introduced dual cameras which allow for some variation of depth-sensing for the sake of creating more stylish photos, but many are expecting the company to begin integrating more advanced tech in future models, perhaps relying on sensors from PrimeSense, a startup Apple acquired in late 2013 for a reported $360 million.
+
+Occipital wants their tech to eventually find its way into manufacturers’ hearts and consumers’ devices. For now developers can take a lookhereto secure a kit and start building.

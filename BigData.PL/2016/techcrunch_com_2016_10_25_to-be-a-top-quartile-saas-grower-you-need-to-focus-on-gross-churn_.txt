@@ -1,0 +1,31 @@
+To be a top quartile SaaS grower, you need to focus on gross churn
+
+SaaS entrepreneurs are bombarded with blog posts with an array of metrics and variables on which they need to focus in order to build their companies. Within the world of customer success, there are so many metrics that are touted:grosschurn, netchurn, logochurn, renewal rates, NPS score, etc.
+
+To better understand which customer success metrics most impact growth, we examined a subset of companies in SaaSRadar, McKinsey’s database of pre-IPOSaaScompanies. Our conclusion is thatgrosschurn, by far, is the most impactful metric.
+
+Most publicSaaScompanies report netchurn, which represents how your existing customer base is growing or shrinking from one period to the next. Your netchurnis a combination ofgrosschurn(how stable is the current revenue stream from existing customers) and expansion revenue (how much additional revenue areyougenerating from up-sells or cross-sells to your existing customers). While the fastest-growingSaaScompanies have lowgrosschurnand do a great job of expansion revenue, the chart below shows that the more important metric of the two isgrosschurn.
+
+Put simply, ifyoucan more effectively keep the customers/revenueyou’ve already signed up — that, on average, has more of an impact than selling more to your existing customers.
+
+The one exception to this rule are companies with self-serve customer acquisition models and usage-based pricing models where up-sells are essentially no touch (meaning no additional investment from the sales team). Twilio, which recently went public, is a good example of this.
+
+High-growth companies make sure to protect their highest-revenue customers:  Gross churn matters more than logo churn.
+
+Ifyouare selling to SMBs, one of the challengesyouhave is that small businesses tend to “go out of business,” which by definition will increase yourchurnrates. Ifyouare selling to enterprises,youdon’t have this problem. So what are the best-in-class metrics for SMB-focused businesses versus enterprise-focused businesses?
+
+The data in the exhibit below shows that thetopquartileSMB-focused companies have annual customerchurnof 31 percent and annual revenuechurnof 16 percent. In contrast, the enterprise-focused companies have annual customerchurnrate of 14 percent and revenuechurnof 5 percent. The key message here is to benchmark yourself on both netchurnbut, more importantly,grosschurn,from a sample set of companies that are selling to a similar customer base asyou,because the best-in-class numbers can vary so wildly.
+
+The further implication is that the fastest-growing companiesfocuson protecting their highest revenue customers more so than protecting all of their customers. It may be okay to lose some logos — particularly in the evolution of a startup where many early customers may not be a good fit for your solution today. Losing any kind of customer will feel painful, but as aSaaSCEO,youhave to be okay with some set of your “off spec” customers churning whileyoudouble down on your most important “sweet spot” customers.
+
+Her are five recommendations to reducegrosschurn:
+
+Invest in building a right-sized customer success organization.Topperforming enterprise-focused companies invest higher than average number of FTEs in customer success in order to drive downgrosschurn. In contrast, the best-performing SMB-focused companies have fewer FTEs than the average as a result of leveraging technology and self-service products to create a more efficient customer success and onboarding experience.
+
+Focusnot just on technology, but on people.The best companies recognize that while they are selling technology, the ultimate decisions to renew or cancel the service are driven by people.  Enterprise-focused companiesneedto ensure they know who the executive sponsor is and take action if that sponsor leaves. SMB-focused companiesneedto ensure they have regular, automated ways to contact the key buyer within the organization.
+
+Use predictive modeling and alerting to anticipate future success problems in advance.Analytics and predictive modeling can help to identify drivers ofchurn, prioritize resources and alert contact strategy for customers that are both high-risk and high-value.
+
+Measure, measure, measure.Three categories of customer success metrics should be tracked: lagging indicators, activity indicators and leading indicators. Lagging indicators include metrics such as renewal rate and expansion. Activity indicators include a customer’s engagement in the product or service. Leading indicators include measures of customer satisfaction, such as net promoter score (NPS).
+
+Let your customer success organization be the “learning engine.”Ultimately, the customer success organization cannot live in a vacuum. A strong customer success organization becomes the company’s “learning engine” — relaying their findings from the field to the sales, product and marketing teams. This feedback loop is critical to drive improvements to the overall product, value proposition and delivery model.

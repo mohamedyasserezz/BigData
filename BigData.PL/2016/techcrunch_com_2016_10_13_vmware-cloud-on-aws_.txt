@@ -1,0 +1,31 @@
+VMware’s new cloud service will run on AWS
+
+It’s been an open secret that Amazon’s AWS division and VMware were going to announce a partnership at a press conference in San Francisco later today. Thanks to VMwaremistakenly posting its announcement early, we didn’t have to wait for the afternoon to know what the two companies will announce.
+
+In what is surely a play to get more enterprises to move to AWS over its competitors — and to protect VMware’s leadership around virtual machines, VMware and AWS are bringing VMware’s software-defined data center software to AWS under the ‘VMware Cloud on AWS‘ moniker.
+
+This means that all of VMware’s infrastructure software like vSphere, VSAN and NSX will soon run on AWS. The service is currently in its technology preview phase and an invite-only beta will start in early 2017 and the service will likely come out of beta in mid-2017.
+
+The service will be operated, sold and supported by VMware (not AWS) but integrate with the rest of AWS’ cloud portfolio (think storage, database, analytics and more).
+
+“Our customers continue to ask us to make it easier for them to run their existing data center investments alongside AWS,” wrote Andy Jassy, CEO, AWS, in today’s announcement. “Most enterprises are already virtualized using VMware, and now with VMware Cloud on AWS, for the first time, it will be easy for customers to operate a consistent and seamless hybrid IT environment using their existing VMware tools on AWS, and without having to purchase custom hardware, rewrite their applications, or modify their operating model.”
+
+At their event today, the two companies introduced a number of early customers. These include Western Digital and Sysco.
+
+The companies stress that this is a jointly architected service that “represents a significant investment in engineering, operations, support and sales resources from both companies.” It will run on a dedicated AWS infrastructure that was “purpose-built for this offering.” VMware CEO Pat Gelsinger also today stressed the fact that AWS and VMware worked very closely together to create this service and stressed that this will become VMware’ primary public cloud solution.
+
+“Currently in Technology Preview,VMware Cloud on AWS, will bring VMware’s enterprise class Software-Defined Data Center software to the AWS cloud, and will enable customers to run any application across vSphere-based private, public and hybrid cloud environments,” VMware’s Mark Lohmeyer writes in today’s (currently deleted) announcement. “It will be operated, managed and sold by VMware as an on-demand, elastically scalable service and customers will be able to leverage AWS services such as developer tools, analytics, databases, and more.”
+
+While Microsoft, IBM and others have strongly focused on the idea of the “hybrid cloud” (that is, a setup where an enterprise uses both its own data centers and public cloud services like Azure, Google Cloud or AWS), Amazon has mostly ignored this market.
+
+Given that VMware already dominates in many of these enterprise’s own on-premises data centers but doesn’t own a public cloud service to give these users a hybrid option — and that AWS doesn’t offer an on-premises version of its services — it makes sense for these two companies to team up now.
+
+VMware also stressed in its announcement the hybrid capabilities this partnership enables and notes that it will bring “full VM compatibility and total workload portability between the datacenter and the AWS cloud.”
+
+It’s worth noting that AWS already offeredsome supportfor VMware’s vCenter for managing virtual machines. Thanks to this, vCenter admins have long been able to manage their AWS EC2 cloud computing instances using the same software they use for managing their VMware virtual machines. That service, too, made it relatively easy to move existing virtual machines to EC2.
+
+As IBM kindly pointed out in a series of emails meant to preempt today’s announcement, VMware and IBM already teamed up andannounceda partnership back in February. This deal with AWS seems to go quite a bit further, though.
+
+Update:we updated this post to reflect AWS’ and VMware’s comments at their press conference today.
+
+Here is full blog post that VMware has now deleted but that I expect will go up again around 1:30pm PT today when the AWS press conference starts:

@@ -1,0 +1,27 @@
+The reward for mining Bitcoin was just cut in half
+
+It’s Halvening!!!
+
+Bitcoinjust experienceda major milestone in its short little lifespan. The reward for mining a block (a block = a ledger of transaction data) was just cut in half from 25 bitcoins to 12.5 bitcoins.
+
+This means that assuming a price of $650 per coin, going forward miners will make ~$8,125 per block they mine, compared to $16,250 before the halving.
+
+But it’s ok! This is all supposed to happen. Let me explain.
+
+When the code for Bitcoin was written, it was designed to be a currency with no more than 21 million bitcoins ever in circulation. And to encourage people to mine (which is what validates and supports the entire bitcoin network), Satoshi created a reward that went along with each block.
+
+When Bitcoin was first created, the reward was set at 50 bitcoins per block mined. And, the code specified that every 210,000 blocks mined that reward would be cut in half, until it eventually is reduced to zero after 64 halving events.
+
+This exponential halving means that even though the last halving won’t occur for over 100 years, 75% of all bitcoins have already been mined and distributed.
+
+So, today was the second ever halving in the history of Bitcoin. The first halving (when the reward was cut from 50 to 25 bitcoins) was back in November of 2012, when the price was around $12 dollars.
+
+But what does it mean for ME??
+
+Ok, enough of the history lesson. You probably just want to know how this will effect the price of bitcoin.
+
+In a perfect market the USD/BTC price would have simply doubled, to compensate for half as much bitcoin being rewarded. This logically would make sense, since the cost of mining isn’t changing at all, and without a doubling of price miners are instantly seeing their revenue cut in half.
+
+But we all know markets aren’t perfect. So the best we can do it guess. And the most logical conclusion is that any pricing effect from the halving has most likely already happened due to the market anticipating it, and is probably one of the main reason for the huge price increase over the past 6 months.
+
+Anyways, enough for today. Everyone enjoy their halvening parties, and if you don’t get the chance to celebrate just remember we have 30 more halvings ahead of us.

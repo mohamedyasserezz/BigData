@@ -1,0 +1,17 @@
+Skyport Systems rolls out security analytics
+
+Skyport Systemshas released new security analytics features to complement the network security controls and virtualization tools on its cloud-managed server products.
+
+The company now offers tools that can detect deviations in the administrative accounts and inappropriate credentialing that are indicative of a corporate network compromised by hackers.
+
+According to the company, the new analytics tools will detect and prevent threats including theGolden TicketandPass the Ticket attacks; audit Active Directory authentication protocols, identify problems like the reuse of accounts, provide an audit of third party tools, and create a common platform for auditing of Active Directory domain controllers.
+
+“We brought computing networking and storage together in a single platform,” says Skyport chief executive Art Gililand. “Because of where we sit in the technology stack, we can see all traffic and communication applications that run on us. That puts us in a priviliged position to run analytics on data.”
+
+The critical system that Skyport monitors is Microsoft’s Active Directory tools for account management and provisioning. According to Gililand, roughly 95% of companies use Active Directory and for those companies that also use Skyport, they can now get a window into how exactly different accounts may be abusing their Active Directory access.
+
+In most hacks, Active Directory servers aren’t attacked directly, they’re accessed after a network has been breached, but the software is critical to an attackers ability to move freely inside a corporate network, Gililand said. “One of the things we’re able to identify is that somebody is using a credential to create other permissions,” Gililand says.
+
+While Gililand’s technology can’t ultimately get any hackers off of a network or prevent files from being exfiltrated themselves, they can identify what bad actors may be doing on a network and give a company’s security staff a chance to respond.
+
+To date, Skyport has raised roughly $67 million from investors including Cisco Investments, GV, Index Ventures, InstantScale Ventures, Intel Capital, Northgate Capital, Sutter Hill ventures, and Thomvest Ventures.

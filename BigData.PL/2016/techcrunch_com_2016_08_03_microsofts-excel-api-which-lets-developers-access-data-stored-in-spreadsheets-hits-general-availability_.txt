@@ -1,0 +1,9 @@
+Microsoft’s Excel API, which lets developers access data stored in spreadsheets, hits general availability
+
+After a relatively short beta, Microsoft today announced that theExcel API— a way for developers to programmatically use Excel for Office 365 for doing calculations, building dashboards and more — is now generally available.
+
+Microsoft first announced theAPI last Novemberand thenat its Build conference in Marchdetailed its plans for turning Office 365 into more of a platform for developers. Like all of Microsoft’s Office 365 APIs, the new Excel one will be available through theMicrosoft Graph, the company’s unified API endpoint for all of its cloud services.
+
+Implicitly, the Excel API acknowledges that most businesses use (and abuse) Excel to store lots of data. Using the service, developers will be able to perform calculations based on this data — and data from their apps outside of Office 365. They can also call on data and calculations from Excel sheets for building reports and dashboards.
+
+Microsoft has partnered with two third-party services to make accessing this API easier.Zapierusers, for example, can now build integrations with Excel for Office 365, andSage, which offers business management service for small and medium businesses, is integrating it with its accounting solution.

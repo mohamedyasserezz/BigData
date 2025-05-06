@@ -1,0 +1,11 @@
+Udacity plans to build its own open-source self-driving car
+
+Sebastian Thrun’s online education startup Udacity recently created a self-driving car engineering nanodegree, and on stage at Disrupt today Thrun revealed that the company intends to build its own self-driving car as part of the program, and that it also intends to open source the technology that results, so that “anyone” can try to build their own self-driving vehicle, according to Thrun.
+
+The crowdsourced vehicle plans will ultimately be created in service of the school, rather than a product in and of itself. The open-sourcing of the data should help other projects ramp up, and will include driving data and more to contribute to other people’s projects.
+
+Thrun also said that the self-driving car program will begin testing quietly much like Google’s did, and that it will use trained safety drivers behind the wheels in case of issues.
+
+Other companies are open-sourcing self-driving tech, including Comma.ai, which released a driving data set that it used to create its first functional self-driving vehicle add-on prototype, but it sounds like Thrun’s plan is to open-source the entire thing, since it isn’t the core focus of Udacity’s business.
+
+Thrun also revealed anumber of official partners for its autonomous driving nanodegree program, including Mercedes and more.

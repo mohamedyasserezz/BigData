@@ -1,0 +1,13 @@
+Microsoft to open Cortana virtual assistant to third-party devices and apps
+
+Microsoft is making Cortanaavailable to third-party device makers, and opening up the platform to third-party developers, too, so that they can integrate their own services in Cortana-powered devices. The news comes after anearlier revelationthat Cortana would be coming to some IoT devices via next year’s Creators Update for Windows 10.
+
+Cortana’s new Skills Kit and Devices SDK run approximately parallel to Amazon’s Alexa Skills Kit and Voice Service; the Skills kit lets developers build app experiences that can be called up and controlled via Cortana using voice commands, while the Devices SDK allows third-party hardware makers to build gadgets that include Cortana on-board – whether or not they have a display, which was a limitation of the IoT implementation revealed previously.
+
+The Skills Kit preview is on now for a few select partners privately, a lineup that includes Knowmail, Capital One, Expedia and TalkLocal. It works similarly to how Alexa does for third-party apps, letting outside devs build integrations that will work in response to user voice commands, like “Hey Cortana, there’s a leak in my ceiling and it’s an emergency” to get TalkLocal searching for a plumber in the area.
+
+[youtube https://www.youtube.com/watch?v=bikRuaJAv5g&w=680&h=382]
+
+On the connected hardware front, Microsoft is teaming up with partners in a variety of verticals, including in connected cars, the software giant notes. It’s also working with audio accessory maker Harman Kardon, and provided a peek at an upcoming device slated for release in 2017 that probably looks pretty familiar if you’re at all familiar with Amazon’s Echo.
+
+Like the Skills Kit, the Devices SDK is in private preview mode for now, and will roll out in a more open fashion sometime in 2017. There’s aform device makers can fill outto express their interest, however. And while Amazon already has open tools for developers looking to build either Alexa services or gadgets, as well as a funding vehicle to help encourage invested parties even further, Microsoft definitely has an edge when it comes to working with OEM software licensees.

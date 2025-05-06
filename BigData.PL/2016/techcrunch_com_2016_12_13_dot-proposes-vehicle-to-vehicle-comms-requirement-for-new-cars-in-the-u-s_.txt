@@ -1,0 +1,15 @@
+DOT proposes vehicle-to-vehicle comms requirement for new cars in the U.S.
+
+The U.S. Department of Transportation wants all future cars in the U.S. to be able to talk to each other, with the aim of helping to prevent “hundreds of thousands” of accidents per year. The proposed rule would require that all new “light duty vehicles,” a category that includes your average consumer car, to have vehicle-to-vehicle (V2V) communication tech built-in.
+
+The V2V requirement would further the DOT’s current goal of pushing V2V advances wherever possible. The National Highway Traffic Safety Administration was erected to begin making rules around V2V back in December of 2014 as part of this effort. The rule proposed today as a result of those efforts would also require that V2V devices share a common language around established standards so that they work across automakers and other industry partners.
+
+The DOT notes that proposed vehicle-to-infrastructure (V2I) guidance will be forthcoming soon from the Federal Highway Administration, which will detail how cars should talk to infra, including traffic lights and more.
+
+DOT’s proposed rule includes specifics around the types of broadcast vehicles would make to one another, including a frequency of up to 10 times per second, using short-range communications frequencies. These signals would help inform automated driving and driver-assist functions, including autonomous emergency braking and adaptive cruise.
+
+I'm sure it's all safe and secure, so no worries here!https://t.co/4bvBkh01b6
+
+— Charlie Miller (@0xcharlie)December 13, 2016
+
+Of course, requiring that cars be able to communicate with each other using common standards poses a tremendous potential security risk, even as it has the potential to prevent accidents. The DOT notes that implementation would “require extensive privacy and security controls in any V2V devices,” but as security expert Charlie Miller suggests above, saying something must be so and actually implementing it in a way that’s genuinely secure is a very different story.

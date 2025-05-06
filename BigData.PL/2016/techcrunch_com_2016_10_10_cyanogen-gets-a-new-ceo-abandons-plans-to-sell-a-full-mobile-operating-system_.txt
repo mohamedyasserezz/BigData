@@ -1,0 +1,41 @@
+Cyanogen gets a new CEO, shifts away from selling a full mobile operating system
+
+Cyanogen, a startup behind its own, alternative version of the Android operating system,now has a new CEO. In the wake of reports that the companyexaggeratedits success in terms of active users, layoffs, and difficulties scaling, Cyanogen’s co-founder and CEO Kirt McMaster will be transitioning into an “Executive Chairman” role, while Lior Tal, previously COO, will now assume the CEO position.
+
+In addition, Steve Kondik, Cyanogen’s co-founder and CTO, will be taking on a new role as Chief Science Officer, the company announced. He will report Stephen Lawler, the company’s SVP of Engineering.
+
+The startup emerged from the roots of a popular open source project, CyanogenMod, which allowed smartphone owners to install a modified version of the Android OS on their devices.
+
+The advantage of the Cyanogen OS included a number of tweaks aimed at offering better performance, battery life, and personalization features, as well as a more extensible platform for developers. For example, therecently launched MOD Platformallowed developers to more deeply integrate their apps into the OS. Meanwhile, because Cyanogen built on top of the open version of Android, it allow for things you wouldn’t find on a typical Android phone,like adding support for Microsoft’s virtual assistant, Cortana, for example.
+
+But things have not been going that well for Cyanogen. According to a report fromThe Informationin August, the company had been exaggerating its user numbers. It continues to claim there are “tens of millions” of OS users, the number didn’t accurately reflect the number of active users, the report said. According on internal data shared with The Information, the company only had two to three million weekly active users – on both CyanogenMod and its commercial counterpart, Cyanogen OS.
+
+Cyanogen alsolet go 20 percentof its staff earlier this summer, and, according to theletter sentfrom McMaster to employees, admits that, despite shipping millions of devices with its OS, was “not scaling fast enough nor in an efficient manner.”
+
+Today’s blogpostfrom new CEO Tal also somewhat acknowledged the company’s struggles, and announced plans to shift in its business model with the launch of a new Cyanogen Modular OS program.
+
+“…in recent years, Android and the mobile ecosystem changed,” wrote Tal. “Android has become extremely fragmented causing serious security vulnerabilities and few or no incentives to device manufacturers to deliver software upgrades and/or security patches,” he said. “Increased demand for lower-priced smartphones, coupled with the specifications arms race, has left manufacturers focused on scale and efficiency while compromising investment in software and services. Innovation cannot happen in a vacuum, which is what we have today,” Tal added.
+
+The company will be moving away from its former model which involved it shipping the full-stack of the operating system, the company says. Its new program will instead allows manufacturers to introduce their own, customizable smartphones that use different parts of the Cyanogen OS via dynamic modules and MODs, while still using the ROM of their choice. That means they could still run stock Android on their devices, then pick and choose the pieces of Cyanogen’s technology they want to also add.
+
+Getting out of the business of trying to sell its own OS is a big change for the company, and one that Cyanogen hopes will allow it to achieve scale while still achieving the vision of a “more open Android” that’s not dominated by Google. It’s unclear how successful that strategy in the long run, but it’s clear that it was time for the company to make a change.
+
+The full Cyanogen OS is still available and being sold, but is no longer the main focus.
+
+Below is the full email sent to employees:
+
+As some of you may be aware I have moved to a new role… Executive Chairman.
+
+Lior is now the CEO.
+
+Some history… last Oct/Nov it became clear to me the “full stack” model was not working… although we shipped millions of devices with Cyanogen OS we were not scaling fast enough nor in an efficient manner. We should all be proud of these achievements and the devices shipped… but in startup world even good work may not be good enough to win. I realized at this time we needed not only a product strategy that was more modular but also someone that saw growth as a 100M+ challenge not a 10M+ challenge. I started to look for someone that could be a force multiplier for this growth to join. Lior and I first met in December of last year… and over the months that followed I managed to court him into joining the company.
+
+Lior joined… worked side by side with myself and the rest of the leadership team through what was a very painful RIF and a pivot to a modular approach… Cyanogen Now… which we believe can enable the scale required for success. Myself and the board have been impressed by Lior’s calm, perseverance and solution oriented drive during this transition. We felt it was time for a change. After 4 yrs at the helm… for better or worse… the company survives…. with an incredibly strong balance sheet and a product strategy that can bring us scale. I am personally very excited to hand over the reigns to someone I have grown to respect as both a friend and colleague.
+
+Join me in congratulating Lior as the new CEO of Cyanogen Inc… it is well deserved!
+
+So… what the hell is an Executive Chairman? I will still be very active with the company… working on product strategy, recruiting and working with strategic partners as we evolve and grow our business… however my role will be 80% external facing VS internal.
+
+I hope you are all as eager for the next chapter as am I. I want to thank everyone in the company for your patience and perseverance… the last few months have been hard on all of us… our best work is ahead of us.
+
+Now bring on all the “bullet through the head” jokes from the Android blogs. ; )

@@ -1,0 +1,9 @@
+Trello makes its Power-Ups available to free users
+
+Project management serviceTrellotoday announced that itsPower-Ups, which are essentially third-party integrations, are now available to all of its users, including those who are on the service’s free tier. Until now, only paying users were able to use this feature, which includes integrations with products like SurveyMonkey, join.me, Github and Slack, among many others.
+
+With today’s update, Trello is also launching integrations with Intercom, Github Enterprise and Screenful. Trello itself is also launching two new Power-Ups itself: custom fields for users who want to be able to create new data fields and visual cues for their cards, as well as a Card Repeater that allows you to set intervals for repeating tasks. With Card Repeater, you can set up Trello to automatically create copies of certain cards for recurring tasks like expense report due dates. This feature is currently only available as a public beta, though, and admins will have torequestaccess to it.
+
+Until now, free users were restricted to using three very basic Power-Ups: Calendar for seeing Trello’s calendar view, Card Aging for slowly fading out cards as they age, and Voting for (you guessed it) adding a voting option to cards.
+
+Giving free users access to all Power-Ups sounds like a great idea, but there’s a catch: free users can only activate a single power-up at a time. Paid users on Trello’s Business Class and Enterprise plans can use as many as they want to. So if you want to use Trello’s new repeating cards Power-Up, for example, you’re done and will have to opt for a paying account if you want to use others.

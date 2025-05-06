@@ -1,0 +1,17 @@
+Microsoft strives to give computers common sense with Concept Graph
+
+Today,Microsoft Research is publicly releasing its effortto tackle just one of the problems plaguing natural language understanding — knowledge. The company believes that background knowledge is one of the key separators between the way humans and machines understand language.
+
+Probase, a knowledge database Microsoft has been working on for quite some time, is serving as the base for a new public tool called Microsoft Concept Graph. Probase brings 5.4 million concepts to the table, beating other knowledge databases like Cyc, which offers 120,000 concepts.
+
+The goal of all the connected information is to support text analysis by mixing interpretations with probabilities — this is very similar to the way humans use rapid process of elimination to accomplish the same task.
+
+For example, if I were to say “the man ran from the stranger with the knife,” you would most likely interpret that to mean that the man is running from an armed stranger. But of course the sentence could also mean that you grabbed the knife from the stranger and are now running away. However, running implies fear and knives are associated with fear so the simplest, most direct, interpretation prevails — even though it may not be accurate.
+
+Microsoft’s Concept Tagging Model builds on this to map text categorically with the same probabilistic idea. Continuing the example, the knife could also be referring to a utensil or a weapon, but in context, it is most likely to be a weapon and not a 17th century butter knife stolen from a museum.
+
+Utensils and weapons are both relatively common categories, but museum artifacts is a bit long tail. By sheer size, Microsoft’s model considers both the highly probable and the exceedingly unlikely to account for attributes, sub-contexts and relationships.
+
+The version released todaycan rank categorical relevance for any text entry. Microsoft’s basic-level conceptualization will be provided to preferentially rank efficient and appropriate categories alongside other measures like MI, PMI, PMIk and Typicality.
+
+Future versions will be able to account for what they call “single instance conceptualization with context,” which would essentially mean that “stranger” and “knife” could be connected to denote meaning. Even farther out, the team hopes to solve “short text conceptualization,” even further broadening the  scope of applications within search, advertising and AI.

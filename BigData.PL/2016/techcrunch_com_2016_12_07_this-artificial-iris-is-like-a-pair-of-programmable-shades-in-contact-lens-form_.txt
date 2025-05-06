@@ -1,0 +1,15 @@
+This ‘artificial iris’ is like a pair of programmable shades in contact lens form
+
+Smart contact lenses have been the stuff of science fiction for a long time, but as with jetpacks and faster-than-light travel, we’re still waiting on them. Research is ongoing, though, and a project at the University of Ghent shows promise not just in advancing the technology but providing some therapeutic value, as well.
+
+Herbert De Smet’s group has been working for some time withEU grant moneyon initial applications and executions of smart lenses, and some early results were presented at IEEE’sInternational Electron Devices Meetingthis week.Their device embeds a tiny monochrome LCD in the lensthat can be set to varying opacities and patterns.
+
+Now, these patterns would be far too close to the eye for you to make them out, except perhaps as smudges or dark areas in your vision. They’re not intended to form images, however, but rather to darken the entire field of view for people who can’t do it themselves.
+
+Some people suffer from conditions that limit the ability of their eye’s iris — that’s the colored circle — to contract and dilate the pupil and control the amount of light admitted to reach the retina. If the pupil is stuck in the open state, bright situations — normally handled by reducing the pupil to a pinhole — will overwhelm the iris and cause pain or even serious damage.
+
+A contact lens that automatically changes its shade from totally transparent to as dark as a pair of sunglasses, as required by the ambient light, would fill this role nicely. That’s exactly what De Smet’s team has created;head over to IEEE Spectrumfor a video of the LCD in action.
+
+The parts are in place: the LCD-infused lens and the chip that controls it are solid, and the power system, a set of tiny photovoltaic cells, captures enough energy — but the two have yet to be integrated. Once they are, the lenses will still, of course, need to be tested for safety.
+
+You can keep up with De Smet’s work at theCentre for Microsystems Technology’s webpage.

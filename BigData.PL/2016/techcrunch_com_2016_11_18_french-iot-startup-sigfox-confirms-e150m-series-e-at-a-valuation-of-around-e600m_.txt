@@ -1,0 +1,37 @@
+French IoT startup Sigfox nabs €150M Series E, reportedly at €600M valuation
+
+Sigfox, the IoT company based out of France that is building a dedicated, global network to connect, monitor and control devices like smart-home alarms, machinery, refrigerators and city streetlights, today confirmed that it has closed its latest round of funding, a Series E round of €150 million ($160 million). Webroke the news of this roundin October, noting it was likely to be completed this month.
+
+The company is not disclosing its valuation, but sources close to the company have said it is in the region of €600 million ($637 million). This brings the total raised by Sigfox to just over $300 million, making it one of the better capitalized IoT startups on the market today.
+
+The company is adding a number of key investors with this latest funding: Salesforce Ventures, gas giant Total, entrepreneur and Parrot founder Henri Seydoux, Alto Invest, Swen CP and Tamer Group are investing in this Series E, along with existing investors Bpifrance, Elliott, Intel Capital, Air Liquide, Idinvest Partners and IXO.
+
+There are also still-unnamed investors involved that will bring the total to €150 million. (As for who they are, notably last month we reported that there was a strategic company out of China interested in Sigfox, so that is one contender.)
+
+Sigfox noted that the round comprises a “greenshoe,” meaning new strategic and financial partners can join the share capital of Sigfox “shortly.”
+
+Sigfox today says that it already has some 10 million devices registered on its network (versus 8 million a month ago), which now is operational in regions across 26 countries, covering 1.35 million square kilometers and 358 million people. The funding will be used to expand that footprint. The aim will be to cover 60 countries by 2018. Its rollout has included a recent100-city deployment in the U.S.It also sees a lot of opportunity in China and India.
+
+Currently, its pricing starts at €1 per device per month (with a sliding scale based on volume).
+
+As we reported previously, while there are a number of IoT efforts based around building and connecting previously “dumb” devices to wireless networks, Sigfox is different in that it’s trying to build a new network from the ground up for these objects, which sits separate from traditional wireless networks.
+
+This puts it in competition potentially with carriers who are also looking to IoT to grow their data and enterprise businesses on their wireless networks to offset declines from more traditional areas like voice and fixed-line services.
+
+Carriers are also pretty active in the IoT space right now. Verizon (which owns TC by way of AOL) just this week announced thatit’s acquired yet another IoT-focused startup, the smart cities-focusedLQD WiFi.
+
+Others that are hoping to get some traction in the world of IoT include large tech companies like Microsoft, leveraging its extensive installed base of Windows enterprise users, as well as Cisco, which owns IoT management platformJasper.
+
+Apart from having an active network, Sigfox also has a strong moonshot game: It believes that its flavor of IoT architecture could help eliminate data roaming, the cost and complexity of embedding silicon in connected objects and even the need for batteries in devices.
+
+“When we met in 2010, we agreed that Sigfox could change the world by bringing the virtual and physical worlds together through a new paradigm based on the fundamental principles of astrophysics. Today, we have created the equivalent of the world’s largest radio telescope for IoT. Our network is able to connect hundreds of billions of objects to the Internet through advanced radio techniques.” said Ludovic Le Moan and Christophe Fourtet, co-founders of Sigfox, in a joint statement.
+
+While positioning itself as a rival to established carriers is an ambitious effort, it’s one that has convinced a lot of investors.
+
+“We are happy to accompany the development of Sigfox because the technology it offers can be decisive to accelerate the deployment of the Internet of things. It is their advance acquired on the market in a short time and their capacity to accelerate the deployment of large-scale IoT solutions that motivated our investment,” commented Patrick Pouyanné, chairman and CEO of Total in a statement. “This type of solution will improve the performance and operational safety of industrial activities, reduce operating costs, but also be used to serve customers.”
+
+“We strongly believe that Sigfox has unlocked the IoT connectivity bottleneck and will bring billions of objects online in the near future. Its cost-effective, easy to use, open platform solution is set to become the standard for low power object connectivity, bringing massive productivity gains to the corporate world and everyday benefits to end customers,” said Franck Tuil, Elliott’s Senior Portfolio Manager.
+
+While strategic investors like Total will give Sigfox a natural route to building its business in the energy sector, other strategic investors will help it build out its platform. The company plans to integrate with Salesforce’s IoT Cloud, which will make it possible to sell solutions to future clients who are already working with the latter company to track, manage and analyze their IoT services.
+
+Sigfox said that Lazard and Goldman Sachs acted as its financial advisors. Skadden was legal advisor and Callisto was financial advisor to the management.

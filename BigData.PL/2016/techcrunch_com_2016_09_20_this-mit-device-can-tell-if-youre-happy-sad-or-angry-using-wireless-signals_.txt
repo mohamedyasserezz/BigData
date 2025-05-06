@@ -1,0 +1,13 @@
+This MIT device can tell if you’re happy, sad or angry using wireless signals
+
+Photographic cues have helped systems like Microsoft’s Emotion API detect human feelings with decent accuracy, but a new research project fromMIT’s Computers Science and Artificial Intelligence labcan interpret emotions with a greater degree of accuracy, using only wireless radio signals. Researchers at CSAIL have created a device they call the EQ-Radio, which can pick up emotions including excitement, sadness, anger and happiness with around 87 percent accuracy in tests thus far.
+
+The research is significant because it doesn’t actually require any on-body sensors, either, even though it’s detecting subtle cues from the subject including breathing patterns and heart rhythm. And since it requires nothing worn by the user, and avoids the accuracy pitfalls of something like camera-based facial recognition software, its creators believe it could be the ideal tech for companies looking to build some kind of emotional intelligence into their products.
+
+MIT professor Dina Katabi led the development of the EQ-Radio, and suggests that it could be used in varying ways across the entertainment, consumer advertising and healthcare verticals. You could, for instance, use it in smart TVs to more accurately gauge viewer response to ads and programming; or you could build it into a smart home hub to trigger automated actions with connected devices like stereos and lighting, adjusting the mood of you home to counter or augment your emotions.
+
+Applications in health care seem nearly boundless; the research team suggest it could be used to help with monitoring and diagnosing conditions that have strong emotional components, including depression and anxiety. But you could also easily see it being applied to situations where a person’s ability to read the emotional state of others is lacking, to give them better social cues about how to behave in everyday situations.
+
+The system trains on a person’s individual emotions before attempting to guess at their state, and used a set of five sessions wherein a subject had their emotions triggered via music or video cues to level-set its recognition algorithms.
+
+Katabi’s spin-off company Emerald, which is a device that detects and predicts falls among elderly users, will use the emotion-detection software in the future, the professor notes. But the opportunity in consumer electronics could be far greater – imagine a smartphone that can tell how you’re feeling and offer up content, communication and app suggestions accordingly. Smart devices are our current reality, but sympathetic machines could be the future.

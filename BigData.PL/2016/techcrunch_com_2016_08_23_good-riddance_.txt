@@ -1,0 +1,15 @@
+Google will soon start punishing mobile sites that show hard-to-dismiss popups
+
+Google todayannouncedtwo major changes related to its mobile search results. The one you’ll probably notice first is that Google is removing the “mobile-friendly” label that highlighted pages that were easy to read on mobile from its mobile search results pages.
+
+In the long run, though, the second change may be more wide-reaching: starting on January 10, 2017, the company will start punishing mobile pages that show intrusive interstitials when a user first opens a page and they will rank lower in its search results.
+
+Why is Google removing the mobile-friendly label? According to Google’s own data, 85 percent of all pages it shows on its mobile search results pages are now mobile-friendly. So to declutter the results pages, it’s removing the label, even as it continues to use it as a ranking signal.
+
+The punishment for annoying interstitials — those annoying ads and announcements that take over the whole page and have the smallest possible button for dismissing them, which inevitably leads you to accidentally clicking on the ad even though you really didn’t want to buy a new car — will likely be bemoaned by bad marketers, but for users, it can’t come too early.
+
+It’s worth noting that Google won’t punish all sites that uses interstitials — only the ones that make content less accessible. That means popups that covers the main content after users navigate to a page or as they are looking through it, as well as standalone interstitials that have to be dismissed before you can access the main content and pages that show what looks like a standalone interstitial above the fold. Those last ones are actually especially annoying, because they often push the main content down once they load, which also often leads you to accidentally clicking on them, too.
+
+Some interstitials like those that sites use for login dialogs and in response to legal obligations are still okay, of course, and won’t push a site down in Google’s rankings.
+
+This isn’t the first time Google is looking at interstitials as a ranking signal. The companyalready punishessites that use them for app install ads.

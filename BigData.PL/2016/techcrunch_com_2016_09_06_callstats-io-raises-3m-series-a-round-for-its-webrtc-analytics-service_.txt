@@ -1,0 +1,15 @@
+Callstats.io raises $3M Series A round for its WebRTC analytics service
+
+WebRTC, a relatively new web standard that allows you to make audio and video calls from your browser without plugins, is becoming increasingly popular. But as more companies and products adopt it, the need for getting better insights into how these calls perform (or when they drop and why) also increases.Callstats.iospecializes in monitoring WebRTC connections and helps its customers use the data it gathers to improve their connections.
+
+The company todayannouncedit has raised a $3 million Series A round, led byTrue Ventures, that will allow it to continue to develop its product. This round brings Callstats.io’s total funding to $3.5 million.
+
+True Venture partner Om Malik will join Callstats.io’s board. “WebRTC has the potential to revolutionize communications and the web by being so frictionless,” Malik said in a canned statement today. “The sophisticated monitoring and diagnostics such as those developed by Callstats.io are only going to improve and enhance the opportunities brought forward by this new approach to communications.”
+
+As the company’s co-founder and CEO Varun Singh told me, the team wrote the first prototype of the service back in 2013, around the time WebRTC became something people started paying attention to. By summer 2014, Callstats.io raised a small seed round and signed up its first customer. The team then focused on building out the product and adding new customers throughout 2015. The company also worked with a number of SDK providers to get its service integrated into tools like Twilio, Jitsi and others.
+
+As Singh noted, Callstats.io still had enough runway to make it to early next year, but he decided to raise now while he could still do so on his own terms.
+
+Looking ahead, the Callstats.io team plans to focus on its diagnostics services. “We always say our product is about detecting issues and deploying fixes,” Singh said. “Today we can fix problems with about 20 to 30 percent of the calls. We believe that with more technical investment we can fix 50 percent of the issues.”
+
+That’s really what Callstats.io is about. It’s one thing to give people monitoring data, but it’s another to make it actionable for them. When calls to users on a certain network regularly drop, for example, Callstats.io should be able to tell its users how to fix this issue by automatically reducing bandwidth rates right from the start of the call. As Singh told me, developers like to hard-code high-quality settings right into their apps, for example, but the networks often can’t handle that, so what they need is some way to programmatically decided which settings to use at the start of a call. “We are a data-first company, but we want to be a communications company,” Singh explained.

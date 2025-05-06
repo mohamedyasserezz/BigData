@@ -1,0 +1,25 @@
+UK data watchdog issues record fine for ISP TalkTalk’s 2015 data breach
+
+A 2015 data breach at UK ISP TalkTalk has landed the company with a £400,000 fine from the national data protection agency — a record penalty for the ICO to hand out, although £100k shy of the current maximum it can impose.
+
+The breach in question dates back to October 2015 when data from nearly 157,000 TalkTalk customer accounts was stolen from its website by hackers. Shortly after, police arrested two teenage boys in conjunction with the hack, although the investigation remains ongoing. A total of six arrests have been made, according to theBBC.
+
+While the size of the data breach was not as large as initially thought, and the number of TalkTalk customers whose bank account or partial credit card details were taken was smaller still (in the tens of thousands), the ease with which hackers were able to penetrate the ISP’s security systems and make off with sensitive data led to widespread condemnation.
+
+Hackers used an SQL injection targeted at vulnerable webpages which TalkTalk had taken over after its acquisition of another UK ISP, Tiscali. Two earlier attacks targeting the same vulnerability had apparently been ignored by TalkTalk in the same year.
+
+Commenting ina statementafter issuing the fine, Information commissioner Elizabeth Denham said: “TalkTalk’s failure to implement the most basic cyber security measures allowed hackers to penetrate TalkTalk’s systems with ease.
+
+“Yes hacking is wrong, but that is not an excuse for companies to abdicate their security obligations. TalkTalk should and could have done more to safeguard its customer information. It did not and we have taken action.”
+
+In further comments relating to the size of the fine, she added: “Today’s record fine acts as a warning to others that cyber security is not an IT issue, it is a boardroom issue. Companies must be diligent and vigilant. They must do this because they have a duty under law, but they must also do this because they have a duty to their customers.”
+
+Data breach penalties are set to step up severely in Europe when the newGeneral Data Protection Directivecomes into force in May 2018. At that point maximum fines will rise to up to four per cent of a company’s global turnover (or €20 million, if larger) — idea being to force companies to prioritize securing customer data.
+
+Under the new European law companies collecting customer data or processing sensitive data at a large scale will also be required to appoint Data Protection Officer — who will be obliged to report any data breaches to the relevant national DPA. The GDPR puts the onus on companies to report data breaches quickly, in most cases within 72 hours of becoming aware of it.
+
+While it’s not clear how the UK intends to negotiate compliance with European law after it leaves the European Union, following the Brexit vote this summer, any UK companies with customers in Europe would still need to comply with the GDPR. And it seems very likely that security spending by companies doing business in Europe will step up to mitigate the inflating risk to their bottom lines, as well as to their reputation, as the new regime comes into force.
+
+Add to that, on ISPs specifically, an incoming UK law is set to place an obligation on Internet service providers tocollect and store website access data for all customers for a full year— as part of government attempts to expand state security agency and policing powers, under the controversialInvestigatory Powers bill.
+
+Should that requirement pass into law this year as intended, UK ISPs are likely to become an even more attractive target for hackers given the additional sensitive data they will be legally required to store, as indeedcriticsof the bill have warned —including the former UK ICO.

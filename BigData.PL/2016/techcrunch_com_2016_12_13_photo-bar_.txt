@@ -1,0 +1,17 @@
+Photoshop adds MacBook Pro Touch Bar support
+
+Of all the third-party partners announced onstage at Apple’s bigMacBook Prounveil back in October, Adobe was almost certainly the most enticing. In the two months since the Touch Bar was shown off, Apple’s mostly relied on its own proprietary software to demonstrate the appeal of the new input device, which ranges from the fairly useful (Final Cut Pro) to the kind of neat (Photos).
+
+Thankfully, Adobe is finally ready to unleash Photoshop compatibility on MacOS users, dropping the software update today. Ina blog postissued this morning, Photoshop product manager Stephen Nielson describes the ways in which the input device is potentially more than just a neat gimmick.
+
+I’ve had a chance to use the Touch Bar a bit and I find it exciting for two reasons. First, the Touch Bar is useful for surfacing a contextual ‘next step.’ This is helpful both for a beginner who might not know how to navigate Photoshop, and for an experienced user in giving them speedier access to the desired next action. Second, the Touch Bar is useful for accessing controls in a new way, especially controls that were sometimes clumsy with a keyboard and mouse.
+
+The first steps toward that integration are, predictably, pretty simple. With the Touch Bar, Photoshop users can choose layer properties, select between brush color, size, hardness, opacity and flow (using the slider to fine tune) and create a set of favorites for quick access. Here’s the full breakdown:
+
+·Layer Properties:Quickly access common actions — place a Smart Object, clip layers, open Select & Mask — or controls for changing the blend mode and scrubbing through the history.
+
+·Brushes:Easily access brush color, size, hardness, opacity and flow using a movable slider to pick just the right value.
+
+·Favorites:Configure your own set of favorite actions, including any combination of actions from the previous sections, or other commands such as Full screen mode, Flip Horizontal/Vertical and launching the macOS share menu.
+
+The update is available now for Photoshop CC users.

@@ -1,0 +1,27 @@
+Qualcomm’s Tricorder XPRIZE is down to two finalists
+
+A bit of a mutual admiration society has developed between the two finalists in Qualcomm’s $10 million Tricorder XPRIZE competition. Whatever animus might have developed in the nearly half-decade since the contest was announced at CES 2012 has seemingly taken a back seat to an appreciation for what the other team has accomplished.
+
+In fact, at one point during our meeting ahead of this morning’s news, Dynamical Biomarkers Group head Dr. Chung-Kang Peng casually mentioned that the two sides have discussed joining forces when it comes time to bring products to market.
+
+It’s been a long road here, and the journey’s not over yet. There are still a number of hoops to jump through, including extensive consumer testing set to occur early next year at UC San Diego. The first-prize winner will be awarded $6 million, with second place receiving $2 million and an additional $1 million going to whichever scores the highest vital signs during this last round.
+
+The foundation has already doled out around one million in milestone prizes, helping keep teams afloat over the past few years as the original 40 teams (itself down from 300 or so who pre-registered) were whittled down to a top 10 in 2014, now down to a final two.
+
+The goal, as outlined by the foundation, is to create a real-world version of the Star Trek Tricorder, a mobile diagnostic medical device weighing less than five pounds that is capable of diagnosing at least 13 different health conditions. Of those, the following must be included: “Anemia, Atrial Fibrillation, Chronic Obstructive Pulmonary Disease, Diabetes, Leukocytosis, Pneumonia, Otitis Media, Sleep Apnea and Urinary Tract Infection. Beyond that, the teams had to select three others, including “HIV Screen, Hypertension, Melanoma, Shingles and Strep Throat.”
+
+It’s a sort of stop-gap diagnosis for at home or in parts of the developing world where professional medical attention can be hard to find, a way of cataloging and uploading vital signs and offering a much more precise diagnosis than people tend to give themselves through Web MD and the like. It is, as XPRIZE puts it, in its very geeky way, “a Tricorder with no Bones required.”
+
+Dr. Peng’s team, Dynamical Biomarkers Group, delivered a solution in what looks like a cross between a first aid kit and a fishing tackle box. It’s a well-packaged product, thanks in no small part to the backing of HTC. Not surprisingly, the demo ran off a Butterfly handset, chosen for its light weight, to help the package arrive at just under the five-pound mark.
+
+Inside the box are three different modules — a vital sensor, blood/urine strips and a smart scope. The handset is the brains of the system, featuring an initial walk-through in which the patient helps determine the source of the issue. From there, the modules feed information to the phone via Bluetooth — or, in the case of the blood and urine strips, using the on-board camera. Once collected, the information is uploaded to Amazon’s server for analysis, as the phone doesn’t have the on-board processing power to complete the tests.
+
+The team, which is based in Taiwan (HTC’s home turf) and Boston (near Harvard, where Dr. Peng is an associate professor), plans to roll out their product in China first, where hundreds of millions don’t have quick access to healthcare — and where governmental regulations around marketing health devices are far less strict than here in the States. The team lead cites the phenomenon of reverse innovation as part of the company’s strategy.
+
+Far from the HTC-backed venture of Dynamical Biomarkers, Final Frontier Medical Devices began life in ER doctor Basil Harris’ kitchen, and has remained something of a family affair, with several of his siblings along for the ride. The company named its Tricorder DxtER — a mashup of “diagnosis,” “Tricorder” and “E.R.” — with Dr. Harris suggesting that the company floated the idea of using Michael C. Hall as a spokesperson — though the serial killer association might not have been great for the company’s bottom line.
+
+Name aside, DxtER is decidedly less flashy than the other finalist, arriving in a simple cardboard box with a slew of third-party testing solutions, along with pieces of hardware printed out from MakerBots. In the demo, the company used an iPad mini to demonstrate the system, which has already been used in clinical tests at the hospital where Dr. Harris is employed.
+
+Both teams were required to create 45 kits for the testing that’s set to commence early next year, evidence that they can be employed by non-medical professionals with no more training than what’s available on their app walk-through. In its final form, the systems are designed to be compatible with any smartphone or tablet. And while none are meant to replace a medical professional, they’re designed to serve as a sort of “mobile triage,” delivering diagnoses to otherwise difficult to get to places. A sort of first line of defense.
+
+The winner will be announced in Q2 of next year.

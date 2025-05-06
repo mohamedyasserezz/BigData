@@ -1,0 +1,9 @@
+Gaming features in Windows 10 Creator’s Update include native Beam streaming
+
+Game Broadcasting for Windows 10 is coming, which brings built-in game streaming to the platform at the OS level. The tech for this is builtusing Beam, the TechCrunch Battlefield company acquired by Microsoft earlier this year. The Game Broadcasting tools provided by Beam incorporate interaction options for spectators, including the ability to make suggestions.
+
+On stage at the Windows event today, Microsoft’s Jenn McCoy showed how you can use commands on screen to provide suggestions to the person doing the streaming. McCoy also demoed how easy it is to start broadcasting for streamers, with a single button that automatically notifies your followers that you’ve begun a stream. The goal is to help broadcasters expand their potential audience.
+
+Players can also create their own custom tournaments using Arena in Xbox Live, which Microsoft equated to creating your own fantasy football league. The tool automatically tracks scores and manages rankings once you’ve done your initial setup, including selection a game mode and style for the tournament, as well as the duration.
+
+Lastly, the Creator’s Update includes Bitstream audio passthrough support for Blu-ray games on Windows 10, meaning full audio fidelity is now available to PC gamers. This means Dolby Atmos is properly supported, which is great news for PC gamers who value home theater and audio quality.

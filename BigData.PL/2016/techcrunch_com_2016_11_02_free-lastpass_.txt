@@ -1,0 +1,21 @@
+LastPass on mobile is now free
+
+LastPass, the password manager owned by LogMeIn, is making a core component of its service free.
+
+LastPasshelps improve password security by allowing users to generate random passwords and storing them securely, so users don’t have to worry about password reuse leading to one of their accounts being breached.
+
+The company’s payment model has always been sort of frustrating — users could access the the browser extension for free but had to pay a $12 annual fee to take their passwords with them on mobile. Other password managers such as1Passwordfollow a similar pay-for-mobile model, but making the same service cost a different amount depending on what device it’s accessed from seemed nonsensical.
+
+LastPass has added other paid features over the years that make the Premium subscription worthwhile, and under the new plan, the division between paid and free services makes a lot more sense. LastPass Premium users will still pay a subscription to access family password sharing, two-factor authentication methods like YubiKey and Sesame, encrypted file storage, fingerprint identification on desktop, priority customer support and an ad-free password vault. Free services will now include two-factor authentication, password generation and sync, and access from unlimited devices.
+
+Basically, LastPass is now charging only for enhanced features rather than convenient access. The company also earns revenue from its enterprise offerings.
+
+LastPass says that the change is motivated by a commitment to bringing password security to the masses. “Today’s reality is that people’s digital lives are increasingly in the cloud — and inherently span countless personal and work devices. We believe that to truly benefit from the security and convenience of a password manager, it should be available whenever and wherever you need it,” LastPass vice president Joe Siegrist said in a statement. “By offering LastPass for free across all your devices, we’re making it that much easier for everyone to make good password habits the norm, while resetting the expectations of what a great password management experience should be in a multi-device world.”
+
+But the pricing change might also be intended to lure users from other paid password management services. LogMeIn CEO Bill Wagner said on an earnings call last week that free users drive revenue for LastPass because they often convert to Premium services or serve as referrals for enterprise business opportunities.
+
+“LastPass is proving to be a great new on-ramp to the LogMeIn franchise, attracting millions of free users, many of whom will either upgrade to a paid account or lead us to an enterprise opportunity. And we saw this play out in the quarter with a six-figure deal to one of the nation’s largest commercial banks. We believe it is early days for cloud-based identity and that we have a big near-term opportunity to capture significant share by making LastPass even easier to use and increasing its awareness in the market,” Wagner explained.
+
+Since LastPass was purchased by LogMeIn last year for$110 million, its rankings in the App Store and Google Play have remained virtually unchanged, according to the analyst service App Annie. Steady rankings are a good sign, and making the basics of LastPass available free of charge might help those rankings improve.
+
+Users who are already paying for LastPass won’t have their subscriptions cancelled. Premium users get all the additional features, including YubiKey authentication and file storage, and LastPass doesn’t want to automatically cut people off from those tools. So to switch over to the Free model, users need to cancel their subscription when it comes up for renewal. Users who just signed up for Premium within the last 30 days are eligible for refunds.

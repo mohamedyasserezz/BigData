@@ -1,0 +1,13 @@
+Watch this smartphone-assisted robot beat the pants off of humans in air hockey
+
+[youtube=https://www.youtube.com/watch?v=lZmp9elPgKo]
+
+It’s the holidays and that means it’s time to watch robots cream humans in bouts of skill. The latest example of robotics winning over a meatbag? This amazingair-hockey robotpowered by a smartphone, Arduino board and a plotter-like robotic arm.
+
+The system works by watching the puck on the surface of the table and moving to where the puck is going. It actively blocks attacks on its goal and it can beat humans regularly.
+
+￼The smartphone’s camera is looking at the playing court. The camera’s captured data is processed in real-time by the smartphone. Detecting the position of the puck and the “pusher robot” (and according to the current location of all the elements on the court), your smartphone makes decisions and commands the robot what to do via Wi-Fi.
+
+Your smartphone will become an augmented reality device, showing predicted trajectories and position of all the objects involved in this game.
+
+You can build your ownrobot using these instructionsand the creator, Jose Julio of JJ Robotics, even included thesource code. Give me a robot that can beat me at skeeball and maybe then we can talk, though. Until a robot learns the lure of spending hundreds of tickets to get a plastic frog it knows nothing of life.

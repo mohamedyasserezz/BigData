@@ -1,0 +1,11 @@
+Apple pulls watchOS update after reports of bricked devices
+
+Do you have a second generation Apple Watch? Did you think you had a watchOS update waiting for you, only to have nothing show up when you went to grab it?
+
+Don’t worry: you’re not crazy, nor alone. Apple has pulled the release of watchOS 3.1.1 following reports that the update was breaking watches.
+
+3.1.1 was first released on Monday morning; by Tuesday night, Apple had pulled it down.
+
+While not everyone who updated their watch had issues, some users reported that their watches were showing a red exclamation mark at bootup (like the one below) — and doing a hard reset often didn’t fix it.
+
+It’s unclear what’s causing the bug and how many users were impacted, but Apple’ssupport pageon the exclamation mark issue says anyone seeing the issue will need to have their watch serviced (which, if you’re taking it into the Genius Bar, probably means replaced.)

@@ -1,0 +1,35 @@
+Facebook ordered to stop harvesting data on WhatsApp users in Germany
+
+Facebook has been ordered to stop harvesting the data of WhatsApp users in Germany.
+
+The move follows the latter’s shock announcementlast monththat it would start sharing user data with its parent company, Facebook, including users’ phone numbers and last seen time in the app. Stated uses for the data includes marketing/ad targeting.
+
+Shock because, back at the time of the$19BNacquisition, WhatsApp’s founder publicly stated that nothing would change for users of the ad-free messaging platform as a result of selling to the social network giant. Full marks if you didn’t believe a word of it at the time.
+
+But reneging on such public statement looks to be what’s got the two into hot water in Hamburg now, with the city’s data protection authority describing the resulting situation as both misleading for users and a breach of national data protection law.
+
+The Hamburg DPA is able to issue a national order against Facebook’s business in Germany because the company has a branch office located in the city.
+
+In astatement today, data protection commissioner Johannes Caspar ordered Facebook to delete any data it has already harvested from Germany’s 35 million WhatsApp users, and to stop collecting more — asserting that Facebook has not obtained permission from WhatsApp users for connecting their accounts.
+
+He also accused Facebook of harvesting millions of phone numbers, via WhatsApp users’ contact lists, of people who might be neither a Facebook nor a WhatsApp user.
+
+Last month WhatsApp users werepushed a notification of updated terms and conditionsfor the app, and agreeing to them default opted users in to sharing data with Facebook. Although a more careful reader of the T&Cs might have noticed there was a toggle at the end which could be switched to opt out of sharing data with Facebook for marketing/ad targeting purposes.
+
+“The arrangement protects the data of about 35 million WhatsApp users in Germany. It has to be their respective decision whether they want to connect their account with Facebook. This requires Facebook to ask permission beforehand. This has not happened,” he said (translated from German via Google Translate).
+
+“In addition there are many millions of people whose contact details were uploaded from the address books of users WhatsApp, without requiring them to have something to do with Facebook or WhatsApp.
+
+“This enormous amount of data, Facebook has not yet been collected by his own admission. The response from Facebook that this is simply not yet taken place at the time, however, gives cause for concern that the extent of the data breach even more massive impact will lead to. ”
+
+Facebook has said it intends to appeal the order.
+
+In a statement provided to TechCrunch in response to the action, a spokesperson for the company said: “Facebook complies with EU data protection law. We will appeal this order and will work with the Hamburg DPA in an effort to address their questions and resolve any concerns.”
+
+This is not the only headache for the WhatsApp-Facebook data-sharing deal in Europe, which has a different data protection regime than the U.S. — a factor that has derailed other Facebook moves (such as leading it to turn off a facial recognition-powered tagging feature in the regionback in 2012).
+
+The shift to Facebook cross-referencing WhatsApp user data and app analytics with other services it owns and operates has also caught the attention of the UK’s ICO data protection watchdog — whichlast monthsaid it was looking into whether the two companies were being transparent with users about how their data is being shared and used.
+
+In a general statement earlier this month the Article 29 Working Party, the European body that represents the collective views of the DPAs of the 28 Member State of the EU, said: “Users should keep control of their data when Internet giants massively compile it.”
+
+It added that it and each national DPA “closely monitor any privacy policy changes”.

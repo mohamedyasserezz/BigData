@@ -1,0 +1,15 @@
+Ibanfirst grabs $11 million to expand beyond foreign exchange services
+
+French startupIbanfirstis launching its full-fledged banking service for companies. The startup was previously known asFX4BIZ, a sort of TransferWise for business transactions. The company just raised $11 million (€10 million) from Xavier Niel and others. Ibanfirst plans to go much further than being a foreign exchange service.
+
+The initial idea behind Ibanfirst is quite simple. Many companies work with clients and suppliers in multiple currencies. But corporate banks tend to be very expensive when it comes to converting money and making a transfer to a foreign bank account.
+
+Ibanfirst provides better exchange rates and smaller fees so that you end up paying less to change money. So far, Ibanfirst has managed more than €1 billion in transactions across 100,000 transfers for 1,000 clients.
+
+But this foreign exchange service was just the first step. Now, companies can ditch their corporate bank account altogether. Ibanfirst has a banking license in Belgium and can operate in the European Union. In a few minutes, you can create a bank account on the startup’s website and receive an IBAN.
+
+Then, you can more easily accept payments in foreign currencies by sharing your IBAN with your clients and suppliers. Opening an Ibanfirst account is free. The company bills you exchange and other fees. Ibanfirst just wants to be more competitive than traditional banks with lower fees.
+
+Finally, Ibanfirst plans to add a wide array of services on top of these basic banking features — in particular, the startup plans to partner with other fintech companies.
+
+In the future, you can imagine integrations with payment processors, factoring services, debit cards and more. Ibanfirst already has an API so that you can integrate the company’s services with other services. In many ways, Ibanfirst’s approach reminds me of N26’sfintech platformapproach. While it’s still the very beginning of this platform approach, it could quickly become a good option for companies operating in the European Union.

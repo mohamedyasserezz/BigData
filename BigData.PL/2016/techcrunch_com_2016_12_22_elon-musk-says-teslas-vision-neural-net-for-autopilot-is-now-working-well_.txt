@@ -1,0 +1,19 @@
+Elon Musk says Tesla’s vision neural net for Autopilot is “now working well”
+
+Tesla is making progress towards its goal of making its latest cars fully self-driving, according to Elon Musk sharing some updates about the project, and about Enhanced Autopilot, the improved semi-autonomous driver assist system Tesla is planning to release in the near-term, before full autonomy is available. Musk addressed follower questions about Enhanced Autopilot’s progress on Twitter, including work on its new vision system, which is at the core of the Autopilot improvements.
+
+Tesla software team is working seven days a week to complete testing and validation. Getting close.
+
+— Elon Musk (@elonmusk)December 18, 2016
+
+Impatience from users is understandable – Tesla owners who’ve taken delivery of vehicles since the company announced that all cars made going forward would have everything they need hardware-wise to achieve full autonomy, but the catch was that new cars wouldn’t have Tesla’s existing Autopilot system, and would instead have to wait for Enhanced Autopilot to arrive.
+
+As its name implies, however, enhanced autopilot should indeed be better than its predecessor when it does arrive. Tesla says it will include speed matching with surrounding traffic, lane keeping, automatic lane switching, freeway merging and exit, along with self-parking and summoning on startup.
+
+Tesla Vision is a key part of making all of that possible, and that tech relies on image processing via an onboard neural net for object identification and avoidance. Musk noted in another tweet that progress on that part of the tech is “working well,” and that all the company now has to do is validate its effectiveness across a “wide range of environments” – and that means a lot of time spent driving with the system engaged in test vehicles.
+
+Tesla Autopilot vision neural net now working well. Just need to get a lot of road time to validate in a wide range of environments.
+
+— Elon Musk (@elonmusk)December 22, 2016
+
+It doesn’t sound like Enhanced Autopilot will be ready in time for the end of 2016, but it’s likely on track for early next year. And that’s good news for Tesla’s further self-driving plans, too, since Musk has targeted the end of 2017 for a cross-country test of fully automated Tesla driverless driving.

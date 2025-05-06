@@ -1,0 +1,19 @@
+Google and Udacity launch a new Android programming course for beginners
+
+Google wants more people to learn to program — especially for its Android platform. While the company already offered a few programming courses, they were typically geared toward students with at least some rudimentary programming experience.
+
+Starting today, theGoogle Android Basics Nanodegree classis available on the online learning platform Udacity. It’s the first Android nanodegree class designed by Google for people with no programming experience at all.
+
+“Google, in partnership with Udacity, is making Android development accessible and understandable to everyone, so that regardless of your background, you can learn to build apps that improve the lives of people around you,” Shanea King-Roberson, program manager at Google, said in a blog post.
+
+The new series of courses teaches how to build simple Android apps. Specifically, it covers layouts, interactivity, object-oriented programming basics, multi-screen apps, connecting to the Internet and data storage, among other topics.
+
+The course requires 165 hours, or about 4 hours a day for 42 days, to be completed.
+
+The first 50 students to complete the Android Basics Nanodegree will also be awarded with a full scholarship to continue the Career-Track Android Developer Nanodegree.
+
+All of the individual courses that make up this program are available online at no charge. Udacity also provides paid services, including access to coaches, guidance on your project, help for staying on track, career counseling, and a certificate upon completion.
+
+Google had already teamed up with Udacity to offera free course in Android development, but that class required a basic understanding of programming starting with lesson one.
+
+Since there are over 1 billion Android devices worldwide, the demand for basic apps to learn how to code in Android could rapidly increase.

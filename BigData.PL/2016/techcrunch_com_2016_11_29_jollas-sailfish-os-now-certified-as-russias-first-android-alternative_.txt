@@ -1,0 +1,79 @@
+Jolla’s Sailfish OS now certified as Russian government’s first ‘Android alternative’
+
+The future for one of the few remaining alternative mobile OS platforms,Jolla’s Sailfish OS, looks to be taking clearer shape. Today the Finnish company which develops and maintains the core code, with the aim of licensing it to others, announced Sailfish has achieved domestic certification in Russia for government and corporate use.
+
+In recent years the Russian government hasmade movesto encourage the development of alternatives to the duopoly of US-dominated smartphone platforms, Android and Apple’s iOS — flagging Sailfish as one possibility, along with Tizen. Although Sailfish looks to have won out as the preferred Android alternative for Russia at this point.
+
+The government has said it wants to radically reduce its reliance on foreign mobile OSes — to 50 per cent by 2025 vs the 95 per cent of the market garnered by Android and iOS in 2015.
+
+Sailfish’s local certification in Russia also follows an announcementearlier this yearthat a new Russian company, Open Mobile Platform (OMP), had licensed the OS with the intention of developing a custom version of the platform for use in the domestic market. So, in other words, a Russian, strategic ‘Android alternative’ is currently being built on Sailfish.
+
+Commenting in a statement, Pavel Eyges, CEO of OMP said: “We believe that open source based and independent Sailfish OS is the mobile OS platform of the future. It has great potential in Russia and elsewhere. Sailfish OS RUS is based on principles of participation and partnership, and we are actively recruiting partners and developer community members to take the initiative to new heights in Russia.”
+
+Unlike some alternative OSes Sailfish benefits fromcompatibility with Android applications— giving it a relative leg up on access to apps vs other (faltered) efforts, such as Mozilla’s Firefox OS, although Tizen also has some workarounds for accessing some Android apps.
+
+Jolla confirmed to TechCrunch its investor-base does include shareholders in its Russian licensing customer OMP, so the startup’s financing — whichran into trouble a year agowhen it failed to close a Series C in time (beforerecoveringand going on toclose a $12M round in May) — is evidently now very tightly tied to this shift in b2b strategy.
+
+A shift that is now de-emphasizing licensing to customers intending to sell Sailfish-powered devices to consumers, such asIndia’s Intex(always a high bar given how dominant Android remains with smartphone users globally); and emphasizing licensing customers intending to sell devices to corporates and governments (who may have more immediate/specialize data-security and government service integration needs, for example).
+
+Jolla says Sailfish was also recently added to the Unified Register of Russian Software for Computers and Databases — as a mobile OS platform approved for use in governmental and government controlled corporations’ upcoming mobile device projects.
+
+Chairman Antti Saarnio tells TechCrunch the certification process in Russia has been in train for close to one and a half years, with work beginning in Spring 2015. “It has been a very long, extensive project where we have been very much also focusing,” he says. “It started with the IT Ministry of Russia long-listed available alternative mobile operating systems. They ended up doing a technical analysis of two OSes: one was Tizen, the other was us, Sailfish  OS.
+
+“After a couple of months very thorough technical evaluation they selected our OS for further collaboration. What we then started was a joint R&D project with a local Russian organization to build an OS version of Sailfish into Russia so that government will have an independent OS but it’s supported by our overall code base.”
+
+“The Russian government has a list of software which can be seen as a national software and which are audited and certified, and in this list of software, our software is the only mobile OS software — currently,” he adds.
+
+Saarnio emphasizes that the Russian version of the OS will not be a fork of Sailfish. Rather the model is for Jolla to work with its licensing partners to develop custom versions that suit their particular needs, while it maintains the core code base that will remain tied to all versions.
+
+Nor is the aim to relocate Jolla to Russia to become the core alternative OS provider for just one non-US country; Jolla says it’s hoping to repeat this process elsewhere, in other BRICs nations, from its HQ in Finland.
+
+“Our role is to provide the operating system and keep it compatible for different operations… and make it efficient,” says Jolla CEO and co-founder Sami Pienimäki.
+
+“Essentially we maintain the open source and the open Sailfish, and keep releasing it and we always produce the latest release [to our licensing customers]. So our responsibility and role here is to make sure there is no forking of Sailfish here — but it happens exactly in collaboration together with our licensing customers. And this is the model that we believe that we can successfully also establish to other markets,” he adds.
+
+“What we now have is basically an actual country case where we have implemented an independent mobile operating system solution which is using our code base and which is part of our release approaches, and our understanding is that this is the only implementation existing in the world at the moment,” continues Saarnio.
+
+“In the situation where out of all the countries in the world I would say the big part of them are looking for an independent solution. And ways to implement it… Whether it’s Russia or any other country now we have a solution how to implement that… We want to have new customers, new countries and replicate the model we have now done already in Russia.
+
+“Imagine that some country is thinking that we need an own mobile OS in order to control our data — and they’ve been investing already in own private cloud and so on — direct question arises ‘ok, what is the timeline we can have this, and what is the estimated cost of investments?’. Those are very difficult questions normally but now we can show that in six months we can do this. We have actual implementation in one country and there’s a budget for this. So it’s a very concrete decision for the countries after this pilot.”
+
+Back inFebruary 2015the Russian Federation’s Minister of Communications and Mass Communications, Nikolai Nikiforov, made public remarks calling for the “de-monopolization of the global IT ecosystem” — initially aimed at encouraging local developers to support both Samsung’s Tizen platform and Jolla’s Sailfish via grants for porting apps to the platforms.
+
+In further comments inMay last yearNikiforov described Sailfish as “almost an international company”, noting that its shareholders include Finns, Russian and Chinese investors.
+
+“We think it’s necessary to develop alternatives to closed or closing mobile platforms based on open operating systems. We are ready to support such initiatives and we think that our partners from BRICS will also join us,” he added at the time. “We hope that strategic Indian, Brazilian and South African investors will also join Sailfish soon.”
+
+The regional closeness of Finland to Russia likely also played a part in Sailfish beating Tizen to the punch for the Russian government’s affections.
+
+“Sailfish is independent and open offering, not controlled by large corporates, and thus optimal for local collaboration and customisation,” says Pienimäki, responding to a question about why Sailfish has prevailed.
+
+The customization for OMP’s Russian version of Sailfish will include bringing in additional security features to the platform. The Sailfish platform already supports Russian so language localization is not necessary. “We are working… on security extensions,” says Pienimäki. “And making security enablers for the operating system that they can then further use to harden the OS for their customer needs.”
+
+Jollapreviously announcedan intention to partner with others to create a security-hardened version of Sailfish. Pienimäki says the work with OMP is an implementation of that plan.
+
+“We make it possible, we make enablers in the OS, we provide source code, transparency, licensing model and the one who typically implements the actual final solution is a local player who can apply with the local legislation and algorithms and such,” he says. “And also combine local technology — as we can understand in many countries such solutions are preferred to be based on local technologies.”
+
+The timeframe for any Sailfish-powered devices to arrive in the Russian market is not yet firmed up but Pienimäki suggests it could well happen in 2017. The process will start with pilot projects in government-controlled corporations, he adds.
+
+And while Saarnio says he remains confident that, over the longer term, consumers will also come around to seeking a privacy-focused alternative to Android, for now he concedes there is no mass market for Sailfish — and confirms there are currently no plans for Intex to do another Sailfish device (such as the one pictured above) — hence Jolla’s pivot of focus to b2b2b and b2b2g licensing partnerships.
+
+The company is also in talks with the Chinese and South African governments, at this point.
+
+“China is a more complex country to negotiate than Russia,” adds Saarnio. “But let’s say that this Russian example is giving already very, very concrete project proposal for China — and China clearly needs this kind of solution.
+
+“We are also talking in other BRICs countries. Also continue with South Africa discussions and negotiations. But of course as a company we don’t have a political agenda here — so we are happy to and very interested to discuss any country who has an agenda or need for independent OS.”
+
+On the funding front, he says Jolla is working on raising its next funding round but says its new business model focus has helped reduced its capital needs too.
+
+“Since we have changed out business model to more corporate licensing customers we have also got additional cash-flow… the company it not that equity heavy at all any more,” he adds. “But we of course need additional equity and we are working on that as well as getting new licensing customers and hoping that we are still turning to cash-flow positive with these new customers.”
+
+While Jolla describes Sailfish as ‘open source’ certain elements of the platform do remain propriety closed source. It does still intend to open source as much of these closed components as it can — but says a lack of resources continues to slow that process down.
+
+“We are working on that,” says Pienimäki. “We are currently looking for a step-wise model that we would be opening further in the application and the UI layer. We will share that plan in more concrete detail once we have it more fully available to be implemented. But that’s something we remain committed to.
+
+“As you can maybe see also from this collaboration model together with our licensing customers they also prefer a very much open source, collaboration type of a model in combination with the licence.”
+
+“Open sourcing is actually an investment from our side,” adds Saarnio. “It doesn’t happen in that way that we just simply open source the code and then think that everybody’s happy. We have to build support processes for this so that the community can actually make something meaningful out of the open source code.
+
+“And it’s not a small investment from our kind of a company… But we are committed on proceeding on the same path… But it has to be a carefully managed process — otherwise you don’t get any contributions.”

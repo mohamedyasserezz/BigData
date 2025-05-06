@@ -1,0 +1,25 @@
+A modern-day Renaissance: APIs fuel a cultural shift in businesses
+
+Since 2000,52 percent of the Fortune 500have gone bankrupt, merged, been acquired or fallen off the list for not keeping up with the ever-changing technology landscape.
+
+As software proliferates every corner of a business, IT is being crushed by project demands from business users who require applications and data to be always available and always connected. As a result, IT can no longer meet the demand by simply running faster on the hamster wheel. It’s impossible to keep up.
+
+For example, to match the pace of business required in today’s economy, General Electric (GE) is looking to embed technology in every function — from building and maintaining infrastructure to managing internal finances. To that end, the companycreated GE Digitalin September 2015 to grow the company’s software and analytics business from $6 billion to a top 10 software company by 2020.
+
+GE understands that to survive in today’s world of cloud, mobile, IoT and big data, central IT needs to evolve and operate under a new model that caters to evolving business needs. The new operating model requires a two-speed approach to IT and the business, as GE Digital CEO Bill Ruh noted in an interview withThe Wall Street Journal.
+
+GE needs to act as a nimble startup by offering intuitive software and services yet still support traditional business units that move at a slower pace. This isn’t the traditional “we’re a startup within a large organization” slogan. GE is creating a new way of operating at the core of its business.
+
+This new operating model requires IT to build reusable, self-service assets and infrastructure to avoid reinventing the wheel every time a project is delivered. Application programming interfaces (APIs), which are well-defined interfaces that allow diverse systems and software to talk with each other, are the key ingredient that brings everything together in an application network.
+
+As a result, GE Digital built its cloud-based platformPredixto connect machines, data and people in real time for intelligent insights. For example, an airline company can regularly monitor machine and equipment health on the Predix platform and establish a proactive maintenance schedule to ensure safety, minimize downtime and extend asset life. By combining the physical and digital worlds, the 124-year-old GE is adapting its operating model with APIs to meet market demands and innovate more quickly than competition.
+
+This new operating model also encourages businesses to become ecosystems, where developers both inside and outside the organization can build new value on existing capabilities. For instance, by giving outside developers free access to its APIs, Expedia Affiliate Network (EAN) allows its partners to directly access its technology platform and pull hotel rates, creating convenient user experiences and new revenue channels across third-party websites. Operating in this open, collaborative way, Expediagenerates90 percent of its revenue through APIs.
+
+Additionally, at the end of 2014, 200-year-old Citi launched a public virtual accelerator calledCiti Mobile Challengeand invited outside developers to solve financial problems with its production APIs and test data. With pressure from consumers to match the convenient services being offered by agile fintech startups, such as mobile apps and fingerprint touch ID, Citi isrestructuringits operating model and empowering developer ecosystems to innovate as quickly as a startup, while maintaining its core business. For this reason, it’s not surprising that a month after GE Digital was announced, Citilauncheda mobile-centric division called Citi FinTech.
+
+What’s great about APIs is they don’t require an understanding of how the system on the other side actually functions, allowing business users to self-serve. As a result, APIs are igniting a cultural movement that shifts IT away from delivering narrow projects to the business, and toward delivering reusable capabilities that enable business users to deliver their own projects in their own way.
+
+APIs and connectivity are becoming the de facto way for IT to provide quick access to data and assets. These APIs can be packaged in a way to make them consumable by many different business units, allowing them to self-serve data and capabilities as needed. It enables a broader audience of business users to access the things they need for analytics, applications and process automation. This philosophical shift away from IT as a technology provider to a strategic business enabler is key for any organization looking to match the speed and agility required in today’s economy.
+
+After all, today’s modern-day Renaissance is being fueled by binary code instead of literature, APIs instead of paint brushes and operating models instead of political structures. It’s time for organizations to rethink what success looks like and how they can get started with their own digital and cultural transformations.

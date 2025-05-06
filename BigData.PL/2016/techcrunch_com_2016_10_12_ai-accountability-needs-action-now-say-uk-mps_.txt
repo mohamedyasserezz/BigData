@@ -1,0 +1,67 @@
+AI accountability needs action now, say UK MPs
+
+A UK parliamentary committee has urged the government to act proactively — and to act now — to tackle “a host of social, ethical and legal questions” arising from growing usage of autonomous technologies such as artificial intelligence.
+
+“While it is too soon to set down sector-wide regulations for this nascent field, it is vital that careful scrutiny of the ethical, legal and societal dimensions of artificially intelligent systems begins now,” says the committee. “Not only would this help to ensure that the UK remains focused on developing ‘socially beneficial’ AI systems, it would also represent an important step towards fostering public dialogue about, and trust in, such systems over time.”
+
+The committee kicked off an enquiry into AI and robotics this March, going on to take 67 written submissions and hear from 12 witnesses in person, in addition to visiting Google DeepMind’s London office.
+
+Publishing itsreport into robotics and AItoday, the Science and Technology committee flags up several issues that it says need “serious, ongoing consideration” — including:
+
+“[W]itnesses were clear that the ethical and legal matters raised by AI deserved attention now and that suitable governance frameworks were needed,” it notes in the report.
+
+At this stage the committee is recommending the government establishes a standing Commission on Artificial Intelligence aimed at “identifying principles to govern the development and application of AI”, and also to provide advice and encourage public dialogue about automation technologies.
+
+“While the UK is world-leading when it comes to considering the implications of AI, and is well-placed to provide global intellectual leadership on this matter, a coordinated approach is required to harness this expertise,” it adds in the report summary.
+
+Algorithms, ethics and accountability
+
+In asection on ethical and legal issuesarising from deploying AI, the committee points to decision-making transparency as one of the core challenges, noting that it is “currently rare” for AI systems to be set up to provide a reason for reaching a particular decision. So, in other words, AI systems are not typically being built to show their workings — which therefore makes extracting a rationale for an AI-powered decision problematic.
+
+Yet it notes a number of witnesses supporting “a push towards developing meaningful transparency of the decision-making processes”.
+
+At the same time, it points out the EU’s incomingGeneral Data Protection Regulation(GDPR) — which comes into force for EU Member States in 2018 — creates a “right to explanation” for users, whereby they will have the right to ask for “an explanation of an automated algorithmic decision that was made about them”, thereby underlining the legal imperative to build decision-making accountability into AI systems sooner rather than later.
+
+On a section on ‘minimizing bias’, the report also notes the GDPR includes safeguards against discriminatory, data-driven ‘profiling’. Yet on this the committee writes: “It is not clear how much attention the design of AI systems — and the potential for bias and discrimination to be introduced — is receiving.”
+
+Another section, on ‘privacy and consent’, touches on specific challenges arising where AI is being applied to healthcare data, noting data-sharingcontroversy this year following Google DeepMind’s collaboration with NHS Trusts.
+
+Here the committee notes one of its witnesses emphasizing the need for “appropriate management of data to make sure that it is ethically sourced and used under appropriate consent regimes”, and another talking about the need to develop “intelligent privacy” in order for AI to “work successfully for us as a society”.
+
+A longer section of the report considers ‘accountability and liability’, with the committee saying it remains unclear whether new legislation will be needed to manage the operation of technologies such as autonomous cars, or whether legal questions can be left to courts to decide by building up a body of case law. Although The Law Society weighs in on this idea, pointing out that applying legal principles “after the event” can be “very expensive and stressful for all those affected”.
+
+In this section the committee also describes accountability for the operation of autonomous weapons and lethal autonomous weapons systems as “critically important” — as you’d hope.
+
+The report goes on to suggest that a secure regulatory environment might help to build public trust in automation technologies, with one witness pointing to commercial aircraft as a successful example to follow. Although others warn that over-regulation risks stifling innovation in emerging tech areas.
+
+On the question of who should be involved in identifying and establishing suitable governance frameworks for robotics and AI, the committee notes witnesses emphasizing inclusivity across a broad range of interest group as key to developing an effective oversight regime.
+
+Commenting to TechCrunch on the various challenges of auditing how AI operates, Adrian Weller, a senior researcher in theMachine Learning Groupat the University of Cambridge, agreed there are “difficult issues” to tackle, but also argues that increasing attention is being paid to the ethics and accountability of AIs.
+
+“There is rapidly growing focus on such important topics, for example see thewebsitefor the newLeverhulme centre for the future of intelligence in Cambridge,” he notes. “Also see upcoming workshops/symposia at the important machine learning conferenceNIPS. I’m involved there with one on ML and the Law (privacy, liability, transparency and fairness), one on Reliable ML in the wild, and one on interpretability of algorithms.”
+
+Giving a view from outside academia, author and data science consultantCathy O’Neil, who has writtena book on how big data can increase inequality, argues that the most pressing challenge is not so much how to audit algorithms but how to get technologists to agree algorithms need to be audited.
+
+“The number one thing is that data scientists and technologists do not acknowledge the problem at all. They don’t even acknowledge that you can build bias into AI. They also don’t acknowledge any responsibility that they might have due to the influential algorithms that they deploy,” she tells TechCrunch.
+
+“If you talk to a Facebook engineer, or a Google engineer they don’t really acknowledge the feedback loops that they engender with their algorithms. There’s really no responsibility that’s been assumed by the most powerful among us technologists.”
+
+O’Neil has launcheda company aiming to conduct algorithmic auditsfor others, though she notes that she does not yet have any clients.
+
+“We don’t have any tools yet. That’s why I started my company because we need to develop tools,” she continues. “And I need clients because I don’t have access to the data… It would be much easier for one of the companies that is building the AI that’s deciding whether someone deserves a job or not to develop these tools because they actually have all that data.
+
+“It’s impossible to audit these algorithms unless you have access to the actual algorithms and the data going into them.”
+
+“Everybody has bias at all times, the question is whether the bias embedded in it is the bias we want there,” O’Neil adds.
+
+Shifting digital skills
+
+The Science and Technology committee report also considers the implications of increasing automation on the jobs and skills landscape in the U.K., criticizing the government for a lack of leadership in the area of digital skills, and urging the publication of its long delayed Digital Strategy.
+
+On this topic the committee argues that while there is no consensus on the impact of AI and robotics on the domestic workforce — in terms of how jobs might change, or be destroyed, or created — it says there is “general agreement” that much more attention needs to be paid to adapting education and training systems to update skills to mesh with emergent technologies.
+
+“The Government must commit to addressing the digital skills crisis through a Digital Strategy, published without delay,” the committee writes.
+
+The report is also critical of a lack of leadership across robotics and autonomous systems (RAS) — an area the prior Conservative-led administration identified as a priority for the U.K., back in 2012 — with the committee pointing out the government has yet to establish a RAS Leadership Council that was promised in March 2015.
+
+“This should be remedied immediately and a Leadership Council established without further delay. The Leadership Council should work with the Government and the Research Councils to produce a Government-backed ‘National RAS Strategy’, setting out the Government’s ambitions, and financial support, for this ‘great technology’,” the committee adds.

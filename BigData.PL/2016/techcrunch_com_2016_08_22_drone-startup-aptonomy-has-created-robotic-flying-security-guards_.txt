@@ -1,0 +1,37 @@
+Drone startup Aptonomy introduces the self-flying security guard
+
+Aptonomy Inc.has developed drone technology that could make prison breaks, robberies or malicious intrusions of any kind impossible for mere mortals.
+
+Dubbing it a kind of “flying security guard,” the company has built its systems on top of a drone often used by movie-makers, theDJI S-1000+, a camera-carrying octocopter.
+
+To that skeleton, Aptonomy adds a new flight controller, and second computer to power day- and night-vision cameras, bright lights, and loudspeakers, among other things.
+
+And more importantly than the hardware features, Aptonomy has developed artificial intelligence and navigational systems that allow its drones to fly low and fast, avoiding obstacles in structure-dense environments, and detecting human activity or faces in the area, autonomously.
+
+A user can open up a browser, get onto the Aptonomy interface, click on a point on a map to send out a drone to a particular location, then watch that flight in real time, or review a recording of it later.
+
+Aptonomy’s drones can be programmed to fly wherever a motion detector transmits data suggesting unusual activity on the ground, as well.
+
+The drones are not just self-flying. When their batteries are running low, they fly back to a charging station to power up.
+
+Aptonomy co-foundersMihail PivtoraikoandSiddharth Sananare well-known in the industry already. Both attained doctorates from the Robotics Institute at Carnegie Mellon University prior to starting Aptonomy.
+
+Pivtoraiko previously worked at NASA, Jet Propulsion Laboratory, Lockheed Martin and Intel. And Sanan’s soft robotics and human-robot safety research was the inspiration behind the robot Baymax in Disney’sBig Hero 6.
+
+The duo is part of the currentY Combinatorbatch of startups, and have raised some seed funding through the accelerator.
+
+They explained that most unmanned aerial systems in commercial use are being used from hundreds of feet in the air to do things like thermal or topographic mapping at this point. But those drones can’t perceive human faces, like security guards must.
+
+Meanwhile, prosumer camera drones that fly lower don’t have the motion controls and perception required to navigate safely, and without a human pilot, around complex environments like a nuclear power plant, cell towers or a supermax prison.
+
+Aptonomy’s drones rove over a set area, and can be accessed by a guard who is hundreds or thousands of miles away.
+
+They can record suspicious activity, shine a light on intruders, allow two-way communication with the intruder through loudspeakers, and generally scare off potential troublemakers as an intimidating presence in the air.
+
+One energy company has preordered Aptonomy’s drones to use at oil refineries this year. “Refineries are in remote locations and are very hard for human security guards to patrol. But they are a target for attacks,” Pivtoraiko noted.
+
+The startup believes that businesses with lots of infrastructure-related assets will want to use their drones to supplement, or even replace, their human patrols.
+
+One thing businesses with deep security concerns will like most about Aptonomy’s drones, Sanan said, is that they can be programmed to approach intruders in a way that is compliant with all relevant laws and protocols.
+
+That involves shining a light, recording if possible, and using your voice before ever approaching an intruder, physically, or before escalating to physically stop him or her.

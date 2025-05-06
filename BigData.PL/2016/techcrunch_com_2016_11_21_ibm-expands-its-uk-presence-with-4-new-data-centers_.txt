@@ -1,0 +1,15 @@
+IBM expands its UK presence with 4 new data centers
+
+IBMtoday announced that it is launching four new data centers in the U.K. This brings IBM’s total data center footprint in the U.K. to six, in addition to 16 other locations across Europe.
+
+This is yet another example of the company’s increasing infrastructure investment. The first of these new U.K. locations in Fareham will go online in December, with the other three U.K. locations launching next year. As an IBM spokesperson told me, IBM isn’t building its own data centers, though. It’ll lease raw space and build out its own infrastructure (electrical, networking, compute, storage, etc.) in these leased spaces.
+
+The last new data center IBM opened in Europe was its Oslo location, in September, but the company also recently expanded its presence in Asia with the launch of its Korean data center in August. In total, IBM’s cloud services are now available in 50 data centers.
+
+IBM is betting on a number of different brands for these data centers. Its Watson cognitive services, for example, are only one of hundreds of different services that run in its data centers. Under the SoftLayer brand, it also offers more basic cloud servers and storage solutions, as well as itsBluemixplatform as a service offering. But there is also the OpenStack-basedBlue Boxprivate cloud as a service and aplethora of other servicesthat run on those different platforms.
+
+Looking at IBM’s cloud portfolio can quickly become overwhelming, but it’s also driving a good bit of IBM’s revenue. In its third quarter, cloud revenue grew to $12.7 billion. In the U.K., its marquee customers include the likes of Wimbledon, Dixons Carphone, Shop Direct, National Express and, as the company announced today, tour operator Thomson.
+
+It’s worth noting that IBM’s second new data center in the U.K. will operate out of an Ark data center.Ark Data Centresis a join venture between the U.K. government and the public sector. This will likely increase IBM’s footprint in the public sector in the U.K., as well.
+
+“By adding four new Cloud data centres in the UK, IBM is giving local businesses an easy route to the cloud, helping them quickly innovate and respond to market demands,” said Robert LeBlanc, senior vice president of IBM Cloud, in a canned statement. “IBM is continuing to invest in high growth areas, offering clients higher-value cloud data services such as Watson and Blockchain running on our cloud infrastructure that delivers world-class scalability, performance and security.”

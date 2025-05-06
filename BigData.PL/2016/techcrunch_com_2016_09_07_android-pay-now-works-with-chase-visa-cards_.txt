@@ -1,0 +1,21 @@
+Android Pay now works with Chase Visa; mobile web coming soon
+
+Consumers in the U.S. (and UK) today are getting another opportunity to lighten their wallets a little more. In the U.S., Chase Visa credit and debit cardholders can now load up and use their accountsvia Android Pay. And in the UK, Android Pay now integrates payment cards from Santander and TSB.
+
+The news comes ahead of Android Pay finally making its way to the mobile web, which will come first to Chrome and appear initially on Groupon, 1-800-Flowers.com and a select group of other sites. Google says the first non-app appearances of Android Pay will be “soon.” Interesting timing for the news, given that today is Apple news day.
+
+Meanwhile Android Pay continues to expand its network of retailers for loyalty and reward programs to grow its ubiquity.
+
+Afteradding Walgreenslast month as its first non-banking integration, today Google said it would become the first mobile wallet to work with Payment Rewards, Uber’s own new loyalty program that was firstannounced in June. Those who pay for Uber using Android Pay will get half off 10 Uber rides until October 15. (Android Pay already worked with Uber to pay for basic rides.)
+
+The new integrations weremade officiala little earlier although some were spotting signs of the Chase integrationearliertoday.
+
+As with other card integrations, Android Pay brings security to the transactions by way of tokenization to mask the account number. Users will also be able to use Android Pay to track their purchases.
+
+Using it comes with two steps. For example, for Chase Visa users, you open the Android Pay app using an NFC-enabled handset on KitKat 4.4 or later; and you add/verify a Chase Visa credit or debit card by way of a photo. You can then use the app to make purchases charging them to the Chase Visa.
+
+It’s an integration that is, in one sense, a long time coming.Apple PayandSamsung Pay, two mobile wallet alternatives to Android Pay for their respective handsets, have been working with Chase Visa for some time now, and Chase has its ownChase Payinitiative. In the UK TSB and Santander also had existing integrations with Apple Pay.
+
+Adding Android Pay into mobile web services is an interesting move by Google. As we pointed out last week, smartphone apps now account for more than half of the time that Americans spend online — a stat that should be a concern to Google, which is cut out of the value chain for advertising when users are not going through the web and search engines. Therefore, adding in more features into mobile web usage — such as the ability to pay using Android Pay on mobile web sites and services — could be one step to wooing people away from their app silos.
+
+Mobile wallets more generally are still a relatively new thing. EMarketerprojectsthat by the end of this year, 19% of smartphone owners in the U.S. will be using proximity-based payments by way of mobile wallets, with total transactions of $27.05 billion. Chase Visa integration could represent a significant leap in usage, as it is the largest bank in the U.S. and the sixth largest in the world in terms of assets (Wells Fargo beats it in market cap).

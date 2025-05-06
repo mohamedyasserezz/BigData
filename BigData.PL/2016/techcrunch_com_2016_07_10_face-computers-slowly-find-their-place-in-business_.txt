@@ -1,0 +1,43 @@
+Face computers slowly find their place in business
+
+Remember Google Glass? How could you not? Born with great fanfare just four short years ago, the device quickly became the object of derision. People who wore them were “Glassholes.” There were hyper-privacy concerns related to wearing a head-mounted camera, and even theGlass Explorer program, which limited availability, seemed to contribute to the disdain people felt.
+
+Google finallyshut down the Explorer programin January, 2015 and it was easy to think that’s where it all ended. Yet, even though many seem to have hated the device, business was another matter. Google and other smart glasses manufacturerssaw an opportunity in the enterprise, where having a device that projected information in front of your face with your hands-free, had great utility — essentially a computer on your face.
+
+The smart glasses we’re seeing today aren’t just from Google. Companies likeVuzix,Atheer,ODGandMicrosoft Hololens, among others, are also making hardware with an eye toward business.
+
+The main player on the software/operating system side seems to beAPX Labs, a startup that’s developed a hardware-agnostic platform on top of which companies can build customized smart glasses applications and connect them to back-end enterprise systems.
+
+It’s important to keep in mind that we are truly in early days for these systems, and while some large companies see potential, they are still very much feeling their way with small projects — and there are still many obstacles to wider adoption.
+
+Today, while smart glasses aren’t exactly common place inside business settings, some large companies like Boeing, GE and VW are conducting pilots to learn how to make the best use of them. This could involve someone working on a shop floor dealing with intricate installation instructions or an oil and gas employee trouble- shooting a complex repair.
+
+Sure, you could use a tablet or laptop and pull up instructions, but consider how useful it would be to conduct voice searches, while keeping your hands free as the information you need to conduct a repair is projected in front of your eyes, guiding you through a process, sometimes even “lighting up” the relevant parts.
+
+That’s what smart glasses bring to the table.
+
+Angela McIntyre, who covers the smart glasses market for Gartner says market size numbers are very preliminary, but by 2020 her firm expects the combined market for head-mounted displays to reach around 40 million units. This could include everything from virtual reality headsets like Oculus Rift and Google Cardboard to augmented reality tools like Hololens and smart glasses like Google Glass and the Vuzix M300. Of that, she predicts roughly 40 percent will involve purely business use cases.
+
+McIntyre sees business use cases breaking down into roughly three categories. It’s important to keep in mind these are primarily ideas based on what she’s been seeing and additional scenarios could develop over time. In fact, Paul Boris, head of manufacturing industries at GE Digital, who is running their smart glasses pilots says interest has been brisk with over 100 applications for pilots in his organization. He has kept it limited for now while they figure things out, but hopes to accelerate over time.
+
+One scenario involves simply using the glasses as a head-mounted camera to take a picture or video of what you’re seeing, while keeping your hands free, and sharing it with an expert back at the office who can help identify the nature of the problem and guide you through the repair. McIntyre says this is the most cost-effective way to get started with smart glasses, but it is a limited use case.
+
+The next level involves projecting written instructions, a picture or video to explain a process without human help. Each job can be broken down into discrete steps, where you can’t move to the next step until you complete the previous one, ensuring the job is done in a precise and organized fashion. You can use a voice command to advance to the next instruction or to look up parts or procedures. In this case, the software is linked to back-end systems to deliver the correct information at the right time. While this type of application has the potential to deliver greater efficiency, it could take longer and be more expensive to develop.
+
+This isprecisely what Boeing is doing in its pilot projectthat assists technicians building intricate wire harnesses for jets. This involves inserting the correct wires into connectors, which can be quite detailed. Instead of constantly looking up and down from a laptop for the next instruction, using smart glasses, technicians can keep their hands on the wires and the connector while the smart glasses application guides them to the correct hole, providing a much more efficient way of working.
+
+Finally, using augmented reality, the glasses could project an animated image overlaying what the employee is looking at. This can help guide them on how to fix or assemble something such as a dashboard or an air conditioner repair, highlighting the appropriate part at the right time. McIntyre sees this as an outlier case for the time being, but as the hardware advances, we could see more of this type of application.
+
+Coming up with a logical use case is only the first step. It gets much more complicated when your use case involves connecting to various enterprise systems. GE’s Boris sees this as the single biggest obstacle to widespread use of smart glasses in the enterprise today. As soon as people figure out how to get data from a variety of complex back-end systems in a more efficient way, it should open up the usage, but it remains a big stumbling block for now.
+
+The Boeing wire harness example involves accessing multiple systems across the various organizations that make up Boeing, creating layers of complexity. Often these are older legacy systems that weren’t built to play nicely with others, forcing a long and costly data conversion to make them work with a modern smart glasses application.
+
+APX Labs is trying to solve this problem by being the underlying platform that connects the application to the headset and to the various external systems, but it’s not a simple matter and there is a fair bit of work that goes into making these connections work.
+
+McIntyre points out that it’s not just technical issues holding back smart glasses. There are also issues with the glasses themselves, which haven’t necessarily been designed to wear comfortably over an 8 hour shift. Battery life is still a challenge too, especially with resource-intensive applications. Some companies have to consider health and safety regulations where a face shield could be required as part of the smart glasses design before they could even consider using them. What’s more, manufacturers are still figuring out how to deal with smart glasses in combination with prescription eye wear, she pointed out.
+
+Like all new technology, over time the hardware and the software will evolve, and some of these issues will be resolved, but it’s an on-going process.
+
+APX Labs CEO Brian Ballard says that beyond all of this, the real challenge is finding use cases where smart glasses really save customers time and money. If you can take a picture with your smartphone or tablet, you might not get much bang for your buck by going with a smart glasses solution. He says companies have to be intelligent about finding good use cases where having your hands free gives you a significant productivity boost.
+
+For now, smart glasses are just beginning to find their way in business, but it’s clear that for certain jobs they could be truly transformative technology if they can find ways to overcome the current limitations.

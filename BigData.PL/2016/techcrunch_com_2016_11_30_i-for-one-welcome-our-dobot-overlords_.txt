@@ -1,0 +1,17 @@
+Dobot is crowdfunding a robot that laser-engraves, 3D prints and much more
+
+Robotic arms seem like they belong in Sci-Fi movies, car factories and the dreams of DIY nerds.Dobotwants to change that, witha shiny new Kickstarter campaign bringing entry-level robotics to the desktop. The robot is extendable and can be equipped to deal with any number of tasks, including cutting, moving, printing, picking-upping, soldering and a ton of other -ings.
+
+Dobot M1 started at $999, but by the time you’re reading this, the five lucky super-early-bird backers have already snapped up the bargain-basement editions. The current cheapest version costs $1,399, but the price will raise again in another 40 units or so.
+
+The robot comes with two toolheads included with the base package, with a choice from a 3D printer head, a 4th axis attachment, a laser engraver, suction cup or gripper hand. Additional toolheads can be added for $80 a pop. There’s also a series of advanced tools available, including a $200 3D mouse. And $600 buys you a visual kit (which adds computer vision to the robot), a soldering kit (enabling the robot to do soldering for you!) or a rail attachment that increases the range of the robot.
+
+For a cool $6,099, you can buy a full mobility platform that turns this cute little robot into the ultimate cat-terrorizing device. Or, y’know, I suppose you could use the mobility platform for good rather than for evil.
+
+The robot can be programmed in a number of ways. You can put it into learning mode and you can grab its head and move it around — the robot records the movements and repeats them until it gets bored. Which, given that it’s a robot, might take a while. It also comes with a number of programming tools, APIs and SDKs, meaning that if you know how to code, you can probably figure out how to program the robot to do your bidding.
+
+Nobody’s going to argue that robots aren’t awesome, but as this is a Kickstarter campaign, the company is still facing quite a few hurdles before it is ready to ship.
+
+Dobot M1 isn’t the first robotic arm to find its way onto Kickstarter.FLX.ARM raised $83,000and was scheduled to ship in  January 2015,but wasn’t able to get its robots to backersuntil July/August this year.Makerarm raised $440,000 earlier this yearand was scheduled to ship in October, but has alsorun into a series of delays.
+
+The Dobot company has shipped several robots in the past, mostly aimed at educational use, including the$1,200 Dobot Magicianand the$900 Dobot Arm v1.0. Dobot’s M1 is the company’s first robot aimed at light manufacturing.

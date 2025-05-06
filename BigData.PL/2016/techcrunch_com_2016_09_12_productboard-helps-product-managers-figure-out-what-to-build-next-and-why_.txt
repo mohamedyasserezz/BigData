@@ -1,0 +1,37 @@
+ProductBoard helps product managers figure out what to build next… and why
+
+ProductBoardtoday is launching a service for digital product managers that helps them better organize user research and determine which features deserve priority. Making its public debut atTechCrunch Disrupt San Francisco, this product management platform is already being used by over 100 paying customers during its beta to establish their product roadmaps and collaborate with engineering teams on their upcoming feature releases.
+
+Product managers today take input from a variety of channels when determining what to build next — for example, customer support tickets, emails, input from sales teams or even direct user research. But when it comes to organizing all this information in a coherent fashion, they still often turn to more generalized tools, like spreadsheets, Google Docs, note-taking apps or wikis to make sense of it all.
+
+ProductBoard, however, is designed specifically for organizing, aggregating and prioritizing a long list of features that need to be built.
+
+The service works with systems where product feedback is initially collected, such as Zendesk, Intercom and others. It also includes a Chrome extension for grabbing snippets from the web, can collect information you send in via email and works with Zapier for further connections to third-party apps.
+
+These feedback requests are then centralized in one interface, and can then be linked with the feature they would inspire.
+
+That is to say, ProductBoard lets you see who’s asking for the change, why the feature is necessary, what problem it solves and more. It also uses an algorithm that sums up the feature requests in its system to help product managers understand the problems those features would solve, and how they’re associated with the larger strategic drivers for the company.
+
+PM’s can then organize the features into a hierarchy directly in the app to help them visualize their priorities based on the data at hand. A user impact score is also displayed in the app’s right-hand column, which helps the business better determine how to rank which items to build before others.
+
+And when it’s time to actually begin the work of building the features themselves, ProductBoard integrates with the various systems engineering teams to do track their work — like Trello, Pivotal Tracker or Atlassian’s JIRA. In addition to sending data from ProductBoard to those systems, the service supports two-way sync so you can also see the feature’s current development status in ProductBoard.
+
+The idea for the startup comes from co-founder and CEOHubert Palan’sown background in product management. He has an MBA from Berkeley and master’s in computer science from Czech Technical University, and moved to the Bay Area where he later became employee No. 6 at business intelligence platform GoodData.
+
+Over several years at GoodData, he went from a junior PM role to become VP of product management, while the company itself grew from a small team of six to some 300 employees and raised $100 million in VC backing.
+
+There, Palan says he personally experienced the pains involved with product management today.
+
+“As product managers, designers and people who make product decisions, we have really been using tools designed for the delivery — engineering tools,” explains Palan. “They were all designed to help you build [the features]… There’s no concept of ‘customer,’ or of the problem or need that the product is solving. It doesn’t even exist in the user interface,” he says.
+
+These systems simply host long lists of features, but there’s nothing that helps you prioritize what should be at the top of the backlog, Palan adds.
+
+“The whole business side of it — who is it important to, why is it important, what problem does it solve? — they don’t help you with that at all,” says Palan.
+
+A Software-as-a-Service (SaaS) platform, ProductBoard offers tieredpricingbased on feature set, like which integrations (e.g. Pivotal Tracker, JIRA, Zapier, etc.) are supported. Pricing starts at $24 per month, and is then $99 per month for the “startup” plans. For larger companies, custom pricing is available.
+
+The service quietly entered public beta in October, but is today making its official public debut.
+
+Among its customers are Envoy, Avast, Shopkeep, BambooHR, Marqeta, Sprout Social, Trifacta, Striim and DotMailer.
+
+The San Francisco-based startup, also co-founded by CTODaniel Hejl, recently raised seedfundingin the form of convertible notes fromRockaway Capitaland others.

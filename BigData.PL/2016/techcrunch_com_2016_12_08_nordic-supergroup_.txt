@@ -1,0 +1,13 @@
+Edtech startup Peergrade picks up backing from a supergroup of Nordic angels
+
+Peergrade, a startup out of Denmark that enables students to grade each other’s work, has raised a modest $300,000 in seed funding. However, more newsworthy are its new backers. They comprise UK edtech acceleratorEmerge Education, andNordic Makers— which might be best described as a supergroup of Nordic angels.
+
+Unveiledthis September, the latter comprises the likes of David Helgason (founder of Unity), Klaus Nyengaard (former CEO of Just Eat), and Hampus Jakobsson (co-founder of TAT, the mobile UI company acquired by Blackberry). That’s in addition to a host of other notable founders and investors in the Nordic region.
+
+Meanwhile, I’m told that Peergrade has made significant progress since we originally profiled the then bootstrapped company. It is now used by all of the major universities in Denmark, along with a number of other paying customers in Denmark, Sweden, Norway and Finland.
+
+A quick recap of the Peergrade platform, which is designed to facilitate peer feedback and peer grading within university courses. It lets teachers set an assignment and grading criteria, and invite students to upload their completed work to Peergrade, such as in the form of a Word document or YouTube video. The platform then distributes those assignments to different students who are charged with actually carrying out grading and giving feedback.
+
+Key to this is the platform’s use of “advanced statistical models” to estimate what would be a fair grade and to help eliminate peer bias. It also employs natural language processing for inferring the quality of text feedback between students.
+
+“This enables teachers and students to trust the system, get and give fair grades and gain insight into their course,” Peergrade’s co-founder and CEO David Kofoed Windtold me back in May.

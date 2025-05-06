@@ -1,0 +1,15 @@
+MIT’s DuoSkin turns temporary tattoos into on-skin interfaces
+
+[vimeo 178334883 w=800 h=450]
+
+Your next tattoo could be functional as well as aesthetic. A new MIT Media Lab productcalled DuoSkincreated in partnership with Microsoft Research turns temporary tattoos into connected interfaces, letting them act as input for smartphones or computers, display output based on changes in body temperature and transmit data to other devices via NFC.
+
+Cindy Hsin-Liu Kao, PhD Student at the MIT Media Lab, explains the origins of the project in the video above. Kao says that metallic jewelry-like temporary tattoos are a growing trend, providing a great opportunity for creating something that meshes with existing fashion while also adding genuinely useful functional capabilities. She notes that in Taiwan, there’s a “huge culture” of cosmetics and street fashion, which is affordable and accessible enough that “you can very easily change and edit your appearance whenever you want.” The DuoSkin team wanted to achieve the same thing with their technological twist on the tattoo trend.
+
+As a result, the system is actually designed to be fairly inexpensive and easy to set up for just about anyone. It uses gold leaf, the same thing you’ll occasionally find delicately flaked atop swanky desserts, for basic conductivity, but otherwise employs everyday crafting materials like a vinyl cutter and temporary tattoo printing paper. You can use any desktop graphics creation software you like to design the circuit, then feed that design through the vinyl cutter, layer the gold leaf on top and apply it as you would a standard temporary tattoo. Small, surface mount electronic components including NFC chips complete the connectivity picture.
+
+Researchers devised three different ways in which the DuoSkin tattoos could be used, including as input devices that can turn your skin into a trackpad, or a capacitive virtual control knob for adjusting volume on your connected device, for example. The tattoos can also display output, changing color based on your body temp like a Hypercolor T-shirt. Finally, they can contain data to be read by other devices, via NFC wireless communication. Kao also shows how they can contain embedded LEDs for on-skin light effects.
+
+Kao ends by suggesting they’d like to see this tech come to tattoo parlours, so it’s easy for anyone to get connected ink. It’s definitely something that could further the use cases and value appeal of wearable tech as a category, especially among price sensitive customers who place a high value on aesthetics and don’t want to have to wear a watch or other more cumbersome piece of tech.
+
+Startups likeInkbox are already working on material science advancementsthat extend the life of temporary tattoos, too, so there could be a collaboration opportunity down the road that gives people access to tattoo-based interfaces that don’t last forever, but don’t wash off overnight, either.

@@ -1,0 +1,23 @@
+Wonder is a bot that will remember anything for you
+
+Quick! What’s your gym locker combination? Your girlfriend’s favorite Starbucks order? The type of ink your printer uses? Can’t remember? Gotta look it up? There’s a lot of information that we can’t access via a Google search, but instead tend to make a mental note of in order to recall. Sometimes, we might jot these things down in Notepad, but often we forget to do that, too. A new bot calledWonderwants to help by remembering anything you want, then return the information you need via a text message.
+
+It’s a pretty simple but clever idea. After you go tothe Wonder websiteand provide your phone number, the bot sends you a text that explains how it works.
+
+Basically, you just text Wonder the information you’ll need to recall at a later date, and it stores that for you in its system. When you’re trying to later remember something, you just text Wonder a question, like “Who’s our company’s dental insurance provider?,” “When’s the next company meeting?,” or whatever other information you’ve previously fed into it by way of text message. The bot will promptly respond with the answer.
+
+The idea for Wonder comes from University of Arizona student Jordan Singer and grad Shivkanth Bagavathy, who works full-time at Recruiting Ventures in Scottsdale, Arizona. The two team up together on anumberofprojects, many of which make their way over to Product Hunt,as the Wonder bot did recently.
+
+Shivkanth says the inspiration for the bot was an article about howSiri’s best feature is its reminders, but how that could be so much better if the virtual assistant could actually remember things for you, too.
+
+“It occurred to us that note taking was not the solution, because it’s just not the right interface. Search becomes cumbersome after a point,” explains Shivkanth. “Natural language and A.I. are becoming much more of a thing, and a bot felt like the perfect way to interact with this sort of product. It’s an incredibly simple way to remember things you forget often,” he says.
+
+The two built the bot using Ruby on Rails, Nodejs, Twilio for texting, and Wit.ai for natural language processing and machine learning. This is combined with their own parsing and string similarity algorithms. Plus, Wonder uses machine learning model, so the system will get better over time, they claim.
+
+Because of the response to Wonder on Product Hunt, its creators tell us they’re now working on bringing Wonder to other platforms, including Messenger, Slack, Alexa (for use on devices like Amazon Echo), and an API, too. A Messenger bot will be the first to arrive – in about a week’s time, they say.
+
+While Wonder began as just a side project, Shivkanth and Jordan believe there’s potential for turning the bot into a business, especially in terms of supporting Slack for teams. “Wonder on Slack can help employees and team members recollect and remember details, tasks, etc.,” says Shivkanth. Use cases could include things like internal support, new hire on-boarding, data and other information lookup, for example.
+
+In our own tests, Wonder did work as advertised. After feeding it some basic information to recall, it was able to quickly return responses to questions. In addition, it seemed smart enough to not need you to ask the question using the specific wording that you used when inputting the data, either. For example, while I told Wonder my “gym locker combination,” I was able to retrieve it by asking for my “gym locker combo.”
+
+Currently,the SMS botonly works in the U.S. and Europe, but the Messenger version will be global. It’s free to use.

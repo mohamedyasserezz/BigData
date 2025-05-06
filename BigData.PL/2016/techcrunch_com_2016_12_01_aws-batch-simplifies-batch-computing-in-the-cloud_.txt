@@ -1,0 +1,11 @@
+AWS Batch simplifies batch computing in the cloud
+
+Amazon’s new AWS Batchallows engineers to execute a series of jobs automatically, in the cloud. The tool lets you run apps and container images on whatever EC2 instances are required to accomplish a given task.
+
+Amazon recognized that many of its customers were bootstrapping their own batch computing systems. Users were stringing together EC2 instances, containers, notifications, and CloudWatch monitoring. By offering proprietary capability, this entire process becomes easier and more accessible.
+
+One of the biggest benefits of putting batch computing in the cloud is the ability to access a diverse array of instances. In the physical world, compute clusters typically feature a large number of duplicated processors. Doing away with this generates massive computing efficiencies and makes it possible to create innovative pricing models around such a service.
+
+Amazon allows users to bid for capacity so you can minimize spending. In addition to saving money, its now easy to scale up resources to match evolving needs at any time. It’s a lot less time intensive to temporarily upgrade resources in the cloud than it is to order and install an entirely new physical computing cluster.
+
+Amazon isn’t planning to charge an additional fee for AWS Batch on top of the traditional costs for other necessary AWS resources. Batch is available in Preview for users in the US. East (Northern Virginia) region. Moving forward, Amazon plans to expand the service to other centers. Further integration with AWS Lambda can also be expected so users can use the functions as jobs.

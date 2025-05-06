@@ -1,0 +1,27 @@
+Last Mile Club helps you find fellow passengers who want to split a cab
+
+At the TechCrunch Disrupt SF 2016 Hackathon, a team demonstrated a new ride-sharing app called Last Mile Club, which aims to help travelers with the final leg of their trip – getting from the airport to the hotel. Built over the weekend, the Android application addresses this often overlooked – and expensive – part of travel planning, by connecting passengers on a flight who are headed to the same destination.
+
+The concept forLast Mile Clubcomes from developer Tommy Chan, who has spent a lot of time on airplanes himself.
+
+“The idea came to me because I just came back from Thailand, recently,” he says. “And the airport ride to the hotel was an hour and a half.”
+
+It seemed ridiculous to him that a ride of that length should only be shared by two passengers, Chan explains. “I was looking at this from a carbon footprint perspective,” he says.
+
+But sharing cabs can also help to cut down on the costs involved with those rides – something that could appeal to budget travelers. Plus, it offers a social experience and an opportunity to meet new people, similar to the ride-sharing apps’ commuter services, like UberPOOL, for example.
+
+Last Mile Club, however, is designed to be integrated into the airline’s Android-based in-flight entertainment system.
+
+When you launch the app, you would enter in your destination, then be shown who else on the plane is heading to your same hotel, or another nearby venue.
+
+After passengers are matched, the app connects to ride-hailing service Uber to book the ride and split the fare. It could potentially work with other services, like Lyft, but the team didn’t have time to build out that functionality over the weekend.
+
+“Uber is interesting because they have scheduled rides,” notes Chan, referring to the newer feature in the Uber app where you can request a car to arrive at a particular time and location. In addition, if the flight was delayed, that information could be communicated back to Uber in order to reschedule the ride for a later time, he adds.
+
+The app also takes advantage of Panasonic Avionics’ API and MapQuest’s Android SDK. The former lets Last Mile Club access things like passenger name, flight information, and their seat number, among other things. This could allow the service to be integrated into the airlines’ own native, mobile applications, if that’s something they wanted to do.
+
+However, the developers said they ran into issues because the Avionics API was returning static data – after all, they were only simulating a flight, not working with a live flight manifest. That made it difficult to create an application designed to match multiple passengers. Instead, the team ended up hard coding some of the passenger data for the purposes of the demo, they said.
+
+Besides Chan, the Last Mile Club team included developers KK Chen and Ben Komalo.
+
+Asked if they would continue to work on their project after the hackathon wrapped, Chan said they would be open to idea that if Panasonics would provide the data and the support.

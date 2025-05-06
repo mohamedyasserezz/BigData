@@ -1,0 +1,11 @@
+MIT engineers human cells to store ‘memories’ in DNA
+
+Score another win for CRISPR. Scientists at MIT are using the ever-intriguing genome-editing system to engineer human cells capable of recording and reporting the intensity and duration past events.
+
+The analog memory storage system builds upon past work developed by scientists that programmed cells to flip DNA sections when events – like exposure to specific chemicals – occurred. What sets the new research apart, however, is the addition exposure duration and intensity to the cell-reported information.
+
+The older research has also largely been relegated to bacteria. Moving the technology to human cells means, among other things, a potential method for studying the ways in which cellular events like gene regulation impact disease, according to MIT associate professor of electrical engineering and computer science, and of biological engineering, Timothy Lu.
+
+The researchers are also able to get a bit fancier with things, with cells capable of recording multiple different input sources – in the case of this demo, doxycycline (an antibiotic and the lactose-like molecule, IPTG.
+
+All of the information allows for a much closer study on the impact of infections and diseases like cancer. It could also potentially be used to follow the role of specialized cells during development from an embryo to full-grown adult.

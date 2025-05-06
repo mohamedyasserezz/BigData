@@ -1,0 +1,27 @@
+Microsoft’s Slack competitor Teams launches today as a preview
+
+It’s been a busy Fall for Microsoft. A week after throwing a big Windows/Surface party, the software giant has returned to the Big Apple for its latest piece of news. Clearly the company was just too excited to keep its latest addition to Office 365 under wraps,posting a launch videojust prior to the event’s official kickoff.
+
+Today’s event kicked off with that same video, after a few goofy jokes about feeling like “we were just here, last week.” CEO Satya Nadella hit the stage to talk about collaboration, the “art of the team,” as the company put it, citing the different ways different groups from orchestras to sports teams work differently.
+
+https://twitter.com/OfficeNews/status/793835816183291905
+
+Nadella describesTeamsas, “a chat-based workspace…designed to facilitate real-time collaboration while building up the institutional knowledge of a team.” The application is designed to pull together various tools into a single platform, including pieces like meetings, notes, a planner and, of course, chat.
+
+As predicted, the app features threaded chats, keeping different conversations grouped together, along with a deep integration with Skype for voice and video calls built into the app. In fact, the company has built a number of its own offerings into the app, including Word, Excel, PowerPoint and OneNote. Office 365 Groups forms the basis of the application, allowing users to share information across different apps.
+
+Customization is a big point here, as well, letting users design their own experience by way of cloud services built into tabs and Microsoft Bot integration. Sure, it’s a productivity application, but you’re not going to be able to compete with the likes of Slack without appealing to the millennial crowd, and, as such, the company is integrating things like emojis, stickers, GIFs and custom memes — however, that last bit should choose to manifest itself.
+
+https://twitter.com/OfficeNews/status/793838811696472064
+
+Different non-chat functions are filled at the top in a series of tabs on the top dashboard, so users can flip between different information, be it stored notes in OneNote or graphs through BI. It’s a clean way to incorporate a large number of different information sources into a single place, without overwhelming one channel.
+
+The company showed off a few bots, as well, including T-Bot, which is a centralized help system that crawls an informational index, answering questions. Similarly, WhoBot searches people, so users can search for co-workers by asking contextual questions.
+
+Microsoft is launching the application across a spectrum of mobile platforms, as well, including iOS, Android and, naturally, Windows Phone. In the demo, the mobile version of the application is essentially a scaled-down version of the desktop version.
+
+Security has been built into the desktop and mobile offerings, including data encryption and compliance with standards like U Model Clauses, ISO 27001, SOC 2 and HIPAA. “Like all our commercial services,” the company explains in the official announcement, “we have a transparent operational model with no standing access to customer data.”
+
+The application is now available as a preview in 181 countries. It will be available to everyone in the first quarter of next year. Microsoft is also offering the app to third-party developers today.
+
+It’s already enlisted a number of high-profile platforms that will be available at launch, including Asana, Hootsuite and Zendesk. The application can also be set up to receive notifications from services like Twitter and GitHub.

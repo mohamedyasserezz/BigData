@@ -1,0 +1,15 @@
+Google’s mysterious new Fuchsia operating system could run on almost anything
+
+Google has a new operating system calledFuchsiain development, with the early results publicly available on Github (and you can even compile and run it yourself, should you feel daring). The new OS differs from both Android and Chrome OS since it doesn’t run on a Linux kernel, and instead uses as its core code something called Magenta, which might make it better suited to running on embedded systems like fixed-purpose Internet of Things connected devices.
+
+The new project is actually going to be available on Raspberry Pi 3, according to project member Travis Geislebrecht, a Google team member who previously worked on Palm, Apple, Danger (makers of the Sidekick) OS projects, as well as embedded system OS development for Jawbone. Given its pedigree, and the fact that clues in the OS code suggest it can run on everything from dash infotainment systems for cars, to embedded devices like traffic lights and digital watches, all the way up to smartphones, tablets and PCs.
+
+Suggestions for what Fuchsia will actually be used for vary, but theories run anywhere from an OS to replace (and truly unify) both Chrome OS and Android, to something that can run with better efficiency on small, low-power devices like Android Wear smartwatches.
+
+It’s intriguing to imagine Google building One OS to Rule Them All, especially considering that it has likely learned a lot from the Android and Chrome OS experience about what a next-gen OS might look like. A restart would also let it course correct on some of the issues that have plagued Android, including updates that go out at the discretion of carrier and OEM partners, which result in the bulk of users being a couple of generations behind.
+
+It’s also always possible this is a skunkworks project that will quietly disappear, but it would make sense for someone like Google to build an OS designed for our modern connected world, in which almost everything is a computer, and almost everything has the potential to work together.
+
+ViaEngadget
+
+More:Android Police

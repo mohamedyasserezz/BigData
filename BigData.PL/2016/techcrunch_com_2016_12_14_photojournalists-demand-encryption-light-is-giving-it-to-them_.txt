@@ -1,0 +1,27 @@
+Photojournalists demand encryption, Light is giving it to them
+
+Against the backdrop of falling bombs in Aleppo,the Freedom of the Press Foundation sent an open letterto executives at major camera companies asking them to take responsibility for the lack of encryption on today’s devices.
+
+Legacy manufacturers don’t currently offer encryption, which, in certain scenarios, can be the difference-maker in protecting valuable footage in hostile environments. The nonprofit, which counts Edward Snowden on its board of directors, drew the supporting signatures of 150 photojournalists and filmmakers.
+
+“Without encryption capabilities, photographs and footage that we take can be examined and searched by the police, military, and border agents in countries where we operate and travel, and the consequences can be dire,” the open letter reads.
+
+While we wait for Canon, Nikon and the rest to figure out their next steps, there’s already a camera startup we should be paying attention to that is implementing encryption —Light. While not quite a Canon 5D Mark IV, Light’s new multi-lens L16 will probably best the oversized rudders of competitors to get an on-camera encryption solution to market.
+
+The Palo Alto-based companyhas suffered its share of shipping delays,but company CEO Dave Grannan explained to TechCrunch that when the camera finally hits the market, it will come with full-disk encryption. Grannan further noted that powerful asymmetric key encryption is on the team’s roadmap. The later should help fill in gaps that basic Android encryption cannot provide, but for now it’s a good start.
+
+Light’s camera is built on the Android platform, meaning implementing basic encryption was incredibly easy. This is because encryption is nothing new for consumer smartphones that gave life to the Android ecosystem. The real question is why, in 2016, these devices offer more security than DSLRs that cost thousands of dollars.
+
+“It really just comes out to running through the business case and asking how big the market is,” said Grannan in an interview.
+
+Unfortunately for photojournalists, the consumer market is substantially larger than the market for specialty professional gear. Adding encryption to cameras is the ethical thing for major camera manufacturers to do, but ethics isn’t the only reason they should do it. There is a strong business case that supports the move.
+
+Cameras are becoming more connected by the day, and with increased connectivity comes increased risk. We’ve all seen the aftermath of high-profile celebrity “hackings.” Consumers today want to be confident that their photos and videos are safe — regardless of whether they used their smartphones to capture them.
+
+“Nobody would build a camera from the ground up today without basic encryption capabilities on it,” added Grannan.
+
+The need for encrypted cameras stretches far beyond the war-torn towns of Syria. Consumer and professional markets are becoming more intertwined as the world starts to rely more on everyday citizens to capture incidents of police brutality and other high-risk events that need documentation.
+
+Rapid encryption can present a large computational burden, but it’s becoming harder to make that argument as cameras continue to become faster and more powerful. It will just be a matter of when professional solutions catch up to their consumer peers.
+
+As this transition plays out, there’s still room for debate about how much encryption will actually help journalists in the line of fire.If you’re interested, I recommend you check this post out.

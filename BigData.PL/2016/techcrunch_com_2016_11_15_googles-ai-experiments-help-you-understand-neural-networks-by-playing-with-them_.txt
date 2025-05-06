@@ -1,0 +1,17 @@
+Google’s AI Experiments help you understand neural networks by playing with them
+
+Google’s work inmachine learningand artificial intelligence is often interesting, but it can be a bit academic. People like to get their hands on these things — as much as you can, anyway, with something intangible. To that end, Google is collecting a bunch of little demonstrations of this emerging category of tech in itsAI Experiments showcase.
+
+The idea is simply to let people fool around with examples of machine learning, or download the code themselves to see how it works. Right now there are eight items available to look at, four of which are immediately available to interact with on the web:
+
+Giorgio Cam(best on mobile), which identifies objects seen by the device’s camera and hypes them up in a rhyming fashion. Trap airhorn warning.
+
+Quick, Draw!Basically has you playing Pictionary with a sketch recognition engine. You’ll be contributing to its training by drawing barns, school buses, lamps, etc.
+
+Infinite Drum Machinehas sounds gathered by similarity, which you can select and sequence. Shuffle actually produces some pretty hot beats reminiscent of Matmos or Mira Calix. Maybe this is howtheydo it. (Warning, alarming din when you drag around.)
+
+Bird Sounds.Does what it says on the tin. Bird calls organized by AI based on things like rhythm, tone and so on. Probably won’t help you find that one you always hear outside your window, but it’s better than the bird guides that literally just spell it out. (Sounds likepoo-tee-weet?)
+
+Others you can download or just watch examples of — I like the idea of the AI duet, for instance, which attempts to mimic and extend your style of keyboard playing. And the Thing Translator, which identifies and gives the translated word for whatever you show it, looks practical.
+
+Check out the rest of the experiments here, and check back later as well — it’sopen for submissions, so more will likely appear over time.

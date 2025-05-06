@@ -1,0 +1,25 @@
+Meet the team hacking Sundar Pichai and Channing Tatum
+
+If you follow tech executives or famous actors on Twitter, you’ve probably seen references to something called OurMine several times over the last few weeks.
+
+That’s because a group of three hackers called OurMine have been finding their way into accounts belonging to Google CEO Sundar Pichai, Spotify CEO Daniel Ek, Amazon CTO Werner Vogels and “Magic Mike” star Channing Tatum.
+
+In a series of messages, an OurMine member told TechCrunch that he or she is part of a three-person team of teenagers and explained that the group is going after the high-profile accounts in an effort to promote better security practices. Although compromised Twitter accounts usually start tweeting out porn bot promotions or racist screeds, OurMine uses the opportunity to tweet fairly innocuous promotions of its services.
+
+Last night, the group got access to Pichai’s Quora account and used it to publish to his Twitter timeline. They posted a question, “Is it possible to force my android app users of all version [sic] to update the app?” and a promotion for their website. OurMine claimed that they were able to access the Quora account through a vulnerability in the site, not byreusing a password from a recent breach. “We hacked his quora with a vulnerability on quora,” an OurMine member said.
+
+“We are confident that Sundar Pichai’s account was not accessed via a vulnerability in Quora’s systems,” Quora said in astatement. “This is consistent with past reports where OurMine exploited previous password leaks on other services to gain access to accounts on Twitter or Facebook. We also have no record of a report by OurMine pointing to a vulnerability.”
+
+In the case of Vogels, OurMine claimed to have his password, but said it wasn’t reused from another breach. However, OurMine wouldn’t clarify how it obtained Vogels’ password.
+
+OurMine sells its services, claiming that the group will scan the security of social media accounts and websites in exchange for a fee. An OurMine member told TechCrunch that the group has 34 customers so far. The group dropped the price of social media scanning today from $99 to $30, “because it was too expensive.” (The promise of securing your account may be tempting, but TechCrunch does not advise giving your credit card or payment information to hackers.)
+
+Although a hackertraced OurMine’s IP addressto Saudi Arabia, an OurMine member denied being from Saudi Arabia in a message to TechCrunch. “I can confirm that we don’t have any members from Saudi Arabia or Russia,” the individual said.
+
+OurMine also went after Vox reporter Matthew Yglesias, who has yet to delete the promotional tweet the group posted on his account:
+
+https://twitter.com/mattyglesias/status/746573769515405313
+
+If you don’t want to end up tweeting an ad for OurMine anytime soon, there are several basic steps you can take to make your accounts more secure. Don’t reuse passwords across websites, enable two-factor authentication where available and review the the third-party apps that have direct access to your Twitter account (go into your account settings and click “Apps”).
+
+Update 7/8:It appears that entrepreneur and investor Vinod Khosla is the latest tech figure to fall victim to an OurMine hack.

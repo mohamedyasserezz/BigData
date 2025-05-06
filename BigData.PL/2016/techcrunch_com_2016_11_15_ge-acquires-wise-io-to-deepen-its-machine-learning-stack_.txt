@@ -1,0 +1,13 @@
+GE acquires Wise.io to deepen its machine learning stack
+
+GE Digitaltoday announced that it has acquiredWise.io, a machine-learning powered service that helps businesses find patterns and trends in their vast data stores. At first glance, that may seem like an odd acquisition for a company like GE. It’s important to keep in mind, though, that withPredix, GE already offers its customers a service that focuses on helping them monitor their equipment, whether that’s an industrial tool or an aircraft engine, and predict issues based on the monitoring data.
+
+As GE CIO Jim Fowler told me, the company’s developers wrote a few hundred different models for lots of different assets in Predix. The service has some rudimentary AI capabilities, but the addition of Wise.io’s technology — which can find patterns on its own — and its team will allow GE to offer a far more flexible model. “As we think about services going forward, you’ll see GE enter verticals we haven’t been in before,” Fowler told me.
+
+In many ways, GE itself is undergoing the kind of digital transformation that many of its own customers are dealing with. It’s undergoing what Fowler called a “new industrial revolution,” where it has to reposition itself to play in the field of analytics, data, machine learning, etc. To keep pace, the company has been making a number of acquisitions. These include thepurchase of ServiceMaxfor almost $1 billion yesterday and Wise.io today (as well as the rather quiet acquisition of data integration platformBit Stewearlier this year).
+
+GE and Wise.io did not disclose the acquisition price. Wise.io previously raised $3.58 million. The company also participated in the Alchemist Accelerator and Citrix Startup Accelerator programs.
+
+Wise.io will continue to operate as usual and GE will continue to service its existing customers. While the company is mostly buying Wise.io for its technology and talent, this also means it’s getting access to quite a few Wise.io customers who probably never considered GE as a vendor. Wise.io’s users currently include the likes of Pinterest, Twilio, Thumbtack and Republic Wireless.
+
+GE expects that software will bring in $15 billion in revenue by 2020 (I wonder if it used Predix to set that number…). The vast majority of this ($10 billion) will likely come from existing customers, $1 billion will come from the efficiencies it hopes to gain by driving internal usage of technologies like Wise.io and it expects that $4 billion will come from new customers.

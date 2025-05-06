@@ -1,0 +1,17 @@
+Piccolissimo joins the ranks of ultra-tiny flying robots
+
+Big robots like Spot may be great for carrying things or trotting out onto stages, but just as much sophisticated engineering goes into creating tiny ones as well — and this little flyer from the University of Pennsylvania is one the tiniest yet.
+
+It’s called Piccolissimo, both Italian for smallest and also a play on the creator’s name, Matt Piccoli — and while it isn’t actually the world’s smallest flying robot, Penn does get to claim it as the world’s smallestself-powered, controllableflying robot. Others are smaller, but either can’t be steered or (like theRobobee) are wired for power.
+
+About the width of a quarter, Piccolissimo has just two moving parts, which is one more than theballbotwe saw earlier this month. One is the propeller, the other is the 3D printed body: both spin, but at different speeds. The propeller is slightly off-center, and the body turns 40 times per second, evening out the thrust to vertical — but tiny modifications to that spin speed can send it in one direction or another. It’s all controlled with a simple signal sent over an infrared beam.
+
+For now it just hovers, but functionality is easy to add.
+
+“Spinning vehicles are pretty terrible for carrying people, but pretty fantastic for carrying sensors,”explained Piccoli in a Penn news release. “It’s common practice to make a simple sensor, then spin it around, like radar dishes at airports. We get this feature for free, so we could take a line-scan camera, like in a barcode reader, put it on the vehicle body, and get a 360-degree panorama.”
+
+Easy to add, at least, assuming you can keep the addition under a gram — that’s the current payload limit on this diminutive platform.
+
+The reasons for creating ultra-small, ultra-simple devices are many. Simple often means efficient and cheap, even disposable — which is good not just for consumer applications but everywhere. It’s a big decision to send a million-dollar humanoid robot to investigate, say, a radiation leak or damaged building. Not only is it expensive if it fails, but the complexity of the robot means it could be just as susceptible as a human to things like radiation, dust, and other obstacles.
+
+On the other hand, a swarm of a hundred Piccolissimos coordinating as a group, equipped with cameras, radiation sensors, and accelerometers (one each) could reconnoiter an area quickly and cheaply, and if they don’t survive, well, you can print another hundred.

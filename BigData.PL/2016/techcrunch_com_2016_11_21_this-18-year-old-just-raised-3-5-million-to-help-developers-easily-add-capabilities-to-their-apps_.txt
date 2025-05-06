@@ -1,0 +1,21 @@
+This 18-year-old just raised $3.5 million to help developers easily add capabilities to their apps
+
+RapidAPI, a two-year-old, San Francisco-based startup that enables developers to find, test, and manage many of the APIs they want to integrate into their apps, has raised $3.5 million in seed funding. The round was led by Martin Casado at Andreessen Horowitz, with participation from FundersClub, SV Angel, Green Bay Advisors, and 500 Startups, whose accelerator program it recently passed through.
+
+The company is interesting for numerous reasons — not least of them its founder, Iddo Gino, an 18-year-old who was a high school senior in Haifa, Israel last year when he was “discovered,” so to speak. It happened at a local hackathon, where Gino caught the attention of Dov Moran.  The renowned Israeli angel investor provided Gino with some early mentorship, as well as $250,000 in seed money that Gino — who studied briefly at the public research instituteTechnion– used to move to the U.S. in January.
+
+Of course, RapidAPI’s mission — to enable developers to access and easily use publicly available APIs in a way that allows them to seamlessly communicate — is obviously of great interest to investors, too.
+
+Gino likens these functional “blocks” that can be woven together, to pieces of plumbing, explaining that, “Each company has its own language. So [a developer] tries to learn how Facebook speaks then uses a dictionary to translate it back to English. And [he or she] has to do this every time” with every company and sometimes even across one company’s different divisions. RapidAPI has meanwhile created what are essentially big repositories of translator units, “so we don’t need an API company to change anything. We take care of turning everything into a single language.”
+
+Indeed, among the trends on which RapidAPI is capitalizing are so-called micro services, where instead of creating hard-to-maintain software, companies are take their existing software and infrastructure and turning it into APIs. Amazon has famously been focused on this issue for the last14 years, expressly so its different teams could communicate with each other through these interfaces.
+
+Then again, Jeff Bezos tends to be ahead of the pack. At most companies, APIs have sprung up in a more willy-nilly fashion, where one team within a company might be working on a chat service, another on image uploads and cropping, and a third on service management, but none of the APIs they’ve developed are particularly adept at working together.
+
+At eBay, for example, hundred of APIs had been created over time with different standards and protocols – all of which were speaking very difficult languages that made it difficult for them to talk with one another. RapidAPI — which offers free and open-source adapters to connect APIs but  plans to make money as a kind of services integrator — is now helping the company manage and connect those many internal APIs.
+
+And RapidAPI has something else going for it, too — an apparent opening in the market. For example, some developers have likened the technology to Parse, a toolkit and support system for mobile developers that Facebook acquired in 2013 andshut downearlier this year when it decided to focus its attention elsewhere. Meanwhile, other beloved API management platforms have also disappeared into big acquirers in recent years, including Apigee, bought in September by Google for$625 million, and Mashery, acquired by Intel before being soldlast yearto Tibco.
+
+RapidAPI says it supports more than 200 APIs, currently. Gino says the 16-person company “wants to multiply that by 10” in a year’s time.
+
+In the meantime, among the most-used APIs by developers who visit its platform? The Spotify API and the Google Search API.

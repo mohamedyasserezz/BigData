@@ -1,0 +1,27 @@
+LinkedIn open sources nifty Android app testing tool
+
+LinkedInannounced today that it is open sourcing a tool calledTest Butler,which was developed in-house to overcome limitations on Android app test emulators.
+
+As LinkedIn was developing its latest Android app, it decided to completely overhaul the way it develops and tests apps. But it ran into a huge testing limitation that was slowing it down in an unacceptable way.
+
+“We are putting a big focus on automation and having [more frequent releases], and we ran into the situation where tests were failing, and developers were unhappy because it wasn’t their fault,” Drew Hannay, a LinkedIn engineer who helped create Test Butler, told TechCrunch.
+
+They found any number of issues could crash the test emulator that had nothing to do with the quality of the code itself. For example, if an unrelated app or process crashes on the emulator, it normally produces a dialogue, which the tester has to manually close — and the program could crash while waiting for the tester to take care of that. Another issue involved automatic screen locking on the emulator or background animations grabbing too many resources — either of which could cause the test to choke with no way to control it.
+
+As you can imagine, all of this frustrated testers and developers alike, and was wreaking havoc on the company’s plans to streamline app production. The team began searching for a way to separate the testing environment from the app being tested, but found the most common ways available didn’t really solve the problem in an elegant way.
+
+Hannay said at that point, as they were searching for solutions, they came across a presentation from Google calledGoing Green: Cleaning up the Toxic Mobile Environment. “We were struggling with instability in our tests when we found a presentation Google had put out at testing conferences. They were talking about what they had built to make Android testing safe and reliable,” he said.
+
+Unfortunately, what Google had built was so intertwined with its internal systems it wasn’t suitable for open sourcing or even sharing. Still, Google wanted to help the developer community solve this problem, so it worked with the LinkedIn engineering team to come up with the solution that would become Test Butler.
+
+It solved a number of the problems, including shutting off background animations automatically so they wouldn’t interfere with testing, disabling those pesky crash dialogues, sending the info to a harmless log instead and preventing screen locking, ensuring the emulator doesn’t go to sleep and cause a test failure.
+
+Test Butler also deals with any permissions issues for you, including enabling or disabling Wi-Fi, changing the device orientation, testing location services and locale testing for multi-language testing. Perhaps most important, Test Butler has what’s called “signature-level permission” to automatically access any signature-level functions.
+
+Hannay believes this solves a huge a problem for Android developers, and it’s in the company’s best interest to share the tool with the community at large by open sourcing it. “This is something everyone running Android tests can benefit from,” he said.
+
+It’s worth noting that not everyone goes for emulator testing.Facebook recently revealed it prefers on-device testingand has set up a bank of physical test devices in its Prineville, OR datacenter for this purpose.
+
+There are also cloud services like the Microsoft’s Xamarin Test Cloud, Google’s Firebase Test Lab and Amazon’s Device Farm to do the same.
+
+Hannay hinted there would be other open-source testing tools coming down the road, but he wasn’t ready to share details just yet.

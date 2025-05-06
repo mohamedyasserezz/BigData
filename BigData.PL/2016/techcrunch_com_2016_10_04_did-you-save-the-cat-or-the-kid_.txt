@@ -1,0 +1,13 @@
+Play this killer self-driving car ethics game
+
+Should a self-driving car full of old folks crash to avoid puppies in the cross-walk? Is it OK to run over two criminals if you save one doctor? Whose lives are worth more, seven-year-olds or senior citizens?
+
+In, Thisnew game called the “Moral Machine”from MIT’s researchers, a car’s breaks fail and you have to choose whether it crashes into a barrier, killing the passengers, or swerves into the cross-walk, killing pedestrians. The game lets you make the calls in the famous“trolley problem”and see analytics about your ethics.
+
+Thinking about these tough questions is more important than ever since engineers are coding this type of decision making into autonomous vehicles right now. Who should be responsible for these choices? The non-driving passenger, the company who made the AI or no one?
+
+The Moral Machine poses basic choices like whether AI should intervene at all if it will save more lives, or if it should stay passive instead of actively changing events in a way that makes it responsible for someone’s death.
+
+But the scenarios also raise more nuanced quandaries. Should pedestrians be saved instead of passengers who knowingly got into an inherently dangerous speeding metal box? Should we rely on the air bags and other safety features in a crash instead of swerving into unprotected pedestrians?
+
+If you think these decisions are tough with clear-cut situations, imagine how tough it will be for self-driving cars amidst chaotic road conditions.

@@ -1,0 +1,39 @@
+You can’t have financial inclusion without digital inclusion
+
+One of the most exciting aspects of fintech is the promise of delivering financial services to the unbanked and underbanked population of the world. According to the World Bank,2 billion peopleare still unbanked in the world today.
+
+Even though this is a high number, it still is a decrease of 20 percent since 2011. Of the 2.5 billion people who have no access to a traditional bank in 2011,1 billion have cell phonesand services like M-Pesa has provided mobile money accounts to12 percent of adultsin Sub-Saharan Africa. However, astudy conducted by GSMAfound that “women are on average 14% less likely to own a mobile phone than men”, creating a gender disparity in financial inclusion.
+
+Of the unbanked population,1,5 billion peopleare unbanked due to their inability to prove their identity through a valid birth certificate, passport, proof of residence through utility bill or some other means to fulfil traditional KYC-procedures.
+
+When there is no bank account, people only gain access to and underground economy and is on the outside of vital economic and public services likeeducation or welfare.
+
+This has sparked the debate that digital inclusion if a prerequisite for financial inclusion, asdigital, and specifically mobile financial services acceleratesfinancial inclusion.
+
+The United Nations has stated as one of theirsustainable development goalsthat providing a legal identity for all of the world’s population by 2030 is a shared objective for the international community. This is also backed by the World Bank through theIdentification for Development (ID4D)program to assist developing countries achieve this goal.
+
+However, it is no straightforward process to create a global digital identity and several alternatives have been suggested. Estonia offers ane-residency, a transnational digital identity available to anyone in the world interested in administering a location-independent business online.
+
+There are several benefits for countries offering such a digital residency, including tax on any earnings generated through digital banking services on the identity, and is already  investigating the prospect ofapplying blockchain technologyto the identity.  This includes ane-voting scheme for companies listed on Estonias stock exchange, as well asnotarization servicesthrough Bitnation.
+
+Deloitte isdeveloping a proof of concept for smart identity, including the ability to use a single digital key to access any identity-restricted location, automated identification and verification of customers, public records like driving licenses and passports, into a single digital record.
+
+The use of blockchain in creating trust in digital identity concepts were also one of the key subjects at the ID2020 conference, hosted at the United Nations in May with the goal of getting governments and corporations on the same page as UN when it comes to solving the need for global digital identities.
+
+One of the initiatives seeking to provide a solution is a collaboration effort between ConsenSys, Microsoft and Blockstack Labs that aimsto create an open source, self-sovereign, blockchain-based identity system. Bitnation has also launched itsDecentralised Borderless Voluntary Nation Constitutionusing Ethereum, promising users to create their own digital nation through smart contracts.
+
+Facebook is also taking matters into its own hands, and is creating aglobal digital ecosystemrevolving around ownership of their users digital identity. According to the founder of Piratebay, Facebook can beconsidered the world’s largest nationwith their own views on ethics and censorship.
+
+As our lives are increasingly entangled in digital services, social logins areshaping the future of our digital identities. The European Commission is even proposing the idea ofusing national ID cards to log in to online services, including Facebook, Twitter and even Uber. Thus strengthening your Facebook profile as a borderless digital identity.
+
+Despite notable efforts, technology alone will not solve the problem. Thereal hurdles are borders, sovereign governments, global trade and businesses.
+
+The first challenge is issuing and registering a digital identity. The problem disproportionately affects children and women, where it is estimatedthat 750 million children have no legal identity and as of 2012, the world has failed to account for the births of 230 million children under the age of five.
+
+This effectively puts millions of children at risk of being victims of human trafficking and child labor. Therefore, birth registration must be a top priority for digital inclusion. A blockhain-based approach could provide a starting point for an immutable record of legal identity. By applying a decentralized approach, citizens are able to own and update their own personal identity, thus removing the dependency on governmental intervention.
+
+Storage, authentication, authorization and auditare key factorswhen creating a digital identity and different biometric factors as a means of authorizing an authenticating contain appealing properties to create a frictionless digital identity. Identity theft is an increasing problem, and ablockchain-based digital identitycould potentially provide provenance for digital identities.
+
+The importance of providing legal digital identities to the world stretch far beyond financial inclusion, and has the potential to provide better gender equality in developing economies, help people gain access to basic public services like health and education and secure rights for refugees just no name some of the benefits stated by the United Nations.
+
+Technology alone is not the answer, but the promise of blockchain could act as an enabler for a decentralized global identity database, where the people owned their own identity and no single government or corporation could assert sovereignty.

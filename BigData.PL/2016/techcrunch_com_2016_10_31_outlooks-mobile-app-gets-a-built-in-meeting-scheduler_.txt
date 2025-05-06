@@ -1,0 +1,21 @@
+Outlook’s mobile app gets a built-in meeting scheduler
+
+Microsoft Outlook users on mobile will now have an easier way to schedule meetings from their smartphone, with the launch of a new scheduling assistant that helps you find a time that works for everyone. The feature,which is rolling out todayto the iOS version of Outlook’s mobile app, will show your coworkers’ availability so you can quickly pick a date and time when everyone can attend the meeting.
+
+The feature is part of a series of upgrades to the Outlook mobile app, including the recent calendarupgradethat introduced Skype for Business and Maps integrations.
+
+To use the new scheduling assistant, you’ll first create an event from the app’s included calendar, then add the coworkers to the People field. You then tap on the date picker, and the app will automatically show you the times that work best, as color-coded suggestions.
+
+Times that work for all attendees are listed in white. If the selected time doesn’t work, but there other times that do, the day will appear in yellow. And red means no one is available at that given time.
+
+After you’ve found a date that works for all, you move to the time picker. By dragging and dropping the meeting in different time slots in the calendar, you can find a time when everyone is free. If the time slot is shaded red, no one is free. When it turns green, you’re good to go.
+
+The scheduling assistant is a small, but useful addition to the Outlook mobile application, which came to the company nearly two years ago by way of anacquisitionof an email app called Acompli. The startup’s goal had been to make mobile email as useful as email on the desktop, and this is a good example of Microsoft continuing to move forward in that direction – meeting scheduling is not something that’s traditionally been easy to do from the smartphone, so many people would save the task until they were back at their desktop.
+
+What’s also interesting is that the new feature competes to some extent witha Microsoft Garage project called FindTime, launched in December 2015.  The Outlook add-in works similarly to help Outlook users find a mutually agreeable meeting time.
+
+More broadly, built-in meeting scheduling is something a number of third-party applications today handle, includingDoodle,Timebridge,NeedToMeet, and adozen or soothers. And of course, the beloved mobile calendar Sunrise,another Microsoft acquisition, had a meeting planning function called “Meet.” Microsoft didn’t today credit Sunrise when mentioning the feature’s development, but it was certainly one of the features that made Sunrise popular among its users.
+
+However, unlike many rivals, the Outlook feature works when the organization itself uses other Microsoft software, like Exchange Server or Office 365. That means third-party meeting planners may still be useful when scheduling events with those outside the company.
+
+The scheduling assistant is live now on Outlook for iOS when connected with Office 365 or the latest versions of Exchange. Android and Windows 10 mobile releases are following shortly.

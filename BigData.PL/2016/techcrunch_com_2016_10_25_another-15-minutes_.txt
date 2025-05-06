@@ -1,0 +1,75 @@
+The startup redemption of Famous
+
+“It might shock you, but I let go of pretty much everybody. When we went from 34 employees to 4, everyone was sh*tting Twinkies. Everyone was scared to death.”
+
+For Steve Newcomb, the founder and CEO ofFamous, “pivot” isnot a strong enough word. “We did a reboot,” he tells me in a stylish penthouse office that shouldn’t exist. His $30 million-funded open source JavaScript startup was going down in flames, with a spiraling burn rate and no business model. Laying off 90 percent of the company and forging an entirely different direction was the only option.
+
+“This was all my fault. These were great people.It was the toughest professional thing I’ve ever had to do,” Newcomb wistfully recalls. But against all odds, he’s built something new, hired back up to 16 and suddenly has a product he can sell to brands for millions.
+
+Told for the first time, this is the startup redemption of Famous.
+
+It’s easy to fool yourself that you’re succeeding when there’s a line around the block to get into your open source JavaScript library meetup. “Iconfused hype for traction,” Newcomb admits.
+
+He was used to winning. After raising $8 million as COO of his last company, Powerset, he sold the search engine startup to Microsoft for $100 million in 2008. That made scoring funds easy when he came up with the idea for Famous in 2011. Greylock, CrunchFund [Disclosure: same founder at TechCrunch], InterWest, Javelin, Quest and some angels fronted a seed round.
+
+At birth, Famo.us wanted to build mobile websites for iPads that felt as fast and full-featured as native apps. Then it wanted to create BenchRank, a ranking system for people. But Newcomb and teammate Mark Lu discovered the limitations of the HTML5 mobile web standard prevented them from developing sites that could compete with native apps.
+
+In 2012, Famo.us launched at TechCrunch Disrupt’s Startup Battlefield competition with a demo that was heavy on the flashy graphics, light on the business model. Rather than explain how clients could use Famo.us or how it would make money, Newcomb wasted the six-minute demo demanding that the audience imagine a future where apps were 3D… whatever that meant.
+
+That’s because Newcomb and Lu had pivoted last-minute to build out an experimental JavaScript-based interface rendering engine, while former co-founder Dan Lynch left to start a different company. Yet Famo.us’ rendering engine had the potential to become a backbone of the mobile web. It bypassed CSS and HTML rendering, and communicated directly with a computer’s graphics processing unit to produce impressive visuals.
+
+While weak on direction, the developer community was enamored with the idea of an alternative to HTML5. Facebook’s Mark Zuckerberg had just called using HTML5 one of his company’s biggest mistakes. Venture capital and job applicants poured in, with Insight Venture Partners and Samsung Ventures joining the existing investors onSeries A,B and debt rounds that fluffed Famo.us to$30 million in funding.
+
+On top of that, 1,200 developers showed up to one of its meetups, “and man did that feel good. I’m not gonna lie,” Newcomb recalls. “Oh, we’re so popular. I’ll figure out the business model later.”
+
+But he didn’t.
+
+“We scaled the company before we had product market fit. We scaled the company before we had a business model that was anything for real.I wasn’t using lean startup methodology when I should have. And I had gone away from my passion,” Newcomb says, calmly cataloging his failures.
+
+Famo.us had hitched itself to the idea that it would give away its core technology platform as open-source software.Monetizingthat valiant decision left Famo.us scrambling. It waffled from tryingto sell development assistance for its platform to big hardware vendors, to bundling that with A/B testing, hosting and monitoring cloud services. But while 90,000 developers had signed up to try the platform, it was still half-baked and only a tiny fraction of those were allowed in, so there weren’t many clients to sell to.
+
+Approaching its peak headcount in 2015, Famo.us was hemorrhaging cash in its posh office, with a bleak venture climate on the horizon. Newcomb likens it to the old Road Runner cartoons, “floating in mid-air like you’re Wil E. Coyote.” Famo.us had stumbled over the cliff, but just hadn’t realized it yet. The fall would come fast.
+
+He could try to raise a Series C on hype and keep pushing a broken business model. Yet Newcomb says, “To close your eyes and hope it works out, that would be a soul-ripping venture for me.” He could try to sell Famo.us’ engineering team for whatever he could get, but after watching Powerset sell too early, he insisted that “This one’s mine. This is my passion and I want to see this thing through to the end.”
+
+So he drove back and forth across the country while coming to grips with his decision. Famo.us’ tech would be left for the open-source community. And except for himself, co-founder Mark Lu, Greg Barto who ran operations and Sara Stoddard who ran the office, Newcomb would fire everyone at Famo.us.
+
+“When you broke the story, I didn’t want to confirm any of the names, it was an emotional time,” Newcomb says, referring to the TechCruncharticlewe published a year ago about sourced accounts of the fall of Famo.us. The decisive choice was critical, though. Sure enough, a fundraising frost set in at the end of 2015, killing or crippling startups with too high a burn-rate or too little money in the bank.
+
+“I saw the market getting tight and we were one of the first companies to pull the plug,” Newcomb tells me. “I knew it was an admission of how much I was wrong. And I was way wrong, and it ultimately led me to have to say goodbye to a lot of wonderful people.”
+
+JedKatz, a Famous board member and managing director for its investor Javelin Venture Partners, explains that “The CEOs that find themselves in this position but can’t do that simply run out of cash. He made the correct decision that it was time to pivot. He didn’t waste time. He stopped spending money that didn’t need to be burnt, he kept a great culture over there, and I give him a ton of credit. The board was completely unanimous in how he went about this.”
+
+With a clean slate and years of runway in the bank, Newcomb went back to why he started Famo.us in the first place. He wanted to build mobile sites that were as powerful as mobile apps, and five years later, no one else has figured out how. So Newcomb took the JavaScript rendering engine and finally gave it a purpose: to make landing pages for advertisers that don’t require a daunting download like native apps, but are more seductive and functional that mobile sites.
+
+They’re called “Instant Apps.”
+
+To signify the reboot from developer tool to software-as-a-service marketing cloud, Famo.us dropped the nerdy URL-style name, shifting to “Famous Industries.”
+
+And it kept one other thing too: the massive, gorgeous, hipster-minimalist penthouse office. No small startup should be able to afford it, but Newcomb got it for a steal because it used to be his apartment. When his neighbor and AngelList founder Naval Ravikant moved out, he bought that apartment too, tore down the dividing wall, and turned the sprawling steel and concrete palace into Famous HQ.
+
+The company buildsInstant Apptemplates that can be customized to embody the brand and desired features of different brands, like car makers, social media stars, fashion lines, movies and restaurant chains. They can host e-commerce purchases and checkout flows, video galleries, quizzes and more multi-media content.
+
+Newcomb and Barto break down the value of Famous’ Instant Apps into five points:
+
+Essentially, what Facebook did for news publishers with Instant Articles, Famous wants to take to the next level for marketers with Instant Apps. But instead of those experiences living inside a third-party platform like Facebook, they live on the open web with the brand in complete control.
+
+For $25,000, a brand can get a pilot Instant App built for them in a day. A year-long subscription to the Famous platform costs a couple hundred thousand dollars up into the millions, and lets marketers multiply different Instant App campaigns. The company’s goal is to lock down two flagship brands in each of 15 different industries. Famous hired 10-year Acxiom ad exec Geoff Amborn to head up sales.
+
+One recent e-commerce Instant App got sent out to 200 million people. Compared to the brand’s mobile web app, the Instant App saw conversion rates up 2X to 5X, with bounce rates down significantly. While Famous wouldn’t tell me who they’re working with, a quick scan of its Twitter showsKim Kardashianand her sisterKhloeseem to have used Famous to sell their fashion lines. The Instant Apps basically take the celebrities’ Instagram photos and let you buy each item in their outfits.
+
+Famous isn’t the only one trying to speed up the web. Google has its Accelerated Mobile Pages (AMP) standard and Facebook launched “Canvas,” which are effectively Instant Ads that live as in-app cached landing pages for its own News Feed ads. But tying your brand to a tech giant too big to care about what happens to anyone else’s business is risky. Plus, Facebook’s Canvas doesn’t live on the open web.
+
+“It’s hard to trust the duopoly of Google and Facebook,” or the closed system of Apple, Newcomb warns. “We want to be [the client’s] partner in a way that the big 5 mobile apps (Google, Facebook, Instagram, Twitter, Snapchat) can never be. Not because they’re evil and we’re not, but because they’re platforms and we’re a third-party.”
+
+Famous will also have to race to stay in front of the standard capabilities of mobile browsers like Safari and Chrome. Luckily with Apple and Google so rooted in their walled garden native app stores, they have less incentive to make browsers better. He believes that by the time normal mobile sites and browsers can do what Famous does, it will be a step ahead, working on Instant Apps that can utilize your phone’s camera like native apps do.
+
+And not every brand needs a permanent place in your phone. “How many apps do you have on the home screen of your phone?” Katz asks. “You’re not going to have a thousand. Once brands do this I don’t see them going back, at least not with their ad, social, and email campaigns.”
+
+Trying to fundamentally improve the web is wildly ambitious — something most marketing cloud companies wouldn’t even attempt. But while it had to burn down the first iteration of the company, it emerged from the ashes with a technology powerful enough to fuel the next phase of its evolution.
+
+Sarah Faulkner, who was hired away from Google to be head of product, says “I joined Famous purely because of the huge opportunity. A lot of companies are going after little niches, and Famous wants to change the way information is displayed on the internet.” Now it’s finally actually making money while minimizing burn. Newcomb expects to hit $5 million to $10 million in annual recurring revenue this year, with a burn rate of $15,000 per employee.
+
+Of the original team, Newcomb tells me “We went through hell and back. They stood by me and I’m sure there are many times when I would have fired me.” But now he’s clarified his mission, setting sights on further democratizing app development, even if that means squaring off with the juggernauts pushing a closed internet. Both the business plan and the Famous branding embody a tenuous balance between boldness and hubris.
+
+Newcomb concludes, “Famous has always been trying to hit a grand slam and we’re still trying. We’re either going to change the world or we’re going to do a gigantic face plant, and I wouldn’t want it any other way.”

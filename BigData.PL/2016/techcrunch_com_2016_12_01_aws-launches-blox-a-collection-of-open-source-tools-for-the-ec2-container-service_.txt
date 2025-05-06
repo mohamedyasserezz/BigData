@@ -1,0 +1,11 @@
+AWS launches Blox, a collection of open source tools for the EC2 Container Service
+
+With its EC2 Container Service (ECS), Amazon has long offered support for software containers on its AWS cloud computing platform. Today, at its re:Invent developer conference, the company announced a number of updates to how it supports containers, which are quickly becoming the go-to way to operate distributed applications.
+
+Soon, for example, the EC2 container service will become far more customizable. The new Task Placement Engine will allow developer to place containers in certain availability zones.
+
+“Container management and container execution for quite a few of our customers — especially if you use some of the open source software — is quite a pain,” As Amazon CTO Werner Vogels noted in today’s keynote. These updates to ECS are meant to reduce some of these pain points and give users a bit more flexibility in how they use containers on AWS.
+
+More importantly, though, Amazon also today announcedBlox, a collection of open source project for building container management tools for ECS. The idea here is to let you build container schedulers and integrate third-party schedulers like Mesos with ECS.
+
+Blox is starting out with two projects which are now available on GitHub: a cluster-state-service and a daemon scheduler. That’s quite an interesting move for AWS, which hasn’t usually engaged with the open source community all that much. The container ecosystem, however, is largely driven by open source projects, so maybe it now made sense for Amazon to start engaging with that community directly. Blox projects will be published under the Apache 2.0 license.

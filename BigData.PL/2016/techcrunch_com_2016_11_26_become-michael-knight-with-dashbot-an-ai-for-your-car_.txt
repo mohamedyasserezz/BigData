@@ -1,0 +1,15 @@
+Become Michael Knight with Dashbot, an AI for your car
+
+Who needs a smart car when you have a cool car? TheDashbotis a $49 add on for your vehicle that allows you to interact with your phone and Alexa while driving, thereby keeping your hands free to fend off pomaded villains and to swoop in an save innocent people before a helicopter explodes overhead. The product is a sort of Bluetooth speaker on steroids with lots of functionality built-in and the ability to swap from an Alexa-only device to a quick and easy way to interact with your phone without touching it.
+
+The system connects to your var via a cigarette lighter power port and the Aux in jack of your stereo or via Bluetooth. It connects to the Internet every time you bring your phone close to the car and because it is a self-contained computer you can even hook up a wireless OBD-II sensor and read car sensor data on the fly.
+
+The Dashbot uses theC.H.I.P. Pro, essentially a miniaturized single-board computer like the Raspberry Pi. The chip runs Linux and is completely open source for your hacking pleasure.
+
+From the team:
+
+￼Because Dashbot is based on C.H.I.P. Pro, you can teach it new tricks. Dashbot runs Gadget OS, our mainline Linux based fast-booting operating system. Like all Next Thing Co. products, Dashbot is Open Hardware, its software is Open Source, and of course, Dashbot has an open API.
+
+In fact the Dashbot team is the same team that released the C.H.I.P. Pro and they also completed theHAX acceleratorto bring this product to life. They’ve far surpassed their goal with 20 days left in the Kickstarter and it looks like this could be a fun way to make an older vehicle just a touch smarter.
+
+[youtube=https://www.youtube.com/watch?v=wdKL_R0RNUA]

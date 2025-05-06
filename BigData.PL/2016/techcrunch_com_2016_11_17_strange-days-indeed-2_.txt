@@ -1,0 +1,35 @@
+Open source and coopetition are the new normal
+
+In a month of unexpected outcomes, we have also seen some tech partnership announcements, ones we thought we might never see. In fact, just this week we witnessedMicrosoft joining the Linux foundationandGoogle joining Microsoft’s .NET foundation.
+
+You cannot minimize just how at odds these announcements are with what has been the reality of the tech industry over the last 20 years. These are organizations that have battled one other in a bitter war of words and technology visions. The idea that they would someday be working together was a highly unlikely outcome.
+
+And yet it happened surprisingly fast, as the changing nature of the industry has forced companies who once diametrically opposed one another to start working together for the sake of their customers.
+
+Back in the day when companies lived inside their proprietary stacks, they could afford to make it difficult to work together. Those days are gone, and in the age of the cloud, customers are demanding interoperability — and the big platform companies are duty-bound to give it to them.
+
+We sawa similarly curious partnership play out last year at Dreamforcewhen Satya Nadella appeared on stage at Salesforce’s massive customer conference. You have to have followed the industry for the last decade to truly understand how implausible this would have been just a few years ago. These were two companies at each other’s throatssuingandcounter-suingone another.
+
+There seemed little likelihood that the company CEOs — Salesforce’s Marc Benioff and Nadella — would ever appear onstage together, but here they were smiling and shaking hands and appearing for all intents and purposes to be best buddies. Benioff talked about how incredible Microsoft was as a company and what a great leader Nadella was.
+
+Nadella said something that has stuck with me to this day, and is worth repeating: “It is incumbent upon us, especially those of us who are platform vendors, to partner broadly to solve real pain points our customers have.”
+
+He clearly understood that to survive and thrive in today’s marketplace, Microsoft has to work with companies it once considered enemies. Yet Nadella said something else that day that could explain the incongruence we are seeing in the tech industry as players partner one day and compete the next.
+
+As I wrote last year inCooperation is the new normal at Microsoft:
+
+[Nadella] added that he doesn’t see this as a zero sum competitive game. Of course Microsoft will compete hard within markets, but he sees such a huge opportunity around digital transformation, and these partnerships can only help amplify that.
+
+Perhaps that explains how gleefully Microsoft announcedit had landed HP as a CRM customerlast September — snatching it away from frenemy Salesforce. Microsoft’s VP of cloud and enterprise, Scott Guthrie was positively gushing about it, asquoted in a story on GeekWire:
+
+HP Inc. “is a very large Salesforce shop — or they were until yesterday,” Guthrie said. “It was a Salesforce takeout. HP Inc. is planning a massive migration and a big bet on Dynamics. It’s one of the more public (wins) we’ve had.”
+
+That brings us to this week’s announcements where Microsoft joined the Linux Foundation, an organization it has fought with for years. Microsoft spent the 1990s and early 2000s dismissing Linux and open source in general. This week, it forked over $500,000 to become a Platinum member of the organization.
+
+The move toward Linux actually shouldn’t come as a surprise when you consider that Microsoft reports that one-third of Azure virtual machines are running Linux. If that’s where the customers are going, Microsoft had little choice but to follow.
+
+Meanwhile, we have Google and Microsoft, two companies that are competing hard with one another in the cloud, joining forces around .NET. Both companies are chasing rival AWS, so perhaps it’s a case of ‘the enemy of my enemy is my friend.’ Of course, trying to tell who’s an enemy and who’s a friend has gotten appreciably more difficult.
+
+Ultimately, we have gotten to this point for a couple of reasons. First of all, technology has become so complex, it’s become increasingly difficult for any one organization to provide the entire solution (or at least do all of it well). The other factor, which may be most important of all, is that customers want choice. They don’t want to be beholden to any single vendor, and they are demanding interoperability.
+
+Yet it would be a mistake to think this is just something Microsoft is doing. It’s a story that’s being played out all over the tech industry as companies that once competed fiercely with one another look for ways to work together, even as they struggle to find that competitive edge to beat their partners. Strange days, indeed.

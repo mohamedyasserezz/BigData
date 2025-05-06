@@ -1,0 +1,41 @@
+Applying analytics to clinical data
+
+Advanced technologies and the rapid adoption of electronic health records (EHRs) are enabling the physical world to merge with the digital, leading to explosive growth in the volume and quality of clinical data.
+
+Cognified care is the application of analytics to transform this newly available digitized clinical data into knowledge that can revolutionize healthcare (see the example of Jamie below).
+
+The emergence of smartphones and the app economy have led consumers to expect convenient, high-quality service in multiple industries — retail, travel, education, media and entertainment, among others. This same revolution has not happened yet in healthcare, but it is imminent thanks to cognified care. The result will be a transformation of healthcare, leading to four major benefits: personalized care, a value-based system, care anywhere and improved outcomes.
+
+According toa recent ONC report, only 13.4 percent of non-federal acute care hospitals used EHRs in 2008. By 2014, that percent had increased to 83.2 percent. In those six years, there has been a seismic shift in clinical data from paper records to digital files that are readily accessible to analytics. EHRs capture longitudinal data to track a patient over time, and include imaging data, physician observational workups, clinical diagnostics and all the “-omics” and information about a person’s environment and lifestyle.
+
+Coupled with sophisticated analytics, these patient data provide the foundation for “precision medicine,” an exciting new approach to disease prevention and management that will enable doctors to customize and optimize how they treat patients/consumers.
+
+Despite this promise, digitization of clinical data has limited value when medical records are confined within the walls of one provider or one machine. Combining pools of clinical data will enable researchers to develop new best practices based on insights gleaned from population-level analysis, extending the capabilities of precision medicine.
+
+A further benefit from digitization of clinical data is the fluidity with which patient medical records can follow a person from provider to provider and from hospital to clinic to home. This enables a truly two-way collaboration between patient and provider. The result will be better personalized care thanks to patients actively partnering with providers.
+
+In this election year, we are frequently reminded of the unsustainability of the old way of providing healthcare.The U.S. spent $3 trillion on healthcare in 2014for results that lag other industrialized nations in areas such as infant mortality and care of chronic disease. Cognified care will facilitate the shift to a value-based system of healthcare that should address some of this mismatch between outlay and outcome.
+
+The availability of better population data will lower costs (see example on alcoholism) and lead to better healthcare. We all recognize the cost advantages of prevention relative to treatment of disease. One of the key benefits of population-level data analysis will be the insights necessary to identify a patient before they develop disease.
+
+These shifts are already happening. We are starting to see insurers move away from traditional fee-for-service systems that pay providers per transaction based on the number of patient visits and tests ordered.
+
+Value-based pay is imminent, and is determined based on the overall value of care delivered — a world where outcomes matter. Providers are rewarded for keeping their patients healthier over the long term. This value-based care would not have been scalable without the digitization of clinical data and the cognification of healthcare.
+
+Another insight from the digitization of healthcare is the ability for patients to form communities. Until recently, patients with rare diseases were relatively isolated. Now there are online communities such asPatientsLikeMethat enable patients and physicians to more easily collaborate on cases, diagnoses and treatment plans. This enables a more grassroots-level of cognified care that helps create and foster communities for the benefit of patient care. This, then, leads to my last two points: care anywhere and improved outcomes.
+
+In a cognified system, healthcare settings will move beyond the four walls of a hospital, giving rise to innovative new business models — a shift already in motion. Just look around at the growing number of “step-down” facilities, the use of in-home connected care and the rise of retail walk-in clinics.
+
+One of the more notable shifts has been how retail centers are now offering service delivery. Walmart, Walgreens and CVS have all conducted pilots of advanced healthcare kiosks or clinics in their drugstores. These are typically staffed by pharmacists, nurse practitioners and physician assistants, and do more than just administering flu shots and measure vital signs. They are increasingly expanding their services to perform annual physicals, help monitor patients’ chronic conditions, provide diagnostic consults and offer health-and-wellness coaching.
+
+These step-down facilities offer care to patients more conveniently and less expensively than traditional hospital-delivered care, while also adding a new line of business for the pharmacies.
+
+All these different care settings have been made possible through advances in technology, such as the internet, machine learning and telemedicine. These innovations not only help provide ubiquitous data availability but also enable healthcare continuity over time and across settings. This is helping the transition to the consumerization of healthcare: increased convenience, better patient tracking and behavior modification and, ultimately, improved outcomes at a lower cost.
+
+To appreciate the power of cognified care, let’s take a look at theBasque Country in northern Spain, where a rapidly aging population has strained the resources of a national public health service.In that area, older patients with chronic conditions drive 77 percent of the total health expenditures, and the cost of healthcare was expected to double by 2020.
+
+To stem those soaring costs, the region implemented a novel holistic care solution that was protocol-driven, moved the clinicians outside of the four walls of the hospital into the community and featured at its center essential cognified care capabilities. A cloud-based multi-modal communication hub captured remote sensing data, enabled on-call clinician access, drove pharmaceutical adherence and provided patient education.
+
+To effectively target the resources, a predictive analytics engine was used to identify those patients likely to land in the ER in the next three months, and a 24/7 call center ensured the coordination of clinician, therapy and patient to drive proactive care and respond to urgent needs. With the new system, nurses can now resolve more than 80 percent of the health issues, emergency admissions for chronic patients have decreased and home-based care has surged by nearly 50 percent. The result: annual savings of $77 million over two years and increased patient consumer satisfaction!
+
+Cognified care is not some pie-in-the-sky concept; it’s already here. New entrants in the market have begun to challenge healthcare incumbents, and they are sure to be followed by other startups. There is definitely room to improve healthcare, but for now it seems clear that the cognification of medicine — enabled by the internet, machine learning, artificial intelligence, sensors and the cloud — will disrupt our existing paradigm. Where healthcare was once dictated by “doctors’ orders,” we are now in the emerging era of “patients’ directives.”

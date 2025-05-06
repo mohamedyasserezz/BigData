@@ -1,0 +1,19 @@
+Outlook gets its own lightweight CRM, Outlook Customer Manager
+
+Microsoft today isrollingout a new tool for business owners using Office 365 and Outlook called Outlook Customer Manager, a lightweight CRM for companies that need to track their customer interactions and history, but aren’t yet ready for a more robust platform like Dynamics 365. The new tool lets businesses track tasks and deals in progress directly in Outlook, and will pop-up reminders aimed at helping them stay on top of their customer relationships, the company says.
+
+Once enabled, Outlook Customer Manager will automatically organize customer information, including emails, meetings, calls, notes, files, tasks, deals and deadlines. This information – which is collected from email, calendar and call log data – is presented in a timeline format next to the inbox.
+
+To utilize the system, businesses can associate certain tasks with a contact, company or deal, so they can interact with their customers in a more timely fashion. It’s also able to present lists of deals by stage, close dates, priority and amount. In addition, the technology is able to prioritize which customers and deals are most important, then present this as a “Focused” list to help with time management.
+
+The Focused feature is similar, in a way, to Outlook’s Focused Inbox, which helps to prioritize the emails that need to be read first.
+
+In addition to making it easier and quicker to keep up with customers through Outlook’s familiar interface, another advantage to this system is that it can help teams handle customer calls and inquires, even if the customer’s original point-of-contact is out sick or on vacation. All the notes from calls, meeting dates, and deal stage details are accessible to anyone at the company with access to the new Customer Manager software.
+
+The feature will be available on desktop and on mobile, starting first with iOS before hitting other mobile platforms. It’s available from the home tab in the Outlook inbox, and the data tracked remains in Office 365.
+
+If at some point, if the company grows larger, they can upgrade to Dynamics 365, which offers enhanced customer info along with deeper insights. But many smaller organizations are not in need – or may never be in need – of such a solution, which has had them turning to other, third-party providers for lightweight CRM.
+
+The move follows another launch from earlier this year, alsoaimed at small businesses, Bookings. That software, which complements this new release, helps businesses schedule appointments with customers and automate appointment reminders.
+
+Outlook Customer Manager is being added today for free for those with the Office 365 Business Premium Plan, starting with those in the First Release program ahead of worldwide rollout in the months ahead.

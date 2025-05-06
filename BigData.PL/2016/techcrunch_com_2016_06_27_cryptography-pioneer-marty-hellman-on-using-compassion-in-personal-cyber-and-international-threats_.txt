@@ -1,0 +1,29 @@
+Cryptography pioneer Marty Hellman calls for compassion in personal, cyber, and international threats
+
+It’s been a long time since Marty Hellman and his collaborator Whitfield Diffie ushered in a new era of private communication with their invention of public key cryptography — but better late than never when it comes towinning the Turing Award, referred to by some as the Nobel Prize for technology.
+
+The two shared the 2015 award, only recently presented to them, along with the million dollar prize (Google sponsored the fourfold increase last year) that now accompanies it. I got to speak with Hellman shortly before he left for the ceremony.
+
+He characterized his work on encryption as serendipitous: unexpectedly stubbing his toe on something, cursing it at first, then realizing it was a gold nugget. But, he lamented, things have grown far more complex since the late ’70s.
+
+“Whit Diffie once said, and I agree with him, that we solved the easy problem,” Hellman said. Not easy in that it took no work, of course — but the problems faced today in computer security don’t have an elegant mathematical solution.
+
+“Back in the 80s, when I was working on cryptography, I could see that we would want it even if we were buying a loaf of bread. Back then, before we had the concept of a debit card, I said ‘with an electronic funds transfer’ even though at that point EFTs were only for million-dollar transactions between banks,” he recalls. “I couldn’t foresee everything, for sure, but we had ARPAnet and email probably 10, 20 years before most people so we could better see some of these things coming.”
+
+“Plus, he added, “I’m a fool. I’m a world-class fool in the best case of the word. When I started working in cryptography my colleagues uniformly told me crazy — and for very good reasons that had validity! But in hindsight it was wise to do something so foolish.”
+
+Hellman no longer does crypto research, though he retains a position at Stanford; instead, he has been advocating for changes in policy that acknowledge the new, more interconnected global community.
+
+“I see cyberweapons as very similar to nuclear weapons,” he said. “Early on we had a monopoly on nuclear weapons so we thought they were the greatest thing going. But unlike a nuclear weapon, a cyberweapon doesn’t destroy itself, so like with Stuxnet, our adversaries were able to take it apart and figure out how it works. We need to start thinking this through more carefully.”
+
+“So many of the problems we face are global problems — national security is becoming an oxymoron in an age of nuclear weapons and cyberweapons. We need to work towardsinternationalsecurity that works for everyone,” he continued.
+
+These days, of course, international cooperation is perhaps just as much of an oxymoron. But Hellman thinks that’s a problem of perspective as much as it is one of economics, politics, and so on. His new book,“A New Map for Relationships,”recounts a change in philosophy that he credits with saving his marriage, but which he thinks is also applicable on the world stage.
+
+“The first place I started to see these things was with my wife,” he said. “I had the model people often have, which is that if she has power, then I don’t. But the ‘power over’ model doesn’t work in a marriage and, increasingly, in the world. “If we take the attitude that we won’t do anything until everyone else does, it’s the ‘Prisoner’s Dilemma’ and we all end up with a suboptimal outcome!” (He cautioned, however, against living your life by the rules of game theory.)
+
+Hellman is using his portion of the Turing Award prize money to finish the creation and promotion of the book. Although he acknowledges it’s “an uphill battle” to get the average person to care about nuclear deterrence, military intervention, and so on, Hellman hopes to help start a more compassionate conversation around those topics.
+
+“At dinner last night I was talking with the woman next to me, and she said she couldn’t see how the world could change, even though it’s changed tremendously over the last few hundred years” he recounted. “But the changes we are talking about now have not happened yet, so she couldn’t envision them.”
+
+“If you can see, as my wife and I were able to, inconceivable changes occurring in your personal relationships, you will be open to and be a much better advocate for change at a global level.”

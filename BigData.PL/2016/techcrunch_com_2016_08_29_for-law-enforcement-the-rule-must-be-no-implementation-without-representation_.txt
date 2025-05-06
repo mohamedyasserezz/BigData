@@ -1,0 +1,43 @@
+For law enforcement, the rule must be no implementation without representation
+
+Last week it emerged that the police in Baltimore were working with a company called, appropriately enough, Persistent Surveillance, which deployed aircraft equipped with high-resolution cameras, recording entire regions of the city for hours on end for law enforcement to browse through. You should readBloomberg Businessweek’s excellent write-upof the program if you’re curious. But the takeaway is that once again a powerful tool has been implemented against the public without its knowledge or consent — which rather defeats the point of having a voluntary, civilian police force, doesn’t it?
+
+The tools ostensibly used to enforce the law are increasingly obscured behind a screen of private companies, non-disclosure agreements and obscure court orders binding the tongues of the few who could say what’s going on. It’s so lucrative to one side, and the capabilities so tantalizing to the other, that this seems unlikely to change.
+
+Baltimore’s use of surveillance aircraft is a familiar story in many ways — other cities have employed the same strategy, the same company even, with varying degrees of disclosure. Class it with Stingray-type interceptors, facial recognition databases, big data efforts to classify and predict crimes, NSA surveillance, crypto back doors and the other dozen or two military-grade techs being deployed against us. And those are just the ones we know about — the known knowns, as they’re known.
+
+It’s commonplace now for a law enforcement agency or government entity to receive pitches from companies like Persistent Surveillance, or more familiar names like Taser, or through funded fronts hocking software or hardware originally developed for use (and possibly still active) in warfare. The general idea is to augment existing systems with powerful tech while keeping certain sensitive parts — the servers, the patents, the devices themselves — out of the sphere of public scrutiny.
+
+Now, on a battlefield this is important. You don’t use an open-source drone to drop ACLU-approved bunker busters on a hardened target vetted by the community. The need for secrecy and tactical superiority in wartime are not in question.
+
+What’s in question is the employment of these tactics and technologies within our borders, against unknowing American citizens, creating a permanent state of war in what we might term the domestic theater.
+
+It’s one thing when we submit ourselves to these measures. We all tolerate certain encroachments on privacy, especially online but also in the physical world: One can hardly walk through a commercial district without one’s image being captured by dozens of private and public security cameras, and having one’s phone probed by searching wireless networks.
+
+We have authorized these things tacitly and officially, acknowledging their utility over years of development and slow growth. But the ever-shrinking scale of technology and its ever-expanding presence mean it’s not as easy to simply see and evaluate its risks and effects.
+
+Take the same in-store camera we’ve seen for decades that watches the register in case of robbery. Before, we could be pretty sure that it was recording to a tape on-site, and if the police or someone else wanted it, they would come and ask for it. Not necessarily simple, but simple enough.
+
+Now there’s a good chance that imagery is being sent to a central cloud location, managed by some company. In what jurisdiction? What’s the disclosure policy there? Do they ask for warrants, or do they provide footage upon request? What’stheirsecurity like? Do they have agreements with third parties to share imagery or collate it with other cameras? Are faces being harvested and “anonymized” for sale to trainers of computer vision systems?
+
+That’s just a simple example of how unknowns, both banal and dire, multiply — I’m sure you could add a few questions of your own to the list. It gets much, much more complex. And most people don’t have any idea how to navigate Facebook’s privacy settings, let alone the machinations of secret courts determining whether a program or device can even be referred to by name, let alone discussed in detail.
+
+The result is that for want of transparency, our rights as allegedly self-governed citizens are being quietly but firmly and continuously trimmed away. What’s more, we don’t even know how much trimming has taken place until some “revelation” along the lines of Snowden’s leaks. Hard to say whether that’s a known unknown or an unknown unknown. Let’s be safe and assume a bit of both.
+
+What can we do? Alas, not a lot. Look at the the operation over Baltimore. No one asked for it, even within law enforcement; no significant amount of residents would have approved it; many would surely have opposed even the test flights. Because the populace was never consulted, of course, this is just speculation. But it illustrates how powerless we are.
+
+So if we don’t have the power, who does? Supposedly, our elected officials. But those officials are rarely savvy enough to understand even established technologies, let alone cutting edge ones that walk a hazy line between legal and “extralegal,” their administrators waving away ethical concerns. They’re not much help.
+
+I hope you didn’t get this far thinking I had some kind of solution. I don’t. In fact, I’m pretty sure there isn’t one.
+
+But if we’re going to start somewhere, it has to be local. We’re not going to accomplish a thing with a Change.org petition for the president to sign an executive order banning this kind of overreach or demanding civilian review boards for all new law enforcement technologies. Things are going to be slow, and they’re going to be piecemeal.
+
+A lot of the situations that have shed light on unexpected and unethical uses of technology — Stingrays, iPhone decryption, that sort of thing — have started small. Municipal court records and district-level public information officers can be as or more forthcoming than federal cases and police chiefs.
+
+If you’re in Baltimore, for instance, you might start with your city council member. Push for a public hearing on the subject with the people who authorized the flights or signed off on the contract. Ask whytheyweren’t informed, or if they were, why they didn’t justify their support publicly. Contact your local paper or news and trouble them about why they didn’t hear about it (they’re likely already asking their sources) and how they’re going to report it. Local reporting of local issues is great, and often puts blood in the water to draw national outlets.
+
+The goal here isn’t so much eradication of these pervasive problems as reducing the areas in which they can operate without our noticing. As it stands, we may be at least partially excused for our ignorance by the fact that these institutions have been treating us as adversaries, enemy combatants, potential terrorists.
+
+We are being deceived systematically and deliberately; this much is on the record. No doubt that will continue, but that doesn’t mean no progress can be made to minimize that deception, in pursuit of the fundamental values espoused by this country. If we are to be surveilled, logged, categorized and profiled, it should be because we decided it was in our best interest to do so.
+
+The difference is between our own resources being deployed against us and us deploying them against ourselves. One is subjugation, the other self-regulation. The least we can ask for is no implementation without representation.

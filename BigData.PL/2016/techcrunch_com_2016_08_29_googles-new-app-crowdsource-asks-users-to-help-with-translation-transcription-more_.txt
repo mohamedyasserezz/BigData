@@ -1,0 +1,25 @@
+Google’s new app Crowdsource asks users to help with translation, transcription & more
+
+A new Google application calledCrowdsourcehas quietly appeared on Google Play, asking users to perform brief tasks that will help improve the quality of Google services like Maps, translation, image transcription, and more. The app, surprisingly, doesn’t offer any sort of rewards or micropayments in exchange for users’ work, however – which means it won’t be much of a threat to distributed workforce platforms like Amazon’s Mechanical Turk, for example.
+
+It’s also solely focused on helping Google improve its own services, not tasks from third parties, as on Mechanical Turk.
+
+The new app was first spotted by the blogAndroid Police. Google confirmed to TechCrunch this is a pilot project, posted this morning.
+
+Crowdsource asks users what languages they’re fluent in, ahead of allowing them to handle translation requests. Beyond that, it features large buttons that let you choose from a selection of micro-tasks like image transcription, handwriting recognition, translation and translation validation, as well as map translation validation.
+
+It seems odd that Google would launch an app like this, without offering something to users that would actually encourage contributions. After all, the company is already familiar with the model thanks toGoogle Opinion Awards, which offers Google Play credits in exchange for answering free surveys. Throwing out a few credits in exchange for helpful contributions across transcription services, translation and more, seems like it would have made sense.
+
+Google, however, suggests that users contribute to Crowdsource because by doing so they’ll know that they’ve “made the internet a better place for your community.” (I don’t know Google, have youmetthe internet? It’s not all sunshine and puppies over here.)
+
+Asked why people use an app like this,sansrewards, a Google spokesperson replied: “people may be inclined to use [Crowdsource] because, for many languages, tools like Translate, Image Recognition, etc. aren’t very good right now.”
+
+Crowdsource’s tasks take no more than 5 to 10 seconds to complete and include the sort of horrible things you often have to do on web pages to prove you’re not a bot, like figuring out what some blurry photograph reads.
+
+Android Police notes that most of the images users are asked to translate are street signs, and describes the handwriting samples are “chicken scratches.” Yep, sounds fun.
+
+Google, of course, has relied on crowdsourcing for a number of its products. Back in 2006, itlaunched a game called Google Image Labeler,for example, which asked users to tag images. That project lives on at a websitecrowdscource.google.com, in fact.
+
+The company says that the app is not the final form factor, and it’s “thinking through incentives” now.
+
+Crowdsource is a freedownloadon Google Play. No iOS version is available. (Probably because Google knows better.)

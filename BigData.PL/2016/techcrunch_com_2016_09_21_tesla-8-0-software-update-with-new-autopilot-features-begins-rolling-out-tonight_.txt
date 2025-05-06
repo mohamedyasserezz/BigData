@@ -1,0 +1,21 @@
+Tesla 8.0 software update with new Autopilot features begins rolling out tonight
+
+Tesla founder and CEO Elon Musk just revealed that the8.0 update which includes big Autopilot improvementswill begin going live for Model S and Model X owners later tonight. The over-the-air update brings a host of improvements, which add up to what Musk calls “a major overhaul on almost every level compared to V7.”
+
+V8.0 starts downloading tonight. Release will be gradual to make sure there aren't small regressions. Many car configs, many environments.
+
+— Elon Musk (@elonmusk)September 21, 2016
+
+Version 8.0 of Autopilot includes huge changes to how the object detection system works, using radar to help detect things that might not get picked up by the camera vision sensors on the vehicle. The new radar functionality will work with any Tesla vehicles made in 2014 and following, which already have the necessary components on-board to enable the new detection features.
+
+Musk explained in a conference call on September 11 that the new radar features will allow Autopilot to detect any decently sized, dense object, even in adverse weather conditions that might obscure them from Tesla’s camera arrays. The new changes likely would’ve prevented the fatal May 7 accident that resulted in the death of Model S owner Josh Brown, Musk explained on the call.
+
+Besides the Autopilot changes, Musk notes that there are plenty of other new software features coming to vehicle owners. These include one of the biggest overhauls yet to the car software’s UI, as well as Musk’s “favorite” new feature, an always-on max temperature setting that will prevent overheating for children and pets left in the car from overheating by automatically airing out the car’s interpret and turning on the AC when it detects temperature will extend beyond 40C or 105F.
+
+Tesla keeps temp below 40C/105F by automatically venting cabin & turning on AC when needed. Can do this for up to a year on a full charge.
+
+— Elon Musk (@elonmusk)September 21, 2016
+
+The 8.1 update to come at a later date will also let users set their own min and max temperatures to engaged the automatic temperature control, Musk noted on Twitter.
+
+Tesla owners should look out for the update, whichElectrek noteswill also bring a complete overhaul to the media app, with better search and shortcuts to favorite streaming apps, among other changes.

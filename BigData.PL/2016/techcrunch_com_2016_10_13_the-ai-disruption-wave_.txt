@@ -1,0 +1,49 @@
+The AI disruption wave
+
+Information technology evolves through disruption waves. First the computer, then the web and eventually social networks and smartphones all had the power to revolutionize how people live and how businesses operate. They destroyed companies that weren’t able to adapt, while creating new winners in growing markets.
+
+While the exact timing and form of such waves of disruption are hard to predict, the pattern they follow is easy to recognize. Take the web/digital disruption, for example: There was a technological breakthrough (e.g. Sir Tim Berners-Lee’s WWW), which built on/took advantage of existing technologies (e.g. TCP/IP protocols and installed computer base) and gave rise, seemingly slowly, yet in fact exponentially, to new applications and platforms that disrupted existing markets (e.g. Amazon) or created new ones (e.g. Google).
+
+Today a new wave is emerging. Much like the web took advantage of existing technologies, this new wave builds on trends such as the decline in the cost of computing hardware, the emergence of the cloud, the fundamental consumerization of the enterprise and, of course, the mobile revolution.
+
+Furthermore, the proliferation anddiversityof smart devices and “things” have enabled the ability for constant communication and sharing, while social networking natives (Snapchatters of the world unite!) have turned constant sharing and self-expression into a “need.” The result is the emergence of what we have coined as pervasive connectivity.
+
+Pervasive connectivity leads to an explosion of ever richer and personalized data, which creates entirely new opportunities for new ways to process that data and extract valuable and actionable insights. Artificial intelligence allows for just that.
+
+AI is defined, rather broadly, as the capacity of machines to exhibit intelligence. It has several components, such as learning, reasoning, planning and perception, all of which have improved greatly in the last few years.
+
+Machine learning (ML) has achieved remarkable breakthroughs, which have, in turn, driven performance improvements across AI components. Perhaps the two branches of ML that have contributed the most to this are deep learning, particularly in perception tasks, and reinforcement learning, especially in decision making.
+
+Interestingly, these advancements have arguably been driven mostly by theexponential growth of (high-quality annotated) data(sets), rather than algorithms. And the results are staggering: continuously better performance in increasingly complex tasks at often super-human levels (e.g.games,speechandimage recognition).
+
+However, it is still early days, and there are still several challenges: Most breakthroughs are in “narrow” applications and use supervised methods that require big labeled data sets (which are often expensive to create), most algorithms (still) achieve (just) sub-human performance, training requires considerable computing resources and most approaches are based on heuristics with lack of theoretical frameworks.
+
+While most of these challenges will likely be overcome in the mid to long term, most applied AI products created today will have to take them into consideration. This is why it’s crucial that companies that are planning to leverage AI have a flexible approach (i.e. initially one can either get the necessary data to train the ML algorithm for good-enough performance or have a non-AI approach), create a continuous flow of information from the user ideally of “labeled data” (to develop AI features and drive its performance) and focus on use cases that are either underserved or have a “human in the middle.”
+
+Even though currently most of the attention is devoted to the developments created by big tech firms (e.g.Google/DeepMind,Facebook,Pinterest), I believe it’s the startups that use this (or a similar) approach that will drive the AI disruption wave in both enterprise and consumer markets — and some are already doing just that.
+
+In the enterprise, AI is creating new ways for companies to interact with consumers and new ways for employees to communicate with each other, and with its IT systems, is driving both greater revenues and improved productivity.
+
+Marketing is a typical early adopter of new technologies and it has already embraced AI, fostering greater awareness and conversion metrics across sectors. In social media, companies likeSocialFlow* have pioneered the use of machine learning to improve campaign effectiveness. New image recognition techniques powered by deep learning have enabled startups likeNetrato improve visual intelligence and search, enhancing overall user experience. In e-commerce,Infinite Analyticswas able to create a suite of products that allows for better personalization.
+
+In sales, new products that reimagine the UI between sales teams/prospective customers and CRMs are greatly improving productivity and driving conversion.Troops.aiis enabling instant access to CRM data by sales teams through their platform of choice.Rollioallows for access and update of CRM information through natural language.Conversicahas created a sales assistant that is able to better screen and follow up with sales prospects.
+
+In HR, startups are trying to improve the effectiveness and efficiency across activities.Tallais aiming to revolutionize enterprise knowledge management, starting with a seemingly simple conversational agent that will eventually become a full-fledged proactive knowledge agent.Wade & Wendyhas created a two-sided conversational agent for recruiting that aims to reduce the overall recruiting time while improving the level of satisfaction on both sides of the table.
+
+When it comes to productivity, companies likex.aiare trying to considerably remove the pain out of scheduling and create a much more seamless user experience.
+
+Finally, other companies are creating broader platforms that have applications across sectors:Indicois using transfer learning to train algorithms considerably faster across applications;Receptivitianalyzes people’s text and voice messages to reveal their psychology, personality, decision-making style and emotions in real time.
+
+In consumer markets, perhaps what excites me the most is how AI is creating new platforms and redefining how we interact with technology in spaces that are crucial in our day-to-day lives.
+
+One such space is the home.Jibo* is a friendly and intelligent social robot that is bound to revolutionize it. It uses human-like reactions to create a better user experience, while being very helpful across a wide array of tasks, from doing intelligent video calls in which the camera is able to adjust automatically depending on who’s talking, to suggesting ingredients as you’re cooking and helping out with more interactive storytelling for children.
+
+Another such space is the car.nuTonomyis a great example of a startup that was able to take a technology quickly to market and leapfrog incumbents, through its beta launch of autonomous cars in Singapore.
+
+While most people focus on the long-term potential and threats of hypothetical developments in AI, it is its current limited and applied form based on heuristics that is driving the new disruption wave. Just like in previous waves, this change seems subtle and minimal, but it is becoming so pervasive that it will soon become impossible to ignore.
+
+In a world of pervasive connectivity, AI is key to harnessing the power of data. Companies have to create an AI advantage to survive — Google, Facebook, Amazon and countless startups know it, and you should, too.
+
+AI is already changing many aspects of our daily lives both at home and at work. However, this is just the start. AI is slowly, steadily and pervasively redefining our relationship with technology, enhancing human capacity and, fundamentally, how we live.
+
+*Rudina Seseri’s portfolio of investments includes SocialFlow and Jibo.

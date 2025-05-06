@@ -1,0 +1,11 @@
+Didi’s CTO explains why China’s ride-sharing giant has a data advantage
+
+China’s Didi Chuxing made headlines this year when it announced along with Uber that it would betaking over Uber’s business in its own country. Uber’s sale of its Chinese business included taking a 5.89 percent stake in Didi, and asDidi disentangles Uber China from the rest of the Uber networkthis week, we spoke to Didi co-founder and CTO Bob Zhang about what the company is doing with data and machine learning.
+
+Zhang explained to TechCrunch that its research division uses machine learning in much the same way as Uber itself, tracking trip information and vehicle locations to optimize trip routing. Zhang notes, however, that the volume of requests and traffic that hits Didi’s network is comparably huge, and growing; over 30,000 requests per minute come from riders during rush hour, for instance. Drivers also transmit their platform their location and current speed every three seconds he said.
+
+In terms of the types of data they collect, Zhang noted that they gather ample passenger data, too – painting a picture of rider habits and routines to optimize the overall experience from pick-up to drop-off. The data isn’t tied to specific individuals, he adds, but is instead anonymized. The info Didi gathers is also fed back to the transportation agency of the government to inform the creation and development of traffic infrastructure, which could help considerably as China moves to develop smarter, more connected cities.
+
+Zhang also confirmed to TechCrunch that Didi plans to expand its service  beyond China for the first time in 2017, but Zhang wouldn’t reveal where they’re headed next specifically in terms of target markets. “It’s a secret,” he said, though any launch in another country could potentially bring it back into direct competition with Uber.
+
+Apartnership with Avis announced in Novemberwill give them some kind of international presence, but definitely doesn’t represent the full scope of their ambitions outside China.

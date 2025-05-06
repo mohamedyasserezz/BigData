@@ -1,0 +1,23 @@
+Zenefits makes licensing compliance app available for free in the Salesforce App Exchange
+
+Zenefitsannounced this week, it was making a licensing compliance app it created in-house to ensure its sales people are properly licensed to sell insurance in a given state, available for free to anyone to download from the Salesforce App Exchange.
+
+Last winter Zenefits was sailing along providing HR services in the cloud for small and medium businesses when a bombshell hit.Buzzfeed reported something was rotteninside of Zenefits and the story blew up. It soon became apparent there were issues around following proper state health insurance licensing requirements and other questionable practices.
+
+It seems that Zenefits salespeople were selling insurance in states where they weren’t always properly authorized to do so, and allegedly faking their online training requirements, according to Buzzfeed.
+
+That scandal led tothe exit of CEO and founder Parker Conrad. David Sacks, former CEO at Yammer, took over. Thrust into what had to be a chaotic situation, Sacks set about righting the ship with investors and regulators before it was too late.
+
+Sacks says that before he even stepped into the CEO role, a project was under way at Zenefits to build a licensing compliance application that would prevent anyone from selling if they weren’t properly certified to do so. It would leave nothing to chance or human intervention. The system would determine if the proper credentials were in place.
+
+When Sacks took over he says he fast-tracked that project. The idea was to build this system on top of Salesforce.com, the company’s CRM provider. By tying it directly to the sales system, and connecting to the insurance industry licensing database, it would in theory prevent anyone from selling without proper licensing.
+
+The companyannounced the new app in June, but this week, it took that a step further at Dreamforce, Salesforce’s customer conference: it was making the app available for free to anyone to use.
+
+“The app integrates with Salesforce and the National Insurance Producer Registry (NIPR), the authoritative source on license. So this is one of things that helped us move forward and reset things with regulators,” he said.
+
+Sacks is clearly trying to make lemonade from lemons here by taking a very negative situation and spinning it into a more positive outcome. As he said in an interviewat TechCrunch Disrupt last monthin San Francisco, he’s trying to find a way to move on from the events of last winter.
+
+“The way to win trust is to just make right a situation, whatever mistakes you’ve made previously,” Sacks said. “Our attitude at Zenefits today is to be very transparent and forthright about what happened, it’s not to double down on something wrong in the past, it’s to admit it, fix it, and move on,” he said.
+
+While it seems to have placated regulators,Zenefits cut its valuation in halfandthe company has laid off more than 350 peoplesince the news first surfaced. This week’s move is one more step at quieting that situation and steering the company past the scandal.

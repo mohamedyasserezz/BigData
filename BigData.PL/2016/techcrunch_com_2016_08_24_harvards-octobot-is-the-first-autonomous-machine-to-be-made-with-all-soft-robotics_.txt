@@ -1,0 +1,17 @@
+Harvard’s Octobot is the first autonomous machine to be made with all soft robotics
+
+For years roboticists have been looking into using softer materials for parts rather than the usual metal and plastic — sometimes even buildingentirely soft robots. But this Octobot from Harvard is the first that not only contains no hard parts but is also entirely autonomous.
+
+Robert Wood and Jennifer Lewis, both at the Wyss Institute for Biologically Inspired Engineering, describe the Octobot in a paperpublished today in Nature. The creation won’t be winning any awards for agility, but given that autonomy is generally created by a computer governing a robot’s movements, this is a significant milestone.
+
+“The struggle has always been in replacing rigid components like batteries and electronic controls with analogous soft systems and then putting it all together,” explained Wood in theHarvard news release. “This research demonstrates that we can easily manufacture the key components of a simple, entirely soft robot, which lays the foundation for more complex designs.”
+
+The robot is mostly 3D printed, and afterwards its body is inlaid with channels that both power and govern its movement. That movement is pneumatic, powered by gas derived from hydrogen peroxide, the robot’s fuel. It pushes fluid through the limbs, inflating them — and if it were only that, it would still be impressive.
+
+But the key bit here is that the microfluidic network is cleverly designed to feed back on itself, shutting down the inflation of one limb and starting the inflation of another in a predetermined sequence. It does its thing (such as it is) on its own, without any need for the researchers or environment to provide power or guidance.
+
+The microfluidic network, it should be mentioned, builds on the work of chemist and co-author George Whitesides, also from the Wyss Institute.
+
+Admittedly, it’s a vastly simpler machine than any other autonomous robot, but it’s also the first of its kind. Soft robotic materials are promising in many fields, but especially in those where the bot has to operate around — or inside — humans.
+
+The plan is to double down on the octopus design — a logical idea, considering the power and versatility of “the boneless one,” as Hesiod called it. The next version of Octobot, the researchers suggested, will be able to swim and interact with objects around it.

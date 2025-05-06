@@ -1,0 +1,13 @@
+My Bricks Online puts your smartphone in Lego to make playtime fun again
+
+Lego! Lego! Lego! Who doesn’t like Lego? One of the most fascinating entries to the hackthon at TechCrunch Disrupt London makes the beloved bricks even more fun thanks to a smartphone.
+
+My Bricks Onlineis a project that lets kids — or adults! — build Lego that uses a phone to add music or sound effects to the toy. The idea is to give kids an even stronger reason to put the iPad down and play old fashioned toys, ironically using a smart device.
+
+Team Filip Denker and Peter Papp, who createdSuonoScopeat the event last year and run startupFooropa, chose to use cars for the demo because they work best with sound, are easy to build, and a popular favorite with kids. But, they pointed out, the project could be used with any kind of Lego.
+
+Papp explained that custom mechanic toys or mechanic Lego is expensive and not always easy to find, so My Bricks Online uses an ordinary phone to make things more accessible.
+
+To make their hack, the guys used PubNub’s API to trigger actions based on colors shown to the device’s camera — meaning that the car made different sounds on a red, yellow or black service — with a HTML page showing lap times on the race track they built. They pointed that, if you have smart bulbs in your house, you could also trigger trigger those using IFTTT actions.
+
+There you have it, proof that tech can bring new life to old toys.

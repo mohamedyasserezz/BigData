@@ -1,0 +1,11 @@
+CrunchLetter gives writers anxiety with AI powered VC newsletter generator
+
+A clever hackby Alexander Crosson and Naveen Kulandaivelu at today’s TechCrunch Disrupt SF Hackathon may be giving us tech journalists early warning signs of our forthcoming replacement by AI. While nowhere near advanced enough to conduct independent due diligence or investigative reporting, their project,CrunchLetter, is aimed squarely at automating the way we get news.
+
+Newsletters from publications like TechCrunch and StrictlyVC, as well as platforms like CrunchBase, are painstakingly assembled by hand, but the team’s machine learning experiment leveraging Google’s Tensor Flow is already able to generate rudimentary venture capital deal summaries.
+
+The tool uses unsupervised machine learning to analyze the CrunchBase data set, alongside articles from major VC publications, to generate newsletters for folks following the startup funding beat. During the team’s presentation, the two showed a work in progress that could assemble a 30 word summary of a funding round. The brief outline included the amount raised, the VCs involved, and details on the funded company’s product or service.
+
+Rather than just parse the internet for information, the two settled on an AI solution because of its ability to generalize. Venture capital news was an ideal first step because of how acquainted the team is with the startup world, but the model could be used for a variety of topics and industries. While newsletters would still need human oversight, a sophisticated enough AI could use database entries as relational starting points in generating analysis with vetted character and word models to hold the grammar together.
+
+With the help of four GPUs, the team was able to train its framework in the brief hackathon period. This meant using the TechCrunch and WordPress APIs to pull over 15,000 articles. With more time, more data, and additional recurrent neural networks to train models for word and topic representations, Alex and Naveen expect to be able to generate longer funding round summaries that take into account more complex analysis like market competitors.

@@ -1,0 +1,15 @@
+Google starts experimenting with quantum-secure connections in Chrome
+
+If quantum computing ever lives up to its promise (and that’s still a big ‘if’ at this stage), somebody could use this technology to retroactively break any communications that were encrypted with today’s standard encryption algorithms. To guard against this, Google todayannouncedthat it will now start experimenting using post-quantum algorithms to encrypt the connections between the experimentalCanary version of Chromeand some of its services.
+
+To be clear, this is only an experiment for now and only a small number of connections between the browser and Google’s servers will use this new algorithm.
+
+The idea here, though, is to bring this idea to the forefront now and “gain real-world experience with the larger data structures that post-quantum algorithms will likely require,” as Google engineerMatt Braithwaitewrites in today’s announcement.
+
+Few people fully understand quantum computing, let alone quantum cryptography. As best as I can tell, though, the new system will use standard cryptography in addition to this new post-quantum key-exchange algorithm. Specifically, the team is using theNew Hopealgorithm, which was designed for providing post-quantum security for TLS — the protocol that makes HTTPS secure.
+
+Google, which has a history of launchingnewinternet protocols, specifically says that it doesn’t want to create a new de-facto standard. Braithwaite notes thatNew Hopewas the most promising post-quantum key exchange the team found when it investigated this project in December 2015. Since then, though, more research in this area has already been published — including froma team of Google researcherswho collaborated with NXP, Microsoft, Centrum Wiskunde & Informatica and McMaster University. Because of this, Google plans to discontinue the current experiment within two years.
+
+If you want to participate in the experiment, you’ll have to installthe Canary version of Chrome(which can be unstable at times) and with a bit of luck, the occasional connection to Google’s servers will then be encrypted using this new algorithm. To see which protocol Chrome used to open a site, check out theSecurity Panelin the Chrome dev tools. If you see ‘CECPQ1,’ then the connection used the new system.
+
+Interestingly, we also today reported on the$10.3 million funding roundthe post-quantum cryptography startupPQrecently raised. Google’s news definitely validates PQ’s work on building post-quantum systems.

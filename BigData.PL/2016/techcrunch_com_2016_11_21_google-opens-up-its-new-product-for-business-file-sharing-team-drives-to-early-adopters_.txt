@@ -1,0 +1,19 @@
+Google opens up its new product for business file sharing “Team Drives” to early adopters
+
+Google isopeningup applications to businesses interested in testing its new file-sharing product called Team Drives.Announcedearlier this fall, the focus of Team Drives is to offer companies an easier way to share files across their organization, along with more granular access controls over the content those shared folders contain.
+
+Prior to Team Drives, the company’s Dropbox competitor, Google Drive, has focused more on personal productivity than the needs of larger organizations, where content needs to be accessible to a wide group of people through these shared spaces.
+
+Some people may need to have rights to actually edit the documents, while others may only need to view them, of course, but there also needs to be controls in place that would prevent users from removing or deleting files, either intentionally or by accident.
+
+When Google first announced Team Drives, it said that a rewrite of the technology stack that powers Google Drive was needed to enable this new functionality. Because it’s still not ready for public use while the kinks are being worked out, businesses can initially only request access to test Team Drives throughGoogle’s Early Adopter Program.
+
+This program will launch shortly, says Google. However, acceptance into the program has a few restrictions. For starters, testers have to already be G Suite Business and Education customers. (G Suite, as you’ll recall, isGoogle’s rebranding of its Google Apps for Work suiteof business tools.)
+
+In addition, only G Suite administrators can sign up for Team Drives, and they’ll need to enroll their entire primary domain. (They can’t enroll secondary domains at this time, either.)
+
+While admins will be able to restrict access to Team Drives content once on board, all users in the company will be able to see and access the Team Drives, explains Google. In other words, joining the Early Adopters program will have to be a decision businesses made at an executive level as I.T. won’t be able to test the service quietly with only select internal users.
+
+The largest benefit to using Team Drives is the ability to better centralize a business’s most critical files, eliminating the issues that come along with content silos, where certain individuals have key pieces of information in their personal folders. Instead, Team Drives users will be able to continue to access those files even in the event that an employee changes teams or leaves the company.
+
+Google has already been testing Team Drives with a small set of customers, but today is making testing available to a wider audience through the launch of its Early Adopter Program.

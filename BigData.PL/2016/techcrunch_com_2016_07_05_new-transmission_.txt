@@ -1,0 +1,73 @@
+New transmission
+
+What’s the first car you remember wanting?
+
+Was it a reasonably priced mid-sized sedan with ample leg room for passengers in the back? Was it a small, well-equipped compact SUV with room for all the kids’ bags and all-wheel drive for better control in adverse conditions? Was it even a two-door sports car with exaggerated curves and more power than any public road could ever need?
+
+Chances are, it was none of the above. More likely, it was a dinosaur wearing a saddle. Or a robot space horse. Or the Enterprise’s shuttle. Or an Incom T-16 Skyhopper. Or the Batmobile.
+
+The point is that the “car” that likely first filled you with wonder bears no resemblance to the first one you ever rode in. Instead, your first vehicular experience was probably far more down to earth. Rather than a space-age conveyance, it was probably a station wagon or a van, or perhaps a bus or a taxi. And what’s more disappointing still is that, compared to that first car you ever rode in, the cars of today seem, on balance, little changed.
+
+For the most part, cars today still depend on small controlled explosions to propel them, for instance. There’s not a single one that’s powered by magic, which is totally at odds with the cars of my childhood dreams. Even more down-to-earth alternatives, like electric vehicles, remain mostly toys of the elite or experiments for outliers.
+
+Even leaving aside the question of what makes cars go, there’s a lot about the rest of the experience that also remains depressingly similar to what we had 10, 15 or even 20 years ago.
+
+This is almost identical to the Plymouth Acclaim that my parents owned when I was growing up. It had a lot of the same features offered by my current, four year-old Nissan Rogue.
+
+From windows and seating to car stereos and environmental controls, we’re living in an automotive world that seems to have undergone only minor changes. Meanwhile, in the same span of time, we’ve seen phones evolve from essentially can-plus-wire, to computers more powerful than the ones many of us use at our desks today.
+
+We can now summon cars to ferry us wherever we want to go, giving form to thought using our connected pocket supercomputers. But the car you’ll get isn’t that much different from the one your parents used to drive you around to get you to sleep when you were a wailing baby.
+
+Bryson Gardner, founder of Pearl Automation, encapsulated some of the barriers car tech faces in terms of its investment and innovation cycle, when speaking with TechCrunch’s Matthew Lynley about his company’s recentlaunch of a smartphone-connected aftermarket backup camera.
+
+“One of the reasons for that is it’s expensive to make a car platform and it takes that long to recover the cost of everything associated with the car,” Gardner told Lynley. “You have this extended timeline in the beginning; once that tech appears in the car it’s really just in the subset of it, higher end and luxury cars. It can take 10 to 20 years to fan out. ”
+
+I’m sure some of you have been protesting the premise of this article from the beginning; ‘My BMW can park itself,’ you might say. ‘Could your 1996 Ford Windstar do that?” But that’s exactly what Gardner’s talking about; innovation may be apparent in the sliver-thin spear tip of the market, but for the vast majority of car drivers, the everyday experience of owning and driving a car has been in near-static for decades.
+
+Pearl Automation’s rear-view camera is a great example of how startups can innovate around the edges of the industry.
+
+But there’s also good reason for stagnation, or, put more charitably, for taking things slowly. The automotive industry is highly regulated, highly scrutinized by lawmakers and highly vulnerable to legal action, often at significant cost to car makers and other corporate interests.
+
+One recent, chilling example of the risks associated with making changes to how cars work at a basic level is theTesla Model S crash that resulted in a driver fatality last week. The crash involved Tesla’s Autopilot system, which is what’s classified as a “Level 2” automation system for vehicles. That means that it’s intended to be fully driver-assisted, but in this case the driver is reported to possibly have beenwatching a Harry Potter moviewhile it was in use. It’s a chilling example of how the interim steps between fully driverless vehicles and fully driver-controlled cars are fraught with potential danger.
+
+Another fresh example of why many move slowly when making changes to how we get around: The recall that Chrysler issued for Jeep Cherokee, Dodge Charger and Chrysler 300 models, which addresses an issue implicated in the recent death of Star Trek actor Anton Yelchin. As The Verge’s Nilay Patel points out, the problem was an example of how a small but significant change in the way a user interacts with a car resulted in amismatch of vehicle behavior and expectations– and again the cost may have been human life.
+
+There are very good reasons to go slowly with car tech innovation.
+
+A friend who works in the legal department at one of the major North American carmakers constantly reminds me that tech companies and startups looking to enter the space might not realize just how onerous and limiting the regulatory requirements can be. Making a car, he says (and this is a fairly common refrain across industry incumbents), involves longer development cycles, greater risk and less reward than creating the next big social app, or even the next must-have consumer gadget.
+
+All that friction in making significant change among cars is bound to have a chilling effect on any entrepreneur or investor who looks at the problem closely. And they don’t have to look very far for an object lesson in what can go wrong in a heavily regulated industry when a startup comes in looking to shake up the status quo.
+
+Like Theranos. To me, the name of the company always carried comic-book villain connotations, but now the startup community at large probably shares my reptilian response of misgivings when they hear the word, owing to its verypublic and protracted implosion.
+
+Many of the ‘I told you sos’ regarding Theranos’s spectacular failure include a reminder that healthcare is not to be trifled with; health startups can’t just launch an MVP and then fill in the gaps as they go. As Harvard Business School fellow Bill George put in aFortune commentaryabout the challenges faced by Theranos, Valeant and others, “[i]n health care, there are no shortcuts and no quick paths to market.”
+
+The recent spate of messy implosions in healthcare startups won’t make it easier for car tech companies to move fast and break things.
+
+The same sentiment could easily be applied to the automotive industry. While the experience of driving a car hasn’t changed that much in the past few decades, the risks associated with it have, thanks to carefully tested, rigorously deployed improvements in safety-focused technologies like seat belts, air bags and anti-lock brakes.
+
+Deaths related to motor vehicles peaked in in the U.S. in 1972, when nearly 55,000 people died. In 2014, that number was down to 32,675, despite it also being the second-highest year on record for total miles travelled since the advent of cars.
+
+The steady improvement in vehicle safety is evident, but the progress has been the result of the slow and steady mitigation of risk, thanks to features implemented only after years of lab tests, small-scale field trials and gradual large-scale deployment with a host of checks and balances at each and every stage.
+
+Case-in-point: The first ever back-up camera was introduced in a 1956 concept car. The tech then initially rolled out to production vehicles only in 1991, and only came to North American beginning in the early 2000s.
+
+As of 2018, all car makers will finally be required by law to include backup camera in new vehicles. Pearl Automation introduced its smartphone-connected, aftermarket innovation on this technology (now 60 years old for those keeping count) just this month.
+
+The 1956 Buick Centurion car actually had a rear-view backup camera in place of a mirror. (John Lloydunder a CC BY 2.0 license)
+
+Even with the glacial pace of automotive tech development to date, there are signs that we’re in the midst of a turning point in car innovation. Tesla, Uber and Google are actively developing self-driving car technology, among other car-related projects, and Apple is also rumored to be making a play in the market at some point in the future.Driverless busesand trucks are already on public roads for testing in some cases.
+
+Legacy players like Ford are making a lot of noise about their reinvention as technology-driven companies, too. Ford has a Silicon Valley-based division that will help shepherd and benefit from transportation-focused startups. Toyota invested in Uber, GM invests in Lyft and Volkswagen invested in Gett.Chevrolet acquired Cruise, a self-driving car startup that was only founded in 2013, making it a mewling newborn baby in car industry terms.
+
+Legacy companies are in an arms race to at least appear cutting-edge.
+
+The tension of both of these aspects of the automotive industry – an abundance of caution and fear of regulation on the one side, and a desperate need to appear vital and keep pace with hungry, deep-pocketed tech industry interlopers on the other – is what will make cars a topic of intense interest from a technology standpoint in the next few years.
+
+I still want Dino-Riders to be a real thing, for the record.
+
+It’s a world that I’m excited to learn more about, and whose history and future I look forward to exploring here at TechCrunch. There are few things that hold more promise, more danger and more excitement than the open road, and the road has never been more open than it is now.
+
+The cars we wanted as kids might not be the cars we get tomorrow, but chances are better than ever that they’ll be something dramatically different than what’s come before.
+
+Featured image: Bryce Durbin

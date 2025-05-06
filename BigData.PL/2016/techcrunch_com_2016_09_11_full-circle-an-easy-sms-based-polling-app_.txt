@@ -1,0 +1,13 @@
+Full Circle is an SMS-based polling app that makes planning outings easier
+
+You’re organizing a get-together, but getting input from your friends about where to go and when to meet feels like an exercise in herding cats. EnterFull Circle, an app built off a Twilio API that enables a host to text numerous contacts simultaneously and survey them via a short poll (think: karaoke or dancing).
+
+A polling SMS-based app isn’t an original idea, of course. Among Full Circle’s predecessors isSMS Poll,Poll Everywhere, andVoxVote. The aforementioned are designed to poll an audience or class, though. Full Circle, created last night at the Disrupt SF Hackathon at Pier 48, is aimed squarely at social circles.
+
+“I organize lots of events and emailing people and trying to get an answer from each of them is a pain,” says co-founder Shelley Chang. “There’s always someone who doesn’t respond. By texting your friends simultaneously, they’re able to respond anonymously without feeling pressured by everyone else’s feedback.”
+
+More, she says, Full Circle will remind hold-outs to respond, per instructions set by the host — and no one but the host needs to download the app.
+
+Can it make money? Are more sophisticated features in its future? Maybe. Right now, Chang, along with co-founders (and brothers) Jason and Justin Ho and cofounders (and neighbors) Felipe Baytelman and Sepehr Fakour, were happy enough to come together as a circle of longtime friends (and computer scientists) to create something new together.
+
+Says Jason Ho, a Georgia Tech grad who founded and spends his days runningClockSpot, a time tracking app for employees, “We didn’t research the competition; we’ve only tried it out [internally] among the five of us as of right now. But we wanted to solve a pain point that we’ve all experienced. Full Circle does that.”

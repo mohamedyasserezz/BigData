@@ -1,0 +1,29 @@
+Facebook wants to make you secure no matter how hard you make it
+
+When you have a billion people using your service, you have an obligation to keep your users secure, even when they behave in unsafe ways.
+
+Alex Stamos, Chief Security Officer (CSO) at Facebook, speaking atWeb Summitlast week, told a quick story to show what his company was up against when it came to security.
+
+“The family car was not designed to be driven into a wall at 100 kilometers an hour. We call that user error,” he joked. Car companies try to take reasonable safety scenarios into account when building cars, and then attempt to make them as safe as possible based on the information they have.
+
+Facebook, he said, doesn’t have that luxury. For example, Stamos said that he was in Nigeria recently and he met with young people, many of whom were using a $50 Android smartphone as their device of choice. The trouble with the phone, which was one these young people liked and could afford, was that it ran an older, much less secure version of Android — one which they weren’t likely to update.
+
+He can’t force people to upgrade their devices, so they have to accept the fact that these users are coming onto Facebook with devices, which very likely have malware running on them.
+
+“If we are going to connect the world, we also need to connect the world safely. In situations where it’s negative, we still look at it with open eyes and do everything we can to mitigate it,” he explained.
+
+He went on to differentiate between safety and security. You can develop your code as a company in a secure way, meaning you try to fill security holes and make it as difficult as possible for hackers to compromise the software. He says that every company should be duty-bound to prevent these types of weaknesses to the extent possible.
+
+Keeping your users safe is another matter. It’s about setting up systems in such a way that you have safety built into the structure of the service, regardless of how much or how little the end user is willing to participate in those safety mechanisms.
+
+For example, Facebook knows that users running two-factor identification are going to be inherently much safer than those running on a simple user name and password. Yet unlike your employer, Facebook can’t force you to use two-factor identification, even though it knows you would be safer if you did. That forces the social media giant to find other ways to build in safety for you.
+
+He says, the company actually monitors black market password databases, looking for password matches against its user base, and warning people when they find compromised ones.Facebook knows it can’t possibly control every variable, or even impose reasonable safety measures onto its users, so it uses as many creative ways as it can consider to keep as much of its user base safe as is within the company’s control.Stamos says the company has built a safety-oriented culture that enables the company to iterate quickly on changing safety and security issues, regardless of user behavior.“It is still our responsibility to protect the people who choose not to use [advanced safety features the company has built],” Stamos explained. In other words, they are going to make every effort to try and keep you safe whether you participate or not.
+
+He says, the company actually monitors black market password databases, looking for password matches against its user base, and warning people when they find compromised ones.
+
+Facebook knows it can’t possibly control every variable, or even impose reasonable safety measures onto its users, so it uses as many creative ways as it can consider to keep as much of its user base safe as is within the company’s control.
+
+Stamos says the company has built a safety-oriented culture that enables the company to iterate quickly on changing safety and security issues, regardless of user behavior.
+
+“It is still our responsibility to protect the people who choose not to use [advanced safety features the company has built],” Stamos explained. In other words, they are going to make every effort to try and keep you safe whether you participate or not.

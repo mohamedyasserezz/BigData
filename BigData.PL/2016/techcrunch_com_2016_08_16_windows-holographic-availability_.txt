@@ -1,0 +1,11 @@
+All Windows 10 PCs will get Windows Holographic access next year
+
+Windows 10 users will be able to dive into mixed realitystarting next year, with an update planned that can let any “mainstream” Windows 10 PC run theWindows Holographicshell the company first revealed in January 2015.
+
+The update will allow users to multi-task in mixed reality environments, which combine traditional 2D Windows 10 apps with immersive, 3D graphical environments. These will be enabled via a range of “6 degrees of freedom devices,” input devices that add positional tracking to other more traditional forms of input, like clicking and pointing.
+
+The Windows team is trying to make this more broadly available, too, thanks to support for a range of Windows 10 PCs that don’t necessarily need the specs required to run full-scale VR today. As an example, Microsoft presented a video of Windows 10 Holographic running at 90 FPS on an Intel NUC, a tiny desktop PC that’s not super expensive and included integrated Intel graphics.
+
+While it’s still unlikely that we’ll all be doing our average desk workflow of spreadsheets and slide presentation in mixed reality any time soon, it’s good to see Microsoft set a timeline for public availability of a feature which, at launch, seems like it had the potential to become vaporware rather than a shipping product.
+
+Intel and Microsoft are also building a specification for mixed reality PCs, as well as head-mounted displays that let users experience the mixed reality operating environment. The public release of the spec is planned for an upcoming Windows hardware develop conference in Shenzhen this December.

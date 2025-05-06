@@ -1,0 +1,19 @@
+Braigo launches web app to help blind people parse text on images
+
+The internet is all about sharing information, but a lot of the information shared assumes that its users are able to rely on their senses to consume said information. That isn’t always the case, and for themore than 285 million people around the worldwho are visually impaired, browsing the ‘net can be a less than fruitful experience.Braigo Labsis today launching a beta of its service to help blind and visually impaired people make sense of text on images. The beta is the first part of a bigger platform, taking a broad-spectrum approach to helping those unable to see.
+
+Braigo Platform is a free web application aimed at anyone who needs accessibility solutions for the visually impaired. The platform supports more than 50 languages, and can be used to extract text from images from a variety of sources, whether from the web or from a phone.
+
+“This is our step towards the right direction,” says Shubham Banerjee, founder of Braigo Labs. “We are looking at Braigo as a whole product that creates, supports and expands an ecosystem for the visually impaired. Not simply as a standalone software or hardware tool.”
+
+Screen readershave been available for a while, but are usually limited to text displayed as text (much like the words you are reading now). They are less useful for reading text overlaid on images, or, say, screenshots of text. New APIs and services arepopping up all the timeto help computers understand images, which will undoubtedly be helpful to visually impaired people, as well.
+
+Some of this app-enabled tech has been around for a while, and Braigo is launching itself into a market that has quite a few companies in it already, including theKNFB readerapp that can help read pretty much any text out loud,LookTel’s Money Readerthat helps identify currency, the open-sourceTapTapSee app, which can identify objectsand, of course, theBe My Eyes initiative, which crowdsources able-visioned people to help blind people see.
+
+If you’ve never tried surfing the web using a screen reader, you’ve probably not experienced that trying to navigate the web with serious visual impairments can be a hit and miss experience.
+
+Ah, who are we kidding — it’s mostly a complete farce. Don’t get me wrong, there is no shortage of guidelines for how tomake the web more accessibleto blind and visually impaired users, but a lot of web developers seem to simply not care. Even some of the most frequently used websites out there fail at the very basic task of explaining what an image is. Don’t believe me? Try this example…
+
+Death and taxes, and all that: The IRS is arguably one of the most important web sites in the U.S. The most important thing you’ll do is to file your tax return, which is why the IRS website has that friendly smiling man front and center. Unfortunately, the IRS also decided to put the text (“File Your Tax Return”) as part of the image. That wouldn’t have been a problem, had they decided to use analt attributeto describe what the image is. A simple alt=”Button to file your tax return” would have done the trick, but instead, Uncle Sam decided to use a title tag. Lovely, butno good to people relying on screen readers.
+
+If Shubham Banerjee’s name rings a bell, that’s because he was the 13-year-old entrepreneur whoraised investment from Intel Capital back in 2014to help further develop his Lego Braille printer. The video below shows how that project came together a couple of years ago.

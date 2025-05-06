@@ -1,0 +1,39 @@
+Navigating mobile content with app streaming
+
+People are very comfortablestreamingmovies, TV, music, video games and more. In fact, Ciscopredicts75 percent of the world’s mobile data trafficwillbe video by 2020.
+
+However, the idea ofstreamingapps on mobile devices, for better or worse, has lagged far behind. Since the introduction of the AppleAppStore in 2008, we’ve been conditioned to download anappin order to access its content — there’s just no other way.
+
+Increasingly, however, people are becomingsick of downloading apps. They want content and services instantly, and they don’t want to wait three to four minutes to download a singleappthat only offers a single function or service. Thehype around chatbots, for instance, can be attributed to people wanting other ways to access anapp’s services beyond theappstore. Understanding consumer frustration, Google announcedAndroid Instant Appsto let people access snippets of anappwithout downloading the full thing.
+
+Rather than just getting a taste of anapp, as Android InstantApppromises, imagine never having to download, update or delete anappever again, but rather clicking on a link and instantly getting the same experience.
+
+The concept ofappstreamingisrelatively new, but has the potential to completely transform how we engage with mobile content and services, with downloads no longer acting as roadblocks to discovery and access. Here are the nextfiveindustriesthatwillbe impacted byappstreaming.
+
+There’s little doubt that mobile health apps can make it easier for healthcare providers to communicate with their patients, butupuntil this point, the mobile healthcare industry has been plagued with tricky questions around patients’ personal information and how to deal with security and confidentiality issues. Obviously, the patient’s biggest fear is that their health information could get stolen.
+
+With apps, doctors and nurses fear their personal smartphones become roving access points for patient data. What if instead of a healthcare provider having to download anappin order to communicate with their patient, they could stream the application in a secure, unique session that would end once the necessary information was shared? Doctors would no longer download or store any patient data on their personal smartphones, and patients would rest easy knowing that they could receive proper care without sacrificing their security and privacy.
+
+Brands and companies have a hell of a time trying to understand their customers’ experiences on their websites and apps. Now multiply those challenges by all the different devices consumers use. Large, dedicated customer service teams devote a lot of time and resources to troubleshooting errors and broken interfaces. The biggest upfront challenge is recreating the problem and what it looks like on a user’s device, whether it’s an iPhone, Samsung Galaxy or Windows Surface.
+
+At large companies and enterprises, customer service teams have to shuffle through multiple physical devices in order to recreate a problem while the customer is on the phone.Appstreamingcould turn this customer service nightmare into a breeze. Rather than being forced to recreate a problem on the physical device, throughappstreaming, a customer service rep could select a device type and immediately virtualize the user’s experience in order to quickly understand and resolve the problem.
+
+Anyone who’s used their smartphone for a price comparison travel site while navigating an airline’s website and juggling multiple itineraries and other reservations for cars and hotels knows that the mobile travel industry is ripe for disruption. No one wants to use a differentappfor each segment of any already labor-intensive search to plan a vacation. And if you’re like me, you’re not loyal to any travel brand or service, so downloading a travelappgenerally means you’ll delete it shortly thereafter.
+
+Appstreamingcould basically cut down on the waste and repetition built into the travel industry. Imagine if you streamed three travel search apps to see which one offered a better deal. Once you madeupyour mind, a link would take you directly into the flight carrier’sapp, where the exact flight you were looking into was already loaded into your cart, with all of your personal information saved so you didn’t have to re-enter it.Appstreamingwould allow travelers the ability to focus on the best deals, not the best apps.
+
+Even before big news events like whenVenmo got hacked last year, consumers have been slow to adopt mobile payment apps, as security concerns remain the No. 1 roadblock. Just like the healthcare example above, trust is an essential component between a consumer and a mobile paymentapp. However, trust is hard to cultivate when anappthat relies on your payment credentials lives in your smartphone like a sitting duck.
+
+Don’t get me wrong: The lion’s share of the work in mobile paymentswillcome from better identification and authentication technologies. Beyond these, however, mobile payment apps might see greater adoption if all of our daily transactions didn’t live in anapp, but instead in a session that was secured in the same way that we shop on the mobile web.Appstreamingwould also help ease issues of interoperability. I may use Venmo, but my friend uses Wells Fargo SurePay and the parking meter may use its own city-wide paymentapp. Rather than download all of them, I could just as easily stream eachapponce to complete my payment or cash transfer.
+
+I love shopping, and definitely have a long list of go-to brands — but that doesn’t mean I want to download and manage a bunch of retail apps. RetailMeNot found similar results in astudyconducted last year: 60 percent of consumers who use a smartphone to shop online have fewer than two retailer-specific apps on their phone, and 21 percent don’t have any at all.
+
+From my perspective, consumers don’t want something as permanent as anappfor an experience as transient as shopping or browsing. It’s too much commitment. Shoppers may be more open to a retailer’s mobile experience if they didn’t have to download anappthat takesupspace on their smartphone.
+
+Instead, throughappstreaming, they could get the same benefits and perks — like coupons and in-store rewards — without any of the hassle that comes with retail apps today. That way, you could seamlessly move between different stores and get all the perks of the stores’ apps, without waiting four tofiveminutes just to get a coupon that only saves you 15 percent.
+
+The impact of app streaming is not limited to the industries above, though I anticipate these five will be early benefactors, given their challenges on the mobile app front.
+
+More broadly, app streaming has the potential to disrupt the entire mobile experience as constructed by Apple seven years ago. It can cost developers upwards of $5 to $7 to “acquire” a user, or get them to download their app. But we all know that people regularly download an app, use it once then delete it or never use it again — making that $5 to $7 per user a complete waste.
+
+This is simply unsustainable over the long term. App streaming could crack the app-install model wide open, making the content and services in apps as accessible as the mobile web. In the end, this could benefit all industries participating in the digital economy.

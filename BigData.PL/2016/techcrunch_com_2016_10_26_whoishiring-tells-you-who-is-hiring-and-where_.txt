@@ -1,0 +1,11 @@
+WhoIsHiring tells you who is hiring and where
+
+WhoIsHiringis a clever site that aggregates startup jobs around the world. The unique angle — a map that shows you exactly how many jobs are in a particular area — is a clever and fun hack on the boring job boards of old.
+
+Created by Ania Bywanis and Sebastian Pawluś, the site is based in Krakow, Poland. It was a reaction to difficult job searches using outdated methods.
+
+“It started as a side project, to help Sebastian solve his own problem. He has spent a few years working as a freelance developer, doing projects for different companies. To get new clients, he would search the Hacker News’ Who is hiring thread and get frustrated with: the lack of a good search engine, inconsistency in naming conventions, and jobs located in places that would not normally show in a search,” said Bywanis.
+
+The service aggregates 17 job sources. To use it you click a circle and zoom in. The site pulls data from each source and then shows them in a handsome list. Companies can post directly to the site, as well.
+
+The product is growing and looking for funding. They are currently bootstrapping and they’re seeing 80,000 users a month. The mission, ultimately, is to make it a lot easier to find jobs around and near you, a mission that is noble as it is useful.

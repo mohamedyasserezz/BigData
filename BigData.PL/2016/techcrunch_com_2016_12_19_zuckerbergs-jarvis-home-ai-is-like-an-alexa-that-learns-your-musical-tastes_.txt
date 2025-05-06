@@ -1,0 +1,17 @@
+Zuckerberg’s Jarvis home AI is like an Alexa that learns your musical tastes
+
+Mark Zuckerberg set himself an ambitious personal project for 2016 – build a connected artificial assistant to help him automate certain tasks at home, including things like controlling the lights, watching for visitors and operating appliances.Zuckerberg said on Facebookthat his task actually turned to be “easier than [he] expected” in some ways – which should come as no surprise given that a good percentage of you out there reading this right now can accomplish all those things using readily available devices like Amazon’s Echo.
+
+To be fair, most (all?) Echo owners didn’t build their own Alexa service from scratch, and that’s what Zuckerberg set out to do, coding his own personal Jarvis using Python, PHP and Objective C, and incorporating machine learning techniques including language processing, speech recognition and face recognition.
+
+The Facebook CEO also had to wrangle a bunch of connected devices that don’t necessarily talk to each other out of the box, including Sonos, Spotify, a Samsung TV, a Crestron smart home and lighting system, a Nest cam and more. And once these were all tied together, Zuckerberg also had to build a way to translate natural language requests made as though you were talking too another person into commands that could operate all of the above. Plus, these requests had to be understood in context; if Priscilla Chan, Zuckerberg’s wife and co-chair of the Chan Zuckerberg Initiative, asked for something to be done “in my office,” that should trigger a different action than if her husband made the exact same request.
+
+One of the more interesting things that Zuckerberg was able to get Jarvis to do that isn’t yet present in anything else on the market really is to recognize his taste in music and select appropriate tracks to play automatically with very little input. Jarvis will check back on previously played music to make a choice, and Zuckerberg can also ask it to change the mood using non-specific terms like “play something light” if he wants to get more specific. The system also tracks Chan’s taste separately and can do the same for her.
+
+It’s also noteworthy that Zuckerberg built a Facebook Messenger bot to communicate with Jarvis via text, and that he found that preferable overall to communicating with it via voice, mostly because he didn’t want to bother anyone else in the house.
+
+Zuckerberg’s takeaways from the project include that “AI is both closer and farther off than we imagine,” mainly because while it’s making great strides in specific domain capability, it’s not doing so well in taking lessons from one domain and applying it to problems in others – truly capable general AI is still a long way off, in other words.
+
+Still, Zuckerberg notes he spent only around 100 hours on building Jarvis in 2016 and ended up with a pretty capable system, one that he says he might eventually release if it can achieve more home automation functionality not tied to his specific setup. He also teases that this could prove the basis for a new future Facebook product. That’s likely more cheek than anything else, since it’s almost certain that Facebook’s engineers are at least exploring some kind of Alexa-type competitor. If they weren’t, that’d be massively short-sighted.
+
+Also,zero mention of Robert Downey Jr., sadly.

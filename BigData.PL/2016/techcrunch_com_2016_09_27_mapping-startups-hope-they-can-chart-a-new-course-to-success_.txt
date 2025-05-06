@@ -1,0 +1,37 @@
+Mapping startups hope they can chart a new course to success
+
+Alphabet,AppleandUbermay bespending billionson exhaustive new mapping technologies to power the self-driving car revolution, but there’s a new generation of companies betting that a combination of crowdsourcing and artificial intelligence will enable them to navigate their way to success in the wild world of international geographics.
+
+Some companies are choosing to go deep into the haphazard images they’re collecting from crowd-sourced contributors, while others are using artificial intelligence and a vast network of connected vehicles to share information about road hazards, and pave the way for true autonomous cars.
+
+Mapillaryis one of these companies looking to gotheir own way. With only $8.5 million in venture financing (admittedly from big names like Sequoia Capital), the company is looking to beat the big boys at their own game — or at least convince one of the big boys to buy them for a handsome sum.
+
+Mapillary crowd-sources images from a network of contributors in much the same way that Waze relies on drivers for information. What differentiates the company is the depth of analysis of the images it receives.
+
+“We’re labeling all the regions and objects and making that available,” says Jan Erik Solem, the Mapillary chief executive, of the company’s first real product offering. It’s a process called semantic segmentation.
+
+The business model for the company is selling map data from the images they collect. On its face, the model seems somewhat similar to the business at CityMaps, which wasrecently bought for a tidy (if undisclosed) sumearlier this year.
+
+However, there’s another side to the business that’s closer to the heart of the autonomous driving vehicle experiment. The company is actually working with UC Berkeley on the university’sDeepDriveinitiative.
+
+“To date…. we have almost 2 million kilometers,” said Solem. “It’s about 15% to 20% of what Google has. We launched two-and-a-half years ago… and we’re not spending a billion dollars a year. The ambition here is to have different coverage.”
+
+The depth of coverage that Mapillary can provide ostensibly can give the company a different view of the world than Google’s mapping features, according to Solem.
+
+“Every system you train is going to be biased based on the inputs,” said Solem. “The out put is directly correlated to the input… You can train a system in the U.S. but it’s not going to be the same in the rest of the world… If you don’t have a tuk tuks in your training sets on the streets in Michigan, you’re not going to detect a tuk tuk on a street in India.”
+
+Earlier this week, the German company HERElaunched its first product in partnership with its co-owners— the European automakers, BMW, Daimler and Volkswagen.
+
+According toan initial report fromReuters, the three German automakers will share data to provide information on traffic conditions ranging from accidents or traffic stops to poor road construction, to even street-side parking.
+
+The information will come from data input from thousands of live traffic feeds from cameras integrated into the cars’ display and navigation systems.
+
+That bombshell is the first indication of why so man companies were fighting over HERE’s navigation technologies when Nokia carved it out and sold it to the three automakers for $3.1 billion in the latter part of last year.
+
+In the U.S., competition for HERE’s data services are a bit more early-stage… more in the vein of Mapillary than the German behemoth.CivilMaps, backed by Ford,raised $6.6 millionto pursue a somewhat similar technology.
+
+Meanwhile, competitors like Google aren’t taking the challenge of new functionality from a band fo startups at face value (or their last valuations). In Google’s case,that means the acquisitionearlier this month of Urban Engines.
+
+“There are certain situations that [the AI] can’t handle because they haven’t built that into the machine from the start,” said Solem, “and to build that in they have to have training.”
+
+That’s why local data is so important, and may represent the next trail blazed on the road to full autonomous vehicles.

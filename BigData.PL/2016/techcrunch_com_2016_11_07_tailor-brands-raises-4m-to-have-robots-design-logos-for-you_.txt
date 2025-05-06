@@ -1,0 +1,19 @@
+Tailor Brands raises $4M to have robots design logos for you
+
+For the most part,apps like Prismadepend on curated training sets to impersonate style and apply it to a new context. While this may signal that machine creativity is dead on arrival, we shouldn’t forget that even Picasso needed to attend a showing of African masks before he could push cubism into the popular lexicon.
+
+Yali Saar, CEO ofTailor Brands, believes much the same about his quest to automate the full-service branding agency. With a new $4 million Series A fromMangrove Capital PartnersandDisruptive Technologies, he believes his machines can design logos, promotional products, and even social media campaigns.
+
+Back in 2014,when Saar launched his company in the Startup Battlefield at TechCrunch Disrupt, Tailor Brands was considerably more amateur. Today the system is more useable than ever, though not without its faults.
+
+Above are two designs the system sent my way after I provided a name “Entwine” and a fictitious backstory about a tech startup connecting researchers with companies to facilitate tech transfer. I opted for that description because it felt like enough of an edge case to throw off a system that gets regular requests to create logos for coffee shops.
+
+After answering some high-level questions about my design preferences, Tailor sent me a set of logos. Perhaps I’m hallucinating, but the former definitely looks influenced by the periodic table of elements (research), and the later is certainly “entwined” together. Unfortunately, that one is so bunched up that it’s difficult to read from afar. To be fair though, humans have charged hundreds of thousands of dollars to create far worse.
+
+“Every logo is a formula of type face, structure, color, etc,” explained Saar.
+
+The branding industry is full of best practices. Companies in similar industries often use the same font to immediately connect with customers. However, sometimes the best design comes from mistakes. To get there, Saar is trying to speed up the process by building a highly interdisciplinary team of engineers and designers. Everyone at the company is required to learn about the intersections of design and machine learning, which is helpful when tinkering with the product at all levels.
+
+Moving forward, Saar sees great potential in the data collected by Tailor Brands. Because users create a new design every 1.5 seconds, it’s easy to quickly pick out macro trends in design and branding strategy that even big firms don’t have access to.
+
+For the user, Tailor Brands charges between $24 and $99. The final amount depends on whether you want just a logo or a full package of marketing materials. The company also offers a subscription plan for $9.99 per month.

@@ -1,0 +1,9 @@
+Making an Arduino-based CNC plotter out of a DVD player is as easy as 1, 2, what’s Arduino again?
+
+Once, long ago when magazines still existed, I bought a copy of Popular Mechanics. Inside was a guide on how to build a robotic lawnmower. Now this was back in the 1980s so it wasn’t a very complex machine – it basically backed up when it hit stuff – but I was amazed. Being only ten at the time I was unable to build the thing and, now that I’m 40, I still can’t fathom how to build this DIY CNC plotter out of a DVD player and some Arduino gear.
+
+TheCNC-Machine Instructable, created by the folks at CNC World, is fairly straightforward. You take apart a DVD player and then use the case to create a sort of platform for the system. You can then add in an Arduino Uno R3 – basically a single-board computer – and the proper motor controller. Once you have all that set up all you have to do is program the DVD drive’s head to move in two dimensions, X and Y, and cut out or laser the things you’re messing with. In other words it kind of makes me feel like I’m 10 again and reading Popular Mechanics.
+
+To create the drawings for the CNC the creators suggestInkscape, a free vector art program. Because the CNC machine is fairly flexible you can have the robot draw on paper, cut surfaces with a nice sharp Xacto, or shoot lasers at plastic. It’s basically a fun little project that doesn’t take too many smarts and you can easily fill up a nice weekend with a little hardware hacking and CNCing. Now if you’ll excuse me I have to go figure out how to put metal blades on my Roomba for some 1980s era outdoor action.
+
+[youtube=https://www.youtube.com/watch?v=opZ9RgmOIpc]

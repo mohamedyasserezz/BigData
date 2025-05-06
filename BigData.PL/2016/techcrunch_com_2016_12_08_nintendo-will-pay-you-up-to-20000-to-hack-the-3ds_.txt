@@ -1,0 +1,23 @@
+Nintendo will pay you up to $20,000 to hack the 3DS
+
+So you bought a Nintendo 3DS to play somePokemon Sun… but now your Pokedex is complete and you’ve explored every inch of Alola. Now what?
+
+If you’ve got a technical background, you might consider poking around the 3DS itself. There might just be a big ol’ stack of cash in it for you.
+
+Nintendo has just launched abug bounty program by way of HackerOne. Find a bug that can make a 3DS do certain things it’s not supposed to and Nintendo will cough up anywhere from 100 bucks to $20,000.
+
+Nintendo is being pretty open with the sorts of things they’re looking to eliminate here. To quote them directly:
+
+Below are examples of types of activities that Nintendo is focused on preventing:
+
+Piracy, including:– Game application dumping– Copied game application execution
+
+Cheating, including:– Game application modification– Save data modification
+
+Dissemination of inappropriate content to children
+
+As with most bug bounty programs, there are a few catches: the payout is up to Nintendo, you’ve got to be the first person to tell them about the bug (publicly or privately)andyou’ve got to agree not to ever tell anyone else about the bug.
+
+That last one in particular might trip up some people — many a researcher loves to detail their bug hunt to the public once a company has had a chance to fix it. Alas, as Nintendo can’t necessarily patch all bugs out of existence on all consoles (many of which never connect to the internet), they’re trying to keep a tight lid on things.
+
+I get the sense that this is something of a dry run for Nintendo — an experiment to see how something like this might work on the Nintendo Switch. As an example: Preventing piracy on the 3DS is listed as one of the main goals, but that ship set sail long ago. They might find some new exploits they hadn’t seen before through this program, but that doesn’t help all of the ones that have come to light since the 3DS started shipping back in 2011.

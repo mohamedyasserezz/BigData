@@ -1,0 +1,41 @@
+The Emotion Journal wins the Disrupt London 2016 Hackathon Grand Prize
+
+It’s been a long night at the Copper Box Arena in London. The arena hosted the handball competition of the Summer Olympics a few years ago. But this weekend has been all about a different kind of competition — theDisrupt LondonHackathon.
+
+Some of them were participating in our event for the first time, while others were regular hackers. Their challenge was to come up with a neat, funny and smart hack in just 24 hours.
+
+We could all feel the excitement in the air when the 63 teams took the stage to present a short one-minute demo to impress fellow hackers and our judges. But only one team could take home the grand prize and £4,000. So, without further ado, meet the Disrupt London 2016 Hackathon winner.
+
+Journaling has proven psychological, stress-reducing, goal-orienting benefits when done regularly. But for many people, writing is harder than talking. The team used IBM Watson to create a smart voice journal. You talk to it about your day and it analyzes your emotions and stores the logs. If you do it once a day you can see a visual representation of your feelings and experiences over time. Using artificial intelligence to improve people’s mental health is quite neat.
+
+TechCrunch’s Kate Conger wrotean articleabout this hack because it’s pretty cool.
+
+Refugees suffer from distress and mental health conditions which are difficult to address without the support of friends and family or a mental wellness expert. Sayfe Space gives Refugees a platform to naturally describe their problems and get support by anonymously chatting with volunteers that can empathize with their situation and are keen to offer support. The team used IBM Watson for natural language processing and the chatbot interactions.
+
+Doshbot is an AI assistant that helps you save money. It integrates and pulls in your banking transactions, GPS location and mix them with your emotional tones and writing style on social networks, such as Twitter and Facebook.
+
+Saalim is a recovering serial founder and startup enthusiast, and has sought refuge at 500 Startups. There he’s an Entrepreneur in Residence, where he finds startups to invest in primarily for the London Series A growth & investment program and works with them specifically on Enterprise Sales, Customer Centricity and Applied Machine Learning.
+
+An old-fashioned polymath, he’s been a technical co-founder (CTO), a growth hacker (CMO) and led sales (CEO). Notable exits he’s been involved with include consulting talent on demand company Skillbridge (acquired by Andreessen-backed unicorn Toptal) and internet security firm ScanSafe (acquired by Cisco). For his sins he was once a News Corporation executive, and started his career at the Boston Consulting Group. He lives mostly in London and loves dogs and puns.
+
+Kathy joined Facebook in 2010 and her mission has been to help clients reliably determine the impact of their advertising and strive for better industry measurement solutions for digital and mobile channels. Kathy has worked alongside top global FMCGs and Telco globally and across Europe in her current position. Before joining Facebook, London in May 2010, Kathy worked within the business development team at Harris Interactive UK. Stateside, she has served as a Vice President within a San Francisco based research consultancy, a government and academic research Director at Knowledge Networks and an Exit Poll consultant for the major news media in New York City.
+
+Alex is the co-founder and CTO of Peg, a technology platform helping multinational brands and agencies to find and work with top YouTubers. Peg is used by over 750 organisations worldwide including Coca-Cola, L’Oreal and Google, and has the backing of 27 top angel investors from the worlds of advertising and tech.
+
+Prior to founding Peg in 2014, Alex was a senior instructor at Makers Academy, helping hundreds of career changers train to become junior developers through MA’s intensive 12 week bootcamp. He also spent a number of years as a digital nomad, traveling and providing development consultancy to a number of tech giants and startups in Silicon Valley (including a year spent at GOAT from Y Combinator’s 2011 batch). His academic background is in Linguistics, and he takes a particular interest in the areas of machine learning and natural language processing.
+
+Carmen Ruiz Vicente is a software engineer at Google DeepMind, where she works on technology for health services and patient healthcare. She has also worked on the Google beacon platform, including the open beacon format Eddystone, and Google’s cloud services that integrate Bluetooth Low Energy (BLE) technology with first- and third-party apps. She focused on the development of Android services that improve location accuracy and enable location-based interactions. Prior to that, she was a member of Google’s Privacy Engineering team, which is responsible for delivering and promoting tools, processes, culture and infrastructure to build privacy-robust innovative products and services. As a privacy engineer, she specialised in research and development on the topic of location privacy in location-based internet services.
+
+Carmen completed her Ph.D. at the Center for Data Intensive Systems in Aalborg University, Denmark. Her primary area of research was Privacy-preserving Data Management techniques for Location-based Services and Social Networks. Prior to joining Google, she was a post-doctoral researcher at Universitat Oberta de Catalunya (Spain).
+
+Keith Teare is Executive Chair and head of the Investment Committee at the UK’s newest investment company Accelerated Digital Ventures (ADV), with investments from the British Business Bank, L&G and Woodford Investment Management. He’s also the founder of Archimedes Labs, the Palo Alto incubator.
+
+Previously he was a founder of TechCrunch with Michael Arrington, and before that at Easynet – one of the first Internet Service Providers in Europe, and the first to do a public offering. He also founded RealNames.
+
+EasyNet and RealNames were both unicorns…. well before the term was coined.
+
+Marily has given 3 TEDx talks, she received the Women in Science and Engineering (WISE) Influence Award in 2015 and a medal of outstanding excellence from Imperial College London for her work in championing the women in tech community. She was the first Greek woman to receive the Google Anita Borg scholarship, she is now the director of the London Geekettes Chapter and is always trying to find new ways to empower women in science both in the UK and globally. She organized the UK’s first women-only hack at Facebook London in 2013 and has participated and judged a total of 20 hacks up to date. The most memorable one being HackEd, sponsored by Bill & Melinda Gates Foundation, where her team won the 2nd prize.
+
+Claire has a longstanding passion for machine learning and computer vision!   She is excited by solving real world problems, applying cutting-edge research in these fields.  She was awarded a PhD from Imperial College London.  Her PhD and postdoc research were in medical computer vision and was awarded 10 prizes and additional funding. Claire’s research yielded state of the art software which can interpret medical scans and predict disease severity by learning from thousands of images. She is now working in a commercial environment and continuing to develop machine learning and computer vision algorithms, whilst actively keep up to date with the latest research and academic trends to find new opportunities.
+
+In her free time she has been a great supporter of women in technology; engaging in mentoring schemes and co-founding and leading the London Geekettes with Marily Nika.

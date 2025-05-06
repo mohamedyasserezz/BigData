@@ -1,0 +1,15 @@
+Google Maps now notes if a location is wheelchair accessible
+
+“Can I get in the building?”
+
+It might not be a question you find yourself asking regularly — but for the 3 million+ wheelchair users in the U.S., it’s a question that has to be considered. And starting now, it’s one that Google Maps is trying to help answer.
+
+“Wheelchair accessible entrance” will now be noted in a location’s “Amenities” section wherever Google is made aware of the accessibility.
+
+Accessibility info won’t show foralllocations — that data simply doesn’t exist yet. Organizations likeWheelmaphave been building up the dataset for a while, but the available data doesn’t blanket major cities, much less the world. Google is turning to local guides (users who contribute location info in exchange for early access to new features) to grow their data set, but it’ll take a while.
+
+The effort is led by Googler Rio Asaka as part of his “20% time” (Google’s policy that has its employees spend one day a week tinkering on side-projects).BI has an interview with him here.
+
+“But wait!” you say. “Aren’tallbuildings supposed to be wheelchair accessible?”
+
+While the Americans with Disabilities Act requires new buildings to account for wheelchair access, the requirements for structures built prior to the act’s signing in 1993are less strict(Heads up: PDF link). In major cities where many of the buildings were built decades ago, wheelchair access is anything but a given.

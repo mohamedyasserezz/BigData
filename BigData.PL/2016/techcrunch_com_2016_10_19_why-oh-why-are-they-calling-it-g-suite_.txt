@@ -1,0 +1,17 @@
+Google’s G Suite gets five new productivity features
+
+Google’sG Suite, the new name for what waspreviouslycalled Google Apps for Work, is getting a couple ofsmall but nifty updatestoday. There isn’t necessarily a common theme here, but for the most part, the new features focus on supporting more of the existing workflows in larger companies and bringing more of Google’s smarts to these apps.
+
+If you work in the kind of company where people like to assign work to other people, then this first new feature will have you jumping up and down in joy like a kid on Christmas morning. When you type something like “Mathew to create a document with all the upcoming earnings,” Docs will now automatically suggest that you create an action item and assign this to (hopefully) the right person. You can also create these action items manually, of course.
+
+The automatic feature only works in Docs on the desktop, though, while manual assignments work in Docs, Sheets and Slides on desktop and mobile. Once you assign something to somebody, that person will get an email.
+
+Google now also makes it easier for you to see which action items have been assigned to you and which documents may need your attention. All the G Suite apps will now show a badge on files that have action items attached to them and when there are unresolved suggestions that others may have made to your files.
+
+Google Forms is getting an update, too. Here, Google is also using some of its machine-learning expertise to make using this service a bit easier. It can now suggest responses based on your queries. Here is Google’s example for this: say you are setting up a form to ask about what size T-shirt they wear so you can distribute them at your next company event. Simply type that question into Google forms and it will suggest responses.
+
+In addition, Forms users can now also prompt respondents to upload files (though this only works when you share a form within your domain).
+
+If your company has made the move to Slack, then the most important feature for you is likely that Google and Slack teamed up to make integrate Google’s productivity apps into Slack conversations. Simply click the + button next to the message box in a Slack chat and the menu will let you create a new document or import a file from Google Drive.
+
+Both Google and Microsoft are currently in a race to add smart, machine-learning features to their productivity apps. For the longest time, Microsoft Word or Google Docs weren’t really exciting products anymore. Now, however, artificial intelligence and advanced analytics are making even these previously stale product categories interesting again.

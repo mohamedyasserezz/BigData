@@ -1,0 +1,35 @@
+Mozilla invests in Germany’s Cliqz, a private search browser
+
+Mozilla has invested inCliqz, an anti-tracking browser with a pro-privacy built-in ‘quick search’ feature. The startup currently targets web users in German-speaking countries — where it has amassed more than 1 million active users on desktop and mobile for its Firefox-based browser and browser extension, since being founded back in 2008.
+
+Cliqz founder and CEOJean-Paul Schmetz tells TechCrunch the plan is to take Cliqz to other countries in future — although he did not specify a timeframe for that expansion. He also wasn’t commenting in more detail on the aims of the Mozilla partnership, at this stage.
+
+The size of Mozilla’s investment is not being disclosed either but the pairsaid todaythat it becomes a strategic minority investor. The Munich-based startup has been majority-owned by international media and tech company Hubert Burda Media since 2013.
+
+The Cliqz browser, which is also available as an extension for Mozilla’s Firefox browser, has its own search index — which the startup says sets it apart from pro-privacy rival DuckDuckGo, for example.
+
+Schmetz argues that pro-privacy browsers that don’t have their own index — another example is U.K. startupOscobo, which licenses search results from Bing/Yahoo — are likely to be passing users’ IP addresses to the search providers when they send queries. Making them rather less private, given how IP addresses can be used to track individual’s web usage.
+
+Cliqz has also built its own anti-tracking technology whichdoes not rely on block-lists(as a service likeDisconnectdoes), but rather works by community consensus filtering of unsafe content.
+
+Another flagship feature for Cliqz is a built-in quick search which lets users search directly in the browser so they don’t need to “detour” to a separate search engine, as they put it. It’s not a fully fledged page of detailed search results but returns a selection of suggested websites — with Cliqz arguing it is useful for “navigation searches”, which of course make up the vast majority of search clicks.
+
+“If for example Cliqz users would like to carry out extensive research, they can easily forward their search to the additional search engine within the browser. They then only need to use search engine results (leaving data and seeing adverts in the process) if they really need them,” adds Cliqz’s Thomas Konrad.
+
+The Cliqz search engine is fed by user data to improve its recommendations. However it says community contributions to its web stats have “technically guaranteed anonymity” — noting its claims can be audited via third parties thanks to an open source code base.
+
+The Cliqz browser for Mac and Windows launched in March this year, and is built on Mozilla’s open source Firefox framework. It’s also available on mobile, as an iOS or Android app. The Cliqz Firefox extension launched earlier, in June 2014.
+
+What’s the business model?
+
+So how does a browser that does not harvest and track user data propose to make money? By also keeping monetization efforts local to the users’ device — via a Cliqz Offers app, currently in the works, with a push rather than pull structure for sending relevant offers out to users.
+
+The Offers app works by analysing browser data (such as browsing history) to detect a user’s interests but doing so locally, on their device. The Cliqz Offers server broadcasts all offers available — and each users’ Offers app only pulls in what is relevant for them. The browser then displays the offer, so Cliqz says this privacy-by-design structure means that “no interest signal or other data will ever leave the browser”.
+
+“The communication between the Cliqz Offers Application and the Cliqz Offers Server doesn’t contain any personal or personally identifiable information and is routed via a proxy server to guarantee anonymity,” adds Konrad. “Personal data stay where they belong: on the device, in the ownership and under the full control of the user. With Cliqz Offers, Cliqz will prove that targeting users by their interests is not in contradiction to privacy and that a free product is possible without exploiting personal data.”
+
+“Our business model does not need tracking because we are on the users device and their intents/interests remain there. The advantage of the browser is that it doesn’t need to track server-side,” notes Schmetz.
+
+“Mozilla is the ideal company for Cliqz to work with because we both believe in an open Internet where people have control over their data. Data and search are our core competencies and it makes us proud to contribute our search and privacy technologies to the Mozilla ecosystem,” he adds in a statement.
+
+Also commenting in the investment in a statement, Mozilla SVP Mark Mayo added: “Mozilla is excited to work with Cliqz because we see how their products align with the Mozilla mission. We are proud to help advance the privacy-focused innovation from Cliqz through this strategic investment in their company.”

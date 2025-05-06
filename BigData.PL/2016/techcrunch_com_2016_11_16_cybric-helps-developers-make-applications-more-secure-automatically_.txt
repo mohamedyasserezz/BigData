@@ -1,0 +1,17 @@
+Cybric helps developers build more secure applications automatically
+
+These days, application development happens at increasing velocity, and security can be a victim of that speed.Cybricwants to address that issue by providing an automated security check every time you update the build.
+
+Cybric’s Continuous Security-as-a-Service platform, which became generally available today, automates the security check at whatever intervals make sense for a development team to be sure that security is being built into the product before it’s deployed. It is compatible with standard developer tools such as GitHub and Bitbucket and allows developers to use their scanning tool of choice to look for issues.
+
+Instead of testing the actual production code, Cybric creates a copy, which it keeps in the customer’s production environment for security purposes, runs the scan and then deletes the copy. If it finds any issues, it sends a notification to designated individuals by some combination of email, Slack or PagerDuty.
+
+The key here is that it takes the security check out of the hands of the developers and makes it fully automated. The automation means it won’t slow down the team, but still ensures that security is maintained throughout the process.
+
+It’s important to note that Cybric’s job is to simply find vulnerabilities. It’s up to the developers to take action on the recommendations. “We don’t want to be the gate or governor. We want the teams to take responsibility for it. We want to give you actionable steps. If they choose to bypass them, it’s on them, but it’s fully tracked in the system,” Mike D. Kail, Cybric’s chief innovation officer told TechCrunch.
+
+The teams can configure just how often they want to run a check, and that will depend on the company and its requirements. Some may do it on every commit, while others may do it on regular intervals such as once a day or once a week, depending on their needs.
+
+The product also offers a dashboard view for management to see exactly how many issues were found before the application was released into the world. “When the board comes to the Chief Information Security Officer (CISO), and asks how secure we are, [our dashboard] gives you a clear [understanding] of how many issues have been prevented from being exposed to production and how are we improving and helping developers write more secure code over time,” Kail explained.
+
+Cybric was launched last year and got $6.3 million in seed funding last month. It’s based in Boston and currently has 13 employees.

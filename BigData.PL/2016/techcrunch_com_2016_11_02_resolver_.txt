@@ -1,0 +1,23 @@
+Resolver plans to use AI to make your customer complaint stick
+
+Whenever I receive bad service from a brand, I typically fire off an angry tweet and hope the company or organisation I’m complaining about notices the blue tick next to my name and takes action accordingly. It’s ungracious, makes me look like a bit of a dick, and similar to trying to shift a caffeine-induced headache by consuming more caffeine, it may feel good momentarily but hardly ever works.
+
+EnterResolver, a U.K. startup that’s built tools to help you complain the correct way. They include automating parts of the complaint letter-writing process and tracking the progress of your grievance. And now the company wants to take all of the data it’s amassed regards what works and what doesn’t and apply AI — their words, not mine — to make it even easier to resolve issues.
+
+To do this, and to expand internationally, Resolver has raised £2.8 million in new funding. Leading the round are London-based VC Draper Esprit, and Imperial Innovations, the publicly-listed investor with ties to Imperial College, University of Cambridge, University of Oxford, and University College London.
+
+“We have more than five million communications in our system right now and already use them anonymously to help identify key customer issues. We also use them as a revenue stream to show brands and companies where they rank against their competitors for satisfaction,” James Walker, founder of Resolver.co.uk, tells TechCrunch.
+
+“[The] investment means we can leverage AI even more and dive even deeper into these crucially-important and hugely-informative data sets. AI is becoming more and more powerful at predicting results and outcomes”.
+
+In practice, this means that Resolver will be able to look closely at all the cases its users have successfully resolved and all of those that have resulted in an outcome that was less favourable. As it begins to learn from these outcomes, the idea is that the AI tech will be able to pick out and suggest terms and phrasing that leads most often to success.
+
+“Using AI and Machine Learning, we should then move to a position where, from just a few details entered by a customer, our platform can predict with much greater certainty what a resolution would be, both in its chances of success and in terms of how much money a user will get back,” says Walker.
+
+“It will also massively enhance our automated template emails that are written and generated from the simple bits of key information a user inputs about their case. AI can write these even more logically and successfully and the system can learn which email addresses we send cases to generate the best responses”.
+
+On international expansion, the Resolver CEO cites Germany and the U.S. as its next target beyond the U.K, noting that both are countries well-known for not putting up with bad service. “We believe this stands us in good stead for capturing an audience that resonates directly with what Resolver stands for,” he says.
+
+The startup is also looking to license its technology for use in smaller markets, and Walker tells me Resolver is already in discussions about doing so in South Africa.
+
+As to how the company currently makes money, since the service is free to end users, the company charges businesses and organisations for access to anonymised data to help them understand how they and their competitors are performing.

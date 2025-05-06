@@ -1,0 +1,85 @@
+Whatever happened to 3D printing?
+
+Sam Cervantes is a quiet-seeming guy who speaks earnestly about his line of work.When I visited his Brooklyn 3D printer factory in 2013, workers in an assembly line were busy putting together Solidoodle printers. An army of assembled printers whirred as they lay down layers of melted plastic to make parts for the next set of machines.
+
+Sam Cervantes is a quiet-seeming guy who speaks earnestly about his line of work.
+
+At the time, the promise of desktop manufacturing had just entered the general public’s consciousness. The media reported breathlessly on the potential of local manufacturing and bio-printing. Governments raised fears about undetectable 3D-printed guns. Early adopters wondered whether they, too, needed a 3D printer or CNC machine in their homes. Cervantes was hopeful. Solidoodle was months away from shipping its next-generation printer.
+
+Today, Solidoodle is dead. The company ran out of funding in late 2015 after attempting to move operations to China, which led to a drop in product quality, unexpected shipping problems and a loss in confidence among customers. Cervantes announced its closure in March.
+
+“We proved we could be very successful for early adopters, but when we tried to cross the chasm into the mainstream market, there were production and financial troubles we couldn’t solve on the capital timeline we had,” Cervantes said. “We had a few external unplanned shocks such as the three-month West Coast Port Delay that combined together to cause irrevocable damage to our goals.”
+
+There’s no doubt that hardware is hard. The road from being a small shop to manufacturing overseas is littered with startup corpses. Solidoodle’s stumbles certainly brought problems, but it faced outside pressure, too.
+
+It was one of the first companies to market with printers that cost less than $1,000. But the $600 Solidoodle Press — the China-manufactured machine that led to the company’s fall — was suddenly up against printers priced at just a few hundred dollars. Dozens of 3D printer companies had cropped up with the intent of building beginner-friendly options.
+
+With that shift came the great desktop manufacturing industry shakeup.
+
+At the end of 2015, 3D printing veteran3D Systemsceased production of its easy-to-use Cube printer. Its competitor,Stratasys, announced layoffs for the second time in six months for its consumer-orientedMakerBotdivision.
+
+A high-profile desktop CNC company never really emerged. By 2016, it felt like desktop manufacturing was in the rearview mirror, hanging out on the side of the road with 3D TVs and smart refrigerators.
+
+Except, desktop manufacturing is still growing. Shoppers bought more than 275,000 desktop 3D printers in 2015, up from 160,000 in 2014, according to the 2016 Wohlers Report. In 2013, the market had just broken 80,000 units. While growth has slowed, it’s still moving fast.
+
+So, who is still buying 3D printers and CNC machines? And will everyone else want one anytime soon?
+
+Other Machine Co.makes the Othermill Pro, a desktop CNC mill favored for fabricating circuit boards. Whereas 3D printers lay down melted plastic in a process called additive manufacturing, CNC machines use a drill bit to carve away at a material, a process called subtractive manufacturing.
+
+It follows a similar workflow as 3D printing: A digital file is fed into the machine, and then the mill does the rest of the work. It’s a bit more wasteful than 3D printing, but it’s compatible with classic materials like wood and metal. Similar to 3D printing, it has gone through a drop in price and rise in ease of use in recent years.
+
+Other Machine CEO Danielle Applestone mostly sees her customers using Othermills for prototyping. Before cheap desktop machines, companies would send their designs off and then have to wait weeks for each physical prototype to be printed or milled. Being able to make circuit boards at your desk is a recent innovation.
+
+When Tom Gerhardt and Dan Provost, founders of consumer hardware firm Studio Neat, begin thinking about a new product, they pick up an iPad and send sketches back and forth. The company makes simple items like iPhone stands and ice cube molds. First they build a model on a computer. Then they turn to their 3D printer, CNC machine or another tool in their workshop to build a prototype.
+
+Gerhardt and Provost spend as much time as they can on these early design stages. Studio Neat can go from idea to a first prototype within days, and then rapidly create new iterations. When a product is ready to be manufactured, they outsource nearly all of the labor.
+
+“I’ll do six or seven iterations a day,” Gerhardt said. “Being able to quickly turn those over and work through them, that is a complete game changer in terms of formal design and figuring out how things should feel.”
+
+This is desktop manufacturing’s draw. Across the world, engineering has accelerated. Any object you hold in your hands could very likely be a descendant of a printed or milled mockup. Corporations and Etsy shop owners alike love 3D printing because it gets them from paper to the real world in a fraction of the time. The cost of production doesn’t change whether you’re producing one item or 100.
+
+The thing about prototyping with 3D printers is that the end product doesn’t have to look great. It’s a way to get a sense of scale and feel, but not usually expected to be buyer-ready. There are certainly exceptions to this.
+
+Shapeways, for example, has an online shop where you can buy 3D-printed jewelry, sculptures and anything else you can think of. The draw is the uniqueness of the products — there are other materials that would make more sense if Shapeways planned to sell millions.
+
+Shapeways prints its products on machines that cost hundreds of thousands of dollars. Hobbyists, on the other hand, are printing items for themselves and expecting the same results. They want vases that look good enough to sit on their shelves and replacement parts for household appliances.
+
+So while Gerhardt said Studio Neat has never been compelled to upgrade from its relatively vintage MakerBot Replicator 2, consumers demand perfection. And that’s where the printers offered in the last five years still fall short.
+
+“Two years ago there was 3D printing news all the time. It was actually a bit of a concern to me because so much of what I saw in that news lacked the subtlety of the 3D-printing technology,” said Steve Schell, CEO of 3D printing companyNew Matter. “It wasn’t always clear whether these 3D printing applications they read about could be done at home, or if it was more research-grade or commercial and industrial equipment being used in these cases.”
+
+While Schell saw widespread adoption being five years away, non-experts he spoke with seemed to have the impression the technology was fast approaching. They asked him whether New Matter’s $399 MOD-t 3D printer was capable of printing living tissue and titanium.
+
+Solidoodle shared the same goals as the greater 3D printer community and desktop manufacturing industry: democratize making. Get machines into the living rooms of anyone who wants one, and make it incredibly easy for them to make whatever they wish. That means crossing over from professionals to the general public.
+
+The earliest desktop 3D printers used just a few hundred dollars in parts, but they were too complicated for the average person to put together and use. So the industry raced to offer a pre-assembled $1,000 machine. Then $500. That’s the cheapest it has ever been to make relatively complex objects with zero making expertise.
+
+But cheap and beginner-friendly don’t generally go together when it comes to hardware. 3D printers aren’t incredibly complicated, but they have lots of moving parts that like to wear out over time and break. Cutting costs can exacerbate this. I have reviewed exactly one 3D printer that didn’t break or develop a mysterious software issue within days of use. Using 3D printers is time consuming and aggravating. No matter how splashy and user-friendly their Kickstarter campaign copy is, they are almost never ready to work flawlessly for a beginner.
+
+Then, once you get a printer to work, there’s the hurdle of working with 3D models. If a casual user needs years of experience working with design software in order to be able to tell their CNC machine what to do, they’ll never make anything.
+
+“I think the hype surrounding 3D printing has waned — or is at least decreasing — because people realized it’s just a lot harder to design specific things than they thought,” Applestone said. “You can’t get around the fact that you have to learn (computer-aided design).”
+
+I grew up messing around with Photoshop and Illustrator. Making the leap into 3D design wasn’t too difficult for simple shapes. But designing a part with specific dimensions still eludes me. When it comes to additive and subtractive manufacturing, my designs are almost always downloaded from an online library of models.
+
+The industry knows this and has focused on building big libraries. This leaves 3D printers focused on generic items like toys and decorations — not that specific IKEA drawer handle you broke and would like to replace. There’s no shortage of things to print, but the truly useful use cases are still reserved for experienced makers.
+
+Gartner’s hype cycle holds that after inflated expectations comes disillusionment. 3D printers didn’t instantly solve our problems. No ultra-compelling application ever arose to inspire us to rush out and buy one. The public is happy to wait.
+
+Despite years of disappointing options, desktop manufacturing is not dead. New companies are still emerging and selling unprecedented numbers of machines. After disillusionment, according to Gartner’s hype cycle, comes enlightenment, and the industry is starting to catch on to what that might look like.
+
+Most desktop 3D printers have a similar design. A metal nozzle moves along a gantry system as it lays down melted plastic on a flat bed. The best 3D printers take this basic design and make it bulletproof. They use high-quality parts and make them easy to swap out. The worst put low-quality, proprietary parts in a closed box.
+
+Newer companies like New Matter are testing alternate options. The Mod-T moves its print bed around on two spinning rods, while the print head moves up and down. It’s an unusual design that simplifies how the printer works and allows the company to keep costs low.
+
+But there are only so many ways to reinvent the most common type of printer. Because each layer of plastic has to dry before the nozzle deposits the next one, they have a physical limit to how fast they can go.
+
+Engineers are injecting new energy into the industry by rethinking 3D printing altogether. Lately, interest has risen in printers that use a laser or projected light to cure liquid plastic layer-by-layer. HP’s secretive printer also uses light to speed up the printing process and open new material possibilities.
+
+“The technology is rapidly improving, and it’s going to continue to do so,” Schell said. “That will result in less expensive printers, which will help with adoption of course. It’s also about making the speed of the printing process improve, more consistent outputting terms of the strength of the parts created and a wider selection of material options so you can have the properties you need for the given object.”
+
+Other 3D printer makers are diving into specific applications, such as carbon fiber and food to draw interest in their machines. Applestone sees a bright future for specialization in the CNC mill space, too.
+
+Imagine walking into Gap and seeing a machine cutting custom pairs of jeans, or waiting at the dentist while your dental crown is made. Not everyone owns a sewing machine, but they hold an important place in our society. Desktop manufacturing will be the same way.
+
+“These technologies used to take up a whole room,” Applestone said. “What’s really exciting is when you shrink that technology down and make it affordable and easy enough for people to use, entire economies that we never thought of emerge.”

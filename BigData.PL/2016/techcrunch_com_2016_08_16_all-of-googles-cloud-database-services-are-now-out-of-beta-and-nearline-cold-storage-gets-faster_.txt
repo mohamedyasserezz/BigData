@@ -1,0 +1,23 @@
+All of Google’s cloud database services are now out of beta
+
+Google is making a number ofannouncementsaround itsCloud Platformtoday. Most of these focus on its various cloud database services, but the company is also making a major update to its low-costNearlinecloud storage service for cold data, making its disk volumes faster, and allowing its users to bring their own encryption keys to Cloud Storage.
+
+The overall message Google is clearly trying to send here is that its cloud computing services are ready for production use.
+
+On the database side, the big news is that all of Google’s cloud database services are now out of beta. That means the company’ssecond generation versionofCloud SQL, which allows you to easily run and manage MySQL databases in the cloud, is now generally available after about nine months in beta.
+
+Cloud Bigtable, another NoSQL database, but with a focus on very large analytics and operational workloads, is now also generally available.
+
+Also out of beta is the API forGoogle Cloud Datastore, Google’s NoSQL database for web and mobile app workloads. Cloud Datastore itself was already generally available for a while, but developers were only able to use it as part of Google App Engine. With the API, developers can use it for applications outside of App Engine as well. The company says Cloud Datastore, which is used by the likes of Snapchat, currently handles 15 trillion requests per month.
+
+Google notes that it had added various features to these services over the course of their betas, but what will likely matter even more to its users is that these services are now backed by an SLA (for Cloud Datastore, that’s 99.95% monthly uptime, for example).
+
+For those who want to use Microsoft’s flagship database server in the Google Cloud, the company now also offers SQL Server images with built-in licenses (currently in beta) and the ability to bring existing licenses to its platform. Running SQL Server images incurs some extra cost on top of Google’s normal instance costs, though. That’s $0.1645 per core/hour for SQL Server Standard and $0.011 per core/hour for SQL Server Web. Using SQL Server Express, though, is free.
+
+While Microsoft may have an edge when it comes to running SQL Server in the cloud, Google knows that it needs to offer its enterprise users the option to bring their existing applications and workloads to its cloud if it wants to wean them off Microsoft’s cloud services (which, for the time being, remain significantly more popular than Google’s among enterprise customers).
+
+As for storage, Google today announced that its low-cost Nearline storage service for “cold” data is getting much faster. Nearline competes directly with Amazon’s Glacier storage and like that service, it provides lower availability guarantees in return for significantly lower storage cost. Until now, Nearline users also had to contend with a 3 to 5 second latency when accessing data. That latency is now gone. As a Google spokesperson told me, access is now “almost real-time.”
+
+Google’s Persistent Disk volumes are now also faster, with maximum read and write IOPS going from 15,000 to 25,000. That’s useful for both database applications and storing other types of data locally as well.
+
+“Today marks a major milestone in our tremendous momentum and commitment to making Google Cloud Platform the best public cloud for your enterprise database workloads,” the Google team writes today. It’s not like we needed more evidence that Google is taking its Cloud Platform very seriously these days, but if you needed more evidence, now you have it.

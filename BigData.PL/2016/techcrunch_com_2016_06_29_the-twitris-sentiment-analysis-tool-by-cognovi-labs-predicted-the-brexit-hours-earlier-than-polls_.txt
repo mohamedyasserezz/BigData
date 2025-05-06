@@ -1,0 +1,29 @@
+The Twitris sentiment analysis tool by Cognovi Labs predicted the Brexit hours earlier than polls
+
+Cognovi Labsis a new analytics startup that relies on Twitris, aWright State University-developed tool that claims to be able to take a sample of social media chatter about a specific topic and deduce real-time, large-scale, automated sentiment about the specific topic they are researching.
+
+As a real-world example of the tool’s capability, the Cognovi Labs research team — led by Wright State University researcher (and Cognovi Labs inventor) Dr. Amit Sheth — analyzed Twitter chatter leading up to the Great Britain/European Union Membership Referendum (Brexit) on June 23. The team was able to predict some six hours before the news broke that thepollsleaning toward the “remain” camp were incorrect.
+
+This was predicted by running Twitter chatter through the Cognovi Labs Twitris tool. The machine learning tool leverages Cognovi Labs’ semantic intellectual property to be able to automate and extract aggregate meaning from social media chatter (including slang) in new, more precise ways.
+
+In other words, Twitris can tell that if a person is tweeting“Brexit makes me feel on fleek for the future, thank god!”(I just made that up, by the way), how those slang and other words relate to each other to have meaning about that event, without a person actually having to read and interpret it. The tool can understand that the statement isn’t referring to “God” or “the future” in tech terms, etc.
+
+These searches, or “campaigns,” as Dr. Sheth calls them, can be set to different geographies, as well.
+
+Another real example of this that Cognovi Labs recently ran had to do with searching the Twittersphere for sentiment about marijuana legalization policy… trying to understand how people in different areas of the U.S. feel about different legalization stances certain states have taken.
+
+The team found that one recurring topic that is part of the discussion is Spice, a synthetic form of marijuana. However, if you just search for the hashtag #spice, a majority of social content that comes back is about Pumpkin Spice Lattes. Twitris was able to parse the different statements for more precise meaning and derive analytics.
+
+The implications for financial markets, disaster response, political predictions and even brand planning are palpable.
+
+To be clear, sentiment analysis is nothing new. There are plenty of tools out there, likeBrandwatch,Semantria,Spreadfastand others. However, Cognovi Labs CEO James Mainord told me in a phone call that their tool “is in a class by itself due to the ability to support comprehensive analysis, deep insight and actionable information. This is due to its use of background knowledge, capabilities that others do not have (e.g. deep emotion analysis) and more advanced forms of capabilities others have (e.g. its topic-specific sentiment analysis is significantly advanced, allowing one to explain the change in sentiment related to a specific event (product launch, political debate, etc.) — quickly giving actionable insight at a desired level of granularity).”
+
+It’s also possible this is beginner’s luck; however, Dr. Sheth’s research team has been conducting this research for some time. While this is Cognovi Labs’ first published report, there have been many campaigns they have led up until this that back up their approach.
+
+The only social media input today is Twitter, but the team plan to add other social networks in the future.
+
+Cognovi Labs is yet another startup up to come out of theIkove Venture Partnerstech commercialization group. Essentially, Ikove identifies underutilized intellectual property (often U.S. research institutions) and helps construct business plans to “identify, vet and launch disruptive technologies to bridge the valley of death via a Startup Nursery program.” (Valley of death here refers to where the intellectual property often fails because of improper productization).
+
+Over the last two years, Ikove has launched five technology companies, including People’s Choice winner of our own 2015 TC Disrupt and Battlefield competitor,Nikola Labs.
+
+Ikove Venture Partners is managed by CEO Erica Waite and was founded by Flavio Lobato, Rodolfo Bellesi, Dr. Robert Lee and John D’ Orazio.

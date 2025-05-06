@@ -1,0 +1,29 @@
+Cardiogram raises $2 million to predict heart health issues using wearables
+
+Health tech startupCardiogramhas raised $2 million in a seed round led by thea16z Bio Fundfor an app that screens users’ cardio health and gives them help improving or maintaining it.
+
+The company started out with an Apple Watch integrated app, initially. But it is ultimately planning to be a “device agnostic” business, and to make its app utilizable with all manner of wearables such as Android Wear watches, or various fitness bands and activity trackers from the likes of Fitbit or Garmin.
+
+In addition to the seed funding round, Cardiogram today unveiled what it’s calling “an app store for habits,” in which it features apps for guided meditation, or physical and mental health exercises, which the startup believes will help its users improve or maintain good heart health.
+
+So far, according to co-founders Brandon Ballinger and Johnson Hsieh, Cardiogram has already amassed 10 billion sensor measurements from approximately 100,000 people who wear Apple Watches.
+
+“This volume of data has let us achieve a c-statistic (an accuracy measure) of above 90% in detecting atrial fibrillation, the most common abnormal heart rhythm,” Ballinger said. “We think it’s important for even young digital health companies to submit their work to peer review, so you’ll see us submit to both medical journals and artificial intelligence conferences in coming years as well.”
+
+Cardiogram’s founding team.
+
+So far, the app isn’t just resonating with old folks, or contrarily, young fitness freaks.The company’s users range in age from 18 to 94, the founders said.
+
+Additional investors in Cardiogram’s seed round included:Homebrew,and individual angels includingColor Genomicsco-founders Elad Gil and Othman Laraki, andRock Healthfounder Halle Tecco, among others.
+
+A General Partner at a16z who launched the firm’s $200 million health-focused fund,Vijay Pande, said one reason he backed Cardiogram is that it is making data soup into actionable insights that can save lives.
+
+The investor said, “Cardiogram is doing something I’m excited about in general, which is taking massive quantities of data from new sources, in their case from wearables…and applying state of the art machine learning techniques to it so that people can gain something from it on their own.”
+
+The investor expects Cardiogram to continue to work closely with the scientific community to share and vet its own research, and to use its funding for hiring and product development.
+
+The app is learning how to identify and predict one major heart condition now, atrial fibrillation, but the company has the potential to predict many other heart problems and diseases like diabetes that are correlated with heart rate variability, as well.
+
+Cardiogram is currently working with researchers and cardiologists at the University of California, San Francisco as part of the institution’sHealth eHeart study.
+
+Their goal is to be able to accurately predict and identify atrial fibrillation using algorithms, and to understand what normal heart health looks like, using data from mainstream wearable devices and smartphones.

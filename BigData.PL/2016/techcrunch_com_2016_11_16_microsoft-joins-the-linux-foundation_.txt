@@ -1,0 +1,13 @@
+Microsoft joins the Linux Foundation
+
+How is this for a surprise: Microsoft todayannouncedthat it is joining theLinux Foundationas a high-payingPlatinum member.
+
+“This may come as a surprise to you, but they were not big fans,” Linux Foundation executive director Jim Zemlin told me in regards to his foundation’s history with Microsoft. The new Microsoft under CEO Satya Nadella, however, is singing a very different tune.
+
+Today’s Microsoft is one of the biggest open source contributors around. Over the course of just the last few years, it has essentially built Canonical’s Ubuntu distribution into Windows 10, brought SQL Server to Linux, open-sourced core parts of its .NET platform and partnered with Red Hat, SUSE and others. As Zemlin noted, Microsoft has also contributed to a number of Linux Foundation-managed projects like Node.js, OpenDaylight, the Open Container Initiative, the R Consortium and the Open API Initiative.
+
+Despite all of that, today’s announcement will still come as a surprise to many, given that Microsoft and the Linux community often felt like they were at war with each other in the past. Zemlin acknowledged as much when I talked to him. “There will be some skepticism, but that will be from a smaller group,” he said. “There is an anti-establishment sentiment in open source. That’s natural.” He added that whenever a major corporation goes open source, that’s what happens. But he also noted that Microsoft has been “walking this talk for a very long time” now.
+
+Other Linux Foundation Platinum members, which pay about $500,000 for the privilege, include Cisco, Fujitsu, HPE, Huawei, IBM, Intel, NEC, Oracle, Qualcomm and Samsung. Google, Facebook and more than a dozen other prominent open source users are Gold sponsors.
+
+John Gossman, an architect on the Azure team, will join the Linux Foundation Board of Directors.

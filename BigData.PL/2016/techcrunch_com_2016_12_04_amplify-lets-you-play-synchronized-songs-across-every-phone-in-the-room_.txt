@@ -1,0 +1,13 @@
+Amplify lets you play synchronized songs across every phone in the room
+
+Say you’re at a party, and someone wants to get a silent disco going. Everyone opens their phone, someone yells “play,” and hopefully everyone gets it started at the same time.
+
+Well, that works, but it could be better. So at the TechCrunch Disrupt London 2016 Hackathon, a few developers in the United Kingdom built an app to make sure everyone’s at the same part in the song. It’s calledAmplify, and it allows multiple people to start streaming a song that’s already being played on a computer.
+
+“We’ve been to too many parties with this problem — everyone’s got a phone, and we keep running into a situation,” Jamie Hoyle said backstage. “We just never got around to starting it, so we said why not get it done at a hackathon.”
+
+There was a bit of a hiccup on stage, but the group showed me the project in the back and it worked pretty much as you’d expect. The team only has 24 hours to prepare the project at the hackathon. “It’s so much work compared to regular work,” Alan Doherty, another team member, said. “Everyone’s pulling together; you have the goal to present something.”
+
+You log into the service through a web browser, so in reality people can start playing the song on any device with a browser. So instead of spending a ton of money on a Sonos system or something like that, you could in theory start a song on everyone’s phones at a party and do that instead. Though, you’d be playing them on a phone instead of a nice speaker, but it could work in a pinch.
+
+Jamie and his team, Doherty and Jonathan Madeley, currently work at a startup called Harefoot Logistics. Right now it’s just a side project, and Madeley said the team would probably open source a few parts of the tech. Doherty said it could be a workable product somewhere down the line, though they’re currently focused on working at their current company.

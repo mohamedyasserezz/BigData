@@ -1,0 +1,17 @@
+Stack Overflow puts a new spin on resumes for developers
+
+Stack Overflow, the community site best known for providing answers for all of your random coding questions, also has a thriving jobs board and provides services to employers looking to hire developers. Today, the team is expanding the jobs side of its business with the launch ofDeveloper Story, a new kind of resume that aims to free developers from the shackles of thetraditional resume.
+
+As Stack Overflow VP of Community Product Jay Hanlon told me, in working with potential employers, the team realized that regular resumes put their emphasis on job titles, schools and degrees — but that doesn’t always work for developers. According to Stack Overflow’slatest survey, the majority of developers don’t have degrees in computer science, for example.
+
+“They are optimized for conveying the importance of your pedigree,” Hanlon told me. The things you’ve achieved, though, tend to be hidden in tiny bullets underneath those headers. So the idea with Developer Story is to pull out your achievements — the problems you’ve solved, the open source projects you’ve contributed to, the apps you’ve written — and highlight those. “Developers, fundamentally, are makers,” Hanlon said. “They are less like a business analyst where a title conveys authority.”
+
+Developer Story offers two views: a traditional resume view for employers and a more modern timeline view. It’s the timeline view that emphasizes your achievements, but even the traditional view puts its emphasis on which projects you have contributed to, which languages you’ve used, which questions you’ve answered on Stack Overflow, etc. What’s important to note is that it’s the developers who gets to choose which accomplishments they want to highlight to potential hiring managers.
+
+As Hanlon stressed, the idea here isn’t just to help developers present their accomplishments, but also to help potential employers find the best candidates to fill their job openings. Stack Overflow’s most recent survey of its community showed that only 15 percent of developers are actively looking for new jobs at any given time, but more than 60 percent are open to opportunities. Given these numbers, employers can’t expect that the right developers will simply come to them when they post a job listing. Instead, they have to go out and find them.
+
+“A huge percentage of developers actually never go looking for jobs,” Hanlon said. “They have people come to them. One of the things Developer Story is optimized for is these people.”
+
+Developers can use these new resumes to signal that they are interested in a new job (or not) and tell recruiters what kind of salary they are looking for, for example. Stack Overflow itself only works with employers directly (or the agencies they hire), but doesn’t allow individual recruiters onto its platform, so developers (hopefully) won’t get spammed by them.
+
+If you want to give it a try, the new service isnow available on Stack Overflow; like all of the company’s other services for developers, it’s available for free.

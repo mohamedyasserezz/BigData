@@ -1,0 +1,29 @@
+The need for algorithmic accountability
+
+There is a new generation of companies exerting such great influence on society that they’re essentially becoming utilities. Google, Amazon, Facebook and Uber are near monopolies that provide services as integral to our modern life as power, telephone and transportation systems were a century ago.
+
+But there is a key difference between last century’s utilities and today’s: Instead of simply delivering a service, today’s utilities use algorithms to shape our entire life experience. From the news we see and the routes we drive, to the price we pay for goods and services, algorithms influence them all.
+
+With algorithms in play, companies can optimize for every variable. Uber efficiently dispatches its drivers during rush hour, Facebook displays the most relevant stories to its users and Amazon can suggest the right product at the optimal time to drive a purchase. For all their positives, what algorithms aren’t optimized for is doing therightthing or for displaying any amount of transparency.
+
+From the outside, there’s no understanding of how decisions are made inside those software-driven black boxes, and no way to know if the companies are overtly or inadvertently behaving badly. The algorithms that manage internal operations strongly favor doing whatever is the most expedient, efficient and effective, even if that means excluding some people from information or services, or leaving the door open to amplifying societal biases.
+
+This has to change, and these companies themselves must take the lead in creating algorithmic accountability in their services. This goes beyondpledging to do more to promote fairness in access as Airbnb didearlier this year, and extends to creating a level of automated transparency that would let consumers, the press, the technology community or public officials look in and see what’s going on.
+
+The industry shouldn’t rely on government to play this role. Old-school regulations — the kinds written by lawmakers and bureaucrats — are too cumbersome to keep up with technology and too “dumb” to monitor algorithms in a timely way. Government-led regulation would burden tech companies and slow innovation. Prime example: 20th-century electric utilities and how regulation stifled investment and innovation for decades.
+
+The last thing we need is for companies to become as innovation-starved as the highly regulated electric utilities. At the turn of the last century, regulation brought order to the chaos of competing standards and fly-by-night outfits. But in a short time, regulators dictated a “cost-plus” business model for the industry. For decades this meant the utilities had zero incentive to pursue cleaner, more distributed sources of energy, or to invest in any innovation at all. Regulation fostered a mindset that exacerbated climate change issues, which we’re only now beginning to make progress against.
+
+To avoid a similar fate, these new utilities (the Googles, Amazons and Ubers of the world) must proactively build algorithmic accountability into their systems, faithfully and transparently act as their own watchdogs or risk eventual onerous regulation.
+
+Concern about “black box” algorithms that govern our lives has been spreading. New York University’s Information Law Institutehosteda conference on algorithmic accountability, noting: “Scholars, stakeholders, and policymakers question the adequacy of existing mechanisms governing algorithmic decision-making and grapple with new challenges presented by the rise of algorithmic power in terms of transparency, fairness, and equal treatment.” Yale Law School’s Information Society Project is studying this, too. “Algorithmic modeling may be biased or limited, and theuses of algorithms are still opaque in many critical sectors,” the group concluded.
+
+Software-defined regulation can monitor software-driven industries better than regulations enforced by squads of regulators. Algorithms can watch emerging utilities such as Facebook and Uber 24/7, seeing details and patterns that humans might never catch. If transportation officials who regulated taxis want make sure Uber doesn’t shun certain neighborhoods or bias its service, they should write an algorithm to look for the behavior.
+
+It’s just as important to have algorithms that keep an eye on the role of humans inside these companies. We want technology that can tell ifAirbnb hosts are illegally turning down minoritiesor if Facebook’s human editors aresquashing conservative news headlines.
+
+The watchdog algorithms can be like open-source software — open to examination by anyone. That way, coders can see if the watchdog algorithms are monitoring the right things, while the companies keep private proprietary algorithms and data.
+
+There’s another benefit — perhaps a huge one — to software-defined regulation. It will also show us a path to a more efficient government. The world’s legal logic and regulations can be coded into software and smart sensors can offer real-time monitoring of everything from air and water quality, traffic flows and queues at the DMV. Regulators define the rules, technologist create the software to implement them and then AI and ML help refine iterations of policies going forward. This should lead to much more efficient, effective governments at the local, national and global levels.
+
+Still, we now need a conversation about how to make this work. Technology companies and policymakers need to come together and share ideas — which is too rare in this software-in-everything era. It’s clear that following this path we are on will result in regulatory schemes governing social networks, search and other key services, making them as dull and bureaucratic as electric companies. And that would turn out badly for the tech industry, the economy and society.

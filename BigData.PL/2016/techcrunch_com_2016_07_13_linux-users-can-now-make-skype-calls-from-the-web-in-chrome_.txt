@@ -1,0 +1,15 @@
+Linux users can now make Skype calls from the web in Chrome
+
+The Skype team today announced that anyone using a Chromebook or Chrome on Linux can visitweb.skype.comto make one-to-one and group voice calls on top of the messaging features they get today.
+
+The Alpha version of Skype based on WebRTC inherits the same features as the Alpha version of the Skype for Linux client. Thanks to ORTC, users were able to make free voice and video calls on Skype without needing to download an app or browser plug-in.
+
+“This is our initial step on our path to replicate ORTC capabilities beyond Microsoft Edge,” the team explained.
+
+Microsoft alsoannouncedtoday the Alpha version of a new Skype for Linux client. Skype for Linux Alpha, which features the latest UI, allows users to share files, photos and videos, to send a new range of emoticons and to make calls on the latest versions of Skype on Windows, Mac, iOS and Android. But it’s not compatible with the previous versions of Skype for Linux (4.3.0.37): With Linux Alpha, making or receiving calls to and from the previous versions is not possible.
+
+The Skype team warned users that Skype for Linux Alpha is not a fully functioning Skype client yet. Video calling and calls to landlines and mobiles are coming “soon” to Chrome browsers in Linux and Chromebooks, the teamwrotein a blog post.
+
+Users of Linux Alpha are encouraged to share feedback with the product team using the label “LinuxAlpha.”
+
+Skype for Linux Alpha Debian and Skype for Linux Alpha RPM are available for downloadhere.

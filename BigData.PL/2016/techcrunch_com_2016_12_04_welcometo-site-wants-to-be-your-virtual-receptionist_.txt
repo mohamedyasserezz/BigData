@@ -1,0 +1,9 @@
+Welcometo.site wants to be your virtual receptionist
+
+Checking in at a co-working space or business to meet with somebody can often be a hassle that involves some phone tag and back and forth.Welcometo.site, one of the many projects that came out of ourDisrupt hackathon in Londontoday, wants to make this easier. It combines Cisco Spark’s messaging and video service with maps from ArcGIS and PubNub’s real-time APIs into a virtual receptionist.
+
+Team members Tom Shea, who previously worked on a number of startups and co-working spaces, andTom Bullare currently working on a more general access control system, but for the hackathon, they teamed up for this more manageable project.
+
+When you use Welcometo.site, you simply type in the name of the person you want to meet with and the service will ping your contact over Cisco Spark. The person you are looking to meet with will then get an alert on Spark and will also be able to check in with you over video. In addition, you can share your location and see where in the building (or not) your meeting partner is on a 3D map. If your contact isn’t around, the service can then access your team directory to ping somebody else on your team.
+
+The team tells me that making the video calls over Spark was a bit of a hack, but at least in today’s demo, it worked smoothly. They expect that some of the code they developed during the hackathon will flow into this access control system. “Surprisingly — for a hackathon project — the code is pretty well factored with continuous automated integration, testing and deployment,” Bull said.

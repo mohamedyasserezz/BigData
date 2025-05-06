@@ -1,0 +1,21 @@
+Facebook’s blocker-blocking ads blocked by blockers
+
+As you may have noticed over the last few days — I sure did — Facebook recently incorporated a sneaky change to the way its ads are displayed that disguised them as ordinary content andcircumvented ad blocking software in browsers. Ads crowded the streams of even the most vigilant users.  But this hell on earth was not to last: two days and change later, the Adblock Plus community has found a way to block them again.
+
+On Tuesday, when Facebook implemented the change,Adblock Plus was philosophical about it. This wasn’t the end of an era, but perhaps the start of one: “If nothing else, all this attention from Facebook shows that ad blocking has finally made the big time.”
+
+A global community of staunchly anti-advertising coders and hackers is a great base to call on in such a situation, and they delivered.
+
+If you use AdBlock Plus, it should update itself automatically, or you can add the filter yourself. ABP is the most popular blocker, but because the code was added to Easylist, a compendium of such filters used by many pieces of ad-blocking software, you can also expect to see the ads disappear if you use uBlock, Adguard, and others.
+
+“We promised that the open source community would have a solution very soon, and, frankly, they’ve beaten even our own expectations,” the company wrote in a blog post. But it also tempered its enthusiasm by noting that this was no great victory, just another day for proponents of ad-blocking.
+
+“This sort of back-and-forth battle between the open source ad-blocking community and circumventers has been going on since ad blocking was invented,” the post reads. “So it’s very possible that Facebook will write some code that will render the filter useless — at any time. If that happens, the ad-blocking community will likely find another workaround, then Facebook might circumvent again, etc.”
+
+Sure enough, after this article was published, a Facebook spokesperson emailed TechCrunch regarding the counter-block to say “we plan to address the issue.”
+
+This kind of cycle, in which hackers pit themselves against a technological restriction, is ubiquitous. Sometimes it’s laudable, like the fight to unlock bootloaders so people canload whatever software they want on hardware they own. Sometimes it’s shady, as when spammers and malware creators work to get around security measures to infect users. And sometimes it’s a grey area, like ad blockers.
+
+Some feel ad blocking is akin to stealing from the websites and services you visit. Some think it’s entirely up to the user to decide what content they see and how. Some argue that online advertising is so poor and ineffective that there’s no point using it at all. Some say the ad blockers themselves are running a racket. Some want ads to be relevant to themselves, so they block generalized ads — and some fear targeting, and soonlywant generalized ads!
+
+There are plenty of perspectives to be examined, though here isn’t really the place. The reality is that the technology to block ads is widely and freely available and millions are taking advantage of it to create what is unarguably a better web experience. They’re going to keep doing that, and companies that rely on advertising must accept that as a given — and hopefully find some way to make money that doesn’t adversely affect the product they offer.

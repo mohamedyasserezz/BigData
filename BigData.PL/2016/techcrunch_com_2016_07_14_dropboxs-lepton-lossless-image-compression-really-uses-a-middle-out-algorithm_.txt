@@ -1,0 +1,15 @@
+Dropbox’s Lepton lossless image compression really uses a ‘middle-out’ algorithm
+
+The “middle-out” algorithm that has its roots in themost infamous (and probably funniest) scenein HBO’s “Silicon Valley” may have been fictional, but something like it can be found in Lepton, a cool new lossless image compressor created by Dropbox.
+
+Lepton reduces the file size of JPEG-encoded images (and that’s most of them) by as much as 22 percent, yet without losing a single bit of the original. How is this possible? Middle-out.
+
+Well, it’s much more complicated than that, actually. Lepton gets one part of its savings by more efficiently encoding brightness values that are stored in a highly deterministic way in JPEGs. The details, which might be a bit hard to follow for the average bear (or, if I’m honest, blogger),can be found at this blog post.
+
+The middle-out bit comes toward the end of the decompression bit. The algorithm looks at the border between two of the 8×8-pixel blocks JPEG creates, where on one side the decoding is already done. The un-decoded side tends to follow a brightness gradient established by that found in the pixels leading up to that middle area, so the algorithm makes a prediction based on that. It then saves only the delta between this prediction and the real value — formatted to be a good fit for the VP8 arithmetic coder.
+
+The brightness coefficients encoded this way tend to make up about 8 percent on average of images the team encountered, but they shrunk that 8 percent by about 61 percent, giving from this method alone a 5 percent reduction in overall file size. The other 17 percent (remember, the total is 22) savings comes from various other techniques that, if you can believe it, have an evenlessentertaining story behind them.
+
+You won’t notice any of this; Lepton compression is only done on Dropbox servers, where your data is put into cold storage. When you request it, Lepton’s work is reversed (and fast) and you get the vanilla JPEG. But on Dropbox’s end, it saves petabytes of space.
+
+Lepton is open source, and Dropbox hasput the code for it on GitHub. Feel free to tinker with it — and if you made it this far in this article, you’re probably likely to!

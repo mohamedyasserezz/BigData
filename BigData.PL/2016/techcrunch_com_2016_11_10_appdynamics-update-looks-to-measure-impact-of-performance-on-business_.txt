@@ -1,0 +1,21 @@
+AppDynamics update looks to measure impact of performance on business
+
+It seems to have been the week for modern application performance monitoring tools to announce major updates. First,New Relic announced theirs on Mondayand todayAppDynamicsfollowed suit with its own update to provide more direct insight into business performance — not just the underlying systems and applications.
+
+Both messages are remarkably similar, even the platform naming. On Monday, New Relic revealed the Digital Intelligence Platform. Today, AppDynamics announced theApp IQ platform.The goal of both products is to provide deeper insights into every level of the application from the end user experience to the back-end systems having an impact on its performance, regardless of how a company might be delivering that application.
+
+AppDynamics wants to take that monitoring idea a bit deeper to give a business users an understanding of how that performance could be affecting the actual bottom line. If you consider that users tend to be an impatient bunch, it makes sense.
+
+If you are in the middle of a purchasing experience on your phone and you run into a glitch, chances are you are you going to abandon the app and move on after a remarkably short time. That lack of patience due to application performance can have an impact on the business over time — and AppDynamics wants to measure that and share it with the broader business.
+
+The company  is hoping that by providing customers with a deeper understanding of the cause and effect of performance on the business, it can move monitoring beyond pure nuts and bolts tooling to a wider role in customer organizations.
+
+Traditionally, monitoring tools have been the domain of IT pros, who track the health of apps and the underlying systems looking for issues. The classic example is “Black Friday,” the busiest shopping day of the year after Thanksgiving. Many companies offer big sales, and it’s an enormous challenge to provide the resources to keep up with demand.
+
+Tools like AppDynamics tell companies when the system is in trouble, or in the worst case, not working and people can’t get through. While these systems can provide users with a way to do a post-mortem when systems fail to keep up with demand, ideally you want to catch that problem before it gets out of control and has material impact on users.
+
+AppDynamics is arguing you need to be prepared to deal with issues before they get out of control and there is an all-out system meltdown. What’s more, you need to be able to show C-suite execs the connection between system performance and company performance.
+
+It’s looking to move beyond the IT department and provide information outside of traditional monitoring circles. It’s unclear whether companies will see their monitoring tools in such broad business terms, but it’s certainly an interesting approach to help make the product more integral to running the business.
+
+AppDynamics launched in 2008 and has raised over $300 million.

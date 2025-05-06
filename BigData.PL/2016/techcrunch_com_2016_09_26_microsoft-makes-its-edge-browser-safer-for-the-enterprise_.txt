@@ -1,0 +1,13 @@
+Microsoft makes its Edge browser safer for the enterprise
+
+At its Ignite conference today, Microsoft announced that it is making its Edge browser more secure in enterprise environments.
+
+As Microsoft explained during a press conference ahead of the event, the so-called Windows Defender Application Guard insulates Windows 10 from untrusted browser sessions by running it in a container that is bound directly to the hardware. Microsoft argues that containers within other browsers still leave enterprises vulnerable to 90 percent of the most prevalent attacks because those services don’t use hardware-based protection.
+
+With this new tool, Microsoft argues, malware can’t touch the rest of the machine or the rest of the network. The code will still run, but inside the container, which is akin to what the company calls a “maximum security prison.”
+
+Because the service is built right into Windows 10 and Edge, deploying Application Guard should be pretty straightforward for enterprises. Sadly, this technology is not available for download yet but will only become available to enterprises that want to try it in early 2017. The company promises a broader rollout later in 2017.
+
+In addition to Application Guard, Microsoft also today announced a number of new Office 365 security features. The new Office 365 Advanced Threat Protection is now better at protecting users from clicking on malicious URLs, for example, and will now cover SharePoint, OneDrive for Business, Word, Excel and PowerPoint.
+
+Security admins, too, will soon get new tools that will use the data Microsoft gathers from millions of machines on Windows and Azure to pro-actively protect their own machines. This new service is meant to give admins in the financial industry, for example, the tools to protect their own networks based on the data Microsoft has gathered about other alerts on similar networks.

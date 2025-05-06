@@ -1,0 +1,53 @@
+Salesforce asserted itself in 2016
+
+Salesforcehas always liked to think of itself as an industry irritant, the company that was bucking the status quo and making the established players feel uncomfortable. But this year as the cloud mainstreamed andSalesforce took off on a $10 billion run rate, you couldn’t help but feel that after 17 years in business, that Salesforce’s time had finally come.
+
+The company went on a historic acquisition shopping spree, hitting some targets and missing others — and at one point seeingits target wish list leaked to the public in the Wall Street Journal. It also stayed firmly on the technology cutting edge by joining the parade of companies building artificial intelligence into their products.
+
+While it went on quite a run this year, it still stayed true to its community service roots. After threatening to pull out of Indiana in 2015 over anti-LGBTQ legislation, it did the same in Georgia and North Carolina in 2016. CEO Marc Benioff remained a passionate spokesperson for responsible capitalism andhired Tony Prophet at as the company’s first Chief Equality Officer.
+
+While not everything went its way, all in all, not a bad 12 months. Let’s take a closer look.
+
+It all starts with being a focused company, and few could argue that Salesforce doesn’t execute. In November,the company delivered a strong Q3 2017, after showing somesigns of weakness in Q2. What’s more, revenue continued to trend up. CEO Marc Benioff predictedthe company would reach its $10 billion run rate goalsome time in 2018, and went so far as to forecast the company would reach $20 billion “faster than any other enterprise software company,” (although he didn’t give a timeline for that goal).
+
+[graphiq id=”1r7DYA2T4zP” title=”Salesforce.Com, Inc. (CRM) Quarterly Revenue Last 8 Quarters” width=”600″ height=”551″ url=”https://sw.graphiq.com/w/1r7DYA2T4zP” link=”http://listings.findthecompany.com/l/9286813/Salesforce-Com-Inc-in-San-Francisco-CA” link_text=”FindTheCompany | Graphiq” frozen=”true”]
+
+According to data fromthe PwC Global 100 Software report(pdf), which ranked the world’s software companies based on fiscal 2014 revenue numbers, Salesforce was one of the top 10 software companies, coming in at number 9. As their lofty revenue goals suggest, they have no intention of stopping any time soon. The thing is, Salesforce is bursting through these revenue milestones as a SaaS vendor, proving that SaaS vendors can be highly successful organizations.
+
+Salesforce opened up its wallet this year, buying 10 companies,spending at least $5 billion, based on the deals with release prices. That’s up from five deals last year, after just one in 2014. It’s worth noting that two of those 2015 acquisitions came in December, perhaps foretelling the buying binge that was to come.
+
+All good acquisitions bring some combination of engineering talent, filling a functionality gap and driving revenue (obviously a big goal for any company, but especially Salesforce). As Salesforce president, vice chairman and COO, Keith Block explained in Septemberthey look at a number of factors when they buy a company:
+
+“We look at culture. Will it be a good cultural fit? Is it good product fit? Is there talent? Is there financial value? What are the risks of assimilating the company into our company,” Block explained.
+
+In April, it made an important purchase related to artificial intelligencewhen it bought MetaMindfor a relatively modest $32.8 million. With it, they acquired the talents and expertise of CEO Richard Socher, who immediately became Salesforce’s Chief Scientist, contributing his deep learning and natural language processing knowledge. While we didn’t know it, the company had been working on building an artificial intelligence platform, which it announced in September (more on that later).
+
+The biggest fish by far was Demandware,for which Salesforce paid $2.8 billionin June, the highest amount it ever paid for a company.Salesforce turned that acquisition into Commerce Cloudin late September, filling in a big hole in its platform.
+
+Perhaps the most unusual of its 10 acquisitions was word processing platform, Quip,for which it laid out $750 million smackerooslast July. The purchase went against the company’s philosophy of going hard for verticals,but as Block explained in September, it saw potential. “Quip is very compelling. Some people think it’s an unorthodox acquisition, but it’s in the context of driving productivity for customers,” he said.”
+
+From the very beginning, when the company was launched, it has been committed to being a good corporate citizen, hard coding community action into its corporate charter — whether that meant giving money or software or encouraging its employees to commit time and money in the community where they live and work.
+
+Benioff,speaking at a CEO panel in Septemberat his company’s Dreamforce conference, an event that attracted more than 100,000 people, explained that he sees the world at a pivotal time in history with lots of issues related to the environment, inequality and education, and he believes it’s imperative that execs put their skills to bear on some of these social issues.
+
+“You can isolate yourselves and say I’m going to put those skills to use in a box at work, or you can say I’m going to have an integrated life. The way I look at the world, I’m going to put those skills to work to make the world a better place.”
+
+And for Benioff, these aren’t just empty words. He walks the walk when it comes to social issues. In 2016,Benioff used his position and the economic clout of his companyto attempt to prevent anti-LGBTQ legislation from being passed in Georgia and North Carolina, threatening to move business or cancel events in those states if they passed discriminatory legislation.
+
+This year,he also hired Tony Prophet to be the company’s Chief Equality Officer, an unprecedented step in tech industry, an industry that has been highly criticized for its lack of diversity. In statement announcing the hiring, Salesforce called Prophet, “a champion for human rights and social justice.”
+
+Salesforce has always prided itself staying on the cutting edge by trying to find ways to incorporate the latest technologies into its platform. This year, its biggest tech announcement by far, involved artificial intelligence. Its first foray into AI, introduced in September,was dubbed Einstein. It was not a product so much as an approach to insert intelligence across the Salesforce platform.
+
+For too long, CRM tools have been systems of record, where the sales team recorded everything they knew about the customer. The goal with AI is to help surface information and proactively help the sales team, turning CRM (and other parts of the Salesforce platform)  into a tool that can assist and suggest in a much more prescriptive way. This is the next company you should call, or you should know about this news before you call them.
+
+While it was just a first step this year, the idea is that by adding talent like from the aforementioned MetaMind purchase, and building on the initial pieces, this could be a big part of the value proposition of these tools moving forward. (Of course, it’s worth mentioning, that while Salesforce was embracing AI,so were its competitors.)
+
+Not everything went Salesforce’s way in 2016, and its attempts to buy a social property proved to be a glaring failure. First, there was LinkedIn,which Microsoft bought for an astonishing $26 billionin June. It’s a compelling property for a company like Salesforce because the data has the potential to be incredibly valuable. Microsoft certainly saw that and was willing to allocate a chunk of its fortune toward bringing it into the fold, getting the data for itself, and keeping it away from Salesforce.
+
+Benioff indicated in September that they were never really given a chance to bid, although given that price, it would seem way out of Salesforce’s range. Not to be left out, Benioff saw another opportunity to grab a data-rich social toolwhen Twitter appeared to be available in September. Immediatelythe rumors began to fly, and as the story leaked, Salesforce shareholders were mystified by Benioff’s interest in Twitter, not seeing the value in that data that seemed so tantalizing to Salesforce.
+
+The stock price began to drop and the Board began to balk, and Benioff had little choice to back off. He would later say he was puzzled by the leak that led to the widespread coverage of the deal, saying that such a leak had never happened before.
+
+But an even bigger leak was to come. On October 19th, the Wall Street Journal found apresentation in Salesforce board member, Colin Powell’sleaked emails. It included just about every SaaS company of any value on the planet, but what it didn’t show was Twitter, suggesting perhaps that Benioff saw a limited opportunity when Twitter became available and tried to grab it while the grabbing was good. It didn’t work.
+
+No company ever has a perfect year. As with any person or company, there are going to be ups and downs, and hits and misses, but on balance when you look at what the company accomplished this year, you have to say it was mostly positive. Its challenge will be to keep it going in 2017.

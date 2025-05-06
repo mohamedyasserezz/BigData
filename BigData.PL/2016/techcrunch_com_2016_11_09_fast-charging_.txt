@@ -1,0 +1,15 @@
+Google ‘strongly’ recommends against third-party fast charging technology on Android
+
+Everyone, it seems, is going the fast charging route these days. Thanks to the nearing ubiquity of USB-C on flagship devices, the feature is quickly becoming a standard – “standard” in the sense that everyone is doing it, not so much that there’s any consistency to the tech. All in all, it’s a nice addition to manufacturers’ newfound focus on battery life.
+
+And while Google has embraced its own version on its new Pixel devices, the company’s not so keen on letting everyone implement their own version. In newly releasedAndroid Compatibility Definitionpapers issued for Nougat, the company stops short of an outright ban on technologies like Qualcomm’s Quick Charge, though it does take a pretty clear stand, “strongly recommend[ing]” against it.
+
+At issue, among other things here, is potential compatibility issues with standard USB chargers. Google wants everyone to play nicely together – that’s part of the appeal behind USB-C standardization in the first place. In fact, the document goes so far as explaining that it might make it a requirement in some future update.
+
+It minces words a bit less here,
+
+While this is called out as “STRONGLY RECOMMENDED”, in future Android versions we might REQUIRE all type-C devices to support full interoperability with standard type-C chargers.
+
+It’s essentially the technical paper version of “don’t make me put my foot down.”
+
+viaAndroid Police

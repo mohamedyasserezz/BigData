@@ -1,0 +1,33 @@
+Recapalypse now
+
+Over the last couple of years of boom times for venture capital-backed startups, round sizes ballooned and valuations filled with all that hot air. Valuations of new financings have started declining significantly since the beginning of the year, leaving a number of companies hanging on precariously high in the air without solid ground beneath them.
+
+What happens next is a sometimes painful normalization that tech companies and their VCs seem to end up re-learning about every eight years or so. CEOs and boards that recognize this sooner can adjust, if needed, with a thoughtful recalibration rather than later being forced into a disastrous recapitalization (arecapalypse,if you will). This article walks through what’s at stake, and what CEOs, boards and investors can do.
+
+How did we get here? From 2010 through 2015, median round sizes of venture capital financings roughly doubled for all series, from A-D, as Tomasz Tunguz from Redpoint Ventures pointed out in apostrecently. All that capital pushed valuations higher for all stages of companies, from seed to late-stage.
+
+According toCooley, the median pre-money valuation of a Series A rose from $3 million in Q1 2009 to $16 million in Q4 2015 (5x). Series Bs rose from $13 million to $70 million (5x), Series Cs rose from $27 million to $80 million (3x) and Series D and later rose from $30 million to a whopping $266 million (9x). As I discussed in my post on theMarginal Productivity Trap, this led too many companies to raise at valuation multiples that were unsupported by historical standards and that put too much pressure on companies’ growth expectations.
+
+Beginning earlier this year, the market has been pulling back toward historical norms, though we’re only part of the way there so far. Financing statistics reported typically lag current market terms by a quarter, because deals reported today were likely off processes negotiated in the prior quarter, so we’re just beginning to see this pullback show up in the numbers.
+
+There are two ways that CEOs and their boards can respond to the market’s turn. First, in a planned recalibration, companies can recognize and accept the new reality and adjust their strategy accordingly. For companies that don’t need to raise additional capital now, they can focus on building a sustainable business, in many cases by doggedly improving the productivity and efficiency of the model and lowering cash burn so they have enough runway to hit big milestones before raising again.
+
+For companies that need additional capital soon, they will seek to raise whatever they can either from existing VCs and angels or from new, outside investors. Either way, companies can take control of the situation by raising this capital at a valuation that reflects normalized market conditions, even if that means a down round from the prior financing’s post-money valuation.
+
+As Bill Gurley from Benchmark Capitalstatedin April, “A down round is nothing. Get over it and move on.” These companies can also recognize the need to clean up their capital structure and terms so they’re in a healthy position to both (a) keep the team incented to build the business (or fix it), and (b) raise outside capital in the future without the cap table baggage of past mistakes.
+
+If you’re in this situation, there are three things you need to read. First, check out Brad Feld’s (Foundry Group) great post on this:Founders — Use Your Down Round To Clean Up Your Cap Table, in which Brad describes the wisdom in recalibrating if you have too much preference stack (the amount of preferred stock investment into your company that gets paid before common stock does in an exit), too much complexity in your preference stack or misalignment-inducing features like carve-outs.
+
+Second, Mark Suster (Upfront Ventures) wrote a must-read piece on this wisdom the last time we had a significant correction post-2009:Want to Raise Venture Capital More Easily? Clean Up Your Own Shite First, in which he explains why companies with unsupported valuations usually get polite declines from prospective new VCs who don’t want to go through the time sink, brain damage and relationship stress to propose the right recalibration for them.
+
+Finally, make sure you read Bill Gurley’s seminal advice in this post:On the Road to Recap, where Bill walks through the behavior you see in a market reset and its consequences.
+
+What happens if companies don’t choose this planned recalibration? For 5 percent of the companies out there, they can grow so exceptionally and with such impressive metrics (productivity, margins, etc.) that they can grow their way into an up or at least flat round. This is the “we’ll grow into our valuation” strategy, nearly universally said in Silicon Valley and equally often untrue.
+
+The problem is that 95 percent of the companies think they’re the 5 percent. The market has been pretty clear, cycle after cycle. Companies with inflated valuations can’t defy market forces indefinitely, and those that fail to adjust proactively will ultimately get backed into a much harder adjustment: the recapitalization.
+
+Recapitalization can take many forms, but it’s essentially a restructuring of the amounts and terms between preferred stock and common stock. This could include moving prior preferred stock investors down to common, or, in the worst case, cramming down the preferred and common stock entirely — or it could involve adding structure to new, senior preferred stock to entice new investors into a tougher cap table (e.g. giving them seniority, multiple liquidation preferences, minimum return guarantees, dividends or redemption rights). It’s almost always a terrible situation for employees, founders and VCs alike, where nothing is sacred. Hence, arecapalypse.
+
+We’re already starting to see recapitalizations in the market, and we’ll see many more among companies that raised far too much capital at valuations their business traction doesn’t support. Here in Silicon Valley, we know of a couple of companies recently that had to raise new capital as part of a recapitalization, which reset the pre-money valuation below $5-10 million (a fraction of the prior post-money valuation). This is the recapalypse you want to avoid.
+
+In tough times (or, arguably, just normalized times), smart companies recalibrate their valuation expectations in order to secure new capital and don’t try to hang onto unsupportable prior valuations. These survivors lower cash burn, focus on productivity metrics and, if needed, raise additional capital at sustainable valuations. Not recognizing the new reality before it’s too late could leave too many companies in a recapalypse now.

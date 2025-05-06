@@ -1,0 +1,41 @@
+Yahoo makes it difficult to leave its service by disabling automatic email forwarding
+
+Following Yahoo’s Septemberannouncementof a data breach affecting 500 million user accounts, the company has made it more difficult for Yahoo Mail users to transition to another email service. At the beginning of October, Yahoo disabled an email forwarding feature, which would allow users to automatically redirect incoming emails sent to their Yahoo address to another account.
+
+(Disclosure: TechCrunch parent company Verizon is acquiring Yahoo.)
+
+TheAP first reported this change, citing conversations with several Yahoo customers who sought out the feature in wake of the news regarding the data breach.
+
+Disabling email forwarding is a fairly transparent move aimed at stemming a potential exodus from Yahoo Mail to other email providers.
+
+When asked about its decision to end support for email forwarding, Yahoo declined to comment and insteadpointed the APtoa post on its Help Siteexplaining the feature’s status.
+
+This message reads as follows:
+
+This feature is under development. While we work to improve it, we’ve temporarily disabled the ability to turn on Mail Forwarding for new forwarding addresses. If you’ve already enabled Mail Forwarding in the past, your email will continue to forward to the address you previously configured.
+
+In other words, Yahoo Mail users who had already set up forwarding won’t be affected, but anyone trying to forward their mail now won’t have the option.
+
+Email forwarding, of course, is a basic feature that all major email providers today offer, and have for years. It’s not something new, or that would need to be shut down in order to be “improved”. Yahoo is simply making it very difficult for longtime Yahoo Mail users to switch to a new service.
+
+That, in turn, could potentially keep customers’ accounts active – something that Yahoo may want to do given that Verizon’s deal to acquire Yahoo has not yet closed. (Recent reports indicate Verizon is nowaskingfor a $1 billion discount, in fact.)
+
+Mail forwarding is a crucial part of the switching process – much like forwarding postal mail, it ensures that no new emails will be missed, as you go about alerting your contacts to your new email address. It’s especially critical to those who receive incoming emails from people not already in their contacts list, like businesses who advertise their email address publicly, for example.
+
+As a workaround, users who want to make the move to another account could switch on their vacation responder instead to automatically reply to emails with a note about their new address.
+
+Others may decide to forego the forwarding process and simply delete their Yahoo Mail account entirely.
+
+Well, unless Yahoo disables that option, too.
+
+As it turns out, this isn’t the first example of Yahoo making it difficult to abandon its service following the news of the breach. Earlier this month, BT customers, whose email had been outsourced to Yahoo, also found that their ability to leave Yahoo had been disabled.
+
+According to reports,BT/Yahoo customers could not forward their emails nor could they access the option that would allow them to delete their email accounts.
+
+Even before the breach, Yahoo Mail had been on the decline,ceding users to rights like Hotmail and Gmail.As of this summer, Yahooreportedits email service supported roughly 250 million monthly active users, a number that has dropped steadily over the years.
+
+Update, 10/10/16, 5:30 PM ET –
+
+Yahoo shared the following statement with TechCrunch:
+
+“We’re working to get auto-forward back up and running as soon as possible because we know how useful it can be to our users. The feature was temporary disabled as part of previously planned maintenance to improve its functionality between a user’s various accounts. Users can expect an update to the auto-forward functionality soon. In the meantime, we continue to support multiple account management. ”

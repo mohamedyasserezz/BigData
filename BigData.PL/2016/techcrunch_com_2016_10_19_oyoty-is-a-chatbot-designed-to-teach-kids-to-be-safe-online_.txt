@@ -1,0 +1,67 @@
+Oyoty is a chatbot designed to teach kids to be safe online
+
+Given there are apps for everything, it seems inevitable there will soon be bots trying to do everything, And while it remains to be seen which of these AI-powered chatbots will prove to have lasting utility, right now it’s all about the experimentation.
+
+To wit: meetOyoty, a friendly looking bot that wants to keep your kids safe when they’re sharing content on social networks such as Instagram. It’s designed for children aged up to 12 who are active on social media, via a smartphone or tablet.
+
+Oyoty exists as an app for iOS and Android that’s downloaded onto a child’s device and linked to their social accounts at set up (via Oauth). It has support for Facebook, Instagram and Twitter.
+
+A bot as a big brother
+
+Instead of having parents shoulder-surfing kids’ profiles and posts, the idea is the bot sits in the middle, automatically scanning what kids are posting publicly and intervening by flagging problem posts to children themselves to help them understand why it’s not a good idea to share an overly provocative selfie, for example, or to publish their phone number.
+
+The focus is on educating children to be more aware of what they’re sharing online, says founder and CEO Deepak Tewari, so the bot’s interventions are structured as a conversation in which the child actively participates in the decision-making process by choosing different pre-set responses. The team worked with UK child psychologist Catherine Knibbs to custom write the conversation content.
+
+When the bot flags a post to them, responses kids can choose from can include a basic affirmation like ‘ok’ — i.e. if they’re happy to agree to the bot’s suggested action. Or ‘not sure’ if the child wants to have more of a discussion about why a particular piece of content has been flagged — with additional pre-set responses appearing at that point to enable a two-way discussion to take place.
+
+The interventions are also structured so the child is guided to edit or delete the problem content themselves, keeping them involved in the process of their own moderation – again with the aim of helping them understand what is and is not appropriate to share online.
+
+The bot is just being soft launched at this point, and only in the UK — with the Swiss startup behind the project working in partnership with UK child protection charity,Internet Matters. UK parents are able to sign up for free to try out the system.
+
+“Oyoty is the first of its kind personal safety assistant for children using the combination of deep learning and chatbot technology that both empowers and educates children to be safe,” says Tewari. “Oyoty looks out for personal data or inappropriate content on children’s social network posts. If it detects such content it a) highlights and explains the problem to the child and b) helps them take immediate action like delete that content.”
+
+“Historically — the tech industry has equated child protection with parental control,” he adds. “Almost every solution that you see in the market is focused on either filtering and prohibiting use of services and are meant for parents to monitor or prohibit a child’s activity.”
+
+Tewari argues that content filtering as a child protection strategy has severe limitations — pointing torecent research conducted by LSEas suggesting prohibition adds “little value to children and does not help them build any awareness or capacity”.
+
+It’s this educational thrust he reckons sets Oyoty apart from other child monitoring solutions — such as NetNanny, orTC Disrupt NYC alum Bark– given it’s providing a “channel to children”, as he puts it.
+
+The bot also serves up privacy and online safety content designed to engage kids, such as cartoon videos and quizzes. Content topics here cover themes such as ‘Digital Citizenship’ and Internet Safety, Privacy, Bullying, Self Image, Digital footprint and Reputation and relationships.
+
+Alerts for problems that persist
+
+So what happens if a child refuses to engage with the process of moderating their own content? At that point the bot can and will escalate issues directly to parents via an alert — the default setting being three days after no action has been taken by the child to resolve a problem.
+
+But the hope is clearly that kids will agree to rethink any problems before the bot has to get parents directly involved. “We are neither about prohibition nor about policing — so we do not stop kids from posting. All our focus is education, awareness and resilience building,” adds Tewari.
+
+That said, parents do also have access to an online dashboard where they can monitor kids’ social media activity and receive progress reports. So the parental oversight is not entirely hands off. Notifications parents might receive via this dashboard are that their child shared a phone number, used a swear word, or posted an inappropriate photo.
+
+Here’s an example of the dashboard view for parents:
+
+“Normally the parents would get a weekly email report,” says Tewari. “If [an] issue has been resolved the parent is shown ‘good action’ without actually providing details. However for unresolved issues details are provided — except that the images are always obfuscated to protect the privacy of the child.”
+
+He says parents are also able to customize whether they would want to put the child in a “supervised mode” — i.e. where both children and parents are alerted simultaneously — and on whether they would like to introduce custom blacklists of words and the regularity of notification to such terms. So there’s scope for the system to be configured to be more heavy-handed in how it polices kids’ activity.
+
+Protecting privacy?
+
+Discussing how the system protects children’s privacy generally, Tewari says it relies on using very little personal data. “For the child we retain: social network handles, gender, IP address, birth year. Since we use Oauth — we do not know nor retain children’s passwords nor do we store their content,” he says.
+
+He also emphasizes it’s only ever looking at publicly posted social network data. Which does mean the system can’t keep tabs on any private messages kids might be sending or receiving. But the overarching hope there is that by knitting online safety and privacy education into kids’ public social media activity then children will learn to better manage their private sharing too.
+
+“We keep the children’s privacy as a priority and will only relay to parents issues which children have not solved,” he adds. “All our servers are in Switzerland and data handling is done as per the EU GDPR and Swiss guidelines.”
+
+Nor does it retain or distribute any images through its own servers, according to Tewari, with content detection done without any manual intervention and only encrypted links to image URLs retained for the duration these images are available on social networks.
+
+The startup is using machine learning to enable the bot to identify problem images and text. At this point the bot’s image classification system is able to infer nudity, violence, self harm and anorexia, according to Tewari.
+
+He says it’s working on further building out these capabilities — including being able to detect fine-grained emotion from social media posts, raising the possibility that the bot could be sensitive to emotional fragility in future.
+
+“Combined with text analysis and the context of sharing we will be able to make fine-grained classifications like Privacy Leaks, Online Reputation, Bullying, Radicalization etc,” he notes.
+
+Oyoty is the brainchild of Swiss startupPrivately, itself spun out of security firm Kudelski back in 2014. It’s angel funded at this point, naming its main investor as Ariel Luedi. The team has also been rewarded a research grant from the Swiss Federation (CTI funding) and another acceleration grant from the Economic Promotion Council of the city of Lausanne (SpECO).
+
+While the trial of Oyoty is free, the aim is to offer it as a subscription service starting next year — priced at around £5 per month per family (for up to three kids).
+
+As well as the UK trial, the system will be piloted in Bulgaria and with the Lausanne Police and Municipality in Switzerland. The trial runs until January 2017, after which the team is aiming for a global launch of the commercial product.
+
+“Our go-to market is both B2C where the service can be bought online as well as through b2b deals to sell bulk licenses to retailers/telcos that they can bundle with smartphone/device sales. So far we have closed our first retailer b2b contract with one of the largest electronic retailers in the UK and expect to announce another one before the end of the year.”

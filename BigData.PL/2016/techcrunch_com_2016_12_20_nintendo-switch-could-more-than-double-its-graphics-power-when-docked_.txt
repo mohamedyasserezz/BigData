@@ -1,0 +1,9 @@
+Nintendo Switch could more than double its graphics power when docked
+
+Nintendo is doing something interesting with its next console, the Switch, which is targeting a March 2017 release window. The Switch will be able to operate as a mobile game device, using its built-in 720p display, but it can also work as a home console when docked to a device that connects to your TV at home. New details have emerged based on developer hardware that suggest the Switch could be around twice as powerful in terms of graphics processing in that docked mode, vs. when it’s operating as a tablet.
+
+That’s according toEurogamer, which discovered based on a leaked spec sheet that while its CPU power will be consistent across both modes, its available GPU speeds run at 307.2 MHz undocked, but at either 307.2 or 768 MHz while docked.
+
+In practice, that means that developers theoretically have the option to upscale their games when played at home vs. when played on the go. They could offer full 1080p resolution when docked, for instance, or just generally provide graphic improvements that take advantage of the added power to do things like increase detail levels.
+
+Alternatively, developers also seem to be able to match the performance on both, essentially keeping things consistent across both modes, which would make for easier development. And regardless of whether you’re targeting the mobile or the docked specs, Eurogamer says we can expect Switch to exceed the Wii U in terms of graphical capabilities – though no other console rivals like the PlayStation 4 or Xbox One.

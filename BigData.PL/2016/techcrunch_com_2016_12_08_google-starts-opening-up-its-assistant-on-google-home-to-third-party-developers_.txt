@@ -1,0 +1,11 @@
+Google now lets developers write apps for the Assistant on Google Home
+
+Google today announced that all developers (and not just those in its private preview program), can start bringing their applications and services to the Google Assistant, starting with what the company calls “conversation actions” on Google Home. This allows developers to create back-and-forth conversations with users through the Assistant and users can simply start these conversations by using a phrase like “OK Google, talk to Eliza.”
+
+While the Assistant also runs on the Pixel phones and inside the Allo chat app, Google says it plans to bring actions to these other “Assistant surfaces” in the future, but it’s unclear when exactly this will happen.
+
+To help developers who want to build these new Conversation Actions get started, Google has teamed up with a number of partners, includingAPI.AI, GupShup, DashBot and VoiceLabs, Assist, Notify.IO, Witlingo and Spoken Layer. Google has also allowed a small number of partners to enable their apps on Google Home already. These integrations will roll out as early as next week.
+
+Given that users will be able to invoke these new actions with a simple command (and without having to first enable a skill, like on Alexa), Google’s platform looks to be a rather accessible and low-friction way for developers to get their voice-enabled services to users. Google will have the final say over which actions will be enabled on Google Home.
+
+The company says it will enable deeper integrations across verticals in upcoming releases, as well as support for purchases and bookings, but here, too, the details remain rather sparse.

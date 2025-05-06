@@ -1,0 +1,13 @@
+Mobileye says Tesla auto braking tech wasn’t designed for scenario behind fatal crash
+
+Following yesterday’s news of the NHTSA’s investigation intoa fatal crashinvolving a Tesla Model S,Mobileye, the Israeli technology company helping power the carmaker’s Autopilot feature, has sent a statement to TechCrunch regarding the incident.
+
+“We have read the account of what happened in this case,” reads the text attributed to Dan Galves, Mobileye’s Chief Communications Officer. “Today’s collision avoidance technology, or Automatic Emergency Braking (AEB) is defined as rear-end collision avoidance, and is designed specifically for that.”
+
+The statement strikes a decidedly different tone thanyesterday’s Tesla announcement, which both mourned the loss of the driver (since identified as Ohio-based tech entrepreneur Joshua Brown) and reiterated the company’s safety measures, noting that, “Autopilot is getting better all the time, but it is not perfect and still requires the driver to remain alert.”
+
+Galves, likewise, explains that the current generation of technology is not equipped to deal with the specific scenario that played out in the May 7thcollision, though plans are in place to introduce it eventually. “This incident involved a laterally crossing vehicle, which current-generation AEB systems are not designed to actuate upon,” the statement explains. Mobileye systems will include Lateral Turn Across Path (LTAP) detection capabilities beginning in 2018, and the Euro NCAP safety ratings will include this beginning in 2020.”
+
+The technology, it seems, has not yet been equipped to react to the specific case in which a vehicle turns across a lane. According to Tesla’s account from yesterday, “Neither Autopilot nor the driver noticed the white side of the tractor-trailer against a brightly lit sky, so the brake was not applied.”
+
+Mobileye was once againin the news this morning, when it was officially revealed that the company will be working with Intel to help bring BMW’s first fully self-driving car to market by 2021.

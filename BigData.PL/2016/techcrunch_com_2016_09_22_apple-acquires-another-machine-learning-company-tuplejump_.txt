@@ -1,0 +1,19 @@
+Apple acquires another machine learning company: Tuplejump
+
+Apple is on a machine learning company buying spree. After buyingPerceptio at the end of 2015andTuri just a few months ago, Apple has now acquired an India/US-based machine learning team, Tuplejump.
+
+We’d been hearing rumors of another acquisition in this space by Apple for some time. While Apple won’t outright confirm it, when asked about Tuplejump this morning, a representative from Apple gave us the company’s standard we’re-not-saying-yes-but-well-yes response that they only give when they have, in fact, bought the company in question:
+
+Apple buys smaller technology companies from time to time, and we generally do not discuss our purpose or plans.
+
+Haven’t heard of Tuplejump? That’s okay — as with most machine learning companies, they’re not exactly a household name (unless you’ve got a data scientist in your house, I guess.) Tuplejump’s website has been taken down following the acquisition, but aWayback Machine capture of its about pagehas the company describing itself thusly:
+
+A few years ago people realised that the volume of data that businesses generate was becoming unwieldy. A new set of technologies to handle this huge amounts of data cropped up. We were one of the early adopters of these ‘big-data’ technologies. Having helped Fortune 500 companies adopt these technologies we quickly realised how complicated they were and how much simpler they could get.
+
+Thus started our quest to simplify data management technologies and make them extremely simple to use. We are building technology that is simple to use, scalable and will allow people to ask difficult questions on huge datasets.
+
+Terms of the deal are not yet known.
+
+We’re hearing that Apple was particularly interested in “FiloDB”, an opensource project that Tuplejump was building to efficiently apply machine learning concepts and analytics to massive amounts of complex data right as it streamed in. According toits github page, FiloDB was primarily headed up by Evan Chan; Chan’s LinkedIn page says he’s been with Tuplejump since August of 2015.
+
+But will FiloDB live on as an opensource project? It seems like it — it’s recently been pushed to its own repository (whereas it previously lived under Tuplejump’s account) and newly committed code has been pulled into the project within the last few weeks.

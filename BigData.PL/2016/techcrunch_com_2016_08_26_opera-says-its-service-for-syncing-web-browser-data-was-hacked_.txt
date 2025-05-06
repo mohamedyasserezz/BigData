@@ -1,0 +1,15 @@
+Opera says its service for syncing web browser data was hacked
+
+Opera, which recentlyagreed to sell its browser business to a Chinese consortium, has reset user passwords for one of its services after its servers were breached by hackers this week.
+
+The company revealedthat attackers gained access toOpera Sync, a service that lets users synchronize their browser data and settings across multiple platforms. It is investigating the incident, but initially believes the attack may have compromised user data, including passwords and login names.
+
+Opera counts 350 million users across its range products, but it said that a small portion of those use the Sync service. Last month, for example, it counted 1.7 million active Sync users, but more may have registered for it and, in doing so, provided Opera with data. The company has reset all passwords and emailed all registered Opera sync users with details.
+
+“Although we only store encrypted (for synchronized passwords) or hashed and salted (for authentication) passwords in this system, we have reset all the Opera sync account passwords as a precaution,”it explained in a blog post.
+
+News of the attack on Opera comes a day afterDropbox issued a password resetfor accounts that had not changed passwords since 2012. The cloud storage provider said the move came in responsible to security concerns that arose fromthe massive hack on LinkedIn in 2012where credentials for 117 million accounts were posted online.
+
+Opera’s problem doesn’t appear related to that, and is notable that the hack appears to have only impacted one of its services in isolation. No doubt Opera will have more details once it has finished investigating what happened.
+
+Word of the attack comes over a month afterOpera announced the saleof its browser business, privacy apps and Chinese joint-venture to a consortium from China led by anti-virus firm Qihoo 360 for $600 million. The parties had previouslyagreed to a $1.2 billion sale of Opera’s entire operationsbut, while that gainedapproval from the Norwegian company’s shareholders, a new agreement was cut after the necessary approvals were not secured within a pre-arranged deadline.

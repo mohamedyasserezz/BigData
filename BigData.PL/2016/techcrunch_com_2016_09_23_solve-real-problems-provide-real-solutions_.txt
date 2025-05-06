@@ -1,0 +1,27 @@
+Solve real problems, provide real solutions
+
+We love the internet. We love apps. We love the Internet of Things. But most importantly, we love ideas. The accessibility that the internet provides, however, is also what makes it unbelievably difficult for new digital businesses to get off the ground.
+
+Over the last decade, programmatic syntax has gotten easier and more accessible. Along with the plethora of programming knowledge the internet provides at our fingertips, the way in which we build ideas has wildly accelerated software development. As a result, the internet has gotten very busy.
+
+While I’m a huge advocate of building ideas, I’d propose a gentle shift in focus from “ideas.” To frame the larger conversation, let’s look at programming and the industry. The last 10 years has benefited greatly from new hardware and thus, the need for new software. We are on the other side of what I’d consider theCRUDarc, and so a shift is required.
+
+For those not deeply embedded in programming,CRUDstands for Create, Read, Update and Delete. The very short versions ofCRUDare websites and apps that have persistent storage and are used to build almost all internet consumer-related software. When you create an account, when you heart an image, when you update a profile picture or delete a comment, you are using the core ofCRUD. You are asking the database to take your new or existing data and modify it.
+
+Programming frameworks like Rails, Cake and React have the concept ofCRUDdeeply embedded in their war chest, making it fairly easy to get an idea up and running in a matter of weeks instead of months.
+
+These programming frameworks are tried and tested. Entrepreneurs should absolutely continue using them, but pause and consider what to build first. More times than not, these frameworks make it easy to say, “I have an idea, let’s build Pinterest for Donuts.” Ten days later, you have Pinterest for Donuts… and no one cares.
+
+Most ideas on the internet never make it because they aren’t actuallysolvingarealproblem.  When considering a business, it’s important to not get carried away with the cool factor — most people do. Instead, ask yourself a question regarding difficulty. What difficult problem am Isolving? Will this help other people solve a problem? Will this enable people to make money? What is the likelihood of failure (usually the higher the better)?
+
+If you’re willing to solve a difficult problem, that’s immediate leverage over the guy next to you building Pinterest for Puppies.
+
+Another way to consider the idea you’re working on is to consider the consumer. Consumers want solutions, they don’t want ideas. Consumers are ruthless, and entrepreneurs need to be aware of this phenomenon. People who tell you your idea is good are probably not telling you the truth. Most ideas are pretty bad — or at least not well analyzed or executed. If you’ve ever tried to get a consumer to install your app or add it to their home screen, you understand how important it is to solverealproblemsand providerealsolutions.
+
+The application user experience counts for more than people want to believe. The experience of the application — the flow, design and emotional reactions you get while using it, should never be overlooked. Sadly, it is, all the time. If the idea or business you’re working on could be built on the web but should be built on the phone, build it on the phone. The experience matters, even if it takes an additional month of development.
+
+If we look back 30 years, the difficult software was around operating systems. Windows and Apple were sparring over who could get the larger market share. Ten to 15 years ago, the so-called web 2.0 was taking shape, which really ushered in the world of the dynamic web and cloud. The big businesses were PayPal, eBay and early Facebook.
+
+Most recently, everything has been around iPhone and Android development — it’s now all about the client side. At a very granular level, therealwinners are those who time and timeagainhave built well-designed software to fully utilize current hardware and solve the difficultproblems. Two recent examples are Uber and Google Maps.
+
+Ideas are important, and in rare cases they spawn new businesses. Many of those businesses have already been built, however, and newer businesses that have yet to be created need to make a larger step away from generalCRUDdevelopment. Take the time needed to focus onsolvingrealproblems. Ask yourself the difficult questions and don’t be afraid to bite off more than you can chew. The markets will reward you should you succeed.

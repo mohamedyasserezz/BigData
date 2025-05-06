@@ -1,0 +1,15 @@
+Disney launches free Moana-themed coding tutorials
+
+As part of Code.org’s Hour of Code program,Disney is releasing“Moana: Wayfinding with Code,” a free online tutorial to teach kids the basics of computer science. The tutorial features characters from Moana, Disney’s upcoming animated feature film.
+
+In the past, the company has created coding tutorials featuring characters from Frozen and Star Wars. Through those sessions, Disney taught nearly 40 million kids the basics of computer programming. Disney says it hopes to reach even more this time around.
+
+“The idea of technology and storytelling is something that has always been important to us, from the very beginning of the history of the company,” Alison Maruca, Director of Mobile Apps, Disney Consumer Products and Interactive Media, told TechCrunch. “We see this as a way to educate kids and help bring up this next generation of technologists.”
+
+In the tutorial, kids are tasked with using code to navigate Moana and Maui, two of the main characters, through the ocean. When they’re attacked, the students have to use their coding skills to dodge the pirates. Unlike past tutorials, Maruca says the Moana-themed one has more of a “gamey” element to it, with a look-and-feel that is much more advanced and aligned with what kids would see from high-resolution video game consoles.
+
+The tutorial uses a Java based drag-and-drop experience that makes it so that kids don’t need to write individual pieces of code. The idea is to lay out the foundation for eventual text-based computer programming.
+
+In order to increase its reach, Disney has teamed up with Apple to host block-based coding sessions for young kids duringApple’s week-long Hour of Code programming. Code.org will also feature the Moana tutorial on its site, as well as provide resources for teachers and other educators to integrate the tutorial into their lessons.
+
+“The artistry and innovative technology used to create ‘Disney’s Moana’ is rooted in the types of skills that kids will develop by learning the basics of computer science,” Osnat Shurer, producer of Disney’s Moana, said in a release. “We hope that Moana’s fierce determination and sense of adventure encourages children to try this tutorial and learn the skills they need to become future filmmakers and storytellers.”

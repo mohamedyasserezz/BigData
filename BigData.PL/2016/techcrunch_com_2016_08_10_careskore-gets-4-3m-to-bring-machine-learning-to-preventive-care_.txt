@@ -1,0 +1,31 @@
+CareSkore gets $4.3M to bring machine learning to preventive care
+
+Among other things,CareSkorewants to use machine learning to anticipate mortality. However, the newly endowed platform is more than just a Facebook poll that tells you how you’ll meet your end this Christmas by being squashed by a falling piano.
+
+Storm ventures, Cota Capital, Rising Tide Fund and Liquid 2 Ventures are rallying behind the Y Combinator graduate with today’s $4.5 million seed round.
+
+CareSkore is combining clinical, socio-economic, demographic, and behavioral data to paint a holistic picture of patients that doctors and insurance companies can use to provide better preventative care.
+
+The platform isleveraging Google’s TensorFlowand Hadoop to cut through massive third party data sets and generate insights by finding relationships between environmental and clinical data.
+
+From a data-science perspective, CareSkore uses ensemble learning techniques like random forest analysis to combine various statistical models to produce a less noisy, more accurate result.
+
+The platform can inform doctors of patients who are most likely to skip an appointment and who are likely to forget or intentionally fail to take medication on time. In addition to mortality risk, the platform analyzes readmission risk, fall risk, and infection risk by taking into account patient charts on file with hospitals and doctors offices. Doctors can use this information to inform their work, and proactively reach out to patients with appropriate recommendations and additional services.
+
+Patients receive personalized text messages or phone calls gently nudging them to take action if a new risk factor emerges. CareSkore offers disease specific templates for conditions like COPD and diabetes that can make care recommendations. Patients can also use the system to inform doctors of new symptoms or questions about a condition or care plan. Information is passed on to social workers who ensure information gets to the right person. In many cases, data is fed back through the system to inform future CareSkore predictions.
+
+The space is hot, with a number of players opting for different angles to enter the market.Predilytics got acquiredby Welltok last year, but the company focuses more on health risk management than direct patient communication.
+
+Third-party intelligence is where CareSkore looks to set itself apart from other analytics platforms likeAyasdiandOptum. CareSkore uses 23 environmental data sources, including Google Maps and Google APIs, to contextualize patient data.
+
+While it would seem lucrative for the company to repackage data for insurance companies to incorporate into premium analysis, Jas Grewal, CEO of CareSkore, is perfectly happy sticking directly with the healthcare market. The relationship the company has with insurers is focused on supporting preventative care. If insurance companies can make the same proactive efforts as doctors, everyone benefits from reduced claims.
+
+Since graduating from Y Combinator, Grewal has brought in $1.2 million in revenue from signed contracts. Another $3.4 million in revenue is sitting in the pipeline to be processed before the end of the year. The company’s SaaS model is based on the number of admissions for both in-patient and out-patient care charged monthly, quarterly or yearly in addition to a one-time up-front implementation fee.
+
+In addition to long sales cycles in the healthcare industry, CareSkore also has to grapple with implementation hurdles. Grewal wants to reduce the on-boarding time for new clients from two to three months down to a few weeks. Without a standard format for patient data, the company has to convert some legacy patient tracking systems into a format usable by the platform. Fortunately, four large companies includingMeditechcontrol 80 percent of the hospital market and CareSkore is working to lock down partnerships with all four.
+
+With the Affordable Care Act, the market has shifted to incentivize just about everyone to focus on preventative care.
+
+“There has been a push from the regulatory side in this direction,” noted Arun Penmetsa, a Principal at Storm Ventures. “The Centers for Medicare & Medicaid Services (CMS) has made a push toward using quality as the leading metric for reimbursement.”
+
+If Grewal and his early team of 15 can nail the execution, the M&A market remains hot for smart applications of data science that can support patient care and bridge the gap between the home and the hospital.

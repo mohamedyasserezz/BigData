@@ -1,0 +1,69 @@
+How data science fights modern insider threats
+
+Insider threatsare the biggest cybersecurity threats to firms, organizations and government agencies. This is something you hear a lot atsecurity conference keynotesand read about indata breach reports, white papers and surveys — and these insider threats are becoming increasinglymore difficult to detect and prevent, as well asmore frequent.
+
+This seemingly unstoppable growth accentuates the problem and shortcomings of current solutions, and warrants the need for new defensive technologies to detect and stop the digital daggers aimed at our backs.
+
+Data science — the application of mathematics, big data analytics and machine learning to extract knowledge and detect patterns — is an emergent, advanced technology area that isproving its effectiveness in the realm of cybersecurity, including fighting insider threats. Here’s how it succeeds where legacy solutions fail.
+
+The wide adoption of cloud services and mobile technology in companies has transformed IT infrastructures considerably.
+
+With physical boundaries of corporate networks and digital assets not as clearly defined as they once used to be, the focus in fighting insider threats needs to shift toward protecting user accounts. “Now that the traditional security perimeter has been erased by mobile and cloud computing, identities have become both an attack vector and security perimeter,” says Tom Clare, VP of marketing at cybersecurity startupGurucul.
+
+“What has changed recently is the fact that control of user accounts has become far more valuable than control of devices,” says Jarno Niemelä, lead researcher atF-Secure Labs. “Years back, we were fighting against keeping computers clean from infection just to keep the computers clean. Nowadays, we are protecting computers just to be able to protect the user accounts that are on the computer.”
+
+Organizations try hard to protect user identities by adopting different security solutions and training employees on thebasics of cybersecurity, but it’s not enough.
+
+“Good data hygiene is critical, but it is not enough,” says Stephan Jou, CTO atInterset. “A negligent employee is unlikely to change regardless of training, and a third-party attacker often can operate outside employee-focused processes. More importantly, the insider stealing for espionage is motivated to break rules.”
+
+The truth is that credential theft does happen, and it happens a lot. In fact, aVerizon 2015 data breach reportfound that the majority of confirmed security incidents occur as a result of compromised user accounts. Massive lists of user credentials and passwords are beingsold on the Dark Web at low prices, and, for a small fee, anyone can obtain access to all sorts of enterprise networks and cloud services, and impersonate legitimate users.
+
+Therefore, fighting insider attacks hinges on detecting anomalous user behavior. But this again presents its own set of challenges, because defining normal and malicious behavior is not an exact science and involves a lot of intricacies.
+
+Traditional security defenses rely on setting static rules and alerts on user activities in order to define and identify indicators of compromise (IoCs). But when applied to tens, hundreds and thousands of users, this model ends up generating a noisy flood, and security teams have to struggle with wasted time and must sort through tons of unimportant events that are mostly false positives. Meanwhile, actions don’t necessarily explain intents, and savvy attackers will be able to cloak their malicious activities by keeping them within the defined set of rules.
+
+The use of data science can help move away from static models toward dynamic ones that are able to define normal user behavior based on identities, roles and working circumstances. This approach is very effective in reducing false positives and highlighting behavior that truly accounts for malicious activities.
+
+Cybersecurity firms are increasingly leveraging this technology to deal with insider threats.
+
+Gurucul’sRisk Analyticssecurity platform combines machine learning models with big data to understand normal baselines of behavior and uncover anomalies, and to provide visibility that spans identities, accounts, access and activity. “This behavioral analytics approach, sometimes called user behavior analytics or UBA, can detect excess access permissions and activity, define roles and detect unknown threats,” says Gurucul’s Clare.
+
+Gurucul’s Risk Analytics also gathers and monitors identity-based data and activity from both on-premises and cloud environments. Its machine learning algorithms, including self-learning and training behavioral profile algorithms, look at every new transaction and risk scores it. Using clustering and outlier machine learning makes suspicious behavior stand out from other benign activities.
+
+One of the features of Gurucul is its concept ofdynamic peer groups. The system automatically groups users based on the types of activities they typically perform and the types of identities and privileges they hold. This allows for a tighter clustering of behavior and better chances in highlighting outlier activities in behavior patterns.
+
+So if a sales employee is downloading large amounts of company data for the purpose of later surrendering it to a competitor, they will stand out and be marked for investigation even if they have legitimate access to the information, because their behavior deviates from that of their peers.
+
+Interset is another cybersecurity platform that relies on semi-supervised machine learning and advanced behavioral analytics to examine and correlate scattered bits of data in order to find insider threats. Its platform analyzes data from multiple sources related to the movement of data across or within a network, while also gathering information about the entities involved, which include users, endpoints and applications.
+
+The math behind Interset’sdata science modelis based on three key ideas. First, it replaces traditional boolean alerts with probabilistic models or risk factors. Models that emit probabilities are more effective than true/false alerts and allow the use of math to combine multiple pieces of evidence across different data sets to define the likelihood of a user account having been compromised or engaged in illicit activities.
+
+Second, it uses machine learning to define dynamic thresholds for each actor based on gathered data, a much more flexible model than globally applied rules such as “how many megabytes of attachments are allowed.” The “mathematical fingerprint” that results from the analysis of user-generated data makes it much easier to identify anomalous behavior.
+
+Third, the platform moves away from the event level and uses math to correlate, corroborate and aggregate events to attribute risk to the higher-level actors involved. What results from this model is the ability to name names, i.e. determine who is stealing data instead of figuring out which of the hundreds of transactional events indicate data is being stolen.
+
+This is the platform that, according to Interset’s Jou, “would have detected and surfaced Edward Snowden’s activities in a matter of hours.”
+
+“From a technical point of view, we are looking at actions conducted by user accounts,” F-Secure’s Niemelä explains, “and it doesn’t really matter that much whether the malicious operations being carried out are by the original owner of the account, or has someone been able to compromise said account.”
+
+The Finnish firm’s latest security offering,Rapid Detection Service(RDS), is a platform that protects against both inside and outside threats. Niemelä calls it “a system that is capable of detecting both insiders and attackers who have been able to compromise some user account and are, in effect, an ‘insider’.”
+
+The managed service uses a combination of threat intelligence, big data analytics, machine learning and security experts to deliver accurate, actionable data about security alerts and detect anomalies and signs of insider threats.
+
+“Most users have rather clean and repeating patterns in their work from a statistics point of view,” Niemelä says. “Thus, alarming changes in the users’ behavior can be detected with suitable near real-time statistics analysis tools, supported by heuristics and machine learning systems.”
+
+RDS collects data from different sources, including behavioral information from corporate endpoints, and detects when a user account starts behaving in an unusual manner. The use of near-real-time analytics, stored data analytics and big data analytics enables the RDS platform to compare user behavior against baseline standards, historical data and known threats in order to detect signs of malicious activities while filtering out false positives.
+
+What’s unique about F-Secure’s approach is the team of human experts who verify and provide incident response on anomalies detected by its machine learning engine. When a breach is confirmed, the client is contacted and informed.
+
+LogRhythmtackles insider threats from a slightly different perspective, and takes the mindset that the adversary has already likely breached the perimeter, explains Greg Foss, Security Operations Lead at the security vendor, “so our detections primarily focus on tracking attacker activity once they are inside.”
+
+The company’sUser Threat Detectionmodule provides insider threat detection capabilities through honeypot analytics and open-source honeypot solutions.Honeypotsare decoys or cyber traps that lure malicious hackers and enable security software to detect, deflect or counteract their nefarious activities.
+
+LogRhythm has researchedhoneypots, deception and sensitive file trackingto determine ways to trick attackers and track them as they move through an organization. “The trick is not to make compromise impossible but to ensure that it is loud and noticeable so that the SOC can detect and respond to the threat,” Foss explains.
+
+Foss also stresses network flow analysis as another key piece of the puzzle when it comes to detecting insider threats. “A lot of people ask what threat feeds they should use to help find bad guys on their network,” Foss says. “I often inform them that they already have everything they need right in front of them, they just need to start looking closely at the data they are already collecting.”
+
+LogRhythm uses Deep Packet Analytics to investigate huge amounts of network traffic and catch malicious insiders when they want to exfiltrate sensitive information, and also to detect compromised network nodes such asmachines conducting packet capturing activities.
+
+With organizations using more online services and generating more data than ever, insider threats will become increasingly complicated and harder to find. Shifting from traditional methods to new approaches and technologies such as data science can help find the needle in the haystack and speed the process of detecting and blocking insider threats before they cause irreversible damage.

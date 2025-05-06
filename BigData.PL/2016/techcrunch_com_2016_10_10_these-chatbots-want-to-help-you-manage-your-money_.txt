@@ -1,0 +1,35 @@
+These chatbots want to help you manage your money
+
+Can a chatbot help you manage your money? Three London-based fintech startups are betting on the answer being yes and have jumped aboard the messaging gravy train as they seek to entice millennials to their respective platforms.
+
+The thinking goes something like this: A conversational interface, coupled with tech that plugs into your bank account and analyses your spending in the background, is the best way to deliver financial assistance to help you keep track of your money and actuallysavefor a rainy day.
+
+More broadly these chatbots are targeting  millennials who, they claim, typically aren’t as financially savvy as they could be and who are perfectly comfortable communicating entirely through emoji. I jest, kinda.
+
+Choosing to announce news or fully launch today are Plum, Chip, and Cleo, which is a little awkward. You wait around for a chatbot financial assistant and three arrive at once, said nobody.
+
+Founded by Victor Trokoudes and Alex Michael, who were part of the early teams at TransferWise and Tictail respectively,Plumis billed as the first AI powered Facebook chatbot that enables you to start saving small amounts of money effortlessly. The chatbot connects your current account and Plum’s AI learns your spending habits, allowing it to automatically deposit small amounts of money into your Plum savings account every few days.
+
+In a call with Trokoudes, he told me the idea is that you can “micro save” in a way in which you barely notice. Plum does this by looking at your last 3-12 months spending and predicts how much you can afford to save now and in the future.
+
+He also says that Facebook messenger is an appropriate way to deliver a saving assistant, not only because messaging apps are where Plum’s target users already congregate, but also because Plum is largely a background process. Why ask users to download an app when most of the heavy lifting takes place outside of the Plum UI.
+
+Plum is currently in private Beta in the U.K. and will move to invite-only at the end of October. It has just closed $500,000 in seed funding from 500 Startups’ microfund and a number of angels.
+
+Founded by Simon Rabin and Nick Ustinov, who previously founded Roamer, on the surfaceChipis a micro-saving chatbot similar to Plum. The key difference being that Chip has actually launched and has chosen to develop its own iOS and Android chatbot app rather than relying on an existing messaging app like Facebook Messenger.
+
+“We have built Chip to help our friends/peers have a happier and healthier relationship with money,” the startup tells me. “How? Prove they can actually save, and actually afford to save – it’s possible for anyone, whatever you earn, however bad you are with money”.
+
+To achieve this, the Chip bot automatically puts money into your Chip saving account based on what it deems you can afford. It does this by learning your spending habits and running this data through its own AI.
+
+Saving is just the start: I’m told that the big vision for Chip is to be able to offer a range of financial services that are “price transparent and help the customer have a happier and healthier financial life”. Think competition in overdrafts, personal loans, and forex.
+
+That’s a vision echoed by Plum’s Trokoudes, who, borrowing from the TransferWise playbook, sees many slices of the banking pie where more value can be passed directly onto the consumer. You no longer need to be a bank to have access to a customer’s bank account data from which there are a plethora of value-add opportunities.
+
+A graduate of Entrepreneur First,Cleobills itself as an intelligent assistant for your money. The AI-powered chatbot, which gets its full launch today, lets you interrogate your bank accounts and credit card data and helps you keep track of your spending and hopefully budget better.
+
+“We’re focused on making managing your money really really simple, not roundups or microsavings,” Cleo co-founder and CEO Barnaby Hussey-Yeo tells me. “It’s for people that would rather not spend a couple of hours every week in a spreadsheet trying to manage their cash”.
+
+The startup uses machine learning to help make you smarter with your money and to automate a lot of what Hussey-Yeo describes as the boring stuff, such as categorising transactions or making sense of graphs. “We try to deliver actionable ways to save in 140 characters or less, in realtime using live data,” he adds.
+
+In practice, this ranges from managing subscriptions, optimising your day-to-day spending to finding better financial products. Not dissimilar to Plum and Chip, the bigger picture for Cleo is to offer a full range of banking products using the data you’ve handed over and its algorithms to make sure you’re always getting the best deal.

@@ -1,0 +1,35 @@
+Android Nougat comes out of beta
+
+Google surprised everyone when it launched a public beta of theAndroid Nougatback in March. Annual updates are nothing new for Android, but not only did this announcement come very early, it also offered users the option to easily install the beta with an over-the-air update. Now, half a year later, Nougat isout of betaand available for Google’s own Nexus devices (the Nexus 6, Nexus 5X, Nexus 6P, Nexus 9, Nexus Player), the Pixel C tablet and the General Mobile 4G.
+
+If you own one of those devices (no matter whether you were enrolled in the beta or not), you should see an update prompt fairly soon. The first new phone that will come with Android Nougat pre-installed is theLG V20, which should arrive in early September.
+
+Keep in mind that this will be a slow rollout. A Google spokesperson tells me that it may take several weeks for Nougat to arrive on all supported phones.
+
+I’ve used the betas both on a Nexus 6P and Pixel C for the last few months. While Google says Nougat introduces about 250 major new features, you’ll likely only notice a handful when you first boot up your phone after the update.
+
+The most obvious change is in the notifications system. Their look is now closer to Google’s Material Design guidelines and, more importantly, most applications now allow you to take an action (archive an email, for example) or respond to a message right from the notification. Nougat also bundles together notifications from the same app, so you can, for example, see all the messages with the same topic bundled into one expandable notification.
+
+Google also redesigned the Quick Settings widget you see when you pull down from the top. Among other things, you can now easily move items around (without having to enable developer mode). If you only swipe down a little bit, you will only see a compact view for the first five items in the menu. To see all options, you have to swipe down a bit further.
+
+Another very useful new feature (that you aren’t likely to discover by yourself, though), is the ability to switch between your two most recently used apps by double-tapping the Overview button (the square button that usually shows you your most recently used apps). That’s probably the one new Nougat feature I’ve used more often than any other so far.
+
+Nougat also now lets you see two apps side-by-side (or on top of each other). Samsung and others already enabled a similar feature for their Android skins, but it’s a first for Google.
+
+On the phone, I’ve not found this particularly useful, to be honest. On the Pixel C tablet, however, it makes a world of a difference. The tablet’s high-res screen and the fact that it features a very usable keyboard makes it a great machine for using basic productivity apps like Google Docs, Microsoft Word and others. Without multi-window support, the Pixel C always felt like Android was holding it back. That’s not a problem anymore, and working on the Pixel C now actually approaches what some might call “fun,” especially because this feature works with pretty much any app and developers don’t have to do anything to enable it.
+
+Android Nougat also has plenty of new features that you don’t interact with directly, but that’ll make the overall user experience better.
+
+The new version also promises improved battery life thanks to an improved version of Marshmallow’s Doze mode, for example, which put the device into a battery-saving deep sleep when you put your device down and didn’t move it for a while. In this new version, Doze will activate even when you’re on the go but haven’t used the device for a while. I can’t say that I’ve seen any major battery improvements in my day-to-day usage of the Nexus 6P (probably because I’m too addicted to my phone to not use it when it’s with me), but your mileage may vary.
+
+If you’re worried about data usage, Android Nougat’s Data Saver mode can now help you reduce the amount of background data apps use. This will still allow push notifications to come through, but apps will be restricted from downloading large amounts of data while they are not in the foreground (and you can always whitelist apps, too).
+
+Google also promises that your device will now boot faster and that Nougat does a better job at isolating the files for individual users from each other thanks to file-based encryption.
+
+OS updates, too, will now be faster, because instead of downloading the update, applying it and then optimizing all your apps, which often can take 15 minutes or more, Android Nougat now installs the updates in the background; when you restart, it simply switches over to the new version and you’re done.
+
+If you’re a gamer, you may notice some changes in new games thanks to Google’s support for the newVulkanstandard.
+
+Nougat also features a special virtual reality mode calledDaydreamthat will ensure that VR apps run smoother, but we won’t see Daydream-ready phones and headsets until later this year.
+
+As usual, if you don’t own a Nexus phone or tablet (or the General Mobile 4G), you probably won’t see an update to Nougat anytime soon. Even today, only15 percent of Android devicesrun Android 6.0 Marshmallow. Android 4.4 KitKat, the most popular version of Android with just under 30 percent of users, is now three generations behind. Nougat won’t change that, but if you’re able to get it, it’s definitely a worthy upgrade, even if it’s mostly evolutionary (but the same can be said for every mobile operating system these days).

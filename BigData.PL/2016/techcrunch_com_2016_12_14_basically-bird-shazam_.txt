@@ -1,0 +1,13 @@
+What kind of bird is that? Snap a picture and the Merlin Bird Photo ID app tells you
+
+Is that a bufflehead? A coot? Maybe a loon? Get close enough to take a picture and theMerlin bird identification appwill tell you in seconds — sort of like a Shazam for would-be ornithologists.
+
+The photo ID capability has actually been a part of the greater Merlin ecosystem for more than a year, but the Cornell birders behind it just recently added the ability to do it from the mobile app. Take a picture, zoom in and let the database do the work.
+
+Of course, getting close enough to get a decent picture of a warbler with your wide-angle smartphone camera might be something of a challenge. But if you get the shot, the creators claim the app is 90 percent accurate. If you’re not sure, answer a few questions — what did its call sound like, did it have a bar on its throat, etc. — and that should put it right. You don’t even need to be online, though you will need to download a couple hundred megabytes of data first.
+
+“This app is the culmination of seven years of our students’ hard work and is propelled by the tremendous progress that computer vision and machine learning scientists are making around the world,” said Pietro Perona, who co-founded Visipedia, the company Cornell collaborates with to make the app.
+
+“Ultimately we want to create an open platform that any community can use to make a visual classification tool for butterflies, frogs, plants or whatever they need,” said Cornell professor Serge Belongie, the other co-founder.
+
+The app is free onAndroidandiOS— just make sure you’ve got half a gig of free space before you commit to downloading it.

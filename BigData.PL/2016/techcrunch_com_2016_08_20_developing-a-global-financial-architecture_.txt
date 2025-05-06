@@ -1,0 +1,57 @@
+Developing a global financial architecture
+
+An odd paradox exists in the way capital moves around the world — or doesn’t — from developed to developing countries.
+
+A few specific technology hurdles halt the flow of money, at the personal level, from transferring wealth to and investing in emerging markets. Issues with ledgers of exchange, unique identifiers, transfer costs and points of access all impact capital flows across borders.
+
+Innovative firms have made strides developing solutions for each, but a comprehensive technology answer still remains to be found.
+
+On a global scale, western economies are awash in cheap investment capital chasing anemic returns. Capital in the global financial economy is so plentiful that central banks in countries like Sweden, Switzerland and Japan now offernegative interest rateson deposits. This means that investors essentially have to pay to “park” the funds that they can’t invest — and choose to do soen massebecause the nominal losses from negative rates outweigh the potential significant losses from investment.
+
+Over time, capital pools up, and when attractive investment opportunities do come up, they’re quickly oversubscribed — look at thelate-stage Silicon Valley venture capital market in 2015for evidence.
+
+Emerging markets, meanwhile, generally offer morelucratively pricedinvestment prospects. A corporation based in Lagos, Nigeria, for instance, might offer higher interest rates when it issues debt to raise capital than would a similar company in the U.S. But that debt is priced to account for the increased risk of operating in a country without a well-developed “trust architecture,” which slows the flow of assets from advanced to emerging markets.
+
+The lack of trust architecture is the defining stumbling block that keeps money from moving more easily to the developing world. In their Insights articleA World Awash in Money, Bain & Company define trust architecture as strong property rights protections, reliable legal systems and institutional depth. What this really boils down to is safety and transparency: People want to see that the money they send across borders is going where it is supposed to. Though the examples Bain uses detail larger foreign direct investments, these architecture problems persist even at the peer-to-peer level.
+
+(One thing to note: The World Bank recently started recommending against the use of the “developing” and “developed” distinction, because countries are stratified between so many levels of development that it’s tough to break them into two distinct groups. For this article, let’s assume that developing or emerging economies are those that are the net recipients of remittances, while developed or advanced economies are net remitters.)
+
+In the U.S., anyone can deposit a check to a checking account with the snap of an iPhone camera, pay a friend using Venmo and Facebook or buy goods online with PayPal, which provides fraud protection and arbitration. The trust we place in these systems doesn’t necessarily exist in countries without the institutions to support them. It’s harder to send remittances to family members in foreign countries, or make personal loans to friends across borders.
+
+To take the Bain analogy further, if you think of capital as a large reserve of water pooling up in advanced economies, the missing elements of trust architecture pile up to build a dam that stops the water from flowing downstream to emerging markets.
+
+So what obstacles does technology need to overcome to create a reliable infrastructure to move money to emerging economies?
+
+In his insightful article,When Bitcoin Grows Up, British journalist John Lanchester dives into why, historically, banks came about in the first place. When we spend money or get paid or give a loan, what we’re really doing is making an entry on a register. That entry says “this thing of value is being transferred.” Before the invention of common currencies, people would barter goods directly, or keep informal “IOUs” to log debts. The creation of banks allowed people to log their transactions in a centralized, authoritative ledger — the banker’s.
+
+Much of the developing world has a ledger problem. Unsurprisingly, checking account penetration issignificantly lower in developing countries, where only 41 percent of the population have accounts, than in the developed world, where 89 percent do. The differences are even more stark when you look at adults with only primary education (10 percent) or credit card holders (7 percent) in the developing world. Though it’s difficult to paint heterogeneous markets in such broad strokes, the trend is clear — poorer people have less access to banks. This makes it hard to store and transact money.
+
+One solution, which Lanchester evaluates thoroughly, is that of digital currencies based on technology such as blockchain. Blockchain provides a distributed database that records every transaction users make of currencies, such as Bitcoin, based on that database. This allows people to exchange money peer-to-peer, instead of having to rely on a trusted intermediary like a bank. It also has the added benefit of insulating people from fiat currency fluctuations, which are more prone to volatility in developing markets such asZimbabweand can make money essentially worthless to the note holder.
+
+A reliable, stable crypto-currency is still a dream to many, but the Bank of England has recently undertakenpioneering researchinto making the dream a reality. It may be one day soon that both emerging and advanced markets transact in one global currency, which isn’t dependent on banks and states to guarantee its value.
+
+Another problem for the developing world is the failure of many countries’ trust architecture to provide reliable personal identification and credit underwriting. Would you cut a check and send money overseas if you couldn’t verify the recipient? How do lenders ensure that people will pay loans back if there is no data available on them in the digital sphere? These questions, salient in the developed world, are especially difficult in less-data-rich markets.
+
+To solve this problem, the Indian government has famously rolled out an initiative to give a digital identity to its 1 billion+ residents using biometric identification. Now,following its critical success, Russia, Morocco, Algeria and Tunisia are all exploring similar programs. These identification programs, though not incorruptible, deliver the same value that social security numbers do in the U.S.: the ability to tell who is on the other side of your transaction and whether you can trust them.
+
+Another novel approach to creating credit files comes from Kenya, home to the wildly successfulSafaricomstartupM-Pesa. In 2013,43 percent of Kenya’s GDPflowed through M-Pesa. The tech is built on a radically simple idea: If you have access to someone’s cell phone account, you have a way to identify them individually and a history of payments to tell if they’re creditworthy.
+
+Now, startups likeeLoan(an Israeli peer-to-peer lender) andBranch(started by a Kiva co-founder) arerolling out programs in emerging marketsto let banks lend to people based off their phone subscription history, while companies likeInVenturego a step further by creating a global, fungible credit score for anyone with a phone.
+
+In sum, these identification solutions could provide the trust needed in advanced economies to reliably lend to and invest in the “bottom of the pyramid” available in emerging markets.
+
+One of the more prohibitive elements of remittances, which adversely affects poorer users, is the high cost of sending money across borders. The lack of infrastructure in the developing world makes it prohibitively expensive in many places to receive money from friends and family overseas. The World Bank estimates that the global average cost of remittances is7.5 percent— and has been trending up in 2016.
+
+For all its stumbles, the now-defunct payments startup Clinkle was built with an idea that was radical for its simplicity: You shouldn’t have to pay to use the money you already own (an idea that has perennially eluded credit card and remittance companies). Exchange rates only complicate the problem.
+
+The idea of liberating people’s access to their own money led companies likeTransferWiseandWorldRemitto create platforms to dramatically reduce money transfer costs, display fees transparently and guarantee fair currency exchange rates. Since its founding, TransferWise has helped people send $4 billion across borders to those who need it, and inspired regional remittance companies likeIstarem, which helps overseas workers transfer money in southeast Asia, andBitso, which facilitates bitcoin remittances in Mexico.
+
+Once the issues of identifying a recipient, controlling for currency fluctuations and fees and recording a transaction have been solved, recipients still face a vital problem: where to store and access their money? Point of sale technologies that work with smartphones, or even credit and debit cards, do not exist across vast swathes of the developing world. Getting one’s money is not meaningful if that money is irretrievably locked in its digital form.
+
+The issue of converting digital to paper currency is remarkably similar to that of transfers: ATMs, check cashers and exchange kiosks may charge exorbitant fees. Moreover, carrying large sums of paper money can be inherently less secure than accepting cash digitally.
+
+One firm tackling the “point of access” challenge isAbra, a newer bitcoin startup that bills itself as “the world’s first peer-to-peer digital cash money transfer network.” Though bitcoin and digital transfers are nothing new to the payments technology world, Abra introduces a new feature: people who act as “tellers” on the sending and receiving end. Using the Abra platform, any “teller” can accept paper currency, charge a discretionary fee (part of which is split with Abra) and then transfer full funds to a corresponding “teller” across borders, who receives the funds and hands the paper equivalent to their end-recipient.
+
+The movement of capital around the globe is of paramount importance to an increasingly globalized society. As companies, workers and jobs become more fluid across permeable borders, it will become increasingly necessary to move money freely without arduous costs or constraints. Yet no comprehensive solution exists today that resolves the issues damming the flow of capital across borders.
+
+Innovative technology firms, well-versed in the challenges of the developing world’s financial trust architecture, stand to revolutionize the way money is sent and lent globally. These solutions could also “trickle up” from the personal level to larger-scale investments, as transfer risks are smoothed across geographies. The inertial build-up of capital pools in the developed world creates an almost limitless opportunity for those platforms that can overcome the hurdles damming it.

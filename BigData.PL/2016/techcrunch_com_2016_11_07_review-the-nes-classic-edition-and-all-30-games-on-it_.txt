@@ -1,0 +1,135 @@
+Review: The NES Classic Edition and all 30 games on it
+
+Nintendo is courting nostalgia for the holidays this year, like pretty much every year — but the NES Classic Edition, a palm-size recreation of the original console with 30 games built-in, rates highly on the nostalgia scale even for a company whose heart is stuck in the 1980s. It’s already a highly coveted item for millions of 30-something gamers, and make no mistake: This is a love letter to Nintendo’s oldest fans.
+
+First of all, we have to talk about the device itself: It’s tiny. Like, fits in your palm tiny. And while it’s a great reproduction of the original, it’s clear that it’s just for looks. There’s no cartridge slot to put an SD card full of games, no old-school video out on the back, just HDMI. The controller ports aren’t as satisfyingly analog-feeling as the old ones, but that’s really not a big deal.
+
+The NES turns on instantly; you’ll be prompted the first time to set up your language, but thereafter you’ll be sent directly to the game selection screen. Enjoy the jaunty NES-style menu theme — I want it for my phone. The menu really shows lovely attention to detail; Nintendo could have phoned it in, but instead took great care, and whole experience is better for it.
+
+Hitting Up on the controller brings you to the settings menu, where you’ll find display options (more on this later), language, a couple of miscellaneous tweaks like demo/screen saver mode and auto shutdown, some legal information and a decidedly unhelpful link to download manuals to your phone.
+
+That really is one of the big disappointments of the NES Classic for the old-school fan: It would have beensosatisfying to have the original manual for each game available. Of course, the manuals would have taken up orders of magnitude more space than the games themselves — an NES ROM is on the order of 40-256 kilobytes, while a single manual might be 5-10 megabytes when scanned at a reasonable resolution. Still, it’s a shame.
+
+Hitting Down brings you to the Suspend menu, which we’ll come to later. Left and Right navigate through the list of games, and although it isn’t exactly efficient, it’s quick enough you won’t mind not having a more compact view.
+
+The Power button, which has the familiar two-step click from the original NES, controls power, obviously. The reset button is used to return to the menu; the game is automatically suspended when you do this.
+
+Having played NES games since small times, I know thefeelpretty well, and this gets the feel 95 percent right. The controllers are highly accurate replicas, and while the buttons feel identical, the d-pad seems stiffer — that could simply be because it’s brand new, though. Notably, these controllers are the standard port used on Wii and Wii U, so you can use them on those consoles (we’re guessing this isn’t the case with theSwitch).
+
+That said, the cord for the controller is way too short. Well shorter than three feet, which doesn’t help when you want to pass it to the next person on the couch. You can buy extenders, or even a wireless controller, but still, the short cord is a pain.
+
+Between this and the necessity of pressing the Reset button on the console itself to save the game, it’s clear Nintendo wants the NES to sit near you on the coffee table or whatnot, but that means running a cord across the living room — not ideal. If you’ve got a nice, tucked-away A/V setup, the NES Classic isn’t going to fit into it.
+
+On the plus side, it makes the console very portable. You can unplug it, wrap the cords up and take it to a friend’s house super-easily, and pick up a game where you left off. No cloud saves or accounts here — it’s all on the device itself.
+
+I’ve never been a fan of the Virtual Console — I liked the idea, but it never was executed quite right, whether it was the controls, the display style or something else. This time, Nintendo got everything right.
+
+Controls are as responsive as they ever were, with no appreciable lag or other weirdness. It’s nice to be playing on the NES-style controller, too.
+
+[tc_unified_video code=”41fabb9d-3775-3a93-a5c1-2de374bec5de”]
+
+I saw a couple of small graphical glitches in the hours I played, but they were very much the kind you’d see when playing the originals: some graphical corruption that disappears when you walk backwards and forwards again, and the like.
+
+Nintendo also has not attempted to improve on the original by doing frame interpolation, removing the 8-sprite-per-line limit or anything like that. This is very much going after the original experience, complete with flickering, well-known bugs in games and so on.
+
+Unlike the original NES, of course, this one lets you save your progress in a game at any time. You do this by hitting the Reset button, which puts you back at the menu and shows a winged screenshot floating there, waiting to be resumed, saved or deleted.
+
+The interface here is a bit obtuse, though it gets more intuitive with time. Once you hit Reset, you hit down to go to the Suspend menu. There are four slots there, and if they’re empty, you press A to drop the save in there. If a save is already there, you hold A for about half a second and it pushes the previous one out of the way with a cute little animation.
+
+The idea is it makes it unlikely you’ll accidentally overwrite another save, but it takes a bit of skill to operate with any speed and confidence. You can also lock saves so they can’t be overwritten by simply pressing Down again while in the Suspend menu.
+
+Each game gets its own four slots, which is generally more than enough. One thing to note is that using Suspend overwrites any in-game battery save, like the ones in Zelda or SMB3. To prevent confusion, just use one or the other, or you’ll end up accidentally deleting your game. (Note: Password saves work fine and are fun — well, “fun” — to use.)
+
+It’s a bit cumbersome if you use the feature a lot, like saving before each level. You have to hit Restart, then Down, then either A (to save) or Down again (to then select a previous save), then A again. It’s like putting in a cheat code! I accidentally saved or loaded more than once when I meant to do the other, but I suspect muscle memory will eventually take care of that.
+
+Presumably Nintendo didn’t want people using this every second, which would be the case if there was a save/load button on the controller itself. I respect that decision, but it’s still kind of annoying.
+
+Nintendo was generous with the display modes —I went into detail on thiswhen they first announced it, so I’ll just repeat what I said then by way of review:
+
+The NES was almost certainly played on a 4:3 CRT television over something like an RF adapter or possibly RCA. The output of the NES, however, was not quite 4:3 (~256x240px), so the pixels would be stretched — that is, not quite square, the way they are on the screen you’re looking at. This, combined with the poor video signal carried by cables at the time and the naturally analog look of CRT phosphors, gave NES games a very distinct and recognizable look.
+
+The NES Mini has three display modes (click above for a bigger version):
+
+Which you use is really a matter of taste. It might look better to send the pixel-perfect signal and stretch it on your TV rather than in the box.
+
+The pixel-perfect and 4:3 modes are bright, colorful and look fantastic — much better than the previous Virtual Console versions. This is a great way to experience these games.
+
+Personally, I found the CRT filter to be a bit heavy, darkening the image considerably. Not to my taste, but it’s nice to have the option. People who like this sort of thing will find it the sort of thing they like, and so on.
+
+Before I get to the games themselves, let me just say:Yes, buy it.I think this is a fantastic value. You’re paying $2 per game, plus the well-made hardware and convenience of the save state system. It’s a bargain in a lot of ways.
+
+That said, you really should spring for a second controller — many of the games in this first batch are better two-player. $10 isn’t much to ask — but you might consider waiting and buying a wireless or extended-cord versionfrom a third-partyfor convenience.
+
+I say “this first batch” because it’s inconceivable to me that Nintendo would not put out a few more of these over the next couple of years. The Classic Edition has the early hits and main Nintendo franchises. A Sports Edition comes with Ice Hockey, Double Dribble, Track and Field and all those. The Action Edition comes with original Contra, Rush ‘n Attack, Strider and that stuff. Puzzle edition, RPG edition, etc.
+
+It makes too much sense to do this, and too little sense to stop now. Licensing issues may be a problem but Nintendo will make it work if they can sell these games to you for the third or fourth time now.
+
+But as those are still hypothetical and this one has such a solid selection, you should go ahead and give them your money as soon as possible.
+
+The game selection is a mixed bag — it seems like Nintendo was trying to hit as many types of player as possible without specializing in any one genre. The result is, in my opinion, a few too many arcade games, not enough Contra and an appalling lack of Bionic Commando.
+
+Because not everyone was around to play these the first time they came out, here’s a quick rundown of the games you get, what they’re like and which modes they’ve got. (Note: Many of these screenshots are from the Wii U Virtual Console versions; they’ll look much better on the NES Classic Edition.)
+
+This Joust-alike was one of the first games to come out on the NES, and it’s pretty basic even for the 8-bit era. It is, however, a joy to control once you get the hang of it. It’s simple enough for kids to play, but watch out, it gets difficult real fast in”balloon trip” mode.Pro tip: Move fast and you can take out a few guys before they blow up their balloons.
+
+Dinosaurs that blow bubbles and turn monsters into fruit and candy? Just go with it. Best played with two players, and suitable for all ages, although, again, difficulty ramps up quickly. If you don’t have the theme song stuck in your head after a few levels, you’re stronger than I.Pro tip:Hold jump to bounce on bubbles. Practice this, it’s critical.
+
+One of the all-time classics, Castlevania holds up surprisingly well in terms of art and conception — pay attention and it really seems like you’re infiltrating a haunted castle, not just doing level 1-2 and 3-1 and so on. Focus on mastering the stilted jumping, learn the enemies’ patterns, and don’t be afraid to look online for the ridiculously well-hidden secret hams.Pro tip:Boomerang and holy water are best for bosses.
+
+This game may not be as well-remembered as the classic original or groundbreaking third entry, but consult a guide to get you past a few of the more opaque puzzles and I think you’ll find this really is a very innovative and well-crafted action RPG. Plus, how cool is that fire whip?
+
+Everyone can beat the first few levels of DK, sure. But then it starts getting pretty hairy. WatchKing of Kongand then see how you match up to world champs.
+
+Arcade crossover like this always mean practicing the fundamental movements and situational awareness that, in bygone days, would have saved you a quarter. The levels are designed to trip you up, so pay close attention.
+
+The original may be the one we remember, but if we’re honest, it was kind of a clunky game. The sequel is faster, less obtuse and supports two players at the same time in the story. It’s nowhere near as good as River City Ransom, but then again, what is?Pro tip:“Mode B” turns on friendly fire if you want to fight.
+
+Fever or Chill? Choose your soundtrack, find a partner and get ready to rage at each other as each fills the other’s flask with bacteria, or viruses or whatever those things are. Like Tetris, this game is extremely easy to learn but difficult to master.
+
+One of the all-time NES greats, Excitebike is still a ton of fun. Get a friend, design some outlandish courses and revel in the satisfyingly responsive controls and tricky strategies for winning.Pro tip:Never let up on the turbo.
+
+The original, with its many pleasures and many, many pains. RPGs have evolved a lot since the first Final Fantasy, but the fact is all the critical pieces are here: a grandiose story line, stats and gear to obsess over, gold pieces, fantastical creatures and — if you’re smart — a lot of grinding for gold and XP. Remasters on other systems actually improved this game a lot, so unless you want the full experience, seek out one of those.Pro tip:Savereallyoften. Especially near wizards.
+
+Another arcade port. Galaga is a great game, and this is a good way to hone your skills so you can impress your friends at the arcade (you still go, right?). Practice your timing, remember the bonus wave orders and don’t be afraid to let your ship get captured.Pro tip:Tapping fire is faster and more precise than holding it down.
+
+This is one of the games that lent weight to the term “Nintendo Hard.” It’s not as bad as Battletoads, but unlike the arcade Ghost ‘n Goblins, you can’t keep pumping quarters in to keep going. You have to defeat Satan with the lives you get, and if you’re anything like me, you’ll have bite marks on your controller long before that happens.Pro tip:Prepare to die.
+
+Gradius still plays extremely well, though it’s far less frantic as modern shmups. This is less about twitch skills and more about knowing and preempting the unique threats posed in every level. It’s still incredibly hard, by the way — I checked.Pro tip:Up, up, down, down, left, right, left, right, b, a, start.
+
+Another of the early arcade-style NES games, this one has simple controls that may strike you as restrictive. Play through the first couple of mountains and you’ll see how devious it gets. Don’t play this with anyone you’re not willing to leave behind if they can’t make the jumps.
+
+One of my favorite games of all time, Kid Icarus is a long and difficult, but very rewarding, adventure that controls beautifully and hides quite a bit of gameplay depth. Keep a FAQ around to help you out with the hidden scoring mechanisms and pot-dwelling Gods of Poverty in the treasure rooms.Pro tip:Fear the Eggplant Wizard!
+
+This was one of the later and most advanced games on the console; inhale your enemies and wield their own power against them. Great graphics and controls, plus smart and cute level design. Don’t let the puffy looks fool you, though, this is a challenging title.
+
+Here’s one to pull out to settle grudge matches. You can work together or sabotage each other — just don’t waste that POW block.Thatis inexcusable.
+
+This was the correct Mega Man to include: the first was rough around the edges and the ones after this weren’t quite as laser-focused on the core gameplay. It’s got great music, solid controls and it’s just the right level of “Nintendo Hard.”Pro tip:Do Metal Man first and then wreck everything with his weapon. Even himself.
+
+It’s truly amazing how advanced the original Metroid was. Not only does it control well and have a huge, labyrinthine map to explore at your own pace, but the music and mood are amazing, too. If you’ve never played through Metroid, you’ve got a treat ahead of you — but be prepared for a serious challenge. Having save states is immensely helpful with this game.Pro tip:Rather than look up a map, get some graph paper and make your own — it’s more fun that way.
+
+This game and its sequel really pushed the storytelling on the NES to new heights, with narrative-driven levels and detailed cut scenes in between. I happen to like the sequel better, but the original is great (and punishing).Pro tip:Pay close attention to the actual size and duration of your sword slash.
+
+I really don’t have to review Pac-Man, right? I guess it’s worth saying that the NES version is a decent port of the original, though youwillmiss having a joystick.
+
+Notice something about the title? Yeah, it isn’tMike Tyson’sPunch-Out!! The game is exactly the same, but you fight a palette-swapped Tyson at the end — they made him white and changed his name to Mr. Dream. Sad, really, but how often did you even get that far?Pro tip: Turns out this is a great party game.
+
+An underappreciated gem, StarTropics combines interesting action with puzzles and a full RPG overworld and story. Thinking of playing through Zelda or Castlevania again? Why not try this instead? I think you’ll be pleasantly surprised.
+
+It’s incomprehensible to me that Nintendo chose to put this one instead of the classic Contra on this thing — a major disappointment, really. But Super C is still a good game, even if it isn’t as universally loved as the previous one.Pro tip:Fire is actually good in this one.
+
+This one definitely doesn’t need any introduction. It’s just as good as it always was. Looking for an extra challenge? Watch a few speedruns and see how you stack up.
+
+Do yourself a favor and replay this one —allthe way through. It’s deeply weird, super fun and has great level design that’s totally different from the other Mario games. Probably because it’s just anasset swapwith a game where you play an Indian family going through a book of stories.Pro tip:Toad is the man on digging levels.
+
+Still one of the best games of all time, and always worth playing again. Take advantage of the game save ability and get past World 4 for once! Bring a friend, it’s basically twice the lives and you can learn from each other’s mistakes.Pro tip:Watch “The Wizard.”
+
+It may not bequiteas detailed as Madden 2017, but schooling your friends is just as fun.Pro tip:Pit computer players against each other to simulate (and predict) the post season.
+
+Never heard of this one. Doesn’t look very good IMHO.
+
+So, back in the 1980s they weren’t sure how video game sequels should work, so they basically made the second Zelda a completely different game. It’s not what Zelda fans wanted, but the truth is it’s actually a really good game! The translation is weird and some of the puzzles are random, but with a FAQ handy I think you’ll find Zelda II is a lot of fun if you just pretend it isn’t a Zelda game at all. That shouldn’t be hard, because it really, really doesn’t resemble one.Pro tip:I am Error.
+
+Wow! That was a long review.
+
+In case you scrolled down here to get the gist (which I actually put above the games), it’s this:If you love NES games, buy this thing.It’s a great value, it has a few (though not nearly all) of the best games available for the system and it plays like a dream — apart from some minor gripes regarding the save system. There will probably be more, with different selections, but this is easily good enough to recommend. Buy a second controller (possibly a wireless one) and go to town.

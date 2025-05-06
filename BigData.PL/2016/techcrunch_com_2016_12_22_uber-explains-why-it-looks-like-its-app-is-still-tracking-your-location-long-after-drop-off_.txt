@@ -1,0 +1,61 @@
+Uber explains why it looks like its app is still tracking your location, long after drop-off
+
+Uber responded today toreportsthat its app continues to check users’ locations even when they hadn’t used the ride-hailing service for days or weeks. The company explained that the issue is being caused by the iOS operating system itself, not direct tracking by its app.
+
+Many users had realized that Uber’s app appeared to have recently checked their location, according to their iPhone Settings.
+
+But Uber says this is behavior that’s being triggered by the iOS Maps extension that Apple opened in September. It’s not due to a bug in the Uber app nor is it a consequence of the recent location services update, the company told us.
+
+The reason this issue was worrisome is because Uber announced last month that itwould begin background collection of user data,but only for five minutes after drop-off. The data would help it improve drop-off and pick-up point accuracy in the future, Uber had said.
+
+Some users, of course, wereconcernedthe company may overstep here, or felt generally uncomfortable about sharing this data.
+
+That’s not surprising, given that Uber has had several high-profile slip-ups regarding user privacy in the past, includingpoor security practices around private data, reports of Uberspying on reporters’ trips,misuse of an internal tracking tooldubbed “God View,” reports thatinternal employees stalked ex-girlfriends and celebs, among other things.
+
+But,as John Gruber of DaringFireball.net noted in a recent post, an iOS feature would allow users to check to see if Uber kept its word about limiting location tracking to only five minutes after the drop-off.
+
+He explained that, in iOS’s Settings, you’re able to track which apps are accessing your location.
+
+Under “Settings → Privacy → Location Services,” an indicator appears next to apps that have recently checked your location. The indicator is purple if that check was recent, or gray if it was in the last 24 hours. He noted also that he had been checking this for his Uber app, but didn’t see any signs of misuse.
+
+As it turns out, that wasn’t true for everyone.
+
+In a second post, Gruber says many readers sent screenshots of the Uber app still checking their location, even though it had been days or even weeks since they last used the car service.
+
+Some TechCrunch reporters here saw the problem on their devices, too.
+
+@daringfireballyeah I haven't taken an uber in almost a week, app isn't even running in the background. Concerning.pic.twitter.com/AQYyPXRtkB
+
+— Chris Harber (@britishchris)December 22, 2016
+
+Apparently,@Uberstill tracks locations even though the app hasn't been opened for days. Very creepy. (via@gruber)https://t.co/u7dIVtwB5C
+
+— Jin (@jin_)December 22, 2016
+
+@gruberScreenshot seems a bit pointless but take it from me I have a grey Uber triangle and haven’t used for a couple days.
+
+— MS (@kikujiro)December 22, 2016
+
+@gruberold ver last used 7 days ago. Is it possible that Uber enabled as Maps extension explains icon?pic.twitter.com/GfWG6ytY5s
+
+— Caleb Powell (@caleb_powell)December 22, 2016
+
+https://twitter.com/johnnynoble/status/811483448082763776
+
+Obviously, this seemed to be concerning behavior on Uber’s part, as it would appear to indicate the company was not true to its word.
+
+However, Uber says the location tracking is not intentional behavior on the part of its app.
+
+Uber investigated the issue today, at our request, and found the issue is related to the iOS Maps extension. This also explains why not everyone was seeing the problem.
+
+Uber’s map extension featurewas made available in September, and is based on Apple’s protocol forMap extensions. Other map extensions from Uber competitors would work the same way, then.
+
+According to an Uber spokesperson: “For people who choose to integrate ride sharing apps with iOS Maps, location data must be shared in order for you to request a ride inside the Maps app. Map extensions are disabled by default and you can choose to turn them on in your iOS settings,” they said.
+
+In other words, it’s not a bug, it’s feature. And it’s a feature of iOS.
+
+Unfortunately, the way iOS is designed will make it difficult for users who like to keep an eye on their apps for privacy’s sake from being able to just glance at their Settings in order to see if those apps are misbehaving.
+
+And Uber isn’t the only third-party app that’s been integrated with Apple Maps: Lyft, OpenTable and Yelp are also available.
+
+Perhaps Apple needs another color-coded indicator in the Location Services Settings to show users if it’s theappthat’s accessing your location data, or if it’s theMaps extensionthat’s causing your otherwise unused app to look as if it’s tracking you. After all, if the feature is designed to give users control over their own private data, we’ll need better tools than those iOS currently provides.

@@ -1,0 +1,41 @@
+Welcome to the hardtech era
+
+Good news, my friends! The day we have all ostentatiously longed for has arrived. I come to announce that the days ofsugar waterare over. The era ofSoLoMophoto apps, messaging copycats, new niche social networks, “Uber for X”, and on-demand delivery of artisanal civet coffee is behind us at last. No more trivial apps and web services. At long last it is time to solve the hard problems.
+
+But be careful what you wish for…
+
+For nearly ten years “tech” and “Silicon Valley” have meant, to the casual observer, smartphone apps and web sites/services. Facebook and Twitter. Uber and Lyft. Postmates and Instacart. Snapchat and Instagram. WhatsApp and Slack. Shazam and Spotify. Dropbox and Evernote. AirBNB and Pinterest. Venmo and Square. Minecraft and Pokemon Go. Plus their associated infrastructure and tool companies: Atlassian, Stripe, Github, cloud computing companies, etc.
+
+I don’t want to minimize the scale, success, impact, or difficulty of those companies, but they all piggyback, directly or indirectly, on the promulgation of smartphones into half of all human palms, and the exponential growth in at-scale server technologies; they all exist in essentially the same space. And scores, no, hundreds, no,thousandsof vastly inferior competitors or wannabes exist in that space as well.
+
+This is in large part because that space is easily comprehensible. Anyone can join a boot camp and, six intense weeks later, be writing basic apps and web services. Andeveryonehas an app idea.
+
+And so lot of dumb money descended on the Valley, along with thepretty people— the MBAs and power seekers, who in a previous era who would have flocked to Wall Street, and who recenly gravitated towards the Valley because it was a new center of power, and they couldunderstandthat power. Smartphones. The web. Start up, cash in, sell out, bro down. How hard could it be?
+
+It was fun while it lasted, wasn’t it? But it’s over now, my friends. The future ishard.
+
+VCs are always looking for the next big thing. Now, they themselves are wondering what it will behttps://t.co/5BxTxew2ugvia@rolfewinkler
+
+— Scott Thurm (@ScottThurm)October 24, 2016
+
+The future is unforgiving hardware trying to thrive in the arbitrary and vicious real world; brain-bending VR; RNA engineering; abstruse blockchain protocol disputes; and worse. As that linked WSJ piece puts it:
+
+Veteran investor Steve Jurvetson of Draper Fisher Jurvetson said his firm is backing companies in agriculture, robotics, artificial intelligence and aerospace. “A ridiculous amount of money will be lost foraging into all these areas,“ he said. “But the greatest opportunities are in those sectors.”
+
+When Steve Jurvetson talks, you should listen. He’s by some distance the most impressive venture capitalist I’ve ever met. So forget your app idea; forget about quitting your Wall Street job and coming west to found a startup. The next phase of our future belongs more to teams of experts, and PhDs with deep knowledge, than to crazy coders straight out of Stanford undergrad.
+
+https://twitter.com/mattocko/status/790388410015817728
+
+Despite my hyperbole in the first paragraph, I don’t actually mean apps / web sites / web services willnevertake off again. The occasional new app, maybe even new social network, will erupt and succeed beyond its creators’ wildest dreams. But that will become the exceptions among success stories, not the norm.
+
+Don’t believe me? Here’s a fun little compare-and-contrast. Google of course is the home of Android. Take a look at thevery first, for-beginners tutorialat the Android Developers site. It’s friendly! It’s comprehensible! It’s broken down into simple, bite-size steps that anyone can follow!
+
+…Google is also the home of TensorFlow, an open-source AI/machine-learning library/framework. So now go take a look atitsvery first tutorial, which is described as “a gentle introduction to multiclass classification.” Then pause to marvel at the vast difference between those two tutorials, in terms of depth, complexity, and mathematical density.
+
+On the one hand, this is great. Finally, after ten years of much-of-a-muchness, a whole lot ofreally excitingtechnology is finally on the runway to breakout success, cultural relevance, and ultimately changing our lives. Agritech. Biotech. Cryptocurrencies. Drones. Machine learning. Robots. Self-driving cars. Virtual reality and augmented reality. This is amazing stuff.
+
+But on the other hand, the colossal boom in web/smartphone software over the last decade is likely to finally come to an end. (Though I expect it to plateau, not diminish; smartphones and the Internet aren’t going to becomelessimportant any time soon.)
+
+Hardtech startups require more expertise, probably larger teams, and more time and money; hence, there will be fewer of them, and to inferior VCs’ dismay, they will tend to grow more slowly. Furthermore,as I’ve argued before, they are more likely to be bought be large companies than to take over the world on their own.
+
+Perhaps of most interest to most of my readers, if you don’t have specialized hardtech expertise, there will be a fewer rocket ships around to grab a seat on. Sorry. But knowing how to write apps and web software is no longer the potentialgolden ticketit was five years ago. It was a good run; it was fun while it lasted. But from now on, if you want to make a real dent in the universe, you’ll need to know a lot more than that.

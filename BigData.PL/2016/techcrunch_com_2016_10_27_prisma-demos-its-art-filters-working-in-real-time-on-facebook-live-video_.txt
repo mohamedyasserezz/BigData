@@ -1,0 +1,33 @@
+Prisma demos its art filters working in real-time on Facebook Live video
+
+YesterdayFacebook demoed a stylized filter featurethat it says will be coming to soon to the real-time processing options it offers for its Live Video broadcast feature.
+
+Not to be outdone,Prisma— the app that popularized the art filter craze when itlaunched this summer, racking up more than 70 million downloads by October — conducted its own demo yesterday.
+
+Co-founder Alexey Moiseenkov broadcast a demo of Prisma’s style transfer technology working in real-time via Facebook’s Live platform, and used it as an opportunity to hold a Q&A session for viewers (full video embedded below).
+
+“I want to give a hello to Mark, and his videos,” said Moiseenkov during the Prisma-filtered Facebook Live broadcast, which lasted around half an hour. “This is of course live from a device, and only the Internet — thanks Mark for the Live API to sharing this video.”
+
+“I hope someone is watching me,” he added, before getting into his stride and answering questions in English and Russian.
+
+He also changed the filter multiple times, panning around his home in Moscow. “I do not have a dog but I have a refrigerator,” he joked — a reference to Zuckerberg posting a demo of Facebook’s style transfer applied to a video of his pet dog.
+
+Facebook is not the only tech giant working on AI-powered art filtering. Yesterday Google published ablogentitled “supercharging style transfer”, which detailed its work ona single specialized neural networkthat lets users mix different styles to create a single image with multiple input styles. So the competition for Prisma as the plucky little startup could hardly be greater.
+
+“It’s really cool that Google and Facebook are trying to copy this but I think that’s the evidence that style transfer and all this on-device deep learning stuff matters a lot for every big company in the world,” added Moiseenkov, responding to a question about competition during the Live broadcast.
+
+There wasearly speculationas to whether the Prisma team would get acquired. In the event, they have continued developing the feature-set of their app in the face of platform giants intent on cloning their USP.
+
+Prisma onlylaunched its video featureearlier this month, lagging behind app rivals likePicsArt that quickly jumped aboard the art filter bandwagonwith their own feature clones. But the team evidently sees video as central to Prisma’s proposition, despite having had early success as a photo filtering app, offering users a quick way to spice up the look of their Instagram feeds.
+
+“We want to bring the ultimate way to express yourself in terms of videos, and also augmented reality and all this stuff — I think that’s huge because it’s changed the emotional experience,” added Moiseenkov.
+
+The most obvious advantage of filtered videos is a way to encourage more people to create and share video content, given it’s effectively applying a stylized mask to what you see — thereby offering a neat workaround for confidence (or even perceptions of privacy) issues that might be preventing certain users from sharing. It seems like the kind of ‘augmented reality’ a lot of people could quickly get behind.
+
+So it’s not hard to see why Facebook is scrambling to launch its own style transfer filters as quickly as possible. (“Looking forward to getting this in your hands soon!” said CEO Mark Zuckerberg after yesterday’s demo of Facebook’s prototype.) Point being the tech giant is looking for ways to encourage users to do more personal and original sharing to combat asoftening on that front.
+
+In Prisma’s case, Moiseenkov said the live feature would be launching in the next few days — perhaps later this week — with its iOS app first in line to get the new capability. It’s not clear when Android users will get the feature, although he confirmed it would be coming to the app.
+
+Moiseenkov also confirmed processing is done locally, on device, although he noted that users obviously still need an Internet connection to broadcast via the Facebook Live platform.
+
+“I think there are no limitations for this technology at all… Only matters of time,” he added.

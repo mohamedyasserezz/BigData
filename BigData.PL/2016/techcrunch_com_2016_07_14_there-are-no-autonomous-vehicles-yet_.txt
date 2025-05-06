@@ -1,0 +1,19 @@
+There are no autonomous vehicles—yet
+
+Let’s talk about autonomous vehicles. Again. In the aftermath of the recent fatal crash that occurred in a Tesla running inAutopilotmode, it seems like it’s a topic worth digging into.
+
+I attended apanelthis spring before the Formula E race in Long Beach, California. In light of the upcomingRoboraceseries that will run as a support for the all-electric races, the panelists discussed autonomous vehicles and how tantalizingly close that horizon is. Chris Borroni-Bird of Qualcomm mentioned automatic electronic braking (AEB) systems, where sensors and cameras detect that a crash is imminent. Quicker than human reflexes can recognize a situation and react, the car’s computers apply the brakes to avoid or mitigate the crash. During this process, he said, the car is autonomous “for a few split seconds” because it requires no human input during that time. He’s not wrong. But this is misleading.
+
+Not long ago, I published a guide to theSAE levels of autonomous driving, and it’s there I’ll turn again for clarity. The cars with the most cutting-edge automated driver assistance systems, or ADAS, are at Level 2 or 3 at best. Here are the full nerd-speak definitions fromSAE:
+
+Level 2: Partial Automation. The driving mode-specific execution by one or more driver assistance systems of both steering and acceleration/deceleration using information about the driving environment and with the expectation that the human driver perform all remaining aspects of the dynamic driving task.
+
+Level 3: Conditional Automation. The driving mode-specific performance by an automated driving system of all aspects of the dynamic driving task with the expectation that the human driver will respond appropriately to a request to intervene.
+
+Note that in both levels, the human driver is still expected to be able to take over. Level 4 requires the vehicle to handle driving tasks even if the human does not respond to a request to take over, such as if he’s asleep or incapacitated. Level 5 does all the driving all the time, no human input required. That kind of autonomous driving does not yet exist, even if it’s called Autopilot.
+
+“But Google has autonomous vehicles!” you cry, probably on Twitter. That fleet is experimental. You cannot buy those cars. If you did, they would probably not work where you live. The fleet only works in cities where it is being tested—Mountain View, CA, and more recently Austin, TX—in areas that have been mapped within an inch of their lives. And even then, as of 2015,Google’s autonomous test carshave been used in fully autonomous mode 57% of the total number of miles driven, according to aUniversity of Michigan study.
+
+Even the vehicles with the most advanced ADAS features today are not yet fully autonomous. ADAS will keep your car a set distance behind the car in front of you. It will in some instances bring you to a complete stop. It will keep you from drifting across lanes. It will prevent you from backing out of a parking space into someone else’s car. It’ll even get you into that parking space in the first place. It’ll prevent a lot of accidents caused by the fact that our attention is often pulled elsewhere while we’re driving.
+
+But for now, and for the next several years, we human drivers have to remain in charge of our vehicles. We cannot fall asleep at the wheel, literally or figuratively, yet.

@@ -1,0 +1,31 @@
+The death of localhost and the rise of cloud development
+
+If there was any skepticism when Marc Andreessen declared software was “eating the world,” there’s little doubt five years laterthat nearly every business and industry is running on software delivered as online services.
+
+The cloud has become the default for practically every industry, from storage to transportation to communication to retail. But there’s one fundamental space out of which it has yet to take a bite. Ironically, software development — the process of editing, building, debugging and analyzing code that makes everything in the cloud possible — is still primarily done offline.
+
+Not for long. If Amazon Web Services’ recentacquisition of Cloud9is any indication, developers are flocking in droves toward cloud-based integrated development environments (IDEs). Cloud development is, by conservative estimates, a $6 billion industry at the heart of every piece of software created. As nearly every major cloud provider from Amazon to Microsoft to Google takes notice, it’s worth examining the forces behind the shift from localhost to the cloud — and where the opportunities lie.
+
+Software development’s migration to the cloud is rooted in two longstanding, competing interests within IT departments: those of IT administrators and developers. The former favor stability, security and control, while the latter — a group Stephen O’Gradyhas called“the new kingmakers” — demand their choice of languages, frameworks and processes. These differences result in tension over who controls development servers and the choice of programming standards, with developers favoring microservices adapted for each scenario and IT pressing inflexible templates based upon tried and tested configurations.
+
+The divide stems from a question of who has root access. When development is done on localhost — the developer’s computer — the developer maintains control of languages, configuration and frameworks. But localhost’s properties limit the ability to scale and share, making it an unviable option across large teams and organizations.
+
+A popular alternative is central servers managed by IT, usually on VMs, but adoption of  VM-based solutions such as VDI (Citrix), Vagrant fromHashiCorpandSkytaphave started to wane as VMs are large, difficult to share, expensive and not conducive to collaboration — just ask any developer how he or she feels about trying to share 2GB of VM images with a colleague.
+
+Developers have a tendency to hoard assets, such as code and computers — unless they are given a way to collaborate and be more easily productive thanks to the growing popularity of cloud solutions that enable sharing of development assets and processes.
+
+GitHubis thede factodestination for collaborative code authoring, moving code from hidden repositories into the open to encourage feedback in the form of pull requests. When it comes to issue management,AtlassianJIRA moves the process of software project management to a shared collective. Meanwhile, the adoption of continuous integration by development teams funnels integration testing to a centralized, collaborative pipeline.
+
+In short, there’s never been more emphasis on the collaborative deployment of code. However, development workspaces and runtimes — which facilitate the actual editing, building, debugging and analyzingbeforecode is committed to version control and sent to continuous integration — have remained siloed on localhost or VMs, caught in the IT/developer divide.
+
+Thanks to the rise of container technology (e.g.Docker), which supercharges development backends in order to match agile workflows, the entire development process — including workspaces and their runtimes — can now be hosted in the cloud. Cue the scramble by vendors to own this massive workload as developers move away from traditional desktop environments.
+
+Look no further than AWS’ recent moves on the most apparent battlefield: cloud IDEs, which have collectively drawn millions of active users and funding dollars.With a mix of hosted development runtimes based on containers with embedded browser tools, cloud IDEs offer the ideal separation that allows IT to retain root control of the system while developers can use Docker and other tools to define their programming stacks as they see fit.
+
+And with workspaces hosted in the cloud, developers can share and clone development environments to avoid version control issues of “but it worked over there.” Cloud IDEs make it easy to shuffle development runtimes — the same way GitHub makes cloning fun.The developer environment ecosystem is also getting attention from popular lifecycle management and platform vendors, with Docker promoting containers for developer runtimes and Skytap provisioning VMs for dev/test environments.
+
+This momentum is also evidenced by the growing adoption of open-source cloud development. While Amazon intends to offer its own cloud development environments through Cloud9, software giants like Google,Microsoft, Red Hat, SAP and Samsung eschew the rigidity of a closed system by opting for open-source projects likeEclipse CheandEclipse Orion.
+
+Red Hat, SAP and Samsung have declared cloud development environments to be the standard within theirOpenShift,HANAandARTIKproducts, respectively. Meanwhile, Microsoft and Red Hat are making cloud development even more open and flexible by collaborating on alanguage server protocolto integrate programming languages across code editors and IDEs. While these players are unlikely partners at first glance, they’re all beginning to reap the benefits of integrated, inexpensive, customizable cloud development stacks.
+
+These activities signal a new era of agile development — one that reconciles IT and developer interests, capitalizing on containers and open source to make development and testing more efficient, powerful and collaborative. It’s time to declare the death of localhost. We’re entering the cloud’s “last frontier,” and the fight to conquer it is just beginning.

@@ -1,0 +1,17 @@
+Pantheon Raises $29M for its WordPress and Drupal hosting and management platform
+
+Pantheon, a WordPress and Drupal hosting service with a strong lineup of features for developers, today announced that it has raised a $29 million Series C round. Investors in this round include previous investors Foundry Group, OpenView Investment Partners, and Scale Venture Partners, as well as new investor Industry Ventures, which put $8.5 million into this round.
+
+This new round follows Pantheon’s $21.5 million Series B round in 2014 and brings the company’s total funding to $57 million.
+
+As Pantheon CEO and co-founder Zack Rosen told me, the company wants to help build the foundational technology for the web and eventually get to the point where it powers 30 percent of all sites. For now, though, he’s happy to simply make progress to getting to 1 percent, which he thinks the company will achieve in a few years. To help make that happen, the company plans to launch a migration toolkit next week that will allow website owners to more easily bring their existing site to the company’s platform.
+
+As Rosen told me, Pantheon now hosts 150,000 sites and while the company doesn’t release customer numbers, Rosen says that the company is seeing customer growth of over 100 percent year-over-year. To host all of this, Pantheon currently has 1.2 million containers in production.
+
+On group of users the company is especially focussing on its agencies. It now has partnered with 2,500 agencies and 50 resellers.
+
+As Rosen told me, the team decided to treat this round of funding like its last one. “We control our burn and are very deliberate in how we deploy our funding,” he added. It’s no secret that raising funding is getting harder and Rosen noted that VCs now want to see more numbers and ask tougher questions before they commit to a round. He does see a positive side of this, too, though. “It’s bad for the industry when VCs don’t ask the kind of questions they should be asking and companies that should be funded get funded — and then down the road they don’t have great results,” he said. “That makes it harder for everyone else.”
+
+The company wants to use this new round of funding to build out its product and make it easier for developers to build their sites on its platform.
+
+As part of today’s funding announcement, the company also announced that it has hired Niall Hayes, who previously led technology at KIXEYE and ran the CityVille studio at Zynga, as its VP of Engineering. In addition, Chris Moody, Twitter’s VP of data services and the former CEO of the Twitter-acquired Gnip, is joining Pantheon’s board.

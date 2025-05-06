@@ -1,0 +1,55 @@
+Intel and Disney paint the sky
+
+D
+
+isney World’s nightly fireworks show might soon have some competition in the form of hundreds of swirling, whirling LED-lit drones. They flash, fall and flock in unison and are all controlled by one person. I saw them and they were, for lack of a better phrase, absolutely amazing.
+
+The drones come from Intel. The electronics giant turned to Disney to showcase its next generation drones. And these drones can do things fireworks cannot. Flying as a fleet, these Intel drones can paint the sky with three-dimensional images that twist and turn and come to life.
+
+The drones are called the Shooting Star and 300 are will take the sky above a Disney World lake later today to put on an aerial holiday show. Candy canes will dance, soldiers will march, and everyone will be merry.
+
+This is the latest project in Intel’s quest to take drones from individuals to fleets. This isEnder’s Gamebrought to life. Just like in Orson Scott Card’s book, one person commands the group, sending instructions and monitoring the drones’ health. And Intel says its limitless in its scale, able to control as many drones as imaginable.
+
+Intel envisions a future where drones fly in fleets to accomplish tasks. The same software that Intel and Disney are using to put on a colorful aerial show could be used in search and rescue operations or inspecting equipment and goods. Imagine a squadron of several drones using scanning software — like Intel’s RealSense platform — to inspect an airplane or water tower. Or a force of these drones creating a floating LED screen.
+
+The star of the show isn’t the drones; it’s the software. Built in-house at Intel, a series of programs gives one pilot control over a nearly limitless amount of drones. It’s built to scale, I’m told, and capable of controlling a force of more than 10,000 drones.
+
+The software calculates what’s needed to reproduce an image with drones. Input an image, say the TechCrunch logo, and the software will determine how many drones are needed to recreate the green TC. Then input another image. This time the image might take fewer drones so the software will move some drones out of the main cloud and switch off their LED lights, essentially making them disappear into the sky. In between the two images, the software devises movement paths that eliminate collisions. The drones themselves do not have collision detection. The software does that for the drones.
+
+The Federal Aviation Administration recently gave Disney the go ahead to use aerial drones at night in its parks. This approval is good through the year 2020.
+
+The Shooting Star drone has a bright LED installed under the main housing. Encased in a plastic dome about the size of baseball, this LED is what allows the drones to put on a show.
+
+Sadly I cannot show the most impressive part of the whole operation: 600 drones sitting in waiting on their launchpads. Intel didn’t want to talk about these pads so I know little outside of what I saw and I saw very little.
+
+Several drones sit an inch apart on each launchpad. The pads appear to be multi-use, but at least one function is to charge the drones. The Shooting Star drones rest in divots designed to cup the round LED housing, which also features the charging contacts for the drones. Sit the drones in these little holes and they’re charging until they’re directed to take off.
+
+The star of the show isn’t the drones; it’s the software.
+
+And they take off, en masse. One after another, seemingly randomly throughout the cluster of launchpads. A quick moment separates each launch as the drones take their position in the air prior to the show. A drone takes about two minutes to get from the launchpads to its assigned location.
+
+Drones do not have a specific location on a certain pad. The setup crew can place the drones in any of the launch locations. The custom software knows the location of each drone and can report back to the operator the overall health and specific information like battery level, location, and operating status.
+
+The Shooting Stars do not return to their launch locations, though. The drones are subject to GPS limitations, which is not accurate enough to return the drones to their original spots. Instead, they land around the pads. I wasn’t allowed to see this operation though I’m told the drones land fairly close to their launch location.
+
+Safety is a paramount concern and addressed in several ways. The operator’s software defines a geo-fenced area with two borders. If a drone crosses one line, it’s told to return to home. If it keeps going and crosses the second boundary, it’s automatically told to kill its motors, which would cause it to drop.
+
+The drones themselves are light and simple. The props are enclosed in a wire metal housing. The prop arms are light plastic and the housing is styrofoam. It weighs 280 grams — about the weight of a volleyball.
+
+Seeing this many drones, sitting tightly packed on their launch pads was an awe-inspiring sight. It was quiet, but they would soon take to the air and delight the crowds. The drones didn’t look nervous. And neither did the Intel engineers.
+
+Shooting Star project started as hallway chitchat. Several years ago, Intel engineers were discussing the possibilities of recreating the Intel logo out of drones. As the story goes, Intel CEO Brian Krzanich overheard and told them to get to work.
+
+In late 2015 Intel partnered with small group of artists and technology researchers at Ars Electronica Futurelab in Linz, Austria, and sent 100 drones into the air. Four pilots controlled the 100 drones, that launched from four different airfields. Each drone was sitting meters apart when it launched. This feat earned Intel a spot in the Guinness Book of World Records. But the record didn’t last long.
+
+Last month the company released footage of the 500 Shooting Star drones taking flight light humming fireflies in the skies outside Munich, Germany.
+
+The drones didn’t look nervous. And neither did the Intel engineers.
+
+A lot has changed since the Drone 100. What used to take months to plan and execute, Intel says can now happen in hours. The original drones flew 6 meters apart; now the Shooting Star drones fly as close as 1.5 meters. More over, those early projects forced the engineers to plot the path of the individual drones, which took weeks to program.
+
+Intel says basic shows can be programmed in an hour or two. More complex shows, like the one they’re showing at Disney, can take several days to a week. The “Starbright Holidays” show is scheduled to run over the holidays at Disney Springs.
+
+The representatives I talked to avoided talking about if a drone show could be a regular attraction at Disney World. Fireworks can only be used once. These drones are rechargeable and possibly upgradable. They’re capable of flying in slight rain and wind, which is perfect for Florida. And drones are still exciting. Disney likes exciting.
+
+From what I saw, and considering the redundancy built into the system, it’s entirely possible that this drone show could stick around and change with the seasons. This is Disney World, the same place that shoots fireworks off every night of the year and can write an irritating theme song for a ride about our small world, after all. The park can probably manage maintaining a couple hundred drones.

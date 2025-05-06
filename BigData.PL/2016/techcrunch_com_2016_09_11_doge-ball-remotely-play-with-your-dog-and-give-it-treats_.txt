@@ -1,0 +1,21 @@
+Doge Ball: remotely play with your dog and give it treats
+
+Do you own a dog or a cat and also hold down a job that takes you out of your house? Chances are that if you do, you’ve bemoaned a common challenge: how do you make sure your pet doesn’t get too lonely while you are away? A project calledDoge Ball, presented today at the Disrupt SF 2016 Hackathon, has developed a new piece of hardware that could be the answer.
+
+Part influenced by Sphero, and part influenced by connected consumer video products like the Nest Cam and baby monitors that let you watch and respond to your tots remotely, Doge Ball (a play on the Doge meme, but actually pronounced “Doggy Ball”, for Dog e-ball) is essentially a connected ball — in the demo version a hacked hamster running ball — that links up with an app on your phone. You use the app to make the ball move around to amuse your dog, and and you can prompt it to dispense a treat to your pet.
+
+“We love our dog, and we decided to buy a Nest Cam to see what our own dog was doing while we were away all day, and to try to talk to her, but she didn’t really respond,” said James Xu, one of Doge Ball’s three developers. “So we thought, wouldn’t it be great to have something that you could use to play with her?” Xu’s day job is at Nvidia, and while a lot of people bring their pets to work at the office, he said he couldn’t because his dog, an adoptee from a rescue home, found the crowds too stressful.
+
+“We’ve all had similar scenarios with our pets for 15 years,” added Anthony Alayo, another one of the developers. While the Doge Ball could also work with cats, “dogs are the most needy even if they provide the most rewards.”
+
+Right now the Doge Ball is still in its very earliest stage as a product. There isn’t any video incorporated yet, but the group wants to include video (otherwise, how would you be able to see what you’re doing as the owner?) and has been tinkering with different ways of using it.
+
+Lawrence Chang, the third developer on Doge Ball who was drawn to the idea because he didn’t like the idea of his dog Cody along all day, said that one option is to put a camera into the ball itself although this would be hard to render in real time the rush of video that would come out of the ball; another would be to hook it up via APIs to cameras that are already on the market simply to watch the room it’s in, and maybe wake up the app when the ball began to move. The three are also still working on the mechanism for dispensing a treat.
+
+There is a rush of startups that have come out to help you take care of your pets, from dog grooming to dog-sitting services, and while Doge Ball is a toy, it’s also, by way of its monitoring aspect, also a nice take on a way to help care for your pets as well. Doge Ball is tapping into a big market: in the U.S. alone, it’s estimated thatbetween 37 percent and 47 percent of households own a dog, working out to between 70 million and 80 million dogs. When you add cats into the mix, that’s an additional 74 million and 96 million pets that are living in households in the country.
+
+Pets were taking centerstage in other projects presented at the Hackathon today:Cats and Moreis a project was borne out of the fact that one developer, Jameela Huq, loves cats, and the other (who is her partner and housemate) is allergic. The concept is to let people in a neighborhood offer up their cats for cuddling to others in their neighborhood.
+
+Neil Pomerleau — her developer partner — notes that the same platform could be used also as a way for people to also offer cats for adoption or sale, although that’s not the immediate plan, with the concept of using the platform to pay for cuddling the cats also being optional, Huq said.
+
+“I lived in Japan for a while, where there are cat cafes everywhere,” she said. “I sort of think the cuddles could be enough, although Neil envisions selling them too.”

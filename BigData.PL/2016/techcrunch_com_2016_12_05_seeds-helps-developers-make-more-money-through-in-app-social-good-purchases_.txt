@@ -1,0 +1,15 @@
+Seeds helps developers make more money through in-app social good purchases
+
+Seedsunveiled its drag-and-drop SDK for developers to integrate social good contributions directly into their apps today at TechCrunch Disrupt London 2016. Seeds also announced a partnership with Amazon app store, in which Amazon markets Seeds directly to its roughly 600,000 app developers. The idea is that people are incentivized to spend money inside an app if they know it’s going to go to a good cause.
+
+“Not only is this a way for an app to make more money,” Seeds co-founder and CEO Rachel Cook told me, “to our knowledge, this is the best way to get more users spending.”
+
+With the drag-and-drop SDK, developers can integrate social good contributions in a matter of minutes. Seeds, which supports iOS, Android, Amazon Fire OS and Unity, says it can improve app revenue by as much as 33 percent by inspiring people to spend money through acts of social good.
+
+Although just 5 percent of app users make in-app purchases, they drive way more revenue than in-app advertising,according to global mobile marketing attribution analytics company AppsFlyer. That’s where Seeds comes in. It wants to incentivize the vast majority of people who don’t make in-app purchases to start spending money.
+
+Seeds’ current customers include Mini Golf Stars 2, Habitica, Box Score Games, Trenga, Filterzilla, Bankaroo, iScape, Throwing Fruit and others. Developers can make it so only people who haven’t yet bought anything in the app will see an icon about contributing to social good, or make it show to everyone using the app.
+
+“What’s been cool is a majority of customers we’ve had so far have chosen to make it available to all their users,” Cook said. “There’s an indication we can also inspire people who are already spending money to spend more money because this is present.”
+
+Seeds currently works with microloan institutions in East Africa and Haiti to deploy capital where people need it the most. Seeds makes money by taking a cut of what the consumer pays to the app developer, and makes interest from the microloan capital the company deploys. The way it’s set up, everyone gets value out of participating: the developers, the user, Seeds and the microloan institutions.

@@ -1,0 +1,19 @@
+AWS announces FPGA instances for its EC2 cloud computing service
+
+Amazon’s AWS cloud computing service today announced that it is launching a newinstance type(F1) with field-programmable gate arrays (FPGAs). The promise of FPGAs is that they are essentially chips that you can reprogram on the fly and tune them for your specific applications, making them faster than traditional CPU/GPU combinations.
+
+Thesenew instanceswill be available in preview today in AWS’s US East region today and will become generally available later this year. Sadly, the company hasn’t announced pricing for these new instances yet.
+
+While they are still far from mainstream, FPGAs have recently becomemore affordableand easy to program, which means they are also slowly starting to find their way into more services. Having them readily available in the cloud will likely mean that more developers will now start experimenting with them.
+
+“We have always tried to take whatever we can use ourselves and make it exposable to you,” AWS CEO Andy Jassy said.
+
+These new F1 instances will likely be used for HD and 4K video processing (instead of GPUs) and imaging, as well as for machine learning. Microsoft, for example, went all in on FPGAs to build the backend of its AI services (while Google decided to take the more expensive route of building its own specialized chips). Thanks to the reprogrammability of these chips, it’s easy to switch context within an application, too, so you could be processing a raw image at one point and then reconfigure the FPGA to run a deep learning model to analyze that image within a few milliseconds.
+
+Among the companies that AWS worked with to test the new F1 instances isNGCodec. The company brought its RealityCodec for VR/AR processing to these new instances within just four weeks. Ideally, this could allow a developer to run the complex video processing needed to run a VR or AR head-mounted display in the cloud instead of on the device. As NGCodec founder Oliver Gunasekara told me, in the codec use case, FPGAs have a leg up on GPUs because encoding involves lots of decision making that GPUs typically have to defer to the CPU for. FPGAs, Gunasekara noted, are also far more power efficient in this kind of scenario.
+
+Amazon is using chips from Xilinx — the last major independent FPGA manufacturer. Here are the specs for these new instances:
+
+Programming FPGAs remains hard, though, and it doesn’t look like Amazon itself is going to release any tools for making it easier. There will be a development kit, though, as well as a machine image that developer can use to get started with these new instances.
+
+As NGCodec’s Gunasekara noted, Xilinx itself has also been releasing some tools that now make it easier to use more common languages like C and C++ to program FPGAs (and that’s what the company used to design its decoder for the F1 instances).

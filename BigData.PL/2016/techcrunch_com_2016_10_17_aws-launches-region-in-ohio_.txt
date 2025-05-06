@@ -1,0 +1,11 @@
+AWS launches region in Ohio
+
+Amazon’sAWS cloud computing servicetodayannouncedlaunched a region in Ohio. The aptly-named “US East (Ohio) Region” brings Amazon’s total region count to 14. The region will feature three separate availability zones for increased fault tolerance. AWS now offers 38 availability zones across its data centers.
+
+Amazon’s CTO Werner Vogels noted in today’sannouncementthat this means AWS now runs two regions that mainly serve the U.S. East Coast (the other being in Virginia). Because these two East Coast regions are so close — and essentially serve the same user base — AWS won’t charge its users for moving data between them. The idea here is to give users more options to create a highly available infrastructure that is more geographically diverse than using a single region while still being close enough to serve all users on the East Coast. Despite being split into different availability zones, a single region could still be hit by a natural disaster that takes all of these zones out at the same time, after all.
+
+The new region will offer all of AWS’s core services like EC2, S3, RDS and the AWS Marketplace.
+
+“We strive to place customer feedback first in our considerations for where to open new regions,” Vogels writes. “The Ohio Region is no different. Now customers who have been requesting a second US East region have more infrastructure options for running workloads, storing files, running analytics, and managing databases.”
+
+Amazon previously invested in an Ohio wind farm, too. This 100 megawatt farm is currently under construction and will likely go online in May 2017. The company will use at least some of the energy produced there to power its Ohio region.

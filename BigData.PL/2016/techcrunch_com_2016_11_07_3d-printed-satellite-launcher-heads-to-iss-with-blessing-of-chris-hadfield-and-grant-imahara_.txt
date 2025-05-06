@@ -1,0 +1,43 @@
+3D-printed satellite launcher heads to ISS with blessing of Chris Hadfield and Grant Imahara
+
+If you could print something out aboard the International Space Station, what would it be? That was the question posed to engineers and enthusiasts in the ISS Design Competition, and the winner — a clever and powerful device for launching palm-size satellites — will actually be getting beamed up.
+
+Nearly 250 ideas were submitted, everything from tools to toys to scientific instruments. The proposals were vetted and submitted for judgment by tech-savvy astronaut and former ISS resident Col. Chris Hadfield, and Grant Imahara, ofMythbustersfame. The whole thing was organized by Mouser, a major component distributor.
+
+“There’s a lot of companies out there challenging people to think about spaceflight — I thought this contest was really creative,” Hadfield told me in an interview. “One of the beauties of an improvement in technology is that it stimulates the imagination. This was all an impossibility when I was on the space station, but then you build it and all of a sudden people like, hey you can do this, and this!”
+
+“I just think it’s incredible to live in a time where A, we have a space station, B, we have a printer that prints in zero gravity, and C, with the help of Mouser, we have a contest where anyone — anyone! — can enter and have a design potentially printed in space,” said Imahara in a separate interview.
+
+The two runners-up are simple in concept but well-executed, and are fully functional without any need for extra parts, screws, and that sort of thing.
+
+One is a simple vise that can be used to fix things in place — need a couple more? No need to request them in a supply run, just print ’em out. The other is a smart little all-in-one eating utensil that works both as a grabber or, when squeezed, a spoon.
+
+“The space tongs were one of my favorites,” said Imahara. “They show an intimate understanding of the difficulties of eating in space — on Earth we don’t think about how hard it is. That was a really clever solution to the problem.”
+
+“When Grant and I talked about it, we said, take it as far as your imagination will let you,” said Hadfield. “But then there were these great practical ideas. In space you’re constantly looking for a clamp or the right velcro location, or the right bungee to hold things in place. A couple of the final designs were addressing that issue.”
+
+The winning entry, however, is a whole other level of clever design.
+
+Andy Filo has been thinking about this idea for a long time — he likes to call it the “internet of space.”
+
+“It’s all about getting these little ‘femto satellites,’ about the size of a cracker, into space,” he explained. A constellation of dozens of the tiny devices could network together and collectively monitor all kinds of interesting phenomena. “The problem is,” he continued,” how do you get them out there?”
+
+Everything destined for space is very standardized: it must fit in a certain volume, withstand all kinds of pressures and shocks, and so on. In the case of the femtosats, a great deal of that volume would be the device used to launch them into space. But what if that could simply be printed out up there?
+
+“I saw this contest, and I was like, this would be a tremendous opportunity,” he said. So he got to work, and the resulting design is impressive.
+
+The satellites fit into the 3D printed “mothership,” each in its own tiny slot. Long metal antennas double as springs when they’re loaded in (Filo has a patent pending on this mechanism), and a pin is inserted to hold them all under tension. As that pin is removed, the satellites fly out with (hopefully) predictable velocities and directions, forming an expanding network.
+
+He demonstrated how it would work with a small demonstration piece; the real one would, of course, be much larger.
+
+“One of the most important issues the femtosatellites is that they need to be deployed in a specific pattern,” said Imahara. “This box, it’s incredible, it looks very simple and can be entirely 3D printed, it makes it easy to assemble all the satellites in it — that makes it all possible.”
+
+“What I really like about the design is that it has best practices for 3d printing,” said Filo. there’s no support structure to break off it, so it’s easy to print in space. Even the loading is designed to be done in a zero-G environment.”
+
+By sharing data among themselves, the femtosats can monitor a large area, looking for changes to the magnetosphere — which can cause electrical problems on Earth — or hunting for cosmic rays. They could live for weeks or months depending on the mission, burning up on re-entry. Since they’re so small, and the launcher is printable, multiple deployments are possible from a single delivery of satellite components.
+
+Filo said he’s “over the moon” about winning the contest, and is even pleased with the prosaic  (compared to a rocket launch) way in which his idea will be sent to space: uploaded from some office, after which “it’ll materialize on the space station in a box” — like a transporter fromStar Trek.
+
+Hopefully the Femtosat launcher will prove itself effective once it’s beamed up. If you’re curious about the rest of the entries, you canbrowse them at the contest website; as the judges pointed out, it really does seem to have struck a chord in the imaginations of engineers and space enthusiasts.
+
+“Challenge people to come up with stuff, recognize that the technology is new, but use that as the new benchmark and go from there,” said Hadfield. “You raise the bar high enough and people will do their best to get over it.”

@@ -1,0 +1,35 @@
+OurMine claims credit for attack on Pokemon Go servers
+
+Having trouble logging in to Pokemon Go this weekend? You’re not alone.
+
+A hacking team called OurMine has spent the past several hours hitting Pokemon Go’s login servers with a distributed denial of service (DDoS) attack, leaving some players frustrated and unable to log in to the game. The group said it would not stop the attack until representatives from Pokemon Go contacted them. In a post on its website, the group wrote: “No one will be able to play this game till Pokemon Go contact us on our website to teach them how to protect it!”
+
+Pokemon Go access was spotty throughout Sunday, with users complaining about the server outage.
+
+https://twitter.com/NicoleMCSo/status/754821409751248896
+
+https://twitter.com/TheKingDannyQ/status/754820739937734656
+
+https://twitter.com/sithlordkiana/status/754819111574654976
+
+OurMine has made a name for itself byhacking the Twitter accountsof tech leaders and celebrities. In recent weeks, the group has gained access to Sundar Pichai and Jack Dorsey’s accounts by breaking into linked accounts (Quora for Pichai and Vine for Dorsey) and using those accounts to post to Twitter. The group usually uses the opportunity to advertise its ‘security services.’
+
+An OurMine member told TechCrunch that he or she is part of a three-person group of teenagers and that the team is trying to spread the word about security. Whether they’re hacking Twitter accounts or DDoSing Pokemon Go, the group insists that it’s just promoting stronger security and that, if it didn’t hack celebs and DDoS popular games, someone else would. While that’s probably true, OurMine isn’t necessarily a Good Samaritan group — it charges anywhere from $30 – $5000 for its services.
+
+“We don’t want other hackers attack their servers, so we should protect their servers,” the OurMine member explained.
+
+A DDoS attack works by flooding a server with traffic so that it can’t be accessed by legitimate users. OurMine tried to prove that it was behind the attack on Pokemon Go by notifying TechCrunch before the attack started.
+
+But OurMine isn’t the only group trying to knock the popular game offline — a group called Poodle Corp also claimed to have attacked Pokemon Go this weekend:
+
+https://twitter.com/PoodleCorp/status/754298236093857792
+
+Even when hackers aren’t trying to ruin your fun, the game’s creators have struggled to keep their servers up and running — the game has suffered outages and glitches since it launched, and with 26 new countries added to the game this weekend, users were bound to experience some organic problems. We reached out to Niantic Labs, the creators of Pokemon Go, about the outages and will update if we hear back.
+
+The company addressed its server issues in a tweet yesterday, saying that the problems had been identified and cleared up. However, some users are still complaining of outages.
+
+The issues causing the server problems have been identified. Trainers should once again be able to search for Pokémon in the real world.
+
+— Pokémon GO (@PokemonGoApp)July 17, 2016
+
+If you’re wondering who else is experiencing Pokeproblems, you can always check the game’s status onDown Detector.

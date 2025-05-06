@@ -1,0 +1,25 @@
+MasterCard launches its ‘selfie pay’ biometric authentication app in Europe
+
+MasterCard is moving from trials of facial biometrics for payment authentication, including one in the U.S. and Canada launchedearlier this year, to its first proper rollout of what is colloquially referred to as ‘selfie pay’ (aka MasterCard Identity Check). So basically enabling app users to confirm an online payment by showing their face to their smartphone’s camera.
+
+The biometric authentication app is being rolled out in Europe in the following markets: Austria, Belgium, the Czech Republic, Denmark, Finland, Germany, Hungary, the Netherlands, Norway, Spain, Sweden and the UK. The company said it plans to make the tech available to MasterCard users worldwide beginning next year, according toEngadget, which reported the European rollout earlier.
+
+As well as selfies, MasterCard’s Identity Check app supports fingerprint biometrics, offering users a choice of authenticating a mobile payment with either their face or finger at the point of purchase — idea being to speed up ecommerce by eschewing the need for online shoppers to remember yet another password.
+
+And there’s surely plenty of mileage in that need. MasterCard touted “convenience” as one of its motivations for developing the app when it announced the trial, back in March. The other being “mitigating the risk of fraud” for card-not-present purchases, while simultaneously seeking to grease the wheel of ecommerce.
+
+Biometrics for payment authentication have also beenbuilding momentumafter the launch of Apple’s Apple Pay fingerprint-powered system for iPhones and the Apple Watch. Various Android devices also include fingerprint readers, with different payments systems available in Google’s mobile OS ecosystem including Android Pay and Samsung Pay.
+
+To make use of the MasterCard biometric authentication system, MasterCard users need to download the corresponding app and snap and send a selfie to provide the company with their facial biometric.
+
+To get around attempts to spoof the authentication process — i.e. by holding up a static photo to the lens — the app requires the user to blink to confirm it’s really their face in shot.
+
+One extant issue with using biometrics for authentication is that, unlike passwords, they cannot be changed. So let’s hope MasterCard is properly encrypting whatever biometric data it is storing/accessing. We’ve also asked MasterCard what else — if anything — it does with the selfies/facial biometric data it has access to and will update this post with any response.
+
+Update:Asked where MasterCard stores the facial biometrics, a spokeswoman for the company didn’t have much reassurance to offer at this point — i.e. if you’re worried about central repositories of sensitive data becoming hacker honeypots. So you may not want to be an early adopter/guinea pig during the ‘prototyping’ phase of this tech, and may prefer to wait until robust standards of best practice are established (and/or use another application which does securely store biometrics on the local device).
+
+“As an industry, we are moving toward storing biometrics in all instances at the device level. Fingerprints are stored at the device level and we are currently prototyping facial recognition to be converted and stored as encrypted code on some devices,” she said.
+
+“This is why we have been on the board ofFIDO(Fast Identity Online), whose goal is to always match and store the biometric on the device. MasterCard is investing in this technology and is leading the payments industry in developing decentralized solutions wherever possible.”
+
+On the question of what else MasterCard might use the facial biometric data for, she said: “Biometric data is used only for the purpose for which we collect it — to verify the identity of an individual.  We may use the results of the use of the data, such as the number of approvals or declines to improve the product.”

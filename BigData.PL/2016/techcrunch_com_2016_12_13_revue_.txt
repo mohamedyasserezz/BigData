@@ -1,0 +1,19 @@
+Revue makes email newsletters personal again
+
+A few months ago I decided I wanted to start an email newsletter where I’d share links to everything I’ve written each week, reports from events I’d attended or had spoken at and other commentary and thoughts. However, when I researched the current state of email newsletter tools I found that most were expensive, heavily focused on marketing or just feature-poor. Instead, I considered building something myself.
+
+Specifically I wanted to be able to pull in an RSS feed to automate part of the link-sharing process. Then I discovered Netherlands-basedRevue, which has since become my personal email newsletter tool of choice (check out my newsletter here).
+
+Unlike the plethora of marketing-based email platforms that exist, co-founder and CEO Martijn de Kuijper tells me he decided from the get-go to put the emphasis on content creationandcuration, and in turn remove as much friction to starting and maintaining a personal newsletter comprising links, images and commentary.
+
+This sees Revue offer the option to link your Revue account to RSS feeds, Medium, Twitter, Tumblr and Pocket, to easily drag ‘n’ drop content into the email newsletter compose window, something that saves an incredible amount of time. There’s also a browser extension to add links on-the-fly, that way you can load up content throughout the week. Again, a huge time saver.
+
+Otherwise, the compose tools are pretty simple, comprising headings, images, free-form text and links. That said, the outputted emails are well-designed and, again, without you having to do much, if any, of the heavy lifting. You also get access to your subscriber list, can schedule or send immediately, auto-share to social channels and view open rates.
+
+“I originally founded Revue in January 2015 on my own as a side-project when I realised that I wasn’t able to keep up with all the stuff that some interesting people, like Benedict Evans, were sharing because of the constant flow of information,” says de Kuijper. “I found that he and some other experts were sharing their content via personal newsletters, and realised there wasn’t a tool out there that makes that really simple and that helps you to build an audience.”
+
+Since then, Revue has become a fully fledged five-person startup and has grown to 20,000 registered users, who are collectively sending 2 million emails per month. The Netherlands-based startup has also just raised €300,000 in funding from an impressive list of angel backers and funds.
+
+They comprise Nalden (co-founder WeTransfer), Koen Bok (co-founder Sofa, acquired by Facebook), Robert Gaal (co-founder Wakoopa and Karma, Google Product Manager), Hampus Jakobson (co-founder TAT, acquired by RIM), Woodwing Ventures and Digital Leaders Ventures.
+
+“If you have a voice that you want to be heard, it’s frustrating to realise that it’s hard to get above the noise,” adds de Kuijper. “We make sure more people read the things you’d like to share. Right now, our tool to do this is email because it’s 40 times more effective than Twitter and Facebook, but we’re growing into a network of curated content across platforms.”

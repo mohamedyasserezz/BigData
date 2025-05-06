@@ -1,0 +1,35 @@
+TrademarkVision uses machine learning to make finding logos as easy as a reverse image search
+
+A company’s logo is an important part of its identity, but the process behind defining, registering and protecting these trademarks is a convoluted and rather archaic one. A startup calledTrademarkVisionaims to simplify it by replacing that laborious and arcane process with what amounts to a machine-learning-powered reverse image search. This isn’t in some lab, either: The EU just switched their whole image trademark system over to it.
+
+Most people probably haven’t had to do many trademark and logo searches. Well, why don’t youtake the USPTO’s version for a spinso you know what it’s like? Try to find the Nike “Swoosh” or something.
+
+Oh, back already? Probably because TESS looks and operates like it was built in the late 1990s. You can get the hang of it in time, but for complex or broad operations like, for example, looking for logoslikethe Swoosh, it’s useless. And if you want to know what’s out there that’s like an image you have but isn’t in the database? Forget about it.
+
+And it isn’t just the website. The whole system of describing and classifying trademarks is clumsy and outdated. Because it was created decades ago, it relies on words, not images, and numerical codes to indicate something like a box or letter inside a circle.
+
+“These words — every system has a different meaning for them. You need to know a coding system for the country you’re in, and you’d have to check one country at a time,” explained founder and CEO Sandra Mau.
+
+“There are the ‘Vienna codes,’ the U.S. uses the ‘design codes,’ Australia uses keywords… this non-uniformity has caused a lot of problems for years,” added Cameron Mitchell, the company’s COO.
+
+That’s where TrademarkVision saw opportunity. Its engineers applied similar machine-learning technology to what the likes of Google and Facebook are using, but with a different purpose.
+
+“All that has been centered around captioning forphotos,” Mau said — for example, identifying faces and locations so images can be categorized or indexed efficiently. “We’re the first in the world to caption what’s in alogo.”
+
+Specifically, TrademarkVision captures the details that would otherwise need to be described in the various country-specific design codes. Mau demonstrated the system for me at a TechCrunch event and the possibilities instantly opened up in my mind.
+
+Right off the bat, it’s incredibly easy to find a trademark listing you know exists, like for the Swoosh — even this can be hard on old systems, but it’s a snap when all you have to do is drag and drop an image in. But because the image recognition and return algorithms allow for a bit of fuzziness, you also get other trademarks, be they related by owner or just visually similar.
+
+Not only does it find similar trademarks, but it canautomatically suggest codes— for any country — to classify the logo you put in, since the system was built specifically to recognize them. So there’s a bit of esoteric knowledge that just dropped in value a bit.
+
+And since it recognizes imagery similar to what’s put in, it can also warn trademark holders when a suspiciously similar trademark appears, or just one that’s similar enough to warrant a look. Boom: instant, low-cost trademark infringement monitoring service.
+
+Although TrademarkVision has been testing its services at smaller scales within the IP and branding industries, this weekend saw it integrated into the EU Intellectual Property Office’s official trademark search engine.It’s live; you can test it right now.
+
+“Working with governments helps set the standard and change it around the world,” Mau said, adding that apart from the whole developing-an-AI-to-interpret-trademarks thing, it wasn’t that hard to implement. “It’s really easy to just plug and play us in — we’re really just a SaaS provider.”
+
+TrademarkVision is currently also working with IP Australia on that country’s trademark search engine, and one has to assume that the webmasters at the USPTO are glaring covetously at EUIPO just now.
+
+Moving out from the rather monochromatic, red tape-encumbered trademark world is the company’s next aspiration. It’s easy to conceive of global logotype searching, recommendations for how to differentiate one’s designs, even getting into evaluating motion graphics — why not, the way machine learning algorithms are improving?
+
+It seems likely we’ll hear more from TrademarkVision as its eminently practical application of machine learning tempts more IP authorities. In the meantime, check out the company’s Labssectionfor demos and explanations of its technology.

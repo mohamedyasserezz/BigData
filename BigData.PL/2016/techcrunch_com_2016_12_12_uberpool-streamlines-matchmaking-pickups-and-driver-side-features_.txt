@@ -1,0 +1,35 @@
+UberPOOL streamlines matchmaking, pickups and driver-side features
+
+Uber is making some changes to how uberPOOL operates under the hood, which are designed to make connecting the dots between riders and drivers easier for a more streamlined experience overall. The changes are mostly hidden from the rider, as they involve back-end upgrades in routing and matchmaking, as well as driver-oriented fixes to make it easier to manage driving POOL, but the end result should be improvements in key areas for the service.
+
+I spoke to uberPOOL product managers Brian Tolkin and Nan Ransohoff about the new updates, which include improved matchmaking that continually tries to connect the best-positioned drivers with the optimal riders, even after a ride match is made. Both said that while uberPOOL has already been a service welcomed by its users, people also continually identified a few common frustrations that could be addressed via product improvements.
+
+Tolkin noted that uberPOOL’s origins began a little over two years ago when it saw that across its hundreds of thousands of trips in any given city where it operates, many riders were going between the same places at the same time. While carpooling had emerged as a fad in the 1970s and 1980s, it actually has been in general decline as a trend since, the messiness of having to make these arrangements yourself among a group of individuals you organize being a big contributor. Uber had the means to address these roadblocks, and the trip data to optimize groups of riders based on common origin and destination, not shared friend groups, office co-occupancy or other social shared circumstances.
+
+“We looked at our ecosystem, and we said[…] we might be able to reverse that trend and say we can put carpooling back on the rise, we can help people get around their city more efficiently,” Tolkin told me. “At the time it was a pretty big bet. We didn’t know how it would work, we didn’t know fundamentally if people would be down to share the car with someone else, we didn’t know if they’d be cool with going a little bit out of their way, and we certainly didn’t know if the economics would work.”
+
+Tolkin says that luckily the answer to all those questions has proven “a resounding ‘yes’ ” over the past two years, but that they’ve also “learned a lot about what will make this product tick,” which is why they’ve been working on these changes.
+
+The first of these is improved matchmaking, which includes automatic trip upgrades and predictive matching. Automatic trip upgrades simply means that if Uber’s system spots a better pairing of driver and rider, even after an initial match has already been made, it’ll immediately make the change and alert both rider and driver via push notification to make sure they’re kept in the loop.
+
+“The amount of times we can match two people, and the quality of those matches allows us to keep prices low and also save time for riders,” explained Ransohoff, saying that this motivated the development of tech that constantly seeks to optimize uberPOOL rides to find that line-of-best-fit, where the driver is picking up the people along their route that make the most sense, even as new riders hail POOL and other drivers come online with other, more appropriate routes.
+
+Basically, it works as depicted in my amazing artist rendering below:
+
+In addition to these background upgrades, Uber has also enabled predictive matching for POOL, which basically looks at historical data and makes an educated guess about future requests from riders along a given route. That means that if Uber’s system thinks it will have a better match in the near future, Ransohoff explained, it’ll temporarily wait on matching you with current riders that are less optimal in terms of giving you the most direct route possible.
+
+To help make sure that picking up other riders adds as little extra time to uberPOOL trips as possible, the company is also adding two new features related to shortening pickup times, including status notifications for riders and a new countdown timer for drivers. The rider notices include gentle prods like “be ready outside,” “meet your driver now,” as well as a “leaving shortly” alert for when more urgent speed is required immediately before a ride is cleared to leave.
+
+On the driver side, the app now shows a countdown timer that begins at two minutes once a driver reaches the designated pickup point. The idea is that drivers don’t have to manage keeping track on their own, and know exactly when they’re cleared to move on to the next destination, while also being able to collect a no-show fee per Uber’s policy with late riders.
+
+“This might seem like a small change, but ultimately every second counts for our riders and drivers,” Ransohoff said. “So we’re hoping that this is kind of cultivating this idea of […] be respectful to your fellow co-riders, be respectful to your drivers.”
+
+Finally, on the driver end, there’s also a couple of updates that are intended to improve navigation and nix the math required in tracking how much drivers are actually making from any given trip.
+
+“How do we make POOL easier, as effortless and easy for them to drive, because it is a harder product to drive than X,” Ransohoff offered, explaining why they’ve focused on these specific areas on the driver’s side.
+
+Route extension provides a longer visual lead on what’s coming up for the driver beyond the next pickup or drop off, letting them know in advance when they need to make a turn, or what lane they should be in currently. This is a bit like having additional directions on your GPS app of choice about upcoming steps in the trip, and Ransohoff says it should just help take one more potential concern or stress off the driver’s plate.
+
+A very different new driver app feature has a very similar goal; uberPOOL trips previously broke out individual legs of a trip as separate rides in a driver pay statement, but now the entire trip will be aggregated as a single line item, taking into account the whole trip time, distance covered and any surge bonuses, and providing a final tally of what the driver earned from the entire POOL ride. It means less back-of-the-envelope addition for drivers, and hopefully provides them a better sense of how POOL works for them as a revenue generator.
+
+Tolkin says that POOL is a key ingredient in Uber’s overarching mission to make transportation as accessible and reliable as running water, with an eye toward serving the part of the market for whom even an uberX every day is not an affordable option. With that in mind, it’s going to continue to seek to optimize the experience so that supply and demand match up as perfectly as possible in terms of both routing and matches, so expect more improvements to come.

@@ -1,0 +1,57 @@
+A decentralized web would give power back to the people online
+
+Recently, Google launched a video calling tool (yes, another one). Google Hangouts has been sidelined to Enterprise, and Google Duo is supposed to be the next big thing in video calling.
+
+So now we have Skype from Microsoft, Facetime from Apple, and Google with Duo. Each big company has its own equivalent service, each stuck in its own bubble. These services may be great, but they aren’t exactly what we imagined during the dream years when the internet was being built.
+
+The original purpose of the web and internet, if you recall, was to build a common neutral network which everyone can participate in equally for the betterment of humanity. Fortunately, there is an emerging movement to bring the web back to this vision and it even involves some of the key figures from the birth of the web. It’s called the Decentralised Web or Web 3.0, and it describes an emerging trend to build services on the internet which do not depend on any single “central” organisation to function.
+
+So what happened to the initial dream of the web? Much of the altruism faded during the first dot-com bubble, as people realised that an easy way to create value on top of this neutral fabric was to build centralised services which gather, trap and monetise information.
+
+Search Engines (e.g. Google), Social Networks (e.g. Facebook), Chat Apps (e.g. WhatsApp) have grown huge by providing centralised services on the internet. For example, Facebook’s future vision of the internet is to provide access only to the subset of centralised services it endorses (Internet.org and Free Basics).
+
+Meanwhile, it disables fundamental internet freedoms such as the ability to link to content via a URL (forcing you to share content only within Facebook) or the ability for search engines to index its contents (other than the Facebook search function).
+
+The Decentralised Web envisions a future world where services such as communication, currency, publishing, social networking, search, archiving etc are provided not by centralised services owned by single organisations, but by technologies which are powered by the people: their own community. Their users.
+
+The core idea of decentralisation is that the operation of a service is not blindly trusted to any single omnipotent company. Instead, responsibility for the service is shared: perhaps by running across multiple federated servers, or perhaps running across client side apps in an entirely “distributed” peer-to-peer model.
+
+Even though the community may be “byzantine” and not have any reason to trust or depend on each other, the rules that describe the decentralised service’s behaviour are designed to force participants to act fairly in order to participate at all, relying heavily on cryptographic techniques such as Merkle trees and digital signatures to allow participants to hold each other accountable.
+
+There are three fundamental areas that the Decentralised Web necessarily champions:privacy, data portability and security.
+
+Just as the internet itself triggered a grand re-levelling, taking many disparate unconnected local area networks and providing a new neutral common ground that linked them all, now we see the same pattern happening again as technology emerges to provide a new neutral common ground for higher level services. And much like Web 2.0, the first wave of this Web 3.0 invasion has walked among us for several years already.
+
+Git is wildly successful as an entirely decentralised version control system – almost entirely replacing centralised systems such as Subversion. Bitcoin famously demonstrates how a currency can exist without any central authority, contrasting with a centralised incumbent such as Paypal. Diaspora aims to provide a decentralised alternative to Facebook. Freenet paved the way for decentralised websites, email and file sharing.
+
+Less famously, StatusNet (now called GNU Social) provides a decentralised alternative to Twitter. XMPP was built to provide a decentralised alternative to the messaging silos of AOL Instant Messenger, ICQ, MSN, and others.
+
+However, these technologies have always sat on the fringe — favourites for the geeks who dreamt them up and are willing to forgive their mass market shortcomings, but frustratingly far from being mainstream. The tide is turning . The public zeitgeist is finally catching up with the realisation that being entirely dependent on massive siloed community platforms is not entirely in the users’ best interests.
+
+Critically, there is a new generation of Decentralised Startups that have got the attention of the mainstream industry, heralding in the new age for real.
+
+Blockstack and Ethereum show how Blockchain can be so much more than just a cryptocurrency, acting as a general purpose set of building blocks for building decentralised systems that need strong consensus. IPFS and the Dat Project provide entirely decentralised data fabrics, where ownership and responsibility for data is shared by all those accessing it rather than ever being hosted in a single location.
+
+The real step change in the current momentum came in June at the Decentralised Web Summit organised by the Internet Archive. The event brought together many of the original“fathers of the internet and World Wide Web”to discuss ways to “Lock the web open” and reinvent a web “that is more reliable, private, and fun.”
+
+Brewster Kahle, the founder of the Internet Archive, saw first hand the acceleration in decentralisation technologies whilst considering how to migrate the centralised Internet Archive to instead be decentralised: operated and hosted by the community who uses it rather being a fragile and vulnerable single service.
+
+Additionally, the enthusiastic presence of Tim Berners-Lee, Vint Cerf, Brewster himself and many others of the old school of the internet at the summit showed that for the first time the shift to decentralisation had caught the attention and indeed endorsement of the establishment.
+
+Tim Berners-Leesaid:
+
+The web was designed to be decentralised so that everybody could participate by having their own domain and having their own webserver and this hasn’t worked out. Instead, we’ve got the situation where individual personal data has been locked up in these silos. […] The proposal is, then, to bring back the idea of a decentralised web.
+
+To bring back power to people. We are thinking we are going to make a social revolution by just tweaking: we’re going to use web technology, but we’re going to use it in such a way that we separate the apps that you use from the data that you use.
+
+We now see the challenge is to mature these new technologies and bring them fully to the mass market. Commercially there is huge value to be had in decentralisation: whilst the current silos may be washed away, new ones will always appear on top of the new common ground, just as happened with the original Web.
+
+Github is the posterchild for this: a $2 billion company built entirely as a value-added service on top of the decentralised technology of Git — despite users being able to trivially take their data and leave at any point.
+
+Similarly, we expect to see the new wave of companies providing decentralised infrastructure and commercially viable services on top, as new opportunities emerge in this brave new world.
+
+Ultimately, it’s hard to predict what final direction Web 3.0 will take us, and that’s precisely the point. By unlocking the web from the hands of a few players this will inevitably enable a surge in innovation and let services flourish which prioritise the user’s interests.
+
+Apple, Google, Microsoft, and others have their own interests at heart (as they should), but that means that the user can often be viewed purely as a source of revenue, quite literally at the users’ expense.
+
+As the Decentralised Web attracts the interest and passion of the mainstream developer community, there is no telling what new economies will emerge and what kinds of new technologies and services they will invent. The one certainty is they will intrinsically support their communities and user bases just as much as the interests of their creators.

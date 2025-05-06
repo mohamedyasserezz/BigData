@@ -1,0 +1,29 @@
+Encrypted messaging app Wire adds usernames so you can limit what you share with contacts
+
+Wire, theSkype co-founder Janus Friis-backed end-to-end encrypted mobile messaging app, has added a username option — allowing people to communicate with others via the app without having to share their mobile phone number or email to do so.
+
+It’s a privacy-conscious feature that high profile encrypted messaging app, Signal, still lacks — and hastaken some flak for. Facebook-owned WhatsApp, which completed a roll out of end-to-end encryption thisApril, also requires users to share their phone number with all contacts — which, as it moves towardsletting businesses set up on the platform, might cause more users to pause before agreeing to add a new contact.
+
+Wire usernames are public within the app, which may seem counterintuitive for a privacy feature as users of the app can run wide-ranging searches to pull up lists of usernames and names. Although there’s no requirement for a Wire user to input a real full name in either the Wire name or username field — which means users can determine how visible they are to others.
+
+You do still need to share your phone number or email with Wire as part of the registration process to use the app but there’s no requirement to share those pieces of personal data with all your contacts — unlike some other messaging apps.
+
+Wire launched two years agoon mobile and as a desktop app, before expanding the latter into a Skype-esque web app inApril last year. It now bills itself as a ‘private messenger’ app, flagging other recent feature additions, such as the ability toswitch off CallKit integration on the iOS appto avoid sending your call log data to iCloud; and anend-to-end encrypted bot API.
+
+The app also supports putting atimer on messages— from 5 seconds to one day — so they disappear from the chat log once their allotted period has elapsed.
+
+Wire’s encryption is called proteus — which it says is its own implementation of Open Whisper Systems’ (OWS) Signal protocol, necessary so it could remove the need for phone numbers to be used as identifiers and allow for others methods, according to a spokesperson. Wire alsoopen sources its codeto boost trust in its security claims.
+
+Update:OWS has objected to Wire’s claim that it is built on the Signal protocol, and Wire has since clarified that its crypto is built upon the Axolotl protocol — a forerunner to the Signal protocol. “At the time of Wire introducing E2EE (March 2016) Signal used Axolotl protocol which they later renamed to Signal Protocol,” says a Wire spokesman. However OWS’ Moxie Marlinspike, who authored the Signal protocol, maintains that Axolotl is just a part of it. “The Signal protocol is composed of many pieces that we developed,oneof which was called the Axolotl Ratchet,” he tells TechCrunch. “That has since been updated and renamed to the Double Ratchet, which is specifiedhere. So they are correct that Wire is using an (old, outdated, and incorrectly applied) implementation of the Double Ratchet as part of Proteus, but that is only one small sliver of Signal Protocol.  Proteus is not a Signal Protocol implementation.”
+
+(It’s also worth noting that OWS previously madeallegations of copyright infringementagainst Wire, while Wireallegedan extortion attempt regarding licensing fees (denied by OWS). Although Wire’s suit was subsequently dropped. The company also agreed to include some lines in its copyright notice at Marlinspike’s request, specifying its protocol is “Based on libsignal-protocol-java by Open Whisper Systems”).
+
+As well as letting users make calls and share the usual multimedia mix — text, pictures, audio, video, location, GIFs — it includes a feature to send a ping to a contact. Itsaysall content sent via the app is end-to-end encrypted.
+
+Wire is a free download, and free of adverts right now, although it’s not clear what its eventual business model might be. As well as Friis, the Switzerland-based startup has taken an undisclosed amount of investment fromIconical.com, a collection of engineers, executives and designers which offers a non-VC model for investment.
+
+The startup does not break out user numbers — beyond saying it has “millions” of users — but Google Play indicates the Android version of the Wire app has been downloaded between 1 million and 5M times, up from between 100,000 and 500,000 downloads as of April 2015.
+
+For a little comparative context, WhatsApp’s Google Play Android app is listed as having garnered between 1BN and 5BN downloads at this point — so Wire is evidently lagging far behind the mobile messaging category behemoth, albeit it’s a lot younger and less well resourced than its Facebook-owned rival.
+
+As well as its privacy and security focus, and a full suite of multimedia sharing options, Wire has put effort on differentiating via design — with a minimalist, clean look and feel to its interface that sets it apart from the message bubble pictorial trope used in many a mobile messaging app.

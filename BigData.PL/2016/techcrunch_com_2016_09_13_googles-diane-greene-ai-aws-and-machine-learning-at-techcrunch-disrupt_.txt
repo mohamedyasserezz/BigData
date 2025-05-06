@@ -1,0 +1,17 @@
+Google’s Diane Greene talks AWS and machine learning at TechCrunch Disrupt
+
+Diane Greene, executive vice president of Google Cloud Enterprise, appeared on stage at TechCrunch Disrupt San Francisco with TechCrunch editor Matt Burns today, and talked about her role running Google’s massive cloud business.
+
+She came on board last year whenGoogle bought her startup, bebop Technologies for $348 million, and she immediately brought with her enterprise credibility.
+
+Her resume includes helping start VMware beforeselling the company to EMC for $635 million, thenhelping bring it public under the EMC federationin 2007. At VMware, she worked on the virtual machine technology that would become the basic building blocks for cloud infrastructure services.
+
+Today, with that depth of experience, she is trying to help Google catch market leaders Amazon Web Services and Microsoft Azure. In fact, today she announced a big cloud win whenEvernote said it would be moving its 200 million usersfrom its own private cloud to Google — a huge win for the company. One of the primary reasons Evernote is choosing Google is to take advantage of its machine learning algorithms to process data in ways that weren’t possible on its current system (or that would have at least required a significant investment to achieve).
+
+As Greene pointed out, it makes so much sense to move to the cloud. “I honestly [don’t understand] why anyone would try to run their own data center. Now that I understand what our data centers can do, you couldn’t begin to understand our scale.” She pointed out that they invested $10 billion in CapEx investment in their data centers, and they have a staff of 650 people dedicated to security.
+
+She rightly states that no private company could begin to touch that kind of commitment. “I think everyone realizes they can be more secure and spend less money and let someone innovate in areas I can [then] take advantage of. I can partner with [this] innovator and focus on my core competencies for my customers and products,” she said.
+
+As for competing with AWS and Microsoft, who both offer that same value proposition, she says they can speak to customers on an engineer to engineer level, as well as offer a competitive price and highly efficient data centers. As she pulls the company together in a more organized fashion under her leadership, they can take advantage of these factors to continue growing.
+
+What she has to know is that her competitors have the same kinds of advantages she describes. What she does have going for her at this point is the fact that the market is just beginning to really take off. AWS is big leader in a small piece of a potentially huge market. If Google can gain even some of that remaining massive available market share, it will make a ton of money.

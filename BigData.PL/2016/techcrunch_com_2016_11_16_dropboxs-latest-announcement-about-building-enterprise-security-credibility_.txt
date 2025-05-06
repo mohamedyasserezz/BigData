@@ -1,0 +1,19 @@
+Dropbox Business updates focus on increasing enterprise security credibility
+
+Dropboxis getting much more serious about its Dropbox Business product, and today it announced a partnership with security vendor Symantec as part of a broader update to its business products designed to make it more attractive to larger businesses.
+
+Rob Baesman, Dropbox’s head of product for pro, business and enterprise versions, says the idea behind the admin tool update is to provide a measure of control, while allowing companies to mix in some of the security tools they’re already using, all with the same ease of use that Dropbox users are used to getting from the consumer tools.
+
+When Dropboxlaunched its business version in 2014, it had 275 million consumer users. Today it has 500 million users, of which 200,000 are business customers. It was precisely that consumer popularity that Dropbox was hoping to exploit when it launched the business product — but it faced an inherent quandary.
+
+MostIT departments saw the consumer Dropbox product as a problemwhen it came to security. They didn’t appreciate employees using their private accounts to share company business. Employees, on the other hand, were just looking for a quick way to access their files when they weren’t in the office. Hard to blame them for wanting to find easier ways to get their work done in an increasingly mobile world.
+
+Dropbox saw a business opportunity and launched Dropbox Business. Today’s announcement represents a further maturing of that product and an attempt to use partnerships and more advanced administrative features to make the product more attractive to IT — and to give them the tools to control and manage Dropbox usage in the company.
+
+Today Dropbox has more than 30 security partnerships across areas such as data loss prevention (DLP), enterprise mobility management (EMM), identity and access management, data migration, eDiscovery and analytics. It chose to shine a spotlight on its partnership with Symantec, even including Symantec Vice President of Business Development Peter Doggart on the pre-brief.
+
+The Symantec partnership is designed to show enterprise customers that they can use Dropbox Business safely, while maintaining the same kind of controls in a cloud software package that they’ve traditionally had with on-prem software. “For those customers who have spent many years using DLP on prem, they can with a simple switch, apply all those same policies for Dropbox. That is the power of integrations on both sides,” Doggart explained.
+
+In addition, Dropbox has beefed up its own network admin controls to have tighter control over the company network and better differentiate between Dropbox business traffic and Dropbox personal traffic. Some customers don’t want their employees mixing the two, and the new tools should give them a better grip on that.
+
+All of this and more, has been designed to make the product more attractive to IT. While 200,000 might sound like a big number when it comes to business customers, compared to the 500 million consumer ones, it’s a drop in the bucket, and announcements like today’s are part of an ongoing effort to continue to build their business presence.

@@ -1,0 +1,15 @@
+Adobe previews its next-gen photo editor
+
+At itsMAX conference, Adobe today previewed Project Nimbus, a new cloud-native, Lightroom-like photo editor that takes away a lot of the complexity of Adobe’s flagship photo-managing and editing application and replaces it with simpler, smarter tools. For now, Adobe is sadly not releasing this tool to the public, but you can expect a beta next year.
+
+In recent years, Adobe focused strongly on its mobile apps. In many ways, Project Nimbus brings a lot of what Adobe has learned from mobile back to the desktop.
+
+As the company stressed during today’s demo, Nimbus is meant to work seamlessly with the rest of its tools. It shares the same cloud-based image and asset library as the rest of its Creative Cloud suite and image edits are non-destructive and reflected across applications. Indeed, one of the main design philosophies behind Nimbus is that users should be able to seamlessly move back and forth between the desktop and mobile.
+
+The tool also makes use of Adobe’s new machine learning-based services. That means you will be able to use natural language to find images in your library, for example. That’s similar to what Google is doing with Google Photos, for example, but in Lightroom, you always had to tag your photos if you wanted to find them again. Similarly, Adobe is using some of its cloud-based Creative SDK and Adobe Sensei artificial intelligence service to power features like Nimbus’ photo retouching tools.
+
+It’s clear that Adobe believes the way forward is to give its users the option to work on their projects across devices and applications. It’s already been doing that with its mobile apps and it’s now starting to bring what it has learned on those platforms back to the desktop, too.
+
+Project Nimbus itself still feels like a bit of an odd product, though, especially given how similar many of the features — and even some of the layouts — are to Lightroom. It’s not hard to imagine that Adobe could position Nimbus (or whatever it will call it when it finally launches it) as a more consumer-oriented version of Lightroom. But in some ways, it almost feels like the kernel of a next-gen version of Lightroom that could actually replace the older tool in the long run.
+
+Oh — and just to confuse things, this is Adobe’ssecond Project Nimbus.

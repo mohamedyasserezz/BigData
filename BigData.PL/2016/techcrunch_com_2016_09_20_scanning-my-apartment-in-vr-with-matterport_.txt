@@ -1,0 +1,27 @@
+A quick scan of my apartment in virtual reality
+
+I didn’t expect that a career in tech journalism would one day leave me crowded in my bathroom with tech execs hiding from a high-powered, depth-sensing VR camera, but here we are.
+
+Earlier this month, I had a chance to hostMatterportCEO Bill Brown and his team in my newly-moved-into San Francisco apartment to check out the company’s Matterport Pro camera and perform the VR scanning ritual at my new place.
+
+For all the talk of how unwieldy VR tech is (which is usually true), it was much more straight-forward than I had imagined. The hardest part was honestly moving the tripod. On second thought, the hardest part was being sure that I didn’t have anything in plain sight that was going to get my identity stolen once I published a full scan of where I now call home.
+
+One thing that was obviously very important to the team in building this product was prioritizing ease of use. Matterport revealed today that the company has surpassed 70 million total “visits” to the nearly 300,000 spaces that have been captured on the platform. To build up all this content, it wasn’t really feasible to suggest that real estate agents take a class or watch an hour-long YouTube tutorial on how to use the equipment. It’s been essential that agents can just take the camera out of the box and start scanning spaces without much of a learning curve.
+
+Brown was pretty insistent that I took full control of the capture process, which really meant moving the camera around and clicking the capture button on the iPad. All the complex math and positioning is handled in the background. After each speedy instance of capture (about 45 seconds) I was given almost immediate access to check out an updated 3D view of the space.
+
+What really makes Matterport’s tech impressive is the ability of the camera to recognize its own location within a space given the visual context of earlier photographs. If it sees the other side of a chair that was captured in an earlier sweep, the camera will be able to intelligently locate itself and add its perspective to the greater model. This also means that you have to be careful not to bump into too many things when you’re moving the camera around on its tripod as not to screw things up.
+
+My apartment is a pretty open loft with few corners to hide behind so at times the Matterport team and I were left in some aforementioned awkwardly tight situations as we hid from the camera.
+
+https://twitter.com/Lucas_Matney/status/771803691732963328
+
+The $4,500 camera does have its limitations. At its core, the Matterport Pro Camera is relying on three multi-sensor units built by PrimeSense, a companyApple acquiredfor a reported $360 million in late 2013. Under the terms of the agreement PrimeSense continued to build sensors for Matterport post-acquisition, but after three years it is perhaps time for an update for the Pro Camera in the depth-mapping sensor department.
+
+Though the high-resolution 360 capture was always crisp, the depth data gathered by the camera had a tough time making a clean 3D mesh of the apartment, though it definitely shows early promise. Thedollhouse viewis perhaps only useful when viewing a multistory property, but being able to sense the geometry of a room is critical for true room-scale VR walkthroughs which the company has yet to fully embrace.
+
+Matterport is in a great position because the high-end real estate market is about marketing and salesmanship just as much as anything, and virtual reality holds a certain level of sexiness at its higher reaches. Brown described to me how some of the real estate agents working with his company are just sending potential customers Gear VR headsets and smartphones loaded up with the Matterport app just for the sake of viewing a certain multi-million dollar listings that they can’t view in-person.
+
+For online listings, having a Matterport embed can give users a much more pleasant experience in navigating spaces on their own terms. Matterport boasts that consumers spend nearly 2.5 times longer on properties that have a Matterport model than those without.
+
+Matterport has done particularly well among VR companies, because it’s delivering rich experiences on other platforms besides VR headsets. Desktop and mobile views for the company’s tech are quite engaging and reveal a lot about the properties being viewed, though I think the VR experience offers the most in terms of the viewer actually imagining themselves in the space.

@@ -1,0 +1,79 @@
+Trendspotting
+
+Brexit and Trump; applied CRISPR and the Gigafactory; the rise of self-driving vehicles, the fall of pollsters; the global saturation of smartphones, the first mass-market VR headsets; the first drone-delivered terror bomb, the first drone drug mule; Signal and the Secure Enclave; Ethereum and the DAO; AI and SpaceX — we can all agree, I hope, that this has been one hell of a year.
+
+This election week also happens the six-year anniversary ofmy very first TechCrunch column. (I like to imagine that it set the tone, in that a) in retrospect I was 100% correct, b) I got angry hate mail for writing it. Remember when people still cared about BlackBerry? Those crazy days.) I’ve been writing a column every week, rain or shine, ever since. No one is more surprised about this than me.
+
+Most years I mark this anniversary with a where-I-went-wrong piece discussing my predictions of the previous year… but this momentous year, I think it makes more sense to go back further, look at the broader themes I’ve been writing about for six years, and see how they’ve changed, and whether I was right about them:
+
+Technology and Politics
+
+An oftencringeworthy subject:
+
+I hereby coin Evans's Law: Technology + Politics = Facepalm.
+
+— Jon Evans (@rezendi)July 28, 2011
+
+…but I’ll claim some credit for asking, four years ago, “What Happens When Pollsters Are No Better Than Psychics?” Sure seems like we’regetting there now. To quote 538, “In the average state won by Trump, the polls missed by an average of 7.4 percentage points.” That’s ahugepolling error — and the American presidential election is just another in a long series of polling failures over the last few years.
+
+It doesn’t help that political journalists, like most journalists, don’t understand anything about technology, andall journalism is tech journalism now, whether we like it or not. Consider Clinton’s emails; Trump’s “secret Russian server”; Wikileaks.
+
+Six years ago, the American security establishment wasfurious with Wikileaks. Whose avowed target then and now was the so-calledRuling Partyand thedeep state. Those were the days, eh?
+
+I’ve also speculated aboutdisrupting democracy, votersleft behindorfearful oftech, and, most out-there of all, the notion that the entire global system of power division among nation-statesmay be crumbling. Which sounds a little less crazy now that serious tech figures are talking aboutCalifexit. A lot of this seemed highly speculative and faintly paranoid even to me, at the time! It seems a lot less so now.Grade: B+
+
+Law Enforcement and Online Security
+
+By day I sling code for a living, so while I’m no expert, I’m more comfortable with the subtleties of security and encryption than most — and, sadly, apparently much more so than much of the security establishment, viz. “Intelligence Agencies Keep Getting Dumber” and “Is The FBI Dumb, Evil, Or Just Incompetent?”
+
+It has seemed clear to me that government attempts tosurveil ordinary people,militarize the police, and seek “golden keys” for encryption have been, not to put too fine a point on it,complete bullshit, and that Edward Snowden deservesnot just a pardonbut amedal.
+
+Maybe most relevant: I keep arguing that no matter how muchcentralized services, from Apple to Google to Microsoft, claim you can trust them, you can’t. Governments can and will intervene, and ultimately they’re answerable to them, not you.E2E or GTFO, because, well, just imagine if the below were to have happened.Grade: A-.
+
+So glad Democrats institutionalized a vast and unaccountable national security apparatus that will soon be controlled by a madman.
+
+— Trevor Timm (@trevortimm)November 9, 2016
+
+Surveillance
+
+I write a lot aboutcorporatesurveillance, bothdeliberate and de facto, and I feel a bit like Cassandra: for years I have beenwarning,againandagainandagain, that ubiquitous sensors (ie theInternet of Someone Else’s Things) plus machine learning means that soon enoughvirtually everything any of us doout in the world will be tracked and monitored.
+
+We need to save online privacy because it’s theonly privacy we will have left; we need to give people either guarantees of data anonymization or legal control over their data; we should have root access to the devices we “own” (because otherwise we don’t actually own them); the services we useneed to be secure, but we can’t labor under thedelusionthat Apple can save us from intrusive governments, so eventually they need to bedecentralized, too; and the powerful need to be as accountable as the poor. Otherwiseonly the rich will be able to affordprivacy. Am I right? Pretty sure I am. Does that actually matter? Sadly, probably not.Grade: B
+
+We have a moral responsibility in the tech community to protect people from the surveillance apparatus we’ve built around them. It’s urgent
+
+— Pinboard (@Pinboard)November 11, 2016
+
+Drones
+
+I know you’re probably thinking I’m vastly overrating my own analyses. Won’t pretend I’m not biased to do so! But here’s an ongoing outright prediction failure on my part. Ikeep sayingthatbad actorswillstart usingdrones towreakuntraceablehavoc. (I’m clearly biased by having written anovelabout just this way back in 2009.) And despite some desultory drone use by Daesh and Mexican cartels, the reality is that I keep being completely wrong. At least so far.Grade: C-
+
+Facebook
+
+Also: one of my favorite pastimes appears to becomplaining about Facebook. Six years ago Fred Wilsonargued“Facebook is not an unstoppable juggernaut.” Idisagreed. Then Icomplained(repeatedly) about Facebook Comments andMessaging, lambasted them forneverdoing anything interesting and beingdevoid of any real innovation, conceded that they are only vulnerable to aplatform shift… but then speculated that, as people realize that machine learning candeduce things about themthat theymay wish to hidefromapparently innocuous Facebook behavior, their popularity may greatly diminish. Was I all wrong? No. Was I particularly prophetic? I was not.Grade: C
+
+Cryptocurrencies
+
+I’ve been writing about Bitcoin and its descendants for more than five years, and I’m pleased to say that myfirstfewBitcoin pieces, in which I conclude it’s a developed-world sideshow but a potential developing-world breakthrough, remain not completelyembarrassing.
+
+It wasn’t until I dug into the cryptocurrency’s technical details, though, and began to understand the implications of its distributed-consensus solution, that Ibecame a believer. Which I remain to this day — though I still think we’ll need to wait forBitcoin 2.0, egsidechains, before we see real breakthroughs that go beyond true believers.
+
+True, there’s been a lot ofstrife,sturm, anddrangin the cryptocurrency space: but that’s how new techdevelops. Between sidechains, the Lightning Network,Ethereum,ZCash, etc., the world of cryptocurrencies is bursting with possibilities. I still believe they are a very big deal — but I concede I can’t actually point to a breakthrough application. Yet.Grade: Incomplete
+
+Decentralization
+
+All that said, though, my chief interest in Bitcoin is that it’s alive exampleof wildly successfuldecentralization. A shocking amount of our online activities — which means, in these ultra-wired times, our lives — is mediated and controlled by what Bruce Sterling calls “the Stacks”: Alphabet, Amazon, Apple, Facebook, and Microsoft. The Internet was built to be decentralized and independent;we’re doing it wrong. Wecan, and should, decentralizeour email, our messaging, our social networks.
+
+I’ve even speculated thatdecentralized reputation economiesand adecentralized basic incomecould supplant (parts of) capitalism as we know it. That’s more pie-in-the-sky, but there are green shoots of decentralization out there. I hope to keep writing about that a lot.Grade: B
+
+Technological Unemployment
+
+I’ve actually been beating the drums forbasic incomefor years now, because since 2011 — at least alittleahead of the curve, I think — I’ve been suggesting that technology isdestroying jobs faster than it’s creating them. I wrote piece after piece about this —America Has Hit “Peak Jobs”,Get Ready To Lose Your Job,After Your Job Is Gone, “Jobs, Robots, Capitalism, Inequality, And You“, and —
+
+— well, at best, I was premature, and at worst, I wassimply wrong. Technology isnotdestroying jobs faster than it’s creating them, at least not yet. Now, a lot of people believe that it will, soon enough! Elon Musk,Steve Jurvetson, and Bill Gates, to name a few.
+
+But in the present day, I’ve come up with a more nuanced view: technology willatomizejobs, make workersmore fungible and easier to replace— think Uber drivers and other on-demand economy gigs — and software will drive the world intoExtremistan, wherein~20% of us do very well, while the other 80% struggle to get by as part ofthe Precariat, with no careers and no security.
+
+Whether that or fully automated technological unemployment is the future, though, I believe we willultimately needto replace the expectation of near-universal full-time employment with auniversal basic income. And I think the last five years back me up on this.Grade: B-
+
+Now on to the next six years…

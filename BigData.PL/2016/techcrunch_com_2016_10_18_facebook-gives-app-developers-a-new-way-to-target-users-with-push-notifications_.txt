@@ -1,0 +1,33 @@
+Facebook gives app developers a new way to target users with push notifications
+
+Today, it’s not enough to get users to download an app, you have to keep them coming back, or the app will soon be abandoned and forgotten. To address developers’ needs on this front, Facebook is today is taking a tool for creating customizable push campaigns out of beta, which will allow any developer to narrowly target specific audiences via their app.
+
+The tool is a part ofFacebook’s Analytics for Appsmobile analytics solution, which is now used by 800,000 app developers.
+
+The companyfirst announced Analytics for Apps last yearat Facebook’s F8 developer conference. At this year’s event, Facebook introduced its free,customizable push campaignstool into closed beta in order to help businesses target users based on the actions they take while using the app.
+
+Facebook says it had interest from over 10,000 businesses, and it has been slowly expanding access to the feature over time. About a month ago, itlaunched push campaigns into an open beta.
+
+Target has been an early adopter, and uses the push campaigns to notify customers of its Cartwheel app about offers and deals.
+
+The larger App Analytics service does more than push campaigns, of course. It also includes an online dashboard where developers and marketers can track how their apps are performing in terms of conversion rates and user engagement.
+
+With the online tool, developers can see the specific demographics of their audience, including things like age, gender, and country, for example, as well as which platform they’re using and the app version they’ve installed. And withan update that rolled out this spring, developers could see other details, too, like aggregate Likes and interests, education level, job title and more.
+
+Analytics for Apps also shows how far along users get in the sales process – like whether they are using the app, or making purchases, in addition to how often they return.
+
+Using this data, app makers can better target similar audiences with their Facebook ads as well as create customized push notifications for specific audience segments, aimed at increasing engagement.
+
+During the beta test of push campaigns, Facebook says it worked on making them faster, scalable and more reliable. It has now reached the point of taking the tool out of beta, so any developer can use this option.
+
+Along with the launch, the audience targeting section has also been redesigned with a focus on streamlining the workflow, so it’s quicker to use.
+
+According to the early tests, Facebook claims apps have seenup to 180% higher retentionwhen users opt into receiving the push notifications.
+
+Of course, many users today disable push notifications for their apps, which is why Facebook is making in-app notifications available, too, as part of the push campaigns tool.
+
+This lets developers send branded, rich media cards with photos, emoji, buttons and GIFs to their users, which could tell them about things like limited-time offers or reminders of items left in their shopping cart, for example.
+
+The ability to create push campaigns is live now, via theiOSorAndroidSDK.
+
+Updated with more recent figures for Analytics for Apps users.

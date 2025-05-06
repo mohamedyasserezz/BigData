@@ -1,0 +1,13 @@
+Cloud Foundry launches its new Docker-compatible container management system
+
+Cloud Foundry, the Pivotal- and VMware-incubated open source platform-as-a-service project, is going all in on its new Diego container management system. For a while now, the project used what it called Droplet Execution Agents (DEA) to manage application containers. After running in parallel for a while, though, the team has now decided to go all in on its new so-called “Diego” architecture. Thanks to this, Cloud Foundry says it can now scale to running up to 250,000 containers in a single cluster.
+
+Few enterprises — if any — are currently using Cloud Foundry (or containers in general) at this scale. As anybody who has talked to enterprise developers recently can tell you, though, enterprise adoption of containers is growing quickly (and maybe faster than most people realize). Cloud Foundry’s own research shows that many enterprises are now evaluation containers, even as the number of broad container deployments has remained steady (and low) over the last few months.
+
+As Cloud Foundry rightly argues, though, knowing that the project can easily scale far beyond most of today’s deployments reassures potential users that they will be able to use the software as their demands increase.
+
+What’s interesting here is that the Cloud Foundry project decided to essentially write its own container management service, even as the container ecosystem itself is focusing mostly on Kubernetes and Docker’s toolset.
+
+As Cloud Foundry CEO Sam Ramji told me, it’s important to remember that Cloud Foundry started using containers through DEA before Docker made them the “next big thing.” “Because it was built in a time before standardization, it’s pretty ideosyncratic,” he said. DEA uses its own container format, for example. Diego, on the other hand, is Docker-compatible. As Ramji noted, this means it can also plug into the rich container ecosystem that exists today, which allows the project to take advantage of all of the new container-related technologies that weren’t available even three years ago.
+
+The project will end-of-life the old DEA architecture in 2017. The 2017 requirements for Cloud Foundry Certified PaaS vendors will not allow for the use of the DEAs. Developers, though, really shouldn’t see any difference. They will still use the same commands to deploy their applications onto Cloud Foundry.

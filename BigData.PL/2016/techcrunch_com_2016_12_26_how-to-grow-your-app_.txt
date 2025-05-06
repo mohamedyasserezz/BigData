@@ -1,0 +1,131 @@
+How to grow your app
+
+The app ecosystem is strong and growing. By 2020, App Store consumer spend is supposed to exceed 100 billion dollars (App Annie). Mobile now represents 65 percent of digital media time (Marketing Land); 86 percent of this time on phones is spent in apps (AdWeek).
+
+Building a mobile app is building the most frequently used digital property type on the most frequently used digital device. And, the dollars flowing through this property are not only growing, they are growing fast. Sounds like a solid place to start a business.
+
+Tech journalists portray a very different picture, with pundits screaming, “The app-ocalypse is near!,” “The end of apps is here. Long live chat bots,” “The app boom is over,” “Who will win the race to become the WeChat of the West?!” But the doomsday claims are overkill.
+
+If there is anything hindering app growth currently, it’s how complicated and misunderstood app growth and marketing actually is.
+
+Apps are complicated: Without deep links and indexing, apps are isolated black boxes. Tracking post-install performance metrics, directing traffic seamlessly to and from one another, app advertising, attribution and LTV modeling are all complex, idiosyncratic processes with little resemblance to web counterparts.
+
+App-growth knowledge is inaccessible: While some of these basic concepts are discussed in blogs, publications and help centers, a deep, specialized understanding of app growth is often pooled at the top, with industry insiders: founders, VCs and growth consultants in tech hubs like Silicon Valley, San Francisco, Seattle, Los Angeles and New York. So we’ve interviewed the “app growth hall of fame” and asked them a range of questions designed to provide a toolkit for growing an app business.
+
+These interviewees include:Justin Mateen, founder of Tinder;Andrew Chen, head of growth at Uber;Josh Elman, formerly in product at Facebook, Twitter and LinkedIn and partner at Greylock;Mike Jones, founder and CEO of Science and former CEO of MySpace; Cory Levy, co-founder and COO of After School; Hiten Shah, founder of KissMetrics;Kamo Astrayan, founder of Primer app consulting;Jonathan Abrams, founder of Friendster and Nuzzel;Brian Balfour, VP of Growth at HubSpot;Ryan Holiday, best-selling author of Growth Hacker Marketing, marketing consultant and former CMO of American Apparel;Lo Toney, partner at Google Ventures andJesse Miller, director of product management at Shyp.
+
+While there is a canon of growth strategies in the social space, the main theme of these interviews is really encapsulated by a quote from former VP of Growth at Facebook Alex Shultz: “Mark has said he thinks we won because we wanted it more, and I really believe that. We just worked really hard. It’s not like we’re crazy smart, or we’ve all done these crazy things before. We just worked really really hard, and we executed fast. I strongly encourage you to do that. Growth is optional.”
+
+With social, given that the app’s valueisthe network itself, it’s hard to test demandbefore building that network; but to build the network, you need demand. It’s a classic chicken-and-the-egg quandary. And again, while there are strategies for growth specific to social, there’s no set playbook. For a lot of the following entrepreneurs, growing their social app came down to one thing: pure grit.
+
+Justin Mateen, founder and former CMO of Tinder
+
+At Justin Mateen’s favorite lunch spot in Los Angeles, South Beverly Grill — a quiet, dark-lit, Hollywood networking staple on South Beverly Drive, the sharp, humble former chief marketing officer of Tinder revealed that he is addicted to growth marketing. Since MTCH’s (the dating giant with a large stake in Tinder) IPO, Justin has been linked to an impressive portfolio of companies, including Home Chef, LendUp, Hyperloop One, Rich Uncles, Homee, Common and others. He’s not only investing capital these days, but also works closely with the founders as a founding advisor, adding serious value and taking a large stake.
+
+Our first question essentially boiled down to “how’d you do it?” There had been so many web-based online dating services at the time of Tinder’s inception in 2012, and so many dating apps that failed to gain traction.
+
+“With Tinder, we fundamentally solved a basic human need that had been ignored. Other platforms such as Facebook and Instagram were doing an amazing job of connecting you with your existing network, but no platform was focused on connecting you with people you want to know,” Mateen says. “Dating apps specifically had a stigma, and were focused exclusively on paid acquisition which didn’t really create the same community an organic user base provides.”
+
+The next question was how to get the right users organically.
+
+“The way that I like to start any network is to go after the hardest users to get first; users that seem like they almost don’t have a need for the product. These can either be your worst critics or your greatest evangelists.” He elaborates, “For us, that was college students.”
+
+Justin explained that he initially invited celebrities and socialites to promote tinder via text message and Instagram. This created upper funnel awareness for the app. He then leveraged Monday night deliveries — a Greek system tradition — to systematically create dense networks on college campuses. Hitting fraternities and sororities — small, interwoven networks — with a regular cadence proved incredibly effective.
+
+He also pulled off some pretty crazy stunts:
+
+“Man, I could talk all day about the experiments we ran. We tried everything. A great example is on a random school day I had one of our college reps walk into a lecture with 200 students pretending that she matched with the classroom’s professor on Tinder. Obviously we wanted to make the students laugh and download the app, but the word-of-mouth based virality this stunt produced far exceeded the 200 potential downloads we could get from the students in the class that day. Once we knew this was effective, we had multiple students pull the same stunt on as many college campuses as possible in order to propel us forward in the App Store charts.”
+
+Aside from being a great story, this publicity stunt does three things for Tinder:It markets itself; it’s light and funny and proliferates fast through word of mouth.
+
+Because it spreads friend-to-friend, it gets a lot of people in the same tight-knit community on the app. In Tinder and any social network’s case, the value of the app is directly correlated with the number of users in your community who also use the app.
+
+It’s the perfect example of going after your “hardest users,” college students, first. These users will either be your most vocal critics or your strongest evangelists.
+
+Finally, guerrilla marketing like this is completely free to execute. In this case, the college rep was an unpaid intern looking to add value and bolster their resume.
+
+Next Mateen talked about paid marketing, which he firmly believes that at the right time, can be worth it, but that the ads have to be subtle, unintrusive and organic.“Your eyes are trained to ignore banner ads. They feel impersonal and coercive,” Mateen says.
+
+Paid or unpaid, when building a social network, ads should be subtle and enticing, not disruptive and direct-response driven. As Mateen explains, “It all boils down to human nature. Nobody likes to be forced to do anything.”
+
+The final lesson from Mateen, was just how important retention is. “No amount of growth can replace solid retention. It’s kind of like trying to fill up your pool with water. You’re trying to get the water to the top. It doesn’t matter how fast the water is coming in if a very, very small percentage of it is being retained,” Mateen explains.
+
+“It’s simple math. If your user retention on day two is 60%, and you’re growing by 10,000 users a day you are adding 6,000 users to your DAU. If you’re growing by 20,000 users but only have 10% retention on day 2, you’re only adding 2,000 users to your DAU despite the fact that you’ve added more users. You’re shooting yourself in the foot if you’re focusing too much on growth when you should be focusing on product,” he says.
+
+Finally, aligning yourself around key retention (and not just growth) benchmarks is vital: As Mateen explains, “If early on your DAU/MAU ratio is north of 40% for example, you are definitely onto something.”
+
+Mike Jones, founder/CEO of Science and former CEO of MySpace
+
+Sitting next to the famous 3rd Street promenade in Santa Monica, Science’s office is adorned with TV screens from wall-to-wall, reading the latest analytics on the company’s hallmark app, Wishbone. Wishbone is a social app, primarily for girls in their late teens to compare their interests, celebrities, and preferences with each other.
+
+Walk past reception, down the hall and you’ll find yourself in the minimal, upscale office of founder/CEO and former MySpace CEO, Mike Jones.
+
+The first lesson from Jones is around testing; driving targeted installs using paid marketing is a great way to test an app’s long-term viability.
+
+“Mobile for us relies on advertising as its primary revenue stream. In an advertising-oriented revenue stream there’s a certain amount of sessions of retention that you have to have within the first 30 days to make it so that it’s actually going to be a viable business. So with mobile when we launch an app which we often do on Android first we then basically use paid media to drive 10,000 users into the app and then we look at the retention testing over a week-long period,” Jones says.If you can’t tell from the above process, Science is aptly named. The company uses the scientific, inductive method, iterating apps quickly and testing their viability via paid marketing; Jones explains.
+
+“So you know, we build apps really lightly. I generally take the position now that if I wrote 30 app concepts down on a wall I wouldn’t be able to tell you which one would work at all. Like it’s almost best to just build them as fast as you can, test them as quick as you can, and then determine what’s gonna stick,” Jones says.
+
+This is how Science tested the viability, incubated and eventually spun off Dollar Shave Club, the direct to consumer razor empire that recently sold to Unilever for one billion dollars in cash.
+
+The one complicating factor, Jones explains, is that paid marketing can often get more expensive with scale. Your lowest funnel users are the cheapest to acquire, with your mid-funnel and upper funnel users progressively more expensive to capture. If you cap out at 500 lower-funnel, most profitable users, you might not have the scale you need for a viable business.
+
+Accordingly, if your business is going to rely on paid advertising going forward (as Wishbone does), it is essential that you test at scale.
+
+The way Jones puts it: “The way I  think about paid marketing is that there are these concentric circles of price and volume. So is the first circle of marketing going to get us a large amount of installs at a very lower price or is it going to be a very small amount of installs? One thing we never really go into is what’s the audience size for the first level price, second level price, third level price… you don’t really know this until you kind of bump up against it.”
+
+Testing like this is an incredibly effective method and in-line with valley startup gurus Paul Graham, Eric Reis and Steve Blank’s philosophies: Test repeatedly with minimal resources until you achieve product-market fit and can scale confidently.
+
+To test rapidly without burning through your funding, you need a strong, agile dev team. At Science, Jones has a full-time dev team in India. “I mean we dev on a 24-hour cycle now. When Santa Monica wraps up at night here, India gets started.”
+
+Our final lesson from Jones is how to achieve staying power in an otherwise fickle social category. “I think that the mix between entertainment and utility is critical for social. Snapchat has hit upon both. It’s both a messaging platform and a fantastic entertainment experience through looking at people’s stories and using discover,” he says.
+
+This is a crucial insight: Only the social platforms that survive the transition from cool new property to essential utility can maintain market dominance. Snapchat serves as a messaging platform. Facebook has messaging, it’s used to log in to other frequently used apps and it acts as an online repository of your photos.
+
+For Mike, this might have been a lesson learned the hard way at MySpace.“Utilities by far have the longest retention. There’s not a day that has gone by where I haven’t interacted with Dropbox. It’s there forever. Gmail is a utility. It’s there forever,” he adds.
+
+The following insights come from Josh Elman, former PM at Facebook, Twitter and LinkedIn; partner at Greylock Venture Capital
+
+Sitting in his sleek Sandhill Road office in Menlo Park, Josh Elman posits: “Everybody thinks social is saturated. In the last couple of years, you’ve seen musical.ly, After School, HouseParty, Pokémon GO and many more blow up. This might just be the start.” These aren’t idealistic, academic musings. Elman has investments with a lot of these companies and is high up in product development at Facebook, LinkedIn, and Twitter. If anyone knows social, it’s him.
+
+With Elman, we dive right in: “At what stage should a company consider paid advertising?”Elman explains that paid ads are crucial, but only if you’re confident you are getting a great organic lift from them. Elman elucidates, “Do paid ads get you a set of users and does it get you a set of users that are such super fans that they organically help you spread to more. If every single user you have to get is paid because you get no lift from getting somebody hooked, it’s going to be hard to sustain your business…”
+
+Elman elaborates that in social, the goal should be to achieve a critical mass of users in a dense area, all beaming about the business.
+
+Say you’re building a Star Wars app… You might find a Chewbacca Reddit sub community, you might find other Star Wars related forums, but you can also use paid ads to do very precise targeting with people who have Star Wars interests and browsing history. Do this until your little clusters of users turn into a critical mass. You have to hustle though, do everything in your arsenal, paid and unpaid digital and physical world advertising to build that dense network.
+
+Even if your app is transactional, like Uber, bringing in excited users that will provide an organic, local uplift and be evangelists for the product is crucial. In digital marketing, this means your paid ads, need a K (virality) factor associated with them, a metric testable in all app analytics platforms.
+
+This is Elman’s new concept: paid viral marketing. “Look, I’m involved in Nextdoor (the widely used social network for neighborhoods) and a great example of paid virality is we use physical postcards. We don’t mail a postcard unless someone in the neighborhood sends a postcard to a neighbor. That’s essentially buying an ad, it just feels a bit more organic and there is inherent virality — that’s why we call it paid viral,” says Elman.
+
+Elman’s final insight on the user-acquisition front was a revelation; most people in tech think of apps as free, infinitely distributable, zero-marginal-cost products that spread fast and organically. That might have been true six years ago, when the apps being built exhibited wholly new, unprecedented functionalities. But now, generally speaking, apps have so many copycats that new products generally need to differentiate themselves with sophisticated brand advertising.
+
+In a digital marketing world that is very direct response-oriented and CPA-conscious, this is a contrarian and controversial view.“…for the past 15 years we always thought software had these great organic effects. In the case of games and a few other categories, apps are actually closer to consumer-packaged goods than they are to software that scales through free organic distribution. Paid ads plus brand differentiation are the business drivers.”
+
+In consumer packaged goods, marketing is the differentiating factor. Do the ingredients in Axe body spray really make them better than their Dove equivalents? Maybe. But to the consumer, it’s really brand advertising that makes the difference. Software and app companies that reach a certain level of maturity need to start thinking like this and not assume the inevitability of Facebook, Twitter or Instagram-like hockey-stick growth.
+
+While writing extensively on growth and social networks, Elman is fundamentally a product guy. So, we had to ask him both what his favorite analytics platforms for apps are and what makes a good app product manager.
+
+He has found that a combination of Amplitude and Looker is the best for gaining actionable insights; Amplitude gives you the data and Looker organizes it in a way that’s actionable. “Mixpanel was first to market and the industry standard but it gets expensive fast,” Elman explains.
+
+As for what makes a good app product manager, it’s a healthy combination of data awareness, good instincts and an anecdotal knowledge of your customers’ personal experiences of your product:“The problem is, there’s a lot of people who built their careers of being data driven and I think data driven is wrong too because you end up just making decisions based on data without getting to the meaning behind it.”
+
+Elman explains further. “Yet, the people who just do instincts without data — maybe Jobs is great at that, maybe Zuck was for a while, maybe Evan Spiegel at Snapchat, but most people aren’t just naturally instinctive and perfect every time. The best product managers are what I call data aware, which is they are aware of all the data and what the stories are behind the data. You really want to look at your data and get back to all those individual anecdotes of what the actual people were doing. You want to go get enough anecdotes that help you understand the data in a better way.”
+
+Cory Levy, Co-founder and chief operating officer of After School
+
+Cory Levy has an interesting entrepreneurial trajectory. Typical for the valley, in that he dropped out of school freshman year to raise a million dollars and pursue his first startup, “One”. When “One” did not achieve the product-market fit that its co-founders hoped for Levy and his co-founder Michael Callahan pivoted to a different audience with whom the two had more success — the teen social networking crowd. And so their app becameAfter School.
+
+“We started out idealistically — with this grand vision that we would connect you with like-minded people who are interested in the same things… kind of like an interest-based Tinder. If you’re a Laker fan walking into a bar, and someone else in that bar was a huge fan, you guys could connect and talk,” says Levy (although the bar scene isn’t typical for the high school-set). “We maintain that idealism — it underlies everything we do. But we knew that achieving our ultimate goal would require us to have a successful product with a large audience.  And our first product didn’t cut it.  Talking to someone about your interests was appealing but was not something that people had a burning desire to do…and it wasn’t going to help us achieve broad-based appeal. Talking to strangers about interests was a vitamin, not a pain-killer.”
+
+What do consumers have a burning desire for? Finding love on Tinder, food on Postmates, transportation on Uber — these are basic, core human needs that will never go away. These companies just found more convenient, efficient ways of providing them than past services. In the ideation phase — as an app developer — this is a crucial insight. Always resort back to core human needs when thinking of new ideas.
+
+The other problem with One was that it had everybody in mind as its ideal user-base. The best products simply don’t do that; Uber, Tesla, Facebook all started high end and niche in some way. Unless you are building a basic utility like Email or Venmo, building your product around an audience is crucial. Levy landed upon the high school audience — one that felt like Facebook was outdated, uncool and out-of-touch — but didn’t really use social services like Yik Yak as much as college students did.
+
+Since launch last November, After School has millions of teen users from 80% of American high schools in America.
+
+How does After School achieve viral growth? Through the tools advocated by Mike Jones at Science — rapid development and the iteration of new features.
+
+The final insight we gained from Levy really brings some closure to our learnings on how to achieve growth in the social space:
+
+The internet, even on mobile, has solved the bottom of Maslow’s hierarchy of needs. The most basic utility apps — calculator, flashlight, Email, peer to peer payments etc. — have been created. As a result, the real opportunity is going to be in creating more entertaining, exciting, social and stimulating apps than ever before. That’s why apps like After School, Snapchat and Musical.ly have to iterate incredibly fast. Venmo builds one iteration, gets a network, and you depend on it as your payments platform for the next 5-10 years. If we don’t iterate every few months, we’ll become obsolete in social.

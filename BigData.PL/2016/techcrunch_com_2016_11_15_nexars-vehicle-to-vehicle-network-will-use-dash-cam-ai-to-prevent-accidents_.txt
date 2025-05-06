@@ -1,0 +1,11 @@
+Nexar’s vehicle-to-vehicle network will use dash cam AI to prevent accidents
+
+Cars are on their way to pooling their collective smarts, but vehicles that have built-in communication tech and intelligence processing are still a ways off for many. Nexar is a startup hoping to make collective collision avoidance a more achievable reality in the short-term, using their Ai-based dash cam app.
+
+Nexar’sapp is available for iOS and Android, and uses your phone’s camera to monitor the road ahead as you drive, recording events when it detects danger using its artificial intelligence engine. The video of the event is then automatically uploaded to the cloud for later reference, and the phone also logs sensor data to help recreate a simulation of what happened to your vehicle at the moment of the incident.
+
+Starting today, the app will also start providing crowdsourced data to help predict and prevent collisions, by sharing that info among users of its app, starting in San Francisco and New York first. The idea it to provide real-time warnings about potential collisions using just the smartphone itself, building a road map that can be shared across its pool of users.
+
+Using data collected by individual instances of the app about accidents, Nexar’s network will use real-time interpretation of the data to try to anticipate the best way to minimize the impact of these accidents and alert other drivers on the network before they also become involved. If you think about multi-car pileups, often the issue is that cars involved later in the process just don’t have the information they need quickly enough to avoid being caught up.
+
+Waze provides similar crowdsourced warnings about upcoming traffic obstructions and collisions to watch out for, but Nexar’s use of video analysis and machine learning applied to computer vision could help it be more responsive in real-time to incidents that pose an immediate threat.

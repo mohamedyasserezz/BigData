@@ -1,0 +1,15 @@
+UK-based AI startup Gluru is building a smarter task manager
+
+Gluru, a UK-based startup that’s building an Artificial Intelligence (AI)-powered task manager, has raised a $2 million seed round. Backers include Sussex Place Ventures, SaatchInvest, Gecad, and Playfair Capital. It brings total funding for Gluru to $3.5 million.
+
+Founded two years ago by Tim Porter, who was an early employee at Shazam and also worked at Google and Apple, the company is building AI technology to automatically turn the tsunami of communications data we amass into actionable tasks, thereby significantly increasing our productivity.
+
+Available for web, Android and an iOS version in beta, Gluru’s first product is a smart to-do list app that claims to use a multi-patented and unique approach to natural language processing, deep learning, and ontology, in order to sync with your various “conversational data sources” — initially Gmail and Google Calendar — to identify daily tasks and suggest relevant actions.
+
+“We start by simplifying conversations into tasks,” says Porter. “Tasks frame not only our actions and goals, but also those of services, devices, and machines we use every day. We found that if artificial intelligence could identify and understand these building blocks to our daily lives, then it is possible to predict the complementary action (and in the near future answers)”.
+
+Naturally, the smart to-do list learns from how you interact with it (it wouldn’t be very smart otherwise) and claims to automate the most repetitive tasks and flag up the ones that need your attention. The latter might include an email that requires an urgent reply or a phone call that needs scheduling.
+
+The long term vision is that once you’ve connected Gluru to your various data sources the startup’s natural language processing and machine learning handles the rest. “Currently, Gluru supports Gmail and Google Calendar. A host of sources are coming soon, such as Outlook, Slack, Alexa, Google Drive, Dropbox and Salesforce, and Gluru can live inside all of these ecosystems, powering productivity,” adds Porter.
+
+Alex Dunsdon, equity partner at SaatchInvest, says in a statement: “We love groundbreaking enterprise AI that provides practical applications right now, as Gluru is doing – not some distant R&D pipe dream. Tim and the Gluru team have some of the best AI talent in the world, disrupting the productivity space today, and we’re excited about where they can take this”.

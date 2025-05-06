@@ -1,0 +1,7 @@
+New LIDAR package makes it easier to add smarts to your smart car
+
+Osram Opto Semiconductors hasannounced the availability of a LIDAR package– essentially the spinning laser array found on self-driving and mapping vehicles – that costs $5 and works as well as $70,000 tower systems and hockey-puck sized $8,000 systems.
+
+This mini-LIDAR has four laser diodes connected together to ensure accuracy without tuning. The kit also includes tiny mirrors that track the beams and move at 2 kilohertz to track the environment in 3D using minute movements. It is eye-safe – it peaks and then shuts down quickly – and it is about the size of a hockey puck. From the release:
+
+LIDAR is a key technologyin 3D mapping and self-driving vehicles. By mass producing the diode array and selling it cheaply Osram is tearing down a massive barrier for researchers and startups. The new package will ship in 2017.

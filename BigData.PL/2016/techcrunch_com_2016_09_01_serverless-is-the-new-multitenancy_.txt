@@ -1,0 +1,25 @@
+Serverless is the new multitenancy
+
+Multitenancywas the single-biggest technology breakthrough in SaaS. Consider this: With more than 100,000 customers, a company like Salesforce would need 100,000-plus servers and databases to serve their needs, essentially wiping out its margins.
+
+Multitenancynot only allowed for higher gross margins, it made it viable to serve small and medium businesses with world-class software  —  at a profit. It was not just anewarchitecture, but also changed the way we thought of paying for enterprise software —  not by number of CPUs or servers but by users and usage. Similarly,serverlesscompute is both anewway of building appsandanewway of consuming and paying for it.
+
+Serverlesstakes the promise ofmultitenancyto a wholenewlevel.Serverlesscompute is a computational model where no dedicated server or VM needs to be up and running, as the platform activates and then shuts down the processing, scaling it as needed. You truly pay for only what you need.
+
+In the first decade of SaaS, companies likeSalesforceandNetSuitewere hardcore proponents ofmultitenancy,while legacy vendors portrayed it as a compromise, often calling it “risky commingling of customer data.”
+
+The No. 1 leader in enterprise applications software,SAP, invented its own architecture, called mega-tenancy, to compete withmultitenancy, whileOracle, the leading database vendor, tried to sell virtualized private databases and other innovations as an alternative. Today, these companies have acquired the likes ofAriba,Concurand NetSuite for tens of billions of dollar and committed to the winning architecture —multitenancy.
+
+Withserverlessarchitecture, we are seeing a wholenewrange of applications emerging. When it comes to IoT, mobile apps and real-time big data,serverlessarchitecture can be a huge advantage.
+
+Amazon Lambdais seen as a clear leader in this space, while other products likePubNubBlocks andAzure Functionsare also building on the same idea. In a few years, every cloud platform will have to support some form ofserverlessarchitecture.
+
+Just like the move tomultitenancy, you can’t take your existing code and simply make itserverless;you must rethink your applications and rewrite to use thesenewframeworks.
+
+Multitenancyallowed SMBs to get enterprise-grade applications for CRM (Salesforce), accounting (NetSuite), marketing (Marketo), hiring (SmartRecruiters), etc. at prices they could afford.
+
+With the deluge of data, especially real-time data, it is cost-prohibitive for many use cases to process it and act on it.Serverlesscomputing makes it much more inexpensive by charging you only for the fraction of the time it takes to run your functions.
+
+I look forward tonewapplications being unleashed by thisnewarchitecture and business model over the next 10 years. What Salesforce- and NetSuite-sized companies will thisnewarchitecture make possible?
+
+Disclaimer: Anshu Sharma is an investor in PubNub, a former executive at Salesforce and an all around unapologetic optimist on public cloud. His opinions reflect these and many other biases.

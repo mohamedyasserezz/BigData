@@ -1,0 +1,25 @@
+Mogees Play turns any surface into a music and gaming device
+
+The Mogees Play is the latest product from London-based startupMogees. Based on the same contact microphone and machine-learning technology first seem in the company’s original product, the Mogees Pro, it promises to turn any surface into a music and gaming input device, bridging the physical and digital worlds in new and delightfully creative ways.
+
+Once again, Mogees is launching aKickstarter campaignto brings it wares to market, but unlike many crowdfunding campaigns, which I tend to be very hesitant to cover, the startup has form in shipping product and has to date sold thousands of Mogees Pros. The Mogees Play hopes to build on that legacy with a more mass market device that fulfils founder Bruno Zamborlin’s mission to introduce non-musicians to the technology and encourage everybody to begin making music and exploring their creativity right out of the box.
+
+The Mogees Play will ship with three iOS apps: Mogees Pulse, a rhythm game, which is a little reminiscent of Guitar Hero (and has the backing of Guitar Hero founder Charles Huang); Mogees Jam, a recording studio in your pocket that enables you to build rhythms, melodies and loops using the acoustic properties of any object a Mogees Play is attached to; and Mogees Keys, which is a ‘smart’ keyboard to trigger melodies, arpeggios and chords using the Mogees Play.
+
+“The vision with Mogees Play is to open up music – playing it, making it – to a much wider audience, including gamers and people who are just starting out,” Zamborlin tells me. “You don’t have to have a musical instrument or controller or joystick or whatever, you just need a Mogees Play and a smartphone and you can play wherever you want using whatever you want: like a park bench, or a coffee cup, or even an airplane if you have one nearby”.
+
+(The Mogees team recently attached 6 Mogees Pros to an airplane to turn it into one giant music instrument.)
+
+Last week I saw a demo of all three apps in action and, frankly, it was one of those ‘why hasn’t anybody done this before’ moments. Each utilises simple contact microphone technology — or vibration sensor, as it might more accurately be called — but it’s the startup’s machine learning and modelling software that brings it all to life.
+
+The latter enables the software to quickly learn to interpret vibrations picked up from any surface the device is attached to, such as a coffee cup, desk, or any object that creates enough vibration for the Mogees Play to sense. In a musical capacity, this means a Mogees Play can interpret note on and off information, but also things like velocity (how hard you strike a note) to trigger sounds.
+
+“When you’re a 10 year old kid, you probably have more creativity than ever in your life, but very often the process of music making is not seen as a fun, creative process but rather a rigorous discipline that needs to be studied diligently. I wanted to break this paradigm,” explains the Mogees founder.
+
+Zamborlin also tells me that music is a perfect use-case to advance machine learning as it has its own very specific constraints, including being intolerant of latency. “Music technology is an ideal test bed for human-computer interaction, because instruments need to react to our actions in real-time and yet still be extremely expressive,” he says.
+
+In addition, the team have worked hard to reduce the time it takes for the Mogees Play to adapt to a new surface or user’s input. After all, a musical instrument wouldn’t be very playable if it didn’t respond in the way expected each and every time, once you’ve mastered it, of course.
+
+But in effect, regardless of application, the Mogees Play turns any surface into one that can interpret touch (in its own unique way) and as a result the possibilities are endless. A casual rhythm game and two simple music apps are likely just the start. Not least because later this year the startup will open up its API.
+
+“The Mogees technology has now reached a surprising level of accuracy and expressivity, we can capture properties such as velocity, timbre and length of a gesture with incredible accuracy,” says Zamborlin. “Therefore we’re opening up the API because we’ve got a really engaged community and we know that they’ll come up with loads of amazing ideas we’d never thought of for the Mogees technology. We want to allow everyone to turn everyday objects and the world around us into a tactile interface for creativity”.

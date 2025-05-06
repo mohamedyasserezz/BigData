@@ -1,0 +1,31 @@
+Yes, the U.K. now has a law to log web users’ browsing behavior, hack devices and limit encryption
+
+2016 has been a very good year to bury very bad news. And political distractions perhaps explain whya bill that has been described as the most extreme surveillance legislation ever passed in a democracyhas today passed into law in the U.K., never having faced substantial opposition.
+
+It will come into force next year, afteremergency surveillance legislationput in place by the prior coalition government, with even less parliamentary scrutiny than the IP bill was afforded, sunsets at the end of December.
+
+https://twitter.com/mattburgess1/status/803550239651233793
+
+The Investigatory Power Act, as it now is, creates an updated framework for state surveillance capabilities, enshrining in law investigatory powers that had previously been authorized in the shadows via a patchwork of obscure legislative clauses.
+
+Some capabilities were only avowed in parliament in recent years, following the 2013 Snowden disclosures — and deemed by the U.K. intelligence agencies’ own oversight court to have beenillegally operated as a result.
+
+The new law also brings in a new requirement: that communications service providers harvest andretain logs of the digital services accessed by all their users for a full year. This log is accessible to awide range of government agencies, not just law and intelligence agencies. Access to the log does not require a warrant.
+
+While combating terrorism has been the government’s explanation for the need for the surveillance powers set out in the legislation, they have never adequately explained how a senior exec working in fraud and error services at the Department for Work and Pensions,for example, might be actively engaged in a War on Terror.
+
+Privacy concerns are not the only problem either. A massive security concern is what the legislation implies for encryption — given it hands U.K. authorities the powerto require a company to remove encryption, or limit the rollout of end-to-end encryption on a future service, raising the specter ofbackdoors damaging trust in U.K. companies— as well as risking the security of user data.
+
+The law also sanctions state hacking of devices, networks and services, includingbulk hackingon foreign soil. And it allows the security agencies to maintainlarge databases of personal information on U.K. citizens, including individuals suspected of no crime. Questions remain over how information harvested by domestic intelligence agencies might be shared with foreign equivalent agencies in other countries (and thus vice versa, as a workaround for any domestic surveillance limits).
+
+The government claims a “double lock” authorization process that loops in the judiciary to signing off intercept warrants for the first time in the U.K., along with senior ministers, bolsters against the risk of the “most intrusive investigatory powers” being misused. Critics question this, arguing judges will just be rubber-stamping warrants on process, not interrogating the proportionality of the substance.
+
+The oversight court for U.K. intelligence agencies also has yet to rule on the proportionality of the law’s so-called bulk measures — it’s due to do that next month, when it will also be ruling on the legality of the powers with the wider European Union context. Rather too late to be factored into the IP bill’s parliamentary scrutiny, however.
+
+Challenges to the legislation at the European level are likely, given European courts have ruled against bulk collection. Although the U.K.’s future within the EU is now crowned by a Brexit question mark — so whether U.K. law will be bound by any European legal judgments condemning the new surveillance law remains to be seen.
+
+Apetition to parliament to repeal the IP Acthas already passed more than 140,000 signatures — exceeding the 100,000 signature threshold where parliament must consider debating a petition. But given the lack of debate in parliament the first time round it’s hard to see the majority of MPs who backed the bill suddenly waking up to the fact they sleepwalked into a surveillance state…
+
+The dreaded & dreadful#IPBillwas given Royal Assent today. The security services now have unprecedented powers to snoop on us legally.
+
+— Jenny Jones (@GreenJennyJones)November 29, 2016

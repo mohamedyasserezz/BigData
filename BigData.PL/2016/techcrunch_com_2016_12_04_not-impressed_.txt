@@ -1,0 +1,9 @@
+Disrupt Hackathon app Notim.press/ed algorithmically detects fake news
+
+Fake news is a moving target. Greedy publishers constantly start new websites of deceit, preventing manual blacklists from keeping up. That’s why one TechCrunch Disrupt London Hackathon team took an algorithmic approach to detecting fake news.
+
+Notim.press/ed(a clever URL that reads “Not Impressed”) lets you enter a URL and instantly see a site’s Alexa top websites ranking, sentiment analysis, bounce rate, domain location, and a headline clickbait detection machine learning score. If you see a low Alexa rank, negative sentiment analysis, high bounce rate, domain in the middle of nowhere, and a clickbait alert, you could infer that a link contains fake news.
+
+Notim.press/ed’s team is also working on a Chrome plugin that puts a truthfulness score right on Google search results so you know if something’s likely fake before you click.
+
+Tools like Notim.press/ed could empower Internet users to avoid fake news rather than waiting for big platforms like Facebook, Google, and Twitter to get their act together and crack down on it. Hopefully when they do, they’ll figure out a way to automatically flag freshly created fake news sites, rather than relying on blacklists that become outdated.

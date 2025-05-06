@@ -1,0 +1,47 @@
+The Almond 3 router actually makes it enjoyable to set up a Wifi and home automation network
+
+Wifi is hot again.
+
+Recently products like Google Wifi, Eero, and now the Almond 3 are being released with the goal of changing the Wifi experience, something that really hasn’t really been tried since the technology became widespread in the late 90s.
+
+These devices all promise a few things:
+
+First, mesh networking that actually works (previous systems, including Apple’s Airport Express, never really did a great job expanding a network throughout a big house).
+
+Next, easy setup and configuration – which means you usually use a phone app to do setup, and don’t have to deal with the awful IP address-based interfaces that routers provided by your cable company use.
+
+And last, some sort of home automation features – whether they come built in or activated via a 3rd party solution like Apple HomeKit or Samsung SmartThings.
+
+Over the past few days I’ve had a chance to play with one of these systems, theAlmond 3bySecurifi. The router is $149.99, or $399.99 if you want a package of 3 (if you want to create a mesh network throughout your home). It’s also super small – about the size of an Xbox controller – which is a nice relief from bulky routers that take up a ton of counter or shelf space.
+
+Set Up
+
+First, let’s talk about setup, because if you’ve ever set up a Wifi system you know how awful it is – navigating to rouge IP addresses or trying to use iOS apps that lose connection halfway through the router setting up.
+
+The Almond 3 avoids these frustrating setup methods by allowing you to set it up via an integrated LCD touchscreen on the router. After plugging it into the modem you go through a set-up flow that includes setting the network name, password, guest networks, etc.
+
+There’s an onscreen keyboard that pops up so you can type right on the router, and it even has a stylus that slides into the back if you want to use that to type. Sure, make all the jokes you want about a router having a stylus, but it worked – and that’s really all that matters. The best part about setting up a router right on the device itself is that you don’t lose connection during the process – normally when you set up a router from a phone it always loses connection at least once, usually after you rename the network. It’s not the end of the world but definitely is a hassle, and Almond 3 lets you avoid that.
+
+Home Automation
+
+One of the big features touted by the Almond 3 is that it has built-in home automation and device management – meaning you don’t need to use a 3rd party solution like Apple HomeKit. Securifi sells its own sensors that work with the router – like a contact sensor to sense if a door is opened or closed, a small doorbell-sized button that can be used for really whatever you want, and an IOT switch for your outlet allowing you to turn on and off plugs remotely.
+
+I tried all of these devices, and they worked really well. Pairing is done via a button on the router’s touch screen, and worked the first time – which is really all you can ask from these types of home automation devices which are known to be notoriously hard to pair and set up.
+
+They (and the cloud network that Securifi runs them on) are also very responsive. I set up the button accessory to make a doorbell sound on the router when pressed (Almond 3 has a built-in speaker too) and it worked with basically no delay. Same with turning on my lights every time the door contact sensor was opened or closed – near instantaneous results, and no connection drops or delays in the few days I’ve been using them.
+
+Another cool feature – you can get push notification sent to your phone the second a sensor is triggered – like your door opens. These notifications are also nearly instantaneous, even when not on your home network.
+
+Within Almond’s iOS app there is an screen that lets you toggle these devices manually (to turn your lights off, etc) as well as create IFTTT-like rules – turn on or off the light when the door is opened or closed, etc. There is also an Almond Channel on IFTTT itself, if you prefer to use that. Almond 3 also works with 3rd party IOT devices like Nest and Phillips Hue lights, and also supports Amazon Alexa commands.
+
+Mesh Networking
+
+The mesh networking feature is pretty standard – you can pair additional Almond 3 routers and put them in different rooms. Pairing a second router was easy – you plug it in, and tell your main router you want to add a second (or third). Everything else happens automatically.
+
+I live in an apartment not a house, so it’s hard to really test how good the mesh networking is. But I did notice faster speeds in my bedroom (where I put a second Almond 3) when I was on Almond’s network compared to my normal Verizon router (which I don’t have any extenders for and is in another room).
+
+Overall
+
+Overall, you should definitely consider Almond 3, especially if you are eventually going to get into the world of IOT and connected home devices. In about 20 minutes I had 4 devices set up around my house – it was super simple.
+
+If you’re not and are just looking for a good overall router, Almond 3 still may be worth it considering how easy the setup is. But if you’re having your cable guy install your router anyways, and don’t really care about tinkering with setups and configurations, you’ll probably be fine with just a regular old router/modem combo.

@@ -1,0 +1,39 @@
+Wazer brings water jet cutting from heavy industry to mass market
+
+On the TechCrunch Disrupt Battlefield stage today,Wazershowed off its $6,000 desktop water cutter for the first time. Entering a market where it competes against huge industrial units costing upwards of $100,000, the company is launching a Kickstarter campaign to make water jet cutters accessible to creative souls, hackers and engineers everywhere. A great idea for people who have requirements where lasers just don’t make the cut.
+
+In forcing the price tag down into the reach of advanced hobbyists, maker spaces and small prototyping labs, the company is following in illustrious footsteps. Wazer is gearing up to do whatGlowforgedid for laser cutters and whatFormlabsdid for SLA 3D printing: making available to everyone high-end fabrication tech that has hitherto been reserved for heavy industrial users with deep pockets.
+
+“Laser cutters are fun,” says Nisan Lerea, CEO and co-founder of Wazer, “but only if you want to cut paper, wood, or certain types of plastic. If you want to do real manufacturing, you need to look elsewhere. Water jet cutters are the only way to cut metal, glass and stone.”
+
+The water cutter works by using a tightly focused jet of water and abrasive particles (fancy sand, basically, known asgarnet).
+
+The water is pressurized by a pump and garnet is added into a chamber right before the water is ejected out of the nozzle. The company is reluctant to confirm what pressure the machine is operating at “until our patents are granted”, but confirmed that it’s lower than the industrial machines the company competes against.
+
+Because the pump is the noisiest part of the machine, Wazer cleverly designed the machine so it can be placed in another room.
+
+“Wazer began as a senior design project at Penn Engineering,” says the company’s co-founder Matthew Nowicki. At the university, the founders were part of a team building race cars for fun and profit. Let’s be honest: mostly for fun. The team built the first small-scale water jet prototype and then wondered whether perhaps the project had legs beyond an academic experiment.
+
+The company was embraced by theHax accelerator, who gave them a chunk of cash and a ton of manufacturing know-how in the process. The team spent much of the past year in Shenzhen to build prototypes and get the product ready for its Kickstarter launch.
+
+“For the Kickstarter campaign, we expect to sell in the hundreds of units,” Lerea says, revealing that he doesn’t believe that water cutters will be as wide-spread as other fabrication techniques. While the team are the first to admit that water jet cutting technology is a niche product, they do have a clear picture of who might adopt the technology. “We hope that making the technology more readily available will help educate people who aren’t necessarily that familiar with water jet cutting, too.”
+
+“The problem with 3D printing,” says Lerea, “is that you’re making something out of relatively fragile plastic. With water jet technology, you can create prototypes out of the materials that will be used in the final products. If you need limited production runs, you can even do small-batch manufacturing with this machine, which doesn’t work with most 3D printing technologies.”
+
+The company showed me a number of things made using its prototype machines, showing off how makers can work with materials that might otherwise be inaccessible to them.
+
+Wazer test users have used the cutter to create anything from bicycle parts to knives, as well as creatively cut tile work and jewelry. And, as the company showed on YouTube earlier this year, the machine can cutmeatinto interesting shapes, too, should that be your thing.
+
+The TechCrunch Disrupt Battlefield judges grilled the company on whether it actually has enough markup in order to make money.
+
+“We are making money on the machines for sure,” says Lerea, keeping his cards close to his chart, sidestepping the question elegantly.
+
+“Our target audience are the people who would otherwise be shaping materials by hand. One of our test users is a jewelry maker who creates beautiful pieces out of coins,” says Lerea, explaining how people who are currently spending hours at the time with a file ora rotary toolcould save a tremendous amount of time. In addition to speed, a waterjet cutter adds repeatability and the ability to control the cuts by computer. “Each piece she makes costs $5-600. The problem is that it takes her forever to make each piece. We can help her make more jewelry with better consistency, faster.”
+
+The company is still doing the final design-for-manufacture prototypes and are working on a piece of software to make it easier to upload your shapes to be cut to the machine. It accepts anyDXForSVGfile.
+
+To start the cutting process, the user imports the file into Wazer’s software, then configures a few things, such as the material, the material’s thickness and its location on the cutting bed.
+
+“We have put a lot of work into ensuring that the cutter is easy to use,” Lerea explains, admitting he is eager for people to see what the machine can do. “We have been working on this for a long time. We can’t wait to see what people will create.”
+
+The company is launching its Kickstarter campaign in the next couple of hours, so if water squirting at high pressure through tiny apertures gets your heart a-racing,here’s your chance to get in at the ground floor. There’s some good early bird discounts available, too, but you’ve got to be quick!

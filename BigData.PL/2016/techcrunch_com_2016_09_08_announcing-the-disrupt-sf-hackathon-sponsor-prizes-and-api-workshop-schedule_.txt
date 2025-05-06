@@ -1,0 +1,153 @@
+Announcing the Disrupt SF Hackathon sponsor prizes and API workshop schedule
+
+This year’s TechCrunch Disrupt SF Hackathon is set to be the best yet. We’re a few days away from the main event and are giddy with excitement. Check out the sponsor prizes and agenda of events to prepare yourself for an amazing hackathon experience.
+
+TechCrunch CrunchBase WordPress Collaboration
+
+Amazon Echo
+
+Team with the ‘Best Voice User Experience Using Amazon Alexa’ will win Amazon Echos for the whole team.
+
+Braintree
+
+Braintree makes it easy to accept payments in your app or website. Get integrated quickly using our guides and select from our range of client SDKs (available for iOS, Android, and web) and server SDKs (available in Ruby, Python, PHP, Java, .NET, and Node.js) to help you collect payment information and run transactions.
+
+$5,000 will be awarded to the hacker or team with the most innovative integration of Braintree’s SDKs.
+
+Cisco
+
+Cisco Spark is about making work easier – connecting teams and apps to improve productivity, deepen customer engagement, or solve business problems. Start a conversation or team, send messages, post content, call anyone from anywhere, or share your screen. Build an innovative and working solution, integration or bot using our Spark APIs. You can use our open APIs in tandem with other APIs to create something unique!
+
+Prize:
+
+1st Place — Best use of Cisco’s cloud collaboration APIs: DJI Phantom 3 Standard drone for each member of the winning team (up to 5 members).
+
+2nd Place — Best use of Cisco’s cloud collaboration APIs: Apple Watch for each member of the winning team (up to 5 members).
+
+Domain.com
+
+We’re awarding the team that best uses a .CLUB domain name for their submitted project. We’ll be judging on a variety of criteria, including the domain’s relevance to the project, the creativity and/or innovation of the project and domain, and the design of the project’s website.
+
+Prize: $5,000
+
+ESRI
+
+Best use of Esri ArcGIS mapping technology wins $5,000! ($2500 cash, plus $2500 valued ArcGIS Online subscription).  ArcGIS is the Location Platform for Apps. Quickly add maps/geo to your apps using Esri’s online services and SDKs. Develop in the API of your choice and deploy on any device. Sign-up for a free developer account at http://developers.arcgis.com using voucher, TCSF2016.
+
+Prize: $2500 cash, plus $2500 valued ArcGIS Online subscription
+
+Harman International
+
+Harman International is providing two different SDKs for the first commercial readily available hackable headphones (Everest Elite) and the first glance-able speaker to market (Pulse 2). The winners will be the teams (2) with the best overall use of Everest Elite SDK and the Pulse 2 SDK. Ready for some gear? One team member is required to register each person and join our Slack community: http://bit.ly/harmantc16.
+
+Prizes: Best Overall use of Everest Headphones SDK: Winning team receives up to 5 Everest Elite Headphones, Pulse 2 Speakers and Omni 10 Speakers. (value of $2,500) Best Overall use of Pulse 2 SDK: Winning team receives up to 5 Everest Elite Headphones, Pulse 2 Speakers and Omni 10 Speakers. (value of $2,500)
+
+HERE
+
+Participate in the HERE hackathon contest during TechCrunch Disrupt to bring location solutions to life.
+
+HERE has cross-platform APIs to solve real-world location problems: positioning, geocoding, routing, indoor mapping, traffic and more. As the leader in location intelligence, HERE allows developers to incorporate location services and IoT enhancements. The team with the best use of the HERE Location Platform wins $5,000 in prizes.
+
+Prize: $5,000
+
+IBM
+
+IBM Watson combines a number of cognitive techniques to build and train a bot – defining intents and entities and crafting dialog to simulate conversation. The system can then be further refined with supplementary technologies to make the system more human-like or to give it higher chance of returning the right answer. Watson Conversation deploys a range of bots via many channels, from simple, narrowly focused Bots to much more sophisticated, full-blown virtual agents across mobile devices, messaging platforms like Slack, or even through a physical robot.
+
+Prize: Win an Apple Watch Sport (each member of the winning, team up to five members) with the new IBM Watson Conversation Service.
+
+MapQuest
+
+Incorporate location-based functionality and build a geospatial-focused project across web, mobile web, native mobile and desktop. Leverage our core geospatial platform that powers MapQuest.com and our mobile apps, which are used by millions of users every month. The powerful geospatial platform includes mapping clients and web services including Directions API, Geocoding API, Search API and more.
+
+Prize: MapQuest wants to help our top team of hackers enjoy more out of life. Find your next adventure with $5,000 from MapQuest. You’ll receive $5,000 in gift cards to put towards your next vacation.
+
+Panasonic Avionics
+
+Winner receives $5000 for most creative and innovative use of Panasonic Avionics’ InFlight APIs; including the use of other Sponsor APIs with our framework.  Runner up team will receive tickets to Disrupt. All developers who use our APIs in the Hackathon will receive a commemorative T-shirt!
+
+Radix
+
+Win $5,000 by using a Radix Domain name for your hackathon project.Choose from .TECH, .STORE, .ONLINE, .SPACE, .SITE, .HOST, .PRESS and .WEBSITE– All Domains names are FREE for Hackathon Participants– Mention your domain name on stage during judging– Radix Domain should be the primary domain for hosting your project.
+
+Prize: $5,000
+
+SAP Hybris
+
+Graph LoVE – Load, Visualize, Extract.
+
+Use the power and flexibility of YaaS micro-services around commerce and customer profile graphs to react and interact with customers in a much more personal way. Create magic moments for consumers by understanding a customer’s motivation and intent, in real-time. Predict, Analyze, Conclude.
+
+Best use of Graph APIs. Maximum $5,000 worth of Amazon gift cards.
+
+Prize: $5,000
+
+SoftBank Robotics
+
+Leverage available SDK’s and the appropriate scripts for Pepper, the humanoid robots, to create compelling, interactive applications that could be used in real world environments
+
+Contest Eligibility:All participants in the SoftBank Robotics Hackathon must be proficient with Python, C++ and/or JavaJudging Criteria Categories:• Be creative! We’re looking for imaginative applications that delight users.• The application must interact with people by leveraging at minimum the following API’s: Animation, Dialog, and Tablet.• Preference will be given to additional API usage in clever and imaginative ways.• Declare an interesting use-case and show how your application solves it.• We’re are interested but not limited to the following areas where Pepper might be used: Retail, Hospitality, Entertainment, Education, Travel, and Health Care.
+
+Prize: 1st place – $3,000, 2nd place – $1500 & 3rd place – $500
+
+Twilio
+
+Prize: Pebble smartwatch
+
+U.S. Department of Commerce
+
+Use NIST’s Net Zero Energy Residential Test Facility (NZERTF) data to create either a data product with a viable business model that helps homes become smarter and more efficient or some visual analytics to extract meaningful insight. Build something that will further the impact or research into energy efficiency.
+
+Prize: Meet with the Secretary of the Department of Commerce, Secretary Penny Pritzker.
+
+Verizon
+
+Develop your hack using the ThingSpace IoT development platform at thingspace.verizon.com. Best use of Verizon ThingSpace Device Messaging APIs, Connectivity APIs or Personal Cloud Storage APIs in an IoT application wins:
+
+1st Place $3,000
+
+2nd Place $1,500
+
+3rd Place $500
+
+ZTE
+
+Win an Axon 7  for “Best Mobile Design” or a Spro 2 for the “Best Mobile Concept”
+
+Want to learn a bit more about the tools available at the hack? Take a deep dive into a few APIs in a classroom-style setting just after the opening of the hack on Saturday.
+
+2:00 PM | Track A | TechCrunch, CrunchBase, WP Automattic collaboration
+
+2:00 PM | Track B | Braintree
+
+3:00 PM | Track A | Panasonic
+
+3:00 PM | Track B | Cisco
+
+Saturday, September 10, 2016
+
+12:30pm – Registration opens (come fed or bring a brown bag lunch, beverages served)
+
+1:30pm – Hacking Kickoff and Opening Announcements
+
+2:00pm – API Workshops begin
+
+7:00pm – Dinner
+
+Midnight – Tamales and beer, courtesy ofDomain.com
+
+Sunday, September 11, 2016
+
+7:00am – Breakfast served
+
+9:30am – Hacking concludes and hacks submitted to wiki
+
+10:00am – General public welcome to enter to attend hackathon presentations
+
+11:00am – Hackathon presentations begin
+
+2:00pm* – TechCrunch and Sponsor awards presented
+
+*Final awards may be held earlier or later depending on duration of hack presentations.
+
+Please note, times are subject to change

@@ -1,0 +1,27 @@
+The future of front-end development is design
+
+Should we make our kids learn to code? This question was posed to me at a recent dinner party. As one of the only people in our social circle who has worked in and around software development for an entire career, I get this type of question often. My immediate response was a resounding yes, and I shared a few superficial reasons why the choice was so obvious.
+
+The conversation eventually moved on, but the question stuck with me. Maybe it was the phrase “to code,” which encapsulates such a massive spectrum. There will always be a role for engineers focused on the massive challenges required to build autonomous transportation, virtual reality and any other ambitious future technology that we will inevitably conceive, but I’m not so sure this is what my friends had in mind for their kids.
+
+If they’re envisioning a future where their kids code web and mobile apps, I question whether I made the right recommendation. Given the significant innovation in design tools and software development infrastructure, this type of coding is going to look dramatically different in the future. In fact, the line between design and development may no longer exist, resulting in fundamental changes to the skill set and teams required to bring a product to market.
+
+Over the past decade, the cost to launch a software product has decreased exponentially. For example, during the original dot-com boom, the cost to launch an internet startup was hundreds of thousands of dollars, due in large part to the capital costs of servers, internet bandwidth, software licenses and office space. Since then, cloud infrastructure (likeAmazon Web Services), developer tools (likeGitHub), open-source frameworks (likeRuby on Rails) and bespoke back-end services (likeAlgoliafor search) have all emerged to enable rapid digital product development at a fraction of the cost of even just 10 years ago. Today, if you have the time and the design and development skills, it is possible to build and launch a product for a few hundred dollars.
+
+While building new products has never been easier, creating products that users love remains a massive challenge. It requires a deep understanding of your intended users and a vision for how to deliver a delightful experience to solve their needs. It also requires a workflow that allows product teams to rapidly test, learn and iterate the product experience, the business model and the value proposition.
+
+Over the past several years, iterative product design has become mainstream. Key tenets of theLean Startup— especially the bias toward getting minimum viable products (MVPs) to market quickly, then learning from real customer feedback — have become widely accepted as a better way to build companies and products.
+
+A new ecosystem of tools has emerged to support these new ways of working, enabling product design teams to work collaboratively and more efficiently. Teams have moved from the archaic process of creating static designs in Photoshop to embracing a much more expansive toolset — ranging from collaborative design tools (likeSketch,Figma), dead-simple prototyping platforms (likeInVision,Marvel), user testing services (likeUserTesting.com,ValidatelyandLookback) and designer-developer collaboration tools (likeZeplin).
+
+All of these tools support one or many core aspects of a modern product design workflow, and nearly all are able to work seamlessly together. The net result: It has become exponentially faster to turn ideas into immersive prototypes that can be experienced, tested and validated before ever coding a product.
+
+Over the coming years, the delineation between “product design” and “front-end development” as separate functions will disappear. Many companies have already adopted this approach, hiring individuals (often referred to as Creative Technologists) who are skilled in product design and front-end web technologies, preventing any required hand-off to bring designs to life in code.
+
+This convergence is also happening in the sophistication of tools that product design teams use. It is only a matter of time before design and prototyping tools replace front-end development altogether, seamlessly producing a high-quality front-end code base for your framework of choice (React, Node or other).Squarespacehas already done this for basic websites.Webflowprovides a drag-and-drop environment for creating interactive content-driven websites.AtomicandOrigamiare doing some interesting things with reusable components and data.
+
+All of these are design-first tools, but many allow users to edit or add to the code produced to tweak and refine their products. Imagine where these and other tools might be in five years?
+
+This convergence of process, skill sets and tools will lead to several notable changes in product design:
+
+So, should our kids learn to code? I can’t argue against the value of every child having a working knowledge of software development. But there is a difference between coding foundational technology and front-end development — and the divide is growing. The latter is going to become extinct in favor of designers and design tools. Kids with an interest in building and delivering better experiences for consumers and businesses should double down on design and business instead of developing deep software development expertise.

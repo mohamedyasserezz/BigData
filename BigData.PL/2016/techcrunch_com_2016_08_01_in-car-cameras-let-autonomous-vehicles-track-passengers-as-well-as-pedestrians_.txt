@@ -1,0 +1,13 @@
+In-car cameras let autonomous vehicles track passengers as well as pedestrians
+
+Powerful sensors and software have made autonomous cars impressively aware of their surroundings — but it isn’t just obstacles, pedestrians, and other cars that a vehicle’s AI needs to watch out for. It also needs to know what’s going on inside itself, and researchers from Fraunhofer are hard at work making that happen.
+
+“We are expanding sensor technology to the entire interior,” said Fraunhofer’s Michael Voit, who manages the research group,in a company blog post. “Using depth-perception cameras, we capture the vehicle’s interior, identify the number of people, their size and their posture. From this we can deduce their activities.”
+
+There are plenty of benefits in a car knowing how many passengers it has, where they are, and what they’re doing. In case of emergency — a sensor failure, for instance — the car will know how long it will take for a driver to reach the wheel. If a kid in the back seat slips out of their seatbelt while mom and dad are taking a nap (the privilege of owning a self-driving car), they can be warned. In a collision scenario, the car could steer so that it is struck in an unoccupied quarter. Airbag deployment, too, could be adjusted to the size or position of a passenger.
+
+Of course, some of these things can be accomplished with existing tech — weight sensors and the like — but more and finer awareness of the passengers is still a worthwhile goal in autonomous vehicles. Work is progressing on identifying various actions and common objects as well — understanding that a person is reaching for the sun visor, or installing a child seat, for example.
+
+So far the cameras have only been installed in the R&D company’s driving simulator, but the plan is to put it into a smartened-up minivan for real-world testing.
+
+Fraunhofer is working with Volkswagen Group Research, Bosch, Visteon, and others on this “Intelligent Car Interior” project, and the whole thing is funded by grants from the German government.

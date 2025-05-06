@@ -1,0 +1,11 @@
+Watch Nvidia’s AI car drive itself using only what it learned from human drivers
+
+[youtube https://www.youtube.com/watch?v=-96BEoXJMs0]
+
+There are multiple approaches to tackling self-driving; one is to program algorithms or rules that will tell a car how to behave in specific situations. Nvidia is using a deep learning approach, however, by providing its autonomous system with real-world data from humans drivers and letting it learn how to drive on its own – like a supercharged, AI-powered teenager getting behind the wheel using only their experience of being a passenger to guide them.
+
+Like the average North American teenager, Nvidia’s test car (adorably named BB8, which must be an homage to Star Wars’ BB-8) began its learning in parking lots, navigating driving lanes demarcated by traffic cones. It then graduated to roads, and manages even tricky things like blind corners with seeming aplomb.
+
+The demo video illustrates a few potential advantages of this approach: The system was trained in California but has no problem with test rides in New Jersey, even though the road and driving conditions are different; and it can handle driving even when marked lanes disappear, and at night, again seemingly without issue and without having been provided specific algorithmic rules for negotiating these scenarios.
+
+Nvidia says this project was completed entirely on its own, independent of any carmakers, and that the next step is to continue training the system to make it smarter over time.

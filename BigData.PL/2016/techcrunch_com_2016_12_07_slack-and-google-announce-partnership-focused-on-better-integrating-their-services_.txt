@@ -1,0 +1,25 @@
+Slack and Google announce partnership focused on better integrating their services
+
+Slack announced a strategic partnership with Google Cloud this morning, which will bring a number of new features, including deeper integrations with Google services, to its collaboration platform for teams. Among the additions are new bots for notifications, as well as support for Google’s recently launched Team Drives, document previews, permissioning and more.
+
+The move comes at a time when Slack is facing new competition fromMicrosoftandFacebook, who have each launched their own rival products in recent weeks.Microsoft Teamsis basically a Microsoft Slack clone, but has the added advantage of being able to tie into Microsoft’s suite of services, including Skype and Office 365.
+
+Slack, as an independent company, doesn’t have the same, native ability connect deeply to other products and services that a business may use – instead, it relies on third-party integrations. Google and Slack have already worked together on that front, though not via formal arrangement like this.
+
+Google Drive was one of the first Slack integrations and remains one of the most popular, says Slack, noting that a Google Drive file is imported in Slack approximately 60,000 times every weekday. Or, that means a file is shared every 1.4 seconds.
+
+Now, Slack says it will work with Google developers on building further integrations for their overlapping customer base.
+
+That begins with the rollout of the integrations announced today, but will expand to include other features in the future.
+
+One of the new integrations is a Google Drive Bot that will post comments and requests for access into Slack. Recipients can then approve or reject requests from Slack, or settle comments, or they can launch Google Docs to work with the files directly.
+
+Slack will also allow users to preview Google Docs files in the app itself, and, when shared, Slack will check the permissions on the file. If you’re sharing with people who don’t have access currently, Slack will prompt you to update your sharing settings.
+
+Slack will work with Google Team Drives, too, if the company is usingthat newer service.Files shared in Slack will be uploaded automatically to the Team Drive, and Team Drive updates are also shared back to Slack.
+
+Finally, admins will be able to provision Slack for their company through an integration with the G Suite (formerly, Google Apps for Work) dashboard. This will work with both new and existing teams.
+
+“Google and Slack share the same vision for the future of work: that smart software could bring teams together and make all of their work and conversations seamlessly available in one place,” writes Nan Boden, Head of Global Technology Partners, Google Cloud, in a blog post. “The result is that teams can move faster and more efficiently,” Boden said, adding that Google will also be helping Slack take advantage of Google’s technologies to scale its business.
+
+The new integrations are being announced today, as a look as what’s in store for Google and Slack customers, but will be rolled out over the first half of 2017.

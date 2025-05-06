@@ -1,0 +1,15 @@
+Whisker sensors could control the robots of the future
+
+Rats and other whiskered animals use senses that we don’t yet possess. In addition to being able to run mazes and lick our faces to confirm we aren’t covered in BBQ sauce, scientists have confirmed that some animals use their flowing front whiskers to sense wind position, a technique that could be used in future direction-sensing robots.
+
+A team of students working at Northwestern’s McCormick School of Engineering have found that rats “use their whiskers to help locate airflow sources.” While this seems like common sense, there has been no way to prove this until now.
+
+During the trials some of the rats were given a painless whisker haircut, a move that resulted in a 20 percent decrease in performance. The rats could have used any sense data to perform the task — from feeling the wind on their fur or sticking their little rat noses into the wind — but it was clear the whisker usage was far better at the task.
+
+“The rat clearly uses more than one cue,” said study author Chris Bresee. “But rats still choose to rely heavily on their whiskers, which suggests that whiskers facilitate wind-sensing even when wild rats explore naturally.”
+
+The team is working on artificial “flow sensors” that can be added to robots, creating bendable systems that vibrate in the wind. Receptors at the base of the whisker can then be read and translated into location data. This means future robots could use these sensors to read their positions, sense their speed or even move toward high or low pressure areas.
+
+“Estimating the structure of airflow is particularly important when locating an odor source,” said Professor Mitra Hartmann. “And odor localization is important for finding explosives, chemical spills, and biological agents.”
+
+Not bad for some foof.

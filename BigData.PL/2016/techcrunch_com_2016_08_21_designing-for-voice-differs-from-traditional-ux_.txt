@@ -1,0 +1,43 @@
+Designing for voice differs from traditional UX
+
+Two words: “all set.” People say them every day — after the waiter delivers food, when finishing a customer service call or before launching a rocket into space. (Or so I imagine.)
+
+These two words are just fine in the context of real life, human-to-human interactions. They’re also covered as a feedback loop in traditional UI design, where we can create a button that says “Done” or “Save” and know exactly to which touch point people are referring when they tap it.
+
+In human-to-robot interactions, however, that’s where things get tricky. Because when people say “all set,” we have to know if they meanright now(complete the use case for this interaction only) oroverall(end the session completely and close the skill).
+
+How we react to those two little words — and the universe of similar phrases a person can say — makes the difference between intuition and ignorance. And because our goal as designers is to remove all friction, this is a challenge of epic proportions.
+
+Fortunately, plenty of nerdy people into data + design (me included) are absolutely thrilled to take it on.
+
+One of the key ways designing for conversational user interfaces (CUIs) differs from graphic user interfaces (GUIs) is that use cases are necessarily constraining.
+
+Because CUIs are voice-based interactions between a customer and a machine that’s learning to be human, we have infinite possibilities of what the human will say and need to design for all of them. How is this even possible?!
+
+While we may not be able to predict every potential rabbit hole, we need to at least design an infrastructure that mimics how conversations work and are contextually driven.
+
+However, human-to-robot interactions aren’t so free-form and deeply knowledgeable (though one day they will be, which is ultra exciting). That’s why if a virtual assistant (VA) asked, “Do you need anything else?” rarely would you answer with something like “Yes, tell me the color of your dog’s eyes,” or “Remember when Jon Snow [insert spoiler here]?” unless you were showing off to your friends or wanting the VA to fail for fun.
+
+Given this, we can start designing for a breadth of possibilities that are most likely to follow our use case — and that’s key here: Start with a use case, a reason for interacting in the first place. When we know that, we’ve got a framework to design from and measure against, retrospectively and in real time. We can design to say “If [constrained number of input statements] then [related output statements].” Then see how often each variable is returned and when.
+
+That’s a very tight and unnatural framework though — one that doesn’t answer the “why” very well. That makes context key to transforming a utility into an actually delightful experience.
+
+Without visuals or animation to introduce fun, we only have our words. But that’s the beauty of CUIs — there is a gigantic world of opportunity to explore. And if we are learning from the use cases we’ve designed in one, then we can more quickly nail it for different kinds of people.
+
+“Nailing it” looks different depending upon the context of the use case, and, more importantly, the person with whom we’re interacting: The one, single human being in real life, talking to us via some newfangled hardware and software mashup.
+
+So that’s where context reigns supreme. For example, if we know that you’re the kind of person looking to build a more personal and trusting connection, we can respond accordingly with more in-depth, conversational language and insights. But for the kind of person who just wants straightforward answers and that’s it, we’d totally blow it by going that route with our language.
+
+Knowing who you, the user, are — and your gloriously paradoxical, constantly evolving brain, chock full of patterns and anti-patterns alike — enables us to design foryou.Not just you as a [insert wide-sweeping demographic data and generic percentages with labels], but actuallyyou.
+
+Your words are raw data that teaches us what you want from us, and your behaviors — like did you complete a flow, or where did you drop and pick back up again, and when — round out that picture. We can more fully understand your context in life and, as a result, refine your experience to be better and better. That is, the more you keep talking and interacting, the more we keep learning.
+
+If we don’t go from use case to context quickly — at the speed of machine-learning-meets-humanity — then you’ll stop interacting with us, and we’ll stop learning. After all, in the world of CUIs, we need to swap in and out of different modes of interaction in real time, responsively, just like in a conversation with a friend in real life.
+
+In this way, conversations don’t follow a hierarchy like UI on a page or navigation across many pages. They’re more like search behavior; input, results, pogo-stick in and back up, only go deep if we’ve found value (or got lost in reverie momentarily). That requires us to design systems at the atomic level; to ensure every single statement (if not the words individually themselves) is tagged for the hypothesis in which it was created.
+
+That is, to say “this word/sentence works for [these kinds of people] looking to do [these kinds of things].” In a conversation between a human and a robot, the robot needs to know the human, and have the language and responsiveness to anticipateandreact progressively and repeatedly, from moment to moment. Otherwise, it’s just not a natural conversation.
+
+When we put all of this together in a meaningful way, I imagine it’ll look like a tennis match. But not just any tennis match: a super dynamic one with Serena Williams. She’ll serve and sometimes totally nail it with a single swing; DONE. Other times we’ll watch a captivating back-and-forth unfold before our eyes until someone brings the volley to a close by reading the play and exercisingjust the right judgment, in a fraction of a second.
+
+And when that happens, we’ll really know what “all set” means.

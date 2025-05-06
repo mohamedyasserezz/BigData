@@ -1,0 +1,17 @@
+VMware AirWatch announces support for smart glasses
+
+Turns out Dreamforce isn’t the only enterprise conference going on this week. VMware is also holding its atAirWatch Connect conferencein Atlanta, and today it announced support for enterprise smart glasses on the AirWatch enterprise mobility management platform.
+
+Smart glasses, whichare essentially computers that sit on your face, haven’t found widespread usage quite yet, but the market is expected to grow to 16 million units by 2020, according to data from Gartner analyst Angela McIntyre.
+
+The deal puts agreements in place to work with some of the leading providers of smart glasses includingAPX Labs,Atheer,Intel,ODGandVUZIX Corpto help companies using these devices to streamline onboarding, connect the devices to company networks and deploy applications that run on the smart glasses.
+
+One of the things holding back more widespread use of these devices in the enterprise could possibly be a lack of management tools for IT to manage them the way they do other devices inside the organization. Brian Ballard, CEO of APX Labs thinks this agreement could be a big step forward in helping mainstream these devices in the enterprise.
+
+“Having wearable management now built into the VMware AirWatch Enterprise Mobility ManagementTM platform is a huge step forward in removing barriers to large scale adoption across the type of global customers we work with, and that’s paramount to not only our growth, but the growth of the entire industry,” Ballard said in a statement.
+
+These types of mobile devices could include computers worn on your face like Google Glass or augmented and virtual reality scenarios, depending on the requirements. They could be particularly useful in places where it’s difficult or dangerous to use your hands, and the computer could project instructions on what to do next, and even show you how to do it.
+
+It’s still very early days for these types of devices in the enterprise, and while big companies like GE and Boeing are experimenting with their usage inside their organizations, a deal like this could help push the industry forward and take it out of the realm of experimentation and help push it into the mainstream.
+
+It’s worth noting that Microsoft Hololens is noticeably absent from this announcement. That could be because initial support coming later this quarter will only involve devices running Android.

@@ -1,0 +1,169 @@
+How Facebook News Feed Works
+
+This is the ultimate guide to how Facebook chooses what to show in your News Feed, and how you can get your content seen by more people.
+
+Understanding how the News Feed works is tough because the algorithm is always changing. So TechCrunch launched this research project for today’s 10th anniversary of News Feed, interviewing Facebook’s team members, compiling the company’s announcements, and reviewing a decade of our coverage. The result is this helpful explainer, which we’ll keep updated as new changes roll out so it’s always accurate.
+
+Facebook’s objective is to select the most relevant and engaging stories to show in the News Feed. It wants to choose the best content out of several thousand potential stories that could appear in your News Feed each day, and put those in the first few dozen slots that you’ll actually browse through.
+
+These stories get ranked and shown in order of importance, from big stuff like your sibling getting married or a news article that 10 of your friends have shared, to the average links shared by brands to their websites, to boring stories like a distant acquaintance RSVPing for an event.
+
+Facebook prioritizes stories you’ll Like, comment on, share, click, and spend time reading, which we’ll refer to as “engagement”. Facebook also runs both online surveys and offline focus groups to get more feedback about what stories people think should appear.
+
+The more engaging the content, the more you’ll come back to Facebook, and the better it can accomplish its mission of connecting people while also earning revenue from ads shown in News Feed.
+
+Over time as more people and Pages join Facebook and each shares more content, there’s more competition for the limited available space in the News Feed. While people have increased the amount of time they spend on the News Feed over the past 10 years, viewership hasn’t grown as fast as the amount of stories shared.
+
+This causes a natural decline in the reach of what’s posted to the News Feed, in terms of the percentage of people who see a story out of everyone eligible to see it. This is why Facebook Pages see the percentage of their followers who see their content shrinking over time. It’s an inevitable result of people sharing more frequently, rather than some conspiracy of Facebook’s to force businesses to buy ads.
+
+The best way for you to counteract this decline of reach for your own content is to learn what Facebook’s algorithm prefers.
+
+So how does Facebook’s algorithm choose what appears in what order? It assigns each story a personalized relevancy score that’s different for each person that sees it, and puts the most relevant stories first. The algorithm takes into account thousands of different signals. But here are thefour main factorsthat decide a story’s personalized relevancy score, and therefore its visibility to that user.
+
+Who Posted It– The more you’ve interacted with a post’s author in the past, the more interested Facebook thinks you’ll be in their future posts. This interaction could be engagement such as Liking or commenting, but also clicking or slowing down to read their posts, visiting their Page or profile, tagging them or being tagged together in posts or photos, and many other actions on Facebook. This is why you don’t see post from old friends or Pages you haven’t interacted with in years.
+
+How Other People Engaged With The Post– The more that other people have engaged with a particular post, the more likely that Facebook will show it to you too. Sometimes people and Pages post boring things few interact with, so it lets them sink into obscurity. But if a high percentage of people who do see a post at first do engage, Facebook knows it’s interesting and keeps showing it to more people.
+
+What Type Of Post Is it– The more that you typically engage with a certain kind of post (status, link, photo, video, event, job change, content from another app), the more Facebook will show you posts of that type. Different people enjoy different kinds of posts. I might love reading news articles, you might love watching videos. Facebook matches people to post types so if you never watch videos, you won’t see as many.
+
+When It Was Posted– The more recently a story was posted, the more likely you are to see it. However, Facebook also detects when you last checked the NewsFeed, and will rank older, good posts higher if you haven’t logged in since they were posted and haven’t seen them. Check every few minutes or hours, and Facebook will prioritize very recent posts. Go offline for a week and Facebook might surface a big story like your best friend having a baby even if it was posted 5 days ago.
+
+Combined, these factors have a heavy influence on how high up in the News Feed a post appears. Over time as you interact with the News Feed, Facebook learns what you care about and evolves that understanding if your behavior changes.
+
+There are also several other significant factors that determine what you see in the News Feed, though not as heavily as those above
+
+How Many Others Have Posted the Same Thing– Facebook creates highly-ranked aggregations of posts when lots of friends or Pages post the same thing. If a dozen friends have all posted the same news article or video, Facebook assumes it’s a big deal and displays a “Josh Constine and 11 other friends shared…” story higher up in the News Feed.
+
+New Facebook Products– When Facebook releases a new product such as Live video or Slideshows, the company needs to test how much people want to interact with it. It may initially show too many or too few News Feed stories about the product until it receives enough feedback to learn the appropriate level of visibility.
+
+Facebook also injects ads into the News Feed. These don’t replace any naturally visible post but instead just get injected in between them, pushing down the ones that come after.
+
+Facebook uses a similar but separate ranking algorithm to determine whether you’re likely to be interested in a Page or business’ ads. Facebook limits the number of ads you see, and therefore wants to maximize the likelihood that the ones it shows you will resonate with you or get you to click, since that’s how it earns more money.
+
+The more Facebook knows about you, the more relevant the ads will be. If you fill out your profile and Like the Pages of things you care about, Facebook’s ads will become more personalized and relevant, informing you about products, apps, events, and more that you’re truly interested in.
+
+Facebook gives you both implicit and explicit ways to teach the News Feed what you want to see.
+
+Implicit signals come from your normal behavior on Facebook. If you keep Liking stories from a certain friend or about a particular topic, you’ll see more of them. If you always skim past someone’s posts or never click on the stories shared by a Page, you’ll see less of them. That’s why it’s important to actually Like things you like, and not pity-Like things you don’t really care about just to be nice to someone.
+
+Facebook also provides explicit tools for directly telling News Feed what you do and don’t want to see. Every story has a little drop-down arrow in the top right corner that lets you:
+
+There’s also a See First option available in the News Feed settings. This lets you pick people or Pages whose posts you always want to see at the top of your News Feed, which can be useful for staying informed about a loved one, best friend, favorite brand, or your own business.
+
+Facebook is constantly tweaking the News Feed. It adapts to prevent people from gaming or tricking the system, embrace new media types, and correct flaws that lead people to see things they don’t care about. Facebook publishes News Feed FYIblog poststo be transparent about the changes.
+
+This article will adapt too. As Facebook publishes more FYIs, we’ll add them to this list with a short summary of what each means. That way you can keep referencing this article and share it with friends or colleagues that don’t understand how News Feed works. Here are all the News Feed change announcements so far:
+
+High Quality Posts From Pages– Timely, relevant, from a source you trust, you would share it or recommend it, genuinely interesting and not trying to game the News Feed, not low quality or a meme, wouldn’t complain, doesn’t get hidden, complete Page profile, fan base overlaps with other high quality Pages.
+
+More Relevant Ads– Fewer ads that other people hide, Fewer ads similar to ones people have already hidden
+
+Higher Quality News– More links to high quality articles, Fewer links to meme photos, related articles to ones you clicked, highlighting stories with new comments
+
+More Status Updates From Friends– More text status updates from friends, fewer text status updates from Pages, more link share stories from Pages, fewer text updates with embedded links from Pages
+
+MoreStories About Topics You Like– Page posts that tag another Page may be shown to followers of the tagged Page
+
+Cleaning Up News Feed Spam– Fewer Page posts that explicitly ask people to Like, comment, or Share. Fewer Page posts that have already been shared by that Page, fewer spammy links that use inaccurate language or formatting to trick people into clicking
+
+Focusing On Explicitly Shared Stories– More explicitly shared stories from third-party apps and fewer implicitly or automatically shared stories
+
+Showing Better Videos– More videos people watch and watch for a long time, more videos to people who watch videos and fewer videos to people who skip videos
+
+Fighting Click Bait– Fewer links that don’t tell people much about what they’re clicking to, fewer links to web pages where people don’t spend much time and come right back to Facebook, more links to web pages where people spend a lot of time, more links to web pages people talk about after visiting and fewer links to web pages people don’t talk about after visiting, more stories with links shared with the link format and fewer stories with links in the description or caption of a photo or video.
+
+Incorporating Feedback About Ads– Using surveys about why people hide ads, fewer similar ads to ads someone hid because it wasn’t relevant to them, fewer ads shown to anyone that people hide because they were offensive, more heavily weighting the hides by people who infrequently hide ads
+
+More Timely Stories– More stories that reference current Trending Topics, more stories shown soon after they’re posted if people Like them soon after they’re posted but Like them less later
+
+More Control Over What You See– When you hide someone’s story, you can select to see less from that person in the future without completely unfollowing them
+
+Reducing Promotional Page Posts– Fewer posts that solely push people to buy a product, install an app, enter a sweepstakes, or that reuse the exact same content from ads.
+
+Minimizing Hoaxes– Fewer posts that people flag as hoaxes or delete after posting because they are scams or deliberately false news
+
+Showing More Content From FriendsMore posts from friends instead of Pages, fewer stories about friends Liking or commenting on a post, more posts from the same sources for new users without much content in their News Feed
+
+More Stories You Spend Time Reading– More stories that other people spend significantly more time looking at in their News Feed than other stories.
+
+The See First Feature– A new feature lets you choose friends or Pages whose stories you want to see first at the top of your News Feed
+
+Accounting For Differences In How People Hide Stories– People who hide an extremely high number of stories in their feeds including ones they’ve Liked and commented on will have their hides taken less into account by the News Feed algorithm
+
+Incorporating Actions Taken On Videos– More videos that people turn on the sound for, watch full screen, or watch in high definition.
+
+Improving News Feed For Slow Connectivity– Fewer videos and more status updates and links shown to people with slow Internet connections, re-showing stories you’ve already loaded if you have no Internet connection
+
+Incorporating Reactions– More stories similar to ones you react (just as with Likes)
+
+Surveys To Reduce Low Quality Viral Stories– Fewer viral stories that surveys say people would rather not see
+
+Offline News Feed– When someone has slow connectivity, Facebook will re-rank previously downloaded stories by relevance and display them instead of a loading symbol
+
+Incorporating Qualitative Feedback– More stories that surveys and qualitative research show people would be likely to both rate highly and engage with
+
+Matching Reactions And Stories– Over time, Facebook hopes to show people more stories similar to the ones they React to in a certain way, so people who often use the “Haha” Reaction see more funny stories
+
+Showing Live Videos When They’re Live– More Live videos shown while they’re currently Live
+
+Incorporating Time Spent Viewing Sites– More links to Instant Articles and mobile web pages loaded inside of Facebook that people spend more time viewing, fewer posts in a row from the same Page
+
+Prioritizing Friends And Family Over Pages– More stories from humans you care about, and fewer stories by businesses and news outlets
+
+Punishing Clickbait Headlines That Mislead Or Withhold Information– Fewer news stories purposefully trick people into clicking by omitting or exaggerating core details
+
+Promoting Personally Informative Stories– More stories Facebook predicts will be relevant to you personally because they’re related to your interest, engage you in broader discussions, and contain news
+
+Re-ranking Stories Client-Side On Slow Connections– More relevant stories shown when you have a weak internet connection byre-rankingcached and new stories to prioritize the best ones whose photos and videos have already downloaded
+
+Addressing Hoaxes and Fake News– Popular, viral fake news stories flagged by users will besent to third-party fact checkersfor evaluation. Stories confirmed as fake will be down-ranked in News Feed, and be labeled with warnings that they’re disputed. Fake news sites masquerading as legitimate publishers through domain trickery, and articles people share significantly less often after reading will be down-ranked in Feed as well
+
+Re-weighting Ranking For Long Video Completion– Facebook uses percentage of a video watched as a signal for quality, but willnow weight completion of longer videos more heavilysince watching 75% of a 10 minute video is more actual watch time than 100% of a 1 minute video
+
+Promoting Authentic and Real-Time Content– Posts that are“authentic”, and not misleading, sensational, spammy, or frequently hiddenwill be promoted in News Feed. Posts related to a topic that is currently going viral in real-time because lots of people are posting about it or a Page post about it is receiving lots of engagement will be shown higher in the feed while the topic is still hot
+
+Reducing Links To Low-Quality Sites– Websites that contain little substantive content and are covered in pop-ups; interstitials; and aggressive, shocking, sexual, or misleading ads will be downranked in News Feed and will not be allowed to Facebook buy ads
+
+Downranking Clickbait Post-By-Post In 9 More Languages– Link posts with clickbait headlines that withhold or exaggerate information will appear lower in the News Feed, and Facebook can now detect these in 9 languages beyond English.
+
+Demoting Low-Quality Links Overshared By Spammers– Links shared bypeople who aggressively share links, often more than 50 per day, will be shown less prominently in the News Feedas these links are often clickbait, false news, or sensational.
+
+Displaying Related Articles To Combat Hoaxes And Polarization– Links that a lot of people on Facebook are talking about or that have been reviewed by third-party fact checkers will show Related Articles before they’re clicked. These Related Articles will show alternative takes on the same topic by different news sources, or truthiness reports from fact checkers.
+
+Prioritizing Links To Faster-Loading Mobile Websites– Links to mobile sites that load quickly, including Facebook’s Instant Articles, will appear more prominently in the News Feed.
+
+Banning Cloaked Spam Sites– Pages and accounts will be deactivated if they share links or ads that point to landing pages that use “cloaking” to show Facebook’s content moderators an innocent version of a site while showing everyone else spam, scams, and porn.
+
+Readability To Reduce Hoax Sites– News Feed will now have a more lightweight, readable design with bigger link previews that put the URL domain above the headline so people are more likely to notice and avoid spoofed URLs.
+
+Downranking Fake Videos And Play Buttons– Pages that publisher links with play buttons in the preview thumbnail that make the post look like a native video or static images uploaded as videos will have their posts shown to a lot fewer people.
+
+Blocking Ad Buys From Pages That Share Fake News– Pages that repeatedly share links to articles labeled as false news by Facebook’s outside fact checkers will no longer be able to buy any Facebook ads.
+
+Showing Information Buttons About Publishers– Links to news article will now include an information button that can be clicked to see the start of the Wikipedia entry about the publisher to help people avoid sharing stories from phony or disreputable outlets.
+
+Releasing Publisher Guidelines–News outlets can now look to Facebook’s publisher guidelines to learn how to succeed in News Feed, which include sharing accurate, meaningful, and safe content.
+
+Upranking Repeatedly-Viewed Watch Shows– Facebook’s original programming Watch shows will get better feed placement if they maintain consistent viewership, or if a user follows the creator’s Page but not the Show’s page.
+
+Adding A Snooze Button– Users can now tap the Snooze button in the drop-down arrow on a News Feed story to hide the story’s author from their feed for 30 days, as an alternative to permanently unfollowing them.
+
+Demoting Engagement Bait– Posts that shamelessly beg for clicks with calls to action such as “Share with friends to win a free trip” or “Like if you’re an Aries” will get less visibility in News Feed.
+
+Replacing Disputed Flags With Related Articles– News articles that are labeled false by third-party fact checkers will no longer show red flags that can actually entrench people’s misguided beliefs, and instead show Related Articles from other sources to give users more accurate alternate perspectives.
+
+Encouraging Time Well Spent– In a massive overhaul to News Feed’s algorithm, Facebook will now show more content people actively discuss through comments and shares such as posts from friends, and show less content people passively consume including publicly shared publisher content, news links, and videos. Facebook’s goal is to increase time well spent and well-being, even at the cost of total time spent and ad views in the short term.
+
+Promoting Trusted Sources– Facebook will survey users to find out which news outlets are the most broadly considered reputable, and show more links to these publishers and less from those people consider inaccurate or distrustful.
+
+—
+
+We’ll add more News Feed FYIs as they’re published to keep this list up to date.
+
+The best tactics for appearing prominently in the News Feed end up being quite straight-forward: share things that are interesting, authentic, and resonate with your audience. That typically means visually compelling media, funny or emotional content, and important news that’s fascinating to a wide audience.
+
+Avoid overly self-promotional spam, dry or long-winded content, and boring looking media that only appeals to a fraction of your audience.
+
+So before you post, ask yourself, is this actually interesting or entertaining to other people? Or are you just vainly bragging about your life or greedily marketing your business?
+
+Facebook’s News Feed algorithm is complex, but the humans it serves are still pretty simple. We all just want to be stimulated. Do that, and Facebook will share what you have to say.

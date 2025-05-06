@@ -1,0 +1,17 @@
+AWS launches Shield to protect web applications from DDoS attacks
+
+At its re:Invent developer conference, Amazon today announcedAWS Shield, a DDoS protection service for web apps that run on Amazon’s cloud computing service.
+
+AWS Shield is generally available today and is already turned on (for free) for all web applications that currently run on AWS — no action by the developer required. The service is based on the work Amazon has done with its Elastic Load Balancer, Cloud Front CDN and Route 53 DNS service. It offers developers automatic protection against the kind of DDoS attacks that are sadly becoming more frequent these days.
+
+The free service, AWS says, will protect applications against 96 percent of the most common attacks.
+
+Amazon will also offer a paid advanced version of AWS Shield. This version will protect applications against more sophisticated attacks. Amazon will also provide Advanced users with cost protection so they won’t have to incur massive costs when they come under attacks. Customers of the advanced service will also get 24×7 access to a response team for custom mitigations. A one-year subscription to AWS Shield Advanced will have a base fee of $3,000/year plus data transfer fees for the use of the Elastic Load Balancer, CloudFront and Route 53.
+
+Amazon CTO Werner Vogels noted that the company’s customers have been especially worried about DDoS attacks over the last year.
+
+Vogels noted that the attacks Amazon is seeing include volumetric attacks that try to bring your network down and those that try to exhaust the resources of a server. The majority of the attacks are volumetric attacks (64 percent), followed by state exhaustion and application layer attacks.
+
+AWS Shield will be on by default to protect developers from these attacks.
+
+With this, Amazon is now in competition with the likes of Cloudflare and the DDoS protection services from major networking vendors.

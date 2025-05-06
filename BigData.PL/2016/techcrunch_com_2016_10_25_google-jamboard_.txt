@@ -1,0 +1,19 @@
+Google gets into the whiteboard business
+
+Google, it seems, is still capable of surprising. A few weeks after launching a pair of handsets, a smart home hub and a virtual reality headset, the company is back with one of its most left-field hardware launches in recent memory. After all a big push into consumer mobile, the software giant is pursuing, of all things, the whiteboard.
+
+The Jamboard is an unlikely launch for the company, the product of a few years’ worth of development attempting to take the next step with its workplace tools. According to G Suite’sDirector of Product, Jonathan Rochelle, the project was born out of a desire to build a new collaborative tablet interface for G Suite, the collection of business apps formerly known as Google Apps for Work‎.
+
+“Jamboard,” Rochelle explained, ahead of the unveil, “is the whiteboard now in Google Cloud.” It’s a 55-inch 4K touchscreen hub for workplace collaborations designed from the ground up. A director competitor to Microsoft’s Surface Hub built around Google apps. It’s a familiar sort of interface whose output lives in Google Drive, connecting to users in person or via smartphone or tablet using the company’s companion apps for iOS and Android (nope, no Windows yet).
+
+Google’s been testing the hardware with a number of high profile partners, including Netflix and Spotify, who have been trying it out in their own corporate boardrooms. The result is pretty impressive. Built from scratch (though the company has yet to name any hardware partners), it’s a fairly intuitive and extremely responsive interface. Users can draw with the include passive stylus and erase with their fingers (or an included eraser/microfiber).
+
+Tools like handwriting and shape help streamline the process and worked quite well in my own hands-on time with the product. The board also has 16 levels of pressure sensitive touch and nice little animations that bring small things like erasing to life, as you watch the text flake and fall off the display. The system runs on a highly specialized version of Android that features a built in browser and Google Maps among other features, along with opening it up to potential third-party apps.
+
+It also has Google Cast built in, so you can also use it as a big video display, complete with speakers that face down into the magnetic tray that holds the styli and eraser. The speakers, from what I heard aren’t great, but they’re plenty loud and will do the trick with teleconferencing audio. You can also just use the built-in Bluetooth to run it all through a speaker.
+
+As for why Google went with 4K here, beyond the occasional video watching, it says that the high res is necessary so as to avoid pixelation when you’re up close to the board. There’s also a built-in 2K camera capable of capturing telepresence at 60 frames per second.
+
+All of the collaboration occurs in real-time, making it possible to monitor the board on a mobile device with minimal latency. And once a project is finished, it can be shared with the team as a PNG or PDF.
+
+It’s also a surprisingly nice looking thing. The back of the board is lovingly sculpted, making it, quite probably, the nicest looking whiteboard I’ve ever seen. There are a couple of standard full USB ports back there, along with a USB C, HDMI and Ethernet. The board can be mounted to a wall or users can choose to buy the optional stand. All said, it should run less than $6,000 when it launches next year.

@@ -1,0 +1,11 @@
+Uber to get satellite imagery from company that supplies Apple and Google
+
+Uber’s drive to get closer to core components of its business continues as the company has secured a partnership withDigitalGlobe, a satellite imaging company that also provides images to Apple, Google and the U.S. government. DigitalGlobe’s high res satellite pics can provide extremely high levels of detail, revealing the changing topography of the modern city with a clarity and currency that help immensely with things like route planning and navigation.
+
+According to The Atlantic, Uber’s interest in DigitalGlobe’s offering surrounds the info it can glean from analyzing the satellite imagery. The pictures are so frequently refreshed (or, if you rather, the speed of bureaucracy is so slow) that details like new lane openings, construction projects, or repurposing of lanes into bus or carpool-specific routes all show up in DigitalGlobe’s product before they’re revealed on public government websites or official city maps, including the ones that inform popular consumer mapping products.
+
+Long-term, this has potential implications for Uber’s self-driving car ambitions. The company has made no secret about thisbeing something it sees replacing drivers long-term, so it makes sense to secure a pipeline for imagery that can help inform automated driving systems about the city’s street layout and driving infrastructure.
+
+In the near term, Uber has made other moves that suggest it’s ramping up its own internal mapping efforts, including hiring away Google Maps product lead Manik Gupta late last year, and acquiring a portion of Microsoft’s mapping unit. Owning mapping (or at least eliminating some steps between itself and key partners) is definitely a way Uber can improve the quality of its offerings vs. those of rivals, even with human drivers behind the wheel.
+
+For riders and drivers, this means “identify[ing] and improv[ing] pick-up and drop-off locations,” according to anofficial blog poston the news by DigitalGlobe director of business development Kevin Bullock. That’s a laudable short-term goal while we wait for cars that come automatically when we need them, and disappear again when we don’t.

@@ -1,0 +1,39 @@
+Google and Facebook push the president’s cybersecurity commission for transparency
+
+Poisoned trust. Yearnings for transparency. The cyber Pearl Harbor.
+
+Executives from Google, Facebook, Dropbox and other major tech companies met with the president’sCommission on Enhancing National CybersecurityatUC Berkeleyyesterday. The discussion was laced with moments of high drama as industry representatives asked the commission to recommend reforms and technological advances in government and the private sector.
+
+The commission, staffed with members like former NSA director Gen. Keith Alexander and Uber chief security officer Joe Sullivan, is gathering feedback for cybersecurity recommendations it is expected to issue in December. Representatives from Google, Facebook, Dropbox and other companies spoke at the meeting, asking the commission to make recommendations on transparency, threat sharing and privacy for consumer data.
+
+Although the FBI’slegal feudwith Apple over unlocking an iPhone connected to the San Bernardino shooting case has been credited with souring relationships between government and tech, national security letters (NSL) have been a long-running gripe for major companies.
+
+Silicon Valley has condemned the government’s reliance on NSLs to secretively extract user data from companies. The letters are often accompanied by indefinite gag orders that prevent companies from informing users when their data is handed over to law enforcement. Yahoo andMicrosofthave sued the Justice Department over its use of NSLs and gag orders, and Yahoo recently won amajor victoryin its case — the company was allowed to make public three of the NSLs it received, with the targeted users’ information redacted.
+
+Eric Grosse, Google’s vice president of security engineering, raised the issue of NSLs during the commission meeting, saying that trust between the government and tech companies has been poisoned by secrecy.
+
+“Setting time limits on gag orders — that’s the single most important thing I would ask of government,” Grosse said. “Systemic, indiscriminate and perpetual use of gag orders is corrosive of trust over time.”
+
+Unlike Yahoo and Microsoft, Google hasn’t taken its NSL disputes to court. Instead, the company has focused on public advocacy — it kicked off the practice of publishingannual transparency reportsabout NSLs and other government demands for data in 2010, and other major companies have followed Google’s lead.
+
+“We’re not asking that there never be a gag order,” Grosse told TechCrunch. Rather, Google hopes that the commission will recommend a time limit for gag orders, so that they will eventually expire and companies will be allowed to disclose them. This, Grosse said, could have “a correcting influence” on public trust.
+
+Security executives asked the commission to make recommendations on increasing threat sharing, another long-standing point of contention between government and industry. While government agencies often detect new forms of malware and other threats, that information isn’t regularly shared with the industry — and although law enforcement officials say some secrecy is necessary to preserve a criminal prosecution, companies have argued that this approach leaves them vulnerable to attack and ultimately has a negative impact on the national economy.
+
+Facebook’s chief information security officer, Alex Stamos, called on the government to engage in cyber threat exchange and bug bounty programs to help bolster the defenses of both government and industry.
+
+Stamos argued that the government too often focuses on arrests and prosecutions of cyber criminals rather than sharing threat information to protect companies. “For the government to become a clearinghouse to get information on advanced threat actors and turning it over, that is a success,” Stamos said. “You can immunize companies … even if you never arrest those people. I would like to see the government start to think that way.”
+
+The government is beginning to dabble in bug bounties — the Department of Defense announced theexpansion of its programlast week — but sharing threat information with private companies is still a challenging prospect for government agencies.
+
+The Department of Homeland Security is also beginning to dabble in threat exchange. DHS collaborated with the industry-led Cyber Threat Alliance toresearch CryptoWall 3, a form of ransomware. Palo Alto Networks and other companies affiliated with CTA shared information with the government on 839 command and control nodes, while DHS shared 170 nodes identified by the FBI and other agencies.
+
+Ryan Gillis, vice president of cybersecurity strategy and global policy at Palo Alto Networks, said the CryptoWall 3 project is the kind of collaboration companies are anxious to see from government. “Information sharing needs to be bi-directional,” Gillis told TechCrunch.
+
+Gillis sees DHS as the right agency to lead the effort on threat exchange with companies, and said DHS needs to build out its capacity as a clearinghouse for information. “They don’t have that conflicting mission” that drives law enforcement officials to secrecy, he said.
+
+Whether the commission will act on yesterday’s recommendations from security executives is anyone’s guess. The commission is tasked with abroad mission: “making detailed recommendations on actions that can be taken over the next decade to enhance cybersecurity awareness and protections throughout the private sector and at all levels of government, to protect privacy, to ensure public safety and economic and national security, and to empower Americans to take better control of their digital security,” according to the White House.
+
+Some of the ideas batted around at the meeting, like introducing a warning label for weak security products similar to the health warning on a pack of cigarettes, are unlikely to gain traction. But other corrective actions, like limiting NSL gag orders and increasing threat sharing, could go a long way in healing the fraught relationship between tech and government.
+
+When asked about the success of the panel, Grosse declined to speculate, saying, “One never knows.”

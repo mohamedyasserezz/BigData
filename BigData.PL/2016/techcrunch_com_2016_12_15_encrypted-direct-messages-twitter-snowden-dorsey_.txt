@@ -1,0 +1,23 @@
+Are encrypted direct messages coming to Twitter?
+
+Following his chat with whistleblower Edward Snowden,@Jackdropped a hint about what privacy features might be in the cards for Twitter. In the tweeted exchange, Dorsey and Snowden continued theconversation that streamed on PeriscopeTuesday, veering back to the topic of Twitter itself.
+
+When Snowden asked if Twitter might consider making the platform’s private messages more secure in some way, Dorsey left the door open for a major security tweak.
+
+reasonable and something we'll think about
+
+— jack (@jack)December 14, 2016
+
+Twitter’s possible interest in enhancing the security of its private messaging tools comes at the right time—or a popular time at least. In 2016, many of the major social networks built end-to-end encryption into their messaging platforms. In April, WhatsAppcompleted its implementationof end-to-end encryption, based off of the increasingly popular Signal Protocol created by Open Whisper Systems.
+
+In May, Google expressed its interest in making end-to-end encryption the default in itsAllo messaging app, but the feature remains nested in aconfusing “incognito” modethat must be toggled on. In July, Facebook even built an option for“secret conversations”—a more user-friendly way to say, yep, end-to-end encryption—into its mobile Messenger apps. And the popularity of the open source encryption protocol that underpins all of those features continues to soar, withSignal itselfseeinghuge spikesin user activity toward the end of the year and a new app toconnect its mobile experience to the desktop.
+
+If you missed@Snowden's live Q&A with@jack, don't fret! You can watch it here:https://t.co/slh5mO1Bhi
+
+— Stand With Snowden (@StandSnowden)December 13, 2016
+
+Tuesday’s interview was timely, givenTwitter’s ongoing tensionwith the incoming Trump administration and his own exile to ever-relevant Russia. The livestream was also intended to raise awareness for thePardon Snowden movement, which seeks to (you guessed it) secure a pardon for Snowden before President Obama leaves office.
+
+The Snowden chat meandered over a broad swath of security-adjacent topics, as Snowden interviews are wont to do. Among the topics in the hour-long stream, Snowden highlighted the threat of metadata collection, noted his home nation’s fragile relationship with democracy, and aired his most recent,long resolved Twitter gripes—”The fact that when you add a picture to a tweet, you lose 22 characters? That’s painful”—to name a few.
+
+As a vibrant public gathering place for all manner of activists, minorities, andenemies of the state, those who speak out on Twitter worry with good reason about the company’s interest in building robust privacy tools. We’re in touch with the company about its private messaging intentions and will be closely following any plans it might have for the near future.

@@ -1,0 +1,15 @@
+Amazon Web Services is rolling out a way to use just the GPU power you need
+
+Amazon is rolling out a new tool for users of its Amazon Web Services that will allow them to essentially use just as much GPU power as necessary without using up a full cluster on Amazon’s EC2 instance types.
+
+That means companies can tap into just a sliver of GPU power, or a larger amount, on demand as they need it and pay for that amount. GPUs can run a ton of tasks in parallel and have a lot of advantages in certain compute situations, like rendering games. But some lightweight processes don’t necessarily require a full GPU cluster, which running for a company — especially a smaller one — might become prohibitively expensive very quickly. The new product, introduced at AWS re:Invent, is called Elastic GPU for EC2.
+
+“You will be able to do the exact same to GPUs with our instances, run the same OpenGL code that application runs,” Andy Jassy, CEO of Amazon Web Services, said. “If you need some amount of GPU but don’t need the full instances, and don’t want to attach to any one of your instances.”
+
+AWS users can choose an EC2 instance that they prefer for their needs, and then indicate they want to use an elastic GPU service. Here are all the sizes available:
+
+This is a similar trend to what’s happening in cloud computing across the board — basically deploying just as much power and storage as you need versus needing to have to run full instances. That’s provided companies and developers a lot more flexibility over time, and a product like this gives Amazon a particular advantage over other services.
+
+One natural implication of this is that, if smaller companies pick something along these lines, then Amazon can grow with those companies over time and they’ll continue to retain them as a customer. Amazon has said before it expects AWS to be a business worth more than $10 billion annually, and beyond just acquiring larger customers, capturing future potential is equally important.
+
+Amazon announced a lot of upgrades to its AWS products, generally providing more computer power and storage for its generally available cloud products. As Amazon continues to expand these products, its goal is to keep ahead of increasing competition from companies like Google that are trying to snatch away customers as the business has become more valuable to Amazon.

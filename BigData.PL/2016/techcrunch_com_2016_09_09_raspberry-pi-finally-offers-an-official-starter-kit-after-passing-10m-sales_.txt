@@ -1,0 +1,13 @@
+Raspberry Pi finally offers an official starter kit after passing 10M sales
+
+The Raspberry Pi Foundation has finally put out an official starter kit for its low cost microcomputer — offeringwhat it dubsan “unashamedly premium” bundle for the Raspberry Pi 3 Model B, complete with optical mouse and keyboard in a very Apple-looking shade of white, plus all the cables you need to get up and running. The only thing missing is a screen.
+
+The official Pi starter kit is available to order online in the U.K. from the Foundation’s distributorselement14andRS Components, priced at £99 (+VAT). While sales are slated to open up to markets in the rest of the world “over the next few weeks”. It’s something of a full revolution for the Foundation whichconceived the original Piwith the intention of inspiring schoolkids to learn programming the hard way — i.e. by trial and error and messing around with wires and cables, rather than being handed an ‘it just works box of bits’ to plug and play.
+
+Four and a half years later, with more than 10 million of its single board Pi microcomputers now sold, the Foundation evidently feels it’s time to put a cherry on top of the project with its own shiny white starter kit. And fair play to them. In February last year the Pi had racked up5 million unit sales. But the expansion of the range to the $5 price-point withPi Zerolast November has clearly helped accelerate demand.
+
+The project has also scaled wildly beyond the Foundation’s original goals, with many a Pi finding its way into the hands of a crafty maker or clever startup, not just aspiring student coders. So the market for Pi will surely accommodate a premium bundle likely to appeal to gizmo lovers in the Western world, while continuing to support expanding access to computing in developing markets via the Foundation’s most affordable Pis.
+
+The Foundation is by no means the first to offer a Pi starter kit. Indeed, the lack of an official kit provided a window of opportunity for third parties to put together Pi bundles of their own, such as London-based startupKano which offers a bundle aimed at kidsthat includes not just hardware bits but its own software skin running atop the Pi’s OS with gamified elements. So while the arrival of an official kit may now squeeze out some players, there’s likely to continue to be room for a range of specialized starter kits targeting different niches.
+
+The full list of items included in the official Pi starter kit is as follows:

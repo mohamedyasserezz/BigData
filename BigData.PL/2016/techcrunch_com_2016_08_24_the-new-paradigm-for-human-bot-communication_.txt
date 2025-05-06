@@ -1,0 +1,59 @@
+The new paradigm for human-bot communication
+
+Editor’s note:Xuchen Yao is co-founder and CEO, and Guoguo Chen and Kenji Sagae are co-founders, ofKITT.AI. Daniel Li is an associate atMadrona Venture Group.
+
+Chatbots offer the promise of frictionless access to goods, services and information, but creating effective bots can be deceptively tricky.
+
+The flip side of the opportunity to interact with users in a seamless, natural way is thatuser expectations can be prohibitively high. Bots need to be smart and provide greater convenience than apps — a very effective UI paradigm tailored for today’s mobile devices that has been carefully refined for more than a decade.
+
+The good news is that the belief that bots must master human language or replace apps to succeed is false. Bots will engage with consumers in new ways that combine the strengths of humans and machines to allow both structured and unstructured information to be exchanged naturally and efficiently.
+
+One simple but intuitive way to measure the effectiveness of communication is to look at the amount of information exchanged per unit of time. Under this framework, text (e.g. SMS, chat, email) and speech (e.g. phone call) interactions differ in the amount of information that can be produced versus consumed.
+
+While we typically produce 120 to 140 words per minute when speaking, we can typically only write or type 40 to 70 words per minute. When we look at the speed of informationconsumption, reading speed in English is upwards of 200 words per minute, but listening speed is limited to the 120 to 140 words per minute of speech production.
+
+SMS and chat apps have adapted to increase text production speed through autocorrect features andnovel keyboards, but text production for humans will always be slower than consumption.
+
+Imagine, however, a friend that can type, draw, look up information and find GIFs at superhuman speed, and produce buttons, menus and pictures to make your input faster. Better yet, your enhanced input is much easier for your friend to understand and does not take away the flexibility and familiarity of natural language when needed.
+
+We may not be quite there yet, but we are very close, especially with well-constructed bots on certain platforms. Here is a look at the features of different bot platforms that are shaping human-bot communication toward a more efficient, robust and natural UI paradigm.
+
+Quick-reply buttons are a simple and convenient way to save user time and prevent unexpected input. They are unique to human-bot communication as buttons are trivial for bots to create and easy for humans to use; benefits include enhanced communication speed and bot comprehension.
+
+Facebook, Telegram and Kik bots all have quick-reply buttons, but under slightly different names, and some bots, such as the Sephora bot on Kik, use the quick-reply button as the primary mode of communication. Slack still lacks quick-reply buttons, but has message buttons with associated actions.
+
+Telegram Custom Keyboard:
+
+Facebook Messenger Quick Replies:
+
+Kik Suggested Response Keyboard:
+
+Callback buttons are similar to quick-reply buttons but allow for a broader range of potential interactions. When a callback button is clicked, it generates an HTTP call to a registered webhook that triggers a predefined action. Callback buttons are a great way to provide feedback, and they also provide a deeper analytics opportunity for the bot backend.
+
+Slack Message Buttons:
+
+Messenger Postback Button:
+
+Telegram Callback Buttons:
+
+Sharing information that can be easily parsed programmatically takes the exchange of structured information from clunky in a language-only paradigm to easy and unambiguous in a hybrid paradigm.
+
+For instance, sharing a location like “3rd & Madison” is ambiguous and slow for humans and machines to parse, while shared GPS coordinates can be quickly displayed with a map service and understood by bots.
+
+TelegramSendContactandSendLocation:
+
+Facebook Messenger Location Sharing:
+
+Inline bots are a great way to quickly obtain, send and share information during chats, without the need to jump out of the current interface (to go to another chat) or the current app (to go to another app).
+
+Instead of multiple taps and menus to perform a specific function, an @ mention at a bot allows for a one-line interaction. Allowing bots to share conversational context with one another also greatly increases the speed of interaction because users no longer need to re-input data for each communication.
+
+Telegram Inline Bot:
+
+Slack Bot Mention:
+
+The following table summarizes the added language-touch functionality provided by four popular chat and bot platforms. These features represent the beginning of a hybrid communication paradigm that will enable more efficient and effective communication with bots:
+
+If your bot does not use a language-touch hybrid communication pattern, there are several other ways you can still take some of the UI mechanics from buttons and callbacks to build a better bot:
+
+AI and NLP have along way to gobefore bots achieve human-level communication. However, before that happens, new methods of human-machine communication will leverage the strengths of humans and machines to create new interaction paradigms that are as natural as our own language.

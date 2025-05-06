@@ -1,0 +1,11 @@
+Google’s self-driving cars are naturals when it comes to three-point turns
+
+Googleupdates the world monthlyon the progress of its self-driving car project, and this month’s update includes the usual stats, like over 2,230,175 miles driven in autonomous mode, as well as an explainer on how the cars handle a tricky task: multi-point turning.
+
+The three-point turn is a boilerplate part of any driving test, and one that can prove quite challenging depending on where you’re trying to accomplish one. Google says that its cars have some big advantages over humans when it comes to multi-point turns, like full 360-degree wraparound vision, and extremely accurate distance measurement.
+
+As a result, Google has found that its cars could actually do maneuvers that don’t resemble the standard three-point turn but that might be more efficient overall – but that’s not ideal UX when it comes to human passengers. Humans are more comfortable when cars drive in ways that include recognizable behavior, so Google has trained its self-driving fleet not only to execute three-point turns, but to do so in a way that “feels natural” to those on board. The Google test cars do around 1,000 multi-point turns on actual city roads per week, Google says.
+
+Google also uses the report to spell out any accidents its test cars are involved in, and they did have one to report from October 26. The self-driving car was traveling at 3 mph when it was tapped from behind by a vehicle going 6 mph, however, making it a minor fender-bender where the human was at fault and damage was minimal.
+
+It’s interesting to get a look at how the Google team is building UX into their tech, at the same time as they’re solving difficult technical challenges. Good UX will probably be just as important to long-term user acceptance of autonomous driving tech as will safety issues, so it’s smart to build them hand-in-hand.

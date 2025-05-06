@@ -1,0 +1,13 @@
+Occipital shows off a $399 mixed reality headset for iPhone
+
+Mobile VR is an Android game, but as more and more rumors flourish about the next iPhone, some companies are looking to get developers ready to bring iOS users into the world of VR.
+
+Occipitalannounced today that it is launching a mixed reality platform built upon its depth-sensing technologies calledBridge. The headset is available for $399 and starts shipping in March; eager developers can get their hands on an Explorer Edition for $499, which starts shipping next week. In September, the companyshowed offan early model of the headset, though it didn’t really play up the device’s mixed reality capabilities.
+
+The headset is built upon the company’s depth-sensing 3D Structure sensor, which offers advanced image mapping at a much higher frame rate than Google’s Tango camera due to the fact that it’s an external device with its own battery supply. The Structure sensor retails for $379, which makes the $399 price for Bridge pretty tolerable, given that it includes one of the sensors. The headset is compatible with iPhone 6/6S and 7 models.
+
+The iPhone camera really only offers a pinhole view into the world when the display is pressed up against your face, so Occipital has included a 120-degree wide-angle lens add-on to lessen this effect. It’s still not totally comfortable, but it’s definitely tolerable for short periods.
+
+The iPhone is definitely a huge platform that hasn’t seen a ton of love when it comes to AR or VR, but part of that is the fact that the phone doesn’t have an OLED screen or any VR optimization mode like Android to keep the head-tracking latency low. This means you won’t really want to use this headset unless you’re a developer. iPhones are allegedly getting OLED screens in their next iteration, according to some rumors, but it’s largely impossible to know what’s happening in Cupertino until Jony says the magic words and the products gyrate in front of you.
+
+I got to take an earlier model of the headset for a test drive recently and, while these current-generation iPhones definitely are not the most suited for mixed reality, the Structure sensor most definitely is. Rapid environment mapping allows users to place digital objects on real-world surfaces as the sensor produces a 3D mesh of the space you’re in. This also allows full positionally tracked room-scale in a mobile VR headset, which operated quite well.

@@ -1,0 +1,21 @@
+Why nature is our best guide for understanding artificial intelligence
+
+In living organisms, evolution is a multi-generational process where mutations in genes are dropped and added. Well-adapted organisms survive and those less fortunate go extinct. This is Natural Selection. Resilience is great, but if you don’t grow gills in time for the flood, then tough luck.
+
+Engineering, on the other hand, is a deliberate process with reliable steps designed to reach a stated objective. With the emergence of artificialintelligence, we are beginning to see the convergence of evolution and engineering as machine learning algorithms begin to evolve.
+
+For the sake ofourcomparison (natural evolution to machine evolution), let’s consider data and how it is normalized as “the environment” and the training process as “Natural Selection.” The training process can be supervised or unsupervised learning, reinforcement learning, clustering, decision trees or different methods of “deep learning.”
+
+Much like natural evolution, different organisms solve for the same problem differently depending on their environment, but ultimately reach the same outcome. Sharks and dolphins wound up with similar mechanisms to survive despite starting from completely different beginnings. In technology, we see similar patterns. The K-means clustering algorithm, a technique often used for image segmentation, for example, ingests essentially unlabeled inputs (usually images) and coherently grouped clusters are produced until a desired grouping is reached. If you gave 10 people the same data set and asked them to solve the same problem using different algorithms, it’s possible that they could each take a different approach and get the same outcome. Problem solving innatureand machines are, in a sense, quite similar.
+
+Why does this matter for companies?
+
+As machine learning techniques find their way into commercial applications, businesses are faced with the challenge of developing strategies to implement this technology safely and efficiently.
+
+Historically speaking, technologists have often looked tonaturefor inspiration. Here are a few ways businesses can use evolution to understand the potential implications of artificialintelligence:
+
+There are a handful of brilliant AI companies helping us work more efficiently, (we have [in our DCM portfolio]x.aihelping us manageourhectic lives,Diffbothelping us intelligently organize the web, etc.), but these applications are still in their infancy and there needs to be a fundamental shift in how we anticipate their arrival. Perhaps it’sbestto place them into the context of a phenomena that we already understand — evolution.
+
+There’s great opportunity in AI, and natural evolution provides a framework for us to study and prepare for the future of machine evolution. In the meantime, it’s important that company leadership seriously consider their strategy for AI and invest in the requisite talent and infrastructure to turn their data into transformative solutions.
+
+Benjamin Tseng, principal at 1955 Capital, contributed to the ideas and information shared in this article. At 1955 Capital, Benjamin focuses on investments in areas like energy, healthcare, agriculture and food.

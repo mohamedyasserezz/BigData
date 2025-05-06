@@ -1,0 +1,27 @@
+France wants to rethink the state as a platform
+
+When you think about filing forms and requesting information from various administrations, chances are you get a headache. But it shouldn’t be like that. When you create an account on Spotify using Facebook Connect or request an Uber in just a few taps, it’s perfectly seamless — technology isn’t working against you. It’s clear that public services should use the same strategy.
+
+France’s chief information officer Henri Verdier and his team has been working for the past couple of years on a strategy that would make it much easier to interact with administrative services and the state in general — a sort of state as a platform strategy. Axelle Lemaire’s law is also fostering this strategy as it opens up a lot of possibilities when it comes to interacting with public data.
+
+And it starts withFranceConnect. It’s fair to say that the ability to log in with your Facebook, Twitter or Google accounts is quite popular. It lets you create an account on a web service without entering your email address and password. And as a nice side effect, the next time you log in, you only have to click on the “Log in with Facebook” link (for example). You don’t need to remember yet another password or risk the security of all your accounts by using the same password everywhere.
+
+While this is great and convenient, administrative websites can’t reasonably switch to Facebook Connect. You don’t want to outsource your login process to a private company like Facebook. And Facebook is an advertising company, so you don’t want to push your users to share more information with them.
+
+And yet, administrative services have been a pain in the butt to use. Many of them look like they’re coming straight from the 90s. You need to keep track of dozens of identification numbers and passwords. And sometimes, you even need to wait for a snail mail with a secret code in order to create your account. In other words, if you don’t use a password manager like 1Password, it’s a mess. And if you use 1Password, it’s still painful.
+
+With FranceConnect, French administrative services want to end this problem with a simple solution. You can use your tax identification on all administrative websites compatible with FranceConnect. If you’d rather use another service, you can use your social security account or La Poste account as an account provider.
+
+Then, you can connect on all administrative websites using this login information without having to create yet another account. So your account is going to be compatible with the administration managing driver licenses, various local administrations around the country and more.
+
+And, of course, FranceConnect complies with the European Union regulations. It’s still early days for FranceConnect, but I hope many other administrative services are going to switch to this login system. And FranceConnect is also the first step as you’ll be able to share documents between administrations in the future.
+
+FranceConnect is just one example as the French state has been using a tech product strategy for other services. For instance, onapi.gouv.fr, you can find dozens of APIs that lets developers plug services together. Instead of thinking in silos, France is finally opening up data access points so that everything and everyone can work together.
+
+Some APIs are restricted and you can’t use them freely unless you’re working for an administrative service. But others are open to anyone. For instance, anyone can access the database of all street addresses in France. There are millions of data entries, and developers are making 5 million API calls every week.
+
+I feel like this open strategy is the right way to go. Modern web services are built on top of APIs and open source libraries — for years, administrative services have turned their back on this way of doing things until now. It’s time to put an end on multi-year, expensive IT projects that take years and are already obsolete when they come out. A more iterative, API-driven approach will be a win for everyone.
+
+In addition to that, in all of those instances, the French state is putting the user first. You remain in control of your data, your personal information won’t be shared around without your approval. This is a refreshing stance now that everybody is ruining our privacy withblurry terms and conditionsand abusive advertising strategies. France is setting the right example on this front.
+
+But let’s be honest, France and many other countries have been lagging behind when it comes to leveraging the web to simplify administrative processes and inform policy makers. It’s still the very beginning, and there’s still a lot of work to do. But maybe one day interacting with our administrations will become as easy as posting a photo on Instagram.

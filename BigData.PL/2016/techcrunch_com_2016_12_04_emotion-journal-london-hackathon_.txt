@@ -1,0 +1,17 @@
+The Emotion Journal performs real-time sentiment analysis on your most personal stories
+
+Andrew Greenstein, an app developer from San Francisco, started journaling a few months ago. He tries to write for five minutes every day, but it’s challenging to set aside the time. Still, he’s read that journaling reduces stress and can help with goal-setting, so he’s trying to make it a habit.
+
+At the Disrupt London Hackathon, Greenstein and his team builtThe Emotion Journal, a voice journaling app that performs real-time emotional analysis to detect the user’s feelings and chart their emotional state over time. (Greenstein says the site will remain live for 30 days as a demo.)
+
+By day, Greenstein is the CEO ofSF AppWorks, a digital agency. But he and his co-founder, Darius Zagrean, have become increasingly interested in artificial intelligence and how it can be used to address mental health issues.
+
+“I’d like to continue working on it because this stuff to me, the connection between human and computer, is so fascinating,” Greenstein said.
+
+The idea to apply AI to mental health challenges first came to Greenstein and his team during an internal AppWorks hackathon, during which one team built an app to roleplay anxiety-inducing situations and improve the user’s response to his or her anxiety triggers. “We wanted to get into AI as much as we could. It’s so clear that’s where the world is going. This one had the emotional factor that really grabbed me,” Greenstein explained.
+
+He decided to continue exploring the intersection of AI and emotion at the London Hackathon and built The Emotion Journal using IBM Watson to perform the real-time sentiment analysis. A user talks about their day and The Emotion Journal reacts quickly, changing color in response to the user’s feelings.
+
+The Emotion Journal also stores and color-codes logs over time, so a user can see at a glance what their recent emotions have been. “We talked a lot about how journaling needs to be more indexable, more searchable. Maybe you can learn something from a past session,” Greenstein said.
+
+Although The Emotion Journal is a promising merger between AI and journaling that might teach us more about our own mental health, it might not be around forever — Greenstein hopes to keep the project up in a demo state. So go check it out now while you still can.

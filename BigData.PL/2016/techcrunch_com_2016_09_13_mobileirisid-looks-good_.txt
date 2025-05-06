@@ -1,0 +1,21 @@
+Cloud-based iris identification is here, courtesy of MobileIrisID
+
+One of the startups that caught my eye at TechCrunch Disrupt’s Startup Alley wasMobileIrisID, a company that combines the convenience of the mobile phone with the power of the cloud. Aiming to be a drop-in service for high-value transaction authentication, the service puts hyper-secure identification at the fingertips of developers.
+
+The company uses the front-facing camera to capture a high-resolution photo of the iris. As the photo is taken, the phone’s screen shows a randomly generated barcode. The idea is that the barcode is reflected on the pupil, so it can be read again later to ensure that nobody has been able to tamper with the image that was uploaded. Clever!
+
+It is taking on some big, well-funded and well-established players, including the likes of Samsung’s Note 7 whichcomes with iris scanning built-in,smartphone-enabled dedicated scanners from companies like Tascentand existing software development kits likeEyeVerify’s EyePrint ID.
+
+“We take security very seriously and have created the most secure identification iris identification service around,” says Maksim Gill, VP of Marketing for MobileIrisID. “We have even gone out of our way to ensure that we don’t upload the full iris scans.”
+
+MobileIrisID applies an image filter to the photo before it is uploaded to its servers.
+
+“The easiest way to explain it, is imagine you add a blue filter to the image,” Gill explains. “If our database of iris scans were to become compromised, we can switch to a yellow filter on the fly. The stolen database would be worthless.”
+
+The company aims to sign up large banks, credit cards and others who need quick, positive ID to ensure they’re really dealing with the person they think they are.
+
+“We have made it quick and easy to drop our code into an app, and you can be up and running with iris identification quickly,” Gill says, explaining that its service is currently available on Android only. “We need a high-resolution front-facing camera. The iPhone 6s and iPhone 7 cameras aren’t good enough for our requirements yet, so we’re focusing on Android for now.”
+
+For a lot of potential customers, the lack of iOS availability might be a show-stopper, but the company isn’t worried for now.
+
+“More people use Android than Apple devices,” Gill retorts when I challenge him about the lack of iOS support. In addition, he points out there are markets where Android have far broader adoption than iOS, so the company will focus its early efforts there.

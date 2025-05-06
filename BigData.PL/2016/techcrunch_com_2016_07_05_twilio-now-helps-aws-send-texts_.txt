@@ -1,0 +1,15 @@
+Twilio now helps AWS send texts
+
+Twiliotodayannounceda new collaboration with Amazon’s AWS platform. The company says it is “helping AWS provide the delivery of SMS messages through theAmazon Simple Notification Service (SNS)” and notes that SNS users will now benefit from Twilio’s experience in sending bulk messages.
+
+What exactly does that mean? We weren’t sure either, so we asked the company. Here is what a Twilio spokesperson told us: “We can’t discuss the specific details of the relationship, but can say that Amazon SNS leverages the benefits ofTwilio’s Super Network, which enables SMS delivery around the world to over 200 countries.”
+
+As far as we can tell then, the SNS messaging service now at least partially relies on Twilio’s network to send messages for some of its users. It’s sadly unclear which messages exactly will get routed through Twilio’s network. The SNS service already supportedsending SMSglobally, so most users probably won’t see any major changes right away.
+
+It’s worth noting that Amazon’s SNS doesn’t currently offer a number of advanced features, like short codes (or long codes), for example, and that SNS uses a pool of codes to send messages out, meaning that recipients won’t always see the same number from a single company that uses SNS. Twiliodoes offer those features(and more), so hopefully this collaboration also means that SNS will soon get more advanced SMS features, too.
+
+“With this latest collaboration, we’re strengthening the communications ecosystem with scalable, efficient tools that ensure the best option for delivering a message is available,” Twilio CEO and co-founder Jeff Lawson says in today’s announcement — without giving away any details either, of course.
+
+It’s worth noting that Amazon invested inTwilio’s Series E roundbefore the company went public and that Twilio makes extensive use of AWS’s cloud computing services, too.
+
+We asked Amazon for more details about this collaboration and will update this post once we hear back.

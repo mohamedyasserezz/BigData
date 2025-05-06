@@ -1,0 +1,19 @@
+U.S. officially attributes DNC hack to Russia
+
+The Department of Homeland Security and the Office of the Director of National Intelligence confirmed today what cybersecurity companies have asserted since emails from Democratic National Committee employees leaked online over the summer: State-sponsored Russian hackers are responsible for the breach.
+
+“The U.S. Intelligence Community is confident that the Russian government directed the recent compromises of emails from U.S. persons and institutions, including from U.S. political organizations. The recent disclosures of alleged hacked emails on sites like DCLeaks.com and WikiLeaks and by the Guccifer 2.0 online persona are consistent with the methods and motivations of Russian-directed efforts,” DNS and ODNI said in a joint statement, adding, “These thefts and disclosures are intended to interfere with the U.S. election process. Such activity is not new to Moscow — the Russians have used similar tactics and techniques across Europe and Eurasia, for example, to influence public opinion there. We believe, based on the scope and sensitivity of these efforts, that only Russia’s senior-most officials could have authorized these activities.”
+
+The intelligence community’s attribution of the hacks isn’t much of a surprise — cybersecurity firms like CrowdStrike, Mandiant and ThreatConnect all reachedthe same conclusionin their own independent analyses of the hacks. However, the statement does lend credence to theories that the Guccifer 2.0 persona was hastily crafted after the hacks to take credit for the breach and deflect attention from state-sponsored hackers.
+
+DespiterepeatedFBI warningsthat state election systems and voter registration databases have been targeted by hackers, DHS and ODNI said that the November election is not at risk of a serious cyberattack because of the decentralized nature of the state-by-state election system. The two organizations also pointed out that state election systems are not connected to the internet and said a system of checks and balances is in place to prevent voter fraud.
+
+DHS and ODNI also stressed that the state-level intrusions have not been attributed to Russia. “Some states have also recently seen scanning and probing of their election-related systems, which in most cases originated from servers operated by a Russian company. However, we are not now in a position to attribute this activity to the Russian government,” DHS and ODNI said.
+
+Now that the U.S. has formally blamed Russia for the DNC hack, the Obama Administration might move forward with a response. As we’vepreviously reported, experts believe that the U.S. response to a cyber attack would follow the same norms for a physical conflict, and could include a diplomatic response, economic sanctions or retaliatory hacking.
+
+President Obama has seemed cautious about the possibility of hacking Russian government systems, saying at the G20 Summit in China last month, “Our goal is not to suddenly, in the cyber arena, duplicate a cycle of escalation that we saw when it comes to other arms races in the past, but rather to start instituting some norms so everybody’s acting responsibly.”
+
+Democratic presidential candidate Hillary Clinton has seemed more hawkish than Obama on the subject, saying recently that the U.S. should be prepared to “take the fight to those who go after us,” when it comes to cyber attacks.
+
+Trump, meanwhile, expressed skepticism about Russia’s involvement in the DNC hack during September’s presidential debate. “I don’t know if we know it was Russia who broke into the DNC,” Trump said. “Maybe it was. It could also be China, it could be someone sitting on their bed that weighs 400 pounds.”

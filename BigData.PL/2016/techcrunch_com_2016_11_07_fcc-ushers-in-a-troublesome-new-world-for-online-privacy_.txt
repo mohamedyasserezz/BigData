@@ -1,0 +1,45 @@
+FCC ushers in a troublesome new world for online privacy
+
+In late October, the Federal Communications Commission passed new rules that take the unprecedented step of imposing stricter privacy regulation on one specific set of actors in the Internet ecosystem.
+
+Along party lines, the FCC voted to impose onerous limitations on Internet service providers’ use of web browsing information without regard to whether the information is sensitive or not, which differs greatly from the guidelines governing all other online companies, like search engines and mobile apps.
+
+Not only are these rules based on an inaccurate understanding of the underlying technology, they also create a fragmented privacy framework that deviates from the approach established by the Federal Trade Commission that has proven so effective in supporting innovation.
+
+The Internet was relatively simple when it first exploded into the public’s consciousness during the mid-1990s. The typical user relied on a personal computer connected to their home telephone line to send an email or browse the World Wide Web.
+
+A wide range of technologies and companies emerged that rely on personal data to provide a dazzling new array of free (or, more properly, advertising-supported) services.
+
+To best protect consumers, the Federal Trade Commission created a privacy regime that provides the greatest protection for the most sensitive data, such as health care and financial information, while adopting a more permissive approach to less sensitive data, such as the use of purchase histories to make product recommendations.
+
+The modern Internet has become far more complex and decentralized. A much larger number of users are employing a far broader range of devices and network technologies to run a greater variety of applications.
+
+A decade or two ago, networks were able to learn about end users since they typically accessed the Internet from a fixed location, such as their homes.
+
+Today users access the Internet from everywhere via mobile devices, which scatters information about individuals’ usage across a wide range of network providers and locations. Simultaneously, the increasing use of encryption is limiting networks’ ability to view the content of the traffic they are carrying.
+
+In addition, modern operating systems and applications require that users identify themselves prior to using them. This practice permits operating systems and applications to track users across devices and locations, whether inside or outside the home and to use personal information in ways that many users do not anticipate.
+
+Even browsing the web is now fundamentally different. For example, HTML version 5 added an API for geolocation. Web pages are now also designed to observe when a user using a mouse is hovering over particular content without clicking on it.
+
+In the world of advertising-supported services, information gathered about users can make advertising better targeted and more effective.
+
+But at the same time, consumers who enjoy access to Internet services are concerned about protecting their privacy. As a result, the best way to give consumers what they want is to strike an appropriate balance between which uses of personal information to permit and which ones to restrict.
+
+The FCC’s approach abandons this nuanced perspective in favor of an approach that prohibits practices on which online companies frequently rely, such as making product recommendations based on past browsing and purchase history.
+
+As a result, the best way to give consumers what they want is to strike an appropriate balance between which uses of personal information to permit and which ones to restrict. The FCC’s approach abandons this nuanced perspective in favor of an approach that prohibits practices on which online companies frequently rely, such as making product recommendations based on past browsing and purchase history.
+
+The speed of technological change counsels against regulating the Internet based on any particular conception of the current state of technology, as the inevitable evolution will soon render any understanding obsolete.
+
+Instead, privacy regulation should embrace the well-accepted principle of technological neutrality, a principle that the FTC’s privacy framework has embraced and that the Obama Administration fully endorsed in its 2012 Consumer Privacy Bill of Rights. But sadly, the FCC’s rules abandon this approach by subjecting network providers to greater restrictions than content and application providers.
+
+The FCC would have better served consumers if it had followed the balanced, context-sensitive approach to privacy that has proven so effective in supporting the creation of a steady stream of new and innovative services.
+
+Although there is always more that could and should be done to ensure that end users know what happens to their personal information, any solutions need to embrace the entire industry and to calibrate the level of privacy protection based on the sensitivity of the data.
+
+Subjecting some parts of the Internet ecosystem to heavier burdens will inevitably lead innovators to design their systems to avoid regulatory burdens instead of focusing on the best technical way to deliver what consumers want. And it will create serious risks that the regulations of today could foreclose the innovations of tomorrow from ever appearing.
+
+That is why the FTC filed comments calling for the application of consistent rules to all parts of the Internet, but, unfortunately, the FCC did not fully heed those calls.
+
+The approach taken by the FCC will lead to a world in which technological progress is dictated by the actions of regulators based on an incomplete and static technological snapshot that will become outdated in a flash instead of by innovators experimenting with ways to provide users with groundbreaking new services.

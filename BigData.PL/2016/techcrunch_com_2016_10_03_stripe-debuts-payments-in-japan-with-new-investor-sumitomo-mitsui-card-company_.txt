@@ -1,0 +1,43 @@
+Stripe payments exits beta in Japan, adds Sumitomo Mitsui Card Company as investor
+
+Stripe, the company that lets app publishers, online merchants and other digital businesses include payments features via a few lines of code, is expanding in Asia. After launching inSingaporetwo weeks ago, the startup is now officiallyopeningfor business inJapan. And alongside the Japan launch, Stripe is announcing a new investor.Sumitomo Mitsui Card Company, the largest credit card provider in the country, is taking a stake in the startup.
+
+Sumitomo Mitsui and Stripe are not disclosing the amount that is getting invested, but it is strategic: the companies have been partnering since Stripe launched a beta of its service in Japan, in May 2015.
+
+Sumitomo Mitsui, which was also the first partner for Visa in Japan (Visa isalso a Stripe backer), is also working with Stripe on the full, official rollout. It’s helping specifically in areas like multi-currency acceptance: merchants and other businesses in Japan can use Stripe to sell goods in some 130 different currencies — a big advance on current offerings that are restricted to yen.
+
+(Doing some simple math, I’m guessing that Sumitomo Mitsui’s investment is at least $10 million and a follow on from its previous round:Crunchbaselists $290 million in funding for Stripe, while Stripe itself, in thenews releaseit sent out around the funding and launch, notes that it has raised “around $300 million” at a valuation of $5 billion, the same valuation it had around its last funding round inJuly 2015.)
+
+The lengthy beta period meant that Stripe picked up a number of customers before its official launch today: they include All Nippon Airways, e-commerce platform BUYMA, event app Peatix, and SmartHR. Globally, Stripe says it has around100,000customers, including large marketplace startups like GoFundMe, on-demand, mobile-first businesses like Lyft and Instacart, and many more.
+
+Stripe takes a 3.6% commission on each approved card charge in Japan, similar to its basic rate in other countries; using its API is free.
+
+Adding Japan brings the total number of countries where Stripe is live to 25 — and just a day after Japan,Stripe added Spain, for a total of 26 countries. While Stripe is now on something of a roll internationally, adding Japan is a notable launch for a couple of reasons. For one, it’s a big market for Stripe to tackle: Japan is thesecond-largest economy in Asia(after China) in terms of GDP and one of the biggest globally.
+
+There are a number of other payment providers in the market — they includeRakuten(which also investsin one of Stripe’s competitors,WePay) andPayPal, among others. But Stripe said that its multi-currency feature — its API will let businesses sell to customers in 130 different currencies, not just yen — is a first for merchants and other businesses in the country.
+
+In the past, Japanese companies would have had to set up separate bank accounts and business entities to process non-yen currencies, in part because “Japan’s financial infrastructure was built independently from the rest of the world and some of the mechanics have made it challenging for Japanese businesses to expand globally,” in the words of Daniel Heffernan, who heads up Stripe’s business in Japan.
+
+“Japan has been a powerhouse in technology for decades, but bridging to the rest of the world economy is an achievement only a small percentage of companies have accomplished,” Patrick Collison, co-founder and CEO ofStripe, said in a statement. “Stripeaims to empower more Japanese companies to export their creativity and ambition to the rest of the world.”
+
+The new service in Japan will also include fraud protection and other security features; and as with other markets, Stripe will also build a larger financial services ecosystem around its basic payments service to improve its margins.
+
+Those other services include accounting, billing, security, and PCI compliance, as well as access to third-party technologies like Apple Pay and Android Pay. (Some features — likeInstant Payouts, which was launched last month — are still not available outside the U.S.)
+
+Considering that Stripe has had an office in Japan since June 2014, I asked Heffernan why it took so long to launch there.
+
+“Rather than launching a one-size-fits-all product everywhere, we think about each new market from first principles, taking our time to get to know the nuances and understand the unique needs and pain points of local businesses,” he said. “This helps us address the most pressing needs of developers and offer the best possible product for a particular market.”
+
+It also sounds like it took some time to work out how to handle more than one currency.
+
+“We built this feature from scratch for the Japanese market, which involved a considerable amount of time and work to make it available today,” Heffernan said. “Multicurrency has never before been available in Japan, and we wanted to make that happen.”
+
+Sumitomo Mitsui’s investment is interesting because it comes on the heels ofreportsthat the financial services company was looking to invest in rising fintech startups (in other words, there may be more to come).
+
+The context here is that there weren’t many fintech investments in the country immediately prior to 2016, in part because of regulation, and in part because of cautious strategies around new financial models in the wake of disasters like the Mt Gox bitcoin exchange, which was based out of Tokyo.
+
+To some extent, even the Stripe investment went through some reality checks: “We looked at the most sophisticated global technology companies — Facebook, Twitter, Kickstarter — and they all useStripeto process payments,” says Hideo Shimada, Chairman of Sumitomo Mitsui Card Corporation, in a statement. “Stripeis bringing a new standard of financial and technological infrastructure to Japanese businesses and we are happy to support them.”
+
+As for what’s next, Stripe is currently still in beta in Hong Kong, and Heffernan said the company is seeing a lot of interest in Southeast Asia from users (based in countries it currently supports), and it is “in the very early stages” of exploring the market there. “Asia will continue to be a primary focus forStripeover the next few months,” he said.
+
+Other investors in Stripe include Sequoia Capital, Kleiner Perkins Caufield & Byers, Visa, American Express, Peter Thiel, Max Levchin, and Elon Musk.

@@ -1,0 +1,19 @@
+Pokémon Go promises to fix the bug that let it access all your Google data
+
+Pokémon Go isn’t reading your Gmail. The makers of the hot, new mobile game are fixing a bug that allowed the app to gain full access to users’ accounts, when they signed in using their Google account information. The company claims it didn’t mean to ask for such elevated permissions, and it will now correct this. Theapp had the power to access your Gmail, your Google Docs, your Google Photos, as well as track your location history, your search history, and more. And this was in addition to the app’s already necessary high-level access to things like your current location, camera, and phone sensors, which are needed for gameplay.
+
+The issue was isolated to iOS and only affected those who signed in using Google.
+
+Pokémon Go offers two ways to sign up – you can create a “Trainer Club” account by creating a username, or you could sign up using your existing Google account. For those who chose the latter option, the iOS version of the game would then gain full access to your Google account. Not only is that a privacy nightmare of sorts, there was also some concern over Pokémon Go’s close ties to Google, which had built its business on data-mining from its users. Pokémon Go’s creator, Niantic Labs, wasspun out of Google/Alphabet last year, andGoogle still holds a stake in the company.
+
+According to a recently released statement released by Niantic Labs, however, the app’s overzealous permissions were just an error, and it hasn’t either received or accessed users’ private information, Google confirmed. The app only accesses users’ basic Google profile information – meaning their user ID and email address, it says.
+
+The company also notes it’s working on a fix for the problem, so that it will no longer request full access to Google accounts, and Google will reduce Pokémon Go’s permissions on its side so current users won’t have to take any further action to protect their data.
+
+In other words, you won’t have to delete your account and lose all your progress, just to keep the company from gaining access to your private data. (Whew!)
+
+Niantic sent TechCrunch its full statement, which you can read below:
+
+We recently discovered that the Pokémon GO account creation process on iOS erroneously requests full access permission for the user’s Google account. However, Pokémon GO only accesses basic Google profile information (specifically, your User ID and email address) and no other Google account information is or has been accessed or collected. Once we became aware of this error, we began working on a client-side fix to request permission for only basic Google profile information, in line with the data that we actually access. Google has verified that no other information has been received or accessed by Pokémon GO or Niantic. Google will soon reduce Pokémon GO’s permission to only the basic profile data that Pokémon GO needs, and users do not need to take any actions themselves.
+
+For more information, please review Niantic’s Privacy Policy here: https://www.nianticlabs.com/privacy/pokemongo/en

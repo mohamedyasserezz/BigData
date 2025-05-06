@@ -1,0 +1,27 @@
+Sift Science raises $30 million to predict and prevent fraud everywhere online
+
+To predict and prevent fraud online even more quickly than cybercriminals adopt new tactics,Sift Sciencehas raised $30 million in a Series C round of venture funding in a round led byInsight Venture Partners.
+
+According to the U.S. Internet Crime Complaint Center (IC3)2015 annual report, reported internet crimes alone, ranging from personal and corporate data breaches to credit card fraud, phishing and identity, theft cost victims $1.07 billion.
+
+The financial losses to U.S. businesses as a result of such crimes go well beyond what is reported to IC3, of course.
+
+Certain types of sites and apps are under more frequent attacks than others, with digital gift card businesses, money transfer services and on-demand marketplaces rampant with fraud attempts.
+
+Sift Science uses machine learning and artificial intelligence to automatically surmise whether an attempted transaction or interaction with a business online is authentic or potentially problematic.
+
+Sift CEO Jason Tan explained that in an earlier wave of e-commerce, companies relied on rules and rigid systems to flag potential fraudsters. Flagged cases then required a manual review before the company could authorize or deny a purchase, return, redemption of a gift card or other transaction.
+
+Static, rules-based systems leave companies turning down too many good customers and users, but also missing important trends in cybercrime before they strike home, Tan said.
+
+Sift’s machine learning systems constantly track what’s normal behavior online and what is aberrant behavior most strongly correlated with criminal activity. The company’s early clients were mostly involved in retail and e-commerce in the U.S., and wanted to avoid chargebacks that result from fraud.
+
+But Sift now helps protect more than 6,000 websites and apps, including Airbnb, Yelp, Indeed, Zillow, Match.com, Twilio, OpenTable and Wayfair.
+
+One goal that Sift has today, the CEO said, is to make sure that every corner of the internet can remain safe without becoming as annoying and inefficient as an airport’s security checks, from a user experience perspective.
+
+The San Francisco-based company will use its capital to support an expansion beyond retail and e-commerce, and for hiring. Sift currently employs about 60 full-time staffers. It wants to add another 30 employees over the next year, at least.
+
+Today, Sift alsolaunched productsaimed at predicting and preventing fraud on sites and apps that are community or content focused, rather than e-commerce and the sales of goods and services. Sift’s products, including the new ones, are SOC Two II certified.
+
+The company competes with massive security companies like RSA and IBM, but also a cadre of startups that use machine learning for fraud prevention, like Riskified, Signifyd and Forter.

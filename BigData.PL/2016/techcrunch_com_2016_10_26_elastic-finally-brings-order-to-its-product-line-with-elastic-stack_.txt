@@ -1,0 +1,23 @@
+Elastic brings order to its product line with Elastic Stack
+
+For the last several years,Elastichas offered a range of analytics and visualization tools to go with its open source search engine. Today, it announced it was pulling those pieces together into an integrated stack.
+
+The new product known as Elastic Stack includes all of the company’s products: Elasticsearch, Kibana, Logstash and Beats. It’s available for download or as part of the Elastic Cloud for those who would prefer a cloud service.
+
+Elastic has been making waves by being a different kind of search company. First of all, it’s open source, so all of the core tools are available to download for free. You also can buy more advanced tools if you are so inclined, what they call commercial extensions for the products. In addition, the company’s products come packaged as cloud services for those folks who don’t want to deal with the heavy lifting of hosting.
+
+Those commercial extensions known as X-Packs provide additional capabilities, including security, graphing, monitoring, alerting and reporting.
+
+The release of Elastic Stack, which also is release 5.0 for those keeping score at home, provides easier ways to connect the different pieces of the product family than in the past when they acted as five separate products with different release cycles.
+
+To that end, starting today, all of the products in the family are also on the same release schedule, making it a simpler matter for customers using more than one product in the stack to keep all of them updated.
+
+The fact is that enterprise search has become so much more than finding files inside a company. It’s about making sense of a staggering amount of data from internal and external sources. It could be about finding anomalies for security purposes or finding the data that points you to your next product idea. It’s become much more data-driven and much less file-driven.
+
+Company founder and CTO Shay Banon says he started Elasticsearch to help enterprises find stuff, but he never wanted to be a conventional enterprise search company. Over the years, his company has made strategic acquisitions to expand that vision, and customers have been asking for ways to make the products work together in a more direct way. Elastic Stack provides that for them.
+
+The company philosophy involves using open source as a commercial driver to get developers inside a company interested in the products. They may download one or more of the Elastic products and build an application that gets deployed in the production environment. Others inside the organization could begin to take notice and that could provide commercial opportunities.
+
+“We are the same as the freemium model. We give users a great product they can download and be successful with, but we have enough commercial IP and feature sets so people will pay us,” he explained.
+
+Elastic has raised $104 million since it launched in 2012 and has acquired three companies, includingFound,Packetbeatand, most recently,Prelert, which it bought just last month.

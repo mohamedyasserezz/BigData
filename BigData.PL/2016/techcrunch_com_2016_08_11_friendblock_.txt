@@ -1,0 +1,37 @@
+Facebook rolls out code to nullify Adblock Plus’ workaround again
+
+Adblock Plus launched aworkaroundto Facebook’sad block bypasstoday that ham-handedly removes posts from friends and Pages, not just ads, according to a statement provided by Facebook to TechCrunch.
+
+“We’re disappointed that ad blocking companies are punishing people on Facebook as these new attempts don’t just block ads but also posts from friends and Pages. This isn’t a good experience for people and we plan to address the issue. Ad blockers are a blunt instrument, which is why we’ve instead focused on building tools like ad preferences to put control in people’s hands.”
+
+That “plan to address the issue” is coming quick. A source close to Facebook tells me that today, possibly within hours, the company will push an update to its site’s code that will nullifyAdblock Plus’ workaround. Apparently it took two days for Adblock Plus to come up with the workaround, and only a fraction of that time for Facebook to disable it.
+
+[Update: A source says Facebook is now rolling out the code update that will disable Adblock Plus’ workaround. It should reach all users soon.
+
+Update 2 – Aug 12, 4:30am PT: Now Adblock Plus says they’ve pushedanother workaround]
+
+Update 3 – Aug 12, 10:05am PT: And Facebook has already broken the new workaround from Adblock Plus, which vows to strike back soon. Ina new blog post, Adblock Plus declared “Trampling on users’ free will is not sustainable — even if you’re Facebook”. The company writes
+
+“Anger or blame toward ad blockers is misdirected; we merely enforce “the will of the people” (via the open-sourced filter lists)…it’s disheartening that a company like Facebook would abuse everyone’s experience of their site by forcing that experience into a one-size-fits-all, see-the-ads-or-else tube. The internet just doesn’t work that way. At least it shouldn’t.
+
+In the meantime we’ll do what we can to keep users in control in the apparently endless loop”
+
+The cat-and-mouse game is sure to rage on.
+
+https://twitter.com/boztank/status/763791253335007232
+
+On Tuesday, Facebook announced it had blended the HTML of its ads on the web into its content so they’d still appear to users with ad blocking software. The company argued that by providing users with more opt-outs of ad targeting, it was addressing a top concern of ad block users, executing on its mission to connect people to businesses as well as each other, and that it’s wrong to avoid compensating websites for their ad-supported services.
+
+Within hours, the leading blocker software company Adblock Plus quickly vowed to crowdsource a workaround from its community. Today it released that update to its filter that it claims once again removes Facebook’s ads. But on August 11th Facebook accused it of ensnaring legitimate content from friends and Pages, and rolled out the code necessary to thwart Adblock Plus’ workaround. The next morning, Adblock Plus pushed a new workaround, but Facebook broke it within hours.
+
+Adblock Plus may be at a disadvantage because on some platforms it has to get users to update their software or edit their filter list manually in order to push its next move. Even a once daily update could be too slow.  Facebook can unilaterally revise its website’s code for all users without them having to do anything. That means by the time most of Adblock Plus’ users have downloaded the update, Facebook may have already broken it and be one step ahead.
+
+Facebook also has a larger financial incentive since it loses more money per ad blocked than Adblock Plus gains.
+
+On the other hand, all websites are interpreted by users’ browsers, good giving people strong leverage to control what they see. Meanwhile, Facebook does need to make its ads identifiable to comply with FTC rules about not misleading people. That little “Sponsored” label gives Adblock Plus the scent of what it’s searching for.
+
+The battle has reignited the debate about the legitimacy of ad blocking software. Some users view it as a way to keep adtech in check and stop sites from serving them malware or tracking them in ways they perceive to violate their privacy. Others just don’t want to look at ads while they browse or wait for them to load.
+
+Opponents of ad blocking software, including social networks and news outlets, insist that it robs product and content creators of their fair compensation. They call ad block developers racketeers who don’t actually care about the user experience since they demand and accept ransom money in exchange for letting a site’s ads pass through their blocker. Some go as far as to equate blocking ads with stealing services.
+
+While adtech’s power has dramatically increased over the years, ad blockers are a blunt weapon that hurt the monetization potential of relatively benign sites in order to excise the malware and improper tracking. Neither side is likely to relent, though, so we’re in for a war between Facebook’s elite engineering team and a crowdsourced army of ad blocking hackers.

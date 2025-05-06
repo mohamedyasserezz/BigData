@@ -1,0 +1,15 @@
+PepperHealth can detect vitals and send out an emergency alert for elders in trouble
+
+Pepper, the humanoid robot, is coming up with all sorts of ways to serve its human overlords, including in eldercare.
+
+The little rolling robot took to the stage at the Disrupt SF Hackathon today to show how it could help our aging parents, should theyfall and not be able to get up.
+
+According to PepperHealth creators Ethan Fan and Angelo Hizon – bothBattlefield NY 2015veterans for fitness app VimoFit – PepperHealth will also detect a rapidly rising heart rate, check in on how you’re feeling, follow up on your sleeping habits and remind you to take your meds — the robot will even call up an Uber for those unable to use a smartphone.
+
+It works by detecting abnormal vitals through the Watch such as a rapid heart rate or a fall and then Pepper “wakes up” and comes over to check out what’s going on. Should something serious happen, Pepper will alert a built-in emergency system and give medics the elder’s location to get them immediate assistance.
+
+There are a few glitches to the system, however. Old people will need to purchase an Apple Watch and a Pepper robot (only available in Japan at the moment), pricing it out to a bump over $2,200 U.S.
+
+That’s still cheaper than hiring an in-home care assistant to monitor someone around the clock. And the robot could be used in an elder care facility, assisting hundreds of people at the same time. Of course, the Apple Watch could also detect a fall or a heart problem using its own monitoring system — reducing the cost by nearly 200,000 yen, but it doesn’t have that humanoid interaction that Pepper offers, say the creators.
+
+The idea has the potential to help the more than 41 million senior citizens in the U.S., tapping into the$320 billionelder care industry.

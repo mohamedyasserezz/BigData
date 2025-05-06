@@ -1,0 +1,19 @@
+Bitmovin grabs $10.3M as it looks to crack VR video adaptive streaming
+
+It’s pretty odd that even while people are chatting about producing the VR video’s crazy theoretical future with 8K resolution per eye, stereoscopic rendering and light field-ready footage, I’m still here struggling to keep Louis C.K. clips from buffering on my mobile phone.
+
+For VR to be successful, companies are going to need to start correcting some of the growing pains of high-quality streaming.
+
+Bitmovinis aiming to start solving some of these issues through a technology called adaptive streaming, which dynamically adjusts video quality depending on the user’s device and internet connection. The company says its technology encodes videos 100x faster and provides higher quality output than any other service on the market.
+
+Bitmovin’s technology does more to solve the issues related to optics-quality mismatches between different VR headsets. It doesn’t make sense, for instance, to stream insanely high-res footage to a mobile VR headset with a standard HD screen. As high-end VR tech progresses, this mismatch is likely only going to get wider.
+
+“This year a lot of VR headsets from Oculus to HTC  and Sony, as well as 360 degree cameras such as the Orah, Giroptic, Nokia’s Ozo, etc. are entering the market,” saidStefanLederer, Bitmovin’s CEO. “A big change is coming in how we make and watch video.”
+
+Bitmovin is aiming to get behind that big change before its competitors do. The company has just completed a $10.3 million Series A round of funding led byAtomico. Lederer is hoping to use the funding to accelerate development of Bitmovin’s adaptive streaming tech on new mediums like VR.
+
+The startup is already providing services for some of the most recognizable names in the VR industry, but most of the company’s efforts currently lie in more traditional video streaming landscapes, something its founders have a pretty significant background in.
+
+Bitmovin’s co-founders created the MPEG-DASH video streaming standard, which powers streaming on services like Netflix and YouTube and accounts for 50 percent of peak U.S. internet traffic. Bitmovin’s HTML5 player can play videos using the MPEG-DASH and HLS formats on a wide range of platforms, including desktop web and mobile, as well as Smart TVs and VR headsets.
+
+“Consumers have come to expect high-quality video anywhere, and on any device,” said Teddie Wardi, principal at Atomico. “They have little patience for buffering and skipping, andBitmovinwill solve this problem.”

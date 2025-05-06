@@ -1,0 +1,21 @@
+How USA Swimming trains with BMW’s Motion Tracking System for the 2016 Olympics
+
+BMW might have found a low-risk way to test its autonomous driving systems — in the pool. Wait…what?
+
+For the past six years, BMW has been the official mobility partner of the U.S. Olympic Committee. As part of the role, the automaker has created a customized motion tracking system for USA Swimming, treating American swimmers like they’re autonomous cars in chlorine.
+
+How? Well, on the road to Rio for the 2016 Olympics, BMW is using what it calls its new “taillight” solution. That has the company implementing LEDs, just as they would on their cars, but as illuminated markers on swimmers’ bodies. The lights illuminate their paths underwater, allowing coaches to measure all of their movements more efficiently.
+
+LEDS are mounted onto swimmers’ wrists, shoulders, hips, knees, ankles and toes. The mounting system was 3D printed, by the way. An underwater camera then interfaces with the motion tracking technology, and BMW’s software enables coaches to analyze swimmers’ dolphin kick.
+
+Their technique can be scrutinized movement by movement, pinpointing  limb and joint angles, with quantitative feedback. Prior to this point, BMW had fit adhesive markers on the same joint locations on swimmers, sans the LEDs. Obviously, this tool with the LEDs takes a deeper dive into analyzing swimmers.
+
+PeterFalt, Director of BMW Group Designworks, told me that the system was customized to “hold up to the intense forces of Olympic swimmers,” but also “disappear, meaning that they are not noticeable by the swimmer or impede their motion in any way.” Falt explains that was important to “ensure the training didn’t create a different feeling or result than would be experienced in real competition.”
+
+At the heart of the BMW’s motion tracking system for USA Swimming is two algorithms designed to detect and adaptively track a swimmer’s motion. One of them, computer vision, is used in the automaker’s cars to identify humans, park distance, lane deviation and active cruise control. The combination of computer vision and software algorithms is a core aspect of BMW’s automated driving systems as well.
+
+BMW’s original motion tracking system helped USA Swimming stroke its way to 16 of America’s 46 gold medals in the 2012 Olympics. Now improved with LEDs, the squad has high hopes for the technology in Rio and beyond.
+
+“The goal is that by comparing measurements to performance over time, we can use BMW’s motion tracking tool to hone in on technique adjustments that work best for each individual swimmer,” said Russell Mark, USA Swimming’s National Team performance consultant. “The tool is an exploratory project that we’ll continue evaluating over time, but our hope is that the potential of its outcome can make a significant impact on the future generation of swimmers.”
+
+The motion tracking system is one of four technology projects that BMW has produced under its sponsorship as the U.S. Olympic Committee’s official mobility partner. The other three include: a velocity measurement system for long jumpers, a two-man bobsled, and a carbon fiber racing wheelchair for the U.S. Paralympics Track and Field Team.

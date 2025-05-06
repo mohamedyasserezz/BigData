@@ -1,0 +1,35 @@
+Pebble confirms it’s shutting down, devs and software going to Fitbit
+
+RIP Pebble… The wearable maker that pioneered wrist-based notifications before Apple and many others waded into the smartwatch space has confirmed it’s closing its doors as an independent entity.
+
+Late last monthrumors emerged that Fitbit was set to acquire Pebble — with our sources telling us the price-tag was between $34 million and $40M, a figure they said “barely” covered the startup’s debts. Although the company avoided an explicit confirmation of the rumor by tweeting a shrug emoji until now.
+
+Today Pebble’s CEO Eric Migicovsky has publisheda blogwith official confirmation of the acquisition and details of what will happen to Pebble products. The post does not confirm the acquisition price, however.
+
+“We have made the tough decision to shut down the company and no longer manufacture Pebble devices,” he writes. “While dissolving Pebble as you know today is difficult, I am happy to announce that many members of Team Pebble will be joining the Fitbit family to continue their work on wearable software platforms.”
+
+“It’s a bittersweet day, but I want to extend my biggest thanks to the Pebble community,” he adds.
+
+Migicovsky goes on to note that while Pebble devices will continue to work “as normal” — and asserts there will be “no immediate changes” to the user experience “at this time” — he does also warn that “Pebble functionality or service quality may be reduced in the future”.
+
+As for Migicovsky himself, he is moving on to the Y Combinator accelerator program, which recently lost its head of hardware, a source told us. That echoesan earlier report from Bloombergwhich noted the same.
+
+So really it sounds like it’s only a matter of time before Pebble wrist-wear reaches the end of the functionality road — with whatever lifespan left now up to Fitbit to determine.
+
+Warranty support for Pebble devices has already been withdrawn, according to the blog post. While the Pebble 2, which onlystarted shipping earlier this month, has now been canceled — with no more orders being accepted or fulfilled.
+
+Kickstarter backers whose rewards have not yet been fulfilled are slated to get a full refund within 4-8 weeks as a chargeback to their credit cards. Anyone who returned a Pebble device before December 7 will also get a refund, according to the post.
+
+In terms of what exactly Fitbit is acquiring, Migicovsky writes that “many” Pebble staff will be joining Fitbit to work on wearable software platforms.
+
+The focus of the acquisition looks firmly to be software. “The arrangements were finalized today for Fitbit to acquire our technology, software, and other intellectual property (IP),” says Migicovsky.
+
+“The team joining Fitbit will help the company accelerate development of the tools and resources devs need to enhance future Fitbit products with experiences that can take wearables to new heights of utility and appeal,” he adds.
+
+On another post on the itsdeveloper blog, Pebble says: “The Pebble SDK, CloudPebble, mobile apps, developer portal, appstore, timeline API, dictation service, messaging service, and firmware will all continue to operate without interruption. Further down the road, we’ll be working to phase out cloud services, providing the ability for the community to take over, where possible.”
+
+The post goes on to urge the Pebble dev community to stick around and get involved in the forthcoming Fitbit wearable “experiences” that Pebble devs will now be working on.
+
+According toCrunchbase, Pebble had raised $15.38M since being founded back in 2009, with a large chunk of its funding coming via the Kickstarter crowdfunding platform.
+
+Pebble winding down is, inevitably, a high-profile disappointment for crowdfunding — whose platforms hold out the promise of a leg up for small innovators, yet have fewer solutions for longer term business sustainability in the face of more powerful market forces.

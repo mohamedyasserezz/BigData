@@ -1,0 +1,11 @@
+AWS’s Elastic File System is now ready for production use
+
+Over a year ago, Amazon’s AWS cloud computing unitannouncedthe beta launch of theAmazon Elastic File System(EFS).
+
+While AWS already offers a number of cloud storage services in the form of S3, Glacier and Elastic Block Store, the idea behind EFS is to offer AWS users access to a more straightforward file storage system that at least partly mirrors the features of the kind of on-premise storage servers many enterprises use — but for EC2 instances in Amazon’s cloud.
+
+“Many AWS customers have asked us for a way to more easily manage file storage on a scalable basis,” AWS chief evangelist Jeff Barr noted in today’s announcement. “Some of these customers run farms of web servers or content management systems that benefit from a common namespace and easy access to a corporate or departmental file hierarchy. Others runHPCandBig Dataapplications that create, process, and then delete many large files, resulting in storage utilization and throughput demands that vary wildly over time.”
+
+EFS automatically scales up or down depending on how much storage your files need. It uses the standard NFSv4 protocol, so most existing apps should be able to use it. AWS also notes that there is no upper limit to how much you can store and you’ll be able to choose between two performance modes: general purpose, which is the default, and ‘max I/O,’ which is optimized for throughput but incurs some higher latencies for file operations.
+
+The service is currently available in AWS’s US East (N. Virginia) and West (Oregon) regions, as well as in the EU (Ireland) region. Storing a gigabyte of data in the U.S. regions will cost $0.30 per month and $0.33 in Ireland.

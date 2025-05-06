@@ -1,0 +1,33 @@
+xAd raises $42.5M more, buys WeatherBug to boost location-specific marketing
+
+xAd, the ad network that serves you ads in apps and mobile web pages based on your location, is today announcing another hefty round of funding, as well as its first acquisition in the world of consumer apps to grow its audience and data set. The company has raised $42.5 million, and it’s buyingWeatherBug, the popular weather app that competes with the likes of the Weather Channel app from The Weather Company (now owned by IBM).
+
+xAd’s valuation is not being disclosed with this round, but CEO and founder Dipanshu Sharma told me in an interview that it’s “definitely an up-round.” The company had not disclosed its valuation in the past, either, but whenit last raised money, a Series D of $50 million in 2014, xAd was valued at $250 million, according to one report.
+
+As with that last round, this Series E was an opportunistic raise. Led by Eminence Capital and joined by W Capital, IVP and Emergence Capital (plus a large tech company that only wants to release its name tomorrow, we’ve been told), the investment comes at a time when xAd is already profitable. Sharma said xAd raised this in order to fund the acquisition of WeatherBug from previous ownerEarth Networks.
+
+That’s not to say that WeatherBug was a $42.5 million transaction — xAd is not releasing those terms, either, but Sharma told me it was more than this. The Series E brings the total raised by the company to $116.5 million.
+
+The funding comes at a crossroads for the world of location services.
+
+In the early days of smartphone use, the promise of location services was just that — a concept that people were still working on to make a reality. These days, location in apps is something we’ve come to expect to just work. At the same time, some have grown wary of location services: they can drain our batteries, they might feel intrusive and what data are they collecting, exactly?
+
+xAd predicates its service on the idea that push-based notifications are indeed intrusive, and that the most effective location-based advertising is the kind that comes to you because you are already open to seeing something. “You’re already in the app experience,” Sharma said.
+
+xAd works by using GPS signals within apps, server integrations and location requests if you have them turned on, but no Wi-FI (“we don’t touch WiFi”) and then, when you are in a particular location, and you open an add-based app or web page, xAd — which has negotiated placement in various mobile ad networks — will serve you an ad relevant to that location. It uses this formula to place ads in some 150,000 apps today.
+
+This is where the WeatherBug acquisition will figure in more ways than one. The app is popular, consistently ranking within the top five downloads on iOS and top 10 on Android within weather apps, according toApp Anniefigures. xAd says that it had 20 million unique users per month. (xAd itself counts its reach by devices and places, respectively numbering 500 million and 100 million.) On a simple audience level, it gives xAd access to an audience that regularly checks the app, and tends to check it with locations in mind, meaning that advertising accuracy is guaranteed.
+
+But WeatherBug will also give xAd a huge data trove that can be used in xAd’s wider platform, too.
+
+When Earth Networks developed the app, it stood apart from a number of other weather apps in that it also built out a network of weather sensors that formed the basis of its weather updates and forecasts. Interestingly, those sensors are located globally even though WeatherBug was only marketed in the U.S.
+
+xAd has not acquired those sensors, but it has picked up an extended license to use their data as part of the deal. And the plan will be to invest in a global rollout to tap into that network better, Sharma told me.
+
+The weather data, he added, is a perfect complement to location and for providing more color that can help deliver more relevant marketing to users in particular locations. Weather and environment data and its many applications, of course, was a key reason behind IBM’s acquisition ofThe Weather Company, reportedly in a $2 billion deal.
+
+This looks like it’s xAd’s second acquisition, although its first of a publisher property. (The first wasback in 2011, mobile search and mobile ad assets from a company called Go2.)
+
+Looking ahead, Sharma said that xAd plans to look at more of these. Sharma said that this is part of a long-term plan he and management and the board planned out some time ago, to acquire key apps that have strong use cases and audiences for location services. While he wouldn’t say what might be the next target, categories that might potentially also be included in such a strategy include fitness apps and mapping services.
+
+And the bigger strategy behind this, he said, is to help xAd remain an independent player even as the likes of Facebook and Google ramp up with more location functionality in their own platforms and advertising, and many others continue their wider consolidation in the wider world of adtech.

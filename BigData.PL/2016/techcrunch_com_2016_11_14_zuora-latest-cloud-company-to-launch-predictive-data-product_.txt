@@ -1,0 +1,19 @@
+Zuora latest cloud company to launch predictive data product
+
+Zuora, the cloud company that helps SaaS companies and others manage their subscription businesses, launched Zuora Insights today, a product designed to help customers understand the nuances of the data behind the subscriptions.
+
+Like so many SaaS companies these days, Zuora understands that there is value in the data they produce on a daily basis as a byproduct of simply doing business. They believe they can put this data to work to help customers link subscription revenue to key business metrics. What’s more, they think they are in a much better position to do this than traditional accounting software from vendors like SAP or Oracle, which use traditional GAAP accounting methods.
+
+“Insights allows our customers to combine financial, demographic and behavioral data that has been traditionally siloed. It represents the next major step these [subscription-based] companies will go through,” Zuora CEO Tien Tzuo told TechCrunch.
+
+Like Zendesk,which recently launched Zendesk Exploreto provide customer insight across the company, Zuora wants to make more practical use of its data. For Zuora, that means finding ways to combine the subscription data with other relevant customer information. Since Zuora is tightly integrated with Salesforce, it should come as no surprise that you can combine Zuora data with Salesforce customer data to build a more complete picture of the customer.
+
+The idea is to allow users to proactively make use of all this data to find possible issues and understand customers better to improve their businesses.That could mean trying to upsell a happy customer when the time is right, while making it easy to upgrade, or it could involve identifying customers giving signals they might be ready to unsubscribe to proactively try to prevent that.
+
+In the subscription business, losing customers is measured by the churn rate. You want as low a churn rate as possible. If you can use data to prevent churn, you are going to have a more successful subscription business. This ability to use the data to actively engage the customer has the potential to be a huge differentiator.
+
+“In next phase of the subscription economy, customers will not be satisfied with backward metrics. They want information to drive the business,” Tzuo said.
+
+Zuora launched in 2007, long before most people had even heard of subscription revenue, but founder Tien Tzuo had a vision of a changing software market that was ahead of its time. Today, the software business (along with many others) has caught up with the vision — and Zuora wants to help customers understand their subscription businesses better.
+
+Zuora customers include Ford, Surf Air and Trulia, as well as more traditional SaaS companies like Box and Zendesk. The company has raised over $240 million and has a valuation of over $1 billion.

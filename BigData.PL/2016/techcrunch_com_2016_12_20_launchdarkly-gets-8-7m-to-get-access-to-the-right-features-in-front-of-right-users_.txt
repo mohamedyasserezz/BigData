@@ -1,0 +1,21 @@
+LaunchDarkly gets $8.7M to get access to the right features in front of right users
+
+LaunchDarkly originally launched to nail a big pain point for developers that has been a luxury at larger companies for a while — soft-launching features and new code for a small set of users seamlessly and being able to quickly roll them back.
+
+But since the company launched and last raised $2.6 million in June, CEO Edith Harbaugh and the team have found a new audience for that: the marketers and business teams within companies that want to be able to turn on those features for the right users. And that potential has caught the attention of investors, leading to a new $8.7 million round of financing led by DFJ, with Softech and Bloomberg Beta following on.
+
+“Our original tagline was Launch, Measure, Control,” Harbaugh said. “We’ve expanded the definition of who in the organization can do that. We were focused originally on developers, we still love developers, but we want to put those capabilities into the rest of the hands of the business.”
+
+The idea is that while developers have had the ability to flip on new code and features within the LaunchDarkly dashboard and services, the business side of the company also needs the ability to do that but has traditionally had to go through the developers to get that done. One example would be securing a client and needing to turn on the right features for them right away without having to go to the engineering side and telling them to flip the switch.
+
+It’s not too far off the original vision for LaunchDarkly, but it does indeed expand the market opportunity for the company. And it should be doubly true for larger companies with big, sprawling employee bases that need access to these kinds of tools as they close deals and acquire new users.
+
+Harbaugh was well familiar with the problem from her days at TripIt and other companies, where a launch could quickly go south and do some serious damage if it weren’t tested properly with a small set. But it turns out that LaunchDarkly users saw the potential for it to go beyond just keeping disasters from happening when rolling out code, which has helped Harbaugh expand the original scope of the company.
+
+Harbaugh said that this is a tool that helps larger companies like Facebook better roll out new features, such as giving a set of users an early look at new features or rolling out small tests. Facebook and those companies have those tools in-house, Harbaugh said, which is not only good for the business but also attractive to professionals as it helps keep things moving smoothly.
+
+“We saw how upset people were with current systems, people were trying to do this with a home-brew fix,” Harbaugh said. “They know the bigger companies have it in-house, Twitter and Google, they would send us details, that we want these features. We know the big companies can build this in-house but we can’t. The bigger companies are more successful because they have this functionality, and the other companies said they want this too. We want to be able to have all our code live and ready and when a big launch hits, and turn on that feature and not be stressed. There’s always a lot of anxiety.”
+
+There’s always a chance that these companies could open-source this technology and make it widely available to companies that might want to implement something like this. And some of these features are already trickling out to some extent, but LaunchDarkly offers a more comprehensive look at how to roll these new features out, Harbaugh said. It also gives companies the ability to silo out who can give features to which users, which helps ensure that a launch doesn’t go rogue or someone gets access to too much data.
+
+“The issue is, the real value we have is all the user interface, the dashboards, the control,” she said. “That’s not what they open sourced. The other thing that’s difficult to do is do this at scale. We serve 4 billion features a day. Not only what we’re doing is very important, it’s very hard to build at scale. Facebook open sourced the basic functionality of service features to different pieces, but they didn’t open source who has access to what, which layers. That’s the real business value.”

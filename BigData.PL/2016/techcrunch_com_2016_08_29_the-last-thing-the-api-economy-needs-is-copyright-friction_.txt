@@ -1,0 +1,21 @@
+The last thing the API economy needs is copyright friction
+
+TheOracle versus Google verdictset a positive precedent for the future of theAPIeconomy, but will itlast? What is at stake if the decision is reversed?
+
+While on the surface Oracle versus Google might seem like a battle for profit between two tech giants, the implications are much more significant. This is a battle for interoperability and the merit-based making of entire markets.
+
+Imposing copyrights on APIs would introduce legalfrictionand stunt innovation, favoring those with deep pockets over those with creative ideas. APIs have risen from the developer ranks to the boardroom, and we’re just starting to see the impact they will have on business and theeconomyat large.
+
+Nearly every enterprise today runs on APIs: eBay generates 50 percent of its revenue through APIs while Expedia generates nearly 90 percent; Amazon has more than 33 open APIs while, by contrast, Walmart has only one.
+
+There are more than 15,000 open APIs, according toProgrammableWeb, and millions more private APIs. Businesses are leveraging APIs to create application networks that are fundamentally changing the pace of business. An application network allows business to easily experiment with new technology — mixing, matching and swapping out technologies as needed — to build better customer experiences and create new revenue channels.
+
+The value of APIs is precisely because they allow easy access to the systems behind them, enabling value chains to be composed. Introducing legalfrictionby havingAPIproviders constantly worried about making that access look unique, and developerfrictionby forcing developers to weave together APIs that are different only for legal reasons, results in throwing a wet blanket over this creative engine.
+
+APIs should be utilitarian, conventional, predictable. Think of a URL. We’ve come to agree that URLs should follow a set structure to make it easy for others to use them. We favor uniformity over creativity because the value of the URL doesn’t come from its structure, but rather where the URL takes you.
+
+The same is true of APIs. We should encourage developers to use a common language likeRESTfulAPIModeling Language(RAML) orSwaggerto accelerate the pace of innovation by making APIs reusable. As the industry standard for APIs shifts from creativity to uniformity, for example via RAML’s reusable patterns, thecopyrightquestion around APIs will disappear. It would be counterproductive to enforcecopyrightrestrictions on something that should be as standard as a URL.
+
+AsThe Economistastutely explained it, APIs are “a bit like a postbox is a standard way for sending letters. To use a postbox, you drop your addressed, stamped envelope into it, and expect the post office to take care of the rest. The addresses and stamps are standard. You don’t mind how the letter gets from the postbox to its destination, only that it does so. The system saves you the trouble of figuring out how to get the letter there yourself. APIs perform much the same function: they let programmers perform common tasks.”
+
+If we permit companies tocopyrightAPIs, it will disincentivize developers from opening up new services as APIs or, at the very least, slow down the development process. Going back to The Economist’s postbox analogy, think of how long it would take for you to get your letter to a recipient without the post office system. Would you even bother trying? Let’s not throw stones in developers’ paths. Let’s see what happens when we remove thefrictionand let developers’ imaginations run free.

@@ -1,0 +1,21 @@
+Facebook’s Trending Topics algorithm already screwed up
+
+Well, that was fast.
+
+Three days after Facebook said it wouldremove the human editorswho curate the Trending topics section and replace them with a purely algorithmic system, the company trended afake news story about Fox News anchor Megyn Kelly.
+
+The mistake seems like an easily avoidable one — the story on Kelly, which claimed that she had been booted from the conservative-leaning Fox News for being a secret Hillary Clinton supporter, had the unmistakable scent of bullshit. But without a human to catch the mistake, the story shot to the top of Facebook’s Trending list, beating out Beyoncé’s VMA performance and Anthony Weiner’s sexting scandal, before it was removed around 9:30 ET this morning.
+
+By trending the fake story, Facebook lent credibility to the hoax.
+
+TechCrunch understands from a source familiar with the situation that Facebook’s algorithm for Trending relies on the number of articles and posts about the topic — a relatively easy system to spoof with a fake, viral headline. The Kelly story was initially promoted to Tending because it met the conditions for acceptance at the time, according to Facebook’s review guidelines. However, on re-review, the topic was deemed as inaccurate and was removed from Trending.
+
+Facebook declined to comment on the matter.
+
+It’s a worst-case scenario for the company, which faced outcry from conservatives in May whenGizmodo reportedthat Facebook’s news editors were purposefully suppressing conservative stories in favor of liberal ones. Although it ultimately seems that the accusations of bias were overblown, Facebook wasn’t able to produce complete logs to back up its curation choices during that time.
+
+This also isn’t the first time since the dismissal of human editors on Friday that Facebook’s Trending section has been misled by an algorithm. Over the weekend,other inappropriate headlines trended, including one calling Ann Coulter a sexist slur and another about a video of a man masturbating with a McDonald’s sandwich.
+
+Facebook justified its decision to eliminate human editors last week by saying that the move was necessary in order to scale Trending topics to a broader audience. However, the company is learning a swift lesson in quality over quantity. The majority of Facebook users aren’t fact-checkers or journalists, as a quick scroll through your own Newsfeed will readily confirm. Surfacing stories based on how often users post about them is a surefire way to make clickbait trend — something Facebook’snew anti-clickbait algorithmsupposedly guards against. However, Trending’s reliance on clicks and re-shares in this case makes Facebook’s once-helpful news module far less useful for everyone.
+
+Additional reporting by Sarah Perez.

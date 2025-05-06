@@ -1,0 +1,33 @@
+Alexa can now fact check the 2016 election
+
+Having a heated argument while discussing the presidential elections with friends? Good news: Alexa can now fact check the 2016 campaign, answering questions about the candidate’s claims right on the spot. This includes statements made by Clinton and Trump, as well as other candidates and politicians whose comments have been checked.
+
+This fact-checking is being made possible by way of a new skill – one of the many add-on, voice-activated apps that enhance the powers of Amazon’s virtual assistant, who lives on devices like the Amazon Echo speaker, Fire TV, and others.
+
+The new “Share the Facts” skill comes from the Duke Reporters’ Lab, which leverages respected fact checkers, including those from the Washington Post’s Fact Checker, FactCheck.org, and PolitiFact, in order to answer your questions.
+
+To kick off the skill, once installed, you say: “Alexa, ask the fact-checkers…” followed by your query.
+
+The skill is capable of checking claims made during the debates, campaign ads, and other interviews.
+
+For example, here are some of the questions you can now ask Alexa:
+
+The skill, which is a spin-off fromthe Share the Facts project, works by using natural speech recognition to analyze and answer questions from a database of around 2,000 professionally curated fact checks. Results are scaled so they’re both timely, and have the most consensus among the launch partners’ fact checking services.
+
+This isn’t the only way Amazon’s Alexa has been helping users during the presidential campaigns. Amazon itselfrecently rolled out new functionality that allows you to ask debate and other election questions directly,without the need for an additional skill.
+
+For example, Alexa was able to tell voters when the debates were airing on TV, can answer questions about who’s leading the polls, and will be able to answer questions about what states a given candidate has won.
+
+The latter question is one of several voice commands Alexa will answer starting on Election Day, as the service will provide real-time updates on the election. You’ll also be able to ask things like who’s winning, what percent of the popular vote a candidate has, who’s winning overall, who’s projected to win a particular state, how many votes were collected in that state, the election results by district, or even just: “what are the election results?”
+
+Already, users have been turning to Alexa for answers about the ongoing campaigns and debates. Amazon says that Alexa saw a 4,000 percent increase in inquires related to the word “hombre,” during the final debate on Wednesday, as one example.
+
+And the two most popular debate questions that users asked were, in order of popularity: “Alexa, what time is the debate?” and “Alexa, who won the debate?”
+
+Amazon also says that Alexa users have asked millions of questions to date related to the 2016 election. Hundreds of thousands of those questions were related to the debates. And people asked twice as many questions about Donald Trump compared with Hillary Clinton, Amazon notes.
+
+For what it’s worth, Alexa isn’t picking sides herself. She doesn’t claim either candidate won the last debate, for example, responding that it’s not likely that either candidate lost or gained new votes.
+
+Meanwhile, when asked who she’s voting for – something users have now asked over 13,000 times – Alexa will only chirp:
+
+“There are no voting booths in the clouds – believe me, I’ve looked. It’s all ones and zeroes up here.”

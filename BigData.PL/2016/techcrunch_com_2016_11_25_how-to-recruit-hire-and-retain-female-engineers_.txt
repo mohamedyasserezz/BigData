@@ -1,0 +1,41 @@
+How to recruit, hire and retain female engineers
+
+Leaders at tech startups are alarmed by the absence of women from mission-critical roles — software engineering, especially — at their own companies. Their boards are saying, “We gave you the money to grow, grow, grow, but you’re not. You don’t have the engineers to get it done.” The board can’t miss that you only seem able to hire men. So your dev team is shorthanded.
+
+Moreover, they might be shortsighted. As a 15-year veteran board member at more than a dozen tech companies — I’m still on three of them — and a venture partner at Scale Venture Partners, I don’t need topummel youwithstudiesor quote profitability reports fromMcKinseyandMorgan Stanley. I’ve seen firsthand, over and over, that companies with diverse teams (Salesforce:23 percent femalein technical roles) do better financially and compete better in the market.
+
+Entrepreneurs contact me because they want to change the ratio on their eng teams. It’s not because they’re out for social justice, or because they fear a lawsuit, or because California has gone insane with political correctness. It’s because founders want to build successful products and make a lot of money.
+
+But if fast-growing tech companies can’t find and hire qualified women software engineers — whom they know exist — their goal of a fully-staffed engineering team is even more elusive. They lose an important diversity component, which means everyone touching the product is constrained by a similar, maybe singular point of view. It’s not news: Any real geek knows “diversity overcomes adversity” was an unspoken theme of Star Trek from the start.
+
+A company whose engineering team can only hire men may miss goals, may make less money, may flat-out fail. That’s why founders want to change the ratio. Yet their startups, which aspire to be visionary and disruptive, are possibly ignoring or even repelling a valuable set of candidates who could help meet and beat company goals.
+
+This article is a how-to guide for finding and hiring women software engineers who will get the job done. Front-end or full-stack, QA or customer success specialist, it doesn’t matter. These steps to success apply to hiring women into any coding or code-adjacent role.
+
+Don’t think that diversity hiring only means onboarding junior people into entry-level roles. Look at your open positions and you’ll see you’ve got the same situation as most other tech firms: There are far more mid-level positions going unfilled than there are at the entry level. We made a map that showed the number of open software engineering roles in a dozen Silicon Valley area cities. We counted 3,443 open entry-level engineering jobs. But we also found 8,548 unfilled mid-level positions,defined as two-10 years of engineering experience, and able to act on broad directives. That’s two and a half times more empty mid-level spots on the org chart.
+
+Raising the number of mid-level women would solve two problems at once: The need for talent of any gender identity, and the ratio of diverse staff. Many CEOs tell me that’s their dual goal today.
+
+There are two strategies to hiring qualified mid-level staff. Strategy No. 1 is to throw money at the problem: Raise the salary offers, hiring bonuses and perks for mid-level engineers working at other places. Hope that candidates who’ve spent five years optimizing algorithms on live servers, then playing Civilization all weekend, haven’t also figured out how to game the Valley’s compensation system. Good luck. Engineers have online and offline backchannels, just as founders and funders do. If more pay is what you have to offer, you will end up with employees who value money disproportionately — the mercenaries. Your internal pay equity will be out of whack, teamwork will go out the window and your costs will spiral up.
+
+Strategy No. 2: Hire women into entry-level positions — you have plenty of those open — who come from other professional backgrounds, yet have the affinity and chops for coding. Bootcamps alonewill graduate 18,000 this year, with over one-third of those women, a higher percentage than traditional college CS programs. These women, thanks to their time in other careers such as lawyers, analysts, marketers and scientists, have entry-level coding skills, but mid-level professional skills. You won’t have to train them how to manage people, how to meet team deadlines and budgets, how to stick to your priorities when they don’t agree and how to interact with clients and partners professionally to save a business relationship until your technology delivers on your promise.
+
+I wrote anarticle for TechCrunchlast year on what works at companies with qualified women in coding or code-savvy roles. Most of it still holds. Here are a few updates from a year at the front lines withHackbrightand our industry partners.
+
+All you’ll have to do is raise their level of software skills. That’s much easier. Your mid and top-level staff love being the experts. Let them show their stuff — they can conduct internal bootcamps on the company’s tech stack and mentor professional co-workers into becoming valued peers. The women they’ll be helping to grow into more senior roles have the proven grit and interest for learning software skills, and they’re more professional to work with than a squad of college hires at their first real jobs.
+
+In fact, do that for all your entry-level hires. Bloomberg does. You’ll accelerate their time to value, and integrate them better with your senior engineers.
+
+It sounds exhausting. But the alternative is to sit surrounded by empty desks with an unmeetable deadline. Which would your engineers prefer?
+
+There are two fronts on which the diversity staffing battle is fought. Recruitment is one. The other is retention. “We tried hiring women, but they keep quitting.” Why would that be?
+
+A workplace that makes women feel unwelcome or unappreciated is as doomed as one that discards their applications. Once you’ve grown an entry-level woman into a mid-level senior engineer or manager, you risk the same threats you do with men who become disgruntled. They’ll leave for their own sanity, or they’ll be poached by an employer who uses Strategy No. 1.
+
+My original TechCrunch article includes resources for analyzing performance reviews, code reviews, salary reviews and culture. Your competitors are using these resources.Salesforce.com,GoDaddyandmany other successful technology companieshold themselves to the highest standards of gender and racial equity. You can’t afford not to.
+
+Patience is a requirement. Habits are hard to break, and your culture may favor the incumbent majority until you get closer to parity. Losing the good women on your team becomes a downward spiral. The market gains reference points that your company isn’t worth applying to. Do you see a conspicuous lack of women applicants? The word may be out there already. Internally, the guys may conclude “women can’t cut it here,” excusing themselves rather than making an effort to change their behavior. They’ll find other explanations for the team’s constant understaffing, and competitors’ more frequent innovations.
+
+Changing the ratio of your tech team is a proven path to smarter problem-solving, more bright ideas, more success and more money. Look atSalesforce.com’s commitment to “Women Surge”and the follow-up actions they took to equalize pay.
+
+It’s a simple formula:

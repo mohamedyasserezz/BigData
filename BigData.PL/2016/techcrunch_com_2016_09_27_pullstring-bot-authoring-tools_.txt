@@ -1,0 +1,41 @@
+Pullstring launches bot-authoring tools for fun & profit
+
+Pullstring—née ToyTalk— today launched its eponymous product out of private beta and into the hands of creators of conversational interfaces everywhere. Out of the box, creators can make bots for Facebook Messenger, Slack, Skype, Kik, Telegram and — using the company’s Web API — pretty much every other platform out there.
+
+The company’s authoring tools are presented as a desktop software package that will be available for the Mac OS X platform today and for Windows “coming soon.”
+
+“This weekend, one of the best examples of chatbots we’ve seen so far launched as part of Channel 4’sHumansTV show,” says Oren Jacob, CEO at Pullstring. “It was going gangbusters, and is seeing a huge amount of engagement.”
+
+Eager to check out the quality of the bot, I dove into the world of Persona Synthetics and am embarrassed to say that the time I was meant to be writing this article, I was instead having an intriguing conversation with a chatbot (try it out, it’s pretty awesome). Don’t get me wrong, the bot wouldn’t pass theTuring test, but trying to do so is a different field of computing, Jacob claims.
+
+“I’ve often said that the characters are better defined by the things they can’t talk about, rather than what they know about,” Jacob complains. He draws the comparison that when you’re ordering a pizza from a pizza restaurant, you could start talking about hamburgers. A human operator would get exasperated, reminding you they’re a pizza restaurant. It makes sense for a bot to do the same. “What happens when a conversation drifts off topic is important. With Pullstring, we have created bots with a huge range. When you are talking with your bank about financial issues, for example, we have to keep the conversation tight and to the point. At the other extreme is ourHello Barbieproduct, where kids can talk about almost anything.”
+
+The newly launched Pullstring, then, is the set of tools to help developers and content creators create compelling bots and conversational interfaces as quickly as possible. Most compellingly, perhaps, is that the interactions are self-learning. By using a combination of simple rules and a machine-learning AI, the bot can have conversations that are genuine and useful. Not only that, but machine learning can help having context-appropriate conversations.
+
+“We worked with Activision Blizzard tohelp create a bot for Lt. Reyes, one of the characters in Call of Duty: Infinite Warfare,” Jacob tells me in an effort to explain the lengths the technology can go to in order to create an authentic vibe. “To get a genuine feel to the conversations, we pointed our AI at a large Call of Duty subreddit. We learned from the language used there to figure out how the gamers communicate together. As a result, the bot speaks in a similar way as the gamers would. We matched the tone and created a very credible experience.”
+
+I haven’t played multiplayer games in a while, but one can only assume that the phrases “pwned” and various slurs were filtered out of the discourse. It worked great, though: Within the first 24 hours,more than 6 million chatswere exchanged over Facebook Messenger, and the fans are eagerly awaiting the game’s launch in November.
+
+Rules-based conversations are a great way to push a conversational product live; it is the bare bones of the experience. However, as millions of customers start having conversations, it becomes possible to learn from these interactions.
+
+Pullstring’s platform includes metrics tools to help analyze how the conversational interface is performing. In addition to the obvious parts, such as warning the bot’s creators where in the conversations customers are getting stuck, there are ways of optimizing the conversations toward particular goals or outcomes.
+
+The platform’s superpower, however, is that it remains context-aware across longer conversations, so a conversation you’re having with a customer is less likely to disappear into the weeds.
+
+Gaming was an early adopter of Pullstring’s tech, including the company’s own Facebook Messenger and Skype gameHumani, anda number of games aimed at younger childrenunder the company’s ToyTalk brand. It would be a mistake to think this is all about entertainment, however.
+
+“We have the ambition to create human-fidelity conversations,” explains Jacob. “We started in entertainment, but that’s not what this technology is primarily for. Our customers are constructing interactions in health, commerce, and much more.”
+
+There is a strong parallel, however: In entertainment, character and narrative is theonlything that matters — but the same is becoming increasingly important in interactions with commercial and enterprise bots, too. Speaking to computers simply isn’t a lot of fun — after all, when was the last time pressing 2 for English made you squeal with delight? Making conversations feel more human and more conversational is a much more natural way to converse.
+
+“Conversations are more than he-said-she-said,” Jacob says. “Much more. When you listen to a real conversation between two humans, there are a huge number of variables. A conversation is initiated with an intent: Someone wants to accomplish something. The content is important, too, of course. Together, they create a conversation.”
+
+In addition to the actual words being said, the company goes deep into linguistics to simulate true conversations. Most importantly, then, there is the language-level interaction. A real conversation isn’t that person A finishes what they say, and person B listens carefully before giving a considered answer. It’s a game of back-and-forth, of interjections, queries, prompts and suggestions. This is ultimately what Pullstring is trying to help facilitate when you are having a conversation with your pizza parlor, your hairdresser or, potentially, the automated meter-maid that ticketed your car. Again.
+
+With today’s launch, Pullstring offers both a DIY solution, where those wanting to author conversational interfaces can get started, or more managed, agency-style options.
+
+“We have tutorials, sample code and sample e-commerce solutions,” says Lucas Ives, head of conversation engineering at Pullstring. He says that over the past five years of Pullstring, the company has learned more about getting computers to pose as human conversations than anyone else and that it is eager to maximize the knowledge transfer to its customers “There’s videos you can watch, a huge library of documentation and our support team is here to help, too.”
+
+For larger accounts, the company continues to offer its agency model, where the company’s writers and content creators can work with in-house teams to create bots.
+
+Pullstring’s authoring tools are available to everyone, starting today, and the company hasan overview of its main features on the site.

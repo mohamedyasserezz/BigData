@@ -1,0 +1,15 @@
+Optimization startup SigOpt raises $6.6M
+
+SigOpt, a company aiming to “optimize everything,” announced today that it has raised $6.6 million in Series A funding.
+
+When startups talk about optimization, they often mean trying out a few different variations and then choosing the ones that get the best results. With SigOpt, it’s more of a continual process, where the technology can look at your results and recommend what to test next.
+
+For example, SigOpt might test one set of ads, then, based on those initial results, use the same creative assets to create new versions with which to experiment.
+
+This isn’t just useful for improving websites and ads, but physical products, too — one of the first SigOpt customers used the technology to test different chemical combinations for shaving cream.
+
+“The things that define the perfect customer for us are some kind of sophisticated model or process in production that affects business value,” said co-founder and CEO Scott Clark. “When that’s the case we can fine tune that model or process to increase the business value that comes out of it. There doesn’t necessarily need to be a team of expert data scientists — they just need to be able to tune it.”
+
+Many of SigOpt’s early adopters come from the consumer packaged goods and financial services industries. Over time, Clark said the plan is to offer more of a self-serve product.
+
+The Series A was led by Andreessen Horowitz, whichalso led SigOpt’s seed round. Another previous investor, Data Collective, participated in the new funding, as did SV Angel, Stanford University and Blumberg Capital.

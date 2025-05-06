@@ -1,0 +1,9 @@
+Apple acknowledges the new Calendar spam problem, says it’s working on it
+
+If you use iCal and have noticed a weird, sudden influx of calendar invites suggesting you buy bootleg purse knockoffs…you’re not alone.
+
+Just before Black Friday, spammers started tapping a relatively new technique: sending spam as event invites to iCloud email addresses, rather than sending standard emails. By default, iCloud processes these and tries to add them to your calendar… which helped the spammer sneak around spam filtersandgenerally caused a notification to pop up on your various screens. It’s not a particularly malicious trick, but damn is it annoying.
+
+After a few days of silence on the matter, Apple has acknowledged the issue, apologized for the spam and says it’s working on fixing it. Here’s the statement from Apple:
+
+We are sorry that some of our users are receiving spam calendar invitations. We are actively working to address this issue by identifying and blocking suspicious senders and spam in the invites being sent.

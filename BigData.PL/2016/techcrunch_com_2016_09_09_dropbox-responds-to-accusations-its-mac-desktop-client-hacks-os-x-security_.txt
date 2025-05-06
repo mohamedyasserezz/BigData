@@ -1,0 +1,43 @@
+Dropbox responds to accusations its Mac desktop client hacks OS X security
+
+Dropbox has responded to concerns about how it implements the desktop client of its cloud storage service on Apple’s macOS platform, conceding it needs to do more to communicate how the integration functions and the permissions it’s requesting.
+
+“Clearly we need to do a better job communicating about Dropbox’s OS integration. We ask for permissions once but don’t describe what we’re doing or why. We’ll fix that,” Dropbox’s Ben Newhouse, from its desktop client team, told TechCrunch.
+
+Concerns about Dropbox’s desktop client circulated onHacker NewsandTwittertoday, after tworecentpostson an Apple help blog detailed what the writer dubbed OS X security “hacks” by Dropbox. In one of theAppleHelpWriter postsDropbox is described as “using a sql attack on the tcc database to circumvent Apple’s authorization policy.”
+
+And while allegations that Dropbox was creating a spoof dialogue box to phish users’ passwords proved to be incorrect, critics continued to slate its implementation of an official OS X security dialogue box that they said appeared designed to mislead users into handing over their admin passwords in order to grant Dropbox root access to the system via the Mac’s Accessibility permissions list.
+
+To clarify: It is a legitimate OS X dialog with misleading text + they hack around the OS security for accessibilityhttps://t.co/Nvb3mvMIDr
+
+— toto (@mrtoto)September 9, 2016
+
+Addressing criticisms about the scope of the permissions the client requires, Newhouse said: “We only ask for privileges we actively use — but unfortunately some of the permissions aren’t as granular as we would like.
+
+“We use accessibility APIs for the Dropbox badge (Office integrations) and other integrations (finding windows & other UI interactions).”
+
+“We use elevated access for where the built-in FS APIs come up short. We’ve been working with Apple to eliminate this dependency and we should have what we need soon,” he added.
+
+Newhouse also asserted that Dropbox is not viewing or storing Mac users’ admin passwords.
+
+“We never see or store your admin password. The dialog box you see is a native OS X API (i.e. made by Apple),” he said.
+
+As to why Dropbox needs admin privileges in the first place, he said: “We check and set privileges on startup — the intent was to make sure Dropbox is functioning properly, works across OS updates, etc. The intent was never to frustrate people or override their choices.”
+
+It’s also using the permissions users grant via the OS dialog to edit a SQLite configuration file to put itself on the Accessibility list — although it’s certainly not making it plain that’s what users are granting when they respond to the prompt for their admin password.
+
+“We’re all jumping on this. We’ll do a better job here and we’re sorry for any anger, frustration or confusion we’ve caused,” he added.
+
+However, the company’s justification for utilizing root access to put itself on the Accessibility list in order to gain system-wide, elevated privileges did little to impress some critics.
+
+Responding to Newhouse’s statement one Hacker News commenter, riobard, wrote: “At this point you need to follow up with convincing technical details of why Dropbox needs the circumvention to counter the accusation and rebuild the damaged trust.
+
+“The reason for needing Accessibility API listed in your response is pretty vague, especially for those Mac users not having Microsoft products tainting their systems. I’ve deleted Dropbox from my Mac for now. I’m not installing it back till there’s reasonable explanation and remedies.”
+
+Another Hacker News commenter, kybernetyk, called out Newhouse’s phrasing about “granular permissions” as a “nice euphemism for ‘catch all’ permissions… .”
+
+“Now a malware can target your scripts and get a free ride to all your system yay,” added partycoder, another Hacker News user.
+
+For any Mac client users unconvinced about Dropbox’smodus operandi,and/or concerned about the security implications of granting the app root access, AppleHelpWriter has detailed a process for removing Dropbox from OS X’s Accessibility preferenceshere.
+
+This post was updated with additional details

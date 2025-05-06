@@ -1,0 +1,19 @@
+Mobile SDK management platform SafeDK raises $3.5M
+
+Israeli startupSafeDK, which offers a mobile SDK management platform to help app developers stay on top of the multiple SDKs their apps increasingly rely on, has closed $3.5 million in Series A funding.
+
+Backing the round are Samsung Next Tel Aviv, Marius Nacht, StageOne Ventures, Kaedan Capital, and angel investor Leon Waisbein. The Series A follows a seed investment of $2.25 million led by StageOne Ventures a year ago.
+
+With the mobile app eco system becoming moredependent on 3rd party SDKsto add functionality like advertising, analytics, social, and location services, the downside is a loss of control over app code, which in turn can adversely affect security, privacy and user experience. SafeDK aims to give developers back that control.
+
+“In many cases, these SDKs go insufficiently tested and cause serious issues ranging from slowness, crashes and excessive battery consumption to real malicious behavior such as stealing private user data or injecting malware,” explains SafeDK co-founder Orly Shoavi.
+
+“When there’s an issue, the developer can’t act in real time. Unlike web interfaces, mobile apps, once submitted to the app stores, are very limited in what they can change later on. [The] SafeDK solution allows mobile publishers to get real-time information on the SDKs and turn malicious or problematic SDKs off on the spot, with no need for a version update”.
+
+Furthermore, SafeDK lets developers deactivate specific permissions and get real time alerts of an SDK’s behaviour in their app. “The SafeDK solution is becoming more and more needed, as the SDK ecosystem grows and app publishers integrate over 17 SDKs in an average app,” adds Shoavi.
+
+The startup says it’s targeting all mobile app publishers that are sensitive to user privacy and safety, and who are investing resources into optimizing user experience and app performance. Shoavi says this includes kids games, e-commerce apps, news publishers to digital banking solutions. “These are all examples of companies that must have an SDK management solution to monitor and control their SDKs and ensure their users experience and privacy,” she says.
+
+SafeDK operates tiered pricing for mobile app publishers: the company’s solution is completely free for up to 100,000 monthly active users, but for larger app developers the company offers several paid plans.
+
+SafeDK says it will use the new funding to scale its operation, increase hiring and for further expansion in the U.S. market.

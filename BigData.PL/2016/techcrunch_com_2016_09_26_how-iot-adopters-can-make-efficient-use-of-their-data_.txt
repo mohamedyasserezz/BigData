@@ -1,0 +1,59 @@
+How IoT adopters can make efficient use of their data
+
+The adoption of IoT technology can provide companies with unprecedented opportunities to reduce operating costs, increase productivity and tap into new markets previously inaccessible. But that won’t happen when IoT data gathers dust in the cloud.
+
+According to research byMcKinsey Global Institute, of the IoT industry’s forecasted yearly value of $11.1 trillion by 2025, 60 percent is predicated on the ability to correctly integrate and analyze data. However, the research further finds that most of the IoT data being collected by companies is not being used, and the data that is being used is not fully exploited.
+
+McKinsey’s findings are corroborated by those of other organizations, including a recentForrester studyanda global surveyby the research firm Strategy Analytics.
+
+With more and more firms and manufacturers climbing on the IoT bandwagon at a steadily increasing pace, andmillions of new devicesbeing connected to the internet every day, it’s time we change our perspective toward what we can do with all the IoT data that we’re producing and collecting.
+
+Here’s how companies can steer to the right path and transform IoT data into business opportunities by gleaning value and actionable insights.
+
+The inefficient use of IoT data largely stems from the industry still being in its developing stages and adopters beingin a rush to join the fray. “From a mindset perspective, IoT is still largely a technology discussion (how do we get this product connected?) rather than a business discussion (what value connecting a product provide us and our customers?),” Says Paddy Srinivasan, general manager atXively. “Companies are spending a disproportionate amount of time and resources on the very first step in the IoT journey and not enough on ways they can realize the long-term ROI benefits.”
+
+Also, because most companies are having their first taste of IoT, they’re having difficulties organizing and analyzing most of their operational data. “The data is collected with the best of intentions, but is often poorly documented and organized,” says Jamie Smith, director of embedded systems atNational Instruments. “It is difficult to bring together data from different sources and sites for analysis.”
+
+Lack of proper tools is often a problem, as well. “If an organization is able to cleanly organize their data, then they often are unable to extract real business value from the data due to a lack of expertise and easy to use tools,” Smith adds.
+
+“For companies that are leveraging IoT for data collection, it might seem useful, but that strategy will ultimately fail without pairing it with a long-term reporting system,” says Guy Yehiav, CEO of analytics companyProfitect. “The purpose of IoT is to generate more data, which, when interpreted through analytics engines, can help organizations answer the questions of: what can I do better, how can I do it better?”
+
+And not having the right analytics and reporting tools to extract value from data would be likehaving crude oil but not being able to refine it.
+
+Privacy issues also tend to become a hurdle in collecting and analyzing data, especially as collected IoT data might accountas sensitive and personally identifiable information, which are subject to separate regulations in different regions. “Unclear privacy guidelines make it hard to apply analytics across a larger data set and the complexity and volume of devices makes it difficult to ensure security is tight across the device, the app, the infrastructure, etc.,” says Srinivasan.
+
+Not every organization that takes its first steps in the data-oriented world of IoT is ready to make full use of complicated analytics tools. “Most IoT platforms are still really complicated — geared toward software developers and firmware engineers rather than product or business managers,” Srinivasan says. “By nature, those groups of people are more focused on developing a product that will work, rather than one that will provide a business benefit. And that leads to the expertise issue that many traditional product companies lack the IT expertise to build an IoT platform at all.”
+
+Yehiav also points to the challenge of transforming analytics results into actionable insights, which usually requires the skills of a data scientist,a luxury that not every company can afford. “If you put the results of an analytics engine in front of the average layman, you might as well give him a research paper in Cantonese,” he says. “IoT and analytics shouldn’t require a Seal Team Six of data analysts to reach that final stage of implementing changes or strategies.”
+
+Yehiav believes the challenge of sifting through IoT data can be overcome withprescriptive analytics. “What makes prescriptive analytics a good partner for IoT is that it can translate collected data into simple plain language to the right person in real-time, without having to use data scientists as middle men.”
+
+Yehiav describes prescriptive analytics in three easy steps: “Step one, collect the data. Step two, find the patterns and make recommendations for improvement. Step three, get that information to the right person, in real-time, in plain English. Without those components, you’re devaluing your own data by adding lead time to action.”
+
+“Data is being created faster than we could ever create jobs to analyze it,” says Matt Gould, chief strategy officer atArria, referring to anotherMcKinsey studythat forecasts a shortage of 140,000 to 190,000 data scientists in the U.S. alone by 2018. Artificial intelligence will have a turnkey role in filling this gap and making sense of the flood of data that IoT devices are generating, Gould believes.
+
+“Automation and artificial intelligence may have part of the answer — to translate vast amounts of data into a concise narrative or report,” he says. “Natural language generation (NLG) platforms automate the analysis of data and then communicate key insights in real time, stimulating the way one communicates with another via natural language.”
+
+NLG platforms learn and can be taught what is important about a given data set and how to correctly analyze it for a specific set of circumstances. In real time, the technology absorbs vast sets of unstructured data from multiple sources, analyzes and draws conclusions from it. The technology can then automatically communicate conclusions in a compelling narrative that could have been written by an industry expert.
+
+The efficient use of IoT data is showing its worth in numerous settings. In the retail sector, for instance, IoT data can help extract a much better understanding of customer behavior and preferences. “IoT sensor data has enabled us to develop a sophisticated digital profiling technology, which gives us the ability to track age, gender and dwell time of who is watching our grocery entertainment network screens at large grocery chains,” says Dominic Porco, chairman and CEO ofImpax Media, a provider of retailer in-store video networks for grocery stores.
+
+Impax combines sensor data and facial recognition software to gather anonymized data from viewers and unlock capabilities such as serving personalized ads to customers based on their characteristics, or to perform A/B tests on different ads and give feedback to brands about their prevalent demographics. “For example, we can run four different Coke ads in four different large grocery chains and feed back to Coke which is the best ad by age and gender.”
+
+This is a point of contention, becausefacial recognitionand machine learning, two technologies that Impax is leveraging for its IoT offering, areriddled with privacy issues, and many companies avoid venturing in that arena for fear of crossing unwanted lines. But the folks at Impax believe that you can leverage data without invading user privacy. Their technology tracks eye motion and demographic data without storing personally identifiable information, because it has no value in the context of the goal they wish to accomplish, which is to measure the number of views rather than unique views.
+
+The correct use of data can truly help IoT adopters save money and time. So when large brands are launching products, they don’t need to send their teams into stores all day. “Based on the IoT data analysis and customer insights we’ve gathered from running their ads on our screens,” Porco explains, “we can tell them when to send their brand ambassadors to have the greatest impact on their target audience.”
+
+In the industrial sector, the efficient use of predictive analytics and management tools results in reduced costs and improved uptime of equipment and gear. National Instruments is testing this with data collected from sensors numbering between a few and hundreds of thousands. “We organize this data using technical data management tools such as LabVIEW, DIAdem and InsightCM to extract insights and useful information,” Smith says.
+
+National Instruments is helping energy providers reduce operation costs by using IoT data in combination with predictive analytics. It has also used its data management platform to help turf harvesters increase harvesting speed and reduce diesel fuel consumption.
+
+The firm has also helped continuous process industries, such as oil and gas refineries, power plants and process manufacturing, improve their uptime and reduce maintenance costs by leveraging IoT data andedge computingto predict and prevent problems before they occur and cause unplanned work stoppage.
+
+“As we look to the future, large operations like factories, farms, and power companies will be able to develop adaptive systems that change their behavior in real-time to optimize performance based on a wide range of inputs including raw goods inventory, energy costs, time, machine wear, maintenance schedules, customer demand, the weather, to name a few, to improve overall performance and efficiency,” Smith says.
+
+The true power of IoT data has yet to be discovered. “IoT gathers an unprecedented amount of internal and external data, which when sifted through, can give you answers to the questions you didn’t even realize you should be asking,” says Yehiav.
+
+“The Industrial Internet of Things is changing the way we think about data and systems,” Smith says. “Over the next several years we will see an explosion in the amount of data being collected and the intelligence being added to systems all around us. We need to invest to ensure that we have the expertise, tools, and technology to meet the demand.”
+
+As far as IoT adopters are concerned, their first step should be to start looking beyond connectivity when thinking about IoT, and to appreciate the true power of IoT data. “Connectivity itself will be commonplace,” Srinivasan says, “but the added value to consumers and return on investment for businesses will be the drivers of the industry — just like all tech trends of the past.”

@@ -1,0 +1,23 @@
+Didi Chuxing makes information security push with new U.S. research lab and hires
+
+Didi Chuxing, China’s largest ride-hailing company, has hired two distinguished security experts to lead a new U.S.-based research center as part of a major push to increase its data security efforts.
+
+Dr Fengmin Gong, whose 30 year work history includes starting Palo Alto networks, andZheng Bu, who worked with Gong at FireEye and spent time with McAfee among employers, have taken key positions at the company, Didi announced today.
+
+Gong becomes Didi’s VP of information security strategy and vice president of the company’s new U.S.-based Didi Research Institute. Bu will be based in China where he’ll work directly with Gong as Didi’s VP of information security operations. In that role, he’ll manage the company’s existing information security team in China.
+
+Didi, which isin the process of acquiring Uber’s business in China, formally unveiled a China-based centerin December 2015, but little is known about its U.S.-based branch. The company isn’t saying a great deal at this point.
+
+A spokesperson said the center will be “a unit that helps to enable business inside rather than just focus on security” while Gong himself explained that he and Bu will “take responsibility for overall security” within the company.
+
+“We have detailed plans we are working on,” Gong told TechCrunch. “Clearly Silicon Valley is best place to attract many talents [and a] much better vantage point to see the demands and needs across the globe.”
+
+Gong has spent most of his life working in enterprise security environments, but he said that he and Bu were attracted to Didi principally because of the scale of the company’s business.Didi said this summerthat it has over 14 million drivers and 300 million active users with 10 million rides completed on its service each day.
+
+“The Didi platform and service it provides and number of people and partners in touches, presents probably the most sophisticated customer use case,” Gong explained. “[Bu and I] have been working in security for traditional enterprise, [this is the first opportunity] that represents a good blend of enterprise and new-age internet-based sharing economy. Plus we were very impressed by Didi’s ambition and ability to execute.”
+
+Didi has an alliance with fellow Uber rivalsLyft in the U.S., Ola in India and Grab in Southeast Asia which includes a roaming deal for its users across different services and an exchange of information and best practices. WhileDidi’s deal with Uber has cast considerable doubt on the strength of that union, Gong said that he is “expecting” to engage in dialogue with those three companies as he settles into his new role.
+
+Interestingly, driver and passenger fraud is one area that Gong said will fall under his reach. Beyond simply safeguarding the data and passengers and drivers — such as driving licenses and sensitive travel information — from outside threats and operational data security management, the new push will aim to cut down the massive problem of ride fraud.
+
+With vast subsidies on offer for drivers and passengers, the Chinese internet is awash with offers to spoof rides and split the proceeds between fake rider and fake driver. This isan issue that has doggedboth Didi and Uber China. Uber said last year that fraud accounts for 10 percent of all bookings in China, but experts have estimated the problem to be multiples higher. It isn’t clear how widely fraud impacts Didi’s business today after it raised prices and cut some subsidies following the Uber China deal, but Gong and his team will certainly “enable” business at Didi if they are able to stamp out even a fraction of fake rides.

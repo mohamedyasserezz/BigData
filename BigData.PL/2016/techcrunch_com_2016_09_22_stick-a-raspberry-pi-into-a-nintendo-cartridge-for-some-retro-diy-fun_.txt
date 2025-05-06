@@ -1,0 +1,13 @@
+Stick a Raspberry Pi into a Nintendo cartridge for some retro DIY fun
+
+In a particularly clever if destructive hack, a maker named Zach cleared out the guts of anNES cartridgeand stuck in aRaspberry Pi Zeroand an Amazon USB hub to create the ultimate retro NES emulator. It even fits back into its original sleeve for easy storage.
+
+The project is surprisingly simple. All you really need to do is crack the cartridge case and position the parts. Then it’s simply a matter of closing the thing up and plugging it back in. It doesn’t have an Internet connection but you can easily add a Wi-Fi adapter to the mix to go online.
+
+The project usesRetroPie, the multi-platform game emulator, and is powered by a mini USB cable plugged into a power supply.
+
+Zach writes:
+
+￼The basics of what I’m calling the Pi Cart (great name, eh?) involve a Raspberry Pi Zero, an old NES cartridge, a small USB hub and adapters of various sizes. Unless you want to get crafty or save a few bucks on adapters, no soldering is required.
+
+What I’d really like to see is someone actually connecting a Raspberry Pi to an actual cartridge PCB thereby allowing you to put a new brain into an original NES. The resulting chimera might be an abomination, however, so maybe this idea is a bit better.

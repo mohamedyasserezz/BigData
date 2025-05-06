@@ -1,0 +1,41 @@
+Why it’s so hard to create unbiased artificial intelligence
+
+As artificial intelligence and machine learning mature and manifest their potential to take on complicated tasks, we’ve become somewhat expectant that robots can succeed where humans have failed — namely, in putting aside personal biases when making decisions. But as recent cases have shown, like all disruptive technologies, machine learning introduces its own set of unexpected challenges and sometimes yields results that are wrong, unsavory, offensive and not aligned with the moral and ethical standards of human society.
+
+While some of these stories might sound amusing, they do lead us to ponder the implications of a future where robots and artificial intelligence take on more critical responsibilities and will have to be held responsible for the possibly wrong decisions they make.
+
+At its core,machine learninguses algorithms to parse data, extract patterns, learn and make predictions and decisions based on the gleaned insights. This is the mechanics behind many of the technologies we’re seeing every day, such as search engines, face recognition apps and digital assistants. The more data you feed into a machine learning algorithm, the smarter it gets; that’s why every tech firm is looking for ways to gather more data about its customers and users.
+
+But at the end of the day, machine learning can only be as smart as the data that’s being fed to it, and therein lies the problem — because the same data used to train machine learning algorithms can teach it to become evil or biased.
+
+And like every child, machine learning algorithms tend to pick up the tastes and biases of the persons who rear them. What makes things even more complex is the fact thatfirms are very protective and discreetof the inner workings of their algorithms and treat them as trade secrets.
+
+Beauty.ai, a machine learning startup, held the world’sfirst AI-driven beauty contest this year. More than 6,000 people submitted their pictures to have their attractiveness evaluated based on factors such as symmetry and wrinkles.
+
+This was supposed to relieve us of the social biases that human judges have. But the results turned out to be somewhat disappointing: Of the 44 winners, the majority were white, a few were Asian and only one was dark-skinned. The problem, asone researcher explained toMotherboard, was that the image samples used to train the algorithms weren’t balanced in terms of race and ethnicity.
+
+This is not the first time that machine learning’swhite guy problembecame an issue. Earlier this year, a language processing algorithm was found to judge white-sounding names such as Emily and Matt to bemore pleasant than black-sounding namessuch as Jamal and Ebony.
+
+In another instance, Microsoft wasforced to shut down Tay, the chatbot that was designed to mimic the behavior of a teenage girl, after it started spewing offensive tweets. Tay was supposed to ingest comments from users, process them and learn to respond in personalized ways. But it seems that users were more interested in teaching racism and Nazism to Tay.
+
+But what happens in more sensitive situations, such as when a person’s life or freedom is at stake?ProPublica researchin May found that an algorithm used by law enforcement in Florida gave a higher score to black people when assessing the probability of convicts committing crimes in the future.
+
+The list of machine learning fiascos are nearly endless, including aGoogle algorithm that marked black people as gorillas, an ad delivery engine that isless likely to show high-paying job propositions to womenand anews algorithm that promotes fake and sometimes vulgar stories.
+
+Where traditional software is involved, deciding whether an error was due to a user mistake or a design flaw in the software is pretty straightforward.
+
+But machine learning is not so transparent, and one of its biggest challenges is determining responsibilities. Developing machine learning software isdramatically different from traditional coding, and is as much about training the algorithms as it is about writing the software. Even the creators cannot predict with exact precision how the machine will decide, andsometimes become amazed with the results they yield.
+
+Therefore, things got a bit murky when Facebook was accused of beingpolitically biased about its “Trending Topics” module, a component that is at least partly powered by machine learning. And when Republican presidential nominee Donald Trump accused Google oftweaking its search engine’s results to suppress bad news about Hillary Clinton, transparently debunking the claim and explaining the mechanics proved a bit complicated.
+
+Things get more sensitive when critical decisions are conferred to artificial intelligence. For instance, if aself-driving vehicle decides to run down a pedestrian, who will be held accountable? The driver — or more precisely, the owner — of the car or the developer of the machine learning algorithm?
+
+Erasing bias from databases is the key to creating impartial machine learning algorithms. But creating a balanced database is by itself a complicated feat. There is currently no type of regulation or standard governing the data that is used to train machine learning algorithms, and researchers sometimes use and share off-the-shelf frameworks and databases that already have bias ingrained into them.
+
+One solution would be to create shared and regulated databases that are in possession of no single entity, thus preventing any party from unilaterally manipulating the data to their own favor.
+
+A notable effort in this regard isthe foundation of the Partnership on Artificial Intelligence, a historic partnership between Facebook, Amazon, Google, IBM and Microsoft, some of the leading voices in machine learning innovations, to address some of the fears stemming from the growth of artificial intelligence and machine learning. Part of the goals of the Partnership on AI include addressing the ethical issues of artificial intelligence, and to make sure that a more diverse set of eyes are looking at AI before it reaches the public.
+
+Another interesting initiative isElon Musk’s OpenAI, the artificial intelligence company aimed at making AI more transparent and to expand access to it and prevent it from becoming a tool to do evil things.
+
+There will probably come a day where robots become intelligent enough to explain their own behavior and correct their mistakes. But we still have a long way to go. Until then, the onus is on us humans to prevent them from amplifying the negative tendencies of the humans who train them. This is something that can be achieved when our efforts are combined, not siloed.

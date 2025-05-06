@@ -1,0 +1,17 @@
+DigitalGlobe’s new imaging satellite makes it to space
+
+This morning, theUnited Launch Alliancesent an Atlas 5 401 rocket loaded withDigitalGlobe’s WorldView 4 satellite into space.The satellite will create a new pipeline for sending high quality satellite imagery back to earth.
+
+DigitalGlobeworked withLockheed Martinto build a satellite capable of taking crystal-clear photos from 400 miles away while moving at 17,000 mph. WorldView 4 will double DigitalGlobe’s coverage that already includes over 80 petabytes (80 million GB) of data.
+
+Limitations in granularity prevented too many imaging improvements from being made on WorldView 4, but companies looking to dive head-first into geospatial analytics will benefit from the increased coverage and access the satellite will provide.
+
+WorldView 4 was originally slated to launch on September 16th. The initial launch, however, was scrubbed because of a ground leak of propellant during the fueling process. From there, things got considerably worse. A wildfire began burning through the foothills surrounding the satellite’s launch pad at Vandenberg Air Force Base.
+
+Weeks passed as firefighters struggled to get the fire under control. In a twist of irony, teams used WorldView 3, WorldView 4’s predecessor, to take imagery of the damage. The satellite prevented planes from having to fly directly over top of the danger.
+
+A full two months later, WorldView 4 successfully made it into space. The Atlas 5 rocket carrying it also brought seven cube satellites up as part of its payload.
+
+With all the new data set to be available, the question of who has access to the imagery becomes paramount. DigitalGlobe sold priority access to WorldView 4 in advance of the launch. Contrary to previous DigitalGlobe launches, the U.S. Government opted not to purchase priority access to WorldView 4. Instead, DigitalGlobe is targeting this satellite at international defense intelligence customers and private companies.
+
+The proliferation of companies likeOrbital Insightandprojects like SpaceNethas created demand for satellite imagery to train machine learning frameworks. As models get faster and more accurate, the value proposition of companies that can consume imagery and spit back insights is growing. We can forecast crop outcomes withDescartes Labs, annotate training sets withCrowdAI, and monitor the environment withSpaceknow. All of these companies and dozens more rely on data from satellites like WorldView 4.

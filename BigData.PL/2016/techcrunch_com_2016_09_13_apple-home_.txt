@@ -1,0 +1,21 @@
+Apple works to fit the smart home under a single roof
+
+Wait for others to take the first steps, let things mature a bit, then swoop in with a simpler, more unified solution. It’s the first entry on the first page of the Apple playbook. And it tends to work like a charm.
+
+If you’re reading this, odds are pretty good that you’re in possession of some small piece of the connected home puzzle, a smart lightbulb or thermostat or maybe a security camera. Odds are also pretty good that if you’ve more than one such device, your handset is littered with just as many proprietary apps. It’s one of the great ironies of the connected home – it’s not really all that, you know, connected.
+
+Apple has been playing around in the space for a couple of years now. HomeKit was first announced WWDC in 2014, as part its big iOS 8 unveil. But it wasn’t a consumer facing solution, so much as a way to make sure that hardware and software developers were tailoring their technology to the company’s mobile operating system.
+
+It would be a full two years – and two major iOS releases – before Apple put its stamp on the consumer experience with the Home app for iOS 10 (out today,full review here). With Home, the functionality is built into the operating system’s DNA, via Control Center.
+
+There’s little question, really, why the company took its time here. The smart home is hard. It’s big and it’s broad, encompassing a huge variety of devices and functionality – and it’s littered with the bodies of failed attempts that just couldn’t get the job done. After all, it’s a lot to ask for a single unified solution designed to control a door lock, air conditioner and window shades all at the same time.
+
+There’s probably no one better positioned to take on the challenge than Apple. The company already has a massive install base, along with a trio of devices that provide different methods for interacting with the system – the iPhone, iPad and Apple TV, the latter of which serves as a permanent in-home hub, so users can interact with the functionality from afar.
+
+Home is a compelling next step. Over the past two years, the company has laid the framework for its connected home strategy through Homekit, and the iOS 10 functionality finally starts to deliver them under one room. Functionality is built into the Control Panel, with that familiar translucent overlay, though it still takes a bit of swiping to access, perhaps betraying the fact that the company doesn’t quite consider this a mainstream feature for the moment.
+
+It’s through that channel that most will likely interact with the functionality. The actual app is most useful during the setup process, which lets users group products into different rooms, create geofencing (so, say, your lights turn on when you enter your house), and put together “scenes,” packing different functionality into a single button press, so you can, say, turn off the lights and close the curtains when it’s time to go to bed.
+
+I suspect that most casual users won’t be all that interested in designing complex scenes, but there’s definitely value for those who demand complete control or just enjoy the work of developing different scenarios. It will be interesting to see if Apple doubles down and makes the whole set up even more customizable.
+
+The notion of the smart home has been around for quite some time, but past instances have either been cost prohibitive or far too fragmented. Home isn’t yet the catchall solution Apple is banking on, but it does feel like a compelling step toward cross-device unification as we line our walls and desks with ever more connected products.

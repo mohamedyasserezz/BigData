@@ -1,0 +1,15 @@
+Intel will start producing ARM chips to boost foundry business
+
+Chip maker Intel and British semiconductor IP company ARMannouncedan agreement that could help boost the chip giant’s custom foundry business.
+
+The deal, revealed today at the the Intel Developer Forum in San Francisco, will allow Intel Custom Foundry to make ARM processors for third parties.
+
+Intel’s latest earnings announcementmade it clear that the company is in the midst of a shift, and it needs to gear up for the Internet of Things. The agreement with ARM Holdings, whichwas acquiredby Japanese tech giant Softbank a month ago, could be the first step in this direction.
+
+“This will allow Intel to compete with Taiwan Semiconductor Manufacturing and Samsung foundries for the business of the likes of Qualcomm and Apple,” Abhinav Davuluri, equity analyst for Morningstar in Chicago,wrotein an online note.
+
+As part of the collaboration, ARM and Intel Custom Foundry will accelerate the development and implementation of ARM SoCs on Intel’s 10-nanometer process. Specifically, ArtisanPhysical IP, ARM’s intellectual property, will be made available in the process.
+
+“Optimizing this technology for Intel’s 10 nm process means that foundry customers can take advantage of the IP to achieve best-in-class PPA (power, performance, area) for power-efficient, high-performance implementations of their designs for mobile, IoT and other consumer applications,” Zane Ball, co-general manager of Intel Custom Foundry at Intel,wrotein a blog post.
+
+Ball added that Intel has partnered with ANSYS, Cadence, Mentor Graphics and Synopsys previously. Intel also is making chips for customers such as Netronome and LG Electronics, which recently announceda new flagshipdevice that will be the first handset to ship with Android 7.0.

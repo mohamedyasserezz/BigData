@@ -1,0 +1,13 @@
+National power grid carries data to smart appliances in UK experiment
+
+Part of the goal of the Internet of Things, if we must continue calling it that, is improved efficiency for our newly intelligent appliances. But we could effect that in a much simpler way by passing data over the energy grid itself,suggests a successful trial in the UK.
+
+It works by systematically modulating the 50Hz (it’d be 60Hz here in the US) signal that actually carries the electricity; previous attempts have piggybacked a high-frequency signal on the cables, but because of air gaps in transfer stations, that method was limited to local grids. This one can reach the whole country.
+
+The signal transmitted is a simple one, carrying updates on peak times, energy prices, and regional use patterns. Once informed via the outlet, any device that’s smart enough can make minute adjustments: lower the thermostat by a degree, disable idle high-draw devices, and so on. It could even go the other way, activating A/C an hour early because prices are low.
+
+Lots of small changes like this could smooth out energy demands, reducing peaks and the power plants required to supply those peaks — and which operate at a fraction of capacity at other times. More predictable usage would also make renewable power sources easier to deploy.
+
+If the idea of the national energy concern whispering to every gadget in the country seems creepy, you’ll be glad to hear that privacy shouldn’t be a problem, because the transmissions are one-way. The specialized equipment that modulates the current can’t be fit into every washer and electric blanket, after all. So they would simply receive the information and decide on their own (or at your discretion) whether to adjust to the shifting energy landscape.
+
+Reactive Technologies created the equipment and technique for propagating the data signal, and successfully demonstrated it by tapping into the national power grid all over the country to observe a signal propagating. The company expects its first (commercial) customers within a year and half, and with luck residential deployment should come after that.

@@ -1,0 +1,15 @@
+Shadow Brokers post list of compromised IP addresses
+
+Last night, after several months of relative quiet, a hacking group calling itself the Shadow Brokers posted new data purportedly stolen from the NSA. The group’slast leakin August included malware believed to be used by the NSA as recently as 2013. At the time, the Shadow Brokers claimed they would auction a second set of data including the “best files” it had stolen, but since then, the group hasn’t done much except post sexually explicit fanfic about Bill Clinton and Loretta Lynch on Medium.
+
+That changed last night, when the group posted what appears to be a list of servers compromised by the Equation Group, a hacking team with ties to the NSA. If the list is accurate — and that’s a serious if, even though the exploits released by the Shadow Brokers three months agoturned out to be legit— it shows which staging servers the NSA used to launch cyberattacks.
+
+Like the Shadow Brokers’ previous disclosure, security researchers say this data is old. The servers were compromised between 2000 and 2010,according to researcher Mustafa Al-Bassam.
+
+The new leak contains a list of more than 300 IP addresses and more than 300 domain names the Equation Group may have compromised. According to a Hacker House analysis, the affected hosts appear to be spread around the world. “However, the top 10 impacted countries are China, Japan, Korea, Spain, Germany, India, Taiwan, Mexico, Italy & Russia,”Hacker Housereports. “The top three, China, Japan and Korea, make up a substantial number of the attacked hosts.”
+
+In a Medium post announcing the leak, the Shadow Brokers referenced the DNC hack, the U.S. election, and the still-pending auction of its “best files.” The group also seems to reference media reports that have attributed recent political hacks to Russia, and suggests that the hacks are instead perpetrated by Iran as revenge for U.S. interference in that nation’s election.
+
+“USSA elections is coming! 60% of Amerikansky never voting,” the groupwrote. “TheShadowBrokers is having suggestion. On November 8th, instead of not voting, maybe be stopping the vote all together? Maybe being grinch who stopped election from coming? Maybe hacking election is being the best idea? #hackelection2016. If peoples is not being hackers, then #disruptelection2016, #disruptcorruption2016. Maybe peoples not be going to work, be finding local polling places and protesting, blocking , disrupting , smashing equipment, tearing up ballots?”
+
+The latest leak calls into question what role former NSA contractor Harold Martin may have had in the Shadow Brokers’ disclosures. Martin wasrecently arrestedafter investigators discovered that he had taken classified information home from work. Martin’s activities were uncovered during the investigation into the Shadow Brokers leaks, theNew York Timesreports, but investigators have not been able to conclusively link Martin to the Shadow Brokers.

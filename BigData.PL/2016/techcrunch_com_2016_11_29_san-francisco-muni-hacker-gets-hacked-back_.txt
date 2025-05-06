@@ -1,0 +1,15 @@
+San Francisco Muni hacker gets hacked back
+
+Revenge is sweet, but irony is sweeter. Apparently, the hacker whoinfiltrated San Francisco’s Muni transportation systemlate last week fell victim to his own horrible personal cyber hygiene.
+
+According to security reporterBrian Krebs, a separate individual infiltrated the Muni hacker’s own email using nothing more than the ransom note provided by the hacker himself. And he pulled it off using the oldest trick in the book.
+
+Demanding 100 bitcoins to un-hijack the transportation system, the Muni hacker last week plastered the message “Contact for key (cryptom27@yandex.com)” on screens across Muni stations over the weekend. The anonymous security researcher in contact with Krebs made quick work of that data, guessing the security question protecting cryptom27@yandex.com, resetting the password and locking down both that account and secondary address cryptom2016@yandex.com, which used the same (apparently flimsy) security question.
+
+The anonymous source provided Krebs with a little color from the hacker’s inbox. While the Muni hacker evidently kept good security practices by switching bitcoin wallets frequently, that same vigilance failed to extend to his own basic inbox security. Those same wallets indicate that the transportation hack wasn’t the Muni hacker’s first rodeo: They contain more than $140,000, presumably wrung out of unsuspecting victims in the last three months. Preliminary information suggests that the hacker used internet addresses based in Iran and jotted down some notes which were translated into Farsi.
+
+Apparently, the Muni hack was a bit out of character. According to theKrebsonSecuritysource, most of the extortion targeted U.S.-based construction and manufacturing companies, the majority of which appear to have complied with the demands and coughed up roughly one bitcoin for each server they were locked out of.
+
+“Emails from the attacker’s inbox indicate some victims managed to negotiate a lesser ransom. China Construction of America Inc., for example, paid 24 Bitcoins (~$17,500) on Sunday, Nov. 27 to decrypt some 60 servers infected with the same ransomware — after successfully haggling the attacker down from his original demand of 40 Bitcoins. Other construction firms apparently infected by ransomware attacks from this criminal include King of Prussia, Pa. based Irwin & Leighton; CDM Smith Inc. in Boston; Indianapolis-based Skillman; and the Rudolph Libbe Group, a construction consulting firm based in Walbridge, Ohio.”
+
+As Krebs notes, companies would be well advised to create frequent backups of their data, lest they fall victim to bitcoin-hungry online extortionists. And to avoid the hack that hacked the hacker? If a security question demands personal information (mother’s maiden name, name of first high school, first employer, etc.), it’s best to lie or fill the field with an irrelevant answer if not total nonsense. In this case, honesty is far from the best policy.

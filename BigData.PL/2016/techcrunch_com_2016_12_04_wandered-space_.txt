@@ -1,0 +1,9 @@
+Wandered.space helps you explore the cool spots all around you
+
+Wandered.spaceis a service for those moments when you want to explore the area around you, but don’t know where to go.
+
+It was created this weekend at TechCrunch’s Disrupt London hackathon by a team of three coworkers from Seattle-basedAzuqua. One of them, Skyler Hartle, told me that they were inspired by their visit to London and decided to create something that would help users uncover “the places that they just kind of walk by.”
+
+So Wandered.space looks at your location and suggests a nearby point of interest, which could be a restaurant, park, bar or other cultural site. If you keep using the service, you end up exploring all different kinds of locations across the neighborhood — which for me, at least, is a lot more appealing than just visiting one giant tourist trap.
+
+To accomplish this, Wandered.space pulls point-of-interest data from Factual and route data from ArcGIS. Hartle said the team is interested in continuing to work on the product — for example, it could develop more personalized journey recommendations based on your likes and dislikes.

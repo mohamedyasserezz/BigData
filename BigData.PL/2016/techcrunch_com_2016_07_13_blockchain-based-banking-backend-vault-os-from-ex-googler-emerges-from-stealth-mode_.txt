@@ -1,0 +1,15 @@
+Blockchain-based banking backend Vault OS from ex-Googler emerges from stealth mode
+
+Despite holding the vast majority of the world’s wealth (or perhaps because of that), banks aren’t exactly hotbeds of cutting-edge tech, often relying on decades-old systems for everyday tasks. ThoughtMachine, a company led by ex-Google engineer Paul Taylor, is looking to change that with a modern, fully integrated, blockchain-based banking operating system calledVault OS.
+
+The bombasticpress releaseannouncing the system’s emergence from two years of stealth development makes a lot of promises: the company “has solved the greatest challenge in fintech;” Vault OS is “100% future-proof,” “hugely flexible,” and “fixes broken banking forever.”
+
+Whether Vault OS is able to live up to its own hype is a question that will have to wait (legacy banking systems aren’t replaced overnight) — but it’s hard to deny that the problem is real and the solution, or at least what the company reveals of it, is compelling.
+
+The main job of Vault OS is to perform the core function of a bank: essentially, maintaining a huge ledger. That’s something that a blockchain is uniquely suited to doing, of course, a fact that clearly did not escape Taylor, whose previous work led to the speech recognition software used by Google today.
+
+Each instance of the OS will run its own private blockchain and cryptographic ledger, hosted as a service by ThoughtMachine. Of course, whether banks will be willing to essentially permanently outsource their most fundamental operations is yet another big question.
+
+The benefits may be worth it: blockchains are secure, scalable, and versatile, and could conceivably replace legacy systems that limit or delay ordinary operations. Transactions would occur in real time, and are safely and centrally stored, allowing for deep data dives by both bankers and consumers. There’s even an API.
+
+Naturally there are a ton of questions that must be answered, and assurances made, and regulations complied with, before any bank will touch this with a ten-foot pole. I’ve contacted ThoughtMachine with several — will they release code or a whitepaper for inspection? How is data migration handled? What’s the timescale for rollout? — and will update this post if they get back to me.

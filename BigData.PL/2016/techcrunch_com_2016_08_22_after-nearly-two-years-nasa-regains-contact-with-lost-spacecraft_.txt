@@ -1,0 +1,31 @@
+After nearly two years, NASA regains contact with lost spacecraft
+
+After attempting to regain contact for nearly two years, NASA has finallyreestablishedcommunications with the sun-studying satellite, STEREO-B. At 6:27 p.m. ET, NASA received a downlink signal from the spacecraft using the ground-based communication antennas in theDeep Space Network.
+
+STEREO-B is one of two spacecraft that orbit the sun and make up the Solar Terrestrial Relations Observatory (or STEREO) mission. STEREO-Ahead (STEREO-A) orbits slightly closer to the Sun than the Earth, and STEREO-Behind (STEREO-B) orbits at a farther distance from the Sun than the Earth. Together, they provide NASA with unprecedented views of the far side of the Sun.
+
+Both spacecraft were launched in 2006 on a two-year mission to study solar activity on the far side of the sun. But, in a pleasant turn of events, STEREO far outlived its expected lifetime.
+
+Like other NASA spacecraft that came before it (e.g. Solar and Heliospheric Observatoryin 1998, Deep Impact Missionin 2013, the Mars Spirit Roverin 2010), STEREO’s mission extension propelled the spacecraft into new territory that led to a loss of contact.
+
+In October, 2014, six years after the primary mission of STEREO had completed, the two spacecraft entered into a unique location in their orbits known as solar conjunction. During this time, the Sun was positioned right between the spacecraft and Earth, making communication impossible due to solar interference for over three months.
+
+“The sun emits strongly in nearly every wavelength, making it the biggest source of noise in the sky. Most deep space missions only have to deal with sun interference for a day or so, but for each of the STEREO spacecraft, this period lasted nearly four months.” Dan Ossing, mission operations manager for the STEREO mission
+
+With the upcoming conjunction, the STEREO team put steps in place to prepare STEREO-A and STEREO-B (machines designed to talk to the Earth every single day) for a nearly four-month period of radio silence.
+
+The tricky part about STEREO-A and STEREO-B was that they weren’t optimized to work properly during a solar conjunction. Both spacecraft were designed with something called a command loss timer, which is essentially an automatic reset button. If the spacecraft experienced  72 hours of radio-silence (something that shouldn’t happen normally), the command loss timer would activate, correcting any communication issues the spacecraft was experiencing.
+
+Unfortunately, the command loss timer couldn’t be changed, meaning the spacecraft would be rebooting every three days for nearly four months during the solar conjunction. Not ideal, but the STEREO team expected both spacecraft to pull through.
+
+But before the conjunction happened, the team wanted to test the reset process. They stopped communicating with the spacecraft for three days and both STEREO-A and STEREO-B activated the command loss timer reset process. STEREO-A worked great. STEREO-B, not so much.
+
+The STEREO team believed that the spacecraft was feeding incorrect information to itself about its own rotational speed, causing the spacecraft to spin. In a spin, the spacecraft could only receive intermittent solar power making it difficult to turn on its transmitter – the way it communicates with the Earth.
+
+“If it’s not transmitting, we have no way of knowing if our efforts are working.” Dan Ossing, mission operations manager for the STEREO mission
+
+In December of 2015, NASA released apress releasenoting that any signal that STEREO-B could transmit would likely be too weak for the antennas in the Deep Space Network to pick up. The STEREO team thought they may even have to wait until 2019, when STEREO-B would be in a location that the Hubble Space Telescope could image, to receive any further details about the spacecraft’s position.
+
+Luckily, that didn’t turn out to be the case and we didn’t have to wait that long.
+
+Sunday’s signal from STEREO-B provided NASA with valuable information about the spacecraft’s position. With this data, the STEREO team will now work to put a recovery plan in place, re-establish the spacecraft’s desired position and evaluate the health of its subsystems.

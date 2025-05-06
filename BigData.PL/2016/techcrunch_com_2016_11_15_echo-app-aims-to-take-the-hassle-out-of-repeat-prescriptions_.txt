@@ -1,0 +1,41 @@
+Echo app aims to take the hassle out of ordering repeat prescriptions
+
+A UK startup is angling to build a business out of simplifying the repeat prescription ordering process for NHS GP surgeries via an app, calledEcho, that lets patients use their smartphones to make a request for more of their usual medication from their doctor.
+
+The app works by sending a user’s request to their GP, with approved prescriptions dispensed by Echo’s partner pharmacies after they receive a GP’s instruction — with the user granting Echo the authority to nominate a pharmacy partner to fulfill their electronic prescription requests on their behalf.
+
+Prescriptions are dispatched to users for free by the pharmacy via Royal Mail (second class post) meaning, from a user point of view, there’s no need to go to the GP or the pharmacy to obtain a repeat prescription. They just make an order via the app, pay for the prescription (unless they qualify for free NHS prescriptions) and wait to get their medication delivered.
+
+“Echo works with all NHS GP services in England,” says Stephen Bourke, CXO and co-founder. “We use existing prescription order workflows, leveraging a platform called NHS Electronic Prescription Service 2 (EPS2), so there is no change to the way they do things. For GPs not yet set-up on EPS2 (14% of practices in England), we work with existing systems.
+
+“Requests are sent a number of ways — via the GP practice’s workflow software, which integrates with our pharmacy side software, via secure email (from an internalNHS.NETaccount over N3) or via eFax.”
+
+While the NHS’s own electronic prescription service is aimed at simplifying repeat prescription ordering for patients, Bourke claims the service remains “fragmented” — and argues Echo offers a more streamlined approach, with less need for manual follow-up for patients once an order has been placed.
+
+“The current EPS service is fragmented and does not enable three-way communication between doctor, patient and pharmacist,” he argues. “An order placed via a Patient Facing Systems (which tend to be clunky and hard to use) places the request with the GP but does not involve the pharmacy. Inevitably the patient needs to follow up the order, either with the surgery or by going to the pharmacy. Echo manages each and every step of the way — the user places the order, we deliver the medication.”
+
+The app also uses natural language processing to convert GP directions into reminders — allowing Echo to automatically prompt users when to take their medication, as well as reminding them when they’re about to run out. So there’s an additional potential benefit for users worried about forgetting to take their medication at the right time.
+
+Asked how it’s handling sensitive user medical data, Bourke says: “We store data directly supplied by user — demographic, medication etc. — this is fully encrypted (SSL), stored on GCP/AWS and managed in accordance with [NHS information governance]Caldicott principles.”
+
+“Echo has a full time NHS doctor as well as a prescribing pharmacist on staff, who ensure information governance is kept front and centre,” he adds.
+
+While the business was founded back in July 2015, the Echo app is officially launching today — currentlyiOSonly.
+
+The service has been tested prior to this official launch, with the team seeding it to friends and family, which they say resulted in it spreading “like wildfire”. At this point they have around 1,500 users, and 10 pharmacies across London and the South East able to dispatch prescriptions to anywhere in the UK.
+
+Also today they’re announcing a £1.8 million (~$2.2M) seed funding round led by LocalGlobe, with Global Founders Capital also participating. The team had previously raised £400k from angel investors to get to proof of concept.
+
+Bourke says the new funding will be used for product development and user experience — with an Android app on the roadmap. “Our aim is to get the business into shape for series A, which will be sometime next year,” he adds.
+
+While Echo is free for patients and doctors to use (patients just pay the standard NHS prescription fee of £8.40 per item, unless they are entitled to free prescriptions), the business model involves Echo taking a commission cut from its pharmacy partners, based on the additional business the app sends their way. (He declines to specify what the commission, saying only: “Echo takes a commission based on the gross profit available to our pharmacy partners.”)
+
+Both founders have their own need for repeat prescriptions — leading them to the idea for the app. Bourke also previously worked at Lloyds Pharmacy. “The market is huge,” he adds. “There are over 1.2 billion prescription items issued in the UK each year, with the NHS spending over £15.5 billion on medication.
+
+“Half the adult population now takes a repeat prescription and this is set to increase. Top-line user growth is important, but our real focus is on driving repeat rates, maintaining Echo’s net promotor score (currently 89) and ensuring that we can deliver a user experience 10x better than the rest. We will only scale once we are confident we can do so without jeopardizing quality.”
+
+While Echo remains fully focused on the UK market for now, the founders certainly see potential to scale their app internationally.
+
+“I previously launched LloydsPharmacy’s online doctor business in Ireland and Australia, so we definitely see an opportunity to expand our services and geographic reach,” says Bourke. “European healthcare systems are desperately in need of fresh ideas, competition and disruption. However, right now we are laser focused on the NHS and UK for now, and will continue to be so until we nail product-market-fit.”
+
+“Competition is hotting up in the US – PillPack is an obvious reference point. An important point of differentiation is that Echo is not a pharmacy — our goal is to improve medication adherence through technology. It is also free, and works with existing NHS infrastructure so there is no set-up for the user or their GP.  In the future we will likely work with other clinical services in a similar way to our pharmacy partners today, but todays all focus is on adherence and user experience,” he adds.

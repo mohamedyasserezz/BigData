@@ -1,0 +1,59 @@
+2016 and the year ahead
+
+This past year was a big one for internet attacks, encryption, blackouts, speed and IoT, and 2017 is positioned to bring even more headlines for each of these. As Cloudflare prepares for the coming year, we made some predictions about what’s next for the future of the internet.
+
+But first, let’s review what we saw as a result of the widespread use and abuse of the internet in 2016.
+
+In both Gabon and Gambia, internet connectivity was disrupted during elections. The contested election inGambiastarted with an internet blackout that lasted a short time. InGabon, the internet shutdown lasted for days. Even as we write this, countries like DR Congo are discussing blocking specific internet services, clearly forgetting the lessons learned in these other countries.
+
+DDoS attacks continued throughout the year, hitting websites big and small. In March, we saw weekend DDoS attacks that were peaking at 400 Gbps, and in December, we saw a new pattern of attackers treating attacks as a regular job to be performed from 9 to 5.
+
+In addition to real DDoS, there were also empty threats from a group calling itselfArmada Collectiveand demanding bitcoin for sites and APIs to stay online. Another group popped up tocopycatthe same modus operandi.
+
+The Internet of Things became what many had warned it would become: an army of devices used for attacks. A botnet army of IoT cameras and a major attack took out DNS service providerDyn.
+
+Non-DDoS attacks continued apace with hacks that need WAF protection like httpoxy and ImageTragick causing disruption for unprotected sites. And TLS experienced yet another attack calledDROWN.
+
+But it wasn’t all doom and gloom. IPv6 saw significant mobile traffic and suddenly felt absolutely real. Apple announced that iOS apps must support IPv6-only networks and major ISPs started prioritizing IPv6 traffic. TLS 1.3 went live to dramatically simplify and improve the security of the internet.
+
+And the internet got a lot faster with widespread support for HTTP/2, including Server Push and WebP conversion. As the web has become more encrypted, the need to optimize TLS and TCP together has become more important and Cloudflare helped contribute to increased security with Origin CA, HTTPS Everywhere and giving protected WebSockets to everyone.
+
+Our team, comprised of engineers, programmers, cryptographers and hackers, took a look into a virtual crystal ball and came up with our predictions for 2017. Here’s what we think the year ahead will have to offer.
+
+1Tbps DDoS attacks will become the baseline for “massive attacks”
+
+Four years ago, we illustrated a blog post about a 65Gbps DDoS with a picture of the band Massive Attack. The following year,Massive Attackwere back illustrating a 300Gbps attack; as internet speeds have gone up worldwide, so have DDoS sizes. In 2016, we’ve sporadically seen 1Tbps DDoS attacks reported from various service providers. We believe that in 2017, the baseline for a massive attack will be 1Tbps (and we hope that Massive Attack’s 2016 song releases presage a 2017 album).
+
+The internet will get faster yet again as protocols like QUIC become more prevalent
+
+Although HTTP/2 has a large effect on web performance, it also depends on the TCP protocol for connections, which can cause performance problems on lossy networks. Google has been experimenting with a protocol calledQUIC, which uses UDP instead of TCP. We expect such UDP-based web protocol experiments to continue and become mainstream.
+
+IPv6 will become the de facto for mobile networks and IPv4-only fixed networks will be looked upon as off
+
+Our data says IPv6 is 27 percent faster, Facebook says10 to 15 percent faster, LinkedIn says between10 to 40 percent faster for mobile. Regardless of which numbers you believe, it’s clear that IPv6 provides a speed advantage. At the same time, ISPs and mobile networks are pushing for greater deployment of IPv6, and we expect IPv6 to be the norm in 2017 for all networks. Specifically for mobile networks, we believe IPv4 will be deprecated.
+
+This chart shows the percentage of top 25,000 websites (according to Alexa) that are available over IPv6:
+
+A SHA-1 collision will be announced
+
+Back in 1996, potential collisions in MD5 were identified, but it wasn’t until 2005 that actual collisions were demonstrated. At the time, the death of both MD5 and SHA-1 were predicted. MD5 is now seen as cryptographically useless and has even been used in malware to forge a certificate.
+
+Since 2005, bad news about collision resistance in SHA-1 has been gathering and we predict that an actual collision will be computed in 2017.
+
+Layer 7 attacks will rise but Layer 6 won’t be far behind
+
+When people think of DDoS attacks, they are typically thinking of volumetric attacks against layers 3 and 4 (such as SYN floods). We believe that Layer 7 attacks (particularly against the HTTP and DNS protocols) will continue to rise in 2017 as attackers look for smart ways to knock web applications offline beyond simply volumetric attacks.
+
+At the same time, Layer 6 attacks against the TLS protocol will make an appearance. We have already seen such attacks in the past (attacks that were designed to consume server CPU by asking for slow or complex cryptographic operations) and smart attackers will continue their search for any weakness in a web application or protocol implementation.
+
+Mobile traffic will account for 60 percent of all internet traffic by the end of the year
+
+The number of mobile internet users surpassed fixed internet users back in2014, and today more than 80 percent of internet users own a smartphone, while 89 percent of their mobile time is spent using apps.
+
+This means that acceleration and protection of APIs (that are used by apps for their internet connectivity) is essential and trends indicate that mobile traffic will be 60 percent of all internet traffic this year. This switch to mobile puts more emphasis on optimized web experiences and robust APIs than before.
+
+The security of DNS will be taken seriously
+
+The attack on Dyn’s DNS service showed how an often overlooked piece of the internet, the Domain Name System, is critical to its functioning. Much of the news around DDoS attacks until the Dyn attack was focused on attacks on websites and networks. With this realization that DNS is critical, its security will be taken seriously in 2017, and the protection of DNS infrastructure and servers will become a business necessity.
+
+At the same time, the open nature of DNS will come into focus and DNSSEC will take on a greater role in securing DNS responses from attack.

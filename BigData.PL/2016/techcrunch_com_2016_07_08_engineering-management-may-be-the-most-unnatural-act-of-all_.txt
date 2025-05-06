@@ -1,0 +1,45 @@
+Engineering management may be the most unnatural act of all
+
+The best management decision I ever made took five seconds. “I can build a better database,” were the words accompanied by a blank but confident stare from the most talented developer I’d ever hired. “Okay,” I nodded, “see what you can do.”
+
+It wasn’t our top priority at the time, but five years later, the Druid database he conceived stores 300 billion daily events for digital media firms around the globe.
+
+When it comes to software engineering, that management is best which manages least — to borrow Thoreau’s quip about government. While it’s rarely as easy as nodding at a brilliant developer and getting out of the way, the best systems are, like good software, minimalist and lightweight.
+
+Through my experiences as a CTO and through talking to other technical founders, leaders and heads of engineering over the years, I’ve developed the “LITE” philosophy of engineering management. It focuses on a well-leveraged developer, whose innovation drives the development of products that users love and trust, at the right cost efficiency. These are its four pillars: leverage, innovation, trust and efficiency.
+
+The foremost priority of good engineering management is protecting the quality of your engineers’ work time and ensuring a distraction-free office environment.
+
+On the time side, mind the distinction betweenmanagers’ and makers’ time. Group meetings during certain times of the day or week; clustering and cancelling meetings frees up the contiguous blocks of time, which enables engineers to achieve the flow state essential to creative endeavors. Engineers often don’t realize they are the owners of their own time, and telling them they are under no obligation to attend every meeting empowers them.
+
+On the office environment side, invest in noise-cancelling headphones, egg-shaped pod chairs, stand up desks or any other tools that help your engineers concentrate. Offering meals, snacks and varieties of caffeinated experiences are also part of that equation —software may be eating the world, but the engineers who write that software need to eat food.
+
+The development environment matters too, namely the tools and systems that developers rely on to write, debug, test and ship code into production. Anything that induces drag on the critical path from developer laptop to production system should be treated as an obstacle and cleared. Like many optimization problems, there is an inner loop where small improvements in the development chain can yield large savings in time.
+
+Finally, right-sizing teams is essential to their working well together. Stu Feldman, the inventor ofmake, offersa piece of collective wisdomthat emerged from his early days at Bell Labs: Groups bigger than 10 people tend to suffer communication breakdowns.
+
+If enabling leverage on developers’ skills is a practical means of engineering management, fostering innovation is its highest end. Innovation is a combustive mix of ideas and unmet needs that sparks invention, and ultimately births breakthrough products.
+
+While much digital ink has been spilled on the topic of how to unleash innovation in organizations, here are three ingredients of innovation that I’ve observed are essential based on my experiences.
+
+Chaos:Intel’sAndy Grovedescribed his philosophy as “let chaos reign, then rein in the chaos.” Googlecelebrates anarchyas part of its edge, and in Facebook’s early days, the“spirit of subversive hackery guided everything.”The lesson: Structure can be stifling to a merry band of rebels conspiring on the next new thing. Whether through allowing engineers 20 percent of their time to work on unorthodox projects, hosting week-long office hackathons or giving a helpful nudge (or turning a blind eye) to an internal skunkworks initiative, innovation breeds best in a bit of chaos.
+
+Risk:This is a truism that deserves unpacking. Unmitigated risk-taking is, by itself, not an intelligent strategy for engineering innovation, any more than an explorer sailing aimlessly out to sea is a strategy for discovery. But development teams must take calculated risks where the expected value is positive. Moonshots with high cost and a low chance of success can be worth it if they have big pay-offs. Perhaps no one exemplifies this engineering strategy more successfully, with billion-dollar, bankruptcy-defying bets on electric automobiles and reusable space rockets, than Elon Musk.
+
+Chemistry:The more genetically distant two parents are, the more successful their offspring. This same kind of “hybrid vigor” applies to the world of innovation. Cryptography combined with one of accounting’s oldest ideas, the general ledger, brought us bitcoin. Psychology, mathematics and computer science have all contributed strains to the modern machine learning behind self-driving cars and speech recognition. Teams with diverse academic and professional backgrounds who dabble at the intersections of disciplines are more likely to innovate.
+
+I’ve long believed the true driver of success in technology is trust: software that performs as expected. Google’s search engine gained loyal users because it was fast and always up. WhatsApp rose on the strength of reliable messaging. Whatever it is that users trust your software to do, measure it, and manage toward improving it.
+
+Trust matters not only for external users, it matters for internal engineers. Production systems that are on fire will ultimately consume engineers’ hours. At best, this de-leverages their time and makes them less productive; at worst, it will burn them out and they will quit.
+
+The best lever of software trust is human accountability. When a site goes down or load times veer out of bounds, someone must ultimately own and solve it. Under the covers of most web-scale applications are dozens of specialized services — such as user authentication, data processing and archiving — but these services have human owners that should be held accountable if a service violates its contract (e.g. “I’ll authenticate users within 500 milliseconds”).
+
+Engineers should not be insulated from the operation of the services. When something breaks badly enough, developers are best equipped to firefight and resolve the issue. Exposing engineers directly to the stability of their own services enforces ownership: They are motivated and capable of writing code that avoids the 3 a.m. red alert. A useful rule of thumb for DevOps investment is as follows: Every hour of firefighting earns at least one hour of development effort to properly solve that problem.
+
+Like trust, efficiency is often viewed warily by engineers. Unlike the call to innovate, the call to “reduce our server footprint!” is rarely met with happy emojis. And yet, efficiency by any other name would be just as sweet: Engineers celebrate faster compression algorithms and scoff at slow apps.
+
+Performance and efficiency are often in tension. Yet unlike performance, which often has a useful upper bound in products, the gains from efficiency have only a lower bound of zero. (No one needs a car that goes more than 200 mph and everyone would love a car that requires no gas or electricity.) Thus, engineering teams that drive toward these zero lower bounds open new business models, often with zero in their prices: free search, email and photo sharing on the web were made possible by radically efficient engineering infrastructure.
+
+Efficiency is also a core value because it ties back to our first pillar: developer leverage. The most precious resource that ought to be most efficiently managed is not hardware cycles, but human cycles. This is why Google’s universal measure of cost is not dollars, but developer hours.
+
+Management is an unnatural act, as Ben Horowitzhas written, and engineering management may be the most unnatural of all, because engineers are a unique bunch: persuadable by logic yet driven by ego. But getting engineering management right matters: Software engineering talent is the most precious resource on the planet earth, and enabling engineers to do their best work is often the difference between a startup’s success and its failure.

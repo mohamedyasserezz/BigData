@@ -1,0 +1,25 @@
+InsideDNA looks deep into DNA to find the best drug targets
+
+Using a computational platform and your DNA, bioinformatics startupInsideDNAaims to determine the right drug interaction for your body.
+
+The startup began three years ago as a cloud-based platform for genomics analysis called InsideDNA Research, which brought optimized storage and reproducible research to scientists through cloud computing. But it soon saw a broader problem in the industry — comprehensive genomics analysis. It now uses this analysis with artificial intelligence and says its technology is now used by more than 1,500 research labs.
+
+InsideDNA runs in the same vein as Benevolent.ai and Recursion Pharmaceuticals in that it seeks to make breakthroughs in drug discovery but differs in that it not only uses a vast amount of health information available but also your genetic code to get what it believes to be a better determination of which remedies would work on your unique DNA.
+
+It works by using data to look for an association between genes and diseases and then checking if proteins produced by those genes associated with a disease are suitable drug targets.
+
+The combination of artificial intelligence, supercomputers, and drug discovery is a growing field in medicine — and some fear a computer could one day replace doctors. For example, IBM’s Watson, a powerful cognitive computer that beat humans to become the Jeopardy world champion, was able toaccurately determinethe ailment of a Japanese woman in 10 minutes after years of misdiagnoses from human doctors.
+
+It turned out this was a critical discovery in saving the woman’s life as she had a rare form of leukemia that seemed very similar to another type of leukemia. However, her disease required a completely different treatment plan.
+
+Watson was able to quickly assess the woman when some of the best doctors were not because it not only learns quickly from all the known medical information in the world but can derive meaning from it — surpassing the knowledge of even the smartest physicians.
+
+However, this information is more likely to supplement and speed up the field of medicine for doctors, rather than replace them.
+
+The bigger concern isn’t whether we’re getting robot doctors in the future, but privacy concerns. Patients need to voluntarily offer their DNA data. However, accurate diagnoses would rely on a vast and diverse repository of genetic information.
+
+Right now InsideDNA says its biggest challenge isn’t privacy, but establishing credibility in the biopharma world. It’s the little guy up against bigger startups like Benevolent.ai, but also contenders such as Watson and Google’s DeepMind — all of whichmust complywith regulatory agencies to protect patient privacy.
+
+To prove it is a viable player in this emerging field, InsideDNA plans to demonstrate the value and effectiveness of its platform in the near future by helping 100 biotech companies enter into clinical trial stages and successfully pass through them.
+
+The startup currently has a partnership with Illumina, which is coordinating the development of a data aggregation tool on the InsideDNA platform to allow the anonymous and reproducible submission of allele frequencies of potentially millions of genotyped samples to public variant databases.

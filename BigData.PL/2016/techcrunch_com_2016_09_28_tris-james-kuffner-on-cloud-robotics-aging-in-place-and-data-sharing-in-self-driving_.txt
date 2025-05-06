@@ -1,0 +1,45 @@
+TRI’s James Kuffner on ‘cloud robotics,’ aging-in-place and data sharing in self-driving
+
+Toyota Research Institute CTO James Kuffner believes the biggest asset to a future where robots are highly capable, useful things that people use daily on the road and at home might just be the cloud.
+
+We’ve long extolled the virtues of Moore’s Law in terms of delivering faster, better processors to power our individual computers, but Kuffner says that the rapid, continuous evolution of wireless broadband internet speeds is just as crucial to a future in which robotics help solve everyday problems.
+
+Kuffner is delivering the opening keynote for San Jose’sRoboBusinessconference today, but I spoke to him prior to his address for a preview of the big picture approach he and the TRI are taking in developing advanced, autonomous systems that help everyday people with everyday activities.
+
+“An unknown that some people are not aware of is how rapidly wireless broadband internet speeds and bandwidth have improved, almost 1600x in terms of both speed and bandwidth over the last 10 years,” Kuffner said. “It’s really been a game-changer for connected cars and connected robots, and so one of the things I’ve been thinking about is what changes and what’s possible when you have these high-speed wireless connections to the most powerful computational resources that humans have created, which is the modern data center.”
+
+This is the concept Kuffner calls “cloud robotics,” a term he first introduced in 2010, which represents a shift in how he believes robot development will proceed in the future, with the key difference being an ability to quickly learn across discrete individual robots or autonomous systems, with learning gathered from individual endpoints quickly absorbed into the whole.
+
+Kuffner’s long history as roboticist makes him uniquely well-positioned to spot the significance of this trend. He was a robotics professor at Carnegie Mellon, a university famous for its work in the field, He also worked at Google on the self-driving car software engineering team, and helped co-found Google’s venture arm investment business focused on robotics companies.
+
+In January, Toyota’s $1 billion research lab made headlines when it hired away Kuffner as its founding CTO. Now, the storied roboticist says TRI is “all about” cloud robotics, since the research outgrowth of Toyota was built to “think about trusted mobility for all, and also quality of life in a world where we’re facing an aging society,” he explained about the Institute’s founding directive.
+
+“Transportation has always been about freedom and mobility, and people aging and losing their ability to drive means that they have less freedom and less mobility,” he said. “So one of the good outcomes of having autonomy for vehicles is people can suddenly recover freedom of mobility for people who otherwise cannot drive.”
+
+Self-driving cars aren’t the only transportation solution needed to help improve quality of life for an aging population, Kuffner notes, which is why TRI is also focused on solutions that will help within the home.
+
+“When we think about robotics, we think about aging in place, and quality of life,” he explained. “On the technical side, we have a lot of challenges in terms of reliable perception, reasoning, and scene understanding in order to realize a true transportation solution, and an intelligent robot that can help people age in place.”
+
+Basically, those advances are more within reach than ever, thanks to the possibilities afforded to intelligence systems through cloud robotics. Kuffner said the goal of cloud robotics in general is to “average what computers are good at,” but then add in a network effect to amplify those skills, combining effort and reducing the need for duplication of information gathering between separate systems. It lowers cost, and increases the ability to build vehicles and robots that are practically designed, without having to outfit them with massive, expensive and hard-to-maintain onboard storage or processors.
+
+While at Carnegie Mellon, Kuffner told me he’d constantly speak to colleagues who were working on a machine learning problem, and had an algorithm they’d know would work, if only they could amass enough data. The problem, he said, was that robots trying to collect the necessary data would burn out long before achieving the desired set size.
+
+“Instead of having one robot run for 10,000 hours, why don’t we 100 robots run for 100 hours and gather the same amount of data,” Kuffner said. “Data sharing robots, each learning from each other’s experiences will help everyone improve at a faster rate.” This applies equally to connected cars, as well as connected in-home or personal assistance robots sharing their data, he added.
+
+Kuffner joked that it’s as if you could take all the parenting you did on your first child and have that experience instantly applied to the next; almost like a shortcut past the terrible twos. This is a key ingredient towards increasing what robots can do to a level where they’ll really offer value to people, he says.
+
+The key ingredient in Kuffner’s cloud robotics vision is the sharing of data, but what about sharing said data beyond the confines of any one company or OEM? I asked him directly about his opinion on whether carmakers, for instance, should be more open about sharing data with one another in light of NHTSA’s new autonomous driving guidelines, whichadvocate movement in that direction.
+
+“If you think about if we could improve traffic, and could we improve safety, by sharing data, then absolutely all the OEMs should participate,” Kuffner answered. There are some things about competitive advantage, but I think that what NHTSA’s really aiming at is ‘Look, this technology’s starting to mature, it appears imminent, how can we realize it faster in a safe way, and can that be facilitated by sharing data?”, and I think that the answer is probably yes.”
+
+For autonomous driving to become truly widespread, it’s key that systems have a firm understanding of traffic, and of edge cases and risky situations, and a good understanding of all of the above can be used by all players pursuing this goal to help bring the technology to market and improve overall safety for everyone on the road, Kuffner explained. Still, he acknowledges that an open approach also has issues.
+
+“It’s a tricky balance because a lot of people are looking at it as a competitive advantage to be sitting on data, and if you think about, at least in the internet world, what’s the value of Facebook, what’s the valuation of Google?” he said. “It’s that access to data that’s a tremendous value. So there’s sort of a scramble right now in the space that’s figuring out how much value is currently held in the data that OEMs are sitting on, or that they’re looking to collect.”
+
+Still, “in areas where there’s public benefit, like safety, traffic and the environment,” Kuffner agrees that “data sharing should be done.”
+
+In terms of when we’ll see widespread use of robotics at home and on the road, Kuffner says that as with any consumer adoption of new tech, it’ll depend on the presence of three things: safety/reliability, cost, and capability.
+
+“We’re starting to see capability that is pushing robots into application spaces where people are saying ‘Oh, hey, the robot is capable of that, I’d be willing to pay for that’,” he said. “It’s still too expensive, so then you work on the other two things.”
+
+Kuffner argues that all three of those factors are improving in parallel, but concedes you need to achieve all three before we see any kind of consumer adoption at scale. Still, he thinks that we’re approaching the day when there is the right balance to drive demand, and that it’s coming in part thanks to the advances made possible by cloud robotics. In the end, thanks in part to increasingly fast, reliable and abundant broadband, you might not have to wait as long for that in-home robot assistant, or for the car that drives for you, as you might think.

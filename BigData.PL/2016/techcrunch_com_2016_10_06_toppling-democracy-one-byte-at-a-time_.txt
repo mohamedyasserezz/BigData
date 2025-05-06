@@ -1,0 +1,29 @@
+Toppling democracy one byte at a time
+
+As the saying goes, “all politics is local.” And now, so is hacking. Cyber attacks popularized on the silver screen are now occurring in every aspect of our life. Our election system is not immune from this new reality.
+
+We don’t need to consult research to see the vulnerabilities of electronic voting systems. It’sin the headlines. During the past month, the FBIhas notedthat voter registration databases in states across the country have come under attack, as well.
+
+Many electronic voting machines and voter databases are inadequately protected and woefully outdated. An iPhone is more secure in a lot of ways than the systems that will determine the November outcome. As far as breaches are concerned, therecent discoveryby the FBI is only the beginning. We must make addressing this risk a priority.
+
+The more electronic voting becomes, the more instances where a few bytes can determine who wins. It’s scary when you think about the fragility of the system, but it’s real. And it’s already here. In 2012,39 percent of voterscast their ballots using an electronic voting machine. Now, imagine if 39 percent of total votes are found fraudulent this November. The severity of the situation is immediately apparent.
+
+It’s not solely about an attacker compromising individual voting machines. There are supply chain and chain of custody concerns, too. Sometimes, votes pass through systems that have network or internet access, so it’s not solely about the individual machines at each precinct. If the FBI has no problem reading the information from the majority of voting devices, others would have no problem manipulating that same information. We must demand better.
+
+The solution starts with a choice: go big or go home. Our society has to either make sure the entire digital-voting system has strong, end-to-end security or we go back to paper. Period. From the parts used in the manufacturing of these digital-voting machines to the delivery, storage, operation and verification, we must consider where vulnerabilities could exist at every stage.
+
+Technology has advanced and given us options for mitigating risk. Could we open source the operating system (for independent scrutiny) and make sure the software running on the operating system matches that code exactly? Could we implement stronger chain of custody methods similar to when digital evidence is collected? Could we use newer technology, such as blockchain (the underlying technology of bitcoin) to help increase the trust of our transactions? However, as with most aspects of cybersecurity, a large aspect of this is the people problem.
+
+Given the security expertise deficit and the resources required to support securing such systems, we need to make up our minds about whether or not we are ready to rely on these technologies for critical positions of power and ballot measures. Do we invest in technology and the people to validate and monitor that technology, or not?
+
+All is not lost for November, however. With all the talk of vote manipulation, there are some aspects of the upcoming election that should comfort us. First, most voting machines are not connected to the internet, so manipulation would have to occur with either physical access or during the supply chain (the manufacturing and selling of the systems). Because most of the systems are old, the manipulations would have had to occur years ago.
+
+That leaves physical access. And most security experts will tell you that if you have physical access to a device — any device — all bets are off. Remember Apple versus the FBI? Physical access needs to be limited, so we must request that individuals do not have prolonged physical access to these devices leading up to the election – it’s not just about voting day.
+
+Obviously, fraud can occur with paper ballots, as well. I’m sure some Florida voters still wake in cold sweats over the nightmares of hanging chads. No system is perfect, but toeing the line between the two is no way to establish a successful strategy. And sure, there’s a lot of diversity in the systems used to cast votes, but that diversity starts to dissipate when you look at state and local elections. There are too many moving parts. Too many points of failure and vulnerability. By taking a middle ground, we’ve put ourselves at an increased risk of insufficiently protecting the security of both methods.
+
+Vote manipulation could be the pinnacle of an attack campaign against our elections, but simply casting doubt over the election process is enough to cost our country a lot of time, money and confidence. We cannot allow that to happen.
+
+For now, the fastest path to the restoration of trust is to trash the digital systems and go analog. Let’s have a paper trail. It might be a contrarian view, but I value the health and integrity of our election process. Avoiding a future where a few bytes can manipulate democracy is the responsibility of every voter. We can sit down and go back to the drawing board to design next-generation digital voting systems and build in integrity, privacy, chain of custody and transparency from the beginning.
+
+With only weeks until our election, what should you do? Vote and have confidence in the process. Election officials, manufacturers of devices and government agencies are working to reduce the risks of vote manipulation. There is no reason to believe that a “hacked election” will occur in November. But if we blind ourselves to the risks, and if we fail to have significant discussions about how future elections will be conducted, we will fail to maintain integrity of how we choose who leads us. Let’s embrace modern technological solutions or stick with pen and paper. After all, elections should be determined by the will of the many and not the will of the (cyber) few.

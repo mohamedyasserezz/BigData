@@ -1,0 +1,25 @@
+Verizon is launching virtual network services
+
+My corporate overlords atVerizon(which ownsAOL, which ownsTechCrunch) have launched a new service today that they hope aims to take the pain out of networking for business.
+
+Called “Virtual Network Solutions” andannounced in a press releasefilled with so much corporate jargon it’s barely understandable, the idea is that spinning up, monitoring, managing, protecting, and tweaking networks is hard for businesses dealing with private and public clouds (unless you’re Goldman Sachs, the CIA, or Verizon itself) so why not let a big ole network do it for you?
+
+The company’s basically providing a bundle of services from companies including Cisco, Fortinet, Juniper, Riverbed and Viptela, and managing those services for companies (and maybe governments) large and small under its own brand.
+
+This is all happening against a backdrop of a huge fight among networks and hosted services providers for businesses’ business and the ongoing move away from proprietary networking gear to commodity hardware.
+
+On one level you’ve gotMicrosoft,Amazon, and Alphabet pitching public clouds that will, eventually look for their piece of the networking pie over the long term. And other networks (here’s looking at youAT&T) are offering similar services already.
+
+For big telecom companies, and Verizon is nothing if a not a big telecom company, the problem si clear. These companies have invested billions in building out networks that are now taken for granted by consumers. The key play is to build services on top of the network that can generate more cash for the companies that run them.
+
+A greatpiece in FastCompanyillustrates how Verizon’s strategy is playing out on the content side (with a special focus on my direct bosses at Aol). With this new networking play, Verizon is making its bid to dig deeper into business services as well.
+
+Here’s Ainsley O’Connell quoting Verizon chief executive Lowell McAdam:
+
+“The network will always be the foundation, but if you just do that you’re going to be relegated to being a commodity,” he says. “You’ve got to really build on that foundation in order to be relevant going forward.”
+
+These tectonic shifts in the telecom business are mirrored in the ways in which the actual networks are changing.
+
+“The way in which network services are delivered is going through an unprecedented shift—the biggest we’ve seen since the broad adoption of MPLS,” said Shawn Hakl, vice president of networking and innovation, Verizon. “Today the network is transitioning to a virtualized model using similar technology that drove the disruption in the data center market.”
+
+Translation: the same changes that happening with data centers and computing thanks to Amazon, Alphabet, and Microsoft are happening in the network too… and telecoms have to keep pace.

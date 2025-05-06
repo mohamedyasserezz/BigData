@@ -1,0 +1,21 @@
+Dear Google, the future is fewer people writing code
+
+Google recently launchedProject Bloks— a “platform” that will enable developers, educators and designers to work together in order to build “physical programming experiences” for children.
+
+This actually has the potential to be a great educational tool — but not in the way Google presents it (or at least not in the way it’s being written about). Our goal as a society should not be to create a generation of pre-teen coders.
+
+There’s a reason why, in the United States, for example, a college education still demands a level of proficiency in various topics, as well as offers a bulk of elective credits. Even at 20 years old, most people haven’t found enough intersectionality between what they enjoy and what they are good at to pick a career — so why are we having a serious conversation about grooming children to become software developers before they’ve even gone to middle school?
+
+The real benefit of something like Project Bloks is that it actuallyremoves the code;it allows children to begin thinking programmatically, without the obstacle of syntax. And this is a tough distinction to make, because people often use “programming” and “coding” synonymously. But the fact of the matter is thinking programmatically needs to be divorced from writing code: the former offers large educational value to a broad range of students, while the latter offers very little.
+
+Jeannette M. Wing actually phrases it, “computational thinking” in herarticle on the subject, and writes that “Computational thinking is a fundamental skill for everyone, not just for computer scientists. To reading, writing, and arithmetic, we should add computational thinking to every child’s analytical ability.”
+
+And I think this is where we can all agree — but the problem with Google and the whole Silicon Valley bubble is that they are too wrapped up in engineering culture to realize that as a profession it really isn’t for everyone. And that until we can start convincing educators outside of the Bay Area that there’s real value in making computer science a core piece of a general education, we’ll continue to see the numbers climb painfully slowly from where they are now. (Roughly three-fourths of the country still hasn’t adopted significant education standards for computer science within their states.)
+
+To really move the needle, we need to speak more honestly about the undeniable future of software development: Writing code will become less and less necessary, making software development more accessible to everyone. This will allow people to solve new and unique problems for themselves, and true software engineers will continue to find ways to empower others through various platforms.
+
+To add an example for clarity, think of the field of typography — until the Digital Age, typography was a specialized occupation. But with new programs like Microsoft Word coming into existence, typography (e.g. formatting a document, setting the margins, making sure the lettering is appealing, etc.) became something everyone could do easily without much thinking. That is the actual future of software development: It will become so easy and second nature, that for ordinary tasks you won’t even have to think about it.
+
+Emmanuel Straschnov, co-founder ofBubble, which is a platform for building apps without code, writes, “50 years from now, I can’t imagine people programming as we do today. It just can’t be. The future I imagine is a world in which programming is self-explanatory, where people talk to computers to build software. To get there, programming tools should first use our language. For instance, to turn a button red, we shouldn’t have to write code. We should just be able to point to the button and select a shade of red. Instead of talking about concepts the computer cares about (like variables and servers), programming tools should talk about things the programmer cares about (an image or a cloth order).This could change everything in the way we live.”
+
+Andthat’sthe future, Google.

@@ -1,0 +1,13 @@
+MIT’s shape-shifting 3D-printed objects could improve medicine and solar-power
+
+MIT and theSingapore University of Technology and Design (SUTD)teamed up to create a new kind of structure that can“remember” its original shape, and return to that state even after being deformed or otherwise bent out of shape. This could be hugely beneficial in applications like creating drugs that can lie dormant until it detects a change in body temperature indicative of a fever, for instance, or in building an actuator to change the angle of a solar cell to better capture the sun’s light over time.
+
+The combined research team from MIT and SUTD is a 3D printing process that actually adds the fourth dimension to the process, since the structures can change over time. They use shape-memory polymers as their base material, which can maintain both a high-temperature and low-temperature state. The printing process allows said high-temperature state to be printed onto a liquid resin using light from a projector, which MIT says is basically what happens when dentists 3D print replicas of teeth or cavity fills.
+
+The major difference between the process used by MIT/SUTD and that used by the dentistry industry is one of resolution – the lenses it’s using to focus the light used in the printing process come from the semiconductor industry, and operate a much smaller scale, letting the researches print structures on the scale of a single human hair.
+
+Getting things that small is important because you get significant speed advantages in how quickly material can recover its shape the smaller you go. Being able to print reliably at that scale will make for faster-acting drugs hat release their active ingredients at the very first sign of infection, or example.
+
+Challenges still exist in terms of building materials that can react to lower temperatures than those currently possible. The current range is just outside that of the human body, and hitting that range would be tremendously helpful in terms of creating custom drug delivery mechanisms.
+
+One of the examples created to demonstrate the potential of the process is the “gripper” in the GIF above, which closes its claw around whatever object placed inside when the surrounding air temp raises to 40 degrees celsius or above.

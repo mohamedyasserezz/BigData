@@ -1,0 +1,37 @@
+Oculus launching the Rift without the Touch controllers probably wasn’t a great move
+
+The Oculus Rift launch has been a rocky one that hasn’t exactly left fans of the highly influential consumer VR platformvery happy.
+
+Today, Oculus CEO Brendan Iribe announced a few things (we’re pretty sure it was him this time). He clued us into the fact that after three-and-a-half months, the Oculus team has at last caught up with pre-orders and that Oculus’s cool motion-tracked Touch controllers will be arriving in Q4.
+
+The last time they discussed timelines for the Touch release, they were delaying it to the second half of 2016, so now we’re at the second half of the second half of 2016, which is still accurate, but likely a bit disappointing to the people who have been earnestly waiting.
+
+Oculus Rift is now shipping in 2-4 days. Apologies for initial delay. We're fully caught up & ramping production. Touch ships in volume Q4.
+
+— Brendan Iribe (@brendaniribe)July 12, 2016
+
+The decision to delay Touch was one that sounds like it had to be made from a manufacturing standpoint, but having decided to publicly launch the Rift without them (essentially as a beta product), Oculus is going to have to suffer some pretty severe growing pains and deal with a lot of frustration from consumers and developers in Q4.
+
+Sometimes you have to make tough calls and do the right thing:https://t.co/fzK21if4CG
+
+— Palmer Luckey (@PalmerLuckey)December 31, 2015
+
+First off, it’s hard to overemphasize how important Oculus’s proprietary Touch controllers are to the boundary-breaking VR experiences they’re needing developers to put together. The games that just utilize the bundled Xbox controller are perfectly fine, but they largely end up selling the Rift as some sort of all-encompassing 3D monitor rather than the full VR system that it is. Meanwhile, some of the Oculus exclusive Touch titles I’ve tried are amongst my favorite VR experiences to date. Yet, for developers looking for multi-platform releases of “next-gen” content (i.e. almost all of them), most have been forced to develop primarily for the Vive right now, with plans to later port experiences to the Rift once Touch is released.
+
+I’ve spent a decent amount of time with the latest Touch dev units and they really do represent the fruition of all the impressive engineering and thoughtful product designing happening at Oculus. Compared to the Vive’s controllers, their ergonomics are preferable in an entirely non-trivial way and they just feel a lot more user-friendly. I’ll leave final judgments for the consumer release models, but I will also say that the experience with the Touch controllers is impacted negatively by the considerably less powerful infrared tracking system Oculus is shipping with that tightens the scope of your available movement and occasionally leaves you feeling constrained by the occlusion problems that fail to track the controllers as accurately as need be.
+
+For all intents and purposes, the Touch release is basically going to serve as a secondary system launch for Oculus, which should theoretically give the company a shot at learning from the woes that accompanied the Rift’s launch in late-March that left a lot of pre-order customers pretty pissed off. Unfortunately, not pissing off the pre-orderers again might be an intensely difficult task to carry out with launch 2.0.
+
+Product issues aside, in order to take the sour taste out of early adopters’ mouths, Oculus is going to have to be super competitive with pricing for Touch, something that might be difficult given the added cost for the bundled secondary camera sensor. If Oculus can hit a $200 price point, it will still leave early adopters positioned to complete their Rift VR ecosystems for a price similar to that of the $799 HTC Vive. Convincing novices who shelled out $599 for the Rift headset to throw another $200 toward some cool controllers may prove frustrating, especially given the fact that some of the Rift’s coolest unreleased titles I’ve played thus far are launching with Oculus Touch and won’t be compatible with the Xbox One controller.
+
+This puts Oculus in a shitty situation where it really is just going to end up pissing off everybody yet again as it strives to keep the bundled all-in-one price lower than the sum of its parts, which they will be able to do (a bit) by getting rid of the Xbox One controller. This is going to leave people who made pre-orders feeling like they’re paying a premium for the non-bundled Touch when they were the ones giving Oculus the initial support they needed. Again, not so happy.
+
+On the developer side, all of those launch titles that Oculus has been pushing for months are going to turn into the Xbox controller-toting ugly stepsisters that Oculus keeps behind closed doors. Given the button layout on the Touch controllers, I’d imagine the older titles will still be playable, but their lack of motion control is going to make them feel distinctly last-gen, and all of a sudden developers are going to be focusing all of their resources on building titles for Touch, leaving all of those Touch-less pesky pre-orderers out of the loop.
+
+All of this will be happening while Oculus is preoccupied facing its most formidable external threat — Sony’s console-powered PSVR, which will be dazzling holiday shoppers with its low price point and fleshed-out gaming ecosystem. Oculus is likely going to have a rough time convincing novices to flock toward its more sophisticated VR platform when they have the option of purchasing a PS4 and PSVR for just a smidge more than the Rift, which will still, of course, need a power-hungry PC.
+
+Oculus did what it felt it had to do in regards to shipping the Rift without the Touch controllers, but it was a far more complicated decision than just breaking another ship-date promise. Now, Oculus has tied its hands by fracturing game development across two input methods (Xbox One and Touch) that existing users are going to want/need both of for the foreseeable future in order to play the content that’s out there.
+
+Here’s the thing, though. Oculus isn’t going to prioritize both controllers with the system because of quality, developers aren’t going to want to build content for both inputs because of time constraints and people who pre-ordered might not buy Touch because of cost.
+
+Ultimately, Oculus made a huge tiny mistake in regards to controllers that is probably going to screw up the Rift ecosystem for longer than the company thinks it will.

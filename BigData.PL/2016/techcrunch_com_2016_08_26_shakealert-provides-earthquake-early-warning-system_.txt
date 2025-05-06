@@ -1,0 +1,19 @@
+ShakeAlert provides earthquake early warning system
+
+The U.S. Geological Survey (USGS) and a series of university partners are developing an earthquake early warning system calledShakeAlert, which aims to provide the general public with alerts up to 10 seconds before an earthquake hits. The system is not yet public, but it is nowundergoing testingin California, Oregon and Washington.
+
+“There is a similar test effort for an earthquake early warning system in theIrpiniaregion of Italy, run by the University of Naples,” said Richard Allen, one of the leaders of the ShakeAlert project and director of the Seismological Laboratory at UC Berkeley and chair of the Department of Earth and Planetary Sciences.
+
+Last Wednesday, central Italy was hit by a 6.2-magnitude earthquake. As of today, the death toll has risen to 281 people, according to Italian media.
+
+In a phone interview with TechCrunch, Allen pointed out that ShakeAlert is not about predicting earthquakes. “When people say ‘predict,’ they usually mean, ‘there’s going to be an earthquake in LA on Wednesday,’” Allen said. “We cannot predict earthquakes, and most seismologists would agree that we do not expect to be able to predict earthquakes in the foreseeable future.”
+
+Instead, we should think about what we can do; this is when ShakeAlert comes into play. The system provides a warning that an earthquake is on its way about 10 seconds beforehand; people involved in the project receive warnings on their phones.
+
+Allen explained that we think of an earthquake as being an instantaneous process, but it takes some time for the motion to reach us. ShakeAlert employs a network of seismic sensors buried in the ground. Instruments record the ground movement and provide data to UC Berkeley, the USGS or Caltech. The more dense the network of seismic sensors, the better the system performs.
+
+“In the Bay Area, sensors are between 10 or 20 kilometers apart,” Allen said. “The rest of California doesn’t have the same density of instrumentation.” According to Allen, there are about 550 sensors in California (about 200 in the Bay Area, 200 across LA and the rest across the state) that contribute to the prototype warning system.
+
+Allen said the federal and state governments have started the process of funding construction of the system. On August 15,the USGS announcedit had awarded $3.7 million to six universities to support transitioning the ShakeAlert earthquake early warning system into a production system. Allen said they need $38 million to build it and about $16.1 million per year to operate the system in the long term.
+
+“We hope to be pushing out warnings to people’s phones in the near future,” Allen concluded. “There’s a hope to start having a limited public rollout in 2018 in specific regions, where we have the densest seismic network.”

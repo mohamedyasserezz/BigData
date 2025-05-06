@@ -1,0 +1,25 @@
+Living with Google Assistant
+
+At the heart of Google’s new Pixel smartphone is a piece of software that would be your companion: Google Assistant, the spiritual successor to Google Now and the sum of the company’s work in AI and machine learning, given a voice and a central perch in the new Pixel Launcher software that makes this phone’s version of Android unique in the mobile galaxy.
+
+In the spirit of trying to see around corners and into the future, I tried to rely on Assistant for as much as possible in my first few days with the Google Pixel XL, just to see if Google’s machine learning mascot could augment or even replace my dependence on a visual interface for using a smartphone.
+
+Right away, I liked Assistant, mostly because it began the interaction by offering a worthwhile, easy-to-navigate list of things it could do. This differs from a lot of other virtual assistant software, including Cortana and Siri, because although both of those can present you with some idea of their capabilities, Assistant does it in a way that surfaces useful info right away, in a visual interface that’s more familiar and comfortable for smartphone users who spend a lot of time in chat apps.
+
+Assistant’s visual interface is a key ingredient to why it’s so easy to pick up, and a reason why it stands to be more successful and more relevant to users than either Google Now, or Google Now on Tap. It also doesn’t mean that Assistant has to be conversational – in most cases I’ve found that it really isn’t, at least not in a way that tries to truly mimic human conversation. But it’s an interface that represents increasingly the majority of time spent on mobile devices, so it’s a great delivery mechanism for a new kind of base level interaction between person and computer.
+
+Key to Assistant’s success will be how well it fails; with any new interface paradigm, alleviate a user’s frustration and sense of having done something wrong when they don’t encounter their desired result is key. In my experience so far, the fail state is better with Assistant than it is with Siri – even the difference between reading an excerpt from a top Google result, which Assistant does when it leans on the web, and just directing you to a web search for more info is a huge asset.
+
+Assistant failed often enough when I was using it, mostly due to me wanting it to be more deeply integrated with third parties than it’s possible for it to be at this early stage. But generally speaking, it could provide me with something material even when it wasn’t sure what I actually wanted – and it would deliver those results as a dictated response, which is far more useful in a voice-based interface than some lines on a screen.
+
+Google’s Assistant also seems to have a better, more generally enjoyable sense of humor, too, when compared to other virtualized companions. This is obviously a subjective measure, and it’s possible that Google’s goofy answers to things it doesn’t understand will grate just as much as those from competitors over time, but for now it’s another example of how Google is doing well in terms of anticipating and countering frustration.
+
+Speaking of frustration, Assistant provides its fair share. The app can handle texting and calling well, as well as stuff like scheduling, setting timers and reminders, but I was amazed to find I could not command it to set the Pixel to Do Not Disturb mode. This is when the fail state was not so elegant – it would suggest Play Store apps with “disturb” in the name instead of managing the phone’s notification preferences. It’s something I’d imagine a lot of users would logically expect the phone to be able to do, so hopefully this will be addressed in future.
+
+Another seemingly basic omission: keyboard text entry in the system-level version of Assistant. I can still switch over to Allo for typed text interaction with Assistant, but based on its reception and how often friends message me there, they should kill that app entirely and bring the Assistant component directly into the one baked into the Pixel itself.
+
+Assistant was a huge part of Pixel’s pitch – so much so that it would be easy to assume Assistant is as core to the experience of using a Pixel as Amazon’s Alexa is to the experience of using an Echo. But Assistant is closer to Siri than it is to Echo, in terms of how necessary it is for your enjoyment of the Pixel as a device.
+
+It feels replete with more potential at the same time, however, and should be set to grow a lot faster with a more open approach to third-party integration. The launch of Google Home should also help, by getting users more comfortable with Assistant in a context where they can’t just easily poke around a visual interface instead.
+
+So while using Assistant as the primary interface for interacting with a Pixel might not be in the cards for most, you might find yourself speaking aloud to Google’s virtual companion more often than you’d expect, which bodes well for the future of the platform.

@@ -1,0 +1,19 @@
+A hack by any other name
+
+Early this morning — so early that most of our audience probably didn’t see it — a story was posted on TechCrunch from the ever so friendly OurMine hacking team. The post was up for a handful of minutes and was removed, along with automatically generated social posts.
+
+We join aclub of entitiesthat have beencompromised by the probingsof the OurMine team including folks like William Shatner, Travis Kalanick, Jack Dorsey, Minecraft and others. The ‘hack’ appears to have involved using an account of a contributor to post this article on TechCrunch (screenshot via our sister siteEngadget(thanks Engadget!):
+
+We’ve been reporting on the activities of the OurMine team for some time as they’ve been climbing the ladder of notoriety through the compromise of high profile celebrity Twitter accounts and theDDoS-ing of hot propertieslike Pokemon Go.
+
+When we reached out to the OurMine team about the attack, they said “We don’t hate TechCrunch we like them, and we didn’t hack it we are just testing TechCrunch security.”
+
+As the security aphorism goes, either you’ve been compromised or you just don’t know it yet. Well now we know and we hope to be better about it.
+
+As far as the ongoing lessons, obviously multi-factor authentication should be a mandatory requirement for any news organization, at a bare minimum. A re-used password appears to have been instrumental to what happened in this instance. Sharing passwords between sites and services is the worst and do not do that. Especially now that groups like OurMine have turned their sights to news. This time the intention was publicity, but next time it could be malicious, like a hoax market-moving story on a real domain,instead of a fake one. We will continue to investigate what happened and implement additional security measures.
+
+Our official statement is the following, so enjoy that and feel free to use it for reporting purposes:
+
+An unauthorized individual compromised the CMS account of one of our TechCrunch writers and used the account to post a story. This was an isolated instance and we have secured the account. There was no risk posed to our readers or their data.
+
+*This story was updated to include additional details.

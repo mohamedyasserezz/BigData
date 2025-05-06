@@ -1,0 +1,15 @@
+Google brings non-news AMP links to its mobile search results
+
+When Google launched itsAMP projectfor making mobile websites load faster, it was mostly about news sites and you’d only see AMP links in the Top Stories section of the company’s search results pages. About two months ago, Google alsointroduced a new demo sitethat showed what AMP support in mobile search would look for non-news sites like recipe and lyrics sites. Today, the company is moving support for non-news AMP sites out of the preview site and into its regular search results pages.
+
+As Google noted when it launched the last demo, the average AMP page loads four times faster and uses ten times less data than its non-AMP counterpart. The median load time for an AMP page is under one second.
+
+As Google’s lead product manager for the AMP project Rudy Galfi told me, the company’s data show that users who have previously clicked on an AMP page — and have seen how much faster they load — are far more likely to click on an AMP link later.
+
+Galfi stressed that Google isn’t using AMP support as a signal for how it ranks its mobile search results, but if users are indeed more likely to click on the AMP link than on a non-AMP one, then there is still a strong incentive for publishers to support the new format.
+
+Google will label sites with AMP versions of their pages with a small icon, just like it did previously with AMP pages in the Top Stories section.
+
+In total, Google has now indexed over 600 million AMP documents (up from 150 million in July) and sites ranging from eBay to Flipkart, 1-800-Flowers, Genius and the Food Network have embraced the format, even before Google started featuring non-news AMP pages in its search results. The fact that so many non-news sites started adopting AMP even before it drove traffic came as a bit of a surprise to the team, but today, Google’s index includes AMP results from over 700,000 domains.
+
+And here is a bit of a surprise: even Microsoft’sBing— the search engine you’ve probably already forgotten about — is now including AMP results in its mobile apps for Android and iOS.

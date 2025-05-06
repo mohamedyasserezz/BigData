@@ -1,0 +1,15 @@
+An AI project can tell you when the cow goes “Moo”
+
+A new project from Disney Research can recognize various objects in videos — cows, cars, very small rocks — and add appropriate sounds — “Mooo!”, “Vroom!”, a witch’s cackle — automatically. The system ignores the surroundings and other audio and simply adds simple sound effects.
+
+The system works by watching video and correlating sounds with particular objects. If a large brown and white object always bellows mournfully, the AI will assume that every brown and white object will bellow in a similar way.
+
+“Videos with audio tracks provide us with a natural way to learn correlations between sounds and images,” said Jean-Charles Bazin, a research associate at Disney Research. “Video cameras equipped with microphones capture synchronized audio and visual information. In principle, every video frame is a possible training example.”
+
+The real trick is figuring out which sound is associated with which object. This is not a trivial problem, but the Disney Researchers have been able to correlate various beeps, vrooms and honks with various objects.
+
+“Sounds associated with a video image can be highly ambiguous,” said Markus Gross, vice president for Disney Research. “By figuring out a way to filter out these extraneous sounds, our research team has taken a big step toward an array of new applications for computer vision.”
+
+“If we have a video collection of cars, the videos that contain actual car engine sounds will have audio features that recur across multiple videos,” said Bazin. “On the other hand, the uncorrelated sounds that some videos might contain generally won’t share any redundant features with other videos, and thus can be filtered out.”
+
+The project is still in its infancy, but you can imagine it creating automatic sound-effect machines and story books as well as more complex tasks like building sound libraries for movie studios. You can read the associated paperhere.

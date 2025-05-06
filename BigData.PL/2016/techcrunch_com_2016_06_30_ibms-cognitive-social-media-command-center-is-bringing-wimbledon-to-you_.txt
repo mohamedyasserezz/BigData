@@ -1,0 +1,19 @@
+IBM’s Cognitive Social Media Command Center is bringing Wimbledon to you
+
+Most tennis fans would salivate over the chance to witness Serena Williams attempt to winWimbledonand tie Steffi Graf’s 22 Grand Slams, pulling within two of Margaret Court’s 24 for the most major singles titles in women’s tennis history. But for those unable to make the trip to London to witness the tournament, which is currently in full swing, IBM now offers a new way to experience the event via Wimbledon’s official smartphone apps and website.
+
+In addition to improvements made to Wimbledon’sofficial smartphone appsfor iOS and Android and a new Apple TV app — all of which IBM designed, built and hosts via its iX hosting team — the company is also powering this year’s tournament with its new Cognitive Social Media Command Center, which was built with the company’sWatsonand hybrid cloud technologies.
+
+Backed by Watson’s ability to read and understand natural language, the Cognitive Command Center ingests feeds across several social media platforms. It separates conversations about Wimbledon from conversations about other sports going on right now — like the Euro 2016 soccer tournament — and pinpoints and highlights trending topics about Wimbledon itself. Across roughly two weeks of the tournament, IBM will capture 3.2 million data points from 19 courts with an accuracy target of 100 percent and a sub-second response time.
+
+How? Well, the Command Center uses Watson’s APIs, including its Natural Language Classifier and Alchemy Topic Analysis services, to review social media comment across Twitter, Facebook, Instagram and YouTube. Those same APIs are trained to recognize what’s relevant to Wimbledon. Once it hones in on those sticking points via real-time conversations, the Command Center is able to identify emerging topics, geographic locations, key sources of information and who key influencers are, according to Sam Seddon, IBM’s Wimbledon and RFU Client and Program Executive.
+
+The deluge of information gives Wimbledon’s digital team of editors insight into how to tune their approach, giving them a first-mover advantage around where to focus.
+
+“It’s all for getting Wimbledon in front of as many people around the world as possible,” said IBM Technology Manager John Kent. “Watson analyzes volumes of information in the world of social.”
+
+He added: “Our primary role is to work with the club, help them really take the tournament and bring it to the world in concert with their brand. Whatever experience we create needs to be done the Wimbledon way, if you will. Their ‘in pursuit of excellence’ mantra is something that’s not just a tagline, but something they live, breathe and feel.”
+
+To accomplish that under Wimbledon’s standards, IBM beefed up its mobile applications, allowing fans to pick the players, events and countries they want to follow with the help of curated content that’s catered to their selections. So if you choose Serena Williams, for example, you’ll get alerts when she takes the court, her real-time match information, results and stories about her — both on and off the court.
+
+Fans at the event will also get to participate in the “My Wimbledon Experience” via the mobile app. Part of that includes the “Create My Story” feature, which allows fans to check off their customized bucket list, whether it’s being at Centre Court or checking out Wimbledon’s famed Henman Hill. Photos they take are pre-fitted with a social media-ready Wimbledon border.

@@ -1,0 +1,37 @@
+Atlas Recall, a search engine for your entire digital life, gets an open beta and $20M in backing
+
+Computers have perfect memories. So why is it so hard to find stuff on them? Probably because ourownmemories don’t work the same way.Atlas Recallaims to fix that with “one search to rule them all,” indexing everything you see and do on all your devices, but organizing it in very human fashion. The service enters open beta today.
+
+I met with Atlas Informatics CEO Jordan Ritter and VP of marketing Travis Murdock at their office in Seattle ahead of the launch. Ritter, formerly of Napster, among other companies, explained the genesis of the company and product. Essentially, open-ended funding gave him carte blanche to pursue his next venture, and he immediately started down the track of improving search.
+
+“What I remember is fluid across every device I own,” he said — yet, as we all have no doubt experienced, what different services and search engines have access to is very specific.
+
+Google searches the public internet; Facebook tracks your private photos and friends; Outlook has your contacts, emails, and appointments; Spotlight knows your local files; Spotify has your music and playlists — the list goes on and on.
+
+And even if you know which silo your data is in, you still have to go there and muck around in it to find what you’re looking for — which Slack room did we put the meeting time in? Which thread had that attachment? Which playlist did my roommate say to check out?
+
+“The house of search is actually two houses,” said Ritter. “One is, find me something I’ve never seen. The other is, find me something I definitely know I’ve seen.”
+
+Atlas Recall is intended to fill the second role better than anything out there. It indexes and makes searchable everything you encounter on your computer and mobile — yes, every single thing. On the web, on Facebook, in Outlook, on your computer,everything. But before you freak out:
+
+Not only does it keep track of all those items and their contents, but it knows the context surrounding them. It knows when you looked at them, what order you did so in, what other windows and apps you had open at the same time, where you were when you accessed it, who it was shared with before, and tons of other metadata.
+
+The result is that a vague search, say “Seahawks game,” will instantly produce all the data related to it, regardless of what silo it happens to be in, and presented with the most relevant stuff first. In that case maybe it would be the tickets you were emailed, then nearby, the plans you made over email with friends to get there, the Facebook invite you made, the articles you were reading about the team, your fantasy football page. Click on any of them and it takes you straight there.
+
+Maybe you remember seeing an article you wanted to read while you were at the airport, but didn’t think to save — search for “LAX” and there are all the things you did or looked at while you were there. Maybe you want to send a slide deck and all the related media to a coworker, but the items are scattered across your laptop, desktop, Google Docs and Dropbox — search for the project and select the pieces you need all in one place.
+
+There are filters for content type, date ranges, and all that in case you want to drill down. You can also tell itnotto remember certain websites or apps, and you can temporarily disable it while you do your taxes, write secret poetry, and so on.
+
+When you see it in action, it’s easy to imagine how quickly it could become essential. I happen to have a pretty poor memory, but even if I didn’t, who wants to scrub through four different web apps at work trying to find that one PDF? Wouldn’t it be nice to just type in a project name and have everything related to it — from youandfrom coworkers — pop up instantly, regardless of where it “lives”?
+
+There’s the main interface that comes up on your computer, but the same collection of stuff will come up on mobile. And you can choose to have Atlas integrated with Google, Spotlight, and other engines, so relevant stuff comes up when you do ordinary searches as well.
+
+All the data is backed up to the cloud, of course, and it may make some people nervous to have such an incredibly detailed record of their online life sitting on someone else’s computer. Ritter acknowledged that trust needed to be built, but as a former security engineer, he said he takes that side of things seriously.
+
+As for privacy, the company doesn’twantto look at your data. Google and Facebook make money by selling ads based on intimate knowledge of your activities. Atlas will work on a freemium model and advertising isn’t on the table; without a guarantee of privacy, who would use the service in the first place? So they’re clear about who owns your data (you), what data they have access to (metadata, not content), and whether you can up and get out of there and leave no trace behind (yep).
+
+Microsoft, Nathan Myhrvold, and Aspect Ventures ponied up $20.7 million for Ritter and his colleagues to pursue this dream of a “searchable photographic memory for our digital lives.” The open beta,which you can sign up for here, is — as you might expect — intended to shake out bugs, refine the interface, and learn what features users like, don’t use, never find, and so on. It’s available for macOS and iOS now, with Windows 10 and Android on the way.
+
+Paid versions will add extra functionality — sharing between workgroups, or administrative tools, for instance — but the basic functionality of Atlas Recall will stay free.
+
+I’ll be testing this out over the next few weeks to see how well it works, what the performance hit is, and whether it creeps me out. Give it a shot yourself — there’s a good chance this could be the next essential digital tool.

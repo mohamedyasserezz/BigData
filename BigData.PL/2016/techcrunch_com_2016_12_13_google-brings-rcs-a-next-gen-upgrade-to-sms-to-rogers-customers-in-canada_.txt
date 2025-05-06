@@ -1,0 +1,15 @@
+Google brings RCS, a next-gen upgrade to SMS, to Rogers customers in Canada
+
+In November,Google announced plans to bring RCS, a next-generation upgrade to SMS, and something of an iMessage alternative for Android users, to customers with Android phones on Sprint. At the time, Google said that it planned to roll out RCS to other carrier partners in the months ahead. In just over a month since the original announcement, a second carrier is coming onboard: Rogers Communications in Canada.
+
+This will be the first Canadian carrier to support the universal profile,notes Google.
+
+RCS as a technology has been around since 2007, and launched with 49 carriers worldwide, according to the GSMA. However, Sprint was the first to launch with the new RCS profile — the others had involved older iterations on the standard.
+
+Once enabled, this new RCS profile lets Android users take advantage of an enhanced messaging experience, with features that rival iMessage such as improved group chats where you can name the group, add members, or leave the group, plus support for read receipts and typing indicators. RCS users can also share 100x larger images and videos than with MMS.
+
+Similar to Google’s launch of RCS on Sprint devices, Rogers customers can also choose to upgrade their phones to take advantage of the new messaging experience. Starting today, customers can download the newly revampedMessengerapp from the Google Play Store, which is now powered by theJibeRCScloud. (Googleacquiredthe RCS provider Jibe last year for this purpose, and it’s nowpoweringthe rollout of Google’s RCS initiatives.)
+
+Starting next year, Rogers will preload the Messenger app on new Android devices, where it will serve as the default SMS and RCS messaging app.
+
+Though RCS has many features that are also available with iMessage, it has problems that Apple’s messaging platform doesn’t face. While iMessage works across the entire Apple ecosystem, RCS doesn’t work with older Android phones and is dependent on carrier adoption. With only Sprint and Rogers onboard for now, the impact of its launch remains limited.

@@ -1,0 +1,17 @@
+Researchers sabotage 3D printer files to destroy a drone
+
+Researchers at Ben-Gurion University of the Negev (BGU), the University of South Alabama, and Singapore University of Technology and Design have successfully injected malicious code into a computer which, in turn, added invisible commands to a file containing a 3D model of a drone propeller. When they printed the model and attached it to the drone, the propeller broke upon take-off. This killed the drone.
+
+In short, the exploit, codenamed Dr0wned, was able to modify a digital file that, in turn, destroyed a physical device.
+
+“Imagine that an adversary can sabotage functional parts employed in an airplane’s jet engines. Such an attack could cost lives, cause economic loss, disrupt industry, and threaten a country’s national security,” said researcher Yuval Elovici, a professor at BGU. “With the growth of additive manufacturing worldwide, we believe the ability to conduct malicious sabotage of these systems will attract the attention of many adversaries, ranging from criminal gangs to state actors, who will aim either for profit or for geopolitical power.”
+
+The attack works by hiding instructions inside a model file like an STL. These instructions make the printer appear to print a normal, solid part, but with a fatal flaw. When you use the piece in a working machine it quickly fails, destroying the part and the machine. The researchers injected malicious code into a plastic propeller and quickly destroyed a $1,000 drone in their tests.
+
+The exploit requires control over the victim’s computer. It begins with a phishing email that encourages the user to read a PDF which is actually a piece of remote access malware. The attacker then looks for all STL files and injects code in them that weakens the parts.
+
+The resulting defects are impossible to detect. For example, the propellers above are based on the same file but the one labelled A has been modified to fail. It is almost impossible to tell them apart.
+
+While not many people are printing mission critical objects on their home 3D printers we could imagine a future in which airplane parts are transmitted to a third party for heavy-duty printing. An exploit in that chain could prove more than fatal. Luckily this is still a proof of concept and the only thing hurt is an innocent but expensive drone.
+
+[youtube=https://www.youtube.com/watch?v=zUnSpT6jSys]

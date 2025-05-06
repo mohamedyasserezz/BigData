@@ -1,0 +1,61 @@
+Silent Circle silently snuffs out its warrant canary — but claims it’s a “business decision”
+
+Silent Circle, the maker of encrypted messaging apps and a security hardened Android smartphone, called Blackphone, has discontinued itswarrant canary.
+
+Attempting to reach thepage where it was previously hostedresults in the following notification:
+
+Warrant canaries became popular in the wake of the 2013 Snowden disclosures revealing the extent of government surveillance programs, as a tacit route to signify to users when a service might have been compromised by a government request for user data.
+
+Canaries act as a workaround for U.S. gag orders which prevent companies publicly disclosing warrants for user requests by publishing an explicit statement that they have not received any warrants for user data to date — allowing for the reverse to be signaled if a canary is removed or not updated.
+
+At least in theory; although canaries can arguably end up generating confusion rather than furthering transparency on account of only being able to offer a partial signal, not an explicit confirmation. ‘Feel-good security theater’ is one critique I’ve heard leveled at them.
+
+TechCrunch was tipped to Silent Circle’s dead canary by a reader, however the company claims it discontinued the canary as a “business decision” — not because it has received “any warrant”.
+
+“We have not received a warrant for user data,” Matt Neiderman, Silent Circle’s General Counsel told TechCrunch. “As part of our focus on delivering enterprise software platform we discontinued our warrant canary some time ago. The decision was a business decision and not related to any warrant for user data which we have not received.”
+
+The company has run into problems with its warrant canary before, including in Marchlast yearwhen it missed out a statement in an update, which they subsequently added. So it has something of a checkered history here already.
+
+At the time of some of the previous problem Neiderman claimed the company had not received warrants “of any type”. But his denial in the latest instance is arguably a little less explicitly worded. We’ve asked him to confirm whether Silent Circle has received a warrant of any type to date and will update this post with any response.
+
+Update:Neiderman further added: “We have not received a warrant. Our decision to discontinue [the warrant canary] some time ago does not create any security risks, and it is was a business decision to position ourselves as an enterprise-focused software company that delivers secure communications and that gives enterprise customers the tools and ability to comply with any legal requests for information. Nothing about our service or level of privacy has changed. As a result of our peer-reviewed end-to-end encryption, by definition we don’t have access to and can’t provide anyone with customer data, and our end-to-end encryption remains publicly available open source for peer review and testing. We do not provide backdoors to anyone, whether we have a warrant canary or not, nor will we do so. Period.”
+
+It’s also worth noting the company is not headquartered in the US — previously moving its HQ from the Caribbean to Switzerland on account of what itsaidwere “world best” constitutional privacy protections in the European country. (However other non-US based encrypted comms companies, such as Germany’sTutanota, do continue to maintain a warrant canary for transparency and good practice purposes, despite not being subject to legal gag orders in the country where they are based.)
+
+Discussing Silent Circle’s decision to discontinue its warrant canary, UK based security commentatorGraham Cluleysuggested the move does look odd.
+
+“I would think a company like Silent Circle would have enough nous knowing that if it was to discontinue its warrant canary plenty of people would be concerned. So the sensible thing to have done — if it had been some sort of business decision, and I can’t imagine it’s really that much work maintaining a warrant canary — would have been to have been quite public and open and transparent about it,” he said. “But to silently kill it off seems odd.
+
+“If this really was a business decision why not be open about it? Especially for a company which works in those sort of circles… You would [also] expect that discontinuing something like this could be bad for their business. Could raise concern among their customers. So it seems an odd business decision to make.”
+
+Andy Yen, co-founder of Swiss-based encrypted email service ProtonMail, also finds it hard to believe that Silent Circle would not have received any warrants to date.
+
+“ProtonMail has received about 30 warrants already with over 10 coming in the last quarter alone. We are now getting several per month. For Silent Circle to claim they have never been served with a warrant for user data beggars belief,” he tells TechCrunch.
+
+ProtonMail maintains atransparency reportlisting the total number of user data access and retention requests, and breaking out how many requests have been granted, how many were denied and how many are legally binding.
+
+“Transparency to users should be a core pillar of any security company, especially one that deals with sensitive personal data. I understand that “business decisions” sometimes need to be taken, but we strongly disagree with Silent Circle’s stance of removing transparency for the sake of business. We are also a Swiss based company and I cannot think of any business justification for this move,” adds Yen.
+
+“The claim that they have not received any warrants is highly suspect. Either nobody is using Blackphone, or they aren’t being entirely truthful.”
+
+The same tipster who pointed TechCrunch to the dead canary also claimed that a recentSilentOS update to Blackphone’s default apps requires increased security permissions, such as access to the camera, which can no longer be disabled by users.
+
+Silent OS 3.0was released towards the end of June, and is billed as including various security fixes and features, such as a new Privacy Meter integrated into the Security Center which notifies the user when a security/privacy threat is present and indicates the severity and potential actions to mitigate it, and a CIDS (Cellular Intrusion Detection System), to warn of potential threats in the cellular network interface, such as weak encryption and device tracking via silent SMS. It’s based on the latest release of Google’s mobile platform, Android Marshmallow 6.0.1, and also brings various UX changes to Silent OS’ platform.
+
+There’s no explicit mention of increased permissions in Silent Circle’sblog postabout the major platform update. We’ve asked Silent Circle to confirm whether it has increased permissions for its apps in Silent OS and if so, for what purpose, and will update this post with any response.
+
+Cluleytold TechCrunch that increased app permissions might be needed to support new features on the platform but again said the onus would be on such an apparently security-focused company to be very clear about its intentions here.
+
+“You would hope if they’re changing their permissions they’ve got some sort of explanation as to why they would need to access your camera, for instance. Maybe it’s to scan in QR codes, maybe it’s for some sort of facial recognition biometric going forward,” he said.
+
+“We do have to be careful about apps and the chance of new permissions creeping in stealthily if you like, and people not realizing that they are granting more permissions than when they initially installed an app. So I think some transparency’s called for.”
+
+“In that kind of climate, wouldn’t a warrant canary be a good thing?” he added.
+
+Adding to the uncertainty here, Silent Circle has undergone some significant employee shifts in recent months, losing two key co-founders: veteran crypto expert Jon Callas and its chief scientist Javier Agüera. We’ve also heard reports of wider staff cuts, although it is not clear whether the co-founders’ departures were voluntary or not (Callas has since taken up a role at Apple).
+
+In addition, a lawsuit filed against Silent Circle by a business partner last month in a New York state court claims the company, which has raised $80 million to date from investors (most recently taking in$50M in February 2015), has failed to pay a $5M debt, according to a report on theLaw360 website. The suit further claims it is considering bankruptcy after several major distribution deals fell through.
+
+On the lawsuit Neiderman added: “We find the claims made by our former partner both unfortunate and legally and factually misguided. As you know, we are working with outside attorneys in New York in responding. As you’d expect, we can’t discuss pending litigation, but we are opposing the New York action and expect that it will be resolved in our favor.”
+
+This post was updated with additional comment

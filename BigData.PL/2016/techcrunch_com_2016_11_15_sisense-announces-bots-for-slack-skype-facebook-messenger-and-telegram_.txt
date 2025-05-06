@@ -1,0 +1,17 @@
+Sisense announces bots for Slack, Skype, Facebook Messenger and Telegram
+
+Sisense, a company that helps customers link multiple data sources and summarize them in a single dashboard view, has not shied away from experimenting with new ways of interacting with the data inside its business intelligence product. Earlier this year,it announced integration with the Amazon Echo, enabling users to simply ask Alexa for certain data.
+
+Today, the company announced new bot integration, moving the Echo idea to messenger apps. The release includes support for Slack, Skype, Facebook Messenger and Telegram.
+
+It wasn’t a coincidence the company chose these products. “We initially chose Slack, Skype, Facebook Messenger and Telegram as partners because they have the most business users and are deployed in the most organizations. The existence of APIs for these messaging systems allows external systems like Sisense to access them. This open platform approach is the future of conducting business and driving collaboration,” Sisense CEO Amir Orad told TechCrunch.
+
+Users can ask questions or make choices from a simple list. As an example, in the Slack integration, if someone shares a sales data chart, the user could choose “See Widget” or “See Dashboard.” Choosing the widget could result in an analysis widget providing insight into the chart.
+
+The promise of bots is not so much that they bring intelligence to the software business workflow, though they do that. The real strength of a well-designed bot is that it hides the complexity of the software itself.
+
+“While the rise of self-service and data visualization technologies did a good job of making data more mainstream to non-technical users, BI Bots build on what self-service has already accomplished by incorporating data insight directly into everyday work environments,” Orad said.
+
+Instead of having to deliberately move through a process by clicking, selecting and perhaps copying and pasting — the kinds of interactions we have come to expect from software over the last 30 years — we interact in a more conversational way. What bots do is provide a way to use natural language to interact with software, and when done well, they can surface the value often hidden inside a software package, directly to non-technical end users.
+
+While this might smack of gimmickry, it is really about finding creative ways to get at data inside an application like Sisense to as many people inside a customer organization as possible. These kind of tools really do democratize the ability to access more data without help from a data expert, and give wider access to information to line of business users.

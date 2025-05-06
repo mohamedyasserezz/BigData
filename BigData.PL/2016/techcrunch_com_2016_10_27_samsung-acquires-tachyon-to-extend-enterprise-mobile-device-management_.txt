@@ -1,0 +1,41 @@
+Samsung acquires Tachyon to extend enterprise mobile device management
+
+Samsung’smobile operation has taken a big hit of late, withprofits plunging 30 percent in the last quarterin the wake of the Note 7 recall. But today, the company is announcing an acquisition of a wireless enterprise startup that speaks to how it wants to grow other areas of its business to offset setbacks like this, as well as thelarger overall slowdownin handset sales globally.
+
+Samsung is acquiring a Reston, Virginia-based company calledTachyon, a specialist in mobile device configuration and security for businesses. Samsung plans to integrate Tachyon into its enterprise offer to help businesses speed up the secure configuration of third-party apps on their Samsung devices, regardless of whether the third-party app provides APIs for this purpose.
+
+Tachyon hadalready been a partner of Samsung’sprior to the deal, and while it was built to work across all Android devices, the startup tech will now be used solely on Samsung devices.
+
+Tachyon — a physics term for a particle that travels faster than the speed of light — was developed as part of a larger enterprise mobility solutions startup calledKaprica, which Samsung is not buying.
+
+Kaprica will continue to build out the other part of its business after the spinoff, focusing specifically on a connected vehicle security service calledRunSafe. CEO/founder Doug Britton and Samsung both confirm Kaprica will continue to work with Samsung in that capacity as a “Gold Level” partner.
+
+The financial terms of the acquisition are not being disclosed, but Samsung and Kaprica confirm that Samsung is taking on several parts of the business: Tachyon employees, the technology and related IP and (importantly) Tachyon’s customers, which included organizations in federal law enforcement, the Department of Defense (DoD), hospitals and vehicle fleets in the U.S. and Europe. To date, Kaprica has raised around $700,000 from investors that it declined to name.
+
+Samsung had already been offering enterprise customers some device management solutions before this, both through its Knox mobile security service and other mobile enterprise offerings.
+
+“Knox Custom Configurator (KCC) allowed for broad automation of the device configurations, where settings could be accessed via an API,” Jongshin Kim, VP of Global Mobile B2B team at Samsung Electronics, said.
+
+In contract, Tachyon has more features and simplicity to it: the company claims its automated process brings the time needed to configure thousands of devices from days and hours to “just minutes.”
+
+“Tachyon takes that even further, allowing automation of any third-party application, regardless of provided APIs,” said Kim. Tachyon also has other features, such as the ability to update and control apps even if a device is offline — not an unusual scenario in highly secure government, financial and healthcare use cases, he added.
+
+There are likely other reasons why Tachyon may have become an interesting acquisition target for Samsung.
+
+Britton said that prior to the deal, Tachyon had been testing its technology with other handset makers. So by buying it, it helps Samsung develop more differentiated and unique offerings and keep Tachyon’s technology out of competitors’ hands.
+
+Offering efficient configuration is also a competitive advantage: Britton said the closest product in the market to what Tachyon has been doing is Apple’sDevice Enrollment Program.
+
+“Samsung saw an opportunity to make this a platform-proprietary capability,” he said. “On Android we’ve managed to stay ahead of the game and there isn’t really something like what we offer that can bring together the degree of automation and security that we can.”
+
+Another reason may be because of the security measures that Tachyon had developed.
+
+Britton noted that the recentMirai DDoS attackthat took down several major web sites was carried out through a botnet, created via code that quietly sat on a wide sweep of compromised IoT devices, including ordinary consumer electronics products like tablets and web cams. Securing against these kinds of loopholes — which can arise in apps, especially when they are updated and otherwise manipulated — is “exactly our sweet spot,” Britton said.
+
+Samsung’s Knox itself has beenpinpointedfor having its own security vulnerabilities, and so it makes sense for the company to ferret out and acquire technology that can counteract that.
+
+Samsung remains the world’s biggest handset maker, but it has seen a lot of pressure on growth as saturation continues to permeate the market, newer competitors move in and it faces some of its own specific problems, such as the impact its brand might face after it had to recall its faulty, overheating Note 7 devices.
+
+Figures published today byCanalysnoted that overall smartphone shipments in the last quarter totaled 355 million devices, with Samsung taking 25 percent of that number, with 76 million devices. However, that’s down from 84 million a year ago.
+
+You can see why Samsung is acquiring a startup to build out its mobile enterprise business to offset some of those declines. Samsung once had very high ambitions for its mobile enterprise, B2B business: in 2014, the companyambitiously projectedthat it would account for one-quarter, or $100 billion, of Samsung Electronics’ revenues by 2020.

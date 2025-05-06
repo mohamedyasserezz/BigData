@@ -1,0 +1,21 @@
+This guy combined an iPhone and an HTC Vive to make a virtual camera (sort of like the ones used for Avatar and Inside Out)
+
+When a movie is more CG than it is real — think movies like Avatar or any of Pixar’s stuff, where all or nearly all of the environment is rendered — a new challenge appears: the camera.
+
+Getting a fake camera (like the one in a rendering program) to move and behave like a real camera (like the one that the camera guy is traditionally holding) can be a pain. Testing a scene from a whole different angle is less “hey, let’s try that again real quick and I’ll shoot it from over there,” and more “hey, let’s tear open keyframes and rework a bunch of carefully set parameters.”
+
+James Cameron and the folks at Pixar have been solving this with “virtual cameras” — physical camera-like devices that let videographers shoot fully virtual scenes much like they would shoot any scene in the real world. They tie a simulated camera to the movements/orientation of a real-world camera proxy, and push everything the simulated camera “sees” back to a display on its real-world counterpart in real time.
+
+As you might expect, these virtual camera rigs are… not cheap.
+
+Kert Gartner, the VFX artist behind the REALLY, REALLYgood mixed-reality trailersfor VR games like Space Pirate Trainer and Fantastic Contraption, has hacked together a solution of his own:
+
+VR in-game Virtual Cinematography just got a whole lot easier!! Check this out#thefuture:Dpic.twitter.com/dJKL6jMRIM
+
+— Kert Gartner (@kertgartner)December 21, 2016
+
+So what are you looking at?
+
+Kert is having Space Pirate Trainer render another view of the game to a second camera, independent of the player’s, in one corner of his screen. He’s using an open source project calledjsmpeg-vncto push what this camera sees to his iPhone in near real time. Meanwhile, he’s using a third HTC Vive controller (beyond the two the player uses for the game) to capture the location and orientation of the rig, and is using that to control the aforementioned in-game camera view. Strap the iPhone and an HTC Vive controller to a handheld stabilizer and bam! — he’s got a virtual camera built out of gear he already had lying around.
+
+It doesn’t look like it doesallthe crazy stuff the Cameron/Pixar rigs do — those can do stuff like tweaking the simulated F-stop and focus (which would have to be accounted for at a software level in every game/environment with a rig like this in mind, which complicates things a good bit). But for a project hacked together out of existing components, this isawesome— and hopefully, just the first step.

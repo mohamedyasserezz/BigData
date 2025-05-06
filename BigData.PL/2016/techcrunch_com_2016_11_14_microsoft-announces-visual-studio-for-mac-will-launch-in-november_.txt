@@ -1,0 +1,13 @@
+Microsoft announces Visual Studio for Mac will launch in November
+
+Fans of cross-platform coding will be happy to know that Visual Studio, “a true mobile-first, cloud-first development tool for .NET and C#,” will arrive for Mac during the Connect() conference in November. The move places Microsoft’s IDE on Macs. The IDE followsVisual Studio Code, Microsoft’s code editor, to OS X.
+
+Why is Microsoft seemingly abandoning the quest for Windows hegemony? The writing is on the wall: cloud computing is the future and tools like AWS and Azure are quickly replacing the local server. Microsoft is losing out to tools like Docker and Heroku on the web and it’s only a matter of time before coders are more comfortable with their MacBooks and VIM than with Windows.
+
+“They make their money off Azure and other services. In other words, they are making their money mainly off of developers now and its in their best interest to get on the good side of devs which is why they suddenly have a vested interest in open sourcing tools and helping Mac/Linux,” wroteHacker News userBoysenberryPi.
+
+The IDE is very similar to the one found on Windows. In fact, that is presumably the point. By making it easy for OS X users to switch back and forth between platforms Microsoft is able ensure coders can quickly become desktop agnostic or, barring that, give Windows a try again. From therelease:
+
+￼At its heart, Visual Studio for Mac is a macOS counterpart of the Windows version of Visual Studio. If you enjoy the Visual Studio development experience, but need or want to use macOS, you should feel right at home. Its UX is inspired by Visual Studio, yet designed to look and feel like a native citizen of macOS. And like Visual Studio for Windows, it’s complemented by Visual Studio Code for times when you don’t need a full IDE, but want a lightweight yet rich standalone source editor.
+
+You can read more about theplatform hereand prepare yourself for a little C# coding withVisual Studio Code.

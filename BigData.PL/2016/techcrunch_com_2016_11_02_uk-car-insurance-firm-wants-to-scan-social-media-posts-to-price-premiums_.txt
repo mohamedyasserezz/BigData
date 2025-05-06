@@ -1,0 +1,87 @@
+Facebook slaps down Admiral’s plan to use social media posts to price car insurance premiums
+
+UK insurance firm Admiral had intended to launch an app this week offering discounted car insurance premiums to first time drivers based on an algorithmic assessment of their Facebook posts.
+
+All drivers would have had to do is sign in with their Facebook login to grant permission to the company to scan their Facebook posts in order to get a potential discount on their car insurance premiums.
+
+However the experiment has fallen foul of Facebook’s platform policy, which puts strict limits on how developers on the platform can use the information users share with them.
+
+Clause 3.15 of the policy also specifically prohibits use of data obtained from Facebook to
+
+…make decisions about eligibility, including whether to approve or reject an application or how much interest to charge on a loan.
+
+In an interview withThe Guardianabout the opt-in firstcarquote app, project lead Dan Mines described it as “a test”, saying: “We are doing our best to build a product that allows young people to identify themselves as safe drivers… This is innovative, it is the first time anyone has done this.”
+
+The algorithms that Admiral had developed for the app apparently aimed to glean personality traits from users’ Facebook posts by analyzing how posts were written — with individuals who scored well for qualities such as conscientiousness and organization more likely to be offered discounts vs those who came across as overconfident/less well organized, as judged by their Facebook postings.
+
+Photos were not intended to be used to assess drivers — the analysis was purely based on text updates to Facebook.
+
+“Our analysis is not based on any one specific model, but rather on thousands of different combinations of likes, words and phrases and is constantly changing with new evidence that we obtain from the data,” Yossi Borenstein, the principal data scientist on the project, told the paper. “As such our calculations reflect how drivers generally behave on social media, and how predictive that is, as opposed to fixed assumptions about what a safe driver may look like.”
+
+Giving a more specific example of how Admiral’s app would be assessing a Facebook user’s attitude behind the wheel, The Guardian suggested overuse of exclamation marks in Facebook posts might count against a first time driver, while posting lists and writing in short, concrete sentences containing specific detail would be seen as a plus.
+
+Admiral said no price rises would be incurred as a result of using the app but discounts of up to £350 were set to be offered — although the company was also not ruling out expanding the project in future to loop in additional social media services and, potentially, to also increase premiums for some drivers.
+
+“The future is unknown,” said Mines. “We don’t know if people are prepared to share their data. If we find people aren’t sharing their data, then we won’t ever get to consider that [expanding firstcarquote].”
+
+As it turns out, the app’s future is unknown as Facebook is not prepared to share user data with Admiral for this eligibility assessment use-case. Which, if the team had read Facebook’s platform policy, should have been immediately clear.
+
+Presumably Admiral has been working on the app for multiple months at the very least. Yet again, any Facebook platform developer should be aware that all apps are subject to final review by the company before they can go live to ensure compliance with its platform policy. Even “test” apps.
+
+Admiral now says the firstcarquote launch has been delayed — noting on thewebsitethat: “We were really hoping to have our sparkling new product ready for you, but there’s a hitch: we still have to sort a few final details.”
+
+It also touts other use cases for the app — such as being able to see what some other new drivers have paid for car insurance and some details of the cars they drive. Although that’s a far cry from offering first time drivers discounts based on how many exclamations marks they typically deploy in their Facebook posts.
+
+We tried to contact the company with questions but at the time of writing Admiral had not responded, and its press office had professed itself too busy to speak — with an outside PR firm being engaged to fence queries. We’ll update this story with any response.
+
+In a statement provided to TechCrunch a Facebook spokesperson confirmed Admiral will only be able to use Facebook accounts for login and identity verification — so not for scanning post data. The company further suggests the insurer intends to rework the app to create an alternative data source to assess drivers’ eligibility.
+
+The Facebook spokesperson said:
+
+We have clear guidelines that prevent information being obtained from Facebook from being used to make decisions about eligibility.
+
+We have made sure anyone using this app is protected by our guidelines and that no Facebook user data is used to assess their eligibility. Facebook accounts will only be used for login and verification purposes.
+
+Our understanding is that Admiral will then ask users who sign up to answer questions which will be used to assess their eligibility.
+
+It’s worth noting that Facebook has itself patented using social graph for assessing eligibility of creditworthiness, as theAtlanticreported last year.
+
+US patent 9,100,400, granted to Facebook in August 2015, includes a specific method for authenticating an individual for access to information or service “based on that individual’s social network” — with one of the examples given using the scenario of a service provider being a lender who assesses an individual’s creditworthiness based on the average credit rating of the people the individual is connected to on their social network…
+
+In a fourth embodiment of the invention, the service provider is a lender. When an individual applies for a loan, the lender examines the credit ratings of members of the individual’s social network who are connected to the individual through authorized nodes. If the average credit rating of these members is at least a minimum credit score, the lender continues to process the loan application. Otherwise, the loan application is rejected.
+
+It’s unclear whether Facebook intends or intended to launch any such creditworthiness assessment service itself — we asked and it did not respond. But many patents are filed defensively and/or speculatively. And, as the Atlantic notes, using a person’s social graph to assess creditworthiness would run huge risks of attracting discrimination lawsuits. So the patent does not really read like a serious product proposal on Facebook’s part.
+
+Beyond that, if Facebook’s platform were to become implicated in weighty external assessments of individuals, with the potential to have seriously negative impacts on their lives, the company would risk discouraging users from sharing the sort of personal data its ad-targeting business model relies on. Which is surely part of the reason it’s denying Admiral the ability to scan Facebook posts to assess driving proficiency.
+
+Facebook is already negatively implicated in state surveillance activity as a honeypot of data utilized by intelligence and law enforcement agencies. And on privacy grounds, given its own business model relies on profiling users for ad targeting. But stepping into offering formal assessments of individuals’ creditworthiness, for example, would feel like a massive pivot for the social media giant — although the temptation for it to try to unlock more ‘worth’ from the mountain of data it sits on is only set to grow, given AI’s rising star and growing appetite for data.
+
+In a blog post welcoming Facebook blocking Admiral from scanning users’ posts, digital rights organization theOpen Rights Grouppoints out the underlying biases that can make any such algorithmic assessments problematic.
+
+“There are significant risks in allowing the financial or insurance industry to base assessments on our social media activity,” writes Jim Killock. “We might be penalised for our posts or denied benefits and discounts because we don’t share enough or have interests that mark us out as different and somehow unreliable.  Whether intentional or not, algorithms could perpetuate social biases that are based on race, gender, religion or sexuality. Without knowing the criteria for such decisions, how can we appeal against them?”
+
+“Insurers and financial companies who are beginning to use social media data need engage in a public discussion about the ethics of these practices, which allow a very intense examination of factors that are entirely non-financial,” he adds.
+
+Facebook’s data is rich, but often ambiguous, may lack context and presents many risks. It is not clear to us that social media information is an appropriate tool for financial decision making.
+
+Asked for his view on the risks of Facebook itself using its platform to sell assessments on the fitness of its users for accessing other products/services, such as financial products, Killock also told TechCrunch: “Rules on profiling and use of data have to ensure that people are not disadvantaged, unfairly judged, or discriminated against. Facebook’s data is rich, but often ambiguous, may lack context and presents many risks. It is not clear to us that social media information is an appropriate tool for financial decision making.”
+
+Alsobloggingabout Admiral’s attempt to turn Facebook data into premium-affecting personality assessments, law professor Paul Bernal voices similar concerns about what he dubs the “very significant” risks of such a system being discriminatory.
+
+“Algorithmic analysis, despite the best intentions of those creating the algorithms, are not neutral, but embed the biases and prejudices of those creating and using them,” he writes. “A very graphic example of this was unearthed recently, when the first international beauty contest judged by algorithmsmanaged to produce remarkably prejudiced results– almost all of the winners were white, despite there being no conscious mention of skin colour in the algorithms.”
+
+Bernal also argues that the sort of linguistic analysis Admiral’s app was apparently intending would have “very likely”  favored Facebook users in command of “what might be seen as ‘educated’ language – and make any kind of regional, ethnic or otherwise ‘non-standard’ use of language put its user at a disadvantage”.
+
+“The biases concerned could be racial, ethnic, cultural, regional, sexual, sexual-orientation, class-based – but they will be present, and they will almost certainly be unfair,” he adds.
+
+Bernal goes on to suggest that Facebook users develop “survival tactics” as a short term fix for defeating any assessments being made of them based on their social graphs and footprints — urging especially young people (who are perhaps currently most at risk of being harmfully judged by their social media activity) to “keep the more creative sides of your social life off Facebook”.
+
+He also calls for a push by regulators towards developing a framework for algorithmic accountability to control the autonomous technologies being increasingly deployed to control us.
+
+“Algorithms need to be monitored and tested, their impact assessed, and those who create and use them to be held accountable for that impact,” he adds. “Insurance is just one example – but it is a pertinent one, where the impact is obvious. We need to be very careful here, and not walk blindly into something that has distinct problems.”
+
+Algorithmic accountability was also flagged as a concern by a UK science and technology parliamentary committeelast month, in a report considering the “host of social, ethical and legal questions” that arise from growing use of autonomous technologies, and given how quickly machine learning algorithms are being deployed to wrangle insights from data-sets.
+
+The committee recommended the government establishes a standing Commission on Artificial Intelligence aimed at “identifying principles to govern the development and application of AI”, and to provide advice and encourage public dialogue about automation technologies.
+
+While, in the US,a recent White House reportalso considered the risk of biases embedded in AI.

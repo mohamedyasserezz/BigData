@@ -1,0 +1,19 @@
+Skype begins testing an all-in-one app on Android offering native phone calls, SMS support & more
+
+A new Skype application dubbed “Skype Mingo” has been spotted in the wild, offering Android users the ability to use Skype as the native calling app and contacts manager for their smartphone, while still being able to take advantage of Skype features like chat, file and photo sharing, video calls, and its new bots.
+
+The app, still in alpha testing according to Google Play, was first spotted by the blog,MSPoweruser, which also noted that Skype has been planning to bring SMS relay to Android users. That could indicate that Skype Mingo is meant to serve as the testing grounds for that feature set, before it rolls out to all of Skype’s Android user base.
+
+But SMS relay isn’t yet available in the Mingo app. Instead, what makes Mingo different from the main Skype application is that it serves as your default communications app on your phone. Here, you’re able to make and receive phone calls, manage your phone contacts, and send and receive SMS messages, as the app’s description indicates.
+
+This all takes place within an application that looks just like the usual Skype app, right down to its blue-and-white color scheme. In addition to working as your Android dialer, Skype Mingo is also a full Skype client, with all the features you’d expect.
+
+That means you can use Skype’s now numerous bots in Skype Mingo. These automated virtual assistants can help witha variety of tasks, like finding flights (Skyscanner, Hipmunk), tickets (Stubhub), nearby businesses (Foursquare), searching the web (Bing News, Bing Images), tracking packages (UPS), playing games, and more.
+
+The new app has also been built to appeal to those who want a fast but still small and powerful application for calls and texts, it seems. Microsoft touts that Skype Mingo is “small and fast” while offering data-saving features like “Economical Calling” and “On-Demand Sync.” Users are also able to view their usage statistics in the Skype Mingo app, to stay informed. That could indicate, too, that Skype Mingo is aimed at emerging markets, where high-speed data connections are not as prevalent.
+
+As an unreleased, alpha build, Skype Mingo is not ready for widespread use. It will likely still be unstable and have a number of bugs and glitches.
+
+Microsoft declined to comment on its plans for Skype Mingo, but a spokesperson offered the following statement:
+
+“As part of the ongoing improvements to deliver the best Skype experience possible, we are always innovating and occasionally test out new features and functionality. We have nothing more to share at this time.”

@@ -1,0 +1,59 @@
+Did Russian government hackers leak the DNC emails?
+
+By now, it’s pretty clear that Russian hackers are responsible for breaches of the Democratic National Committee networks that occurred last summer and in April of this year — several forensic security firms have found evidence that traces the breach back to Russia. Now that DNC emails harvested during the breaches are starting to appear on Wikileaks, pundits are speculating that Russia leaked the emails in a bid to land Donald Trump in the Oval Office. But is the email leak also attributable to hackers on Russia’s government payroll?
+
+A new analysis released by security consulting firmThreatConnecthasmarshaled more evidenceto prove thathackers linked to the Russian governmentcommunicated with journalists about the leaked documents.
+
+A hacker set up a website and Twitter account to take credit for the DNC breach soon after it was initially reported, calling himself Guccifer 2.0 (a moniker modeled after aRomanian hackerwho is recently pleaded guilty to hacking American political operatives). That claim shed doubt oninitial reportsfromThe Washington Postand others that laid the responsibility for the breach squarely at the feet of organizations with ties to the Russian government and its president, Vladimir Putin. But ThreatConnect’s research suggests that Guccifer 2.0 is simply an invention of the Russian government to deflect attention from its involvement in the breach.
+
+The idea that a non-governmental actor pursuing a personal political agenda could hack the DNC and potentially sway an election is bad enough, anact of cyberwarfare by a foreign stateis arguably much worse.
+
+“Guccifer 2.0 has been part of a Russian denial and deception program,” said Toni Gidwani, director of research operations at ThreatConnect on a conference call today. Gidwani believes that the Russian hack may have initially been intended for low-level intel that could be used to support Russian narratives about the U.S., but morphed into an attempt to influence the U.S. presidential election.
+
+At the outset, the Guccifer 2.0 releases were following that pattern. Gidwani characterized the information leaked had very little impact on the U.S. news cycle, but became great agit-prop tools in Russia, whose state-affiliated news agencies picked up on each morsel as yet another example of the cornucopia of electoral corruption in the decadent West.
+
+It’s not just the technical nature of the leaks themselves that have some outlets saying Russia’s fingerprints were all over this hack.
+
+Aninvestigative report from Yahooreleased yesterday indicates that one of the hack’s earliest targets was DNC consultantAlexandra Chalupa, who was conducting opposition research on Donald Trump’s campaign adviser Paul Manafort, who allegedly made millions working as a campaign adviser for the now-ousted former Ukrainian president (and ostrich lover),Viktor Yanukovych.
+
+Quoting  an email Chalupa sent to the DNC — released as part of theWikileaks data dump— Yahoo reports that Chalupa began receiving security notices informing her that her email account was being targeted by state actors:
+
+“Since I started digging into Manafort, these messages have been a daily oc­­­­currence on my Yahoo account despite changing my p­­a­ssword often,” [Chalupa] wrote in a May 3email to Luis Miranda, the DNC’s communications director, which included an attached screengrab of the image of the Yahoo security warning.
+
+Why is Russia so involved? The theory amongsome Democratsandleft-leaningnews outletsis that Russian President Vladimir Putin would (unsurprisingly) prefer to deal with an isolationist-minded President Trump than a more hawkish (and much less friendly) President Clinton and is using cybercrime as a way to influence the U.S. election.The New York Timesalso raised the specter of Russian involvement.
+
+“What happened over the weekend started to move us toward this middle course of action. … This game-changer scenario of Russia trying to influence the results of a U.S. election,” said Gidwani of the Wikileaks release, the resulting resignation of DNC chairwoman Debbie Wasserman Schultz, and theattendant chaosthat resulted over the weekend and on adivisive first night of the Democratic National Conventionin Philadelphia.
+
+But other security experts say that a sloppy email leak, filled with evidence of Russian involvement, would be uncharacteristic for the country’s sophisticated spy agencies.
+
+“There’s the breach and then there’s someone leaking emails to Wikileaks. Those two things don’t necessarily have anything to do with each other,” said Oren Falkowitz, CEO of the security firm Area 1 and a former NSA analyst. “The most salacious emails go back to a different time in the campaign. To release them at the beginning of the [general election] campaign isn’t consistent with a nation state’s objective to change the outcome.”
+
+The most contentious DNC emails released so fartrashed Bernie Sanders’ campaignas “a mess,” and Falkowitz points out these messages could have had a stronger impact if released during the primary race.
+
+“They probably would have released it when it was really tight between Hillary and Bernie,” he said, adding, “To think the [Russian security service] FSB would not recognize the difference in impact of timing there is ridiculous. It’s spurious to say they’re trying to influence the election, and if they are, they are doing a really shitty job. You’re talking about one of the premier intelligence organizations in the world.”
+
+However, if Russia is behind the email leak, this wouldn’t be the first time the country has used hacking in an attempt to disrupt another nation’s election. During the Ukrainian elections in 2015, an organization called CyberBerkutwreaked havocon the election. AWall Street Journalpiece published in the aftermath called the country “Cyberwar’s Hottest Front“.
+
+In aridiculously goodtick-tock account of the DNC hack and its aftermath,Motherboardreporter Thomas Rid lays out the case for Russia’s involvement in no uncertain terms.
+
+Rid writes:
+
+The forensic evidence linking the DNC breach to known Russian operations is very strong. On June 20, two competing cybersecurity companies, Mandiant (part of FireEye) and Fidelis,confirmedCrowdStrike’s initial findings that Russian intelligence indeed hacked the DNC. The forensic evidence that links network breaches to known groups is solid: used and reused tools, methods, infrastructure, even unique encryption keys. For example: in late March the attackers registered a domain with a typo—misdepatrment[.]com—to look suspiciously like the company hired by the DNC to manage its network, MIS Department. They thenlinkedthis deceptive domain to a long-known APT 28 so-called X-Tunnel command-and-control IP address, 45.32.129[.]185.
+
+One of the strongest pieces of evidence linking GRU to the DNC hack is the equivalent of identical fingerprints found in two burglarized buildings: a reused command-and-control address—176.31.112[.]10—that washard codedin a piece of malware found both in the German parliament as well as on the DNC’s servers. Russian military intelligence wasidentifiedby the German domestic security agency BfV as the actorresponsiblefor the Bundestag breach. The infrastructure behind the fake MIS Department domain was also linked to the Berlin intrusion through at least one other element, asharedSSL certificate.
+
+If the allegations are true (and the evidence amassed is somewhat persuasive), then the ramifications of the hack and their subsequent release are enormous.
+
+Dr. Anup Ghosh, CEO of the security company Invincea and a former DARPA scientist, noted that the leaked emails may not have originated from the hack of the DNC itself, since the DNC used a third party email service.
+
+“We know that the DNC used an outside service for email. What isn’t clear is if the emails compromised from a user’s account to this cloud-based service, versus was the email compromised from the compromise on the enterprise network?” Ghosh explained.
+
+He also questioned the motives that would drive the Russian government to dump DNC emails on Wikileaks. “From a Russian intelligence point of view, it seems sloppy; it seems traceable.Iget that people think the Russians want Donald Trump to be president, but there’s a lot of history between the Clintons and the Russians, and most of the time, countries work with whatever administration is in place. Trump doesn’t strike me as a predictable guy. I don’t think the Russians would want Trump as much as they would want to know what Clinton is thinking,” Ghosh said. In other words, why leak emails when you can quietly snoop on high-profile politicians instead?
+
+While snatching politically sensitive documents as part of an espionage plot might be part of statecraft and intelligence efforts (rightly or wrongly), Motherboard’s Rid points out that leaking those documents (and potentially manipulated ones) to a global audience represents an unprecedented and dangerous attempt by a foreign government that is openly hostile to U.S. policies andinterests.
+
+Still, not everyone is convinced that Russia is indeed behind the hack. But one group might know for sure — Edward Snowden took to Twitter with claims that the NSA could clear up any confusion around who was behind the DNC security breaches.
+
+If Russia hacked the#DNC, they should be condemned for it. But during the#Sonyhack, the FBI presented evidence.https://t.co/SG7er8VDRD
+
+— Edward Snowden (@Snowden)July 25, 2016

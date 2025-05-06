@@ -1,0 +1,11 @@
+Microsoft’s plan to use machine learning to improve eyecare in India
+
+Competition that results in better care for people suffering from visual impairments is the right kind of competition. Followinga path similar to that of Google’s DeepMind, Microsoft India announced this morning thatit’s launching a new research group, the Microsoft Intelligent Network for Eyecare, to bring data-driven eyecare services to India.
+
+Whereas DeepMind’s swing at ophthalmology targeted the UK, Microsoft’s ambitions are a considerably more global. The tech company is working alongside researchers from the United States, Brazil, Australia and, of course, India to train machine learning models that can identify conditions that can lead to blindness.
+
+Microsoft’s key strategic partnership is with the L V Prasad Eye Institute in Hyderabad, India, one of the most prestigious hospitals in the country. The company is focusing heavily on children, with ambitions to predict outcomes for refractive surgery and the rate of change of myopia in children.
+
+Google’s DeepMind opted instead to partner with the UK’s National Health Service to analyze eye scans to spot wet age-related macular degeneration and diabetic retinopathy — two conditions that can lead to blindness. Its idea being that early discovery can lead to early intervention and the prevention of serious optical damage.
+
+Eyecare is turning out to be a popular strategy for non-traditional companies to test the potential of machine learning in the world of healthcare. Eye conditions lend themselves well to image analysis, a space that’s having quite a moment.Computer-aided diagnosisisn’t new, it’s been used to analyze radiological imagery for years, but tech companies are ever warming to the idea of doing their own research in the space.

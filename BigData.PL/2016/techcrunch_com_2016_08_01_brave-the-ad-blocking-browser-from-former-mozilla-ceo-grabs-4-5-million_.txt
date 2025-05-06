@@ -1,0 +1,27 @@
+Brave, the ad-blocking browser from former Mozilla CEO, grabs $4.5 million
+
+Brave Software, thenew web browser companyco-founded by former Mozilla CEO Brendan Eich, has raised $4.5 million in seed funding for the continued development of its open source browser that blocks online ads and other trackers. Unlike traditional web browsers where ad-blocking takes place via a third-party add-on or extension, Brave’s browser has this technology built in, claiming not only to offer users more privacy, but also increased speed and performance – especially when surfing the mobile web.
+
+Investors in the round include Founders Fund’s FF Angel, Propel Venture Partners, Pantera Capital, Foundation Capital, and Digital Currency Group. Along with prior funding, the startup has raised $7 million to date.
+
+According to metrics shared by Brave, the desktop version of the browser offers a 40 to 60 percent speed increase, and a 2x to 4x speed increase on mobile devices. Because of its ad-blocking and script-blocking features, mobile users will also see less battery consumption and data usage.
+
+The browser offers a variety of security and safety features, as well, including support for encrypted data traffic via HTTPS Everywhere, fingerprinting shields, phishing protection, malware filtering and the above-mentioned script blocking.
+
+Also of note, Brave is building support for bitcoin micropayments right in the browser. The company says it has partnered with BitGo and Coinbase to provide wallets and other purchasing tools for its payment system dubbed “Brave Ledger.” The idea with this feature is to allow users to anonymously donate small amounts to their favorite websites.
+
+“We’re really only using bitcoin under the hood. We’re trying not to make users care about it or learn about it if they don’t want to,” says Brendan Eich, Brave Software’s CEO. “The main idea with Brave is that you don’t have to think about Bitcoin, you just have this frictionless payment system.”
+
+When announced earlier this year, Eich had explained Brave’s business model would include plans to insert its own ads, but in a way that wouldn’t affect performance. The company said it would insert ads only “in a few standard-sized spaces” it discovers via a cloud robot, and will target ads without a “highly re-identifiable cookie,” in respect for user privacy. (In other words, anonymous targeting.) This targeting will be based on keyword matching derived from data, but the processing will all be done on the device.
+
+The plan is to then split the ad revenue with publishers, starting at 55 percent or more for publishers and then scale up to a 70/30 split as the browser’s user base grows. The longer-term goal is to also share some of this revenue with consumers, which in turn could be used to help fund their favorite sites.
+
+It’s unclear how many people will adopt micropayments, of course, but it seems the company is willing to experiment.
+
+Brave’s ad plan, meanwhile, has been controversial.In April,over a dozen major U.S. news organizations sent a letter to the startup, claiming what it was doing was “blatantly illegal.” This group included the Gannett Co., the New York Times and Dow Jones, which owns The Wall Street Journal. Since then, Eich claims Brave has been in discussions with top New York publishers about the program, and hopes to launch a trail of Brave ads later this year to prove its concept.
+
+“If there is a role for ads, they have to be fewer and more effective,” says Eich, of Brave’s forthcoming ads program.
+
+The Brave browser is planning its 1.0 release for September. In the meantime, a developer version is being offered for iOS, Android, Mac, Windows (32-bit and 64-bit) and Linux (Debian, Ubuntu, Fedora and OpenSUSE).
+
+Brave, which is co-founded byBrian Bondy, previously of Khan Academy and Mozilla, plans to use the new funds for further platform development and growth, it says. The company is a team of 14 based in San Francisco and is using the funds to hire.

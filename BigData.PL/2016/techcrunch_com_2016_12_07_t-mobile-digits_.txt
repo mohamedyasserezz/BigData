@@ -1,0 +1,19 @@
+T-Mobile’s Digits calling service is designed to make phone numbers device agnostic
+
+T-Mobile’s pitch is simple, “We’re dragging the phone number into the internet age.” The actual functionality is a bit trickier, which is why the carrier looked to do a little bit of analyst handholding and a consumer Twitter Q&A (at 10:30AM PT today) ahead of launch.
+
+The underlying idea is to tie user identity to a single phone number, available across devices, in much the same way that email (or, for that matter, Google Voice and to a lesser extent Apple’s Messages) works. So, you can place calls and send texts through the same number on multiple smartphones, PCs, cellular connected smartwatches and even feature phones – and, lord help you, all of them will ring at the same time when a message comes through.
+
+With Digits, users can also tie multiple phone number/accounts to a single device, so users can, say, have a personal and work number on a single device. The feature, which arrives today in a limited customer beta, will work natively on select Samsung devices. For other devices, it can either be accessed via browser (Chrome and Firefox) or through an Android or iOS app (in the beta at least, you’re going to want to shut off Messages on Apple devices).
+
+The fact that this is a T-Mobile designed solution means that it’s primarily focused on voice, so calls get bumped up over other functionality. “Digits prioritizes calls from your phone over other data so calls are more reliable with crystal clear HD voice quality and full mobility,” according to T-Mobile. “That’s because Digits is your real wireless number with real wireless calling – not a best-efforts data connection like you get with over-the-top (OTT) Internet calling services.”
+
+Your numbers, one phone – say hello to#Digits.
+
+Join us for the#DigitsTwitter Q&A starting at 10:30am PT.pic.twitter.com/JMOzhS6Amq
+
+— T-Mobile (@TMobile)December 7, 2016
+
+That “carrier-grade quality” bit is the primary way the service is looking to set itself apart from Google Voice and various VoIP-style options. Perhaps most interesting here is the fact that the service will usable on handsets tied to different networks. So Digits customers will be able to access the service Verizon, AT&T and Sprint phones.
+
+The app launches today in beta. There’s still a lot of info yet to be announced including pricing, though the company says that it will be “attainable,” which likely means, at the very least, that it’ll cost less than your standard data plan. And for T-Mobile signing up means, among other things, that you’ve got your foot in the door with the Uncarrier.

@@ -1,0 +1,45 @@
+Can chatbots help build your next website?
+
+Small businesses have their pick of affordable DIY website-building platforms:Squarespace,Wix,WeeblyandStrikingly, to name a few. But these “no coding skills required” platforms struggle to acquire and retain customers. While the UI of these platforms is often beautifully designed, it’s still too much work — and for business owners, who has the time?
+
+A fresh crop of website-builder startups noticed that the “build a website from your browser” pitch is not enough to attract non-technical business owners who have no interest in becoming their own web designers. These startups are leading a “death of DIY” movement that is putting the power of design and development back into the hands of experts. The bet is that the full-service, i.e. “do it for you,” model is a better approach than asking small-business owners to do all the hard work themselves.
+
+In addition to providing human expertise, these startups are employing new AI and chatbot technologies to optimize the website-building process. The goal is to provide enough time savings and professional design support to lift the burden off the small business owner, making them more satisfied and more likely to stick with the service.
+
+I’ve used some of these AI/chatbot platforms in beta and have found the chatbot experience to be convenient and fast. Admittedly, it’s fun to chat via a messaging interface about changes to my website. And the chatbot excels at simple tasks like responding to basic questions, such as how many visitors my site had today.
+
+But, so far, I’m not convinced chatbots and AI solve a real problem for small-business owners. As with all aspects of service, quality and personal attention through human conversations are more important than the convenience of quick answers to simple questions.
+
+During the website setup experience, responding to a chatbot’s questions is not that much different than filling out a form about your project. For example, what is the name of your site? What color do you want? What is some text you’d like on the home page? Answering these questions in chat format instead of via a web form did not necessarily save me any time or effort — it’s just a slightly different interface.
+
+And it’s not clear how to edit the decisions that the chatbot makes on my behalf. While it’s appealing to give the chatbot a command like “edit text” and write new text, it’s not clear to which line of text I’m referring.
+
+For initial setup of a website, the chatbot does a good job of simulating the experience of talking to a professional web designer about the goals of my business website. But getting to a generic first template and adding my title and text are not the hard part of the process. The hard part is customizing, polishing and fine tuning, which could be a stretch with a chatbot.
+
+Additionally, once the initial template is set up, a chatbot cannot compete with an intuitive WYSIWYG for editing existing content. The point-and-click experience is very intuitive and hard to beat. An ideal solution will most likely combine chatbot support for some uses cases, and a point-and-click editor for other use cases.
+
+But let’s be honest, many small-business owners have no interest in logging into their website and making changes themselves — they’d rather tell someone the changes they want. In that regard, the chatbot provides a hand-holding experience that is more approachable than the website editor interface. For those who have no interest in touching their own website, a chatbot has the potential to take your commands. Whether those commands are properly interpreted and executed remains to be seen. Perhaps those more difficult requests are escalated to a human support person who can better interpret and execute them.
+
+Here are a few new startups pioneering the chatbot-driven “death of DIY” movement:
+
+Opla
+
+Opla uses Facebook Messenger to chat with you about your website project. Opla is “your friendly website ninja. Opla your virtual assistant handles your website using natural conversation with you.” Opla is in private beta.
+
+Webware.io
+
+Webware uses an AI bot named “Harley” to chat with you over email about your website project. “Harley is your AI-powered personal assistant to help you build your website and grow sales. Chat with Harley over email to complete the initial setup of your website. Once your website is up and running, she will continue to be your point of contact as you manage and grow your website. No logging in. No useless dashboard. Just Harley.” Harley is currently available for paying customers.
+
+B12
+
+B12 is a freshly funded startup. “Machine intelligence and automation enable design teams to work faster, smarter, and better. Cost and time savings are passed to our customers.”
+
+While a few post-DIY startups likePageCloud,The GridandMoprohave in the past few years teased AI as the future of website building, it’s too early to tell if automated design approaches are proving effective for real customers. Many of these startups have not yet launched (The Grid); others are still in the experimental phase.
+
+While automated support via a chatbot may have obvious benefits, many traditional website building platforms are rejecting the notion of chatbots altogether. The secret sauce to relationship and technical support may be human touch, not impersonal AI support.Weebly, for example, promises that their support channels will always be manned by a real person. When I asked them about their chatbot strategy, they responded: “We do not utilize chatbots for support. You always receive a real live person. It has always been this way and always will be.”
+
+Indeed, chatbots could have the opposite effect of their intended benefits. Support from a robot may be as unappealing as talking to an automated phone support from an IVR (Interactive Voice Response) system. In many ways, my brief experience with chatbot support was reminiscent of talking to the cable company’s IVR system — it failed to understand the context of my question, and couldn’t do anything other than basic tasks.
+
+As with any new consumer-facing computer systemlike Amazon Alexa, there is a learning curve as the operator learns how to make the system do what they want it to do. Learning to interact with a chatbot instead of a DIY website editor interface could turn out to be more work in the long run — just another interface to learn.
+
+If chatbots are the future of telling your “web guy” what you want from your business website, we may all be typing “REPRESENTATIVE” at our chatbots just like we yell it at IVR support systems that are equally as difficult to use.

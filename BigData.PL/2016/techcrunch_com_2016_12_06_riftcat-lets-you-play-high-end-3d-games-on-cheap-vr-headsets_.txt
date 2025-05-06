@@ -1,0 +1,9 @@
+RiftCat lets you play high-end 3D games on cheap VR headsets
+
+VR systems like the HTC Vive and the Oculus Rift arereally cool but also really expensive. That’s why RiftCat created a new app,VRidge, that lets you play rich PC-based VR content on small devices like Google Cardboard and Gear VR, giving you the opportunity to try VR games without spending a few hundred dollars.
+
+The app basically mirrors your VR screens on the mobile device and, more important, can tell your head position using the phone’s on-board positioning systems. Adding hand paddles or body sensing is a bit harder but VRidge’srobust developer communityis working hard to add motion sensing to their product and many have tried to use PS Move or Leap Motion and multiple cameras to create whole-room sensing systems.
+
+The software is $15 and available now. You can try it out for free but games are limited to 10 minutes in the trial version.
+
+It’s a clever workaround to a tricky problem: how do you get people to try VR gaming when the entire rig is too expensive for entry-level players? By giving you the opportunity to play these games on commodity hardware, even if you just use the mouse and keyboard for interaction, players can learn to love VR gaming and, perhaps, one day drop a few thousand on a real rig.

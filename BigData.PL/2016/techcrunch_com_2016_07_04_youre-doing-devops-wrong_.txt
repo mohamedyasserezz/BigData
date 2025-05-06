@@ -1,0 +1,29 @@
+You’re doing DevOps wrong
+
+Gone are the days of the quarterly product release cycle. To meet the evolving expectations of today’s end user, software must continuously adapt. As a result, hyper-automation of the software development process has become the thing on which companies, regardless of industry, compete. From fledgling startups to enterprise heavyweights, business leaders are realizing that they need to figure out how to embrace ideas likeDevOpsto keep up.
+
+As an engineer and investor in the infrastructure space, I see where the breakdown happens withDevOpsin theory and in practice. Progressive companies get the value of agile development, but the approach is often misguided, primarily because of the fact thatDevOpscomes into play too late in the game: Too often, startups only go back to layer in automation and test scripts once they’ve run into problems scaling. Enterprise giants face a similar challenge as they grapple with weavingDevOpsinto legacy infrastructure and processes.
+
+It doesn’t have to be like this. There’s an old saying that an ounce of prevention is worth a gallon of cure.
+
+Baking inDevOpsfrom the start is the key to running a lean and agile team that can scale quickly and adapt easily. Whetheryou’rejust starting out oryou’repart of an established organization that wants to make the shift, here are three guiding principles fordoingDevOpsright.
+
+Building in automation and testing from the beginning is your linchpin for success. Here’s why. Taking the idea of the minimum viable product to an almost stupid degree, companies of all sizes are getting crushed by mountains of technical debt. It’s common to see companies write code for a product or service and find themselves trapped a couple of years later because they didn’t think about what would happen at scale. So they frantically hire engineers whose sole purpose is to fix what’s broken and rewrite the code base to build in automation, instead of focusing on creating new product features. Meanwhile, customers wonder why they aren’t seeing new features, and often move on to more innovative competitors.
+
+Similarly, test-driven development is a concept that’s touted as best practice, but, in reality, very few companies actually follow this practice. People don’t test from the start for the same reason they don’t floss their teeth: It’s unpleasant. But then one dayyoufind yourself getting a root canal. There is a common perception that building testing into the development process slows things down, because the amount of code for testing can sometimes be two or three times what is needed to build a product. I find this thinking nearsighted.
+
+There’s an easy way to avoid this issue — build in automation and test-driven development from the very earliest phase of a company (or product). Spending the extra time up front, rather than waiting for things to break, will saveyoutime (and a huge headache) down the line.
+
+The entire software development and operations process used to be (and for many companies still is) manual. Thanks to a newly definedDevOpsstack, comprised of tools purpose-built to simplify and automate each step of the development and operations process, taking advantage ofDevOpscan actually be quite simple.
+
+Companies likeGitHubprovide a repository for writing and controlling the initial source code.CircleCIandTravis CImake continuous integration easy by automating testing. Companies likeJFrogprovide an end-to-end solution for storing and managing binary code, allowing developers to have full control over the software release flow — from development to distribution. And then there are companies likeChefthat automate the next phase of taking that data into production. Sitting above all of this are containers likeDockerandKubernetes, which accelerate delivery and enable continuous deployment.
+
+Companies that take advantage of these tools find themselves able to make changes to software as quickly as developers can write the code, without any down time.
+
+In addition to the tools and moving to a mentality of building for scale,youneed a leader with a strong vision and commitment to making the organizational changes required. Nike, Facebook and Netflix are great examples ofDevOpssuccess stories — largely credited to their leadership. Having an executive-level advocate — likely a CIO or VP of Engineering — who believes in a meritocracy across development, operations and testing and prioritizing agile development processes, is a key factor for success.
+
+The CIO must be willing to challenge the status quo and change the mindset of how developers and operations teams work together. While enterprises have traditionally relied on a massive, hierarchical IT organization to oversee operations and testing,DevOpsrequires decentralizing IT and empowering developers to create agile, scalable and innovative teams.
+
+Startups have an opportunity to adopt this approach from inception, but for legacy companies, theDevOpsshift is happening more organically — one project or application at a time, rather than across an entire organization at once.
+
+EmbracingDevOpsis essential for companies to stay nimble and competitive. But the fact of the matter is that failing to have the discipline to do it the right way is holding them back. Taking the time up-front to bake in best practices, leveraging the latest tools for innovation and a willingness to dive in and reorganize your IT organization withDevOpsin mind are the keys to deriving the most value from agile development.

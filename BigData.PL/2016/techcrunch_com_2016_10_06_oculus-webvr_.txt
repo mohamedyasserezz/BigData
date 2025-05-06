@@ -1,0 +1,15 @@
+Oculus will bring VR to the web with React VR and Carmel VR browser
+
+VR won’t be confined to apps. Oculus just announced the ReactVR javascript framework for building WebVR experiences that can run on the forthcoming Oculus VR web browser codenamed “Carmel”.
+
+The Carmel developer preview will become available soon, and will run on any Oculus device. It allows users to browse the web inside their VR headset, and instantly play WebVR experiences.Carmeland ReactVR will let developers easily build these experiences that don’t require a traditional download.
+
+This could make it much easier for people to sample new VR apps without a big time commitment. For example, Oculus co-founder Nate Mitchelldemoed a Renault car company configuratorexperience that lets you sit in the driver seat and try different car customization options. Mitchell believes every company will eventually have a WebVR destination the same way they have websites and mobile apps.
+
+TechCrunch scooped the announcement an hour ago thanks to a tip from a source familiar with the day’s program. The tip from TechCrunch’s source was supported by the inclusion of a WebVR breakout session later in today’s schedule. Facebook originally developedReactin 2013 and open sourced it.
+
+In 2013, Facebookcreated and open-sourced the React javascript framework, which makes it easy to port code between platforms like iOS, Android, and the web to create frontend user interfaces.WebVRis a nacent javascript API that once adopted by browsers could allow VR experiences to load directly from the web without the need for an app download.
+
+Chrome is supposed to add WebVR support this fall, andChrome on mobilealready supports some WebGL VR experiences. With both Google and Oculus push VR on the web, it’s likely to become a popular format.
+
+If Oculus can allow titles built for its headsets to also play on the web thanks to ReactVR and Carmel, it could expand the audience its developers can reach, which will attract more of them to its platform. That’s critical as the big VR platforms like Oculus, HTC Vive, and Playstation VR are all competing for developers to fill their headsets with the best games and apps.

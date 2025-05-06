@@ -1,0 +1,25 @@
+Sweden’s Greta wants to disrupt the multi-billion dollar CDN market
+
+Swedish startupGretais on a somewhat quiet mission to disrupt the multi-billion dollar Content Delivery Network (CDN) market. The young company already boasts an impressive list of angel investors — including Jan Erik Solem (founder Polar Rose and Mapillary), Hampus Jakobsson (founder TAT and Brisk), and Jeremy Yap (recently awardedbest angel investorat The Europas) — and now new VCBlueYard Capitalhas also become a backer.
+
+The Berlin-based VC has led a $1.1 million seed round in Greta, while Sophia Bendz, previously Global Director of Marketing at Spotify and now Executive in Residence at VC Atomico, also joins the lists of investors. I also understand that it was BlueYard’s investmentthesis, which talks about the “decentralisation of markets” and “democratisation of capabilities”, that first brought the VC to Greta’s attention.
+
+“We had other VCs who wanted to get in on the round but we decided to go with BlueYard as the only institutional investor at this stage as our primary aim wasn’t to secure funding but rather to get access to BlueYards’ knowledge and global network,” Anna Ottosson, CEO and co-founder of Greta, tells me.
+
+“We were really determined on not raising our seed round until end of this year, but when we met with Jason Whitmire, partner at BlueYard for the first time we got extremely intrigued by their thesis and how they looked at the world. They have already proven that they’re willing to take bold bets on technology startups and that they’re serious about their mission to upgrade the internet, which is very much in line with our vision for Greta”.
+
+Launched late last year, Greta has developed tech that is able to calculate the most efficient route for site content, such as images and video, and deliver it via traditional server and CDN providers or Greta’s own peer-to-peer solution, based on whichever of the two will provide the best experience for end users.
+
+“The problem we’re solving is that it’s difficult for companies to provide their end users with sufficient site performance, meaning that companies are losing out on potential revenue as well as consumers having to suffer through buffering videos and wasting their time waiting for slow sites to load,” says Ottosson.
+
+“Furthermore, it’s often at the most critical times that it is the most difficult to deliver good site performance to your users, as an increase in number of concurrent site visitors often increases the risk of this type of performance issues,” she adds.
+
+Those critical times might be a video streaming service during an important live sports event, an e-commerce company launching a new campaign or a news site breaking its biggest scoop of the year. Or even a startup reaching number one on something like Hacker News and crashing due to high server load. And that’s where Greta’s one line of JavaScript comes into play.
+
+“When Greta’s script is added to a site, the site’s traffic will be analyzed in real time, and within a few hours Greta will start suggesting site specific actions to improve your site performance, such as switching CDN in a specific region, or turning on Greta’s own peer-to-peer solution,” explains Ottosson.
+
+“Greta’s peer-to-peer solution is based on webRTC and enables peer-to-peer content delivery directly in the browser, meaning that performance issues such as video buffering and slow or crashing sites can be avoided, especially during heavy traffic. Greta will always optimize for providing the end users with the best user experience possible”.
+
+Meanwhile, the fact that Greta is able to switch to browser-based P2P content delivery, without requiring the end user to explicitly download and install any extra software (presuming their browser supports webRTC), means that site and media streaming improvement can happen in regions where there might not be close proximity to existing CDN networks, such as in Africa or the Middle East.
+
+Adds Ottosson: “Traditional CDNs are restrained by building physical infrastructure, which Greta is not, meaning that they have to build out their network in order to provide their customers with better performance. The existing CDN infrastructure is heavily concentrated to Western Europe and North America, with very limited infrastructure in regions such as the Middle East and Africa where internet traffic is growing with over 40 per cent year on year”.

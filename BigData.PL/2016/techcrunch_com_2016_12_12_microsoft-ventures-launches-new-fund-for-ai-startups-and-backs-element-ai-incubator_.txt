@@ -1,0 +1,27 @@
+Microsoft Ventures launches new fund for AI startups and backs Element AI incubator
+
+Microsoft Venturestoday announced two steps that point to how the tech giant’s VC arm wants to get involved in artificial intelligence in a big way. First, it’s now going to pursue investments through a special fund dedicated to AI startups that focus on “inclusive growth and positive impact on society.” Second, it is the firstannounced backerforElement AI, a new incubator out of Montreal co-founded by “the godfather of machine learning” Yoshua Bengio, which is dedicated to the space.
+
+As with itsnews in Mayfirst announcing Microsoft Ventures and its initial focus on cloud-based startups, the VC firm is not specifying just how much money it intends to invest in artificial intelligence, or in Element AI specifically.
+
+Element AI, in which Microsoft is taking a seed investment, is not the only AI investment that Microsoft Ventures is making public today. It’s also part of a$15 million round for Tact, a CRM startup. (And it’s also making public some non-AI investments today, too, such as leading this$25 million round for Dynamic Signal.)
+
+The broader area of AI feels like the technology of the moment, with its many branches used across any and every service, platform and feature to — simply put — make tech moreefficient,smarter— and possibly morefrightening.
+
+It’s no surprise to see Microsoft quite literally doubling down on AI in that regard: It has reorganized its own R&D to focus way more on AI, and now it is investing in third-party companies working in this area. It’s an area where key competitors like Google, Salesforce, Apple and many others are also going in very heavy, and Microsoft has to keep up.
+
+What’s interesting is that, in these relatively early days at least, Microsoft appears to be taking a more collaborative, and less proprietary, approach. It’s also a partner inOpenAIand is a member of thePartnership on AIorganization.
+
+To further this idea, in a blog post announcing the new fund, Nagraj Kashyap (who heads up Microsoft Ventures) describes the move as one made to “democratize AI” as the types of companies it will invest in are “focused on inclusive growth and positive impact on society.” However, Tact, an SaaS solution that makes deploying CRM solutions to the right staff easier using AI, is an example of how Microsoft will continue to make AI investments that don’t fit into that description, too.
+
+The Element AI investment is interesting in how it does fit into the new fund. The firm is based out of Montreal, a big area for AI with a strong focus at two local universities and one of thehighest concentrationsglobally of startups and researchers already working in the field.
+
+And while Element AI is still in its very early days, only first being detailedback in October, it has high ambitions to fill out a gap in Montreal by connecting more of those researchers with enterprising startup opportunities. Others involved in Element AI include entrepreneurJean-Francois Gagne;Nicolas Chapados; andReal Ventures.
+
+“AI holds great promise to augment human capabilities and improve society,” Kashyap said. “Microsoft is committed to democratizing AI with guiding principles to drive positive impact. Element AI shares our approach and philosophy.”
+
+It sounds like Microsoft is approaching this investment not just as financial backing, but also as more pragmatic operational backing. It is providing software, cloud storage via Azure and more of Microsoft’s existing tools. This ensures that whatever does get built, it has some degree of Microsoft baked into it.
+
+“We all know ‘You’re only as good as your tools’ and now Element AI is getting supercharged with Microsoft Ventures,” said Gagne, who is leading the effort, in a statement. “Along with a strategic investment that is a real vote of confidence for Element AI, Microsoft is giving us the tools and services which will help our AI network achieve scale, which will undoubtedly create new technologies that help tackle some of the world’s biggest problems.”
+
+Updated with more information about Tact.

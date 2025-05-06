@@ -1,0 +1,13 @@
+Apple releases its 6th developer betas for iOS, macOS, watchOS and tvOS
+
+Barely a week after Apple released its fifth developer beta builds of its iOS, tvOS, watchOS and MacOS Sierra platforms, the sixth beta releases have now arrived in short order. Given the quick turnaround time, there isn’t much that’s changed between the previous and current builds, besides some minor bug fixing, it appears.
+
+In addition, Apple alsorolledout the iOS 10 public beta 5, which is the version of the operating system available to non-developers who want to try out the new features ahead of the public launch.
+
+As we get closer to the expected September public launch of iOS, the betas have gotten more stable and the new features they introduce in each build have been of lesser importance, generally speaking. Instead, they’re more focused squashing bugs. For instance, early testers are reporting in the comments of a9to5Mac blog postabout the betas that the new iOS beta is fixing the dock glitch which saw the background of the dock move around and become distorted when the iPad was moved.
+
+First introduced at this year’s WWDC, iOS 10 will bring a number of new features, including redesigned Music and News apps, an updated lock screen, redesigned Notification Center widgets, a revamped iMessage experience, a new “learn to code” app called Swift Playgrounds, a more powerful version of Siriand more.
+
+MacOS Sierra, meanwhile, will introduce Siri to the desktop and include an updated Photos app and version of Safari, offering picture-in-picture mode,among other things. Apple TV is getting a dark mode and single sign-on for authenticated TV apps. WatchOS is also getting a makeover with a redesigned user interface, removal of the “friends” screen when pushing the side button, and faster launching apps.
+
+According toa recent reportfrom Bloomberg, Apple is planning to unveil new versions of the iPhone at its September 7th event, but it may not be announcing its overhaul MacBook Pros at the same time. However, final releases of iOS tend to arrive just ahead of new iPhones, which means we could see iOS 10 publicly launch as soon as September 14,notesto 9to5Mac.

@@ -1,0 +1,17 @@
+Facebook ads still slipping past Adblock Plus via stripped-down code
+
+The Adblock Plus crowdsourced hacker militia can’t keep up with Facebook’s disciplined army of engineers.
+
+When Facebook first announced it wouldcircumvent ad blocking software, Adblock Plus (ABP) built aworkaroundin two days, boasting that “We promised that the open source community would have a solution very soon…This time that community seems to have gotten the better of even a giant like Facebook.”
+
+But it’s beena monthsinceFacebook broke ABP’s last workaround, and the social network’s marketing messages are still getting through. Despite the fact that ABP’s browser extension gets the final say on what appears on your screen, it can’t build filters fast enough when Facebook has total control over the code it serves.
+
+ABP parent company Eyeo’s communications and operations manager Ben Williams admits it needs to dig deeper and make more drastic changes to keep fighting Facebook. “They have basically removed every identifier that’s findable in the first level of ads”, he says while raising fear about Facebook’s ads one day being indistinguishable from content to its users as well.
+
+Williams insists his company knew this would happen. “You’ve got to think that a company like Facebook has…a playbook. It’s kind of been how we expected.”
+
+That contrasts with the confidence of Williams’ blog posts a month ago, where hewrote“What we hope users will remember is that there is a gargantuan, unstoppable community”and“Should Facebook circumvent again, I’m sure another solution will arise from that open source community.”
+
+Now ABP says it will need more time to fire back at Facebook. “We’ll have to change the software, and we’re very, very careful. We have to do some testing.” Williams says that though Facebook has scrubbed the parent elements of its ads code, “We’re in the process of being able to block based on the one of the child elements. I’d say we’re a couple weeks away from that.”
+
+In the meantime, ABP haslaunchedits own ad exchange called the Acceptable Ads Platform. It essentially lets websites serve privacy-safe ads that ABP won’t block from appearing to 90 million of its browser extension’s users in exchange for a six percent cut. That money will be critical if Adblock Plus wants to keep funding a war with a tech giant that earns $2 billion in profit per quarter.

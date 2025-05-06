@@ -1,0 +1,41 @@
+The four cybersecurity terms everyone is talking about at Black Hat
+
+As the saying goes, knowledge is power. And when it comes to cybersecurity knowledge, every year thousands descend on Las Vegas for theBlack Hatconference to acquire as much of it as they can. For some, it’s an opportunity to share research and to demonstrate the fragility of computing systems. For others, it’s a chance to show off new tools and technologies to defend against threats.
+
+And for most of us, it’s an opportunity to drink from the firehose. Technological evolution yields a constantly changing threat landscape. Those who learn survive, and those who don’t evolve and grow their knowledge are left behind.
+
+With so much to learn in so little time, how does one peer through the bazaar of the expo floor and the deep specialization of the technical talks? How does one focus and get some value out of the event without getting completely overwhelmed, and how can one participate in the thousands of hallway conversations?
+
+Here are four cybersecurity terms that are rooting many conversations, both on the expo floor and among experts and analysts in the briefing rooms:
+
+Behavior Baselining
+
+Time and time again we see undetected attackers lurking in organizations’ networks for months – even years. Just this past October, it came to light that cyber attackers linked to the Chinese government breachedSamsung Pay provider LoopPayfor months without detection. Stories like these are a reminder that our best means for minimizing a breach’s impact is to differentiate between normal and abnormal activities.
+
+The core concept of behavioral baselining is to understand the normal behavior such that you can identify deviations from the norm. Most organizations accomplish this by employing people and technologies utilizing data science and machine learning for automated analysis. They combine this with and fast access to forensic data to quickly spot abnormal activity patterns and detect breaches before they take down an organization.
+
+Active Response
+
+As organizations get better at detecting threats, the number of alerts their systems create also increases. This causes what security operations center (SOC) managers call alert fatigue. Too many alerts, but not enough time to respond to them. Imagine knowing about all the wildfires in an area but not having a mechanism to prioritize and address the fire with limited resources. Due to the inability to respond, breaches persist for long periods of time. Just this summer theDemocratic National Committee grabbed headlineswhen it was revealed that Russian hackers were inside its servers for over a year.
+
+Active response is the ability to respond to an attack as soon as it is detected within the organization’s environment. The response could include communication with secondary systems such as a ticketing system, or it could include creating a ticket or collecting additional data. It also could be a configuration change such as modifying a firewall to block communication with a bad actor. Active response can be fully automated or it can be human-mediated. The goal of active response is to enable an organization to make the best use of its people, process and technology through automation.
+
+Security Analytics
+
+Identifying trends and patterns in an organization is a good starting point to mitigate systemic problems as well as identifying threats. Security analytics are the result of data analysis across multiple sources of data, often log data enriched with non-log data such as threat intel. The purpose of security analytics is to provide actionable knowledge to the security analysts and to security managers.
+
+Attackers regularly target outdated or unpatched systems. Many industrial control systems (ICS) and infrastructure systems have been recently targeted due to theirineffective and outdateddefenses. An example of security analytics in this case could be to identify the number of systems that are vulnerable and accessible from the internet. This analytic enables the actioning of vulnerability management efforts.
+
+Other examples include analyzing data to spot an attack based on previously known patterns, peer-group based analytics to spot outliers within connections and activities of “like” individuals. There is a clear need for security and IT teams to use analytics to broaden their security and operations insights.
+
+Public Key Cryptography
+
+For many of us, the word cryptography reminds of James Bond films with incredibly smart yet evil mathematicians feverishly working to break the code to a nuclear warhead. But today, we use public key cryptography hundreds or thousands of times per day – whether it is purchasing a product online, digitally signing a document or to logging in to a device or website via a multi-factor authentication system. In an oppressive country, public key cryptography may be the only way for citizens and dissidents to exchange messages without risking their safety at the hands of governments. In many circles, cryptography has become a controversial topic.
+
+TheHeartBleed bugin openssl and the various backdoors discovered in network security devices have caused concerns of trust for a number of manufacturers. Like these technologies, cryptography is embedded in many software and hardware systems that form the core of our financial systems and healthcare systems. In some cases, cryptography has been leveraged by attackers, most notably inransomware attacksagainst healthcare providers during which attackers encrypt critical data and demand a ransom in return. But just like cryptographic bugs in commercial hardware and software, evenmalware has had crypto bugs.
+
+It is important for all security practitioners to understand the implications of cryptography to their business. Understand where the most critical applications are, how they make use of cryptography, who manages the cryptographic keys in your business, and how you will manage the next big crypto related vulnerability in your environment.
+
+The Bottom Line
+
+Security risks are heightened when organizations lack the ability to speak the same language as security professionals. And because of its rapidly shifting nature, cybersecurity is a moving target. It’s unreasonable to expect everyone in your organization and external parties, like partners and customers, to be experts, but making the risks easier to understand can go a long way toward improving security hygiene.

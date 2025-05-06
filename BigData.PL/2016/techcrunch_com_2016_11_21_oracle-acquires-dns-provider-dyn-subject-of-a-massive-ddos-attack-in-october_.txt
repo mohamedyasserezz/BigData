@@ -1,0 +1,31 @@
+Oracle acquires DNS provider Dyn, subject of a massive DDoS attack in October
+
+A timely, if a little surprising, piece of M&A this morning fromOracle: the enterprise services companyannouncedthat it has acquiredDyn, the popular DNS provider that was the subject of amassive distributed denial of service attack in Octoberthat crippled some of the world’s biggest and most popular websites.
+
+Oracle plans to add Dyn’s DNS solution to its bigger cloud computing platform, which already sells/provides a variety of Infrastructure-as-a-Service (IaaS) and Platform-as-a-Service (PaaS) products and competes against companies like Amazon’s AWS.
+
+Oracle and Dyn didn’t disclose the price of the deal but we are trying to find out. Dan Primack reports that it’s north of$600 million.We’ve also asked for a comment from Oracle about Dyn’s cyberattack, and whether the wheels were set in motion for this deal before or after the Mirai botnet took down a series of sites in October. Our guess is that it was likely before.
+
+“We decline further comment,” is the response so far from a spokesperson to all our questions.
+
+Oracle, of course, isno stranger to breaches itself: in August it was found that hundreds of its own computer systems were breached.
+
+Dyn is not your average DNS provider: it powers some 3,500 customers’ sites and as Oracle describes it, it “drives 40 billion traffic optimization decisions daily for more than 3,500 enterprise customers.” Customers include Netflix, Twitter, Pfizer and CNBC among many others.
+
+“Oracle already offers enterprise-class IaaS and PaaS for companies building and running Internet applications and cloud services,” saidThomas Kurian, President, Product Development, Oracle, in a statement. “Dyn’s immensely scalable and global DNS is a critical core component and a natural extension to our cloud computing platform.”
+
+In aletterfrom Kurian to customers and partners, which Oracle has also published, the executive makes zero mention of Dyn’s DDoS attack, which had been spurred by the Mirai botnet, which spread through millions of IP addresses for IoT and other connected devices.
+
+Instead, Kurian highlighted how Dyn’s platform “monitors, controls, and optimizes Internet applications and cloud services to deliver faster access, reduced page load times, and higher end-user satisfaction.” He also noted that the two companies will continue to operate independently until the transaction closes.
+
+Dyn is bringing its team on, along with its customer base and existing products.
+
+“Oracle cloud customers will have unique access to Internet performance information that will help them optimize infrastructure costs, maximize application and website-driven revenue, and manage risk,” saidKyle York, chief strategy officer, Dyn. “We are excited to join Oracle and bring even more value to our customers as part of Oracle’s cloud computing platform.”
+
+Longer term, it looks like Oracle could potentially merge or shutter some of Dyn’s existing operations: “Oracle is currently reviewing the existing Dyn product roadmap and will be providing guidance to customers in accordance with Oracle’s standard product communication policies,” the company notes in some details about itsproduct roadmapin the wake of the deal.
+
+The deal between Oracle and Dyn comes at an interesting time in light of another big piece of M&A that is still in progress. Verizon (which owns AOL, which owns TechCrunch) is in the process of buying Yahoo at the momentfor $4.8 billion, although reportedly it is asking for adiscount of up to $1 billionon the deal in light of a massive security breach at Yahoo that compromised accounts ofaround 500 million consumers.
+
+Based out of Manchester, New Hampshire, Dyn had raised some$88 million in funding, according to CrunchBase, from investors that included North Bridge Venture Partners and Pamplona Capital Management. PitchBook puts the total funding at more like$100 million.
+
+Dyn is Oracle’s114th acquisition, according to CrunchBase. Other recent acquisitions to fill out its enterprise cloud services, coincidentally, included a security startup,Palerra; andNetSuite for $9.3 billion.

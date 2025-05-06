@@ -1,0 +1,13 @@
+Google’s Now on Tap gets even smarter
+
+Now on Tap was one of the marquee features of Android Marshmallow when Googlefirst announcedthis update to its mobile operating system last year (which is now already being eclipsed by the next version: Android Nougat). It allows you to quickly find more relevant information and context about what’s currently on your phone’s or tablet’s screen when you press and hold the home button.
+
+Today, Google is adding three new features to Now on Tap that should make the service even more useful and smarter.
+
+The first of these new features allows you to easily translate text from any application. Chrome has long featured a built-in translation feature, but that’s obviously not available in other native apps. Now on Tap now makes this same technology available for virtually any application on your device. Simply press and hold the home button and select the new “translate this screen” options and the text will be translated into the phone’s default language. Google says Translate in Now on Tap will also be able to recognize multiple languages on your screen and translate them accordingly. This new feature is available for translations into English, French, Italian, German, Spanish, Portuguese and Russian.
+
+The updated Now on Tap now also features a ‘Discover’ section, which highlights related stories and videos. These related stories will show in a new “related news for [topic x]” section in the Now on Tap pop-up and in my unscientific tests, this generally worked pretty well.
+
+The third new feature involves using Now on Tap while you are using your camera. With this update, you can now point your camera at any bar code or QR code, press and hold the home button, and Now on Tap will automatically recognize it and show you related information. I tried this with a book and Google quickly pulled up info about the publishers, the book, and its author. Similarly, scanning the code on a bar of chocolate quickly brought up the name of the product. What’s sadly missing in the interface is a quick way to order the product. Instead, Google offers you to do a Google search for it, which then inevitably leads you to Amazon or the manufacturer’s website. Google says this feature will work with packaged products, books, DVDs and more.
+
+None of these updates, though, solve one of Now on Tap’s main problems: if you don’t know it exists, it’s very unlikely that you will ever find it unless you accidentally press and hold the home button. That’s a shame, because it’s a really useful feature once you know it exists.

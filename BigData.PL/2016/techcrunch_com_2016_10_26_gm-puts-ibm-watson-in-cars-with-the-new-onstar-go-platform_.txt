@@ -1,0 +1,15 @@
+GM puts IBM Watson in cars with the new OnStar Go platform
+
+GM is creating what it’s calling the “first cognitive mobility platform” inpartnership with IBM, using the latter company’s Watson learning supercomputer. What that means is that cars featuring the new product, which is a continuation of GM’s OnStar offering called ‘OnStar Go’, will be more aware of their surroundings and better able to automate interactions both with the driver and with  businesses and facilities around them.
+
+The system actually sounds similar in concept to Amazon’s Alexa, since it’s designed to allow your car to plug into connected services around you, and since IBM and GM actually call the abilities OnStar Go can gain “skills” in their press release revealing the new platform.
+
+OnStar Go makes use of machine learning to analyze data gathered by the driver and use that to make informed decisions about potential product and service offerings from things in proximity to the car or within the car itself. For instance, it could recognize when the car is low on fuel, identify a nearby pump, pre-activate the pump for use and let the driver pay directly from their dash, or it could allow for pre-order of a coffee for pickup from a drive-in window, or use your listening habits to create a personalized radio station.
+
+A lot of the potential uses described by IBM and GM in the release for OnStar Go make it seem like the platform is designed specifically to create more marketing opportunities for partners, and indeed the press release leads with this summary of the rollout plans:
+
+Starting in early 2017, OnStar is expected to give millions of GM drivers the ability to connect and interact with their favorite brands.
+
+Still, it sounds like it should be beneficial to customers, especially if drivers get the chance to specify which skills they want to be notified about and which they don’t. IBM and GM have already revealed some launch partners, and they include ExxonMobil, which will be able to tell drivers where nearby fill-up stations are, and okay payment from within their vehicle; iHeartRadio, which is using Watson’s personality insights to create personalized stations that are designed around a driver’s schedule; and MasterCard, which will let credit and debit cardholders pay for stuff right from their car’s dash.
+
+The new OnStar Go features are set to go live in vehicles from GM by the end of 2017.

@@ -1,0 +1,15 @@
+Salesforce Wave turns vertical with new industry-specific apps
+
+When Salesforce introduced itsWave analytics product back in October, 2014, it was mostly framed as a tool for managers to get a grip on the sales pipeline in a visual way. In a series of announcements today, Salesforce made it clear that it’s taking Wave vertical with a variety of job-specific Wave applications.
+
+Since its launch, much like Salesforce CRM itself, Wave has grown from an application made up of a set of functions intoa platform on top of which Salesforce and third-parties can build custom applications. Today’s announcement includes new task-driven tools from Salesforce and independent software vendor (ISVs) partners, along with new design tools to give internal IT departments the ability to customize their own dashboards.
+
+For starters, Salesforce announced new Wave applications for financial services and B2B marketing. The former is designed to help financial advisors identify their highest value clients and more easily see which clients’ portfolios are affected by a market shift or change in conditions. The B2B dashboard is supposed to help marketers and salespeople see which campaigns and approaches are working and which ones aren’t with the goal of finding ways for these two groups to work more cooperatively and smarter than they typically have in the past.
+
+Meanwhile, the ISVs have also gotten into the action with 19 third-party apps, which will be available in the AppExchange starting today. Much like the other parts of today’s announcements, these apps are designed to pull together the data underpinnings for a particular job.
+
+As an example, Salesforce partner,ThinkLP, a company focused on retail loss prevention, has developed a Wave application to bring together a variety of loss data into a single dashboard view to help loss prevention specialists find issues that would presumably be much more difficult to identify with the data spread across a number of data sources.
+
+Finally, Salesforce is introducing a couple of tools for the IT department to build their own custom internal dashboards. While they try to make it sound easy as dragging and dropping, connecting it to external data sources takes some skill and understanding of the individual API connectors — and I suspect this is a fair bit of work.
+
+Put all of this together and you have Salesforce taking a similar to approach to Box withits industry-specific offerings. Although it continues to provide a set of Wave products with a broader focus, it’s also offering these extremely narrow niche products aimed at monitoring a very specific set of data.

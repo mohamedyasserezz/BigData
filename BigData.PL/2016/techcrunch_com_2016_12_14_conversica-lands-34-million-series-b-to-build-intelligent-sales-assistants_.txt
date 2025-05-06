@@ -1,0 +1,23 @@
+Conversica lands $34 million Series B to build intelligent sales assistants
+
+After a potential customer has first contact with a business, sales gets in gear, often responding with an introductory email.Conversicahas developed an artificial intelligence system designed to automate these early contact emails, and pass it off to a human salesperson when the time is right. Today, it announced a $34 million investment.
+
+The round was led by Providence Strategic Growth. Toba Capital, Wellington Financial LP, Recruit Strategic Partners and Series A investor Kennet Partners also participated. Today’s investment brings the total to $56 million.
+
+“Conversica is a conversational artificial intelligence platform,” company CEO Alex Terry explained. The company’s flagship product is an AI-powered sales assistant. Even though this assistant isn’t actually a person, it has a name, its own email address and it acts on behalf of the company, just like a human would.
+
+In this case, the assistant is responsible for contacting anyone who has expressed some initial interest in the company such as downloading a white paper, getting a badge scanned at a conference or requesting additional information on the company website. The contact information gets placed into the sales funnel where a process begins. The names show up on a list and a salesperson will be assigned to contact these individuals. This initial contact usually follows prescribed workflow defined by the particular company.
+
+Conversica aims to automate this part of the sales task, but to do it in a natural feeling way. “You don’t see it as an AI assistant. You see it as normal interaction,” Terry said. The job of the assistant is to answer the questions it’s capable of answering, and then eventually get the contact on the phone with a person.
+
+It does this using several forms of artificial intelligence. It starts with natural language process (NLP), which allows the assistant to “read” a response. The first step is to understand the meaning behind each interaction with the potential customer.
+
+Next comes the inference engine, which allows the assistant to determine precisely what the customer is asking beyond pure keyword search. The idea is to understand the content and the sentiment behind the content. For example, the person might not be ready to buy right now, so they get put on a “nurture” list for later contact.
+
+Finally, it uses natural language generation to craft a meaningful reply to the email based on the customer’s response. “There’s quite a lot of technology under the hood. It’s a dramatically different experience from an auto-responder,” Terry said.
+
+Over 1000 companies are using the sales assistant software, but it also has plans to apply that same artificial intelligence technology to other parts of the company including initial customer service contact. These products are currently in various stages of development.
+
+Conversica currently has 140 employees, and an impressive $18 million in annually recurring revenue, according to Terry.
+
+With the new money, the company plans to expand the sales and marketing groups, as you might expect, but also build additional integrations with other software packages, expand partnerships — and eventually, perhaps in 2018, undertake global expansion.

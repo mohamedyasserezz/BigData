@@ -1,0 +1,21 @@
+Cogito leverages human behavior to nudge customer relationships
+
+We’ve all had crappy customer service calls. Primed by staticky elevator music and the ever-mysterious agitating echo, most of us come into calls with strained patience. On the line, customer service and sales agents are paid to build relationships, but after a long day of working with callers (who typically only call if they’re having a problem), even the bubbliest of people can start to fade.
+
+MIT Media Lab spinoutCogitois crunching the numbers to give workers real-time feedback on call performance to gently nudge better conversation habits. Cogito tracks dialog speed, pauses, interruptions, volume changes and tone, among other metrics, to provide real-time recommendations.
+
+Cogito has effectively modeled typical conversations in various contexts and industries. The rapport of an outbound sales call will be much different than an inbound call from a frustrated customer. Data collected is compared to norms in specific call types and tangible conversational recommendations are fed back.
+
+The technology is squarely focused on communication by phone, but real-time conversation analysis is primed for growth. In addition to serving call centers, the DARPA-backed startup has dedicated resources to solving a number of non-commercial problems. The U.S. Military Academy at West Point is working with Cogito to provide to cadets real-time feedback on negotiation skills.
+
+Many of the greatest applications of speech analysis will come at the nexus of qualitative behavioral analysis and quantitative lexical analysis. As we accumulate larger data sets and our algorithms get sharper, we can expect to see things like better propensity modeling anchored with omnichannel data.
+
+Cogito is already working with teams of hundreds of employees at companies like Aetna, Humana and BlueCross BlueShield. Customers have reported a 15 percent decrease in average call time and a 10 percent decrease in the average number of callbacks.
+
+The simple reality is that most data analytics solutions do a really good job at the quantitative part, but fall short when it comes to influencing real-world best practices. There’s an API for just about everything these days, but doing behavioral nudges right takes an immense amount of data and a very low margin for error. A few misplaced recommendations, especially when used by managers for evaluation, can result in disengaged employees and strained customer relationships.
+
+Joshua Feast, CEO and co-founder of Cogito, believes that one of the best things about the American entrepreneurial ecosystem is the innate competitiveness of large players. He says that fear of disruption has had a lasting impact on the willingness of corporates to give new technologies a chance. For Feast, the most challenging part of his role at Cogito is managing product development, not getting in the door at potential clients.
+
+At first, the thought of a behavioral nudge can seem condescending, but in the right context it can be helpful. Nobody likes to be told what they already know — if a customer service agent is speaking louder because a customer is hard of hearing, they do not need to be reminded about rapport. In the event that an abnormal conversation isn’t even recognized by the agent, a service like Cogito can be informative rather than pejorative. Take for example automobile technologies that can detect deviations between steering wheel movement and road markings and advise drivers to take a break. Despite nearly universal disdain for backseat driving, such nudges can not only be lifesaving but appreciated.
+
+To this purpose,Cogitohas raised $7.5 million since 2007, with the bulk of the money coming from a $5.5 million Series A in 2015 led byRomulus Capital. While Feast recognizes the large size of the market, he stresses the importance of a clear focus. The company is working with Salesforce, and is focused on putting the product in the hands of healthcare and insurance agents.

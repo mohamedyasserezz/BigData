@@ -1,0 +1,11 @@
+Sketchfab makes it easier to look at 3D models in virtual reality
+
+Step by step,Sketchfabis turning into the best platform to view 3D models using a virtual reality headset. First, the company addeda VR buttonon every browsing page, then itreleased appsto support all VR headsets and showcase a few models. Now, the New York-based startup is making it easier to move around 3D models.
+
+All 3D models on Sketchfabnow havea 2-dimensional “floor” so you can change your point of view. It means that you can point in a direction with your eyes, and Sketchfab will project a pointer on the floor. If you use the button on your cardboard headset, Samsung Gear VR or push a button on the Rift or Vive controller, then you instantly teleport yourself to this point. This movement model will sound familiar if you’ve used VR headsets in the past.
+
+But what if you want to show your users where they should look. Sketchfab creators can now set up viewing locations using the startup’sscene editor. This editor is also important as it lets you set the scale of your 3D object. If you’ve modeled a car, you want to make it feel like you’re looking at a car and not a truck. It looks like this:
+
+Finally, the “View in VR” button is more powerful than before as it lets you browse collections without having to take off your VR headset. For instance, you could browse all the top 3D models, all of the work of a particular artist and more.
+
+All of this works on a computer with a browser and an HTC Vive or Oculus Rift hooked up to your computer, and on your phone with a cardboard or Gear VR headset. Overall, it makes Sketchfab a comprehensive platform for looking at 3D models in virtual reality.

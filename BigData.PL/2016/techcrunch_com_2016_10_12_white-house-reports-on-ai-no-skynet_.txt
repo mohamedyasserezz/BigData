@@ -1,0 +1,63 @@
+Here’s how The White House wants the U.S. to approach AI R&D
+
+Since 1956, when computer science researchers gathered in the small town of Hanover, N.H. at Dartmouth College to talk about the field’s nascent investigations into artificial intelligence, both government and industry in the U.S. have grappled with how to structure a systematic approach to research and development in the newly important field.
+
+From the government’s perspective, this is increasingly important. With both federal research institutions and private companies pursuing artificial intelligence breakthroughs at breakneck speed, the federal government is frankly having a bit of an existential crisis about its role in research efforts and the priorities it has for what AI research should look like.
+
+To wit, in 2015 government spending on unclassified research and development in AI-related technologies was around $1.1 billion, according to one of the twin reports released today. But in the last five years alone,mergers and acquisitions among private companiesvying for dominance in the AI market have far outstripped that figure, according to data from CB Insights.
+
+Google’s acquistion of DeepMindwas reportedly $600 million, and that’s one of over one hundred acquisitions made by companies like Facebook, Google, Apple, and Twitter since 2011.
+
+SoThe White House has released a new pair of reports, offering a framework for how government-backed research into artificial intelligence should be approached and what those research initiatives should look like (basically, the government wants to avoid a Skynet scenario).
+
+The main paper, entitled “Preparing for the Future of Artificial Intelligence,” focuses on the general state of and challenges faced by AI, and both of those things have a constant presence on our front page.
+
+Google, for instance,addressed the possibilityof bias tainting the results of AI systems, which know not what they do. This is merely irritating when it’s an image recognition error, but what if it’s for “predictive policing”?
+
+AI needs good data. If the data is incomplete or biased, AI can exacerbate problems of bias. It is important that anyone using AI in the criminal justice context is aware of the limitations of current data.
+
+The use of AI to make consequential decisions about people, often replacing decisions made by human actors and institutions, leads to concerns about how to ensure justice, fairness, and accountability.
+
+Transparency concerns focused not only on the data and algorithms used, but also on the potential to have some form of explanation for any AI-based determination… Ethical training should be augmented with technical tools and methods for putting good intentions into practice by doing the technical work needed to prevent unacceptable outcomes.
+
+Google’s solution, at least for now, is what they call the “equality of opportunity” method, which ensures a system doesn’t accidentally discriminate based on sensitive, non-relevant data, for instance race or religion, when calculating something not directly related to them. As for understanding the models created by machine learning — that’s a bigger problem.
+
+As AI and AI-like systems proliferate, they begin to overlap with highly regulated areas, as we’ve seen with autonomous vehicles and drones. This creates a sort of wild west compared with the traditional sides of those industries, and things like reporting and risk management aren’t anywhere near formalized.
+
+How detailed should Google’s self-driving car accident reports be? Can NTSB officials inspect Autopilot code? Where do federal and state authority interface?
+
+To make informed decisions, the White House suggests more and better data is required:
+
+Commercial aviation has mechanisms for sharing incident and safety data across the industry. No comparable system currently exists for the automotive industry… The lack of consistently reported incident or near-miss data increases the number of miles or hours of operation necessary to establish system safety, presenting an obstacle to certain AI approaches that require extensive testing for validation.
+
+Federal actors should focus in the near-term on developing increasingly rich sets of data, consistent with consumer privacy, that can better inform policy-making as these technologies mature.
+
+Furthermore, as AI systems infiltrate our infrastructure, the cowboys of private AI research should look to old school civil engineers for help, as little as they might like the idea:
+
+Adapting gracefully to unforeseen situations is difficult yet necessary for safe operation. Experience in building other types of safety-critical systems and infrastructure, such as aircraft, power plants, bridges, and vehicles, has much to teach AI practitioners about verification and validation, how to build a safety case for a technology, how to manage risk, and how to communicate with stakeholders about risk.
+
+You’ve got to get them while they’re young, according to the White House. And we agree, of course: STEM education should start early — with an emphasis on the T, in this case.
+
+An AI-enabled world demands a data-literate citizenry that is able to read, use, interpret, and communicate about data, and participate in policy debates about matters affected by AI. Data science education as early as primary or secondary school can help to improve nationwide data literacy, while also preparing students for more advanced data science concepts and coursework after high school.
+
+Of course, a data-literate citizenry implies a literate citizenry, and the ethics of all this stuff won’t be learned in CS class, so we can’t neglect the humanities, either.
+
+The report also calls for pushes for diversity, highlighting comments solicited from experts regarding “the importance of AI being producedbyandfordiverse populations.”
+
+Doing so helps to avoid the negative consequences of narrowly focused AI development, including the risk of biases in developing algorithms, by taking advantage of a broader spectrum of experience, backgrounds, and opinions.
+
+The goal with both papers is to establish what an effective approach to artificial intelligence looks like from a government perspective. There’s an understanding that corporate interests will pursue corporate interests, but a range of issues exist in the development of artificial intelligence technologies that businesses are not necessarily equipped to deal with. And they don’t have any incentives to try and grapple with some of these issues anyway.
+
+The report on thegovernment’s strategic investment planstates:
+
+The Federal government is the primary source of funding for longterm, high-risk research initiatives, as well as near-term developmental work to achieve department- or agency-specific requirements or to address important societal issues that private industry does not pursue. The Federal government should therefore emphasize AI investments in areas of strong societal importance that are not aimed at consumer markets—areas such as AI for public health, urban systems and smart communities, social welfare, criminal justice, environmental sustainability, and national security, as well as long-term research that accelerates the production of AI knowledge and technologies.
+
+Alongside this emphasis on artificial intelligence for the public good, is an acknowledgement that these innovations could lead to job insecurity as the robots take over. That’s why one of the main thrusts of the government’s research is in how to make artificial intelligence work with humans rather than exclusively work for humans, or work instead of humans.
+
+The meat of the government’s strategy, outlined in the bullet points below, deals with the human cost of artificial intelligence.
+
+It’s also worth mentioning that these reports aren’t the last word (or even the first word) on the U.S. approach to artificial intelligence. There are at least seven other (probably very long) research and development strategic plans that deal with aspects of the government’s approach to AI research.
+
+That’s a good thing, too because, as the White House report acknowledges, we’re no longer necessarily the leader in the field. Research from China has outstripped the U.S. (at least in terms of papers published on the subject).
+
+Now’s the time for a more invigorated policy, which perhaps these papers will help charge.

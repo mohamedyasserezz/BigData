@@ -1,0 +1,29 @@
+Cybersecurity startup Darktrace intercepts $65M in fresh funding at a valuation of over $400M
+
+Darktrace, the U.K. cybersecurity startup whose backers include Autonomy founder Mike Lynch’sInvoke Capital, has closed $65 million in fresh funding.
+
+The new round was led by global investment firm KKR, with participation from existing investor Summit Partners and new investors TenEleven Ventures and SoftBank.
+
+I understand the new investment gives the 2013-founded company a valuation of more than $400 million, while in a call Lynch told me the new backing was a typical growth round and will be used for further international expansion and for R&D.
+
+In particular, he saidDarktraceis developing technology to help companies respond to not only human-written cyberattacks but also the pending threat of machine-learning-based attacks that, in classic sci-fi-comes-true-fashion, will increasingly see AI battling it out with AI on behalf of the good and bad folks, respectively.
+
+But let’s step back and take a look at what Darktrace offers today. The startup’s “Enterprise Immune System” consists of a box that sits on a company’s network and listens to what’s going on, combined with software that makes sense of that traffic.
+
+It then alerts IT managers when there is suspicious behavior. Or, if needed, takes immediate action to snuff out or slow down an attack, say for example by throttling the network speed to buy human eyes more time to work out what the heck is going on.
+
+More broadly, explains Lynch, is that Darktrace is based on the premise that all major company networks are likely already compromised, in the literal sense, or are wide open to compromise. That’s the nature of the networked landscape we operate in, with companies having to interface with suppliers and customers and its own sprawling workforce online.
+
+So instead of presuming cyberthreats are stopped purely by building bigger and better “walls,” Darktrace claims to mimic the human immune system by accepting that bad stuff will get in but, powered by the company’s “advanced mathematics and machine learning techniques,” the resulting harm can be stopped in its tracks.
+
+At a basic level this means Darktrace has to be able to not only monitor all the traffic going through a company’s network but distinguish between normal and malicious activity.
+
+Lynch says that rapid cyberattacks are easier to spot, in that they are suspicious by nature, but have to be acted on extremely fast, which is why Darktrace’s box has a degree of automation. However, stealthy or temporarily dormant nefarious activity is trickier and it’s here where the startup’s machine learning technology claims to come into its own.
+
+And whilst it’s almost impossible for a generalist tech reporter like me to truly validate any cybersecurity startup’s tech claims, I’m told that Darktrace is growing at a clip. In fact, Lynch says Darktrace is the fastest-growing company he’s either founded or invested in. That’s something echoed by Hussein Kanji of Hoxton Ventures,one of the startup’s other early investors.
+
+Specifically, Darktrace claims more than 1,000 customer deployments, including global “financial institutions, telecommunications networks, legal firms, retailers, technology companies, government organizations, and critical national infrastructure facilities.” Revenue, we’re told, has grown more than 600 percent in the last year. I understand this translates to millions per month.
+
+One reason for this growth, says Lynch, appears to be timing. Cyberattacks have never been more in the news and companies are way more willing to install a box on their network from a third-party than even before, especially if they can see immediate results. The beauty of its “Enterprise Immune System” is that after a week of crunching network activity, all is laid bare.
+
+I asked Lynch if this is sometimes to the embarrassment of IT managers or a company’s Chief Security Officer. “A good question,” he says, before answering that in some cases the answer is yes. However, he also says the culture is changing and company boards are starting to understand the new reality: cyberattacks will happen and the war is ongoing. A war that Darktrace looks set to cash in on.

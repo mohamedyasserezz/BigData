@@ -1,0 +1,29 @@
+Microsoft CEO Satya Nadella on how AI will transform his company
+
+Microsoft CEO Satya Nadella took the stage at his company’s massive Ignite conference to lay out his vision for how deep learning and artificial intelligence will transform the company.
+
+“AI is at the intersection of our ambitions,” Nadella said, noting how it will allow us “to reason over large amounts of data and convert that into intelligence.” He likened AI to the arrival of books and the web and joked that we will soon create so much data that “we are getting to a point where we don’t even know what to name things.”
+
+That’s also creating problems, though. “In this information explosion, what remains scarce is human intention and time — our ability to make sense out of all of this information,” he said.
+
+At Microsoft, this transformation is currently happening in a few different areas, with agents like Cortana, applications like SwiftKey and Office 365, and developer tools and platforms like the Cortana Intelligence Suite and the Azure cloud computing platform.
+
+As for agents, Nadella noted that the ambition here is to create an intelligent assistant that “can take text input, can take speech input, that knows your deeply. It knows your context, your family, your work. It knows about the world.” He also stressed that this agent will have to be unbounded and available on every platform and in every application — even those not controlled by Microsoft.
+
+“With Office 365, we are not just moving to the cloud,” Nadella said. “The most profound shift is in the fact that the data underneath the applications of Office 365 is exposed in a graph structure. And in a trusted, private-preserving way, we can reason over this data and create intelligence. That’s really the profound shift in Office 365.”
+
+He also noted how tools like the focused inbox in Outlook, Skype’s real-time translation, smarter spelling correction in Word and new tools like Tap in Word, tap into this intelligence.
+
+Nadella specifically stressed how Dynamics 365, the company’s CRM tool and one of its major revenue drivers, can make use of these technologies. “Take something like sales,” he said. “In any business application you always explicitly modeled the world. […] But there is one real problem: most of the sales activity happens outside of a CRM system. And so the goal of intelligence is to be able to reason about your sales data model. Not just inside your CRM system but outside.”
+
+In this context, Nadella also mentioned how the company could use relationship data from LinkedIn, which itacquiredin June.
+
+For developers, the way to access this intelligence in their own applications is through the Cortana Intelligence Suite. This suite of tools includes a bot framework now, too, and Nadella believes all businesses will at one point use a conversational agent to interact with their customers.
+
+Microsoft is currently working with the NFL to create a fantasy football bot and Uber is now using the Cortana Cognitive Services’ face recognition tools to veryify drivers and passengers. Nadella also noted how Microsoft is working with Volvo to recognize when drivers are distracted (and then warn them).
+
+Combine these technologies with Microsoft’s HoloLens mixed-reality headset and you bring together “the two most magical technologies of our time.” Lowe’s, for example, is working on an application that allows its customer to design a kitchen using HoloLens, for example, but the company also today talked about how it can then use the data it aggregates from multiple sessions — including the data it gathers from tracking people’s gaze — to improve the experience and be smarter about ordering items.
+
+Given that Microsoft loves to talk about how we live in a “cloud first, mobile first” world, it’s no surprise Nadella also talked about Microsoft’s Azure cloud. He stressed how Azure offers developers access to GPU-based machines to train deep learning models and how it recently started using FPGAs. Nadella calls this FPGA-enabled cloud the “first AI supercomputer” (though Google, which is actually usingcustom chips instead of FPGAs, may actually claim the crown of being the first, if not the largest, of these kind of deployments). Some of Microsoft’s cognitive services already run on this platform and Azure is using it to speed up its networking infrastructure.
+
+“It’s never about our technology,” Nadella said in closing. “It is really to me about your passion, your imagination, and what you can do with technologies that we create. What societal problem, what industry will you reshape. That’s really what we dream about. We want to democratize AI just like we brought information to your fingertips.”

@@ -1,0 +1,17 @@
+Earthquake-sensing mobile app MyShake captures hundreds of temblors large and small
+
+Back in February, seismologists at UC Berkeley releasedMyShake, an app thatpassively monitors for seismic activity, both watching for earthquakes and warning users if one is underway. In the months since its introduction, the app has outperformed its creators’ expectations, detecting over 200 earthquakes in more than ten countries.
+
+The app has received nearly 200,000 downloads, though only a fraction of those are active at any given time; it waits for the phone to sit idle so it can get good readings. Nevertheless, over the first six months the network of sensors has proven quite effective.
+
+“We found that MyShake could detect large earthquakes, but also small ones, which we never thought would be possible,” one of the app’s creators,Qingkai Kong,told New Scientist.
+
+A paper describing the early results waspublished in Geophysical Research Letters— the abstract gives a general idea of the app’s success:
+
+On a typical day about 8000 phones provide acceleration waveform data to the MyShake archive. The on-phone app can detect and trigger on P waves and is capable of recording magnitude 2.5 and larger events. The largest number of waveforms from a single earthquake to date comes from the M5.2 Borrego Springs earthquake in Southern California, for which MyShake collected 103 useful three-component waveforms. The network continues to grow with new downloads from the Google Play store everyday and expands rapidly when public interest in earthquakes peaks such as during an earthquake sequence.
+
+The accelerometers in phones and other smart devices are surprisingly capable,as other scientists and engineers have discovered. Having dozens or hundreds of them at varying ranges and altitudes from the epicenter of a quake is an invaluable resource for seismologists. It could also make those in earthquake-prone areas safer, issuing a warning to those nearby and giving them a few extra seconds to prepare and tell others.
+
+MyShake also provides summaries of recent quakes around the world and shows you what historic ones would have looked like in your area. I’m installing it so I’ll have a jump on everyone else when the big one hits Seattle, but of course I’m also happy to contribute a bit to the scientific community in the process.
+
+The app is free on Android;download it hereand help build up that worldwide network.

@@ -1,0 +1,79 @@
+Digi.me bags $6.1M to put users in the driving seat for sharing personal data
+
+There is a lot of noise in the privacy space, says serial entrepreneur andDigi.mefounder Julian Ranger. And cutting through that noise is one of the big challenges he reckons stands in the way of his current startup. But the concept behindDigi.meis so intriguing that you really have to hope the team manages to make themselves heard.
+
+Today the UK startup is announcing a £4.2 million ($6.1M) Series A round of funding, led by global re-insurer Swiss Re. That’s right; the lead investor here is not a tech-focused VC firm but a global reinsurance giant. Getting corporate partners in place who see the value of Digi.me’s data exchange vision — and are thus persuaded to buy in to helping achieve it — is one key plank of a strategy for bagging the critical mass of users needed to deliver on a radical rethink of how personal data is collected and shared online.
+
+We’ve seen a few other startups (e.g.People.io) seeking to make mileage out of the notion that users are currently getting a bad deal when they trade personal data online in exchange for access to free services. But Digi.me claims it’s pushing to go broader and deeper — aiming to build a data-sharing platform that gives users total control.
+
+Ranger has been formulating this grand plan for more than five years now, biding his time, he says, until the industry especially caught up with the thinking — and Swiss Re’s investment now suggests that’s starting to happen.
+
+Digi.me wasn’t always so ambitious. Originally it was launched as a social media back-up service back in 2009, funded with £20,000 of Ranger’s own money. And at this point the app — which has some 400,000 users across 140 countries — still bills itself as a photo search utility to lets users trawl multiple social services and (re)share content they’ve previously posted to their networks.
+
+But that’s now just phase one of a much grander plan. The big vision is to rethink the data value exchange, tipping the control scales back in favor of users while simultaneously helping businesses gain access to higher quality user data. And the key to getting there is letting people choose who and how to share their data. So informed consent rather than disingenuous data-harvesting. That’s Digi.me’s big bet.
+
+It is deliberately structured so it’s not handling any of its users’ personal data itself. Nor is there any centralized pot of all users’ data to pose an attractive target for hackers. Data remains stored on individuals’ own devices (there will also be a personal cloud option for people to choose from in future, should they wish, such as Dropbox or Google Drive; and Digi.me plans to offer users their own free virtual PC for more demanding data processing tasks). Data is also encrypted locally. And Digi.me does not hold any encryption keys.
+
+Ranger couches Digi.me’s envisaged role as equivalent to being both a librarian and a postman; so affording users access to all their information by connecting it within an architecture that allows searches and other processing functions to be performed. And also by providing people with tools to selectively share data — when and where they see value in doing so.
+
+Each of these data exchanges will involve an explicit contract — in digital certificate form — between the individual and the company in question. This will specify what data the company will get; what will they do with it; what will they give back in exchange for it; what data they will retain if any; what data they will they share with third parties if any; and whether they will implemented the European ‘Right To Forget’ (coming in the new GDPR so a regulatory compliance requirement for companies operating in Europe).
+
+“Towards the middle end of 2010 I suddenly realized what we were doing,” says Ranger, describing how the idea evolved from basic app to a radical rethinking of the data value exchange. “I realized that what we were actually doing was bringing data together for the individual and we were doing it on the individual’s own devices — which is the key thing for Digi.me is that we don’t see, touch, nor hold any data ever; it’s all only held by the individual — and that’s when the whole idea for [the current business vision] came about. But it was also clear to me that… it was far too early.”
+
+Why is now the right time? Ranger notes in passing developments such as the reformulated European data protection directive (i.e. theGDPR), as well as general rising awareness of data privacy and security issues, but argues that the really pressing demand now is actually coming from businesses wanting better quality data than they’ve been able to acquire by the current (i.e. non-transparent) data acquisition methods.
+
+“There’s a frustration that despite all the things that go on to get personal data behind our backs and do everything else, when you’re a business, actually the data you get today isn’t all that good,” he tells TechCrunch. “You’re not able to provide the sort of quality and services that you want to provide. And you are… pissing off the customer in the way you’re getting the data.”
+
+Add to that, users of digital services also aren’t seeing huge benefits from all the personal data their digital activity has been generating. So it’s a two-sided problem that Digi.me is positioning itself to fix.
+
+“That is what brings it together,” he continues. “You as an individual can now first of all use your data for yourself, understand yourself, search, find everything that’s available. And now businesses can by asking you — and that’s the really key thing — for a specific purpose get this what we call ‘rich data’.”
+
+Rich because the idea is this is not just Facebook posts of baby photos and tweets about what you ate for lunch being connected together within a common data processing architecture. Rather Digi.me intends to let users plug in their banking data and even personal health data, at least in countries where digital medical records are available to do so (so not currently in the UK).
+
+So, in other words, this is going to be about tapping into really powerful data sets — which could ultimately be used as the foundation for personal credit checking, for example, or to generate personalized health advice.
+
+The grand vision then is enabling businesses to tap into the data sets of their dreams in order to serve users with more relevant and powerful apps. Ranger likens the overall idea as akin to what SAP did for business data in the 1980s.
+
+“They brought together all the business data, gave them an app to do more with it, and then allowed the businesses to bring new apps into their own infrastructure to process the data or to share that data outside… We’re doing the same. You can think of us as… an SAP for the consumer. We help you get your data together then process it.”
+
+If the idea of sharing your medical data with commercial entities like insurance companies fill you with abject horror — and let’s face it there are some pretty dystopic scenarios already sketched out on that front — Ranger argues that’s not the direction businesses are going to want to be pushing in. After all, on the Digi.me platform, the user will remain in control and get to choose who to share their data with and what to share it for.
+
+Rather he says companies partaking in this data value exchange could, for example, offer Digi.me users apps that run locally on their devices, and which draw from their locally stored treasure trove of personal data — never taking their medical data, say, off to the cloud but performing all the processing locally — allowing them in turn to serve up personal health recommendations without actually having visibility of the individual’s medical history. (Although the devil will clearly be in the detail of each proposed value exchange.)
+
+Another example he sketches could be a banking app that can perform credit checking locally by drawing on a user’s entire financial history, based on data being pushed to the app from their linked banking data also stored locally. So again, without the user actually having to share details of their incomings and outgoings directly with that third party.
+
+Those are the sorts of potential user benefits Ranger envisages Digi.me being able to deliver by putting users in the driving seat when it comes to sharing their personal data. So really, the potential could be a new generation of exceptionally intelligent/useful apps powered by properly robust personal data.
+
+“A lot of people are concerned with insurance for example that now they’re going to want to ask all these things to help people get lower insurance and if I’ve got problems I won’t get insurance at all. Actually they’re not interested in that at all right now. Because that’s all covered by all sorts of legal frameworks,” he argues.
+
+Instead he says insurance industry users of Digi.me are going to be more interested in things like streamlining onboarding claims — so rather than people having to manually fill in forms, this could be done automatically by linking to the Digi.me data cache. “Then the transaction could happen instantaneously,” he adds, arguing this will lead to efficiency savings — some of which will be passed on to consumers (so, yes, potentially lower premiums).
+
+The second industry push here is it’s in the best interests of insurance companies to promote health — and therefore opening up people’s access to and understanding of their own medical data is one way to potentially achieve that. He points to a US health data-sharing initiative calledOpen Noteswhich he says has shown that sharing medical data can boost understanding and in turn help people be healthier.
+
+“So what Swiss Re and others want to do is — you’ve now got your health data on your device, what if they gave you a health app that sat on your device, didn’t share data with anybody else… which is what you can do with the Digi.me environment where you own the data, so you’re sharing data with an app on your device, that data is not being sent anywhere else, now you can really understand your health,” he adds.
+
+“And you can bring in the wearables and see how that works together. You can start to get decision support from other apps that will come in. So if you’ve got diabetes it will link out to advice and other things. That will make you healthier. That will keep you healthier. And that of course is an advantage to you, but it’s also an advantage to the insurance company because it will reduce claims.”
+
+The structure here is somewhat similar to Apple’s Health app, which also creates a local health data repository. Except Apple also allows users to contribute data directly to the app if they wish (whereas Digi.me does not let users create data; it pulls direct from trusted data sources like their medical records to ensure robust data). Apple also allows third parties to access users’ Health data provided they have user consent. However Digi.me is doubling down on the rules for sharing; so not just consent but the how, what and why of the data exchange, bound into a one-to-one contract.
+
+Plus of course, Digi.me is not just aiming to create just a health data silo — it wants to link everything you’ve got, in digital data terms. So far grander ambitions.
+
+Ranger is counting on industry pull to help scale up Digi.me’s user base, leveraging large partner entities that see the potential value they could derive from the envisaged data exchanges if enough users can only be persuaded to sign up.
+
+But it’s not only thinking in terms of serving corporate giants’ data acquisition needs. It plans to open up the platform to smaller developers who could also build apps that tap into these valuable data stores, locally stored. (Although it’s starting its push with corporates in order to help with app distribution and to build user momentum. And on the distribution front it’s announced partnerships with Toshiba, Lenovo and Evernote in the past year.)
+
+“The API we’re creating — it’s not an API in terms of you pull data from the user, the way it works with our certificate system is the data is pushed from the user to the app or whatever that’s requesting the data… but think of it as an API — we will open that up for anybody to use in Q2 next year,” he notes. “But we have to build a community of users before the smaller startups will want to use us.”
+
+And the aim is to “start” to launch the data exchange element of the app in Q4 this year, he adds.
+
+On the technical side, Ranger says the new funding is going towards completing the tech stack for sharing permissions access and widening the data feeds Digi.me has access to.
+
+But it will be also going towards tackling the really big challenge: “noise and confusion” in the privacy space — by proving out the team’s thesis with “concrete examples” to convince people and businesses to buy in.
+
+“It is to get to the point where the world sees that this new way of operating where the individual owns the data is a better way of dealing with personal data. So the aim is that by the middle of next year you will have absolute concrete examples in health, finance, telco and FMCG with multinationals proving the value proposition for both sides,” he says.
+
+“You’ll have an open API where any business can now start to use this. And we’ll also have proved that this doesn’t only work for individuals and businesses, but also for governments and society as a whole. We have a Living Lab [set up in an undisclosed location to test public sector use-cases]… The aim is to have all of that proved out by the middle of next year.”
+
+“There’s no one else who is attempting to help you bring all of your data together as we are doing… It’s an unproven business model,” adds Ranger.
+
+“There’s a similar thing called unified managed access in the US, through theKantara Initiative. And there’s some people likeDatacoupwho are saying let us hold the data and we’ll give you some rewards from selling it… So we’ve got some [rivals] but at the moment there’s no one else doing what we’re doing in terms of giving you back all of your data and controlling it on your own devices.”

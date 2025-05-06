@@ -1,0 +1,15 @@
+New technique lets you fold flat metal or plastic into a 3D shape
+
+A computational design tool created by researchers at Carnegie Mellon and the Swiss Federal Institute of Technology lets you fold a piece of metal or plastic into a “complex 3D shape” like a mask or even a shoe.
+
+“We’re taking a flat piece of material and giving it the tendency, or even the desire, to bend into a certain 3-D shape,” said Keenan Crane, part of the Carnegie Mellon team.
+
+By making hexagonal cuts into flat materials the team is able to let the pieces expand uniformly allowing them to create, say, a sphere from a rigid piece of plastic.
+
+Origami-style techniques are already in use in deep space solar arrays and arterial stents. However this technique lets fully 3D objects to spring forth from a piece of plastic.
+
+This means you can make something like a wild 3D dress out of metal or a car piece out of plastic with a few well-placed cuts. Write the researchers:
+
+Based on a 3-D digital model, the computational tool can determine the pattern of slits necessary to make the sheet conform to the desired shape. This pattern can then be transferred to a laser cutter to begin the fabrication process. The researchers used this process to make a woman’s high-heel shoe, a sculpture, a woman’s fashion top, a lampshade and face masks.
+
+The next step, say the researchers, is to create a way to map 3D objects for easy printing and to ensure that objects pop into place automatically when folded slightly.

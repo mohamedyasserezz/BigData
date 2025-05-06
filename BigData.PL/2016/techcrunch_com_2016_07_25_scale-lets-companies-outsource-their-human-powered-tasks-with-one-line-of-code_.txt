@@ -1,0 +1,33 @@
+Scale lets companies outsource their human-powered tasks with one line of code
+
+A new startup calledScale, officially launching today, wants to make it easier for businesses to outsource their core processes and tasks that require people, not algorithms, to handle. This could include anything from appointment scheduling to more complicated matters like content moderation, transcriptions, and more.
+
+Today, many companies handle outsourcing themselves by hiring and training contractors directly, via freelancer websites, or by taking advantage of Amazon’s Mechanical Turk, which lets anyone post tasks that any worker around the world can pick up and complete in exchange for a small fee.
+
+Scale, however, aims to one-up Mechanical Turk by offering higher quality output.
+
+“One big thing is that we’re screening our workers so heavily.” explains Scale co-founder Alexandr Wang. “On Mechanical Turk, it’s basically a crowdsourced model where anybody can sign up to be a Turker, I think is what they call them. That’s caused quality to be very low as a result.” When companies reach a certain scale or have a need for quality, Mechanical Turk doesn’t cut it, he adds.
+
+Wang and Scale’s co-founder Lucy Guo are familiar with the problems companies face when it comes to outsourcing duties to remote workers thanks to their time working for Q&A site Quora and Snapchat. Both companies rely on manual content moderation processes for things like handling images and posts flagged by users and other matters.
+
+They also have first-hand experience with the problem when they began their first startup, which was going to be a mobile app that helped people find and book doctors’ appointments.
+
+“But we couldn’t focus on product dev because we were just calling doctors all day,” notes Guo, who worked in product at both Snapchat and Quora, previously.
+
+This prompted their idea for Scale, which now offers developersan API they can plug into an appto automate the human-powered functions.
+
+To use Scale, a company places a line of code into their app to allow certain tasks to be completed on demand. Tasks can include categorization/content moderation, comparison, transcription, and phone calling. Using a standard REST API, the requests are sent to Scale’s servers, where the task is distributed to team members, and, in some cases, an additional quality check is also performed after the worker completes the task before it’s sent back.
+
+On Scale’s side, it hires and vets independent contractors, who can offer responses to tasks in minutes. These workers have to prove they have a good grasp of written English and are capable of critical thinking skills. Unlike on Turk, they’re paid hourly and can earn roughly twice to three times as much as they would on a competing service. The hourly rate also ensures they won’t rush through tasks in order to make more money.
+
+In the future, Scale would like to bring the contractors in-house.
+
+Scale’s solution is especially timely as chatbots are on the rise, which allow businesses to communicate with customers more conversationally through popular messaging platform like Skype and Facebook Messenger, for example.
+
+But the problem with chatbots is that while many claim to be “powered by A.I.,” the truth is they lean on human labor, as well. This is true ofFacebook Messenger’s personal assistant “M,” which uses human helpers to augment its A.I. capabilities as well as theshopping and assistance service Magic,which works like an SMS bot, but actually is connecting users with real people who get the requested tasks done.
+
+“[Machine learning] and [artificial intelligence] are just not good enough right now, so when you send responses to chatbots they’re often just not able to process what you’re saying,” says Guo. “That’s why Facebook Messenger bots are so bad right now.”
+
+The freemium service offers five requests for free, then goes up based on number of requests, and whether phone calls are involved. Current customers include Houzz, job finding site HigherMe, Hush, and RealTalk, and seven more are in pilot phases with the three-week old startup. So far, it has already processed over 20,000 API calls, the founders note.
+
+Scale is a member of Y Combinator’s current batch, and has a small amount of seed funding from Arena VC.

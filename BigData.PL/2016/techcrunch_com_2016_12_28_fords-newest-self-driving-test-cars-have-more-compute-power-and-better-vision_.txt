@@ -1,0 +1,13 @@
+Ford’s newest self-driving test cars have more compute power and better vision
+
+Ford has developed a new generation of autonomous development vehicle, a hybrid Fusion that uses the same essential platform as its current vehicles, but with a big upgrade to processing power through new on-board computing hardware, as well as improved LiDAR sensors, which deliver a better field of view and improved overall vision to the sensor suite despite dropping two LiDAR units from the design.
+
+The new Fusion also contains software improvements, making for a better virtual driver. This new generation of car will replace the existing one, which first made its debut on streets in testing three years ago. Ford has been testing its cars in Michigan, California and Arizona in real-world settings, and plans to do more of that with a fleet expansion that should triple the size of the current testing pool to about 90 active vehicles sometime in 2017.
+
+[youtube https://www.youtube.com/watch?v=6QJeaK7U87o&w=600&h=338]
+
+Ford’s autonomous vehicle Chief Program Engineer Chris Brewer explained its progress in aMedium post, noting that despite the move from four to two LiDAR sensors, they can gather just as much data as the combined total used in the previous development vehicle. The two sensors combined provide 360-degree coverage and can see about “the length of two football field in every direction,” Brewer notes.
+
+Three optical cameras on the Fusion’s Roof racks, a front-facing camera behind the windshield, short-and long-range radar complete the picture the car sees, which is used together using the onboard computing power. This built-in supercomputer can generate a full terabyte of data per hour, Brewer says. All that virtual processing capability requires a second power converter, and also explains the use of hybrids – Ford notes that a standard gas-powered car just doesn’t have the energy to achieve autonomy right now.
+
+All of Ford’s work is preface to its plan to launch autonomous vehicles in a commercial setting in 2021, beginning with an self-driving ride-hailing fleet.

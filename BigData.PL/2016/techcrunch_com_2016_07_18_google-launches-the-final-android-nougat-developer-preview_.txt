@@ -1,0 +1,13 @@
+Google launches final Android Nougat Developer Preview
+
+Google todayreleasedthe fifth and last previewAndroid Nougatbefore the scheduled final release later this summer.
+
+According to the company, this preview includes the latest version of the Android Nougat emulator to do apps final testing, the final N APIs, the latest system behaviors and UI and the latest bug fixes and optimizations across the system and pre-installed apps. As far as we know, there are no new user-facing features in this release, though Google has occasionally made minor tweaks to the user interface between developer previews.
+
+The Nougat Developer Preview is now available for Nexus 6, Nexus 5X, Nexus 6P, Nexus 9 and Pixel C devices, as well as General Mobile 4G Android devices (both in the form of over-the-air updates and system images).
+
+To get the preview, no action is needed if you are already enrolled in the Android Beta program: Your devices will get the Developer Preview 5 update automatically. If you aren’t yet enrolled in the Android Beta program, you can still visitandroid.com/betaand opt-in your eligible Android phone or tablet. You also can download andflash this update manually.
+
+“This preview gives developers the near-final system updates for all of the supported preview devices,” the company wrote in a blog post.
+
+The name for Android 7.0 was chosen by fansafter an online survey. As usual, since the release of Android Cupcake, each version of the mobile operating system is named after something sweet: “Nougat” is a confection made with sugar (or honey) that usually contains nuts.

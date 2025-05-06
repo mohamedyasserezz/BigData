@@ -1,0 +1,15 @@
+Microsoft Flow, the company’s IFTTT competitor, comes to Android
+
+Microsoft Flow, the company’s workflow management tool, has now arrived on Android. The app, a competitor of sorts of IFTTT and Zapier, offers an interface where you can mash up two or more services in order to create workflows – like getting a text when you receive an important email, or copying images from Instagram to Dropbox, saving a Twitter search to an Excel file, among other things.
+
+The service itself debuted in April this year, then latermade its way to iOSwith promises of an Android launch in the future.
+
+While similar in spirit to IFTTT and others, the difference is that Microsoft Flow focuses more specifically on integrations with Microsoft’s own business tools, like Office 365, Dynamics CRM, PowerApps, and Yammer, along with other enterprise-friendly services such as MailChip, Github, Salesforce and others.
+
+On mobile, the app is used to monitor and manage the workflows you’ve previously set up on the web. To use Flow on Android, you’ll sign in with your work or school account, says Microsoft, then you can view your workflows, enable or disable them from running configure alerts, check out the workflow history and more.
+
+The app also includes an Activity Feed where you can see all your recent Flow actions, including if there are issues with a given Flow that needs attention. You can search the Feed and filter it, or drill down into the individual results.
+
+The Android application waspreviouslyavailable only to beta testers on an invite-only basis, but now it’s available to anyone via the Google Play store. (However, the app is still flagged as “Unreleased” on Google Play.)
+
+(h/tWinBeta)

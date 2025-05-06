@@ -1,0 +1,27 @@
+RNC braces for cyber attacks
+
+TheRepublican National Conventionkicks off today in Cleveland and the event promises to be unusual. Donald Trump’s campaign has, of course, been controversial, and he’s putting his own strange spin on the event. Major GOP figures havedeclinedto attend, so Trump hasreplaced themwith the likes of Scott Baio and Peter Thiel.
+
+But despite all the shakeups the Trump campaign brings, convention organizers are hoping the event will be consistent with past years in at least one way — they’re expecting the RNC not to suffer any major cyber attacks.
+
+Max Everett, the chief information officer for the RNC, says that, despite Trump’s notoriety, he’s not expecting an increase in cyber threats from past years. “I would say the level of threat has not really changed much from what I’ve seen in the past,” Everett told TechCrunch. He’s organized cybersecurity efforts for the 2012 and 2008 GOP conventions, and worked stints in the Department of Commerce and Department of Homeland Security.
+
+Still, he anticipates the convention being a target for distributed denial of service (DDoS) attacks, which aim to overwhelm servers with traffic so that they can’t function properly.
+
+“That’s the biggest challenge that we see, people trying to do that sort of disruptive activity. We don’t have a lot of data or information that people want to steal. It’s people looking to make a name for themselves, people looking to be disruptive — that’s what we’ve seen historically and that’s what we expect to see here, as well,” Everett explained.
+
+Protecting the convention from cyber attacks isn’t like protecting a company’s infrastructure — news networks, attendees and staff are all connecting several devices to the network, which is spun up and taken down relatively quickly. As Everett noted, there’s also not much personally identifiable information like payment details or Social Security numbers stored on the convention’s network, so theft is not as much of a concern. The biggest challenge for Everett and his team is the sheer number of cameras, phones, laptops and other devices connecting to the network.
+
+That’s whereForeScoutcomes in. The company is providing network monitoring to the RNC with its CounterACT service, which offers network access control and endpoint protection.
+
+“When you have this sort of temporary organization, you naturally think about all the guest devices connecting,” said Katherine Gronberg, vice president of government affairs at ForeScout. “Our product can see that IoT and can classify it. It determines the owner, the user, the operating system, how the device is configured, whether it’s been patched. It can also see the presence of security tools and malware.”
+
+Gronberg’s goal is to prevent the RNC’s network from falling victim to MAC spoofing and malware. Her team collaborated with the RNC to write policies for which devices the network will allow and which will be blocked. Although conversations between ForeScout and GOP officials have been underway for several months, the security company only signed on a few weeks ago.
+
+Trump’s policy proposals have spooked several tech companies into revoking funding or support for the convention — Apple withdrew a$250,000 contribution— but Gronberg says that Trump’s controversial stances didn’t change ForeScout’s decision to work with the RNC. “I’ve heard some don’t want to participate. We didn’t spend too much time dwelling on it,” she said. “[The convention] plays an important role in politics I think that’s why we feel pretty honored to make all this content available to the American public. That’s generally the way we look at it.”
+
+Like many of the tech companies providing hardware and software to the RNC, ForeScout aims to be nonpartisan. The company wouldn’t say whether it’s also providing security to the DNC later this month, but corporations typically sponsor both conventions — Facebook, Google, Microsoft and others are providing tech for the RNC and DNC. Everett said that Apple’s withdrawal hasn’t affected his work, and pointed out that most companies play a neutral role in convention sponsorship.
+
+Trump has famously made a habit ofviolently booting protestersfrom his rallies, and Everett, who provides security consulting to private clients when not working for the convention, sees cyber attackers in a similar light — as perpetrators of violence rather than victims.
+
+“Frankly my experience is that there are people out there who want to do things, like some of these more violent protesters,” he said. “The level of threat activity we’ve seen is really on par with past conventions. A lot of what I’ve seen is really similar to what I’ve seen before, and what they’ll see at the DNC as well.”

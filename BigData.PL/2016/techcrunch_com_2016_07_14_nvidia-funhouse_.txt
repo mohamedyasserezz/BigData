@@ -1,0 +1,21 @@
+NVIDIA releases its own VR game ‘Funhouse’ to the masses through Steam
+
+As of this morning, NVIDIA is in the game publishing business. In its own weird, roundabout sort of way. The company has pushed its first title out to Steam, offering players seven mini-games under the Funhouse umbrella (with a total of ten planned for eventual roll out). But while the Funhouse is as fully playable as one would expect from a Steam-distributed title, it is as much a showcase for the chipmaker’s in-game technologies as it is a proper game.
+
+That’s not to say it’s not fun. It is. It’s pretty much exactly as engaging an experience as you would expect from a septet of carnival-style VR mini-games. You whack moles, you blast balloons above clown heads with a pair of squirt guns, you break inexpensive dishware by hurling soccer balls. If you’ve spent any time in or around a boardwalk, you pretty much get the deal here.
+
+The key, however, is the underlying technology that drove the company to craft each individual game. In fact, while Funhouse is NVIDIA’s first in-house game, the gaming giant has been developing demos along these lines for a while now through its own six-person LightSpeed Studios.
+
+This latest attempt to showcase a suite of VRWorks technologies apparently began life as an underwater demo, before the company switched tracks to something that would be a more real-life analogy for players.
+
+“NVIDIA is always showcasing demos to show off the latest technology,” Funhouse product manager Victoria D. Rege told TechCrunch. “All of our game works, features and toolsets were always building off demos to showcase and highlight the software and hardware and how they work together and bring a more realistic feel to the game.”
+
+The mini-games include an archery game that uses Flow to create a lifelike flame for the end of the arrow and small fires that explode when you connect with a target. The whack-a-mole game utilizes HairWorks to create the frizzy detailed ‘dos of the poor little critters designed for the sole purpose of getting malleted. It’s a nice showcase for the various VRWorks technologies, showcasing them in a manner that brings them to life without hogging the spotlight.
+
+“NVIDIA VR Funhouse started off as a showcase of technology,” says Rege. “And then we realized that it was actually a lot of fun to play. We couldn’t stop playing and we thought that maybe this was something that everyone else would enjoy. That’s how it evolved from a tech demo to an actual game.”
+
+The game is available now for free from Steam. It’s worth the download, because, hey, it’s a free VR download. It’ll be of particular interest for devs looking to find out precisely what they can do with NVIDIA’s latest offers. Speaking of which, the company will be offering up Funhouse as a free demo to developers later this summer.
+
+Also worth a mention is Ansel, the company’s new in-game screen grab tool also first unveiled back in May, which takes highly customizable 360-degree in-game photos that can be viewed with a VR headset. The results are more engaging than screen shots have any right to be, offering a strange sort of serenity when you pop on the VR helmet and stare out into a landscape designed to house non-stop gameplay. Sort of a VR calm before the storm.
+
+The feature is hittingMirror’s Edge Catalyst this morning, courtesy of a new driver.

@@ -1,0 +1,23 @@
+StrongDM raises $3M to keep database info from leaking out
+
+When companies are looking to secure the information they have in their databases, it’s a pretty big challenge no matter how you slice it. Unless you have a large security budget that can manage permissions and figure out who is doing what, you are probably cobbling together whatever technology you can from open source locations,strongDMCEO Elizabeth Zalman says.
+
+So there needs to be a way to make sure all of that stays secure, and only the right people have access to the right information and can manipulate it. That’s where strongDM, a tool for managing permissions and access for databases, comes in. strongDM ensures that information remains silo’d in ways to keep one person from accessing all of the available information — and opening up the possibility of leaking all that information out into the public.
+
+“If you think about it, it’s not just one file that contains a list of customer email addresses, we’re talking about a breach of your database,” Zalman said. “That contains the crown jewels of your business. Right now it’s super hard to figure out who has access to what, and there’s no easy way to revoke access when an employee leaves. And once someone is in the database, it’s nearly impossible to figure out what they’re doing.”
+
+All of this is important to prevent internal leaks, such as one part of a company getting access to too much of the internal data and opening up the possibility of all of it being stolen in a simple hack like a phishing scheme. Zalman said that while the company started off as one with broader analytics tools, it became clear that the companies they were working with wanted to prevent leaks above everything else.
+
+Companies with strongDM can also very closely track changes that are happening — such as who is making queries or changes — in order to ensure that the right people have access to the right information.
+
+Each individual database technology may also have different monitoring tools, making the whole process of figuring out who has access to what difficult — as well as revoking those permissions. As they look to expand, strongDM has raised an additional $3 million in financing from True Ventures, with existing investors Bloomberg Beta, Laconia Capital Group, Social Starts, and Jerry Neumann and some of its clients.
+
+The actual workflow doesn’t change all that much, Zalman said. Users will go into strongDM in order to make their queries or changes, and they’ll still be able to get the same information. If they try to overstep their boundaries — such as a marketing team trying to update or drop a table — then they’ll get an error thrown at them that they don’t have permission to do that.
+
+And of course, there’s always the risk that when someone leaves a company, they’ll bolt with all the data they can get. Instead of ensuring that companies are securing that information internally and ensuring it doesn’t get on the wrong hands, they are focused on preventing outside hacks, Zalman said.
+
+“Think about it this way, you’re a marketing person and you’re leaving for a competitor, you could just log in and download all that, and you would have no idea that someone did that,” Zalman said. “In the database case, you would have just given someone access to your crown jewels. The reason so many people haven’t been talking about this is so much is focusing on the perimeter.”
+
+Another benefit of deploying a technology like strongDM is that they can ensure that engineers — especially ones with large salaries — can spend their time more effectively instead of having to manage database access for a company’s employees. For Zalman and strongDM, the big job will be to ensure that it makes it easy to manage all that information and protect it before the larger providers figure out a way to unify that kind of monitoring and provisioning.
+
+“Unless you have a seven-figure security budget and dedicated staff, we are the only option to define and monitor access to any database in a single place,” Zalman said. “Otherwise admins are forced to cobble together open source options on their own to cover creation, management, and monitoring.  Credential creation would be managed through scripts [like Chef or Puppet], management would ad-hoc with no record of changes, and monitoring requires database-specific plugins that are hard to install and costly to performance. And then you need to patch all of that together.”

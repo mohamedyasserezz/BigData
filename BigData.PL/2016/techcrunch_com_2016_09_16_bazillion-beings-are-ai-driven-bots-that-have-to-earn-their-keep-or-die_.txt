@@ -1,0 +1,25 @@
+Bazillion Beings are AI-driven bots that have to earn their keep… or die
+
+Back in March Microsoft CEO Nadella announced “Bots are the new apps” while The Economist calls chat bots “the next frontier”. So that’s the hype taken care of but what does a bot-driven world look like, especially in the context of the Artificial Intelligence that’s theoretically supposed to drive them?
+
+Bazillion Beings, a company exhibiting in Startup Alley at TechCrunch Disrupt in SF today, thinks it has an answer. They are creating what they call an “independent online life form” or “Lifo” (life form) in the form of bots that are designed to replace simple apps. Think of little artificially intelligent entities that offer services to users.
+
+Despite being pretty unheard of, the startup has signed up some interesting people to its board such as Stephen Wolfram, CEO of Wolfram Research, Raffi Krikorian, Head of Engineering at Uber, and former Twitter VP and Alex Seropian, creator of the Halo video game and former Disney VP.
+
+So what are these intelligent bots? Well, they are algorithmically generated mashups of public APIs and other microservices that in turn create new services. And there is a sort of ‘survival of the fittest’ approach going on here.
+
+If a given bot can monetize its services enough to cover its server costs, it survives. If it makes excess revenue, it’s cloned by the Bazillion Beings community, with possible improvements. Over time, the most successful bots adapt to the preferences of individuals through machine learning, and — in theory — the population of bots evolves to add more value to users and API providers.
+
+Bazillion Beings reckons this new ecosystem of intelligent bots could ultimately replace a traditional app store.
+
+What’s the problem they are solving? The idea is that simple smartphone apps are inefficient and intelligent bots would be faster and eventually better at providing services.
+
+The internet is now a much more machine-friendly place, the API economy is booming, so there is untapped potential that could be unlocked with AI-driven bots in a decentralized architecture built with blockchain technology.
+
+What does Bazillion look like today? It’s a iOS app which acts as a bot browser – a portal through which you can discover, bookmark, subscribe to and use bots. It also has the tools to clone, combine and transform bots to create new ones.
+
+Lifos are designed to be people-friendly, socially active bots that combine interfaces to sites like Facebook, Yelp or YouTube, to provide services to people. One of them might post daily blog entries for you. Another will coordinate among your Facebook friends to create a SoundCloud playlist and then tweet that as a birthday gift, or it might introduce you to people or create artwork using Wolfram Alpha and upload it to a Tumblr blog. Each lifo is created algorithmically and is different form all the others.
+
+If Bazillion sounds more like a sort of autonomous IFTT that’s ok, because IFTT could well be a competitor eventually, as well as Siris and Cortana. Then again the Bazillion model might look like the kind of things those guys would buy.
+
+So far it’s raised a small seed round and is raising a Series A.

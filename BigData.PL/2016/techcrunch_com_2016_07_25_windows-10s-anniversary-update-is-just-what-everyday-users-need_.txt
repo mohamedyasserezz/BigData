@@ -1,0 +1,33 @@
+Windows 10’s Anniversary update is just what everyday users need
+
+It can’t be disputed: Windows 10 has been a wild success for Microsoft, after being installed on more than 350 million devices. To mark this, August 2nd is the release of the Anniversary Update which brings a slew of tweaks, fixes and new features.
+
+I
+
+Before I move on, fun fact: it took 25 PC builds and 16 mobile builds for Windows Insider Program participants — the highest engagement from both testers and Microsoft ever seen with this version of the OS.
+
+If you care for nothing else of this update, just know that there’s a “dark mode” in Windows now (finally). However, with an update this big it might be worth updating your computer, for once.
+
+The first of new features to debut is Windows Ink: an icon on the taskbar, which turns into a hub and is meant to further the interaction of pen-enabled Windows devices, like Surface computers.
+
+It offers integration with Office, Cortana and Microsoft Edge, as well as Adobe. Taking notes, sketching on screenshots, drawing ideas, setting Sticky Note reminders with Cortana; those sorts of tasks.
+
+All these software interactions share one thing: a pen. Basically, Microsoft thought that it’s best to have an area of the system dedicated towards educating the user about the different things your digital pen can do with Windows 10.
+
+It might not be exciting, but it does bring organization, something that Windows always needs.
+
+Security is a hot topic (and will stay one) for personal computers. For that, Microsoft has extended its fantastic Windows Hello facial recognition tech beyond the lockscreen. Apps like DropBox, iHeartRADIO and the Edge browser will allow for facial logins.
+
+There are also alleged improvements to the recognition itself, now being able to distinguish between twins, providing adjustments for growing children, and the option to save multiple profiles (e.g. one profile with glasses and other without). Also, to avoid accidentally logging into a system the moment you look at it, Microsoft is adding interactions — tapping the screen, nodding your head — to add a physical additional layer of security.
+
+Also Windows Defender (if you’ve used or heard of it), will begin automatic periodic scans for malware, as well as notifications of threats and scans; I suppose this is cool.
+
+Last but not least of the major additions are the changes made to Cortana.
+
+The virtual assistant now exists above the lock screen, so you can ask questions, play music, set reminders and the like, without needing to proceed to the desktop immediately. Cortana can also save and recall information you recite to it (say, an ID number) or search within docs.
+
+But here’s the best thing the Anniversary update did for Cortana: it can move seamlessly between devices now (Windows 10, iPhone, Android and Cyanogen) where things like navigation or notifications can be sent from PC to mobile.
+
+With the Anniversary Update, Microsoft is not only adding features but also cleaning up existing elements of the system. Things like the Action Center, the Windows Store, a new emoji keyboard, game hubs within the Xbox/gaming app, and the (again) redesigned Start menu, have experienced fixes and tweaks that even from first glance, make Windows a little better to use.
+
+The update arrives for free on August 2nd.

@@ -1,0 +1,17 @@
+According to Apple’s official figures, iOS 10 adoption rate now at 54%
+
+Apple has unveiledits own official measurements for iOS 10 adoption, which comes in at 54 percent. That means the majority of iOS device owners are running the new mobile operating system. What’s interesting, however, is how different Apple’s official figures are fromthe third-party estimates released earlier this week,which saw much higher adoption among their install base – as high as two-thirds, in fact.
+
+According totwo different sources– Mixpanel and Fiksu – iOS 10 was installed on roughly 66 percent of devices, the firms found. Both data sets are based on apps that use the company’s SDK. In Fiksu’s case, the company reports data sampled hourly in batches of approximately 10 million events, filtered to count unique devices; Mixpanel, meanwhile, claims its reported is “generated from  300,083,243,931 records.” This equates to a sample size of hundreds of millions of unique users, Mixpanel tells us.
+
+In Apple’s case, however, it calculates iOS adoption rates by App Store visits. That’s a more accurate means of making a determination, as it doesn’t require that users have an app installed on their device running a specific SDK from a third-party.
+
+According to Apple’s data, 54 percent are now on iOS 10, 38 percent remain on iOS 9, and only 8 percent are running an older version of the iOS mobile operating system.
+
+Also of note, we’ve confirmed that Apple did not prompt users to upgrade their devices for the first two weeks the iOS update was available – a delay that was spotted in the charts from the third-party firms, as well. Adoption rates spiked sharply toward the end of September, which is when the alert notifications started hitting users’ devices.
+
+The decision to delay the upgrade notifications was made to ease the strain on Apple’s infrastructure and its Apple Care support teams, we understand. This is the first time Apple has implemented a new policy of delaying the upgrade notifications in order to allow for a smoother, if slower, iOS rollout. After the initial rush of upgrade activity died down, only then did the company begin to alert users who had not yet updated that an upgrade was available to them.
+
+Despite this delay to notify users, now more than half the active user base moved to iOS 10. For comparison’s sake, Android 7.0 “Nougat,” which arrived several weeks ahead of iOS 10, is only installed on 0.1 percent of devices. The prior release, Android 6.0 “Marshmallow,” is still present on 18.7 percent of devices, and other previous versions still have a good chunk of the overall pie as well.
+
+In part, this is because Android updates are handled by the manufacturers and carriers, not Google directly, in most cases. This hashistorically been a huge issue for Google, not only because of security reasons, but also because it fragments the ecosystem, and makes it difficult for Google to get its entire install base using the same features and tools. Even with its new flagship Pixel phones, Google isallowing Verizon to handle all system updates, except for security patches, the company says.

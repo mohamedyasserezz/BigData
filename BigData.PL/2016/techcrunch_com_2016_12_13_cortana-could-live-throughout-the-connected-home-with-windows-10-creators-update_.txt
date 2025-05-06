@@ -1,0 +1,9 @@
+Cortana could live throughout the connected home with Windows 10 Creators Update
+
+Microsoft’s virtual assistant might soon appear in a whole lot more places — wherever there’s a screen and the ability to run Windows 10 IoT Core, the lightweight version of Windows 10 that’s designed for things like refrigerators and connected thermostats. At a recent event as detailed byMSPoweruser, Microsoft revealed that Cortana will be available to any device running that OS that also has a display, which could help the assistant reach deeper into everyone’s daily lives.
+
+The ability to use Cortana for these devices is coming as part of the upcomingCreators Update, the next big bump for Windows 10, which includes a number of improvements, like 3D graphics creation built into Paint. Cortana’s powers will also include the ability to turn on devices that are asleep when greeted by voice cues, and a new feature that enables use of voice from up to 4 meters distance — around 13 feet, or enough to easily span the average room.
+
+Cortana could become a competent competitor to Amazon Alexa with these new powers and these new hardware endpoints, which would help give Microsoft more of a presence in the connected home. Of all the virtual assistants out there, Cortana is still lagging behind its competitors, including Google’s voice assistant and Siri, mostly because it lacks the reach those two have owing to their presence built-in on mobile devices in daily use at high volumes.
+
+Microsoftpreviously announcedprojects that will incorporate Cortana smarts in connected devices, but that’s different from the assistant itself. We’ll still have to wait a while to see Cortana the assistant in smart-home appliances, however; the Creators Update is coming early next year, but it’s unlikely IoT OEMs will turn around shipping products with Cortana on board all that quickly following that launch, allowing for testing and spinning up production.

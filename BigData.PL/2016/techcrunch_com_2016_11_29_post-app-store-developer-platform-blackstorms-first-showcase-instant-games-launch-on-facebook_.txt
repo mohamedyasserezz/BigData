@@ -1,0 +1,25 @@
+Post-App Store developer platform Blackstorm’s first showcase instant games launch on Facebook
+
+In Ernestine Fu’s future, you shouldn’t have to wait more than a few seconds to launch a game or an app to connect with a friend. In fact, a few seconds might even be too long.
+
+That’s what prompted the birth of Blackstorm, a development platform that has the tools to build high-fidelity applications — the same you might get from an app in the App Store — in HTML5 and run within different environments like messenger apps and browsers. After launching a games studio earlier this month, the company is now rolling out some initial titles that it built internally on that technology on Facebook’s Instant Games.
+
+The table stakes behind a platform like this, and the games Blackstorm are launching, is that they are able to load “instantly,” just like Facebook’s name for the product. To do that, Blackstorm has built a suite of customized tools to ensure that all the assets and game components are able to load very quickly utilizing all of the available technology in HTML5 with little data, and still maintain a level of fidelity that you’ll see in traditional apps like particle effects and a large number of sprites on the screen.
+
+“The biggest thing is, how do we actually allow for rapid development and really pushing the limits on the technology that’s available,” Fu, co-founder of Blackstorm, said. “Pushing the limits in terms of what we can actually create and show visually. The Facebook platform, specifically with the launch they’re doing is, the game experience has to truly instant from the moment the user touches play. This is way different from the app store experiences we’re used to. The entire game needs to basically fit in 5MB of space.”
+
+There are two games coming out today. The first is one called EverWing, a game where you take control of a group of fairies to fight off monsters — in a fashion that looks similar to some classic overhead ship-based games but with more of a fantasy flair and a wide branching adventure beyond the main gameplay.
+
+The second is one called Puzzle Bobble Blitz. That “Bobble” part should ring a bell — Blackstorm is working with Taito’s IP to build a puzzle bubble-popping game, an offshoot of the classicBubble Bobblethat’s adapting to a new kind of gameplay that’s been popularized in the past decade on mobile devices.
+
+“I think a lot of this have grown up playing some sort of version of this game,” fu said. “This is a super polished version of this game that now you can play with your friends on Facebook, which we find very exciting. I think it’s a game that a lot of people have a lot of fondness for.”
+
+Part of the core competitive effort lies within a leaderboard system that’s constantly updated. If you’re playing with another friend in a messenger thread, you’ll have access to a constantly updating leaderboard. In larger groups, Blackstorm has what’s called a “Blackstorm Battle Group” where everyone can see each others’ high scores, again tapping into that competitive aspect.
+
+Of course, tapping into Facebook’s Instant Games is just the start here, though it immediately puts games like this in front of billions of people — whether through messenger or news feed. But for Blackstorm, part of the goal is to be the technology behind the curtain that powers the development of games, and other applications, like these that slot into experiences that demand the apps load instantly within different environments.
+
+The games Blackstorm is building are currently built through an internal development environment the company developed and invented. It’s similar to Xcode, Fu said, and over the next few weeks and months they’ll probably be allowing the IDE and developer tools to be available to more people outside of Blackstorm, she said.Blackstorm earlier this year said it raised $33.5 million in venture financing, and the company’s advisors include Sega of America chief Tom Kalinske (thanks for Sonic the Hedgehog!), Zynga co-founder Justin Waldron and Playdom CEO John Pleasants.
+
+Getting those developers on board will, of course, be a challenge. The App Store is still the largest distribution method for games or other applications, and peeling them away into a new developer environment and taking the risks on going to a new platform can be very high. And once developers get their games into the hands of players through the App Store, they can cross-promote to their other games.
+
+But all of these opportunities are thanks to the App Store being unwieldy and requiring a lot of upfront effort — like downloading games that are hundreds of megabytes in size — and the proliferation of messenger platforms and other alternative services where users live in. Apple has made a lot of effort to make the App Store experience more seamless, and it may figure out a way to make it easier enough to use that people will continue to come back over and over, but at the very least it’s given Blackstorm an opening to try to build something akin to what development looks like after the App Store.

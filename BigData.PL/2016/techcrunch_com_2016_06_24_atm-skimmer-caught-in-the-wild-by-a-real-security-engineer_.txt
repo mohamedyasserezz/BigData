@@ -1,0 +1,11 @@
+ATM skimmer caught in the wild by a real security engineer
+
+[youtube=https://www.youtube.com/watch?v=ll4f0Wim4pM]
+
+Whoda thunk it? Tourist/cybersecurity expertBenjamin Tedescowas hanging out in Vienna when he walked up to an ATM. Because he trusts no one he decided to give the reader a little tug and came away with a working skimmer designed to look exactly like the card slot on the original machine.
+
+“It pays to be paranoid,” he said — and he’s right.
+
+Tedescopulled off the skimmer and took some pictures of it and will try to reverse engineer it when he heads back home (presumably with the credit card data still on it). Some Reddit users have spotted the pinhole camera that the hackers used to grab PIN codes, as well, a feature that lets full cards be stolen in seconds.
+
+Again: Any time you use an ATM, please check it. There are triggers in place that are supposed to prevent the installation of tools like these, but sometimes they don’t work and hackers are getting craftier. Always tug, rub and pull ATMs in the wild — even if it feels weird.

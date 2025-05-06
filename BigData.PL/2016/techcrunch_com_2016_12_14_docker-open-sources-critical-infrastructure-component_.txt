@@ -1,0 +1,21 @@
+Docker open sources critical infrastructure component
+
+Dockerannounced today that it wasopen sourcing containerd(pronounced Container D), making a key infrastructure piece of its container platform available for anyone to work on.
+
+Containerd, which acts as the core container runtime engine, is a component within Docker that provides “users with an open, stable and extensible base for building non-Docker products and container solutions,” according to the company. Leading cloud providers have signed on to work on it including Alibaba, AWS, Google, IBM and Microsoft.
+
+For now, Docker has not announced the foundation that will house the open source project, but they intend to put it in a neutral foundation some time during the first quarter of 2017.
+
+Solomon Hykes, Docker’s founder and CTO, says a foundational principle of the company has always been about putting the end user first and the plumbing second, and this moves a critical piece of the plumbing into the open source community. “We’re spinning out containerd to make it accessible across the board, and we are doing it in concert and with input from the ecosystem,” he explained.
+
+“As of [today] we have acompletely new repo for containerd, separate from Docker, with details around contribution needs and an explicit road map,” Hykes told TechCrunch. By donating the containerd code to a foundation to manage in a neutral open place, it will allow major cloud vendors to collaborate on it, he explained.
+
+Hykes says this is a big deal because there has been a lot of demand from the community to spin this piece out and open source it, but because of the technical complexity, it’s only been able to do it now through modularizing the various components in the platform.
+
+Docker clearly didn’t want to be completely responsible for what it called, “the boring infrastructure pieces” and this allows the company to concentrate more on its core developer customers. In fact, the company has been moving various pieces of the underlying plumbing into open source for the last couple of years with the goal of standardizing these pieces across systems.
+
+But it also appears to want to placate critics in the open source community by emphasizing its commitment to the Open Containers Initiative (OCI) standard.
+
+“We’re making it a point to make it clear that we do support open standards,” Hykes said. “We are renewing and clarifying complete support to OCI. The goal is to reassure the open source community that we understand what they are looking for and we are going to deliver all of it,” he said.
+
+He’s hoping this announcement will end the debate around these issues in the open source community and allow the company to focus on building products.

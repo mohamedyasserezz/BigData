@@ -1,0 +1,15 @@
+Real-time motion capture system from Disney Research uses as few sensors as possible
+
+Serious motion capture setups often involve dozens of optical markers, inertial sensors or both, making them a pain to set up and tear down, and producing a ton of data.This Disney Research projectproduces high-quality results from just a handful of sensors by making some smart assumptions about how the body works.
+
+The researchers noted that all kinds of things can prevent the ideal number and placement of sensors, while occlusion of markers, costumes, bad lighting and other factors can also get in the way. What they propose is a minimal system that still produces good real-time results.
+
+In their system, one inertial unit is put on each hand, one on each foot and one each on the head and tailbone. Optical markers in the same places offer a way to reconcile relative motion measured with absolute position as seen by a reference camera.
+
+They can get away with having so few sensors because the data they send is put into a physics-based model that knows a little bit about how the body moves. Based on the position of the markers and the forces they detect, it computes a “physically plausible” position and motion, double checked with a set of known motions, joint positions and poses to be sure it isn’t something weird.
+
+So even though there’s no sensor saying the elbow isn’t bending backwards or the knee’s torqued in some weird way, the system can infer that’s not the case because its simulation of the body doesn’t permit it. In the image up top, the blue man is the ground truth produced by a normal suite of sensors; the green man is what the model computed, and the yellow man — occasionally quite janky — indicates frame by frame the “motion priors” being used to help out.
+
+The minimal setup and real-time feedback, the researchers suggest, would be helpful in motion-capture scenarios and virtual reality. Body tracking done via Kinect or headset sensors is limited in many ways, but it’s no use replacing it with a 50-part system that takes an hour to apply, or a full-body suit. On the other hand, a couple of elastic bands with sensors are easy to put on or take off, and the results likely more than good enough for everyday VR applications.
+
+The paper describing this system was presented today at theConference on Visual Media Productionin London.

@@ -1,0 +1,15 @@
+LaunchKit team heads to Google and open-sources its tools for helping devs launch their apps
+
+The team behind LaunchKit, a set of tools that helps developers launch their apps,is heading to Googleand joining theDeveloper Product Group.
+
+It doesn’t look like LaunchKit’s products are moving over to Google, so the team decided toopen-source its productsand make them available on GitHub. LaunchKit’s hosted services will be available for the next 12 months. After that, they will be discontinued.
+
+LaunchKit currently offers four tools and developers will now be able to take them and run them themselves: Screenshot Builder for easily creating annotated screenshots for Apple’s and Google’s store, App Website Builder for creating responsive landing pages for new apps, Review Monitor for — well… — tracking reviews in Apple’s App Store, and Sales Reporter for keeping track of sales. The team has also written a couple ofhow-to guidesfor developers, too.
+
+Launchkit itselflaunchedin early 2015 and was co-founded byBrenden Mulligan,Taylor Hughes, andRizwan Sattar. They previously builtClusterand a number of other apps for bothiOSandAndroid.
+
+The team says LaunchKit has generated over a million screenshots for developers and startups have used it to build over 8,000 websites. In total, over 50,000 developers have now used one or more of its services.
+
+It’s unclear what exactly the LaunchKit team will do at Google. In today’s announcement, the team says it will focus its “efforts on building great developer tools at Google.” Given this announcement, though, I wouldn’t be surprised if Google launched a set of tools similar to LaunchKit’s in the near future.
+
+The team raised a total of $2.2 million ($1.6 million for Clusterand an additional $600,000 after it decided to focus on LaunchKit). The company’s investors include Baseline, Freestyle, First Round, SV Angel, GV (formerly Google Ventures), Sherpa, and a number ofangel investors.

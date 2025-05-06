@@ -1,0 +1,17 @@
+Cognovi Labs is watching the U.S. Presidential Election with its predictive, social sentiment tool
+
+Having followed the election goodness ofCognovi Labsfor the last couple of months, it is interesting to see the startup spring into action as this unprecedented election season has unfolded upon us. The Dayton, Ohio startup—which is also part of theIKOVEVenture Partners “Startup Nursery”—uses a combination of human and machine learning to interpret Twitter traffic in a way that it can predict not only sentiment, but also quantify a range of emotional reactions whole regions of the world are collectively feeling. The startup is following a host of election results today and will be publishing the resultson their Twitter feed this afternoon.
+
+According to the company, this emotional analysis has been useful to understanding people’s emotional reactions to events or happenings and the predictive nature of it has many potential uses (financial markets, news gathering and elections all come to mind here). For example, the startup successfully used their near-real-time tool, called Twitris, tosuccessfully predict the Brexit vote hours earlier than traditional polling companies.
+
+As the company analyzed the three presidential debates this year, their research scored the emotional reaction of the U.S. population confirming that neither candidate are necessarily well liked (not a big surprise). Twitris offers an interesting way to understand and quantify something nebulous like a debate which doesn’t necessarily have a distinct winner or loser.
+
+But Twitris can gather regular old sentiment as well and in speaking with founder Dr. Amit Sheth and CEO James Mainord this week, the company are seeing some interesting sentiment-based insights.
+
+Ahead of election day, Cognovi Labs were identifying presidential candidate sentiment and volume distribution leaning toward Clinton on November 5 – 6 (controlled for tweets identified and located in the battleground state of Florida (346,837 tweets) normalized to account for bots, RT, and other distortions). Though 60% of the tweets were about Trump, he trailed Clinton in sentiment throughout the duration of the weekend with the latter averaging 52.7% and the former at 47.3% (Hourly Standard Deviation noted in error bar)
+
+Essentially the company’s tool was showing that, based on sentiment discussed digitally on Twitter, that Clinton is leading in the must-win state of Florida and hence, possibly the election as a result.
+
+On Monday the company was tracking that if Trump wins Florida then he has a possible path to 270 electoral votes. If he loses Florida then there Clinton’s victory is largely inevitable. This analysis will highlight findings from Nov. 5-6 leading into the final two days, looking at multiple statewide indicators to gauge how Florida will move.
+
+The startup is following many other down-ballot election contests on theirTwitter feed todaytoo and it’s interesting to follow along. If any big upsets are predicted, I’ll update the post today.

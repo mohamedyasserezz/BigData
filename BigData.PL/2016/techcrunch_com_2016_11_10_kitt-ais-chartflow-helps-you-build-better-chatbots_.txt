@@ -1,0 +1,17 @@
+Kitt.ai’s ChatFlow helps you build better chatbots
+
+The current generation of chatbots is, at best, disappointing.Kitt.ai, which is launching its private beta today, hopes to change that. The team of three AI PhDs that founded the company believes that itsChatFlow frameworkwill make it easier for developers to build useful chatbots that can work on multiple platforms and easily hold multi-turn conversations.
+
+Seattle-based Kitt.ai started with a focus on Amazon’s Alexa platform (and received funding from theAlexa Fund) and participated in Paul Allen’sAI2 incubator program.
+
+Before turning its attention to ChatFlow, though, the team worked on asmaller projectfor hotword detection (think “OK, Google” or “Alexa”). In some way, that’s no surprise, given that co-founder Guoguo Chen worked on some of thefundamental technology behind “OK, Google”while he was interning at the company.
+
+With ChatFlow, though, Kitt.ai isn’t just launching a basic chatbot platform. It’s combining a slick point-and-click chatbot builder with its homegrown natural language understanding engine (which Kitt.ai co-founder Xuchen Yao believes is on par with Microsoft’s luis.ai and Nuance’s nlu.mix). Its secret weapon, though, is its focus on multi-turn dialogs.
+
+The team argues that while services like Wit.ai did an excellent job at democratizing natural language understanding (NLU), that technology is now table stakes. “NLU is now a commodity — it’s an infrastructure service,” Yao, who co-founded the company with Chen and Kenji Sagae, told me. “But nobody is doing dialog right.” He believes that Kitt.ai’s competitors are mostly layering dialog support on top of existing NLU projects. “But to do dialog right, you need a completely new approach,” he said.” The traditional way of programming dialog is to draw a dialog on a whiteboard and input that.” Kitt.ai’s interface cuts out that step and allows developers to draw the diagram as they are implementing the code.
+
+Developers will be able to integrate their bots with virtually any existing API. The team already set up sample applications that show off integrations with the likes of Uber, Lyft and Yelp.
+
+It’s worth noting that Kitt.ai only provides you with the tools to write a chatbot — it doesn’t program one for you. “But we understand how difficult it is to program a good chatbot,” Yao said. “Or — in other words — how easy it is to screw up and write a bad one.” Looking ahead then, the team also wants to make it easier for developers to test their chatbots. While Yao didn’t want to go into the details of Kitt.ai’s plans, he did say the company’s roadmap includes a framework for making testing chatbots and their responses easier (or maybe even automatic).
+
+ChatFlow currently supports Alexa, Facebook Messenger, Kik, Skype, Slack, Telegram and Twilio. If you want to give it a try, you can sign up for the betahere. Yao said the service will likely remain in private beta for a while. After that, the team plans to follow Atlassian’s freemium model with free or cheap access for individual developers and small teams, and higher charges for enterprise customers.

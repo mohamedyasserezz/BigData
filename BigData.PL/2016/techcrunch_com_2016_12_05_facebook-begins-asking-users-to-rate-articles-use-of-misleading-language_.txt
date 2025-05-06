@@ -1,0 +1,19 @@
+Facebook begins asking users to rate articles’ use of ‘misleading language’
+
+A survey asking users about “misleading language” in posts is the latest indication that Facebook is facing up to what many see as its responsibility to get a handle on the fake news situation. At least part of its solution, it seems, is to ask users whattheythink is fake.
+
+The “Facebook Survey,” noticed byChris Krewsonof Philadelphia’sBilly Penn, accompanied (for him) a Philadelphia Inquirer article about the firing of a well-known nut vendor for publicly espousing white nationalist views. (It’s a small town, everyone knows everyone.)
+
+Facebook is asking whether this@PhillyInquirerheadline is fake?pic.twitter.com/cCUpwtvQlS
+
+— Chris Krewson (@ckrewson)December 5, 2016
+
+“To what extent do you think that this link’s title uses misleading language?” asks the “survey,” which appears directly below the article. Response choices range from “Not at all” to “Completely,” though users can also choose to dismiss it or just scroll past.
+
+Facebook confirmed to TechCrunch that this is an official effort, though it did not answer several probing questions about how it works, how the data is used and retained, and so on. The company uses surveys somewhat like this totest the general quality of the news feed, and it has used other metrics to attempt todefine rules for finding clickbaitand fake stories. This appears to be the first direct coupling of those two practices: old parts doing a new job.
+
+The feature could be seen as Facebook being transparent in how it is training its algorithms to detect misleading headlines, but is also an example of using its user base as, essentially, a rich well of free data into which it can dip its bucket any time it wants and on its own terms. And what it does with the contents of that bucket is anyone’s guess.
+
+Furthermore, because users are the ones propagating the fake news to begin with, it’s a curious decision to entrust them with its classification. The inmates are being invited to run the asylum, it seems, or at least there’s going to be a bit of A/B testing.
+
+Facebook’s handling of the proliferation of fake, misleading and clickbait posts has been the subject of widespread criticism. CEO Mark Zuckerberg has posted personally on the topic, but thedefensive and dismissive posturehe adopted early on seemed only to obfuscate the issue and incense critics. Another post a week later wasmore constructive, but the fact is hardly anyone knows exactly what needs to be done — althougheven the president seems to agreethatsomethinghas to change.

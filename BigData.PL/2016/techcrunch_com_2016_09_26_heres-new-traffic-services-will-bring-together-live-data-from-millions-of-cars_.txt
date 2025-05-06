@@ -1,0 +1,9 @@
+HERE’s new traffic services will bring together live data from millions of cars
+
+Crowdsourcing live traffic data has been one of Waze’s key competitive advantages in navigation software for a while, but Germany’s HERE might give it a run for its money with new services that pull traffic info from cars on the road.
+
+The data gathered by Here’s upcoming traffic services, which it’s set to debut during the first half of 2017, will take info from company co-owners BMW, Daimler and Volkswagen (who acquired HERE from Nokia last year), with plans to bring more carmakers into the network. Data gathered will include “detailed video views” of things like traffic tie-ups, accidents, fog or other inclement weather and construction slow-downs,according to Reuters.
+
+The data collected also includes braking info, windshield wiper activation, headlight use, location info and other sensors, all of which will be used to help create an alert system that will be translated to other vehicles via HERE’s dashboard services. HERE says that this will give it an advantage over other mapping providers, including Google, Apple and Tesla, because of the volume of their fleet. And, since it depends on passive transmission of data from cars, into which it’s actually integrated, it should also help it exceed Waze’s volunteer network of active reporting participants.
+
+HERE doesn’t make mention of this, but this system could be instrumental in helping pave the way for autonomous driving systems. One of the key ingredients to successfully fielding self-driving vehicles is dealing with real-time road conditions, which are always changing, and any system that can provide insight on that with a scale of millions of vehicles feeding in info will definitely prove an advantage there.

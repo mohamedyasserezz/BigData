@@ -1,0 +1,29 @@
+Firefox users chalk up HTTPS encryption milestone
+
+A majority of Mozilla users were served encrypted pageloads for the first time yesterday, meaning their web browsing data was secured from snoopers and hackers while in transit.
+
+The HTTPS milestone was tweeted by Josh Aas, head of theLet’s Encryptinitiative which has been working to help smaller websites switch to encrypting their web traffic.
+
+https://twitter.com/0xjosh/status/786971412959420424
+
+Mozilla, which is one of the organizations backing Let’s Encrypt, was reporting that 40 per cent of page views were encrypted as of December 2015. So it’s an impressively speedy rise.
+
+That said, there are plenty of caveats here — the biggest being it’s just one browser, Mozilla’s Firefox, which lags far behind the dominant default browsers of the mainstream web.
+
+Statistapegs Firefox at just a 7.77 per cent global marketshare for July 2016 vs 49.5 per cent for Google’s Chrome and 13.68 per cent for Apple’s Safari browser.
+
+Add to that, is also only a subset of Firefox users who are running Mozilla’s telemetry browser performance reporting feature.
+
+The telemetry feature is also not default switched on for most Firefox users (only for users of pre-release Firefox builds).
+
+And it’s just a one-day snapshot.
+
+All of which is to say the sample here is certainly very salami sliced and clearly not representative of mainstream web usage. So, while the speed of the shift to HTTPS among this user group is noteworthy and encouraging, there’s still plenty of work to be done to make encrypted connections the rule for the majority of web users and web browsing sessions.
+
+The Let’s Encrypt initiative, whichexited beta back in April, is doing some of that work by providing sites with free digital certificates to help accelerate the switch to HTTPS.
+
+According to Aas, Let’s Encrypt added more than a million new active certificates in the past week — which is also a significant step up. In the initiative’s first six months (when still in beta) it only issued around 1.7 million certificates in all.
+
+https://twitter.com/0xjosh/status/786942112910544896
+
+As well as carrots there are sticks driving websites to shift to HTTPS. One of which is Google, which has said it intends toflag unsecured connections in its popular Chrome browser— thereby brandishing the threat of a traffic apocalypse for sites that do not roll out encryption.

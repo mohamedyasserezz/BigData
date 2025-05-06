@@ -1,0 +1,19 @@
+Microsoft announces GA of Dynamics 365 with AI features
+
+We’ve been hearing all artificial intelligence, all the time from the Customer Relationship Management (CRM) industry over the last several weeks. Microsoft is the latest to trumpet its AI capabilities for sales people with the general availability ofDynamics 365coming on November 1st.
+
+Microsoft announced last summer thatit was going to be combining its ERP and CRMinto a unified solution, and this is the culmination of that announcement. Like many large organizations, Microsoft tends to deliver the news in waves — it’s coming, it’s in beta, it’s here.
+
+While the news smacks of “look at me too,” Microsoft points out it has been working on AI long before its biggest competitors like Salesforce and Oracle, which recently announced their own AI capabilities at their respective customer conferences,DreamforceandOracle Open World.
+
+Microsoft has built in a couple of intelligence features into the release designed specifically for sales and service personnel. First, there is Customer Insights, a stand-alone cloud service, which enables users to bring in a variety of internal and external data sources. Companies can integrate all of this data with internal metrics (KPIs) to drive automated actions based on the data. The solution includes partner data from the likes of Facebook and Trip Advisor (proving you don’t need to own an external data source to take advantage of it).
+
+It’s been designed as a stand-alone service that can work with any of the Dynamics 365 CRM components — sales, customer service or field service — and can also work with any external CRM tool with open APIs. This last point is particularly telling because it’s giving customers who might not be using Dynamics 365 (but are using other Microsoft tools like Outlook) access to this feature.
+
+The second piece is called Relationship Insights, which as the name suggests gives sales people information about the status of their customer relationships at any given moment. It’s built on the onthe Cortana Intelligence Suite, which Microsoft introduced in 2015 and uses tools like sentiment analysis to check on the likelihood of the deal closing and the next best action to take.
+
+If this sounds familiar, it should because it’s very similar to what we’ve been hearing over the last month from a variety of CRM vendors. While you might legitimately wonder why sales and service people are the recipients of all the wonder that is AI in the enterprise, it seems like a reasonable starting point to improve the likelihood of making sales and understanding your customers better, an increasingly important capability in the mobile-social-cloud age.
+
+It’s important to remember that we are really just at the rudimentary beginnings of where this type of technology could eventually take us. Over time we will see this intelligence added to bots (and other delivery methods) to hide the complexity of the underlying software and guide users to an answer or solution. The idea is to increase our productivity over time, although we are a long way from achieving that goal just yet.
+
+For now, know that Microsofthas consolidated its artificial intelligence toolsinto a single, coherent division and just about every vendor — not just those selling CRM — is trying to build some level of intelligence into its products. Dynamics 365 is just the latest manifestation.

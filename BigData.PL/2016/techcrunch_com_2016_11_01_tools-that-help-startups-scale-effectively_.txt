@@ -1,0 +1,23 @@
+Tools that help startups scale effectively
+
+If you wanted to start your own tech business 10 years ago, you needed deep pockets and extensive knowledge of building the various parts of a company yourself. From the ground up. Skype, Amazon and eBay were all well-backed companies given significant capital to grow while making significant early losses.
+
+Building a successful tech company should not be that exclusive — you should neither need a hefty amount of capital nor a degree in engineering, necessarily. If you have a great idea, you should be able to focus on that idea and not have to worry about building non-core parts of your business from scratch, such as hosting or payroll. The good news is that we are closer than ever to that reality, thanks to a more mature ecosystem of tools that help startups scale effectively on a pay-as-you-grow basis.
+
+When it comes to the strength of the tech industry, the sector can sometimes obsess about funding (who has raised what) or talent (who has gone where). This summer, Tech City UK and Stripe worked together to research other indicators to evaluate the underlying strength of tech and its ability to benefit other sectors of theeconomy.
+
+The joint survey identified thestartupstack, a set of around 200 cloud-based tools helping to transform every sector. Indeed, 89 percent of respondents said these tools had made starting and scaling a business easier, and 85 percent said they had made it cheaper. Even more striking was that 70 percent believe some startups wouldn’t exist in their form today without thestackof tools underpinning their business.
+
+According to CB Insights, itusedto cost $5 million to launch astartup;now it costs less than $5,000, thanks to open-source software and cloud-based tools (e.g. AWS). Also, itusedto take startups twice as long to reach 100 million users and to expand internationally. The evolution of the startupstackhas driven much of this change by providing the flexibility for startups to focus on refining and scaling the core product, rather than being sucked into dealing with peripheral, historically resource-intensive business functions.
+
+Startups no longer want to reinvent the wheel when it comes to the basic building blocks of their business: less than 10 percent of startups surveyed built their own payment infrastructure; less than 12 percent invested in building their own CRM system; and less than 13 percent built their own servers. Respondents estimate that early-stage startups are typically using between 6-15 startupstacktools.
+
+Interestingly, these popularstartuptools are new startups themselves: More than half of the tools named in the survey were founded after 2006, and a quarter of them were only launched in the last five years, including recruitment platformGreenhouseand business dashboard providerGeckoboard.
+
+Startups trust other startups with handling some of the most fundamental parts of their businesses, and today’s tools are nimble innovators themselves that share a similar mentality with other startups. This is consistent with what we see at Stripe, with the vast majority of startups using Stripe’s platform to power their payments and experiment with new business models. This is in stark contrast to how more established businesses could think about their paymentsstack, although they are attempting to catch up by adopting more of these tools.
+
+The stackis not yet complete. According to the survey, startups could grow faster if there were more tools in legal & compliance and cybersecurity. Dealing with overwhelming paperwork and mundane admin tasks can be solved by tools doing things as simple as providing e-signatures. For example,DocuSignwas the only legal & compliance tool people mentioned in the survey.
+
+According to CB Insights, legal tech companiesraisedjust $739 million in aggregate funding since 2011. Compare that to the recruitment and HR tech space, which is already much better funded, raising a total of $2.4 billion in funding and growing at a rate of 62 percent across 2015. We’ve seen more activity in this space recently with VC-backed companies likeOnfidoandDarktracebringing sophisticated background checking and security technology to the interneteconomy.
+
+The steam engine became the universal source of power in the industrial revolution, and in today’s digital revolution, the startupstackis emerging as the steam engine for our age. But, coming at a much lower cost and being available globally via the cloud, the democratization potential of this is much stronger. Industrial revolutions have tended to benefit the few at the expense of the many. With the startupstack, maybe this latest revolution will be a lot more distributive than previous ones.

@@ -1,0 +1,21 @@
+Land Rover’s lead engineer explains autonomous off-road driving
+
+When you’re Land Rover, you can’t just test connected and autonomous vehicles on regular roads. You have to live up to your rugged, but polished brand, simultaneously. That’s precisely why the automaker is testing off-road connected convoy research vehicles.
+
+It’s all a part of the company’s ambitious plan to create a fleet of 100-plus research vehicles over the next four years. The goal is to eventually get to the point where full autonomous off-roading is the new norm, through continuous testing of its connected and autonomous vehicle (CAV) technologies.
+
+To prepare for that day, Land Rover published the video below on Wednesday, showing two off-road connected convoy research vehicles communicating with each other. I spoke with Land Rover’s lead engineer for the project, Matt Reed, who explained how the connected vehicles communicated via Dedicated Short Range Communications (DSRC) boxes installed in each SUV to successfully off-road.
+
+[youtube=https://www.youtube.com/watch?v=gfbHjf2qeJE&w=560&h=315]
+
+“Currently, what we’ve got is two DSRC boxes from a company called Cohda Wireless and they use their software put into the car by their vehicleCANBus [network],” Reed explained. “The CAN Bus is a vehicle-level network, which all current OEMs [Original Equipment Manufacturers] have, which contains lots of the driving data. You’ll have everything from ignition the car is in to things like the vehicle speed, the direction of travel, the GPS location, all of that information, which is used by the vehicle’s internal module to do everything from cruise control to turning your lights on and off.”
+
+“These boxes are connected to that network and we fix the signals that we want to look at, such as vehicle articulation, vehicle speeds and location, and then using that network, we pick off the information, which could be transmitted to a second car,” he continued. “The transmission is through those boxes and it’s using a 5.9 GHz DSRC.”
+
+Land Rover also leaned on the company’s Terrain Response settings to adjust to whatever uneven off-road surface the connected vehicles encountered during this experiment.
+
+Although there was a professional driver in this test, as the technology improves and full autonomy is achieved, Reed says a lead car would be able to off-road across tricky terrain, with a second car without any input following that exact route.
+
+Reed adds that with time there’s also potential to integrate mobile phone communications to the vehicle-to-vehicle data sharing. “So, for certain applications, you could have one car using a cell phone to connect to another car, which then DSRC connects to it,” he added.
+
+While that might be getting ahead of Land Rover’s plan, the next step is to continue to beef up its fleet of research vehicles to further test its CAV technologies. Just imagine the day when self-driving vehicles are off-roading in abundance.

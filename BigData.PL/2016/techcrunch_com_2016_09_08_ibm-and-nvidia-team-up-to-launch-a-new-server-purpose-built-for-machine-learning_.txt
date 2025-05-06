@@ -1,0 +1,9 @@
+IBM and Nvidia team up to launch a new server purpose-built for machine learning
+
+IBM today announced the launch of the aptly-named IBM Power Systems S822LC for High Performance Computing. Its unwieldy name betrays the fact that this is a really interesting product. Together with Nvidia, IBM built this new system specifically for artificial intelligence, machine learning and advanced analytics use cases.
+
+The new server uses two of IBM’s POWER8 CPUs and four of Nvidia’s Tesla P100 GPU accelerators. What makes this new server so fast for running this kind of software, though, isn’t just the pure processor power from the CPUs and GPUs. IBM is also using Nvidia’s NVLink high-speed interconnect that allows the CPUs and GPUs to communicate significantly faster than over the standard PCIe bus you’ll find in a common desktop computer. IBM’s Power8 CPU features built-in support for the NVLink interface.
+
+“This means database applications, high performance analytics applications, and high performance computing applications can operate on much larger data sets than possible in x86 systems with GPUs on the PCI-E interface,” IBM explains in today’s announcement.
+
+How much performance can you expect from this system? IBM says you can expect 21 teraflops of half-precision floating point performance from the GPUs — about 14 percent more than you would get from a card that’s plugged into a modern PCI-E slot. Given how long it takes to train a machine learning model, those numbers can quickly make a difference in real-world applications. IBM also says it’s seeing speed-ups of 2x or more over using the older Tesla K80 GPUs and PCI-E as the interconnect.

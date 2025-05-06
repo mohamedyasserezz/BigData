@@ -1,0 +1,29 @@
+Finally, a service that tests and ranks the best VPNs for China
+
+Using the internet in China is hard if you want to go beyond the Chinese web. Not only are many popular websites and services blocked in the country, such as Facebook or Twitter, but the general speed of international websites is painfully slow.
+
+Some companies,like CloudFlare, are trying to fix this with architecture, but VPN (virtual personal network) software is the nearest thing to a sure-fire way to use non-Chinese internet in China. VPNs essentially build a tunnel to let you use the internet as if you are in another country, where, for example, Facebook isn’t blocked.
+
+It’s the “nearest thing” and not a full a solution because, in many cases, regular run-of-the-mill VPN don’t work in China, where a very particular type is required. Even when you find one that does work in China, reliability is a major issue.The Chinese government has cracked down on VPNsand the web more than usual over the past two years or so, that has includednullifying popular servicesand, in one case,visiting a developer in person to have software shuttered.
+
+Great Fire,the non-profit entity that we profiled last yearwhich is dedicated to fighting internet restrictions in China, has launched a new service today that — it hopes — will provide a much-needed increase in clarity and guidance for finding VPNs that are effective in China.
+
+Circumvention Centraltests the speed and reliability of VPNs on actual websites not just servers, and on an ongoing basis. The result is that, rather than a static list or collection of VPNs that you could plump for, as you’ll see on many blogs and websites, Great Fire will provide a living, breathing rank of those that work best, and how they have performed over time.
+
+The idea,Great Fire’s pseudonymous founders explained in a blog post, is to change the culture of “keeping quiet” about quality VPNs (for the fear that publicity will be the downfall) and enable anyone to find a solution that works.
+
+Nobody has provided public information about the effectiveness of circumvention tools in China. Many have provided misinformation about what works and what does not work. Some VPN providers have also famously encouraged their customers to “keep quiet” about the effectiveness of their solutions. On the contrary, we encourage everyone who reads this post and visits our new website to share this information with those who they think could benefit from purchasing a circumvention tool.
+
+The site already lists more than 10 services, most of which are familiar to Chinese internet users, and Great Fire said it intends to work with more VPN sellers and developers to increase the choice and also help make software perform better in China.
+
+When I put it to them that placing all this valuable data in one place puts a target on VPN services, co-founder Charlie Smith — not a real name — argued that there is nothing new here.
+
+“The authorities already know about all VPNs. It is naive to assume that sharing information about those that work will be helping them in their efforts. The authorities are the only ones who benefit from the secrecy surrounding quick and stable VPNs that work in China,” Smith wrote via email.
+
+The final, important piece, of the news today is that the organization is aiming to make money itself. As of now, Great Fire relies on donations from anonymous individuals to keep doing what it does. That can be tricky. It seemed to catch the eye of the Chinese government last year following a media campaign — the upshot of which wasan unprecedented high traffic DDOS on its webpages and Github account, whichtook Github down for daysand generated huge server bills for Great Fire to cover. It managed to emerge from the situation, but things didn’t look good at one point.
+
+“We want to reduce our reliance on these organizations and set GreatFire.org on a path of self-sustainability,” the founders, each of whom has their own job and doesn’t know one another outside of the project, wrote.
+
+The company will use the site to resell VPN software via affiliate links on the site. So, if you find a service, clicking the link to purchase it will earn the organization a finder’s fee for sending your business to the VPN maker.
+
+The project and the early ranking can be found at theCircumvention Central website.

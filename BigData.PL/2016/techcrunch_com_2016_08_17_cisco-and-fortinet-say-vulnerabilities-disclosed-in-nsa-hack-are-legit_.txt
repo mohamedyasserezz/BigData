@@ -1,0 +1,23 @@
+Cisco and Fortinet say vulnerabilities disclosed in ‘NSA hack’ are legit
+
+A group calling itself the Shadow Brokers dumped data online this weekend that it claimed to have stolen from the Equation Group, a hacking team widely believed to be associated with the NSA. Firewall makers Cisco and Fortinet have now confirmed that vulnerabilities included in the data dump affected their products — a disclosure that lends credence to the theory that the Equation Group is indeed an NSA operation.
+
+Cisco said in asecurity advisorythat two vulnerabilities in the Shadow Brokers’ data could be used to breach its Adaptive Security Appliance (ASA) software used in its firewalls. “An exploit could allow the attacker to execute arbitrary code and obtain full control of the system or to cause a reload of the affected system,” Cisco’s disclosure says.
+
+The data being offered for sale by the Shadow Brokers is dated between 2010 and 2013, so Cisco firewalls may have been vulnerable for years.
+
+Fortinetalso said that some of its products released prior to August 2012 contained a vulnerability that would allow an attacker to take execution control over a firewall. More recent versions should not be affected, Fortinet said, although the company noted that its investigation into the code released by the Shadow Brokers is continuing.
+
+Cisco security engineer Omar Santos wrote that one of the two vulnerabilities affecting Cisco products was patched in 2011. However, Santos said he wanted to discuss it publicly “to increase its visibility with our customers so they can ensure they are running software versions that defend against the exploit Shadow Broker has shared.” This exploit is referred to in the Shadow Brokers’ dump as EPICBANANA.
+
+The second exploit, EXTRABACON, affects all releases of Cisco’s ASA software — but getting it to work is is tricky. (Santos walks through it in hisblog post.) The exploit would allow an attacker to take full control of the firewall system, but its complexity — and the fact that Cisco hadn’t discovered and patched it — suggests it was developed by a talented adversary.
+
+Meanwhile, the Shadow Brokers also claim that their exploits will work on firewalls from Juniper Networks and TopSec, but neither company has publicly acknowledged the leak. The Shadow Brokers say they have additional yet-to-be-released exploits and are offering the data for sale in a Bitcoin auction. The group is asking for 1 million bitcoin (around $568 million at current rates), but the auction has yet to receive any significant bids.
+
+If the auction is unsuccessful, the vulnerabilities contained in the Shadow Brokers data may still come to light. Wikileaks has claimed to have access to the data and says it will publish a “pristine copy” soon.
+
+We had already obtained the archive of NSA cyber weapons released earlier today and will release our own pristine copy in due course.
+
+— WikiLeaks (@wikileaks)August 16, 2016
+
+The NSA has not returned a request for comment.

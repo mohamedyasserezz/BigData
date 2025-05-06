@@ -1,0 +1,37 @@
+Clearpath Robotics raises $30 million to become a Tesla for the factory floor
+
+Ontario tech firmClearpath Roboticshas raised $30 million in a Series B round of venture funding to scale up production of its self-driving vehicles.
+
+They’re not exactly Teslas or Google self-driving cars. Intsead, Clearpath makes vehicles that autonomously move boxes and pallets around factories, warehouses and distribution centers.
+
+Clearpath CEO and co-founderMatt Rendalltells TechCrunch, “Boxes and pallets moving around the world in the global supply chain are the circulatory system for global commerce. We believe if we can move them more efficiently we can do profound things for the economy.”
+
+Founded in 2008, originally as a computer vision and robotics engineering consultancy, Clearpath today employs 150 full-time in Kitchener. It intends to use a portion of its new funding for hiring in sales, marketing and customer support — staff the company will need to serve larger customers.
+
+Automotive factories are already using Clearpath’s OTTO self-driving vehicles for what’s called “line side delivery;” that is, to move parts to the appropriate personnel at their workstations, just in time for rapid installations and assembly.
+
+Clearpath’s OTTO robots employ LiDAR and other sensors to perceive the path they need to travel and avoid collisions with people and other objects in factory and warehouse environments. The devices are operated behind a company’s firewall, as security poses a huge concern for most manufacturers, Rendall notes.
+
+When an OTTO is running low on fuel, it returns itself to a charging or fueling station. And if the network goes down at a given facility, the OTTO can complete a certain number of tasks that have already been assigned to it, safely, before pausing to await new directions.
+
+The Series B funding will help Clearpath develop software that can differentiate its robots in the world of materials handling, and to develop new robots sized and equipped for different jobs, Rendall said.
+
+INovia Capitalled the Series B, joined byCaterpillar Ventures,GE Ventures,Eclipse Ventures,RRE VenturesandSilicon Valley Bank.
+
+A partner with iNovia Capital,Karam Nijjarsaid part of the company’s genius is its focus on vehicles that are used indoors, i.e. in controlled environments.
+
+The makers of self-driving cars like Google, Tesla and Uber are just testing their fully autonomous systems. Andregulators are still figuring outhow to safely incorporate autonomous vehicles on U.S. roadways.
+
+Meanwhile, Clearpath has been able to score large clients like GE and John Deere, and attain safety ratings for its OTTO vehicles.
+
+Clearpath is following in the footsteps of Kiva Systems Inc., which Amazon acquired for $775 million in 2012, and turned into itsAmazon Roboticsdivision.
+
+It competes with other companies making autonomous vehicles for materials handling, includingFetch Robotics,SeegridandADAM Robots.
+
+Nijjar added, “We’ve all seen what Foxconn has been able to do with automation. The next phase for Clearpath will be about proving their value, in terms of cost savings, to clients in one of their factories in order to roll out to another five, ten or all of their factories.”
+
+Long-term, the investor sees the potential of Clearpath Robotics to integrate its software with vehicles or robots made by other manufacturers.
+
+For example, some of the intelligence that Clearpath has developed to move OTTO around a warehouse could work in shuttles that get people around an airport, or, contrastingly, in the mining industry, where multi-ton trucks are used to move iron, stone and other heavy loads around an outdoor but relatively controlled environment, Nijjam said.
+
+The new funding round brings Clearpath’s total equity funding to about $41.5 million.

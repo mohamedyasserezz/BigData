@@ -1,0 +1,17 @@
+Intel creates a dedicated autonomous driving technology group
+
+Intel is following up on news early Tuesday about its partnership with Mobileye and Delphi on self-driving tech with more autonomous vehicle news: it’screating a whole groupdedicated to pursuit of self-driving solution development, called – you’ll never guess – the Automated Driving Group (ADG for short).
+
+The new Intel ADG will be headed up by Intel vet Doug Davis, who previously led the IoT group and is putting off his retirement after 30 years with the chipmaker to act as SVP and strategic lead for the group. Reporting to Davis will be Kathy Winter, who comes to Intel from new partner Delphi and will act as VP and GM of the ADG, handling more of the day-to-day responsibilities of managing the team.
+
+ADG’s formation is part of a larger management re-org at Intel, but the introduction of a dedicated vertical focused on autonomous driving is probably the most significant of the shifts overall. Intel recently announced that it’s making $250 million bet on self-driving tech via its Intel Capital investment arm, and Tuesday’s earlier announcement regarding its chip supply relationship with Mobileye and Delphi shows it has grand designs on the emerging space.
+
+Intel also noted that it will be providing Intel Core i7 processors for use in the Delphi/Mobileye platform, which is making its official debut in a test vehicle at CES in January. The Core i7s being used are essentially placeholders, however – Intel will be shifting the platform to a new, unnamed and more powerful processor the chipmaker is going to officially reveal sometime in the next few weeks (CES seems like a good bet for this, too).
+
+Autonomous driving is only part of the ADG’s mandate; it’ll also focus on driver assist technologies, meaning it’ll continue the work that Intel is currently doing with a long list of automaker clients using its chips, including BMW, Daimler, Hyundai, Toyota, Tesla and more.
+
+When asked about whether this will also lead to increased headcount or other resources dedicated to autonomous driving tech, an Intel spokesperson told TechCrunch that while “Intel has been continuing to invest in automated driving by a series of acquisitions (Nirvana, Itseez, Yogitech), earmarking $250M of Intel Capital funds for automated driving capabilities and continued R&D,” the company is “not commenting on specific headcount at this time.”
+
+Intel also provided the following when asked about how it sees the opportunity present in the autonomous driving market:
+
+Automated driving is long term growth opportunity for Intel. We believe there is an incredible opportunity to reinvent the driving experience and it will take a global ecosystem for this vision to come to fruition. The new ADG organization will provide the necessary focus and support for our long-term investments needed for our strategic automated driving endeavors.

@@ -1,0 +1,9 @@
+Webcams involved in Dyn DDoS attack recalled
+
+Dyn said last week it identified “10s of millions” of unique IP addresses involved in the massive botnet DDoS attack on its managed DNS services, which knocked out Twitter, Amazon and others sites for many users. At least some of those devices are now subject to a recall, with Chinese electronics company Hangzhou Xiongmai recalling web cameras using its components that were identified as making up a good portion of the devices involved.
+
+The webcams were cited by security experts as being susceptible to attack and inclusion in the Mirai botnet used to flood Dyn’s DNS as having default passwords that were easy to guess, making it simpler for attackers to crack their logins and incorporate them into the botnet.
+
+Xiongmai denies in astatement made to the BBCthat its devices represented the majority of those used in the attack, and indeed it appears likely that IoT hardware from a large number of different manufacturers were involved. Still, Xiongmai has instituted a recall for all webcams that use its circuit board and other components, which represents a sizeable number of devices because of how many companies Xiongmai supplies.
+
+The company also noted that users not changing their default passwords is also a contributing cause, and indeed, a report from this morning of aU.S. IoT consumer studyshows it’s very common for people not to alter their default login credentials on these devices.

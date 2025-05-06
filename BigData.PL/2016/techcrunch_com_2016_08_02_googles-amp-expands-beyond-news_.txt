@@ -1,0 +1,17 @@
+Google’s AMP project expands beyond news
+
+Six months afterlaunchingAMPfor news stories in its mobile search results, Google today announced the next step for the project: moving AMP beyond news and bringing it to other mobile sites, too.
+
+Just like with the rollout of AMP pages for news sites, Google is launchinga demo sitetoday that will allow you to test what this experience is like and give developers the opportunity to fine-tuneAMP supportfor their sites before it rolls out this feature to all users.
+
+Rudy Galfi, a product manager on the AMP team, told me that the team believes that after the successful rollout of AMP for news sites, it is now “ready for more.”
+
+There are already over 150 million AMP documents from over 650,000 domains in Google’s index and, as Galfi told me, the company has seen a lot of non-news sites adopt the format, too, even though these pages weren’t easily available to users yet.
+
+Back in June, Google partnered with eBay to bring AMP support to that company’s mobile pages, but the new demo site features AMP pages from the likes of Squarespace, Reddit, Flipkart, TripAdvisor, Disney, Genius, Food Network, Instructables, Drugs.com, the NFL and others. So if you search for “card tricks” on the demo site, for example, you will probably see a few instant-loading results from Instructables with the standard AMP lightning bolt symbol next to them. The same goes for lyrics, recipes and other content.
+
+While a lot of the early work on AMP focused on news sites, the format itself works well for other kinds of content, as well. Still, the team is working on better support for e-commerce sites and how to better handle forms, for example.
+
+The average AMP page currently loads four times faster than non-AMP pages. Median load times are under one second. Galfi stressed that there is no ranking change here, so having AMP pages available shouldn’t change a page’s ranking on the search results page. As a user, though, I’m far more inclined to tap on an AMP page when I see one in my search results than on a non-AMP page. At this point, after all, most mobile sites are cluttered with slow-loading ads (and maybe even roadblock ads). While AMP features support for ads (and paywalls), those ads load significantly faster and don’t really interrupt the browsing experience.
+
+A Google spokesperson told me that AMP support for non-news sites in Google’s mobile search results should roll out beyond the preview site in the coming months, but there is no clear time frame yet. If you want to give the preview a try, head over tog.co/ampdemoon a mobile device and search for some Taylor Swift lyrics.

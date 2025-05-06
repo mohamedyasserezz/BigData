@@ -1,0 +1,33 @@
+Saleswhale is a software platform to help sales teams run more efficiently
+
+Hiring and training sales staff gets repetitive and, given the often high churn, it can be a real time suck. That’s whySaleswhale, a Singapore-based company that is part of Y Combinator’s current batch, has a platform to help automate a lot of the pain and make things more efficient.
+
+It all started when co-founders Gabriel Lim and Venus Wong realized that they were pouring too much time into setting up sales operations.
+
+“We hired sales people and were involved with onboarding and training them, but it got very tedious,” Lim told TechCrunch in an interview. “The processes of coaching and training grew very repetitive and we found ourselves repeating ourselves over and over again.”
+
+That’s when the duo figured out that technology could take some of the strain. They left their employer — app dev shopGetting Real Software— to start Saleswhale in December 2015 with the vision of automating many of the processes.
+
+“Around 90 percent of sales development training and best practices are quite rote but important,” Lim said. “It is very tedious to train each new rep that joins the company over and over again, especially if a company has high sales employee attrition, which is very common.”
+
+Saleswhale — which later added former Viki engineer Ethan Le to its founding team — is designed to be a constant companion to a company’s sales division. Beyond getting new employees up to speed, it guides them as they go about their job.
+
+The service uses a bot-powered platform that plugs into email to provide guidance and help for producing leads and ultimately making sales. Some of that includes analyzing reply rates and providing advice to improve emails, assistance for follow-up communication, identifying alternative contacts inside target companies and more.
+
+Right now, the company claims to have more than 50 clients, most of which are in Asia and includemulti-billion dollar Uber rival Grabandfood delivery company Grain. The focus on Asia is very deliberate, according to Lim, since the culture of outbound sales is nothing like as developed as in the U.S.
+
+“Asia still lags when it comes to best practices for sales development. We’re still surprised at how many sales managers don’t even know the definition of sales development,” he told me. “Asia is a massive untapped market, that is almost uncontested by U.S. sales development software.”
+
+The idea isn’t to kill off the sales manager, rather to make the time-intensive processes more efficient. That way the precious time of both sales executives and managers is spent on things that really count.
+
+Saleswhale isn’t yet charging its customers, but it expects that before the end of the year it will begin monetizing at between $39-$99 per seat. Its existing customers are aware of that plan and happy to pay for the service, Lim explained.
+
+The team of just three is very much in the bootstrap mode, which is pretty refreshing given the rate that tech companies tend to scale these days.
+
+They took money from Y Combinator as part of entry into the accelerator program. That is the only external funding raised to date but Lim said that once revenue from customers begins coming in, Saleswhale should have a good year of runway.
+
+YC’s demo day is one of the world’s most famous. With many of the top investors in the U.S. in attendance, it represents a great opportunity for startups to raise capital if they can catch the eye. Lim said Saleswhale enters the demo day — which is in less than 10 days — in good shape because there’s no pressure to raise.
+
+“We don’t mind, either way is fine,” he said. “We want to see what value and networks potential investors can offer us.”
+
+The company plans to return to Singapore after the batch is finished and refine its algorithms, develop new features — such as sales analytics and leaderboards — and hire new staff.

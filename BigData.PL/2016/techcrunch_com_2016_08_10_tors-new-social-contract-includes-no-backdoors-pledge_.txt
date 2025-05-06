@@ -1,0 +1,57 @@
+Tor’s new social contract includes ‘no backdoors’ pledge
+
+It hasn’t been the best summer of PR for the Tor anonymizing browser, given that one of its prominent developers — Jacob Appelbaum — stepped down amid allegations of “sexual mistreatment” inJune.
+
+So it’s perhaps not too surprising that the pro-privacy organization has decided now is the time to publish a social contract, promoting what it dubs its commitment to ‘advancing human rights’.
+
+“We believe that privacy, the free exchange of ideas, and access to information are essential to free societies. Through our community standards and the code we write, we provide tools that help all people protect and advance these rights,” Tor writes in the contract, which also includes pledges to be transparent and open; to build tools that are free to use; to widen access via education and advocacy work; and to be honest about the limitations of its technology.
+
+The contract can be read in full below.
+
+Tor(aka The Onion Router) is a network technology designed to increase the privacy of web users by encrypting and randomly routing Internet connections via a worldwide network of volunteer relays — thereby making it harder for individual web connections to be traced back to a particular user.
+
+However the flip-side of any anonymizing technology is the risk of criminals or bad actors using it to cover their tracks. So there’s an eternal publicity war to be fought — especially given recentnoisy political pushesfor there to be ‘no safe spaces for terrorists online’.
+
+It’s been clear for some time that encryption technologies arebackin the mainstream firing line, as evinced by high profile battles such asApple’s fight with the FBIearlier this year over access to a locked iPhone. Or the UK government’s weasel-worded reworking of the legal framework for state investigatory powers in a way thatimplicitly undermines encryption.
+
+Loudly promoting a human rights and free speech angle appears to be Tor’s counter strategy to all that.
+
+The organization has also recently been seeking to diversify its funding away from dependence on its primary backer, the U.S. government — launching acrowdfunding campaign last Novemberto solicit donations from appreciative web users. A first push thatnetted it more than $200,000. Although the bulk of its financing still comes from the same entity that has used technology for systematic mass surveillance of web users — so there’s an inevitable tension between Tor’s privacy mission and the (surveillance) state that feeds it.
+
+All of which provides some context for what is perhaps the most specific pledge in the social contract — not to build in any backdoors. “We will never implement front doors or back doors into our projects,” Tor writes.
+
+The rest of the contract, for all its warm-sounding words about transparency and honesty, might be accused of lacking specific substance — if you were reading it with a critical eye and keeping count of qualifiers and caveats.
+
+We’ve asked Tor why it’s publishing a social contract at this point in its evolution and will update this post with any response.
+
+In its PR announcing the social contract it describes it as “a set of behaviors and goals… we want for our community”.
+
+“We want to growTorby supporting and advancing these guidelines in the time we are working onTor, while taking care not to undermine them in the rest of our time. The principles can also be used to help recognize when people’s actions or intents are hurtingTor. Some of these principles are established norms; things we’ve been doing every day for a long time; while others are more aspirational — but all of them are values we want to live in public, and we hope they will make our future choices easier and more open,” it adds.
+
+Here’s Tor’s six-point social contract in full:
+
+1. We advance human rights by creating and deploying usable anonymity and privacy technologies.
+
+We believe that privacy, the free exchange of ideas, and access to information are essential to free societies. Through our community standards and the code we write, we provide tools that help all people protect and advance these rights.
+
+2. Open and transparent research and tools are key to our success.
+
+We are committed to transparency; therefore, everything we release is open and our development happens in the open. Whenever feasible, we will continue to make our source code, binaries, and claims about them open to independent verification. In the extremely rare cases where open development would undermine the security of our users, we will be especially vigilant in our peer review by project members.
+
+3. Our tools are free to access, use, adapt, and distribute.
+
+The more diverse our users, the less is implied about any person by simply being aToruser. This diversity is a fundamental goal and we aim to create tools and services anyone can access and use. Someone’s ability to pay for these tools or services should not be a determining factor in their ability to access and use them. Moreover, we do not restrict access to our tools unless access is superceded by our intent to make users more secure.
+
+We expect the code and research we publish will be reviewed and improved by many different people, and that is only possible if everyone has the ability to use, copy, modify, and redistribute this information. We also design, build, and deploy our tools without collecting identifiable information about our users.
+
+4. We makeTorand related technologies ubiquitous through advocacy and education.
+
+We are not just people who build software, but ambassadors for online freedom. We want everybody in the world to understand that their human rights — particularly their rights to free speech, freedom to access information, and privacy — can be preserved when they use the Internet. We teach people how and why to useTorand we are always working to make our tools both more secure and more usable, which is why we use our own tools and listen to user feedback. Our vision of a more free society will not be accomplished simply behind a computer screen, and so in addition to writing good code, we also prioritize community outreach and advocacy.
+
+5. We are honest about the capabilities and limits ofTorand related technologies.
+
+We never intentionally mislead our users nor misrepresent the capabilities of the tools, nor the potential risks associated with using them. Every user should be free to make an informed decision about whether they should use a particular tool and how they should use it. We are responsible for accurately reporting the state of our software, and we work diligently to keep our community informed through our various communication channels.
+
+6. We will never intentionally harm our users.
+
+We take seriously the trust our users have placed in us. Not only will we always do our best to write good code, but it is imperative that we resist any pressure from adversaries who want to harm our users. We will never implement front doors or back doors into our projects. In our commitment to transparency, we are honest when we make errors, and we communicate with our users about our plans to improve.

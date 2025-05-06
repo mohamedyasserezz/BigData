@@ -1,0 +1,23 @@
+Here’s everything AWS will announce today
+
+Amazon is hosting the second of two major keynotes at itsre:Invent developer conferencein Las Vegas today. TechCrunch has received detailed notes on the contents of today’s keynote, which will be delivered by Amazon CTO, Werner Vogels. We already knew he was going to talk about DevOps and containers today, but here are a few more details of what to expect. The keynote is scheduled to start at 8:30am PT.
+
+AWS Personal Health Dashboard will give developers data on the health of the infrastructure that is running their applications. This is the kind of operational data that companies are used to having on their applications — and should make DevOps teams feel a lot more comfortable using AWS to launch their cloud applications.
+
+Note: We were originally told this was called Silvermine. We have updated with the correct name.
+
+Amazon will begin offering a tool to help companies dealing with DDoS attacks like the one perpetrated against Dyn last month that had an impact on some Amazon customers using the Dyn service. Amazon will announce two levels of protection, an integrated DDOs protection service and AWS Shield Advanced for more sophisticated attacks. With this, it is now in direct competition with services like Cloudflare and others.
+
+For many companies, simply processing the large amount of data they accumulate is the difficult part, and Amazon Glue is designed help with ETL (extract, transform, load) in the cloud, solving a major pain point for developers. Glue will automate data dependency modelling and handle all the necessary orchestration to work with the data.
+
+As developers build more apps, they are having trouble getting people to actually use them in sufficient numbers. Amazon Pinpoint will help app builders run targeted push notification campaigns aimed at engaging specific users to help build a larger audience.
+
+As the name implies, this tool will provide batch processing services that will integrate with EC2, Spit and Lambda. It’s billed as a simple and efficient way to deal with batch computing in the cloud.
+
+AWS will be offering a fully managed version of Chef with OpsWorks to allow DevOps to manage backup, availability and operating system security updates. This will also provide access to Chef workflow automation to speed up development, delivery and management of applications.
+
+Amazon will be introducing  a number of services designed to help with debugging applications including Amazon X-Ray, a tool designed to debug across hundreds of distributed micro services that can run in containers or the more traditional Amazon Machine Images. X-Ray provides a visual way to view and debug and trace issues. It allows you to analyze logs and find race conditions that may leave your applications unstable. Our understanding is that the service itself was built on top of Lambda.
+
+As companies work with hundreds of micro services, it becomes challenging to coordinate them. Another feature related to debugging, Step Functions enables developers to arrange the components using a visual workflow tool and track each step as they try to retrace error conditions.
+
+Lambda will now support C#. In addition, new tools will allow developers to put triggered events at the edge of the network, possibly on the device level (not unlikeSnowball Edge announced yesterday). This moves the computation to the edge of the network to avoid the latency that a round trip between the device and the cloud would incur.

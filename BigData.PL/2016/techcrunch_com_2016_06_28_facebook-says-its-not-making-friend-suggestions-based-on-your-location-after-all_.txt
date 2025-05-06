@@ -1,0 +1,17 @@
+Facebook says it’s not making friend suggestions based on your location after all
+
+Does Facebook suggest new friends based on your location? The answer seems to change day by day.
+
+Yesterday,Fusionreported that Facebook uses location data to make friend suggestions and pointed out that this could lead to unfortunate privacy mishaps. Users could find themselves outed in situations that ought to be anonymous (for instance, Facebook might recommend that a user add a friend from an Alcoholics Anonymous meeting, or suggest your profile to a creeper ogling you on public transit). The report wasn’t some expose-gone-wrong — a Facebook spokesperson confirmed to Fusion that location data contributed to friend recommendations.
+
+But then things got bananas when Facebookreverseditself, saying that friend recommendationsaren’tbased on location. The story later changed again when it became clear that Facebook had experimented with recommending new friends based on city-wide location data to a small group of users last year but discontinued the project.
+
+It’s an unusual PR mishap for a Silicon Valley company. So what happened? And how do friend recommendations actually work?
+
+Facebook’s position is that the location-based recommendation experiment caused confusion on its communications team, and it ended up giving the wrong information to Fusion. Of course, there’s also the cynical version of the story: that Facebook did use location data to make friend recommendations, then backpedaled whensecurity experts compared the practice to NSA surveillanceand pointed out that it might violateFacebook’s settlement with the FTC.
+
+We don’t get to poke around in the secret sauce that goes into friend suggestions, so we can’t say definitively how the recommendations get made. Facebook says that location data is definitely not a part of that recipe.
+
+“We’re not using location data, such as device location and location information you add to your profile, to suggest people you may know,” a Facebook spokesperson told TechCrunch. “We may show you people based on mutual friends, work and education information, networks you are part of, contacts you’ve imported and other factors.”
+
+Even if you’ve got your tinfoil hat placed firmly upon your head, the knowledge that Facebook never made location-based recommendations on a more granular level than city-wide location should help you rest a bit easier. But just what are those “other factors” that go into friend recommendations? The world may never know!

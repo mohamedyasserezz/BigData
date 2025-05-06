@@ -1,0 +1,21 @@
+Gong says it’s cracked news personalization
+
+If you’re a little skeptical about trying out another news aggregator,GongCEO Itzik Ben-Bassat knows what you’re probably thinking — after all, he heard the same thing when he was pitching investors.
+
+“They all kind of looked at me and said, ‘Not again,’” he recalled.
+
+But it seems likeBen-Bassat(who was previously an executive at Blizzard Entertainment and a board member at Wix) managed to win some of those investors over — he’s raised $3 million in seed funding from Bloomberg Beta, Sequoia Capital, Mangrove Capital Partners, Boldstart Ventures and various angels.
+
+So what’s Gong doing that’s different? Ben-Bassat classified previous attempts to deliver personalized news into two buckets. First, there are the social networks themselves, which he said were “not built for news” — which is one of the reasons why they’re struggling to fight back againstfake newsandclickbait.
+
+Second, there are apps that try to identify your interests, then use semantic analysis to determine which articles will be relevant to you — an approach that Ben-Bassat described as “very cold.”
+
+Ben-Bassat said his team at Gong is combining the two approaches, looking at how stories spread across social media and combining that with the behavior of individual readers, creating what it calls the HackRank algorithm. The goal is to predict which story will be interesting to you, even before it’s become a huge story on other sites.
+
+“As we’re getting ahead in terms of technology, in terms of … the ability to understand people, then you need to bring a little bit of soul into the algorithm,” Ben-Bassat said. “What we found is that the social data is really complementing the personalization in a great way and is allowing us to kind of create a better prediction of what people are interested in.”
+
+As far as the actual reading experience goes, navigating Gong should be pretty intuitive — you can search for and subscribe to news on topics that interest you, or browse sections for breaking news and staff picks. Each story is limited to the version that’s available via RSS (so you might end up doing a lot of clicking to other sites) and comes with a “Gong social share” count.
+
+Since launching the current version of Gong in September, Ben-Bassat said traffic has been growing 30 percent eachmonthweek, with no marketing, with 25 percent each day’s readers returning after previous visits.
+
+Gong is ad-free for now. Ben-Bassat said he’s currently focused on refining the algorithm and growing the audience, though he plans to experiment with advertising eventually.

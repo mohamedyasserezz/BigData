@@ -1,0 +1,23 @@
+Ashton Carter talks Equation Group hack, encryption debate and military innovation at Disrupt SF
+
+U.S. Secretary of Defense Ashton Carter argued the case for splitting up the leadership of the National Security Agency and U.S. Cyber Command on stage at Disrupt SF, while stressing, “We haven’t made any decisions in that regard yet.” Carter also discussed the recent Equation Group hack, the ongoing encryption debate, and the Department of Defense’s role in promoting technological innovation.
+
+Carter has reportedly been advocating for President Obama break up NSA and Cyber Command, which would separate the intelligence operations of the NSA from the offensive hacking of CyberCom, according to theWashington Post.
+
+“At the moment, we have the NSA, which is part of the intelligence community, managed by the Department of Defense, and CyberCom, which is a combat group whose first job is to protect,” Carter said. He said the organizations have traditionally been under the same roof because “there haven’t been enough good people to go around.”
+
+“We had them both in the same location and able to work with one another. That has worked very well, but it is not necessarily the right approach,” Carter explained. Now, a split is under consideration to find the right balance of military, civilians, and contractors, he added. However, Carter said there is no timeline for a split to take place and that the issue is still under consideration.
+
+The NSA and CyberCom are currently led by Adm. Michael S. Rogers, who told the Washington Post that he supported a split. If such a split takes place, the NSA may fall under the command of a civilian leader rather than a military one. The proposed split was opposed earlier this morning by Sen. John McCain, who grilled Rogers on the issue during ahearing.
+
+Carter declined to directly answer questions about the recent Equation Group hack, in which hacking toolsbelieved to be used by NSAwere leaked online by a group calling themselves the Shadow Brokers. The data dump includedvulnerabilities for firewallsmanufactured by Cisco, Fortinet, and others. In response to a question about how the DOD re-secured its networks after the vulnerabilities appeared online, Carter said, “I can’t speak about any particular case,” calling it a “law enforcement matter.” He argued that law enforcement agencies and the Department of Homeland Security do disclose zero-day vulnerabilities to American companies when they discover them. But this is not always the case —Apple has requestedthat the FBI disclose the vulnerability it used to break into a phone used by the San Bernardino shooter, but the FBI has not done so.
+
+However, Carter argued that strong encryption is the foundation for securing government networks against intruders. “We are staunchly on the side of strong encryption,” he said. “We spend an enormous amount of effort and an enormous amount of money on that.”
+
+Even though strong encryption is a priority to the military, Carter still argued that there may be a need for exceptional access to encrypted communications for law enforcement. “At what point is it important for public purposes — public purpose that we all share — for our government to have access in an appropriate way for law enforcement purposes? That’s a deep and important question,” Carter said, adding that there may not be a single technical solution to the question and that the issue would require collaboration between government and Silicon Valley.
+
+To further that collaboration, Carter has launched several tech initiatives in the Bay Area. He recently re-launched the Defense Innovation Unit, an experimental project to connect startups with the Pentagon and sets them up for the possibility of contracting with the DOD. The program initially launched in August 2015, months after Carter’s appointment as Secretary of Defense, but was shut down and re-launched this past May to move more swiftly. “It’s experimental, so we did the experiment and we said, ‘Whoops.’ Our first shot at this didn’t have it all right. The principle issue we were having is speed,” Carter said. “We flattened the leadership very dramatically. We made it so that it reports directly to me which allows it to respond more quickly.”
+
+Carter said he sought input on how to foster innovation from Alphabet executive chairman Eric Schmidt, as well as Amazon founder Jeff Bezos and LinkedIn co-founder and venture capitalist Reid Hoffman, the latter of whom also spoke at Disrupt SF today.
+
+The DOD is also planning tobecome more involved with In-Q-Tel, a venture capital firm that invests technology for intelligence agencies, in order to fund startups. “Stay tuned. You’ll see us doing more very soon in this same area,” Carter added.

@@ -1,0 +1,25 @@
+VeeCee gives kids a shoppable wish list with virtual currency
+
+Giving kids a new way to get the things they want, with greater parental oversight,VeeCeeis a hack created by a four-person team from London’s Barking Dagenham suburbs.
+
+The group’s pitch was handled by 12-year-old,Ebenezer Odubanjo— the youngest presenter at this year’s Disrupt London hackathon. A programmer since 9, Odubanjo may be a kid, but he’s no rookie when it comes to software development.
+
+AlongsideJustinas Grigas,Ashley Frempong, andAyodele Arigbabu, Odubanjo developed a site that allows children to upload a list of the things they want, and parents or guardians can either shop the lists or create an account with virtual currency that children can use to buy the things on their list.
+
+This virtual currency  or “veecee” can only be spent after two adults authorize the transaction, which gives more control over the types of items that kids can buy, according to the group.
+
+The team built the service using JavaScript, Php, CSS and html using PhoneGap. The team used Shop Integrator for their storefront and Amazon Web Services for its hosting, domain name registration was handled by Radix.
+
+Too young to stay overnight at the hackathon, Odubanjo and Ashley started hatching plans for their hack days before the London event actually started.
+
+“We came up with VeeCee at the end,” of a week’s worth of brainstorming, said Odubanjo. “We got really hyped about it.”
+
+What was really unique, he said, was the service’s ability to give kids more control over the things they’re getting while at the same time providing parental oversight.
+
+Now that the hack’s done, the group intends to keep working on the project, incorporating blockchain tools like hyperledger or ethereum to create goal-oriented smart contracts.
+
+It’s a clever project for a group that first came together over a shared love of technology and coding in the back of a Barking library. It’s the home of the community’s local tech center,a space called Digilab, which opened in April.
+
+“I saw Digilab when I was trying to get a library book out about C-Sharp,” said Odubanjo. “It’s like a makerspace, but better.”Brighter Steppings Seun Oshinaike
+
+With the help of Digilab’s developer, Seun Oshinaike, and local hackathon manager, Arigbabu; Frempong, Grigas and Odubanjo could see a viable business emerge from the hack.

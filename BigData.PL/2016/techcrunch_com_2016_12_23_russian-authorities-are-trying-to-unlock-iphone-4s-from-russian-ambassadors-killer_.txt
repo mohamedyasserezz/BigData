@@ -1,0 +1,19 @@
+Russian authorities are trying to unlock iPhone 4S from Russian ambassador’s killer
+
+The off-duty police officer whokilledthe Russian ambassador in Turkey was shot by Turkish special forces minutes after the crime. He had an iPhone 4S on him, and now, according toMacReportsandHabertürk, Turkish authorities asked for Russia’s help to unlock the iPhone.
+
+Given that it’s an iPhone 4S and it has a 4-digit passcode, it should be quite easy to unlock the device. There are many solutions out there to do this and authorities don’t even need to ask for Apple’s help.
+
+The iPhone 4S is quite old now and it was a much less secure device. First, the iPhone 4S runs iOS 5 to iOS 9, but many iPhone 4S owners didn’t update to recent iOS versions.
+
+If the device runs iOS 7 or earlier, getting the content of the device is a piece of cake. The content of the device isn’t encrypted as Applestarted encrypting all datawith iOS 8. Authorities can access this data quite easily.
+
+Second, if the iPhone is running iOS 8, remember that the iPhone 4S didn’t have a Secure Enclave and Touch ID sensor. The Secure Enclave is a coprocessor that utilizes a secure boot process to make sure that it’s uncompromized. It has a secret unique ID not accessible by the rest of the phone, Apple or anyone — it’s like a private key. The phone generates ephemeral keys (think public keys) to talk with the Secure Enclave. They only work with the unique ID to encrypt and decrypt the data on the coprocessor.
+
+With the iPhone 5s and later, Apple has been using the Secure Enclave to encrypt your passcode and sensitive information. Even more important, the Secure Enclave progressively increase the delay between passcode entries when attempting to bruteforce passcodes (trying all passcode possibilities).
+
+Without a Secure Enclave, you can bruteforce the passcode with ahardware devicethat costs a few hundred bucks. And these bruteforcing devices can alsobypassthe setting that lets you wipe the data after 10 unsuccessful attempts. It only takes a few hours.
+
+With iOS 8.1.2 and later, Apple fixed the vulnerability that let devices like the IP-Box enter passcodes. But forensics companies have been relying on other vulnerabilities to access phone data. In the San Bernardino case, the FBIfound a wayto unlock an iPhone 5c running iOS 9 for instance. Some companies evenadvertisethat they can unlock an iPhone 4S running iOS 9. It’s just much harder on an iPhone with a Secure Enclave.
+
+For all these reasons, it seems highly unlikely that Apple was involved in this investigation at all. Russian authorities are most certainly perfectly capable of unlocking an iPhone 4S on their own, and that’s why Apple has been silent on this issue.

@@ -1,0 +1,15 @@
+Google open sources image captioning model in TensorFlow
+
+Pretty much 100 percent of my generation is obsessed with Instagram. Unfortunately, I left the platform (sorry all) back in 2015. Simple reason, I am way too indecisive about which photos to post and what pithy caption to give them.
+
+Fortunately, with ample spare time, those who share my problem can now use an image captioning model in TensorFlow to caption their photos and put an end to the pesky first-world problem. I can’t wait for the beauty on the right to start rolling in the likes with the ever-creative  “A person on a beach flying a kite.”
+
+Jokes aside,the technology developed by research scientists on Google’s Brain Teamis actually quite impressive. Google is touting a 93.9 percent accuracy rate for “Show and Tell,” the cute name Google has given the project. Previous versions fell between 89.6 percent and 91.8 percent accuracy. For any form of classification, a small change in accuracy will have a disproportionately large impact on usability.
+
+To get to this point, the team had to train both the vision and language frameworks with captions created by real people. This prevents the system from simply naming objects in a frame. Rather than just noting sand, kite and person in the above image, the system can generate a full descriptive sentence. The key to building an accurate model is taking into account the way objects relate to one another. The man is flying the kite, it’s not just a man with a kite above him.
+
+The team also notes that their model is more than just a really complex parrot that spits back entries from its training set of images. From the image on the left, you can see how patterns from a synthesis of images are combined to create original captions in previously unseen images.
+
+Prior versions of the image captioning model took three seconds per training step on an Nvidia G20 GPU, but the version open sourced today can do the same task in a quarter of that time, or just 0.7 seconds. That means that today’s version is even more sophisticated than the version that tied for first in last year’s Microsoft COCO image captioning challenge.
+
+Earlier this year at the Computer Vision and Pattern Recognition conference in Las Vegas, Googlediscussed a model they had createdthat could identify objects within an image and build a caption by aggregating disparate features from a training set of images captioned by humans. The key strength of this model is its ability to bridge logical gaps to connect objects with context. This is one of the features that will eventually make this technology useful for scene recognition when a computer vision system needs to differentiate from, let’s say, a person running from police and a bystander fleeing a violent scene.

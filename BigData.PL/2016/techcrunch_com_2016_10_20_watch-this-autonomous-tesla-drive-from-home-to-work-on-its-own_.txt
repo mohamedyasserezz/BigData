@@ -1,0 +1,15 @@
+Watch this autonomous Tesla drive from home to work on its own
+
+[vimeo 188105076 w=680]
+
+Tesla announced Wednesday evening that all Tesla cars made from now onwill have all the hardware they need on board to achieve full self-driving(though autonomous software will rollout later, with a cross-country demo planned for the end of 2017). Tesla’s already doing its own early testing, of course, and the video above shows a vehicle with fully autonomous capabilities navigating city and freeway streets with apparent ease.
+
+The Tesla takes itself out of the garage, leaves the city, takes the highway, exits and arrives at Tesla HQ, after which it parks itself. A safety driver is behind the wheel while the car is on city streets as required by law, but the vehicle is driverless at the very end of the video after it drops off its “driver” and parallel parks itself – stopping for a crossing pedestrian in the process. As noted by Elon Musk on Twitter, it even skips a spot designated for vehicles with disabled parking permits, because it recognizes it’s not allowed to park there.
+
+Even this early look is noteworthy because the Tesla system is handling one of the most challenging driving environments; highway driving is relatively easy, since it’s mostly straight and there’s very little in the way of unusual stops, blind corners or pedestrians. A city is basically replete with edge cases, which represent the greatest challenge for any self-driving software.
+
+Musk even said that when this is available to drivers, they’ll be able to hit “Summon” on their phone via the Tesla app to call the car to them once they want to get driving again – even if they happen to beacross the country from their vehicle.
+
+When you want your car to return, tap Summon on your phone. It will eventually find you even if you are on the other side of the country
+
+— Elon Musk (@elonmusk)October 20, 2016

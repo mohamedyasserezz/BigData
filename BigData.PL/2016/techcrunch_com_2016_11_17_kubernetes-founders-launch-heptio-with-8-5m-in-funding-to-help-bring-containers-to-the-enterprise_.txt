@@ -1,0 +1,15 @@
+Kubernetes founders launch Heptio with $8.5M in funding to help bring containers to the enterprise
+
+For years, the public face of Kubernetes was one of the project’s founders: Google group product manager Craig McLuckie. He started the open-source container-management project together with Joe Beda, Brendan Burns and a few other engineers inside of Google, which has since brought it under the guidance of the newly formedCloud Native Computing Foundation.
+
+Beda became an entrepreneur-in-residence at Accel Partners in late 2015, Burns left Google for Microsoft earlier this year and McLuckie quietly left Google to start a new venture a few weeks ago. McLuckie and Beda have now teamed up again to launchHeptio, a new pure-play Kubernetes company.
+
+“It became clear to me through a series of conversations with customers that there was a very strong need for a Kubernetes-focused company to emerge that wasn’t tied to an adjacent business,” McLuckie, who will be Heptio’s CEO, told me. Potential Kubernetes users in the enterprise want to have a safe abstraction layer that allows them to run the applications they want in the environment of their choosing, the team believes. What they don’t want is to lock themselves into a future where their infrastructure and applications are closely tied together. “I look at the way that customers are perceiving the emergence of the cloud,” McLuckie said. “A lot of enterprise customers are leery that it’s moving back into the world of mainframes.”
+
+By focusing purely on providing services and tools around Kubernetes, McLuckie and Beda believe that they can be a neutral partner to enterprises that are looking to adopt containers and Kubernetes.
+
+Given its founders’ history, it’s no surprise that Heptio will also join the Cloud Native Computing Foundation. Both McLuckie and Beda, who will be the company’s CTO, stressed that Heptio will work in the open and contribute to the wider Kubernetes project. “As we look at the future of this, one key aspect I want us to inherit from the Kubernetes ecosystem is that sense of camaraderie and openness,” McLuckie said.
+
+What exactly Heptio’s products will look like, though, still remains to be seen. While McLuckie noted that there are some obvious gaps in the Kubernetes toolchain and ecosystem (he especially stressed the need for easier ways to stand up Kubernetes clusters), the company likely won’t have any services on the market for the next few months. What the team did say, though, was that Heptio is a product company — though like most open-source businesses, it also expects to sell support and services.  “We see a massive ecosystem around this in the future,” Beda said.
+
+For now, the Heptio team is just McLuckie and Beda, but the funding will allow them to quickly scale up the company now. Given their pedigree, it’s no surprise that the company has already raised an $8.5 million funding round, either (and it’s basically bypassing the seed round stage). This round was led by Accell (again, no surprise given Beda’s background) and Madrona Venture Group (also no surprise, given that both McLuckie and Beda are based in Seattle).

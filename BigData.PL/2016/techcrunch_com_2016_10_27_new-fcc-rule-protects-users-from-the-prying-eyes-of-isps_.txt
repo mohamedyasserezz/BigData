@@ -1,0 +1,25 @@
+New FCC rule protects users from the prying eyes of ISPs
+
+It’s a good day for consumers, and the advertisers are tearing out their hair: The FCC todayvoted to adopt new privacy rulesthat severely restrict what data ISPs can collect from you without your consent. The Association of National Advertisers called the rules “unprecedented, misguided and extremely harmful.” If that isn’t a strong endorsement, I don’t know what is!
+
+The rules are briefly summarized, which is usually a sign they’re strong and far-reaching. The nut of the new rule,first proposed earlier this year, is this: “ISPs are required to obtain affirmative ‘opt-in’ consent from consumers to use and share sensitive information.” Note that it doesn’t say they can’tcollectthat information — more on this later.
+
+And just what is sensitive information? The rule lists the following, but it’s not meant to be all-encompassing:
+
+It’s perhaps easier to define it by what sensitive informationisn’t. Simple things like email address, service tier, IP address, bandwidth used and other information along those lines doesn’t require your permission for use.
+
+This affects terrestrial ISPs like Comcast as well as mobile carriers like T-Mobile (Note: TechCrunch is owned by Aol, which is owned by Verizon, definitely an ISP).
+
+Naturally, that kind of data is extremely valuable for advertisers, and this particular golden goose just stopped laying. Who, after all, will opt into having that information shared with their ISP for the purpose of being advertised to?
+
+Advertisers say that this info is critical for offering consumers ads relevant to them, and that they use it responsibly. And that’s largely true. But FCC Chairman Tom Wheeler makes the only response necessary to that particular objection:
+
+“There is a basic truth: It is the consumer’s information. It is not the information of the network the consumer hires to deliver that information.”
+
+This is your data, and you control who sees it. Do you want to provide it so you can get ads targeted to your browsing habits and demographics? Go for it! That’s yourchoicenow.
+
+One concern is that ISPs will simply bury this consent in one of the many documents we tend to agree to without reading them. But you can always opt out, and the rule specifically prohibits the ISP from refusing service if you don’t opt into data sharing. Even if they decide to incentivize it — discounts or service improvements — the FCC will examine these situations case by case to see if they are reasonable or predatory.
+
+Now, thereisa bit of a loophole. A section of the FCC order fact sheet saying that de-identified, or anonymized, data is usable “outside the consent regime.” The phrasing was unclear so I checked with the FCC on this. It turns out that ISPs cancollectsensitive information without your consent — provided they properly de-identify it beforeusingit. That sounds a bit like the honor system to me.
+
+Don’t expect an email tomorrow asking what you’d like to share with your internet provider, though. These rules won’t go into effect for at least a year — although that doesn’t prevent companies from complying earlier than that.

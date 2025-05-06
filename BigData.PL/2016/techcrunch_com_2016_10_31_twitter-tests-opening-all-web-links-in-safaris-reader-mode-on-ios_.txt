@@ -1,0 +1,25 @@
+Twitter tests opening all web links in Safari’s ad-free “Reader mode” on iOS
+
+Amid all its turmoil –layoffs, failed attempts at finding an acquirer,the closure of Vine– the company is still futzing around with its product in an attempt to make it easier to use. The latest odd test involves Twitter’s iOS app launching web links in Safari with the Reader mode automatically turned on.
+
+This mode is a Safari feature which allows you to load up a distraction-free version of a website without the site’s formatting, ads, links and comments, among other things. The idea is to offer a clean, easy-to-read version of the website’s content. It’s great for reading longer articles without all the cruft that today appears on publishers’ sites.
+
+The test was first spotted byThe Guardian, who noticed that all the links they were clicking on in the iOS version of the Twitter mobile app were opening up in Safari with the Reader mode already enabled. Other Twitter users were reporting the same thing, according to posts on Twitter itself.
+
+Twitter has confirmed with us that it was testing this feature with select users. The goal was to refine the product and make Twitter easier to use, a spokesperson said.
+
+However, loading up links in Reader mode isn’t a great solution for either publishers or users alike. Publishers can’t customize the Reader version of a site, as they can with Facebook’s Instant Articles or Google’s AMP Project, and they’re not able to generate ad revenue from these pageviews. Meanwhile, not all content works well in Reader mode. News articles may be fine, but other sites don’t always display correctly, as The Guardian pointed out.
+
+The test is now one of many confusing changes Twitter is experimenting with in recent days – ironically, with the hope of making Twitter simpler for users. As TechCrunch’s Matthew Panzarinorecently reported,a test of a redesigned @ reply feature actually made it more difficult to follow along with conversations, not easier.
+
+What’s strange is how disconnected Twitter’s tests seem to be from what its user base is actually demanding. Better @ replies or Reader mode-enabled links are not among people’s top requests. Instead,what Twitter’s users really wantare simple things like an Edit button and impactful things for the community as a whole, like tools that cut down on fraud, trolling and abuse.
+
+However, the good news about this test is that it means Twitter hasfinally switched to using SafariViewController in some of its tests. This is in the in-app browser that allows cookies and extensions, and is more convenient than the older browser Twitter was using. With this enabled, you’ll stay signed-in to whatever you were signed into on Safari when clicking links in Twitter.
+
+Users who were opted-in to the new test offered mixed reviews. Some liked the distraction-free links, while others didn’t like that the feature was turned on for them automatically:
+
+https://twitter.com/scottew/status/791636561179779072
+
+https://twitter.com/ppippacs/status/791656892145754112
+
+https://twitter.com/RichMogridge/status/792123617177993216

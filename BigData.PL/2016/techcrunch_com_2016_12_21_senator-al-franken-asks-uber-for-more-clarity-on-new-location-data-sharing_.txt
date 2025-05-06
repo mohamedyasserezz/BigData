@@ -1,0 +1,11 @@
+Senator Al Franken asks Uber for more clarity on new location data sharing
+
+U.S. Senator Al Franken (D-Minnesota) has penned an open letter to Uber CEO Travis Kalanick asking the executive to provide more transparency around itsrecent changes to user location data collection. The letter contends that consumers should have more direct control over their personal data, but, failing that, they should at least be provided a full and clear understanding of how and when their data is being used in writing.
+
+The letter is a direct response to a product update from November that changed location services permission options from “while using the app” to a simple binary of “always” or “never,” a change Uber says was necessitated because it wants to be able to collect location info not only during their trip, but for up to five minutes after a trip is completed, in order to help it improve its pickup and drop-off location identification, as well as improve safety and fraud prevention practices.
+
+Ideally, Franken says Uber should implement in-app user controls over when and how data is shared, as a way of skirting the limitations of Apple’s system-level location service settings in iOS, which don’t allow much in the way of gradations beyond “on,” “off” and “on while using the app.”
+
+Failing that, the Senator would like Uber to make some changes to its privacy statement, which he articulates in full in his letter and which I reproduce below in their entirety for reference:
+
+Franken’s letter overtly states that he’s taking Uber at its word when it suggests it made the changes because it’s seeking to improve the service for end-users, and the overall customer experience. But he’s also asking nicely for assurances of thatin writingin Uber’s own user-facing policy, which is a way of holding it accountable to its stated justifications for the location data changes.

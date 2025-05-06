@@ -1,0 +1,11 @@
+Disney builds a jolly, one-legged hopping robot
+
+[youtube=https://www.youtube.com/watch?v=M0ZXmGRCuts]
+
+Researchers at Disney Research in Pittsburgh have built a single-legged hopping robot that can currently bounce around 19 times without falling over.
+
+Theproject by Zachary Batts, Joohyung Kim, and Katsu Yamanebegan as a computer simulation and finally a hardware product. The researchers based their system onMarc Raibert’s hopping controllerand it’s controlled by a linear elastic actuator in parallel or LEAP joint. It can jump for about seven seconds before tipping over.
+
+The researchers found that single-legged robots are the best test bed for more complex locomotion. “Legged robots are useful because, among other advantages, they can overcome uneven terrain, and can entertain an audience as they act out complex movements (e.g. different gaits),” they wrote. “Single-legged robots have the simplest topology in the class of legged systems, and are limited to a hopping gait. Not only do single legged hopping robots provide a simplified testbed for locomotion control algorithms, they also demand high-speed, high-force actuation to achieve safe and robust ground-clearance and subject the actuator to greater mechanical stresses than do multi-legged systems. For these reasons, single-legged hopping robots provide an ideal benchmark for actuators used in legged locomotion.”
+
+I personally think it kind of looks like a pirate Q-Bert and I, for one, welcome our one-legged robotic overlords.

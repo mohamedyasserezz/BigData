@@ -1,0 +1,23 @@
+Google lands in hot water after backtracking on earlier Allo privacy promise
+
+When Google firstannouncedAllo, its newest chat app, there was somecontroversyaround why the service didn’t use end-to-end encryption by default and only in its Incognito mode. The reason for this, Google has always said, was that it needed access to your messages in order to offer services like the Google Assistant and smart replies, all of which depend on knowing what you are talking about (and have talked about in the past).
+
+With the launch of Allo last night, a new issue arose. In aninterview with The Verge in May, published the day Allo was announced, Google’s director of engineering for its communications products Erik Kay said that messages would be read by Google’s servers but stored “transiently” and then automatically deleted after a while. Turns out, that’s not actually what Google is doing now that the product has launched.
+
+Allo does store your messages on Google’s servers indefinitely — that is, until you decide to delete them (and even then, the message is still stored until the people you were chatting with also delete their side of the conversation). That’s similar to how it handles your emails and Hangout messages, too, but in the post-Snowden age, expectations about privacy — especially for new products — are higher (and Snowden himself is clearly not an Allo fan either). If messages are stored on Google’s servers, after all, then a government agency could get a warrant and get access to them.
+
+Free for download today: Google Mail, Google Maps, and Google Surveillance. That's#Allo. Don't use Allo.https://t.co/EdPRC0G7Py
+
+— Edward Snowden (@Snowden)September 21, 2016
+
+As far as I can see, Google never talked about transient storage in its official announcement, but its spokesperson definitely set the expectation in his pre-launch interview.
+
+The only way to prevent Google from storing Allo chats is by using its Incognito mode, but then you lose all of the features that make Allo an interesting messaging service.
+
+Here is Google’s official statement:
+
+“We’ve given users transparency and control over their data in Google Allo. And our approach is simple — your chat history is saved for you until you choose to delete it. You can delete single messages or entire conversations in Allo. We also provide the option to chat in Incognito mode, where messages are end-to-end encrypted and you can set a timer to automatically delete messages on your device, and the recipient’s, at a set time.”
+
+It’s been a few months since Google first announced Allo and from what we understand, Google hadn’t even really started testing the app yet by the time it made the announcement. What the company realized in the meantime was that some features like smart replies simply didn’t work well unless the algorithms had access to the full chat history, so it had to backtrack on the earlier statement (and maybe hoped nobody would notice).
+
+All of this creates a headache for Google, though. Allo is already a late entrant into the messaging wars, the Google Assistant is getting mixed reviews already, and now one of its most anticipated product launches is once again mired in controversy. While it is true that Google is giving users a choice, it’s clearly steering them toward the less secure option. If you can’t live without the Google Assistant and smart replies, then that’s a trade-off worth making. If all you want is a secure messenger, though, there’s alwaysSignal(which, to bring this full circle, is made bythe same companythat also partnered with Google tosecure the Allo Incognito mode).

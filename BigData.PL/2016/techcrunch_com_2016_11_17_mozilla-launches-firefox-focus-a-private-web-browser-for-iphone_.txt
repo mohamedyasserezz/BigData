@@ -1,0 +1,21 @@
+Mozilla launches Firefox Focus, a private web browser for iPhone
+
+The makers of Firefox are todayintroducinga new mobile web browser for iOS users that puts private browsing at the forefront of the user experience. CalledFirefox Focus, the mobile browser by default blocks ad trackers, and erases your browsing history, including your passwords and cookies.
+
+The end result is a simplified browser that may load web pages more quickly, the company claims, given that ads and other web trackers can bog down pages and impact performance.
+
+The app was originally launched on the App Store almost a year ago, but at the time was designed as an ad-blocking utility that could remove ads and trackers from iPhone’s Safari browser. That feature is still available in the revamped app, but it’s now aiming to compete more directly with Safari, too.
+
+The browser itself doesn’t have any bells and whistles compared to its rivals, however. There are no tabs, no list of favorite sites, or numerous other configuration options. Instead, a trip to the Settings section only lets you toggle on or off the data you want to block, like ad trackers, analytics trackers, social trackers, other content trackers and web fonts.
+
+Oddly, given the widespread privacy issues Yahoo is facing in the wake of one of the largest data breaches of all time, Firefox Focus has opted to use Yahoo Search as its default search engine. There doesn’t appear to be a way to change this in the current version, which is frustrating. (Update: Mozilla says search engine choice will arrive in a later release. Other markets outside the U.S. may have a different engine than Yahoo.)
+
+Pointing users to Google may seem counterintuitive for a company focused on protecting personal data, but eliminating user choice in such a Big Brother-like fashion under the guise of knowing what’s best is off-putting, as well.
+
+After you complete a web search, you can erase that activity with a simple press of an “erase” button. Firefox Focus could have automated this, but there’s something about manually clearing a search that feels cathartic.
+
+Despite an increased interest in privacy — especially now, following this period of tumultuous political upheaval here in the U.S. — Firefox may again be too late the game to compete. Already, the top mobile browser makers offer private browsing modes, and there are a number of third-parties that have made private browsing a focus for years, like Tor. The App Store, too, is filled with utilities for private browsing, including a number of startups like Ghostery, Dolphin, Brave and others.
+
+Once one of the world’s top browsers in the desktop era, Firefox didn’t really weather the shift to mobile. Instead of jumping to produce a mobile-friendly browser for the dominant platforms, it protested against the App Store’s restrictions,refusing to build an iOS versionfor years. That finally changed, andFirefox for iOS launched to all around a year ago. But it simply was too late to matter.
+
+The new Firefox Focus isa free download on the Apple App Store. No word on if or when an Android version will be ready.

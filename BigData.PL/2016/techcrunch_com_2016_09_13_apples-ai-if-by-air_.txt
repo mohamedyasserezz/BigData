@@ -1,0 +1,55 @@
+Apple’s AI if by Air
+
+After only a few days with Apple’s wireless AirPod headphones, it’s clear that there will be a huge platform business based on the reliable, persistent availability of a contextual artificial intelligence that can talk to you and receive commands. That platform will benefit Apple first, but it will then expand — along with Siri — to developers and startup companies.
+
+The key bits of that, of course, are “reliable” and “persistent.” It is very similar to the way that the increasing sophistication of push notifications and the Apple Watch are making opening apps more optional than ever. If you know an iPhone user will have AirPods in their ear and can access the services you offer via Siri at any moment, then you’ve got a powerful new conduit to that user.
+
+It’s not well known outside of the industry, but a couple of years ago, Apple switched from its voice provider Nuance and fired up its own internal voice team. In a not unconnected event, Siri’s second major revision shipped a few months later, bringing a big jump in reliable recognition of commands. There’s still alotof room to grow, but it’s improving.
+
+Then Apple shipped the first wave of its SiriKit compatibility out to developers earlier this year at its developer conference, allowing a handful of categories of apps to offer up their services to Siri, to be commanded by the user. It was a lot less robust than some had hoped, but it will get iterated on. And there arecompetitors out there like Vivthat are also pushing the power boundaries of these interconnected contextual systems.
+
+But before Apple’s AI becomes a true audio platform, it needs hardware that makes it easier to put Siri in your ear — and no real reason to take it out. Enter the AirPods.
+
+Apple’s AirPods, announced alongside the iPhone 7 and iPhone 7 Plus last week, are two wireless earbuds that look like regular iPhone EarPods with the cables cut off. They snap into a small case that looks like a 22nd-century Tic-Tac package.
+
+The AirPods themselves have a battery and a new wireless chip in each pod that Apple is calling the W1. They also have accelerometers and two sensors that detect whether they’re inserted into your ear by touching your tragus and concha. They charge inside the case and the case charges via a lightning port.
+
+Right off the bat, all of the following should be qualified by the fact that the review set of AirPods I was givenare pre-production models. Since they go on sale later in the year, the final batches are not yet rolling off the assembly lines.
+
+“Pairing” the AirPods is incredibly easy, thanks to the W1 chip. The method is so easy in fact that Apple does not use the word pairing anywhere in its instruction manual — using the word ‘connect’ instead. It’s marketing, but it’s also a fair differentiation between the baroque drama that is most Bluetooth pairing sessions and the process of connecting AirPods.
+
+Specifically, the W1 chip is there to add this kind of drama free connection experience, as well as to regulate power, making the BTLE connection sip and keeping the AirPods working longer. It also does some quality-of-service work in the background. Think of it as a buttress under the Bluetooth’s rainbow bridge of questionable reputation.
+
+To connect the AirPods, you bring the case near (a few inches away) to an iPhone and flip the lid open. A connection dialog pops up on your screen and you tap on the connection button on the back of the case. That’s it. Connected.
+
+Connecting them to non-Apple devices is pretty standard. You hold the back button down and search for Bluetooth devices and connect like normal. They then work like regular earbuds.
+
+In a clever bit of engineering, the same contacts that charge the AirPods make them function as wireless radios for the case itself, which just contains a battery and a button.
+
+Apple says the AirPods get five hours of battery life with the case giving an additional 24 hours of charge. If anything, I found that estimate to be conservative. I listened to the AirPods for a couple of hours on the day receiving them, topping them off in the case. Then I listened to them for 4 hours straight on a drive and a bit more when I got home. I have yet to run them dead because you store them in the case, and they’re constantly being charged in their ‘storage’.
+
+The sound quality is very solid. Nice thumpy bass and crisp highs produce a very listenable sound, though it’s far from audiophile quality. These areverygood andveryloud earbuds that produce sound quality right in line with their $160 price. Because the seal (on my ear anyway) is so firm, and there are no cords to tug them around, they cancel outside noise very well (though there is no official noise cancellation functionality).
+
+Of course, your mileage may vary because ears are highly variable and they may not fit or stay in your ears. If the standard Apple earbuds do not fit your ears,it is highly unlikely that the AirPods will.However, if the standard earbudsfit,but do notstay in place, falling out while jogging or what have you, I would take a look at the AirPods still.
+
+In fact, the AirPods stay put in my ears incredibly well, not slipping while shaking my head or jogging or exercising. The biggest reason for this is they just have very little mass at all. With no cord, and next to no weight, there is nothing topullthem out of the ear. Whatever stress people had about them slipping out of a (compatible) ear, probably shouldn’t be given too much play.
+
+Range wise they are fairly standard, cutting out at around 50 feet with minor obstructions.
+
+Interacting with the AirPods is super slick. Inserting them into your ear gives an audio cue that says they’re on and activated (they turn off when out of your ear to conserve battery, with the W1 monitoring the sensors). Taking a single bud out of your ear will pause your audio and re-inserting it will start the audio again. You can just insert one and use that like a phone headset — they work independently of one another.
+
+To control them, you double tap, gently (tapping hard will likely lead to a sore tragus) to bring up Siri and then give Siri your commands. Double tapping while a phone is ringing will answer the phone call. That’s it. There are no other controls.
+
+Because everything happens via Siri, I was left feeling that the opportunity cost was too high for minor interactions like volume or track advancing. I’ve been forcing myself to use Siri, but I think many people will be reaching in pocket to make those adjustments at first.
+
+It’s going to take a big cultural adjustment here. Both to get used to seeing these cordless buds hanging out of people’s ears like a postmodernCeti eeland for people to get comfortable talking out loud to Siri for their every desire.
+
+I did find, however, that speaking commandssotto voce— not whispering, but in a low register — worked just fine. The two beam-forming microphones and the accelerometer that detects when your jaw is moving make this one of the best in ear microphone options I’ve used.
+
+I can’t help thinking it’s possible that “AI voice,” speaking lowly to your personal thinking machine, will become a thing as this kind of system becomes more commonplace.
+
+The style of the pods themselves, in white, will serve as branding much in the way that the original iPod headphones did — but I foresee them coming in gold, silver and black sooner, rather than later. As real computing devices that are meant to be worn, I’d look to the Apple Watch model with a variety of finishes and partnerships with companies like Nike and fashion houses to pop up. If they’re going to be displayed on our person so prominently, they would definitely benefit from an injection of personal style.
+
+Another item on my wish list: the AirPods automatically connect to other iPhones, iPads and Macs signed into the same iCloud account, which works great. But it does not currently work on the Apple TV. I’d love to be able to use them like portable home theater buds to listen to stuff when I don’t want to disturb the household. An edge case, to be sure, but it would be cool.
+
+Some AirPod tidbits:

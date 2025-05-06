@@ -1,0 +1,19 @@
+3D Hubs, an online marketplace for local 3D printing, scores $7M Series B
+
+3D Hubs, an online marketplace for 3D printing services, is tapping into two recent trends enabled by industrial 3D printing: the rapid prototyping of new products, and the move to personalised and bespoke production.
+
+The Amsterdam-headquartered startup connects those requiring 3D printing with local 3D printers, both through its website that lets you order 3D printing jobs online, including getting a real-time quote, and via an API that enables companies to automate short production runs of products on-demand.
+
+The latter, of course, is also powering“zero-inventory” manufacturing: products are only produced on a per-order basis (and in some instances are also fulfilled directly to the end customer), which is another trend that is starting to gain traction.
+
+To help further its mission to create a connected network of 3D printing services, 3D Hubs has closed $7 million in Series B funding. The round was led by EQT Ventures, with backing from previous investor Balderton Capital. Ted Persson, Design Partner at EQT Ventures, will join the 3D Hubs Board.
+
+“We’ve connected 3D printers from around the world to our online platform to let anybody access them,” 3D Hubs co-founder and CEO Bram de Zwart told me during a call last week. “So if you don’t own a 3D printer, you can go to our website and upload your design and we route your order to the best local supplier.”
+
+He says those supplies span 33,000 3D printers world-wide, capable of different kinds of 3D printing and materials. That means that, along with hobbyist manufacturers who were early to the platform, 3D Hubs is now primarily used by professional product designers and manufacturers who prefer not only the choice that a 3D printing marketplace can offer but also the convenience 3D Hubs provides when placing repeat orders and so on.
+
+That’s because, de Zwart says, the startup has worked hard at streamlining the ordering and quotation features, including tech that can check the integrity of any uploaded CAD file and spot any problems in around 90 per cent of cases.
+
+Meanwhile, the 3D Hubs CEO, who is undoubtedly well-positioned to know, tells me he thinks 3D printing is and will lead to a renaissance in local manufacturing, as many products in the future move away from mass, largely Asia-based production.
+
+This, he says, is already seeing different 3D printers selected depending on where in the world the resulting products are to be shipped, not where the design of the products originate. In this way, 3D Hubs enables companies to have a 3D printer (and, potentially, fulfillment too) located anywhere their customers are, says de Zwart.

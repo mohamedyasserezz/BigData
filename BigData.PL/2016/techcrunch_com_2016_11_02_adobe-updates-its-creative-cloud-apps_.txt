@@ -1,0 +1,23 @@
+Adobe updates its Creative Cloud apps
+
+Adobe is hosting itsannual MAXconference for its creative community in San Diego this week. Unsurprisingly, the company is using this event, which will feature keynotes by the likes of Quentin Tarantino, to announce a lot of news around its Creative Cloud applications like Photoshop, Illustrator and Premiere, as well as its new tools for interactive designers like Adobe Experience Design.
+
+With this update, Adobe isn’t leaving any of the core Creative Cloud applications untouched — and it’s also launching a major new tool. There isn’t enough space here to look at every new feature and tweak, but let’s talk about some of the highlights.
+
+You won’t find any new major marquee features that rival the launch of content-aware fill in Photoshop in this update, but maybe the biggest surprise of the day is thelaunch of Project Felix. You can read more about this new 2D/3D compositing toolhere, but the basic idea here is to allow you to combine 2D and 3D objects and create a photo-realistic scene this way. The tool is meant to give graphic designers access to tools that previously necessitated complex 3D programs.
+
+Adobe’s flagship Photoshop CC is getting a few new features that center around the daily workflow of its users. It now features a universal search bar, for example, as well as a visual search tool that lets you search Adobe Stock for just the right kind of stock photo. One cool feature here is that can simply select a part of your photo (which could also be a collage), and Adobe Stock will automatically find matching images, too, thanks to Adobe’s work on Sensei, it’s artificial intelligence framework.
+
+Photoshop (as well as Illustrator) are also getting support for templates in Adobe Stock and better support for working with SVG elements and SVG color fonts.
+
+On the video front, After Effects is getting a new 3D rendering engine that renders 3D elements twenty times faster than before. Premier is getting better support for virtual reality content and Character Animator (which is still in beta), now makes creating puppets faster and easier thanks to a closer integration with Photoshop and Illustrator. Given that video is quickly becoming increasingly important on social media sites, Adobe is also adding a few new features to Premiere Pro that optimizes videofor sharing across multiple video platforms.
+
+With Team Projects (which is also now in beta), users will also be able to co-edit videos simultaneously. This feature is available for Adobe Cloud for Teams and Enterprise users for now and works in Premiere, After Effects and Prelude.
+
+The company is also announcing a few new features for Adobe Experience Design (XD), which is still in Beta. XD is Adobe’s new tool for designing and prototyping mobile apps. It’s getting support for layers and commenting. XD users will now also see real-time previews of their updates on mobile. For now, XD is only available on MacOS, but Adobe promises that it will launch a Windows 10 version before the end of the year (Adobe actually believes this is the most complex Universal Windows App yet). In the first half of 2017, Adobe will also bring co-editing and visual versioning to XD. While you will still have to wait for the Windows version, the latest betas of XD and Android are now available for Mac.
+
+Spark, Adobe’s storytelling app, is also getting a minor update. Paid Creative Cloud members will now get a couple of exclusive features. The first of those is the ability to remove all of Adobe’s branding from the app. The free version of Spark will remain available, too.
+
+Oh — and if you’re and Android user, it’s time to rejoice. All of Adobe’s Creative Cloud apps, which all first launched on the iOS, are now available on your platform of choice, too. The apps are all getting a few new features with the ability to use Photoshop brushes in Sketch, for example.
+
+As you can see, a lot of the updates aren’t about new features so much as about workflow enhancements. I expect we’ll hear more about upcoming new features later this week as Adobe tends to have quite a few surprises in store for it’s “Sneaks” event that caps off the conference’s keynote program on Thursday night.

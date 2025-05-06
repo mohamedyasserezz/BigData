@@ -1,0 +1,51 @@
+How fog computing pushes IoT intelligence to the edge
+
+As the Internet of Things evolves into the Internet of Everything andexpands its reach into virtually every domain, high-speed data processing, analytics and shorter response times are becoming more necessary than ever. Meeting these requirements is somewhat problematic through the current centralized, cloud-based model powering IoT systems, but can be made possible throughfog computing, a decentralized architectural pattern thatbrings computing resources and application services closer to the edge, the most logical and efficient spot in the continuum between the data source and the cloud.
+
+The term fog computing, coined by Cisco, refers to the need for bringing the advantages and power of cloud computing closer to where the data is being generated and acted upon. Fog computing reduces the amount of data that is transferred to the cloud for processing and analysis, while also improving security,a major concernin the IoT industry.
+
+Here is how transitioning from the cloud to the fog can help deal with the current and future challenges of the IoT industry.
+
+The IoT owes its explosive growth to the connection of physical things and operation technologies (OT) to analytics and machine learning applications, which can help glean insights from device-generated data and enable devices to make “smart” decisions without human intervention. Currently, such resources are mostly being provided by cloud service providers, where the computation and storage capacity exists.
+
+However, despite its power, the cloud model is not applicable to environments where operations are time-critical or internet connectivity is poor. This is especially true in scenarios such as telemedicine and patient care, where milliseconds can have fatal consequences. The same can be said about vehicle to vehicle communications, where the prevention of collisions and accidents can’t afford the latency caused by the roundtrip to the cloud server. The cloud paradigm is like having your brain command your limbs from miles away — it won’t help you where you need quick reflexes.
+
+Moreover, having every device connected to the cloud and sending raw data over the internet can haveprivacy, security and legal implications, especially when dealing with sensitive data that is subject toseparate regulations in different countries.
+
+IoT nodes are closer to the action, but for the moment, they do not have the computing and storage resources to perform analytics and machine learning tasks. Cloud servers, on the other hand, have the horsepower, but are too far away to process data and respond in time.
+
+The fog layer is the perfect junction where there are enough compute, storage and networking resources to mimic cloud capabilities at the edge and support the local ingestion of data and the quick turnaround of results.
+
+Astudy by IDCestimates that by 2020, 10 percent of the world’s data will be produced by edge devices. This will further drive the need for more efficient fog computing solutions that provide low latency and holistic intelligence simultaneously.
+
+Fog computing has its own supporting body, theOpenFog Consortium, founded in November 2015, whose mission is to drive industry and academic leadership in fog computing architecture. The consortium offers reference architectures, guides, samples and SDKs that help developers and IT teams understand the true value of fog computing.
+
+Already, mainstream hardware manufacturers such as Cisco, Dell and Intel are teaming up with IoT analytics and machine learning vendors to deliver IoT gateways and routers that can support fog computing. An example is Cisco’s recent acquisition ofIoT analytics company ParStreamandIoT platform provider Jasper, which will enable the network giant to embed better computing capabilities into its networking gear and grab a bigger share of the enterprise IoT market, where fog computing is most crucial.
+
+Analytics software companies are also scaling products and developing new tools for edge computing.Apache Sparkis an example of a data processing framework based on theHadoopecosystem that is suitable for real-time processing of edge-generated data.
+
+Other major players in the IoT industry are also placing their bets on the growth of fog computing. Microsoft, whoseAzure IoTis one of the leading enterprise IoT cloud platforms, is aiming to secure its dominance over fog computing by pushing its Windows 10 IoT to become the OS of choice for IoT gateways and other high-end edge devices that will be the central focus of fog computing.
+
+Fog computing improves efficiency and reduces the amount of data that needs to be sent to the cloud for processing. But it’s here to complement the cloud, not replace it.
+
+The cloud will continue to have a pertinent role in the IoT cycle. In fact, with fog computing shouldering the burden of short-term analytics at the edge, cloud resources will be freed to take on the heavier tasks, especially where the analysis of historical data and large datasets is concerned. Insights obtained by the cloud can help update and tweak policies and functionality at the fog layer.
+
+And there are still many cases where the centralized, highly efficient computing infrastructure of the cloud will outperform decentralized systems in performance, scalability and costs. This includes environments where data needs to be analyzed from largely dispersed sources.
+
+It is the combination of fog and cloud computing that will accelerate the adoption of IoT, especially for the enterprise.
+
+The applications of fog computing are many, and it is powering crucial parts of IoT ecosystems, especially in industrial environments.
+
+Thanks to the power of fog computing, New York-based renewable energy companyEnvisionhas been able to obtain a15 percent productivity improvementfrom the vast network of wind turbines it operates.
+
+The company is processing as much as 20 terabytes of data at a time, generated by 3 million sensors installed on the 20,000 turbines it manages. Moving computation to the edge has enabled Envision to cut down data analysis time from 10 minutes to mere seconds, providing them with actionable insights and significant business benefits.
+
+IoT companyPlat Oneis another firm using fog computing to improve data processing for the more than 1 million sensors it manages. The company uses the ParStream platform to publish real-time sensor measurements for hundreds of thousands of devices, including smart lighting and parking, port and transportation management and a network of 50,000 coffee machines.
+
+Fog computing also has several use cases in smart cities. In Palo Alto, California,a $3 million project will enable traffic lights to integrate with connected vehicles, hopefully creating a future in which people won’t be waiting in their cars at empty intersections for no reason.
+
+In transportation, it’s helping semi-autonomous cars assist drivers inavoiding distraction and veering off the roadby providing real-time analytics and decisions on driving patterns.
+
+It also can help reduce the transfer of gigantic volumes of audio and video recordings generated by police dashboard and video cameras.Cameras equipped with edge computing capabilitiescould analyze video feeds in real time and only send relevant data to the cloud when necessary.
+
+The current trend shows that fog computing will continue to grow in usage and importance as the Internet of Things expands and conquers new grounds. With inexpensive, low-power processing and storage becoming more available, we can expect computation to move even closer to the edge and become ingrained in the same devices that are generating the data, creating even greater possibilities for inter-device intelligence and interactions. Sensors that only log data might one day become a thing of the past.

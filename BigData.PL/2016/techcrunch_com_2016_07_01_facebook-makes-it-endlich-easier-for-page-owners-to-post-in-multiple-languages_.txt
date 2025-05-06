@@ -1,0 +1,15 @@
+¡Finalmente! Facebook makes it easier to post status updates in multiple languages
+
+Facebook today announced a new feature that makes it easier to publish status updates in multiple languages. Until now, you either had to post long updates that included all of the translations of the text or maybe post multiple updates — one for each language.
+
+Back in February, Facebook startedtestinga new feature that allowed Page owners to write a status update in multiple languages, and now the company is also starting to roll this out to individual users.
+
+Here is how this works in practice: you simply write your post in one language and then look for the “Write post in another language” prompt in the composer. You tell Facebook what language that next version is in, write the translation, and either call it a day or add even more languages. Readers then see the text in their preferred language.
+
+That sounds pretty straightforward, but Facebook says it actually took quite a bit of engineering work to make it happen. The team needed to develop a way to store all of the translations, for example, because the way the service was previously engineered, the assumption was that every post contained a single message in one language.
+
+The next challenge then was to determine which language to show to which user. Facebook says it uses “several signals to determine the most relevant version of the post to show each viewer, including the language preferences and the locale that people selected for their accounts, as well as the language they most commonly post in (using a naive Bayes classifier to determine the probability distribution of the text across the languages our system can identify).”
+
+While Facebook PR tried to sell this system to us as ‘AI,” the concept of naive Bayes classifiers have been around for a very long time (Thomas Bayes, after all, developed the theorem this is based onback in the 18th century). Facebook does say, however, that it plans to use these multiple translations to improve its machine translation system, too. “This will move us closer to our vision of removing language barriers across Facebook,” the company says.
+
+If you are part of the test group, you can now enable this feature, look for the ‘Languages’ section in your account section to enable the multilingual composer (and Pages owners who haven’t opted in yet can find instructionshere).

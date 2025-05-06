@@ -1,0 +1,23 @@
+Apple’s new TV app goes live on Apple TV, iPhone and iPad
+
+Apple’snew TV applicationis now available to all users, thanks to the iOS and tvOS updates rolling out today. The app,first introduced this fall,offers Apple TV, iPhone and iPad users a single destination to access the TV shows and movies from across the apps you have installed on your devices, while also helping you keep track of favorites programs, search across apps, get recommendations, plus access your own iTunes library and the iTunes store.
+
+The idea of a centralized application comes at a time when there are a growing number of streaming video applications available for watching TV on mobile phones, tablets and other connected devices. However, end users have been frustrated by the fragmented experience this multitude of apps offers – not only do you have to sign in or authenticate with your pay TV provider in order to watch on each one, it’s hard to remember which network’s app has your favorite shows and films.
+
+“TV,” as Apple’s new app is called, is meant to simplify video viewing on Apple TV, iPhone and iPad with a user experience that feels more like a Netflix front-end to the wide array of content that’s available across applications.
+
+Unfortunately content from all the major streaming providers – including Netflix – is not available through the TV app. Instead, the focus seems to be more on aggregating the content across individual TV networks’ applications, rather than all the major services. However, Hulu and HBO are supported at launch, at least.
+
+Thanks to single sign-on, U.S. users can more easily access the content that requires a pay TV subscription as they only have to enter their login information one time. Apple has been steadily adding providers to the list of those that support single sign-on during the beta, and, as of today’s launch there areseveralon board. These include familiar brands like Dish, DirecTV, and Sling TV, but not yet some of the larger names in telecom like Comcast or Time Warner, for example.
+
+The TV app includes a variety of features to help you more easily find something to watch. With Live Tune-in with Siri, you can tell Siri that you want to watch the game, ask her which games are on right now, or tell her the name of a program you want to see. This will immediately launch the stream in question, without you needing to navigate to the live stream from within the TV app itself.
+
+If you don’t know what to watch, you can ask Siri for ideas by saying things like “What should I watch tonight?” or “Show me great holiday movies.”
+
+You can also tell Siri that you want to continue watching a show or movie, and the video will start where you left off. Your progress will be synced between devices, too, so you can start viewing on one and pick up on another.
+
+Inside the TV app are sections that will help you discover what’s on and what you may like. A “Watch Now,” section includes all the shows and movies from both iTunes and your apps, while “Up Next” points you to those you’re currently watching or new rentals and purchases you’ve made.
+
+Meanwhile, Apple is also offering recommended content through curated collections to help you find trending shows, shows and movies by genres, and other hand-picked collections from Apple’s editors.
+
+The TV app with single sign-on was previously rolled out in the Apple beta releases, so we knew its public launch was nearing. The app works on all fourth-generation Apple TVs and will arrive in latest version of its mobile software, iOS 10.2.

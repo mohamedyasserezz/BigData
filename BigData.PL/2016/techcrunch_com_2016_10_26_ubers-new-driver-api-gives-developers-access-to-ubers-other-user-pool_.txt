@@ -1,0 +1,11 @@
+Uber’s new Driver API gives developers access to Uber’s other user pool
+
+Uber has had developer tools for reaching riders for over two years, but now it’s also letting third-parties build products tailored specifically to its driver community, via a new Driver API revealed Wednesday. The Driver API will provide developers a direct channel to build apps for a targeted user group of drivers that Uber says is over 1.5 million people strong, according to aMedium postfrom Uber product lead Chris Saad, which is itself larger than most consumer-side communities enjoyed by a lot of apps and services.
+
+The Driver API will make driver profile data, trip, earnings and other info available to developers for the purpose of creating apps tailored to enhancing or complementing the Uber driver experience. It’s also exposing Driver Ratings data, which Uber says can be useful as a kind of reputation metric to “bootstrap trust” for new services, or to act as a measure that can drive rewards.
+
+Drivers have control over authorizing apps to access this data, similar to how apps that use Facebook or Google accounts for login or registration request access to that profile information. The three endpoints available to developers including driver profile info, including rating as mentioned; trip info, including things like distance and fare; and payment, including payments made to the driver, when and for how much.
+
+Uber has already been working with some partners to demonstrate potential uses of the Driver API, and the results include a resume building tool, a Sears Auto Center loyalty points reward program based on number of completed trips and an app that creates route recommendations based on combined trip data to maximize driver earring potential. There’s also a Stride app for helping drivers keep on top of their taxes and earnings, and an upfront payment app called Activehours.
+
+The Uber Driver API is available in a limited capacity now, though documentation is available publicly for anyone consideringapplying for access, which Uber will gate for the time being. Uber is smart to start making the most of the other side of its two-sided marketplace with these new developer tools, both in terms of further capitalizing on a sizeable resource and in terms of building an ecosystem that could lead to more loyal service providers.

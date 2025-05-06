@@ -1,0 +1,37 @@
+How Google’s Search business and humanity’s information is disappearing
+
+Search, Google’s crown jewel, and humanity’s way of finding the world’s information, has big problems. These problems threaten the internet as we know it; if they’re allowed to continue developing, unchecked, the consequences will be far-reaching and severe. Collectively, these threats are called Dark Matter.
+
+Dark Matter is the information on the internet that search engines cannot see, index or search, and the more Dark Matter there is, the darker Google’s future. It’s the stuff buried within apps, social networks and single-page architectures.
+
+What makes Dark Matter so dangerous and difficult to stop is that the technology responsible for it is has also become essential to modern life. If its growth continues unchecked, Dark Matter could eclipse discoverable information, which would not only destroy Google’s Search, it could take the world’s information and lock it away inside private internet fiefdoms.
+
+Do we know how much Dark Matter exists? Like its astrophysical namesake, it’s difficult to tell directly. But we can measure Dark Matter’s impact on adjacent internet markets. For example, when you take a look at search advertising revenue, the problem becomes illuminated in shocking clarity. Ever since its inception in the late 1990s, Search has grabbed an ever-increasing share of digital advertising revenue. But in 2016, the IAB dropped a bombshell: It reported thatSearch advertising, Google’s cash cow, saw its first ever decline in revenues, whileFacebook, the largest Dark Matter generator in the world, saw its largest ever revenue growth.
+
+Something dramatic has changed.
+
+Social networks have extraordinary reach on the web —31 percent of humanityhas at least one social network account. And the amount of content contributed to the social web is staggering.In 60 seconds, almost 4 million posts are made to Facebook, Twitter and Instagram, and 400 hours of video are uploaded to YouTube. During that minute, Google processes 3 million searches.
+
+Those social networks are privately controlled. While Facebook is currently searchable, Mark Zuckerberg could decide, at any given moment, to make Facebook and Instagram’s content unavailable to external search engines, instantly transforming an enormous area of the web into Dark Matter. Google could choose to restrict YouTube results to its own engine. Twitter could keep individual tweets from appearing in SERPs. Each of these social platforms has the potential to become its own private internet.
+
+And how does the concept of a private internet play out? We are learning more, in light of the 2016 presidential election, of the existence offilter bubbles, which encourage unprecedented levels of confirmation bias, both in social media and search. That problem will only be exacerbated with the expansion of Dark Matter.
+
+Apps have defined the modern, mobile lifestyle. The problem is, they are totally separate from the searchable web as a matter of course. Apps came about in response to technology constraints on the first iPhone. They have developed into the central theme of this technological zeitgeist. Search crawlers have no access to the compiled code of native apps, which lives outside of mobile browsers. The content within apps is unavailable to search engines as ade factoresult of their construction.
+
+So with only a few exceptions, the information you enter into your phone is all Dark Matter. And consumers spend85 percent of their time on smartphones within apps, trapping more and more of their connected lives in these disconnected islands.
+
+We’re sticking with policies that took hold in 2007. Since then, mobile browsers and devices have become significantly more powerful, and connection speeds have skyrocketed. So why haven’t we moved beyond the limitations of the native app?
+
+The web’s alternatives to native apps do little to solve the problem. The web is replete with single-page sites and web apps. While minimalist single-page executions can be beautiful, and have become wildly popular (despite somereservationsin thedevelopmentcommunity) they, like native apps, also exist within their own unsearchable bubbles. That’s because the indexable data within single-page apps do not exist as searchable HTML files, it sits behind executable JavaScript code — and that’s meaningless to a traditional search crawler.
+
+Well, not quite. Google has updated its crawler technology so that it can see the data behind the JavaScript. The problem is, you have to build your site the way Google wants you to. And that’s one bridge too far for many companies. But where does that leave other Search providers, or single-page apps built on other technology? Where does that leave the users who want to use alternative engines, like Bing or DuckDuckGo? There are obvious benefits to single-page designs — like user-friendliness and reduced queries to servers — but are those benefits worth the loss of SEO-ability?
+
+If you abstract out these issues, you can see where this is going. Search — the core of our internet and the current information paradigm humanity relies on — will collapse under the weight of Dark Matter. As I see it, we have two options:
+
+Which scenario is best is a function of who you ask. But when will we know who won?
+
+Despite what popular media might suggest, many paradigm shifts don’t happen in a single, pivotal, “eureka” moment. They are evolutions, not events. They’re at the culmination of many years’ worth of work done by many great minds all contributing to the human effort to eventually solve an enormous problem.
+
+The echelon of innovations that lead to a lasting solution, whichSteven Johnsoncalls the adjacent possible, will be the battlefields that will shed light on who is winning the fight to control the future of information. Over the next decade, it will be a Game of Thrones amongst the Great Houses of Tech:
+
+Will Google retain the throne? Or will we see the fall of House Google, followed by a crowning of many kings?

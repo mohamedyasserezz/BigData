@@ -1,0 +1,127 @@
+Patient data API pivotal to DeepMind’s push into UK’s NHS
+
+DeepMind Health’s inaugural collaboration with the U.K.’s National Health Service (NHS), initially focused on building an app for helping early detection of Acute Kidney Injury (AKI), wasrelaunched earlier today— under a new information-sharing agreement with the Royal Free NHS Trust, and a broader scope for the collaboration.
+
+The agreement lasts until at least 2021.
+
+Under the arrangement, patient identifiable data (PID, aka people’s medical records) continues to be shared across a wide range of data types for some 1.6 million+ individuals who are being treated or have been treated at the Royal Free’s three London hospitals (five years of historical in-patient data is also made accessible under the arrangement).
+
+The types of data being shared under ISA 1 and 2 (aka the legal contracts that set out how the data can be used) are described as “similar” by DeepMind — and a spokesman confirmed that patient data shared under the original arrangement has therefore not been deleted (given that they view it as a continuation of the same arrangement). The relevant section of ISA 2, detailing the data types being shared, can be found at the bottom of this post.
+
+There are some notable additions to the project at this point — such as a plan to create a technical audit infrastructure to track and log individual access to patient data, and an explicit commitment in the ISA that Google will not use the PID for any other purpose, nor combine it with other data, nor sell data to third parties. (Although one legal expert we contacted was less reassured, noting for example there is no explicit bar on Google conducting marketing on the data.)
+
+But buried at the bottom of the PR announcing the forthcoming roll-out of the Streams app in Royal Free hospitals in early 2017 is a major new facet to the collaboration: a plan to develop a data-sharing access infrastructure for the Royal Free, aka a FHIR (fast healthcare interoperability resources) API.
+
+Noting this new development project in passing on theStreams website, DeepMind writes:
+
+In time, we hope that [Streams] can help unlock the next wave of innovation in the NHS. The infrastructure that powers Streams is built on state-of-the-art open and interoperable standards (known as FHIR) allowing the Royal Free to have other developers build new services that integrate more easily with their systems.
+
+More detail is provided in an FAQ further down the page — where it becomes clear the Streams AKI app is really just the initial showcase for the underlying data access and streaming infrastructure DeepMind is intending to create to facilitate/broker access to NHS patient data, via its API, with the aim of powering a third-party health app ecosystem.
+
+Here DeepMind writes:
+
+Currently, [patients’ complete medical history] information exists across several different hospital systems that don’t talk to each other as efficiently as they could, which has a knock-on effect on patient care. Streams will help bring that information together and allow doctors to access it securely and instantly on smartphones when they need it. But to make this happen, Streams and those systems need to use a shared computer language.
+
+We have committed to building our infrastructure on open and interoperable standards, namely the FHIR API (Fast Healthcare Interoperability Resources Application Programming Interface) that many others across the sector have agreed will be a new standard in health tech. Not only will this ensure the data we process is in a modern infrastructure, but it will help to develop common information processing standards that other technologists and clinicians can also use to build their apps and other software which will improve patient care (subject to those third parties seeking all the appropriate approvals).
+
+The services agreement contract between the Royal Free and DeepMind further notes that the FHIR API will be owned by DeepMind, and licensed to the Trust for non-commercial, internal use during the five-year term of the agreement.
+
+What’s now clear is that there is a very considerable widening in scope of the collaboration between DeepMind and the Royal Free, with the Streams app itself evolving into a more general-purpose clinical assistance function (including incoming features such as in-app messaging, for example). And — even more significantly — DeepMind using Streams as the pilot project for building a Trust-wide access infrastructure for patient medical records.
+
+This far more substantial infrastructure project seems a better explainer for the scope of the PID data originally shared under the initial ISA, signed between DeepMind and the Royal Free back in September 2015 — although, when the partnership was publicly launched in February, no explicit mention was made of an intention to build a streaming health data access infrastructure for enabling a third-party app ecosystem.
+
+The first mention of the FHIR on the Streams website was earlier today — when DeepMind also added this explainer infographic of the intended infrastructure …
+
+Speaking to TechCrunch today, DeepMind co-founder Mustafa Suleyman describes the FHIR API as “a central part of what we’re doing”. “The idea is that we basically create a standard interface that allows third-party developers to build their applications into a canonical API,” he says. “What we’re trying to do is make it as easy as possible for different developers of different sizes, small and big, to build into a standardized file format… We wouldn’t have any role in determining who could build into that API or not.”
+
+So, in theory, DeepMind could charge developers for access to this API in the future — as its route to monetizing the FHIR API — although Suleyman would not confirm if this is the intention when asked directly, saying only: “I don’t know.”
+
+The discrepancy between the scope of the data originally made accessible to DeepMind under the original data-sharing arrangement and the stated kidney app use-case explains the crux of thecontroversy that blew up earlier this year— when it was revealed quite how much data was flowing from the Royal Free to the Google-owned company. Far more than appeared necessary for an app simply targeting AKI. And, lo and behold, DeepMind’s ambitions for this NHS Trust’s data do indeed scale far greater.
+
+“Why was the FHIR API secret until10amthis morning?” queries Sam Smith of health data privacy advocacy groupMedConfidential, which has been critical of the DeepMind/Royal Free arrangement since details were made publicly available. “The contract is for Google to build two things: 1. Streams, 2. FHIR API, and it is 2 that is the justification for all the data being copied into Google.
+
+“In the same way that if you want the prettiness of Gmail, you have to give Google all your data to show you ads, the deal for the app (with all the governance) is that you have to have the data copying for the API. The legal justification for copying data on everyone in the hospital is “we’re building a shadow IT infrastructure.” The public justification is “look, pretty app!” That’s not necessarily wrong, but why was the FHIR API not mentioned yesterday?”
+
+For its part, DeepMind has maintained it is not breaking any NHS information governance rules by processing so much PID for a specific app use-case — or indeed for the planned FHIR data access infrastructure. Rather, it has said it needs access to all the data as AKI could potentially affect any patient.
+
+More broadly, it claims there’s no difference in the structure of the information-sharing arrangement it has versus other third-party healthcare system providers to the NHS, such asCerner. Although Smith dismisses this argument, pointing out that Cerner provides “the primary mission critical IT system for the entire hospital” versus DeepMind building just an app.
+
+We’ve contacted two of DeepMind Health’s independent reviewers who have clinical backgrounds to ask for their opinion on this point and will update this post with any response.
+
+Asked why DeepMind did not reveal its plans to build a data access infrastructure sooner in regards to the Streams project, Suleyman says he has personally talked about the company’s “commitment to open standards and interoperability” — and points to a paragraph on its website when it launched in February which references an aim to “build technologies that work together.” Although it’s a pretty big leap from such broad-brush comments to the PID API being revealed as the keystone of the project now — with Streams evolving into the showcase app for a future third-party healthcare services developer ecosystem.
+
+Also ongoing: an ICO investigation into the legality of the original data-sharing arrangement between DeepMind and the Royal Free; and areview by the U.K.’s National Data Guardian, the government appointee that works with the Department of Health to help ensure citizens’ confidential health data is safeguarded and used properly, considering how data is being shared for the Streams project.
+
+Despite these bumps in the regulatory road, Suleyman rejects the idea the Royal Free collaboration is having to be “relaunched” now — characterizing this next phase as a “natural progression” of an evolving partnership.
+
+“We’ve taken the last six to nine months to get to know one another better, to meet the teams more deeply, to prototype a bunch of throwaway applications, do some very early user testing and development, and out of all of that has come a really great relationship — and now we’ve decided to launch a five-year partnership,” he says, adding: “This is increasing the strength and depth of the relationship.”
+
+He is also at pains to characterize the data-sharing arrangement as highly “transparent” — rebutting criticism to the contrary — although he concedes, “in hindsight,” it would have been better if the Royal Free collaboration had been made public sooner than the four+ months it took for DeepMind Health to be officially announced versus the signing of the ISA.
+
+“We’ve committed, from the day that we launched DeepMind Health in February, to setting a new standard in transparency and information governance,” he adds. “And we started that by appointing our independent reviewers — these are nine, impartial, unpaid, uncontracted public experts who we’ve invited to scrutinize us in the public interest. That in itself I think is unprecedented.”
+
+Julian Huppert, chair of DeepMind’s group of external reviewers, tells TechCrunch their “principle output” will be an annual review. “We are currently working towards that,” he says. “The exact coverage of issues to go into that review is not yet finalised, but is planned to include data security, information governance, clinical utility, system interactions and the overall business model. We would be happy to receive further suggestions for areas to cover.”
+
+“We will shortly be commissioning technical audits of the DMH systems, using a specialist of our choice, paid for by DMH,” he adds. “DMH have offered us a £50k budget, but have also been clear that if our reasonable costs of hiring experts in exceeds that budget, they will provide further support. We are all unpaid, other than expenses.”
+
+Another forthcoming technical audit infrastructure for the Royal Free PID data — also only announced earlier today, and slated to be built by Ben Laurie, co-founder of the OpenSSL project (but now a DeepMind employee) — is, says Suleyman, intended to help DeepMind deliver “a level of oversight and transparency that goes above and beyond what anyone else in the system has been doing today.”
+
+“I think it’s really important that we can verify that data has moved around a technical infrastructure according to policies that have been approved by the information governance experts in that system and the controllers of the data,” he says. “Increasingly we have techniques that can prove with mathematical certainty the proof of encryption that information has passed from one location to another, or it has been accessed by one member of staff or another for a specific purpose.”
+
+That said, he confirms the technical audit infrastructure will not launch in time for the rollout of the Streams app — describing it as “a research project” at this point, and setting a potential launch as more than a year out at this point, i.e. well after Streams is up and running.
+
+“That’s something that we’re working on,” he says. “That we think will be prototyped by the end of [2017]. So it’s not a legally required thing — it’s going way above and beyond what is required but we think it’s an additional layer of security and transparency that I think will add a lot of extra value. But it won’t be ready for January or February or March.”
+
+Discussing the controversy over the structure of the data-sharing arrangement, Suleyman is strident in rejecting criticisms of the scope of its access to patients’ medical records — seeking to justify the sharing of Trust-wide PID for the Streams app by drawing a parallel between mission critical IT systems providers (such as Cerner) and DeepMind’s NHS collaborations.
+
+He also attempts to create a legal distinction between data being “processed” (i.e. access being granted by the Trust to DeepMind as the data processor) and specific patient data being accessed by someone using the Streams app — i.e. at the point of patient care occurring.
+
+And he reiterates that the current arrangement with Royal Free does not enable DeepMind to use the PID data to build any other products — nor as raw material for developing any machine learning models off of the NHS data. That would require additional agreements to be signed, he says.
+
+“The intuition that I have, as we see it, [is] this data cannot be used for any other purpose, other than when a nurse or a doctor wants to use it for direct care. So the only ever time that this is accessed by anybody for any purpose is when the clinician is standing in front of a patient, or is off to see a patient, or is discussing a case with a colleague. It’s all direct care,” he argues.
+
+“If we wanted to go and do secondary research, or if we wanted to train a machine learning model, or anything else that would require a completely different data architecture, a completely difference infrastructure, a whole set of different legal agreements, a whole different set of information governance standards and so on and so forth. That’s very, very different to, I think, the terms under which we are accessing data today. I think there’s been a lot of misunderstanding about that… This is entirely consistent — it’s exactly the same agreement as a Cerner or an Epic or Systems C or Allscripts.”
+
+“It’s really important that the questions being raised are raised in that context of the broader market situation,” he adds. “It’s really important to understand that the consent model today, which we have followed, which is entirely in line with the controller/processor arrangements that are in place across every Trust across this country — 200 or so Trusts, operate under the same framework — which is the hospital take responsibility as the controller for processing the patients’ data in order to improve care, and so our job is to do whatever the hospital tells us with respect to developing software that they think is going to improve care.
+
+“That’s essentially the consent model. When you go into the hospital, in return for your care, you agree to allow the controller, the hospital to process the data as it sees fit — in order to improve patient care. It can’t do anything else with that data other than improve the direct care that you receive, on a day to day basis, whilst you’re in admission. And that’s exactly the framework that we’ve been operating under.”
+
+But not everyone is convinced by Suleyman’s “intuition” of the legal soundness of the arrangement. Jon Baines, chair ofNADPO(National Association of Data Protection and Freedom of Information Officers) argues that a “fundamental legal point” continues to be overlooked in the structure of the data-sharing agreement — both by the parties involved and the regulators, who have yet to provide adequate clarity on this point.
+
+“Putting aside broader ethical issues (negative or positive), I think there is a fundamental legal point which I have not seen adequately addressed in any communications emanating from the partnership,” he tells TechCrunch. “The parties have repeatedly said that Deepmind only has the status in data protection law of a ‘data processor’ and the most recent ‘information processing agreement’ of November 10 is predicated on this presumption.
+
+“However, the legal position is quite clear that whether or not an entity is a data processor (with very limited responsibilities in law) or a data controller (with effectively all responsibilities) is a matter of fact, not something that can merely be asserted in an agreement. If Deepmind has autonomy, and expertise, to manipulate the data it is given access to — and the facts certainly suggest it does — then it is highly likely that a regulator, and the courts, would determine that it is a data controller.
+
+“If that is the case, the basis of the whole arrangement is fundamentally altered. And we are facing a situation where Deepmind, and its owners Google, have access to and control of the data of huge numbers of patients who are almost certainly not aware of the fact.”
+
+“I think this cries out for the input of the Information Commissioner,” Baines adds. “As much as the parties to the agreement can assert one view, and as much as concerned commentators can express another, we need the expert input of the regulator explicitly tasked with promoting and enforcing data protection law.”
+
+Pressed on this point, Suleyman rejects the idea that the data-sharing arrangement it has with the Royal Free affords more latitude to DeepMind that just a data processor, and again brands criticism of its interpreting of NHS information governance rules as “a misinterpretation.”
+
+“I can’t stress enough how the way that we are processing data is entirely consistent with every other technology provider, software provider in the system — and every other Trust that is commissioning services,” he says. “In some sense I recognise that we’re an exceptional company, in other senses I think it’s important to put that in the wider context and focus on the patient benefit that we’re obviously trying to deliver.”
+
+Asked what the NDG’s concerns are about the data-sharing arrangement, and how DeepMind and the Royal Free are addressing them in their new ISA, Suleyman says DeepMind has not yet been informed of their specific concerns. “As far as I know they are still thinking through their position on this. We’re not in any active discussion with them but I know that they are thinking about the right position on this,” he adds.
+
+A spokeswoman for the NDG confirmed its consideration of the original ISA is ongoing. “We also look forward to receiving information about their new project,” she noted, adding: “As the National Data Guardian has made clear in her recently published review, great benefits can be reaped where patient data is used to develop innovative new treatments. This must be done carefully and safely in patients’ best interests and the public must be engaged in an ongoing conversation about how information is used and their choices.”
+
+An ICO spokesperson also confirmed it continues to probe the data-sharing arrangement: “Our investigation into the sharing of patient information between the Royal Free NHS Trust and Deep Mind is on-going. We are working with the National Data Guardian to ensure the project complies with the Data Protection Act. We’ve been in contact with the Royal Free and Deep Mind who have provided information about the development of the Streams app. It’s the responsibility of businesses and organisations to comply with data protection law.”
+
+At this point Royal Free patients can opt out of having their data made accessible under the forthcoming FHIR API — which DeepMind says it expects to launch early next year — although Suleyman notes those decisions are made by the Trust, as the data controller, and says the Royal Free could decide to remove the opt out in the future if the API ends up being considered a core system for them.
+
+“They’ve made a decision in their Trust that they will continue to provide an opt-out for our service for as long as it’s not a core and central part of their system,” he says.
+
+He also confirms DeepMind will be paid when Streams is officially deployed in Royal Free hospitals. Up to now the company has not charged the Trust for the development work it has undertaken as part of the collaboration. “We’ll get a very modest service fee for delivering some of our infrastructure work,” is what he says on payment.
+
+The relevant part of the ISA agreement detailing the commercial arrangements has been redacted so it’s not possible to quantify quite how “modest” the fee is. Whatever it is, it’s likely to change as DeepMind’s business model evolves — with Suleyman reiterating the ultimate goal for DeepMind Health is to be paid by performance.
+
+“In the future what I would really like to do is change the way the market operates. I’d like for us to get paid when we can deliver concrete outcomes — and so have a very significant part of our overall fee be paid when we can move the needle on some of these clinical outcomes that people really care about.”
+
+Asked when the company will have any data to back up its claims of app-delivered healthcare improving clinical outcomes and reducing healthcare costs for the NHS, Suleyman suggests it might be able to prove out its case with some firm results by next summer.
+
+“I’m hoping by the summer of next year we will have enough data that we’re able to start to look at what the kind of concrete clinical impact we’re actually having and we can share that with our independent reviewers and we can share it more widely with patients and clinician associations, and start to get feedback on whether these are the right metrics that we’re tracking, these are the right kind of improvements that we’re looking to make or not. And whether we need to shift gear again.”
+
+“It’s been estimated that you could reduce by 40 per cent the number of intensive care admissions, simply by improving co-ordination and communication across the system,” he adds, discussing the potential benefits of the expanded Streams app — which will include not just alerts to patients at risk of developing conditions such as AKI, sepsis and organ failure, but more general purpose clinical assistance features such as secure messaging and action request features aiming to replace the role of pagers in hospitals.
+
+“Intensive care is one of the most expensive areas in the hospital system… if you could reduce the number of people who are admitted there, not only are there cost savings but there’s massive patient benefit,” he adds.
+
+While DeepMind hopes to have robust metrics to prove the efficacy of its health pitch to NHS Trusts by next summer, others will be hoping to have had a lot more clarity from U.K. regulators on the robustness of the startup’s interpretation of data protection law.

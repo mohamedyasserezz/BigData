@@ -1,0 +1,35 @@
+AI, autonomous cars and moral dilemmas
+
+You’re a train conductor speeding along when you suddenly see five people tied up on the tracks in front of you. You don’t have enough time to stop, but you do have enough time to switch to an alternate track. That’s when you see there’s one person tied up on the alternate track. Do you pull the lever to make the switch, or stay the course?
+
+Any college graduate who has ever stepped foot in an introductory philosophy course is likely to recognize this problem immediately. The question is a classic jumping off point for discussions about utilitarianism, consequentialism and fairness. Subsequent twists on the question — what if the one person standing on the other track was a child? — come with new moral dilemmas and further abstract discussions. There is no clear correct answer. In this ambiguity lies conversation.
+
+The tech community as a collective whole is now facing a similar conundrum when it comes to programming machines. This time, though, the philosophical decisions aren’t theoretical — and nobody will be saved by the bell. With the advent of smart machines with learning capabilities powered by artificial intelligence, we need to reach a final consensus for a very practical purpose: We need to teach robots how to be moral.
+
+The situation today is marked by groups of computer engineers sitting around discussing age-old philosophical problems.Artificial intelligenceis advancing at an unprecedented rate due to affordable computational power and a concentrated focus on the field by tech giants such as Google, Facebook and IBM.Industry insiderspredict that self-driving cars will edge onto the roadsin five years, and drones are currently permeating everything from theindustrial supply chainto farming. Questions about morality are becoming more urgent, yet remain unsolved.
+
+Perhaps most surprising is that defining answers in regards to philosophical judgments, at least for now, is being left up to the tech community. In the 2016policy statement concerning automated vehicles, released jointly by the Department of Transportation and the National Highway and Traffic Safety Administration, even the government organizations themselves seemed apt to admit that they simply don’t have the expertise nor the authority to create comprehensive legislation, noting that “it is becoming clear that existing NHTSA authority is likely insufficient to meet the needs of the time.” Companies like Google are practically begging for guidance and official regulations so they can move forward, but are coming up empty-handed.
+
+Given the financial rewards of being first to market, there is certainly an urgency involved in coming to final conclusions. Yet even those who stand to benefit the most appear to be holding back. Many industry leaders are asking questions, but few are stepping forward with clear and specific proposals.
+
+That’s a good thing. Despite newfound abilities to advance intelligent technology quickly, industry leaders should not give in to pressures to move at an unhealthy pace. Questions should come first, otherwise the industry releases poorly considered intelligence, which is a recipe for chaos.
+
+Take, for example, an autonomous car self-driving along the road when another car comes flying through an intersection. The imminent t-bone crash has a 90 percent chance of killing the self-driving car’s passenger, as well as the other driver. If it swerves to the left, it’ll hit a child crossing the street with a ball. If it swerves to the right, it’ll hit an old woman crossing the street in a wheelchair.
+
+Autonomous cars are sure to face this type of challenge at some point, and their creators need to decide how to program them to react to these no-win situations. Engineers need to come up with clear rules for navigating difficult situations so the robots don’t get confused and malfunction or select the wrong decision.
+
+The easy answer would be to protect the driver at all costs. If we can assume that drivers are all selfish and would always default to the action that contains the least risk for them, wouldn’t we just replicate that in the autonomous driver model? The very fact that the decision to date has not proved easy is a good sign.
+
+Ultimately, no matter what the experts decide, any final product and its underlying moral code must be palatable to the public at large if autonomous cars are to be a success. The MIT Media lab, whose scientists I had the privilege to spend time with at the World Economic Forum’s annual meeting in Davos earlier this year, are struggling with how to make moral robots. One thing was very clear — there is no clear answer.
+
+They have created aMoral Machinewebsite tool that gives us insight as to what, exactly, the public expects and wants from autonomous cars. The website invites users to judge between two competing outcomes in an inevitable car crash, with more than a dozen different scenarios to judge.
+
+Overall, the results showed that people strongly prefer utilitarian outcomes: the fewest total number of lives lost. These results align with other surveys where participants consistently say that a more utilitarian model for autonomous cars is a more moral one.
+
+Herein lies the trouble: While people favor utilitarianism in the abstract, their feelings become muddied when they’re the ones who might be making the sacrifice. As reported byThe Washington Post, just 21 percent of people surveyed said they were likely to buy an autonomous vehicle whose moral choices were regulated, compared to 59 percent of respondents who said they were likely to make the purchase if the vehicles were instead instructed to always save the driver’s life.
+
+In an age when technology and decreased face-to-face interaction is blamed for causing people to feel dispassionate and disconnected from one another, the very fact that the discussion on robot morality is so vibrant is a clear demonstration that compassion is alive and well.
+
+In 1942, Isaac Asimov provided one prevailing take on robot morality with the three laws of robotics featured in his famous novelI, Robot. His outline was simple: A robot may not injure a human being, or through inaction, allow a human being to come to harm. But, as the characters discover in the novel, sometimes harm is simply unavoidable. What if the question instead mutates to what is preferable, letting the young or old live or sacrificing one to save many?
+
+The most advanced technology isn’t going to be released until we as a society figure out collective answers to these puzzling questions. Governments around the world will look to the United States to set a regulatory precedent, and we need to make sure that we get things right the first time around. These are important discussions, and government leaders, tech leaders and ordinary citizens must all have a say, so that as a society, we maintain a moral system of checks and balances. There is no putting the genie back in the bottle.

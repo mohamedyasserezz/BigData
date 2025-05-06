@@ -1,0 +1,55 @@
+Evolving the application platform from software to dataware
+
+Every decade, a set of major forces work together to change the way we think about “applications.” Until now, those changes were principally evolutions of software programming, networked communications and user interactions.
+
+In the mid-1990s, Bill Gates’ famous“The Internet Tidal Wave”letter highlighted the rise of the internet, browser-based applications and portable computing.
+
+By 2006, smart, touch devices, Software-as-a-Service (SaaS) and the earliest days of cloud computing were emerging. Today, data and machine learning/artificial intelligence are combining with software and cloud infrastructure to become a new platform.
+
+Microsoft CEO Satya Nadella recentlydescribedthis new platform as “a third ‘run time’ — the next platform…one that doesn’t just manage information but also learns from information and interacts with the physical world.”
+
+I think of this as an evolution from software to dataware as applications transform from predictable programs to data-trained systems that continuously learn and make predictions that become more effective over time. Three forces — application intelligence, microservices/serverless architectures and natural user interfaces — will dominate how we interact with and benefit from intelligent applications over the next decade.
+
+In the mid-1990s, the rise of internet applications offered countless new services to consumers, including search, news and e-commerce. Businesses and individuals had a new way to broadcast or market themselves to others via websites. Application servers from BEA, IBM, Sun and others provided the foundation for internet-based applications, and browsers connected users with apps and content. As consumer hardware shifted from desktop PCs to portable laptops, and infrastructure became increasingly networked, the fundamental architectures of applications were re-thought.
+
+By 2006, a new wave of core forces shaped the definition of applications. Software was moving from client-server to Software-as-a-Service. Companies like Salesforce.com and NetSuite led the way, with others like Concur transforming into SaaS leaders. In addition, hardware started to become software services in the form of Infrastructure-as-a-Service with the launch of Amazon Web Services S3 (Simple Storage Service) and then EC2 (Elastic Cloud Compute Service).
+
+Smart, mobile devices began to emerge, and applications for these devices quickly followed. Apple entered the market with the iPhone in 2007, and a year later introduced the App Store. In addition, Google launched the Android ecosystem that year. Applications were purpose-built to run on these smart devices, and legacy applications were re-purposed to work in a mobile context.
+
+As devices, including iPads, Kindles, Surfaces and others proliferated, application user interfaces became increasingly complex. Soon developers were creating applications that responsively adjusted to the type of device and use case they were supporting. Another major change of this past decade was the transition from typing and clicking, which had dominated the PC and Blackberry era, to touch as a dominant interface for humans and applications.
+
+In 2016, we are on the cusp of a totally new era in how applications are built, managed and accessed by users. The most important aspect of this evolution is how applications are being redefined from “software programs” to “dataware learners.”
+
+For decades, software has been ­programmed and designed to run in predictable ways. Over the next decade, dataware will be created through training a computer system with data that enables the system to continuously learn and make predictions based on new data/metadata, engineered features and algorithm-powered data models.
+
+In short, software is programmed and predictable, while the new dataware is trained and predictive. We benefit from dataware all the time today in modern search, consumer services like Netflix and Spotify and fraud protection for our credit cards. But soon, every application will be an intelligent application.
+
+Three major forces underlie the shift from software to dataware which necessitates a new “platform” for application development and operations and these forces are interrelated.
+
+Intelligent applications are the end product of this evolution. They leverage data, algorithms and ongoing learning to anticipate and improve interactions with the people and machines they interact with.
+
+They combine three layers: innovative data and metadata stores, data intelligence systems (enabled by machine learning/AI) and the predictive intelligence that is expressed at an “application” layer. In addition, these layers are connected by a continual feedback loop that collects data at the points of interaction between machines and/or humans to continually improve the quality of the intelligent applications.
+
+Monolithic applications, even SaaS applications, are being deconstructed into components that are elastic building blocks for “macro-services.” Microservice building blocks can be simple or multi-dimensional, and they are expressed through Application Programming Interfaces (APIs). These APIs often communicate machine-to-machine, such as Twilio for communication or Microsoft’s Active Directory Service for identity. They also enable traditional applications to more easily “talk” or interact with new applications.
+
+And, in the form of “bots,” they perform specific functions, like calling a car service or ordering a pizza via an underlying communication platform. A closely related and profound infrastructure trend is the emergence of event-driven, “serverless” application architectures. Serverless functions such as Amazon’s Lambda service or Google Functions leverage cloud infrastructure and containerized systems such as Docker.
+
+At one level, these “serverless functions” are a form of microservice. But, they are separate, as they rely on data-driven events to trigger a “state-less” function to perform a specific task. These functions can even call intelligent applications or bots as part of a functional flow. These tasks can be connected and scaled to form real-time, intelligent applications and be delivered in a personalized way to end-users. Microservices, in their varying forms, will dominate how applications are built and “served” over the next decade.
+
+If touch was the last major evolution in interfaces, voice, vision and virtual interaction using a mix of our natural senses will be the major interfaces of the next decade. Voice is finally exploding with platforms like Alexa, Cortana and Siri. Amazon Alexa already has more than 1,000 voice-activated skills on its platform. And, as virtual and augmented reality continue to progress, voice and visual interfaces (looking at an object to direct an action) will dominate how people interact with applications.
+
+Microsoft HoloLens and Samsung Gear are early examples of devices using visual interfaces. Even touch will evolve in both the physical sense through “chatbots” and the virtual sense, as we use hand controllers like those that come with a Valve/HTC Vive to interact with both our physical and virtual worlds. And especially in virtual environments, using a voice-activated service like Alexa to open and edit a document will feel natural.
+
+What are the high-level implications of the evolution to intelligent applications powered by a dataware platform?
+
+SaaS is not enough.The past 10 years in commercial software have been dominated by a shift to cloud-based, always-on SaaS applications. But, these applications are built in a monolithic (not microservices) manner and are generally programmed, versus trained. New commercial applications will emerge that will incorporate the intelligent applications framework, and usually be built on a microservices platform. Even those now “legacy” SaaS applications will try to modernize by building in data intelligence and microservices components.
+
+Data access and usage rights are required.Intelligent applications are powered by data, metadata and intelligent data models (“learners”). Without access to the data and the right to use it to train models, dataware will not be possible. The best sources of data will be proprietary and differentiated. Companies that curate such data sources and build frequently used, intelligent applications will create a virtuous cycle and a sustainable competitive advantage. There will also be a lot of work and opportunity ahead in creating systems to ingest, clean, normalize and create intelligent data learners leveraging machine learning techniques.
+
+New form factors will emerge.Natural user interfaces leveraging speech and vision are just beginning to influence new form factors like Amazon Echo, Microsoft HoloLens and Valve/HTC Vive. These multi-sense and machine-learning-powered form factors will continue to evolve over the next several years. Interestingly, the three mentioned above emerged from a mix of Seattle-based companies with roots in software, e-commerce and gaming!
+
+The three major trends outlined here will help turn software applications into dataware learners over the next decade, and will shape the future of how man and machine interact. Intelligent applications will be data-driven, highly componentized, accessed via almost all of our senses and delivered in real time.
+
+These applications and the devices used to interact with them, which may seem improbable to some today, will feel natural and inevitable to all by 2026 — if not sooner. Entrepreneurs and companies looking to build valuable services and software today need to keep these rapidly emerging trends in mind.
+
+I remember debating with our portfolio companies in 2006 and 2007 whether or not to build products as SaaS and mobile-first on a cloud infrastructure. That ship has sailed. Today we encourage them to build applications powered by machine learning, microservices and voice/visual inputs.

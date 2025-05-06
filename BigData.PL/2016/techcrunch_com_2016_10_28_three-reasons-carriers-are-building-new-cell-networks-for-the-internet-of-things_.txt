@@ -1,0 +1,59 @@
+Three reasons carriers are building new cell networks for the Internet of Things
+
+Around the world, wireless carriers are building all-new cellular networks for the Internet of Things. These new networks won’t work with cell phones —  they’re made for IoT devices that don’t yet exist. These aren’t small players, either.Comcast,SoftBank,Orange,SKT,KPN,Swisscomand many others are building all-new nationwide IoT networks.VerizonandVodafoneare upgrading their networks, setting aside spectrum just for IoT.Cisco,Samsung, Nokia and Ericsson are selling equipment to make it work.
+
+New networks are necessary because cell phone networks fall short for IoT in three ways: battery life, cost and wireless coverage.
+
+Solving just one of those factors would be enough to justify new networks. Solving all three is a game-changer for IoT — and that’s what these new networks plan to do.
+
+Let’s take those three reasons in turn.
+
+Cellular phone networks are not power-efficient. And they never will be.
+
+Mobile phone networks were originally designed for car phones. Coordinating a “hand-off” from one cell tower to another at 65 MPH —  all without interrupting a phone call —  was the technological breakthrough that made cellular networks possible. Those hand-offs require sophisticated algorithms and continuous communication between phone and network.
+
+Because of that legacy, devices on cell phone networks must communicate multiple timesper secondwith the cell tower. That’s very expensive for battery life.
+
+To getyearsof battery life, IoT devices need to spend most of their time in “sleep” mode,notusing the radio. Cellular phone networks don’t allow that. While you might think you can just turn the device off and turn it back on, reconnecting to cell phone networks can take several battery-draining minutes. If you’ve waited impatiently for your phone to re-connect after a flight, you know what I’m talking about.
+
+The new cell networks for IoT take a different approach.
+
+First, they use low-power radio chips, optimized to minimize the power cost of data transmission and reception. The power draw on these systems is typically an order of magnitude lower than cellular radios.
+
+Second, they allow devices to sleep for minutes or hours without contacting the network. Devices spend 99.9 percent of their time in low-power mode, waking for just milliseconds to send or receive data, to read a sensor or activate a control.
+
+That increases battery life by several orders of magnitude.
+
+Achieving years of battery life is a really big deal for IoT because it effectively eliminates installation costs  —  no wires to run, no batteries to charge. IoT can become truly set-and-forget, which matters a lot when you’re placing thousands or millions of devices.
+
+That’s a big deal — and reason enough to build new networks.
+
+But there’s more.
+
+Putting IoT devices on cell phone networks is expensive.
+
+First, supporting IoT devices is costly to cellular carriers. Wireless spectrum costs billions, and carriers never have enough of it. IoT devices that pay less than a dollar per month will never get network access priority over cell phones with $100 voice and data plans. The opportunity cost of supporting IoT devices is too high.
+
+To solve that problem, the new IoT networks are built either on unlicensed bands, or in the relatively unused “guard bands” between channels of licensed cellular spectrum. Either way, the spectrum is effectively free.
+
+But using cell phone networks is also expensive for developers of devices. LTE radios are complex, require multiple antennas and require expensive IP licenses. They cost tens of dollars. Chipsets for the new IoT networks are a buck or two at scale.
+
+Finally, network certification is expensive. For example, it costs $50,000-100,000 to certify a device on Verizon’s network, and the process takes months. Certification is necessary because flawed devices might interfere with phones on Verizon’s network. They are justifiably careful.
+
+New IoT networks are designed to be robust to interference, because they’re designed to operate in shared bands where interference is the norm. And in many cases, an end-user can set up their own gateway, just like a Wi-Fi access point, at no cost.
+
+Which brings us to the next point.
+
+The truth is, LTE isn’t everywhere. And IoT devices have a nasty tendency to be deployed in precisely the places that today’s cell networks don’t reach: like flood detectors in basements, parking sensors in underground lots and soil sensors in rural corn fields.
+
+New IoT networks handle coverage concerns in two different ways.
+
+First, the networks are optimized to maximize deep indoor penetration, rather than bandwidth. A basic rule of RF modulation is that you can trade range for bandwidth by transmitting a lot of bits to represent a single bit. While LTE is optimized for data-hungry smartphones, new IoT networks are optimized for short messages —  say, a sensor reading or a command to set a thermostat. They’ll get far more range at the same power levels, albeit at bit rates often less than 1 Kbps.
+
+Second, in some cases, gateways can be self-deployed, plunked down like Wi-Fi routers. So if your local carrier doesn’t reach your basement, you can drop your own gateway nearby to bring it online. Self-deployed networks will be critical to the rollout of these technologies, especially in the early days as carrier-operated networks are still rolling out.
+
+This is how IoT actually happens. Long battery life, low cost and ubiquitous coverage — all in one package.
+
+I’ve spent years working on connected devices, and to me that sounds like the holy grail. It means set-and-forget devices that work everywhere.
+
+I can’t wait.

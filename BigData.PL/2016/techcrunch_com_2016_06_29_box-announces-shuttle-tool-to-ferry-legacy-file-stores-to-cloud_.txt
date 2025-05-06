@@ -1,0 +1,25 @@
+Box Shuttle helps ferry legacy file stores to cloud
+
+Boxannounced Box Shuttle today, a new service that combines software and consulting to help customers move large — as in millions or even hundreds of millions — of legacy files to the Box service.
+
+Previously, companies with files stored in network file shares or legacy content management systems like Microsoft SharePoint, EMC Documentum or OpenText were on their own when it came to moving older content into Box. This proved challenging given that there were usage permissions, metadata, retention policies and other custom attributes to move and these didn’t always map in a logical way across systems because none of the content management systems works in the same way.
+
+Typically companies left these older files in place and put new content into Box, but long-time customers were looking for a way to move the materials stored on-prem into Box as well.
+
+Box looked at the problem and realized algorithms alone could only take a customer so far and they decided to create this hybrid software-human product to help companies deal with the myriad issues around migration planning and file system organization that could develop when moving huge volumes of files at once.
+
+Box has been working with customers like Toyota and a large financial services company it couldn’t name to help define the new service, and they’ve learned the processing time can vary dramatically, depending on the number of files involved and the various obstacles to migration. Hence, the new service will have multiple pricing tiers based on the level of project complexity.
+
+The product has the potential to provide a useful service for customers looking to move content to the cloud, while helping Box extend its relationship with large organizations, and reducing reliance on Box’s on-prem content management competitors. Box CEO Aaron Levie could see customers retiring these legacy systems and shutting down or greatly reducing their on-prem data center footprint in the not-too-distant future as a result of simplifying the data transfer process.
+
+“We imagine three to five years from now, there is literally no reason customers would have to maintain their own data centers or file servers — and this is one of those final barriers to being able to make that happen,” Levie told TechCrunch.
+
+Today’s announcement has to be seen in context of Box product launches over the last 12-18 months includingBox Enterprise Key Management, which lets companies control their own encryption keys instead of Box;Box Governance, which provides a way to set up compliance and retention policies andBox Zones, which settles data residency questions by letting companies choose an in-country storage provider, even if it’s not Box.
+
+All of these previously announced services combined with today’s announcement help put it on par with more traditional content management offerings like Documentum and SharePoint, and should help put to rest the misconception that Box is simply a storage company.
+
+Whether that helps its flagging stock price or not is open to question. As of this morning, Box was selling at $10.25 per share, well below the IPO price of $14 per share orthe heady first-day closing price of $23 per share.
+
+Shuttle will be available in Beta today and is expected to be generally available this Fall (likely around theBoxWorksconference).
+
+[graphiq id=”6ORjjHNBEvX” title=”Box Inc. (BOX) Stock Price” width=”600″ height=”617″ url=”https://w.graphiq.com/w/6ORjjHNBEvX” link=”http://listings.findthecompany.com/l/339705/Box-Inc-in-Los-Altos-CA” link_text=”Box Inc. (BOX) Stock Price | FindTheCompany”]

@@ -1,0 +1,25 @@
+Oculus acquires eye-tracking startup The Eye Tribe
+
+The direction you look could one day control your VR or mobile experience thanks to Facebook and Oculus’ latest buy,The Eye Tribe. Oculus confirms to me that this is an official acquisition.
+
+The startup has developed a $99 eye tracking device developer kits for computers, and software that can bringgaze-based interfaces to smartphonesand potentially virtual reality headsets.
+
+The Eye Tribe has also developed foveated rendering technology, that lets VR systems save computational power by only generating perfect graphics where you’re looking. Essentially it creates a focal point that moves with your eyes. This could allowOculus’ forthcoming “Santa Cruz” wireless standalone headsetto display more complex scenes at higher frame rates despite its mobile form factor limiting its rendering power.
+
+A whole class of headsets are starting to use eye-tracking to for foveated rendering, as well as letting you teleport around a location, or show the movement of your eyes on an avatar to make it more life-like.
+
+Other examples of what the tech could do include auto-scrolling of text while reading or sheet music while playing an instrument, and the ability to pause or control a video player with your eyes while your hands are occupied. Car interfaces could benefit from the technology. It could also provide gaze analytics to inform app developers and advertisers what people look at most.
+
+The Eye Tribe hadraised around $3 millionfrom investors including Startup Bootcamp, and taken a $2.3 million grant from The Danish National Advanced Technology Foundation. The Eye Tribe competed in TechCrunch’s CES Hardware Battlefield in early 2014 when it first began shipping its dev kit. Lately it’s been working to get more developers on its SDK, building applications that benefit from eye tracking.Google recently boughtan eye-tracking startup too called Eyefluence.
+
+The startup’s site put up a notice that it was changing directions earlier this month, and tech punditRobert Scobleshared a rumor that they’d been acquired by Facebook. TheDi Digitalpublication reported that the Danish business register lists Facebook became the 100% shareholder of The Eye Tribe on December 15th, and TechCrunch has nowconfirmed that information here.
+
+Though Oculus confirms the deal, it did not share details such as the price, exactly who from the Eye Tribe team will be joining Oculus, or what will happen to Eye Tribe’s existing users.
+
+The Eye Tribe was developed out of research by the founders at IT University Of Copenhagen back in 2009. The company says the ITU Gaze Tracker they helped create has become the most popular open source eye tracking software. By 2013 the full-fledged startup had shown the ability to build its technology into an Android tablet device. This year The Eye Tribe unveiled a$199 pro versionof its tracking device that it says can be as much as 10X cheaper than comparable models.
+
+In the meantime, an eye-tracking VR headset startup calledFove has raised $11 million, whileSensoMotoricInstruments has brought eye-tracking to avatars in Altspace’s social VR construct.
+
+It’s unclear exactly what Oculus will do with the technology, though it has potential applications for identity verification for security, immersive games, and a wide range of applications that let you navigate by looking rather than using your fingers.
+
+Perhaps Facebook could one day allow you toLike a post just by lookingat the Like button, or roll your eyes in Oculus VR to communicate that you’re annoyed.

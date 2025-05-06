@@ -1,0 +1,45 @@
+5 unexpected sources of bias in artificial intelligence
+
+We tend to think of machines, in particular smart machines, as somehow cold, calculating and unbiased. We believe that self-driving cars will have no preference during life or death decisions between the driver and a random pedestrian. We trust that smart systems performing credit assessments will ignore everything except the genuinely impactful metrics, such as income and FICO scores. And we understand that learning systems will always converge on ground truth because unbiased algorithms drive them.
+
+For some of us, this is a bug: Machines should not be empathetic outside of their rigid point of view. For others, it is a feature: They should be freed of human bias. But in the middle, there is the view they will be objective.
+
+Of course, nothing could be further from the truth. The reality is that not only are very few intelligent systems genuinely unbiased, but there are multiple sources for bias. These sources include the data we use to train systems, our interactions with them in the “wild,” emergent bias, similarity bias and the bias of conflicting goals. Most of these sources go unnoticed. But as we build and deploy intelligent systems, it is vital to understand them so we can design with awareness and hopefully avoid potential problems.
+
+For any system that learns, the output is determined by the data it receives. This is not a new insight, it just tends to be forgotten when we look at systems driven by literally millions of examples. The thinking has been that the sheer volume of examples will overwhelm any human bias. But if the training set itself is skewed, the result will be equally so.
+
+Most recently, this kind of bias has shown up in systems for image recognition through deep learning. Nikon’s confusion aboutAsian facesand HP’sskin tone issuesin their face recognition software both seem to be the product of learning from skewed example sets. While both are fixable and absolutely unintentional, they demonstrate the problems that can arise when we do not attend to the bias in our data.
+
+Beyond facial recognition, there are other troubling instances with real-world implications.  Learning systems used to build the rules sets applied to predictrecidivismrates for parolees, crime patterns or potential employees are areas with potentially negative repercussions. When they are trained using skewed data, or even data that is balanced but the systems are biased in decision-making, they will perpetuate the bias, as well.
+
+While some systems learn by looking at a set of examples in bulk, other sorts of systems learn through interaction. Bias arises based on the biases of the users driving the interaction. A clear example of this bias isMicrosoft’s Tay, a Twitter-based chatbot designed to learn from its interactions with users. Unfortunately, Tay was influenced by a user community that taught Tay to be racist and misogynistic. In essence, the community repeatedly tweeted offensive statements at Tay and the system used those statements as grist for later responses.
+
+Tay lived a mere 24 hours, shut down by Microsoft after it had become a fairly aggressive racist. While the racist rants of Tay were limited to the Twitter-sphere, it’s indicative of potential real-world implications. As we build intelligent systems that make decisions with and learn from human partners, the same sort of bad training problem can arise in more problematic circumstances.
+
+What if we were to, instead, partner intelligent systems with people who will mentor them over time? Consider our distrust of machines to make decisions about who gets a loan or even who gets paroled. What Tay taught us is that such systems will learn the biases of their surroundings and people, for better or worse, reflecting the opinions of the people who train them.
+
+Sometimes, decisions made by systems aimed at personalization will end up creating bias “bubbles” around us. We can look no further than the current state of Facebook to see this bias at play. At the top layer, Facebook users see the posts of their friends and can share information with them.
+
+Unfortunately, any algorithm that uses analysis of a data feed to then present other content will provide content that matches the idea set that a user has already seen. This effect is amplified as users open, like and share content. The result is a flow of information that is skewed toward a user’s existing belief set.
+
+While it is certainly personalized, and often reassuring, it is no longer what we would tend to think of as news. It is a bubble of information that is an algorithmic version of “confirmation bias.” Users don’t have to shield themselves from information that conflicts with their beliefs because the system is automatically doing it for them.
+
+The impact of these information biases on the world of news is troubling. But as we look to social media models as a way to support decision making in the enterprise, systems that support the emergence of information bubbles have the potential to skew our thinking. A knowledge worker who is only getting information from the people who think like him or her will never see contrasting points of view and will tend to ignore and deny alternatives.
+
+Sometimes bias is simply the product of systems doing what they were designed to do. Google News, for example, is designed to provide stories that match user queries with a set of related stories. This is explicitly what it was designed to do and it does it well. Of course, the result is a set of similar stories that tend to confirm and corroborate each other. That is, they define a bubble of information that is similar to the personalization bubble associated with Facebook.
+
+There are certainly issues related to the role of news and its dissemination highlighted by this model — the most apparent one being a balanced approach to information. The lack of “editorial control” scopes across a wide range of situations. While similarity is a powerful metric in the world of information, it is by no means the only one. Different points of view provide powerful support for decision making. Information systems that only provide results “similar to” either queries or existing documents create a bubble of their own.
+
+The similarity bias is one that tends to be accepted, even though the notion of contracting, opposing and even conflicting points of view supports innovation and creativity, particularly in the enterprise.
+
+Sometimes systems that are designed for very specific business purposes end up having biases that are real but completely unforeseen.
+
+Imagine a system, for example, that is designed to serve up job descriptions to potential candidates. The system generates revenue when users click on job descriptions. So naturally the algorithm’s goal is to provide the job descriptions that get the highest number of clicks.
+
+As it turns out, people tend to click on jobs that fit their self-view, and that view can be reinforced in the direction of a stereotype by simply presenting it. For example, women presented with jobs labeled as “Nursing” rather than “Medical Technician” will tend toward the first. Not because the jobs are best for them but because they are reminded of the stereotype, and then align themselves with it.
+
+The impact ofstereotype threaton behavior is such that the presentation of jobs that fit an individual’s knowledge of a stereotype associated with them (e.g. gender, race, ethnicity) leads to greater clicks. As a result, any site that has a learning component based on click-through behavior will tend to drift in the direction of presenting opportunities that reinforce stereotypes.
+
+In an ideal world, intelligent systems and their algorithms would be objective. Unfortunately, these systems are built by us and, as a result, end up reflecting our biases. By understanding the bias themselves and the source of the problems, we can actively design systems to avoid them.
+
+Perhaps we will never be able to create systems and tools that are perfectly objective, but at least they will be less biased than we are. Then perhapselections wouldn’t blindsideus,currencies wouldn’t crashand we could find ourselves communicating with people outside of ourpersonalized news bubbles.

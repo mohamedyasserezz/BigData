@@ -1,0 +1,19 @@
+Early Foursquare employees launch Iterate, a survey tool for startups
+
+Startups are constantly talking about feedback from their users — having meaningful conversations with real users to figure out what they want, and how they can give it to them.
+
+But where are these conversations happening? Lord knows that App Store rating and Reviews systems don’t account for the vast majority of users, and it’s generally true that people are more likely to leave negative feedback about a problem than they are to give positive, constructive feedback.
+
+Iterate, a new startup built by former OG Foursquare employees, looks to facilitate that conversation between tech startups and their users with survey software that is built specifically for the industry.
+
+Matt Healy and Mike Singleton said they experienced the same problem during their time at Foursquare (and elsewhere) — it’s hard to have an ongoing, targeted conversation with users about a product.
+
+While services like SurveyMonkey and Google Forms are great for broad, general surveys that can span a number of use-cases and industries, they are time-intensive and ill-suited to getting feedback from users.
+
+With Iterate, developers can integrate their survey with services like MixPanel to specifically target a certain group of users with a unique survey. In other words, developers can create a survey, copy in a single link to the MixPanel service (or others like it), and instantly send out that survey to (for example) lapsed users or brand new users.
+
+The company is coming out of beta (fully bootstrapped, no less) and has already seen more than 50 companies sign up for the service, including startups like Winnie, Ando, and and Current.
+
+Iterate operates on a freemium SaaS model, with a free tier that offers 10 surveys, 100 responses, and the ability to analyze the results. The company also offers a Pro Tier and a Team Tier for $99/month and $299/month respectively.
+
+You can check out Iterate for yourself righthere.

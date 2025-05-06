@@ -1,0 +1,15 @@
+TheHighFlyers helps you join the mile-high chat club
+
+When friends Eli Byers, Chad Fegley, Amrita Chawla, and Mari Lliguicota fly they’re usually bored. They spend a lot of time in the air and they wanted something that would make the miles go by faster.
+
+Their solution?TheHighFlyers.club. This cleverDisrupthackathon hack lets you see when you’re passing cool stuff outside of the plane and even chat with other people on the flight. There is also a Watson-based chatbot that lets you ask questions about your trip and destination.
+
+The hackathon project is live now and isn’t quite ready for prime time, but the team plans on building it out this month and launching a finished version.
+
+“We wanted to change a problem everybody has when they travel,” said Fegley. “When you travel by yourself it’s boring.”
+
+They knew that creating a Slack room for the air probably wouldn’t be enough. So they added features.
+
+“We were also curious to see what’s underneath you. I like looking out the window and seeing awesome stuff,” said Chawla.
+
+The team imagines wine-lovers getting together to talk about wine on a flight to Bordeaux. Byers works at CodingDojo as an instructor and his friends are looking for work.

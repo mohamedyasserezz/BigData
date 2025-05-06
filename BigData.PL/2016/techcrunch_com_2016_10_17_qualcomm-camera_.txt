@@ -1,0 +1,11 @@
+Qualcomm debuts plans to help build more connected cameras
+
+A couple of big, roadmappy pieces of news out the Qualcomm 4G/5G Summit, being held in Hong Kong this week, far away from the component company’s sunny Southern California headquarters. Alongside a number of new chips, the Qualcomm is laying out its plans to support camera functionality across a wide set of different form factors.
+
+The new technology portfolio moves well beyond the currently supported array of smartphone cameras (billions by Qualcomm’s count) to include emerging camera spaces like 360/VR, IP security cameras, dashcams, bodycams and action/sports cameras (think GoPro competitors).
+
+The platform will cater to a slew of different functionality, with built-in support for wireless technologies like 4G, Wi-Fi and Bluetooth, deep learning, video analytics, 4K encoding and various security options, because, as the company put it during a call ahead of the announcement, “It may sound like and oxymoron, but the most insecure devices in IOT networks tend to be security cameras.”
+
+The system utilizes a Snapdragon 625 processor and features support for Linux OS. All of those elements will also be incorporated into the Snapdragon 625 IP camera reference design (that’s it at the top of the post there), a combination hardware and software platform designed to help manufacturers create cameras based on the company’s offering, developed in partnership with Thundercomm Technology.
+
+The reference design will be available to OEMs by years end, with commercial products built around the specifications arriving “shortly thereafter.”

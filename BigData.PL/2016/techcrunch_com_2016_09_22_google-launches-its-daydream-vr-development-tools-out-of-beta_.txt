@@ -1,0 +1,19 @@
+Google launches its Daydream VR development tools out of beta
+
+Google’s VR platform Daydream is now ready for developers’ full attention, thanks to the release of the new Google VR SDK, which exited from beta today. The kit will allow developers to build VR experiences for Daydream-ready phones and headsets, the company says, and now supports integration with Unity and Unreal game engines and tools.
+
+The company first revealed Daydream at Google I/O earlier this year, alongside the news that Google would create its own Daydream virtual realityheadset.
+
+The idea with the Daydream platform, which is baked into Android 7.0 (Nougat), is to bring users’ favorite apps to virtual reality. A number of apps will beavailableat launch, including Netflix, Hulu, HBO, Imax, MLB, the NBA, CNN, The New York Times and The Wall Street Journal, as well as a number of game developers, including Ubisoft and Electronic Arts.
+
+Daydream will come with a home launcher and a storefront for VR content, Google previouslystated.
+
+The Daydream VR SDK 1.0 simplifies common VR development tasks so developers can focus on building their apps, Google says in itsannouncementabout the release. The SDK is now available to all via theDaydream developer website, and supports “integrated asynchronous reprojection, high fidelity spatialized audio, and interactions using the Daydream controller,” writes Nathan Martz, Product Manager, Google VR.
+
+The developer site has also been updated with full documentation, sample apps and tutorials, to help those new to VR development and Daydream get started.
+
+Also new is the native integration with Unity, which adds support for features like head tracking, deep linking, and easy Android manifest configuration, notes Google. Meanwhile Unreal engine (UE4)’s integration has been improved, and now includes Daydream controller support in the editor, a neck model, new rendering optimizations, and more.
+
+The first Daydream-ready phones and the headset won’t be on the market until later this fall, but Google is working to get apps ready for when it does.
+
+It’s also today opening up the Daydream Access Program (DAP). Members will be the only ones at first able to push their apps to Google Play, and they’ll get the first look at the updates to Daydream’s developer tools. Interested developers can apply to join the programhere.

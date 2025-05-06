@@ -1,0 +1,17 @@
+Logz.io raises $16 million so folks can better understand and monitor their networks
+
+It may not be the most compelling technology for consumers, but for businesses, it’s important to know what’s going on in a network.
+
+That’s why Logz.io has managed to raise $16 million in a new round of financing from investors led by OpenView Venture Partners with participation from the company’s previous investors 83North and Giza Venture Capital.
+
+As a result of the investment, OpenView’s Jim Baum, a venture partner with the firm will take a seat on the Logz.io board of directors.
+
+The former chief executive of Netezza and current chairman of Dyn(which was recently in the new for network issues), Baum said that OpenView’s investment was, in part, a function of the traction that Logz.io has in the market. The company services roughly 1,000 companies from 80 different countries and has grown to prominence in just two years.
+
+Logz.io couldn’t have prevented the outage that shut down Dyn and crippled the Internet last month, but it did enable the company to bounce back quickly.
+
+“Dyn relies on Logz.io service in our global network operations team every day,” said Baum in a statement. “Being actively involved with Dyn, I saw first had how instrumental Logz.io was in our ability to quickly respond to and mitigate the recent unprecedented DDoS attacks we experienced, helping us assess the source, target, and protocols used.”
+
+Since its launch in 2014, Logz.io raised $8 million in financing from venture capital firms and developed and launched an artificial intelligence service.
+
+Combining machine learning with human insights, the company is able to automate processes in developer and infrastructure operations so that coders and systems administrators can work together more effectively on product development.

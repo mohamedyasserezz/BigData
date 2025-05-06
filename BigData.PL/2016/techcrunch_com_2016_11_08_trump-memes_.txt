@@ -1,0 +1,21 @@
+For a brief, glorious moment, you could do weird things to Donald Trump’s website
+
+The internet found a new way to amuse itself in the final hours of the presidential election cycle.
+
+Basically, there was a glitch onthe press release pageof Donald Trump’s website. So whatever text you entered at the end of the URL, it would show up at the top of the page, like so:
+
+Fun with URL hacking.https://t.co/UWU2r69DSLpic.twitter.com/KMdW0GQXQ6
+
+— Andy Baio (@waxpancake)November 8, 2016
+
+Why the heck was this happening? Basically, the URL of each press release ended with a date, so the page would pull the date and display it at the top of the page. But the site wasn’t checking to make sure that that URL included an actual date. (To be clear, this wasn’t making any permanent or publicly visible changes to the site — it only appeared to people who followed the link you shared.)
+
+Okay this one actually fits tbhhttps://t.co/Zi7pH0mqRqpic.twitter.com/Yxi0TSf2JA
+
+— Sean O’Kane (@sokane1)November 8, 2016
+
+Naturally, this took off pretty quickly, leading the Trump campaign to disable it by removing the text at the top of the page, and eventually to just remove the press release archive entirely. Oh well — it was fun while it lasted. I guess we can all go back to worrying about the election results now.
+
+Seriously, whoever made Donald Trump’s website should be ashamed of themselves. This is SO EMBARRASSINGhttps://t.co/LiQ3s328Yupic.twitter.com/bXG0mbesbv
+
+— Shoshana Weissmann (@senatorshoshana)November 8, 2016

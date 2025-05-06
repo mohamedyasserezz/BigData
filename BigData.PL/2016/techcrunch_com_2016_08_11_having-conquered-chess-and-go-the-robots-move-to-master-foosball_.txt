@@ -1,0 +1,15 @@
+Having conquered Chess and Go, the robots move to master Foosball
+
+We’ve come a long way since the days of selecting a CPU player for the other Pong paddle, tank or hand-to-hand combatant. Now the computers are taking it to us, in meatspace, and seemingly no tabletop activity is safe from their depredations. The latest to succumb to computer domination? Foosball. (Or “table football” as they quaintly call it… over there.)
+
+Robotics researchers at the École polytechnique fédérale de Lausanne havecreated a system that can beat an average player, but not because of some deep neural network that has analyzed millions of previous games. In true conquering robot fashion, this system relies on superior speed and strength.
+
+“The system is like a bodybuilder with a tiny brain,” explained the project lead, Christophe Salzmann, in an EPFL news release. “It’s a very basic strategy, but it works surprisingly well.”
+
+The table is custom, obviously — in fact, you could say that the tableisthe robot. Beneath a camera-transparent “field,” a camera tracks the position of the ball at 300 frames per second. The computer then moves the nearest player into striking range with sub-millimeter accuracy, and a separate motor spins the bar faster than a human, firing the ball off at great speed.
+
+A seasoned player will still take it to school, though. The computer doesn’t know any of the tricks of positioning, bank shots, blind spots for various setups or how to read its opponent’s positions and predict its moves.
+
+To that end, the team is applying laser range tracking to the opposing team’s handles, which will give the computer a view of the field without having to dedicate cycles to tracking the bars with its camera. This may enable a more sophisticated AI to be built — but the true test will be pitting two Foosball robots against each other in a robot tournament. That’s also in the offing.
+
+The project is ongoing; check out the robot in motionhere. You can also learn more about the lab’s work at its website, although I have to say I take issue with its logo: a pair of enormous Terminator hands cradling the planet. They’re not evenpretendingto be on the side of humanity!

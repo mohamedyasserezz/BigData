@@ -1,0 +1,25 @@
+Facebook tries a new way to release open-source projects
+
+Last week, Facebooklaunched Create React App, a new project that helps React developers get started with their new projects. Turns out, that was only part of the story. Create React App was also the first project to enter theFacebook Incubatoron GitHub.
+
+The Facebook Incubator is the company’s new process for releasingopen-source projectsand ensuring that they do well in the long run. The best way to think of it is as a beta stage or proving ground for new open source projects from Facebook.
+
+As Facebook’s head of open source James Pearce told me, the idea here is to better manage the life cycle of these projects. He notes that Facebook has now open-sourced almost 400 projects and has hundreds of thousands of followers on GitHub. “We want to make sure we are managing this program at scale in the most effective way we can,” he said. To do that, Facebook decided that it would push most new projects through this program first to see how the community reacts to them and what the adoption is like.
+
+Pearce stressed that all of the projects in the Incubator — just like in Facebook’stop-level repository— are projects the company also uses internally and that have teams actively working on them. You shouldn’t think of projects in the Incubator as a repository for weaker projects, he noted.
+
+To graduate from the Incubator, projects will of course have to demonstrate traction in the community, but Pearce told me that the company will also look at other surrounding aspects. Is the project being used by others? Does it have good documentation? How hard is it to integrate the project with other tools? How engaged can Facebook be with the community?
+
+“If we see there is resonance in the industry, it’s a good sign that it’ll graduate,” he said.
+
+Pearce did stress documentation is an important factor at various times during our conversation, and that’s definitely an aspect of open source that is often neglected. He told me that Facebook has a dedicated team of tech writers who work on this for its projects (with engineers helping out as well) and that the company is also looking at the newStack Overflow Documentation servicefor potentially hosting some of its documentation projects, as well.
+
+While the Incubator is clearly meant to help get projects started on the right foot, Pearce argued that it’s not just about optimizing for the launch and growth phases but also about managing the life cycle of a project in the long run.
+
+Not every project turns out to be a success, after all, and occasionally Facebook ends up sunsetting some of the tools it open-sourced. That will still happen now that the Incubator system is in place, but the team obviously hopes it will be able to correct some of the issues with a project before it moves to the main repository.
+
+Pearce told me that Create React App is a good example for a project in the Incubator because Facebook wasn’t sure what the community would think about it, but he also noted that there will still be some projects that will skip the Incubator project.
+
+“Had we launched React Native now, we probably would’ve skipped the Incubator,” he said. The same goes for projects that Facebook is donating to larger organizations like the Open Compute Project.
+
+Pearce tells me that the Incubator isn’t going through its own incubation phase (“that’s too meta for me”), so we can probably expect this new system of releasing open-source software from Facebook to stay in place for the foreseeable future.

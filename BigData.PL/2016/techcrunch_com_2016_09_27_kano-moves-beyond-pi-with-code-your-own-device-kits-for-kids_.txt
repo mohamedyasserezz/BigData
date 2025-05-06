@@ -1,0 +1,79 @@
+Kano moves beyond Pi with code-your-own device kits for kids
+
+It’s been 16 months since Kano took to the stage at TC Disrupt New York 2015 to announce a $15M Series A, and to talk up its big ambition to build a creative computing brand.
+
+And 10 months since, flush with that VC cash, it started work on its next big product reveal.
+
+Today it’s ready to show what’s it’s been working on, launching aKickstarter campaignfor a build-it-yourself connected camera, a make-your-own speaker kit and a programmable LED array.
+
+The new kits — which it’s collectively referring to as ‘Kano 2’ — signal a more mainstream trajectory for the London-based startup, de-emphasizing to a degree the tech enthusiast/maker community that orbits the Raspberry Pi (which powers itsfirst product, a DIY computer) in favor of widening its appeal via a set of connected devices designed for digital natives to plug into the computers they are already comfortable using.
+
+Each kit is powered by a new Kano single board computer, which it brands the Kano Brain, while a new Kano Code HTML-5 based software tool runs in the web browser to allow kids to program each connected device, once they’ve put its pieces together. So this is programmable hardware that’s easy to use and doesn’t try to replace mainstream computing platforms — but rather aims to tap into their much larger user bases with the lure of a creative peripheral designed for building fun stuff easily.
+
+Kano is calling its new products the Pixel Kit, Camera Kit and Speaker Kit, respectively. They’re being priced at $99 apiece on Kickstarter (or early bird pricing of $249 for all three), and will be $129 RRP thereafter. Slated ship dates are January for the Pixel Kit, next May for the Camera Kit (pictured, in kit form, below), and July for the Speaker Kit.
+
+While many Kickstarter hardware projects can be subject to lengthy delays and even derail entirely, Kano comes with far fewer crowdfunding caveats, given it has its own China-based supply chain established and has successfully delivered a prior crowdfunder (with the original Kano kitsshippingwith only a slight delay). It has a modest $500,000 target for the Kano 2 campaign — modest given itsoriginal Kickstarter bagged $1.4Mback in 2013. Expect it to easily exceed that goal once again.
+
+It’s also evidently coming back to Kickstarter largely for the community, rather than because it does not have any of its own resources to fund new products.
+
+Co-founder Alex Klein tells TechCrunch it’s sold a total of 100,000 of the original Kano kits since starting to ship inSeptember 2014. In terms of active usage, around 80,000 of the kits have been activated, and a third of users are still checking in weekly four months after activating a kit — retention rates Klein describes as “quite good for a product of this nature”.
+
+Yet clearly Kano needs to build products of a different nature now — less complex and techie in feel, more versatile and tangibly useful, ultimately gunning for mainstream appeal. Safe to say, an alternative OS wrapper sitting atop a Raspberry Pi never looked like the device to scale sales as a VC-backed startup needs to scale sales.
+
+Add to that the $300 all in price for Kano computer kit (if you include theScreen Kit add-onit subsequently launched) makes for a primary platform priced far out of reach of many potential users.
+
+Clearly it’s the mainstream web user Kano is aiming to reel in now, with its promise of playful tech demystified and designed for DIY app making. And it will be hoping to rack up millions not hundreds of thousands of sales, though Klein won’t put any actual figures on his hopes here.
+
+He reckons the sweet spot — in terms of age-range — for the new kits is still likely to be seven to 14-year-olds, although he describes adult friends of his finding creative uses for the hardware too, such as a musician using the Pixel board to provide a visual representation of audio frequencies as he composes music. Presentation and packaging wise, though, the kits are clearly aimed at kids.
+
+“Now, the core idea of Kano as computer company is to be a majority world creative computing company that is accessible to people outside of the more privileged bell jars of East London and Silicon Valley,” he says. “We know there’s a whole industry that’s sprung up, since we’ve done the original Kickstarter, of pricey, let’s call it, ‘tech toys’ — to teach your kids to code.
+
+“You’re a professional parent in the Western world, you’re worried about your kids being left behind — you get them something that will get them to code! And so the $300 complete [Kano] computer kit is an excellent choice. [But] these new kits, and also the new software — because it’s completely browser based — is about broadening the appeal. And extending our reach.”
+
+He notes that about a third of Kano’s current users haven’t bought any of its hardware — either they’re using its free software, such as its online platform, Kano World, or its Make Art browser-based app, or installing its Kano OS on an existing Raspberry Pi.
+
+“That kind of gave us this sense that a 21st century computing brand needs to be accessible at multiple price points — all the way down to zero dollars, needs to run on existing hardware, and it needs to have physical options that are pocket money purchases,” he adds.
+
+“The strategy here is to get people excited about this creative coding world that they can access for free [via Kano software], have them build a weather app, a Minecraft castle, a generative bonsai tree, and then have them power up — almost like an in-app hardware purchase — to these paid pieces of beautiful premium hardware that allow them to take what they’ve done on screen into the physical world.”
+
+So what exactly can you do with the new Kano kits?
+
+Here’s a quick run down of each one…
+
+Pixel Kit
+
+The Pixel is a grid of 128 programmable, multicoloured LEDs plus a programmable joystick. Klein says it’s his favorite of the three new devices, and he shows how a user is able to slot in blocks of code in the drag-and-drop Kano Code interface to get instant, visual feedback in the real world via the Pixel’s display. It’s “like a custom, programmable palette”, he says.
+
+“We really envision this as a window into the Internet — you can scroll tweets, you can scroll RSS feeds, you can visualize sound, it makes the invisible data that sounds us visible, it brings them to life in vivid color and lets you control it, so you can make a game, for instance, whose parameters are controlled by the weather outside or whether Messi scored a goal or the density of mentions for a certain word on Twitter,” he adds.
+
+Camera Kit
+
+The camera kit is, as it sounds, a build-it-yourself camera. It has a 5MP lens and a programmable, multicolored flash. There’s also a mode dial which includes three custom slots where the owner can load apps of their own making (again, built in Kano Code) onto the camera — such as photo filters or a GIF maker. An infrared laser Tripwire sensor included in the box can also be plugged into the camera to support trigger shot scenarios.
+
+“This is the first generation for whom communicating with imagery is as popular if not more popular than communicating with words,” argues Klein, explaining the thinking behind making a camera that’s not just connected but supports DIY apps.
+
+“We thought what would a next generation programmable camera look and feel like? That answers the need that this next generation has to communicate with imagery but gives them a bit more ownership over that process… The images that you create with it — or GIFs or videos — are not merely a function of your photographic composition but also how cleverly you’ve composed your code.”
+
+Speaker Kit
+
+This kit, which will be the last to ship and which Klein therefore focuses on the least at this early stage, is a build it yourself Bluetooth speaker that doubles as a programmable synthesizer. Also slated to be included in the box: a gesture sensor to enable users to create sounds with movements.
+
+“You can do things like build and code your own theremin, change tracks by swiping back and forth across it,” he adds.
+
+Expect kids to make their own fart apps. And a lot of awful noises.
+
+Connected, hackable, interoperable, monetizable?
+
+While each of the forthcoming kits can function as a standalone plaything/learning tool, complete with explicatory booklets of the components and functions and a range of projects for users to have fun with, the devices can also work together to support more complex scenarios and a greater number of DIY possibilities.
+
+Klein also says that Kano intends to create integrations with the original Kano computer kit too — which, at least for now, continues to be the business’ main revenue engine — and which he notes will soon be expanding in terms of retail availability, with the startup inking deals to stock its computer kits in ToysRUs and Barnes & Noble in the U.S. in time for the holiday season.
+
+Shifting away from the Pi for the new kits by building its own low cost, 1.2GHz single board microprocessors was down to price, platform integration and flexibility, according to Klein, who notes that each device spins up its own web server in order that the user can connect to it over the same wi-fi network and send commands via the Kano Code web app.
+
+So by building and controlling that key piece of the hardware it can do more to control the user experience and strip away additional layers of complexity. The vision is therefore a family of fun, hackable devices that don’t cause any techie headaches when you want them to talk to each other.
+
+“The key is for people to see that they work together as a system,” he adds, discussing the rational for launching three new products on Kickstarter simultaneously. “I’m a Sonos fan. You get one, you love it, you want to get another one — they’re all wirelessly connected to each other, you control them all from one app that can run on any device… There’s an element of that to this launch.”
+
+“We’re still going to have our core computer kit… and it still has a Raspberry Pi inside, so we think for, what you might call visual, video-streaming, 3D gaming there isn’t a better low cost, single board brain than the Raspberry Pi. I think it’s completely appropriate, and indeed one of the strongest elements of our personal computer anyone can make,” he adds.
+
+This post originally stated the shipping date for the Camera Kit will be April. Kano now says it will be May

@@ -1,0 +1,23 @@
+ApolloShield’s new system detects and sends unwanted drones home
+
+ApolloShield, which was originally incorporated as Airfence Inc., has launched an anti-drone system that detects drones flying where they’re not authorized or wanted, and forces them to fly home.
+
+The startup intends to sell its technology to owners or managers of venues that have intense security needs such as oil refineries, nuclear facilities, airports, prisons, stadiums or hotels and buildings where high-net worth individuals or public figures may reside.
+
+Co-founders Nimo Shkedy (CEO) and Gilad Beeri (CTO) explained that the ApolloShield system includes a unit installed on the ground that contains a radio and antennae. Each unit scans an area for drone communications.
+
+Stringing a few units together will let a user protect the entire perimeter of a venue of any size.
+
+Data coming in from the system connects through a cloud-based “command center” online that the user can review manually or handle automatically.
+
+The system detects not just whether or not there is a drone in the area, but what type of drone it is, and the unique ID of that drone. This allows users to tell potentially malicious drones apart from those welcome to fly.
+
+It also allows a user to choose to intercept a drone, or apply counter measures to it, not forcing it to land but commanding it to return home.
+
+Most drones have failsafe mechanisms to prevent them from running out of battery mid-air, so if a drone doesn’t have enough of a charge left to make it all the way home it should still land safely, the CEO explained.
+
+Shkedy said ApolloShield is akin to an “anti-virus for the sky.” The company is funded by Y Combinator and unnamed angel investors. It has raised about $500,000 in funding to-date.
+
+In the next year, the startup intends to improve its systems, especially to keep up with all the advancements in drone tech. The CEO said, “We intend to be the easiest, plug-and-play, no training necessary system available.”
+
+The startup faces competition from drone detection firms likeDeDrone, and anti-drone tech providers includingDroneShield,OpenWorks, or military anti-drone tech companies that could move into the consumer market likeSRC Inc.

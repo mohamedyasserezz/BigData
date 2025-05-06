@@ -1,0 +1,11 @@
+AWS launches new programs to support its partners
+
+Amazon’s AWS cloud computing division is hosting its annualre:Invent developer conferencein Las Vegas this week. Ahead of the main part of the event, the company today hosted a keynote for its ecosystem partners who sell tools and services for AWS. During the keynote, the company announced a major extension of its partner programs, as well as a few new features for vendors who want to sell their software, APIs and other services in the AWS Marketplace.
+
+In total, AWS announced a few new partner programs: one for businesses who want tosell to the public sectorand one for partners who focus on helping their customers use specific AWS services like Redshift, Lambda, Kinesis, Machine Learning and others, for example. In addition, AWS and VMware will announce an integrated partnership program in 2017, and companies that build Alexa skills will also get a dedicated partner program.
+
+For the most part, being included in these programs will give these companies access to things like market development funds, inclusion in various marketing materials, a badge they can brandish on their own marketing materials and (depending on the program) a featured spot in the new Partner Solutions Finder. These programs are generally open to both tech and consulting partners.
+
+In addition, the company is launching a few new programs that show that certain partners have the competency to help users get started withIoTandfinancial applicationson AWS. These new programs join theexisting programsfor companies that focus on migration, storage, DevOps, security and big data.
+
+Amazon seemed to be especially excited about the possibilities of bringing more IoT solutions to AWS. During today’s keynote, AWS’s James Hamilton even showcased his own internet-connected boat as an example for what forward-thinking companies can do. AWS has a detailed list of requirements for tech and consulting partners that want to be included in these new programs.Hereis the one for the IoT Competency partners, for example.

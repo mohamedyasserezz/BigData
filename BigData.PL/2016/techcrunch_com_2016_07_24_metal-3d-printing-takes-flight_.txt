@@ -1,0 +1,29 @@
+Metal 3D printing takes flight
+
+While many designers and engineers find success with 3D-printing parts in plastic for prototyping and low-volume production, producing parts out of metal using similar technology has recently led to the creation of some of the most exciting 3D-printed parts in memory.
+
+With key patents for metal printingexpiring at the end of 2016, things are looking particularly exciting. Although the mainstream consumer adoption of 3D printing might be falling behind on certain expectations, metal 3D printing for product designers and engineers seems to be delivering on all the potential that 3D printing has in store.
+
+At its core, “metal 3D printing” is a simplified term for a metal-based additive manufacturing process; primarily either Direct Metal Laser Sintering (DMLS) or Selective Laser Melting (SLM). Unlike conventional metal fabrication techniques that rely on removing or stamping metals to arrive at an intended design, metal 3D printing builds objects up layer by layer through fusing material together with a programmed laser that literally draws each layer shape until an object has been produced.
+
+When combined with modern and powerful design tools that optimize simulation and analysis to generate an optimal design solution — such as newer generative design tools used to produce lightweight, latticed designs that are functionally optimized and accurate for production via additive manufacturing — the resulting parts not only take less time to design, but are also significantly stronger and lighter than part designs that are produced using conventional manufacturing methods.
+
+In space exploration, for example, industry leaders such as Elon Musk’s SpaceX and NASA have fully embraced metal 3D printing as a way to produce rocket ship parts that have drastically lowered costs while highly improving performance. SpaceX,for example, relied heavily on the custom metal parts for the combustion chamber of the SpaceX SuperDraco engine.
+
+NASA was able to develop a turbopumpfor their rocket engine that was put together with 45 percent fewer parts than pumps made through conventional manufacturing processes. It seems like it’s only a matter of time before an entire rocket engine is capable of being 3D printed.
+
+Thus, 3D printing may be overhyped in some industries, but it is certainly delivering in others.
+
+Closer to Earth, the aerospace industry is one of the fastest-growing industries to adopt 3D-printed metals because of the capability to dramatically reduce overall aircraft weight while increasing construction efficiency and allowing for design customizations. As of today, aircraft manufacturing giant Boeing has produced more than20,000 additive manufactured partson airplanes that have been delivered to their customers.
+
+Similarly,Airbus is putting a wide variety of 3D printed parts into their airplanes. The company is even making their unique technology accessible to other professionals outside Airbus.
+
+Just like 3D-printed metal parts are revolutionizing air travel both in space and on Earth, they are also allowing for breakthrough achievements in the healthcare industry. The outlook is so promising, in fact, that theAmerican Food and Drug Administration has approved the use of 3D-printed metal implantsfor medical procedures.
+
+Recent successful applications of metal 3D printing in the medical sector includea titanium 3D-printed skull implantand a3D-printed rib cage— both of which were custom tailored for cancer patients using digital scans after tumor removal surgeries.
+
+Subtractive metal manufacturing methods, including grinding, machining and milling helped bring us some of the most exciting products and technologies within the last 200 years, but it’s only taken us a handful of years to realize just how powerful additive metal manufacturing can be.
+
+Paired with powerful new design capabilities from modern CAD software and the ability to create entirely new geometries that were otherwise impossible to manufacture, industries that have come to rely on complex metal products — particularly space exploration, aerospace and healthcare — are experiencing a manufacturing revolution thanks to the capabilities of 3D printing.
+
+At its core, it seems that these industries of highly customizable, complex metal parts, produced in relatively limited amounts, are the perfect market fit for 3D printing. With new metal 3D printers and materials popping up left and right, it seems only fair that the hype for metal 3D printing continues to thrive.

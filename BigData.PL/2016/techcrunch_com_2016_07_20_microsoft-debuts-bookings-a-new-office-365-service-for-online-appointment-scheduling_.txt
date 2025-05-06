@@ -1,0 +1,27 @@
+Microsoft debuts Bookings, a new Office 365 service for online appointment scheduling
+
+Microsoft this morningannouncedan expansion to its Office 365 suite with the debut of a new service called Bookings, which will allow customers to schedule appointments with a business using online software. In addition to connecting businesses and customers without the need for a phone call, Bookings will also manage other aspects to appointment management, including sending out confirmations and reminders, handling re-scheduling and cancellations, updating the business staff’s calendar, and more.
+
+Online booking is something that’s common today across a number of industries, whether that’s booking a table at arestaurant, a doctor’svisit, or even anappointmentwith your local beauty salon, among other things. Plus, there are several generalized solutions for small businesses, likeSquare’s Appointments,Schedulicity,Groupon’s merchant software, and others.
+
+With Microsoft’s Bookings, however, the goal is to offer businesses a solution that works in conjunction with the Office 365 platform.
+
+Businesses are provided with a unique web page that works on both desktop and mobile where customers can select their dates and times based on current availability. Here, they’ll enter in their contact information and book the appointment. The system then automates the rest of the process surrounding appointment management.
+
+It will immediately send an email confirmation to the customer, as well as a reminder email ahead of the appointment time. Re-scheduling is also a self-serve service, as customers can return to the scheduling site by clicking a link in their email to choose a different time or cancel.
+
+Businesses can avoid last-minute cancellations by controlling how much advanced notice is required to cancel an appointment, says Microsoft.
+
+Once created, the bookings are synced to a centralized booking calendar where businesses can then reschedule them, cancel them, or re-assign them to other staff members, if need be. You can input new bookings on the calendar, too, if you’re speaking with a customer in person or by phone.
+
+A special feature called “split view” will show which staff are booked at which times by letting you view their schedules side-by-side.
+
+These appointments are also synced over to staff calendars, including those in Outlook in Office 365, Outlook.com or even Google Calendar.
+
+While appointment management is the primary goal with Bookings, the system can also be used to build the company’s customer list, as it creates a contact entry automatically when a customer inputs their info into the online system. The contact card contains the customer’s personal information, like name, address, phone, and email, as well as notes.
+
+Microsoft says it will launch a standalone app for Bookings in a few weeks that will allow businesses to manage appointments or contact customers on the go.
+
+As the business grows, businesses can add more staff and create additional booking pages at no extra cost. Plus, staff aren’t required to have Office 365 subscriptions in order to be a part of the service, notes Microsoft – only one Office 365 Business Premium account is required.
+
+Instead, the company is initially making Bookings available to those who subscribe to the Office 365 Business Premium Plan and are in the First Release program, with a worldwide rollout planned in the “coming months.” It will be available in the Office 365 app launcher, once available.

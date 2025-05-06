@@ -1,0 +1,33 @@
+Facebook’s new anti-clickbait algorithm buries bogus headlines
+
+Facebook Pages and websites that frequently withhold, exaggerate or distort information in their link headlines will disappear from News Feed thanks to anew anti-clickbait algorithmthat’s now rolling out.
+
+Facebook manually classified tens of thousands of headlines with a clickbaitiness score to train the new algorithm. Now it can detect headlines like “When She Looked Under Her Couch And Saw THIS… I Was SHOCKED!”; “He Put Garlic In His Shoes And What Happens Next Is Hard To Believe”; or “The Dog Barked At The Deliveryman And His Reaction Was Priceless.”
+
+Rather than just assigning a binary “Yes, clickbait” or “not clickbait,” each story gets a score about how egregious it is. The algorithm primarily looks for phrases often used in clickbait headlines but not in legitimate headlines, similar to email spam filters.
+
+The higher the clickbait likelihood, the more the algorithm punishes the entire Page that shared them or site they link to by making all their posts or referral links less visible. “If you post 50 times a day and post one piece a clickbait, this shouldn’t affect you. If you’re a spammer and post clickbait all day, this should affect you a lot,” Facebook’s VP of Product Management on News Feed, Adam Mosseri, tells me.
+
+Luckily, if a publisher reforms its ways and “they stop posting clickbait, their referral traffic will bounce back,” Mosseri explains. And since the algorithm identifies offenders on both the web domain level and the Facebook Page level, spammers can’t build a Page and then just launch new websites with different URLs to elude punishment.
+
+Clickbait is one of the most complained about parts of the News Feed. Some people even file bug reports blaming the News Feed ranking algorithm. The change aligns withFacebook’s recently announced News Feed Values.“Authentic Communication” is one of the five values, along with “Friends And Family Come First,” which led to last month’sfeed changeto de-emphasize news publishers.
+
+Facebook is even open to sharing its insights about how to fight clickbait with other social networks or tech products. “I have no problem walking any company through what we did and how we did it so they can borrow it,” Mosseri tells me.
+
+However, Facebook won’t be publicly publishing the multi-page document of guidelines for defining clickbait because “a big part of this is actually spam, and if you expose exactly what we’re doing and how we’re doing it, they reverse in engineer it and figure out how to get around it.”
+
+In a possible slight to Gizmodo, which accused Facebook of suppressing conservative trending topics based on information from anonymous sources, one of Facebook’s fake examples of clickbait comes from a site called “Gizmotecho.com”
+
+Facebook already made ananti-clickbait algorithm change in 2014,focusing on user behavior. It looked for links that people Liked then clicked, but then immediately bounced back to Facebook and Unliked because the website they arrived at didn’t meet the expectations set by the headline.
+
+In February Facebook started looking more closely athow little time people lingered on clickbait sites, and identified links with lots of clicks but very few subsequent Likes. Today’s change focuses on the source of the problem rather than tracking the symptoms.
+
+To help publishers stay on the good side of the enforcement algorithm, Facebook has postedsome tips to avoid relying on clickbait. Facebook advises that publishers avoid omission of important information to trick readers into clicking, like “You’ll Never Believe Who Tripped and Fell on the Red Carpet…” Facebook instead suggests calls to action and text prompts. Facebook also recommends avoiding exaggeration like “This Pen Never Ever Runs Out of Ink! Get It While It Lasts!”
+
+News publishers are naturally nervous about any News Feed change. They depend on Facebook for referral traffic, and are on guard since Facebook said it would prioritize friends and family over them last month.
+
+If all these anti-clickbait efforts work, it could boost referral traffic for legitimate publishers, as users may become more confident that links they see are worth a click.
+
+—
+
+To learn more about the News Feed, come see Facebook’s VP of Product Management for News Feed Adam Mosseri speak atTechCrunch Disrupt SF, September 12-14th

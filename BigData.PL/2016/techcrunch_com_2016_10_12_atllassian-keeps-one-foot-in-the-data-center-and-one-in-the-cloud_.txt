@@ -1,0 +1,23 @@
+Atlassian keeps one foot in the data center and one in the cloud with new products
+
+Atlassianwants the best of both the cloud and data center worlds, and it announced at the Atlassian Summit today that it was expanding its data center-cloud strategy with new products.
+
+At a time when companies are shifting their business to the cloud, it may seem like an odd approach to offer both cloud and on-prem products, but Atlassian sees it as hedging its bets in a world that remains very much hybrid.
+
+The company makes a variety of tools designed to help development (and other department) teams work together including HipChat, Jira, Confluence and BitBucket. Over the years they have seen the size of deployments rise dramatically with as high as 50,000 users running on Jira, according to Atlassian president Jay Simons. Some customers weren’t comfortable running these massive deployments in the cloud.
+
+To meet that demand, the company introduced its data center product line a few years ago, and today it’s expanding that line to include HipChat Data Center in Beta. HipChat is the chat tool that competes with Slack (and nowWorkplace by Facebook) in the enterprise messaging space.
+
+Simons says like the other data center products, they created HipChat Data Center for companies that prefer to run their software on their own infrastructure.
+
+The company also announced the ability to upgrade Jira Software Data Center without taking the system down. This is particularly important to customers because they often use Jira to manage mission critical projects and downtime can mean lost business.
+
+“Part of challenge behind on prem is that when you upgrade, you need to take it offline. We’ve added features to let you upgrade without taking the system offline,” Simons explained.
+
+And for those who want to deploy to cloud infrastructure instead of the data center, Atlassian announced improved support for companies deploying their data center products on Amazon Web Services.
+
+While the company acknowledges, it’s challenging to maintain a cloud and on-prem product set, it believes it’s providing customers a choice to deploy wherever and however they want.
+
+Atlassian has the distinction of being profitable for 10 straight years. They tend to sell over the web (although that would seem to be more difficult with on-prem products than those in the cloud).It went public last Decemberafter raising $210 million. Today it has a market cap of over $6 billion.
+
+[graphiq id=”in9zTuRW709″ title=”Atlassian Inc. (TEAM) Stock Price” width=”600″ height=”617″ url=”https://sw.graphiq.com/w/in9zTuRW709″ link=”http://listings.findthecompany.com/l/14240602/Atlassian-Inc-in-San-Francisco-CA” link_text=”FindTheCompany | Graphiq” frozen=”true”]

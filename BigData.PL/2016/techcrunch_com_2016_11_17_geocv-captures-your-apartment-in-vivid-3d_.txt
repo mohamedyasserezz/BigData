@@ -1,0 +1,15 @@
+GeoCV captures your apartment in vivid 3D
+
+Apartment walk-throughs are necessary but uneventful. You visit the kitchen, hit the bathroom, size up the bedroom, kick a dead cockroach into the front closet and then sign a contract. But what if you could see an apartment in 3D even before you visited the building. That’s whatGeoCVis trying to do.
+
+The system consists of a mobile app for 3D scanning and a cloud processor for creating the 3D model. The model then is visible in SketchFab 3D viewing software and can be viewed using Google Cardboard or other VR systems.
+
+Smolenskiy – 3D Scan by GeoCVbyGeoCVonSketchfab
+
+The founders, Anton Yakubenko and Gleb Krivovyaz, have PhDs from the Graphics & Media Lab at Moscow State University. They worked on a number of research products before deciding to bring true 3D to market. They are part of theStarta Acceleratorin New York.
+
+The company has raised $700,000 from four investors, including Rothenberg Ventures. They will be launching next year with a usable product, but until then you can fly around a virtual apartment on their website and click the various labels — bedroom, foyer, kitchen — for a closer look at the walls, carpets and potential spots for hiding dead cockroaches.
+
+[vimeo 155274919 w=640 h=360]
+
+GeoCV Product DemofromAnton YakubenkoonVimeo.

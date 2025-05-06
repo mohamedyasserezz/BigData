@@ -1,0 +1,11 @@
+Adobe’s Acrobat DC gets better support for digital signatures
+
+With its Creative Cloud, Adobe made an early bet on offering its tools for creatives as a subscription service. With itsDocument Cloud, the company also offers a subscription-based service for its more enterprise-focused document management tools.Acrobat DC, the PDF-centric flagship service of the Document Cloud, isgetting an update todaythat introduces a number of new features that will make editing documents and signing them a bit easier.
+
+As Lisa Croft, Adobe’s group marketing manager for the Document Cloud, told me, all subscribers will get this update today.
+
+Maybe the most important new feature in Acrobat DC is better support for Certificates. While Acrobat already allows you to digitally sign documents, it’s now far easier to do so thanks to a new set-up wizard for creating IDs or importing them from smart card readers and other cryptography hardware. Croft told me that the newregulations around digital signaturesin the European Union spurred the team to make this feature more discoverable and usable. In the future, Adobe also plans to integrate this functionality more closely with its Adobe Sign tool.
+
+Another new feature in Acrobat DC is an enhances file comparison tool that now makes it easier to see where two documents differ. This may sound like a pretty basic tool, but Adobe has added some additional features like a report that sums up all the changes. It has also built-in an image comparison tool, so if somebody made an edit to an image — even if it’s a small one — Acrobat will now recognize and flag this change.
+
+For Windows 10 users, Adobe also added better support for Ink on touch-enabled tablets. This mostly means you can draw and write on documents, though, and doesn’t include the kind ofadvanced stylus-based editing featuresMicrosoft itself is building into its productivity applications.

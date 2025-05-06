@@ -1,0 +1,11 @@
+Google launches fourth developer preview of Android Wear 2.0
+
+Google first announced Android Wear 2.0 at its I/O developer conference in May, with a promise to roll it out to all users later this year. It has nowdelayedthose release plans in favor of moredeveloper previews; today it launched the fourth of these.
+
+Just like before, there is no way to get an over-the-air update to Android Wear 2.0 for your watch, so this release is still squarely aimed at developers. Unlike some earlier previews, this update does include some major new features, though. Apps — which can run natively on Wear 2.0 without the need for a companion app on the phone — can now include in-app billing, for example. Users will be able to authorize these on-watch in-app purchases by entering a four-digit PIN code on the watch. I don’t expect to buy a lot of stuff from my watch, but at least it does give developers more opportunities to come up with ways to tempt me to do so.
+
+Just because apps can now run natively on the watch doesn’t mean they can’t benefit from having a companion app installed on a phone, too. To help developers cross-promote their watch and phone apps, Google is introducing a new API that helps them send watch users to the Google Play store on their phones to install apps there.
+
+If you haven’t used Wear 2.0 yet (and chances are you haven’t), then it may come as a surprise that the standard swipe-to-dismiss gesture from Wear 1.x wasn’t available in earlier versions of Wear 2.0. With this fourth developer version, it’s thankfully coming back. The hardware button on the watch is now also mapped to “power” and doesn’t work as a “back” button anymore.
+
+Google also included a number of other minor updates in this release. You can find a full rundown of these changes here. Don’t expect the final release anytime soon, though. The company has already said that we’ll see a fifth developer preview, too.

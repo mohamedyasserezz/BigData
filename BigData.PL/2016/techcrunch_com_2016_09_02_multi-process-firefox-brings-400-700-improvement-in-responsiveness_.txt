@@ -1,0 +1,25 @@
+Multi-process Firefox brings 400-700% improvement in responsiveness
+
+Earlier this summerI wrote about Mozilla’s effortsto rollout a multi-process architecture, codename Electrolysis, for Firefox. In the months since, Mozilla has completed its initial tests on 1 percent of its user population and the initial numbers are good, according to Asa Dotzler, director of Firefox at Mozilla.
+
+The company is reporting a 400 percent improvement in responsiveness and a 700 percent improvement in responsiveness for loading large web pages.These numbers mean that users are far less likely to see their browser freeze, pause, lag or crash. Dotzler himself used the word “janky” to describe previous versions of the browser.
+
+Over the next week, multi-process will be coming to 10 percent of total Firefox users. For now, users with add-ons will not be getting the new architecture. The staggered rollout is fairly industry standard to avoid shipping bugs. Having two independent groups of users allows Mozilla to benchmark metrics from the new version against unconverted users.
+
+For now, multi-process is limited to a single content process and a single browser process. Later versions will include multiple content processes and sandboxing.
+
+In the coming weeks, Mozilla will push multi-processing to 100 percent of their initial cohort of users. This group represents 40-50 percent of total users. Within the next six months, a majority of users can expect to have the capabilities. Here is a little cheat sheet of upcoming releases:
+
+Over the coming months, engineering teams will be shifting their efforts toward improving security and adding new web developer features.
+
+Teams spent a large amount of time ensuring the new browser would be accessible to as many groups as possible. Bi-directional editing turned out to be a larger project than expected, and users that need right-to-left support will get it in Firefox 49-51.
+
+One of the initial fears of Firefox users was that Electrolysis would be so RAM-intensive that it would severely slow the browser down.
+
+Dotzler noted the memory reduction his teams achieved after spending the last five years on a project called MemShrink. Such a low starting point made multi-process possible. Adding a single additional process added about 20 percent overhead. There are currently no plans to dedicate a process to every single webpage. Right now teams are working to define a fixed number of processes for future rollouts. The question is whether new versions will coalesce pages randomly into a fixed number of processes or coalesce pages by domain.
+
+“We can learn from the competition,” said Dotzler. “The way they implemented multi-process is RAM-intensive, it can get out of hand. We are learning from them and building an architecture that doesn’t eat all your RAM.”
+
+While most may not remember, Electrolisis is not Mozilla’s first attempt to bring a multi-process architecture to Firefox. Six years ago,Project Candlebrought a multi-process architecture to Firefox on mobile. The company abandoned the efforts after noticing it was creating a bottleneck on mobile, according to Dotzler.
+
+Today the Firefox mobile browser runs as a single process but with advancements in the processing power of smartphones, it is possible that additional content processes could come to mobile again in the future.

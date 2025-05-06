@@ -1,0 +1,9 @@
+Microsoft’s Project Malmo is teaching AI to build stuff in Minecraft
+
+There’s plenty of precedent for the use of Minecraft in an educational setting. Hell, Microsoftissued an Education Edition of the popular PC gameearlier this year targeted at use in a classroom setting.
+
+Turns out the game could also prove a useful tool for helping artificial intelligence be more, well, intelligent. Back in March, Microsoft Research showcased thework it was doing with Project Malmo, a platform designed to leverage Minecraft as a means of helping improve AI problem solving, using machines to accomplish tasks and create items in the blocky game. Now the company isbringing Malmo to the GitHub-using masses, courtesy of an open-source license in a private preview.
+
+Katja Hoffman of MS’s Cambridge, UK lab highlighted the key of teaching AI fundamental connections that go build simple pattern recognition. “We’ve trained the artificial intelligence to identify patterns in the dictation, but the underlying technology doesn’t have any understanding of what those words mean,” she said in a blog post announcing the preview. “They’re just statistical patterns, and there’s no connection to any experience.”
+
+The system also allows for overclocking, allowing programmers to play out scenarios faster than the standard Minecraft pace.

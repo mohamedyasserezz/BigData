@@ -1,0 +1,35 @@
+Apple needs single sign-on to solve the tvOS adoption problem
+
+Just ahead ofApple’s recent annualWorldwide Developers Conference(WWDC) held in San Francisco, we looked at the performance oftvOS apps.Analyzing activity from nearly 300,000 users, we found that tvOS apps retained poorly compared to their phone- or tablet-based sister apps.
+
+Our conclusion was that any updates to tvOS must focus on solving this retention problem if tvOS is to be a success.
+
+WWDC rolled around and, as expected, Apple announced a series of changes to the way that tvOS works and integrates with Apple’s other products. Are these changes what tvOS needs to solve its retention issue?
+
+Our analysis itself was relatively small, yet powerful. We checked our incoming traffic forApple TVdevices through the month of May, analyzing the anonymized and aggregated retention data from users on the platform. The study compared tvOS apps to the same apps oniOS. It’s crucial to point out that the final study only included activity from three different apps, although those apps had been used by more than 5,000 Apple TV users. (The sample for iOS was more than 295,000.) This means that while the results are statistically significant, the predictive power across verticals is weak.
+
+Intuitively, certain apps are sure to perform:Netflix, for example, is a highly familiar format on the TV. The service is already available onPlayStationdevices and dozens ofsmart TVs. Similarly, the apps we looked at were high-performers (third quartile or better in terms of retention) either in the entertainment and media vertical or home utilities. These are the types of apps you might expect make sense on the Apple TV.
+
+Yet in the data, the pattern was clear: There’s a serious retention problem for early-adopter developers on tvOS.
+
+So tvOS users aren’t engaging with these apps enough. To be fair, most platforms struggle with user performance in the early days. And there’s a chicken-and-egg problem — users will only commit to a platform if they can use it extensively, whereas developers will also limit their releases until performance can be proven.
+
+Since announcingtvOS to developers in September 2015, Apple certainly helped jolly things along by encouraging specific developers to port their apps to the TV. This is how the platform got to5,000 appsin the first place.
+
+But, performance could also significantly benefit from targeted improvements to the device ease-of-use. Retention is affected by a ton of factors. If the app’s selling proposition isn’t any good, then users will churn rapidly. Because we only looked at apps that were performing extremely well on iOS, though, this seems unlikely.
+
+Another common factor is a retention drop-off — a point at which during the user’s journey that it is difficult, or unappealing, to continue using the app. Game developers look for particularly tricky levels where the learning curve rises too steeply. E-commerce companies ruthlessly tweak their funnels to find specific points in the user experience that make people abandon carts.
+
+So is the data consistent with a retention drop-off on tvOS?
+
+The biggest difference in user retention between tvOS and iOS can be observed right at the beginning of the user journey.tvOS Day 1 retention at 23 percentis about one-third lower than on iOS, which indicates that almost 80 percent of all users opened the apps once, but then never returned. This indicates that providing a more fluid flow to start using an app right away would significantly reduce the barriers that users experience when downloading apps onto the Apple TV.
+
+As usual, we picked up a device ourselves to try out the system in the office. OurCEO Christian Henscheldownloaded theAirbnb apponto the device, but promptly quit the effort when he discovered how onerous it would be to type in our 32-character company password with the touch-sensing remote. That’s anecdotal, but perhaps still serves to illustrate what’s happened to 5,000 early tvOS adopters.
+
+Single sign-onacross devices, as well as using theiPhoneas an improved stand-in for the touch remote, could remove this roadblock entirely. This means that tvOS apps might become straightforward companions to what users are doing on their other devices — allowing them to migrate existing activity onto the big screen.
+
+People tend to use their smartphones while watching shows on the big screen. eMarketer recently reported as much as 50 percent usage among millennials*. Easily handing off from the smartphone to native formats on the Apple TV is a significant value proposition for multimedia consumers. And, this appears to be the use case that Apple is shooting for. Enabling this experience through single sign-on could be the game changing factor.
+
+Will it be enough to transform tvOS from a struggling platform into a worthwhile investment for app developers? Maybe not all by itself. Does it home in, at least, on the very issue that we’re observing for our partners with investments on iOS? We think so. Given the drop-off, and given the experience of our partners, single sign-on might be just the thing to bring tvOS users coming back to the apps.
+
+*Source: March 2016 Deloitte report:Digital democracy survey; 2,205 U.S. internet users 14+ were surveyed online during November 5-19, 2015. Data was weighted to the most recent census.

@@ -1,0 +1,15 @@
+Microsoft’s open source .NET Core and ASP.NET Core hit 1.0
+
+It’s been over a year and a half since Microsoftfirst announcedthe open source.NET Coreproject, which aims to bring the core parts of Microsoft’s .NET framework (and its cousin, the web-focused ASP.NET Core) to Linux, OS X and other operating systems that the company didn’t previously support. As Microsoft announced today, .NET Core and ASP.NET Core have now hit 1.0.
+
+More than 18,000 developers from 1,300 companies have contributed to .NET Core 1.0, Microsoft says, and notes that this new version also includes the release of the .NET Standard Library, which will make it easier for developers to “reuse their code and skills for applications that run on servers, the cloud, desktops and across any device including Windows, iOS and Android.”
+
+Red Hat, which has developed apretty close relationshipwith Microsoft lately, will support .NET Core on its flagship Red Hat Enterprise Linux distribution and onOpenShift, the company’s Docker- and Kubernetes-based Platform-as-a-Service offering. As Red Hat argues, this will now allow enterprises to run microservices-based applications that include both .NET and Java components on the same platform. At the same time, new applications written for .NET Core will be able to run on Windows Server and Red Hat Enterprise Linux now.
+
+It’s worth noting that Microsoft is also making .NET Core available for Ubuntu, Debian and CentOS, but Red Hat Enterprise Linux is the first commercial distribution to support it.
+
+In addition to today’s product announcements around .NET Core, Microsoft also today announced that Samsung is joining the.NET FoundationSteering Committee.
+
+While the 1.0 release of .NET Core is definitely the most important launch today, Microsoft also made a number of other announcements at the Red Hat Summit. The company, for example, is working with Red Hat and Codenvy to bring to other tool and language providers the protocol that allows its free Visual Studio Code editor to support more than 100 programming languages already. “This means that any developer can have a consistent, productive editing experience for their favorite programming language on any tool — even if that tool isn’t Visual Studio Code,” Microsoft’s corporate VP for its Data Group Joseph Sirosh explains in today’s announcement.
+
+The company is also showcasing a few more of its open-source technologies today, though the demo that will likely draw the most attention is SQL Server 2016 running on Red Hat Enterprise Linux.

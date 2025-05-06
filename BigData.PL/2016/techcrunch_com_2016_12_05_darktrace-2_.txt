@@ -1,0 +1,25 @@
+Darktrace co-founder discusses the future of cybersecurity
+
+One of the co-founders of the tight-lipped cybersecurity firmDarktracepeeled back some of the secrecy around the company today at TechCrunch Disrupt London, describing how investor Mike Lynch brokered a meeting between Cambridge mathematicians and spies at the British intelligence agency GCHQ to found the company.
+
+Lynch, who is currently embroiled in alawsuit and countersuitwith Hewlett-Packard over its acquisition of his company Autonomy in 2011, introduced the spies to mathematicians at Cambridge.
+
+“The government intelligence agency, they had this brilliant idea for cyber, they knew that math was the answer. They came to Mike and said, ‘We have this great idea.’ It was him that brought together the meeting of minds,” Darktrace co-founder Poppy Gustafsson said.
+
+The idea was to reevaluate the traditional approach to cybersecurity. Rather than gathering information on attacks and monitoring hacking teams, Darktrace focuses on monitoring a company’s own network and detecting low-level anomalies that might indicate an attack — using machine learning technology to do so.
+
+“Cybersecurity has been all about defining what a threat looked like,” Gustafsson explained. “We took a fundamentally different approach. We decided to look at what an internal network looks like and identify when that behavior changes.”
+
+Now, three years after its founding, Darktrace boasts 1,500 customers and a staff of roughly 300.
+
+Gustafsson also shared some of the most creative cyberattacks Darktrace has encountered, saying that her work sometimes left her feeling like she was living in a story by the novelist John le Carré. One of Darktrace’s clients, a luxury goods manufacturer, used biometric fingerprint scanners to secure its warehouses. But Gustafsson said that one of the scanners was improperly connected to the internet and was swiftly compromised. The attacker not only downloaded all of the fingerprints of the company’s workers, but also uploaded their own fingerprint so they could enter the secure warehouse.
+
+“It’s one of the few attacks where a criminal has given their fingerprint ahead of time,” she joked.
+
+Darktrace has often indicated that artificial intelligence will become a rising trend in cyber attacks, not just for defense. Gustafsson speculated that AI could be used to create more sophisticated spearphishing attacks by scanning a compromised user’s email account and impersonating the tone of one of their contacts in a spearphishing email. However, Darktrace hasn’t seen any such attacks yet. But Lynch isbullish on the ideathat they are coming and has pushed it as part of their sales pitch.
+
+To be more responsive to hackers, Darktrace has also introduced an adaptive machine learning defense component. One of its products, Antigena, is intended to automatically slow or stop attacks even if network administrators are not present. “Antigena can take action. That could be slowing down the connection or switching it off entirely. This is not about replacing your security team, but it’s simply about buying them time by reacting much faster than any human being could,” Gustafsson explained.
+
+However, Darktrace has seen reluctance among clients to completely entrust their security to artificial intelligence. “We’re still seeing hesitation of people not wanting to give over control of the network to the machine. And we support that,” she said.
+
+The firm recently hit a $500 million valuation and is reportedlyeyeing an IPO, but Gustafsson claimed going public isn’t on the horizon. Rather, she said Darktrace is focused on hiring as it brings on more employees to meet what she called “massive demand.”

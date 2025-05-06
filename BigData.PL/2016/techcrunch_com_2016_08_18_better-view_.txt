@@ -1,0 +1,9 @@
+Google Maps updates Street View rendering and controls
+
+Google has detailed a slew of updatesover at its Developers Blogaimed at making Street View rendering less crummy, courtesy of some tweaks to the Maps JavaScript API.
+
+Among the resulting improvements are smoother transitions from place to place, thanks to more frames and better loading animations, as the system has switched from repeating old images, which resulted in a stuttering effect to new low-res shots, which creates the effect of a blurry periphery coming into to sharper focus.
+
+Updates to object modeling mean the system now factors in all possible perspectives, resulting in, among other things, the less post apocalyptic image on the below right:
+
+The new rending system employs WebGL, trading curved fish-eye style images for straight lines on mobile. Also cool is the addition of motion tracking on mobile, making it possible to explore the Street View landscape by moving a phone around, while on the desktop, Xs identify switches from one camera to the next.

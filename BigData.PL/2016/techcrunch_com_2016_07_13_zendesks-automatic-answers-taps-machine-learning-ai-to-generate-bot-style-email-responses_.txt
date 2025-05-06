@@ -1,0 +1,27 @@
+Zendesk’s “Automatic Answers” taps machine learning, AI to generate bot-style email responses
+
+Chat bots haveballooned in popularityin recent months, and now we’re seeing some interesting examples of how that technology, where computers interact and respond to human requests, is being used to solve other problems. Today,Zendeskis taking the wraps off “Automatic Answers”, a service for businesses to reply to emails from customers without ever having a human employee get involved.
+
+Automatic Answers is not your average, run-of-the mill email autoresponder. The service was built using a machine learning platform that Zendesk’s in-house teams of data scientists and engineers, which are based out of Melbourne, Australia, have been developing on for a while now.
+
+That machine learning platform was first announced last year and it alsopowersa service Zendeskannounced last October, Satisfaction Prediction, which is able to monitor customer-company interactions to — as its name implies — determine whether the customer is getting what she or he needs.
+
+The machine learning/AI element means that the responses in Automatic Answers are not only reading and responding specifically to what you the customer is asking, but it is technically getting smarter with each response (and presumably using a bit of Satisfaction Prediction to figure out if it’s getting it right).
+
+Automatic Answers will work first in email because, as Zendesk’s VP of product Sam Boonin tells me, “Even in a world of customer services embedded in every communication channel from social to web to phone, email still represents the majority of interactions that are coming in.”
+
+Boonin is clear to point out that this is not Zendesk’s jump into bot-infested waters. “This is not a bot,” he said to me when I asked, bot or not? “Bots focus on long-running conversations, and while this uses tech similar to that this isn’t the intention.”
+
+Over time, however, this will change. Zendesk plans to add it into other platforms as well including social messaging platforms and anywhere that customers are contacting companies, part of the company’s wider aim to improve “ticket deflection” — or automated services that solve customers’ questions and problems without resorting to customer support people getting involved.
+
+“The plan is to extend this beyond email. Zendesk is multichannel and we’d want to include this in chat, voice, social channels and more traditional channels. We’dlike to expand this to everything.”
+
+Interestingly, that could also potentially include Twitter. Earlier this year, the social platform unveiled is plans tobuild out customer service products, and Zendesk is one of the companies working on ways to implement that, Boonin said. “Very similar to what Facebook is doing, Twitter wants to make customer service interactions continue to look like they’re happening on Twitter from the customer’s point of view. But on the company’s side, it will be Zendesk’s dashboard that will appear, and it will be from Zendesk that they will be sending tweets to their users.”
+
+But while removing humans from email interactions sounds very bot-like, Boonin said that this does not signal the decline of the customer care professional. (And, at the end of the day, with seats still the basic unit for how Zendesk sells its products, it’s unlikely for now to be a team it wants to wipe out any time soon.)
+
+Rather, because of the asynchronous nature of email, it has been a pain point for customer care teams to answer in an efficient and non-hands-on way, even when the requests are basic, such as password resets. That can become an acute pain point, especially when the company small or medium-sized and growing, Boonin said.
+
+“Automatic Answers is part of the promise of computing helping to automate tasks that are low-value,” he added.
+
+Automatic Answers will be fully rolled out later this year, potentially with a separate pricing structure. This is still being worked out, and for now it will start its rollout in beta, as part of Zendesk’s service suite, with the intention of using early interactions to feed the machine learning algorithms.

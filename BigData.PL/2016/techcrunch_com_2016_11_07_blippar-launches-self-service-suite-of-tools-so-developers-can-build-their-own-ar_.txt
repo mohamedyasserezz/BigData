@@ -1,0 +1,19 @@
+Blippar launches self-service suite of tools so developers can build their own AR
+
+Blippar, the company that has brought a full augmented reality experience to a smartphone near you, has today announced the launch of its self-service suite of tools. This is the first time that Blippar has made its technology publicly available to developers, letting them tap into Blippar’s Computer Vision API and attach their own augmented reality experiences to real-world objects.
+
+When Blippar first launched, the company offered a way for brands and publishers to give a deeper dive on their product or advertisement. They did this through a Blipp, a real-world sticker that helped the Blippar app recognize the product and ultimately show more information through AR.
+
+Eventually, the company decided to go beyond mere AR advertising to create an AR search engine. There are things in this world that are nearly impossible to search for, like a specific type of flower or the brand of shoes you just saw on the street.
+
+But in June, the companylaunched its visual search engineto help users identify those highly visual objects that they couldn’t put their finger on.
+
+With today’s launch, it’s not just the users who get increased access to the world of AR, but developers, as well.
+
+The BlippBuilder Augmented Reality Suite comes with both drag-and-drop options for marketers and designers (who don’t have coding experience) as well as a JavaScript option for developers who wish to write out their own code. Plus, the Suite includes Blippar’s Computer Vision API so that developers can attach an AR experience to any real-world object for their own users.
+
+“Democratizing augmented reality across the industry starts with understanding actual reality,” said Mitra. “We wanted a full suite of tools, including our computer vision API, before we opened up public access so that developers and marketers would only be held back by the limits of their own imagination.”
+
+You can get started with BlippBuilder for free as an individual developer, with a per-license cost for enterprise users.
+
+Check it outhere.

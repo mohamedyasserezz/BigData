@@ -1,0 +1,15 @@
+Stripe launches Works With Stripe, a directory of apps that integrate with its payments
+
+Stripe, the company that competes against the likes of PayPal by letting businesses add payment services into their apps and websites with a few lines of code, is today launching a new directory that plays into its bigger ambition to position itself as not just a payment tech startup, but a wider platform for business services.
+
+Works With Stripe, as the new directory is called, brings together some 300 apps that integrate with Stripe, so that the hundreds of thousands of businesses that are already using Stripe in their services can in turn use these other apps to query and analyse that data.
+
+Works With Stripe will include services like Slack, where you can configure the service to give you notifications for transactions as they happen; Card Flight card readers to integrate these with your own iOS or Android apps; Xero to link Stripe transactions with your accounting and payroll accounts; Taxjar for tax calculations; Control for business analytics; Shippo for shipping services; and more.
+
+The idea with the new directory is twofold: First, it steers companies to discover more services to build around their Stripe payments, which further locks in those customers to Stripe to keep them from churning away to another payment provider. (With Stripe taking a small transaction fee for each payment, it needs scale to boost its revenues.) Second, it lays the groundwork for more third-party companies to integrate with Stripe for other services: providing a way to discover them will send those third parties more business. Listing in the directory is free, but use of those services will depend on their own pricing models.
+
+Listing the apps that work with a particular platform or service a route that other startupslike Slackbut also larger companies likeAWSandSalesforcehave also taken to encourage growth within their ecosystems.
+
+Stripe says that it will kick off the directory by featuring the currently most popular integrations as well as highlight some of the more interesting new ones — a sign of how Stripe is not only enabling more linkage between its customers and those apps, but also analysing just how its platform and the data passing through it gets used.
+
+Those analytics could help Stripe shape its own in-house products, but it could also provide guidance for another end. As Stripe — which has raisedaround $300 millionand is valued at around $5 billion — gears up for whatever might be next in its development as a company, those analytics not only demonstrate that Stripe is a valuable transactional machine, but also a potential lynchpin for all things business data-related.

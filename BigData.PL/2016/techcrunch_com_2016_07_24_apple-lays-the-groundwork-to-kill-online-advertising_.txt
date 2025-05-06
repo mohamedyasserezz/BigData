@@ -1,0 +1,93 @@
+Apple lays the groundwork to kill online advertising
+
+Their products help us learn, communicate and navigate the world. While we tap away, the companies behind these innovations are battling for the future of computing. Each and every one is actively defending their core businesses while placing bets on the future.
+
+Their tangled business relationships help mask the underlying strategies that drive them; however, Apple’s strategy and upcoming tactics to stifle Google’s chief revenue source are becoming clear.
+
+As technologists and consumers, we’re lucky to be around to watch one of the most exciting games of corporate chess unfold.
+
+As I see it, Apple has four moves left until they can call check on Google’s king, search. I’ll go through some of the high-level landscape and assumptions that are driving the strategy before I dive into how it could all play out.
+
+Before we dive down this rabbit hole, there is one thing you should know. We’re not stumbling into another “Apple will kill Google” post. There arefartoo many assumptions to be sure Apple will execute on this strategy. This post is speculating based on a range of facts and public statements from Apple.
+
+Apple has aquiet search dealwith Google that prints them a hefty amount of cash. Pundits have tried to understand the structure of the deal, but most agree that Apple has the leverage. What’s relatively known based on leaks is that there is more than $1 billion paid each year by Google to win the default search option on Safari. Based on more recent leaks from Google’s Oracle trial, a revenue share number of 34 percent came out. It wasn’t clear whether that was Google’s or Apple’s take, but logic leads me to think that it is Apple’s.
+
+Putting that in perspective, Googleadmittedthey crossed a threshold where they are receiving more queries on mobile than on desktop. In 2014, Goldman Sachsestimatedthat more than 75 percent of mobile revenue for Google was coming from iPhones. It’s unknown how much of that is via mobile Safari versus the Chrome app on iOS.
+
+Based on public filings, Goldman stated that Google had roughly $11.8 billion in mobile search revenue and more than $200 million of other mobile advertising revenue. Of the $11.8 billion, 75 percent, or approximately $8.85 billion, was believed to come from iOS devices. Goldman continued to predict that about half of that was from users who were using Google, solely, because it was the default option. That places the estimated total value for Google of being the default option at $4.4 billion.
+
+Revenue on mobile has gone up since 2014 as Apple continues to grow and mobile usage increases.
+
+If Apple were indeed getting the $1 billion plus a 34 percent revenue share, that would earn them as much as $4 billion in cash for directing users to the best option for search. This number is a high bound. People searching directly through Chrome and Google apps on iOS lessen the impact; however, it’s not feasible to break down how much the apps save Google on their search tax.
+
+Two facts help put the estimate in context. In 2014, Google raked in more than $66 billion in revenue, so this would’ve reduced their margin by up to 6 percent. In the same year, Apple’s total advertisingbudgetwas around $1 billion, or 0.6 percent of their annual revenue. Thatrosenearly 50 percent to $1.8 billion in 2015. It may be fun for Apple to look at their financials and remind themselves that Google is footing much of their marketing tab. It reminds me of how the tax on tobacco funds anti-tobacco education.
+
+You don’t need to work at Apple or Google to see how different they are culturally and philosophically.
+
+Apple CEO, Tim Cook, stated the difference plainly in their publicprivacy statement:
+
+Our business model is very straightforward: We sell great products. We don’t build a profile based on your email content or web browsing habits to sell to advertisers. We don’t “monetize” the information you store on your iPhone or in iCloud. And we don’t read your email or your messages to get information to market to you. Our software and services are designed to make our devices better. Plain and simple.
+
+Apple took direct shots at all advertising-powered companies, like Facebook, Twitter and Google.
+
+Apple is one of the most prominent brands, and they reach hundreds of millions with their products. They wield an enormous megaphone as they argue that advertising companies aren’t aligned or concerned with user privacy. They take every opportunity to remind users that local processing means they’re safe, private and secure. The fingerprint scanning was the first time I picked up on this narrative, then again at WWDC 2016 when they spoke of their new facial recognition capabilities. They make sure to promote how they leverage local processing and local storage. In turn, they allude to cloud processing being less private and unsafe.
+
+Google has always bet on cheap hardware with cloud processing, and Apple has been their foil. In Google’s ideal future, devices are a commodity that relies on the cloud. The more this future is realized, the less value the world will see in Apple’s high-end hardware and local processing.
+
+In the end, Apple’s hard line on privacy and love of local processing foreshadows a future where Apple could turn even harder against the behavioral advertising industry with their products and services.
+
+Part of Apple’s strategy stands on one big assumption — we will prefer to search in a context where we trust and understand their relevance ranking.
+
+Google has been open that a threat to its long-term growth is verticalized search and has focused on solving for context and intent within a query. Historically, they limited that threat by doing everything they could to keep their search inventory as close to the top of the funnel for a user engaging with an internet-enabled device. For example, on Android phones, the search is on the home screen, and there’s voice-activated “OK Google” search. With Chrome and other browsers, they took over the URL input field and made great efforts to be the default search. On many Android TVs, voice search is a prominent feature on the screen and the remote.
+
+Because Google sits so high in the funnel, they have little to no context for what query is coming. Solving that problem has required the scale and infrastructure that they worked tirelessly to engineer over the past 18 years.
+
+Google continues to be the king of building context on-the-fly and accurately understanding the intent of the searcher. They’re maniacal focus on machine learning and bet on Google Assistant demonstrates they’re doubling down on building context within a conversation with Google rather than betting that people will prefer multiple assistants.
+
+Nevertheless, the best way to beat Google is within a known context with catered result formats.
+
+We’ve all been there. When we want food, clothing, an OCD fix or visual inspiration, we search Pinterest; for video tutorials, we go to YouTube (a Google property); for products, we hop over to Amazon; for a restaurant, we launch Yelp; looking for someone, we search Facebook, LinkedIn or Twitter.
+
+Vertical search is growing, and behavior is surely changing. The New York Timesreportedin 2013 that Amazon had overtaken Google in shopping searches. The growth of all the services mentioned earlier reminds us that it’s possible that people, going forward, may trust a brand with each specific intent rather than trusting Google for everything.
+
+Predicting what’s next for a product or company can be obvious when it’s incremental, evolutionary or a major feature disparity with a competitor. In the case of Apple, the question isn’t what’s next as much as when. They release new features at a cadence that leaves the market wondering if they have something else up their sleeves.
+
+The most recent move that guides the prediction was the World Wide Developer Conference (WWDC) 2016 announcement that Apple Pay would come to Safari on the Web in the fall. The assumption is that it will only be available on Safari for stated privacy reasons. Apple Pay is the first move that will begin to steal market share from Chrome.
+
+Moreover, it gets Apple a strong foothold across the web as a widget and library that web developers learn to install.
+
+The second move was foreshadowed at WWDC 2016, as well as by the addition of single-sign-on (SSO) to tvOS, and the opening up of Siri, Messenger and Apple Maps to developers. All these moves show Apple understands the more they can open up their tools to third parties, the richer and more powerful those services become.
+
+As developers find growth through these new channels, an apparent hindrance for them will be maintaining identity. Sign-up is a massive barrier to entry, and Apple could take SSO to iOS and subsequently to the Web.
+
+To protect users, Apple can argue users should always log in with TouchID. Moreover, on the web, they can claim that users must use Safari to secure the handshake between their device, the computer, the browser and the third party.
+
+One could say this would be more of an attack on Facebook than Google, but both are threats to Apple. Maintaining control of the ecosystem by enabling fragmentation under their terms seems like a good strategy.
+
+At the present moment, Siri hasn’t opened up yet to the developer community. When she does, she will be handling some basic use-cases, or what voice developers call,intents. They are launching with the ability to activate messaging, ride booking, workout, payments, photo search, climate and radio for CarPlay and homeOS.
+
+With the first intents, Apple isn’t eating a lot of Google’s lunch because most don’t use Google for these activities. However, it’s inevitable that Apple will release new intents that would be fielded directly by verticalized apps:
+
+It’s open to discussion whether Apple will pick winners as “default” options or they’ll require the user to install a given app and state the app name in their voice request. In the case where Apple decides, it would make sense for them to strike a few more distribution deals. Note that Amazon, alone, spends more than $150 million per year on search advertising.
+
+Nevertheless, the more intents Siri handles, the fewer queries Google may need to field.
+
+The simplicity of Apple Pay and the fact that users may prefer TouchID SSO to passwords would drive growth in Safari’s share of the market. In the near term, more searches through Safari puts pressure on Google’s margin with the search tax.
+
+It’s prudent for Apple to continue to limit Google’s ability to advertise on Safari by creating their own native ad and content blocker within Safari. They’ve already blockedMac addresses, turned off third-partycookiesand opened up Safari on iOS toblocking extensions. It aligns with their strong stance on privacy and user control that we discussed earlier.
+
+The reason, I believe, Apple is waiting is they don’t want to attack publishers’ ability to monetize their work. They want to come out with a “privacy friendly” alternative. The inventory may find new creative from Apple’s new App Store ads or existing iAds. The change would hopefully come with an additional carrot to move content into Apple News where they’ll provide additional distribution and monetization opportunities for publishers.
+
+Apple’s strategy isn’t a big overnight win. It’s a slow squeeze or blockade that hopes to stifle, frustrate and distract Google. The biggest impact on Google is limiting their growth by minimizing their ability to hold their massive margins for searches within the Apple ecosystem. Limiting Google’s growth affects their ability to look as attractive to public markets which, beyond the financial implications, hurts their capacity to attract and retain the best talent. Google realizes and has disclosed in public SEC filings that their core business is at risk and continues to invest in their moonshots in wearables, mobility, transportation and expanding internet access.
+
+Google won’t sit idly by as their business is cannibalized. It’s likely that they too will integrate with any new Siri voice intents like any other third-party developer. It would be a way for them to save money on the search tax — assuming they can snatch searches that would otherwise go through Safari to their search engine. They can tie themselves in so someone can ask, “When is my next meeting via Google?” or “Where is the closest grocery store via Google Maps?”
+
+Google should be working on the universal way for Android devices to sync with the mobile and desktop browsers to authenticate with the fingerprint scanner that’s available on many of the devices. They already have more than 1 billion users using their identity system and OAuth on millions of sites, so they’re well-positioned for the opportunity.It’s noteworthy (pun unintended) that newer Samsung devicesalready have this abilitywithin their native browser. Moreover, Android and iOS userscan installLastPassor1Password(on iOS, as well) to use their thumbprint to unlock the correct password and autofill it for a given site.ConclusionsThe path I’m suggesting may or may not be what pans out in reality. However, the fact that it’s reasonable to believe that the plan is feasible reminds us how quickly the landscape can change in technology. Flanking a seemingly invincible giant in our industry is not only possible, but probable.My biggest takeaway is that the future is a lot more open and flexible than it may seem. Every technology is perched insecurely on an eroding foundation waiting to tumble inevitably into obsolescence.
+
+Google should be working on the universal way for Android devices to sync with the mobile and desktop browsers to authenticate with the fingerprint scanner that’s available on many of the devices. They already have more than 1 billion users using their identity system and OAuth on millions of sites, so they’re well-positioned for the opportunity.
+
+It’s noteworthy (pun unintended) that newer Samsung devicesalready have this abilitywithin their native browser. Moreover, Android and iOS userscan installLastPassor1Password(on iOS, as well) to use their thumbprint to unlock the correct password and autofill it for a given site.
+
+The path I’m suggesting may or may not be what pans out in reality. However, the fact that it’s reasonable to believe that the plan is feasible reminds us how quickly the landscape can change in technology. Flanking a seemingly invincible giant in our industry is not only possible, but probable.
+
+My biggest takeaway is that the future is a lot more open and flexible than it may seem. Every technology is perched insecurely on an eroding foundation waiting to tumble inevitably into obsolescence.

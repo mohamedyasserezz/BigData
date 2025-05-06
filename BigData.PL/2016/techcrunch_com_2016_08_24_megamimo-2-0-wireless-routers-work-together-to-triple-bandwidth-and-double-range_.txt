@@ -1,0 +1,11 @@
+‘MegaMIMO 2.0’ wireless routers work together to triple bandwidth and double range
+
+Wireless interference is one of those things that we tend to not think about, because, well, we can’t see it. But routers are all over the place, sometimes several in a room when you’re in an office, conference, or campus — and make no mistake, it’s an epic battle at the frequencies they share.
+
+Some enterprising researchers have found a way to make those routers work together, though. Dina Katabi and her team at MIT”s Computer Science and Artificial Intelligence Laboratory call itMegaMIMO 2.0, and they claim some pretty serious improvements: three times better data transfer speeds and doubled range.
+
+“In today’s wireless world, you can’t solve spectrum crunch by throwing more transmitters at the problem, because they will all still be interfering with one another,” said MIT grad student and lead author Ezzeldin Hamed. “The answer is to have all those access points work with each other simultaneously to efficiently use the available spectrum.”
+
+Essentially the team created a technique for letting multiple routers harmoniously send multiple streams of data to multiple targets without those streams crossing. It’s done by aligning the phase of the transmissions — look, don’t question it, it’s science. The specifics can be found in the paper describing the method,Real-time Distributed MIMO Systems, which will be presented next week atSIGCOMM.
+
+It does require custom hardware at this point, but nothing outlandish or big. It’s also “soon-to-be-commercialized,” which could mean integration with established router or making a brand new one — and the team also notes that the same technique could be applied to cellular networks, although of course it would require a bit of tweaking.

@@ -1,0 +1,29 @@
+The $5 PoisonTap quickly, completely hijacks even a locked computer’s internet
+
+After I learned of this clever exploit from Samy Kamkar, my poor 2012 MacBook Air looks more vulnerable than venerable: Asleep on the table, its USB ports exposed, it could be hijacked in seconds by a malicious Raspberry Pi Zero calledPoisonTap. No need for passwords, zero-days or million-dollar back doors — although a little social engineering to get me to leave the room might help.
+
+Kamkar’s latest project shows another chink in the armor of our computers’ security: In this case, it’s about briefly tricking the computer into thinking that the entire internet resides on the $5 barebones computer it first met a few seconds earlier.
+
+PoisonTap connects to the USB port and announces itself not as a USB device, but an Ethernet interface. The computer, glad to switch over from battery-sucking Wi-Fi, sends a DHCP request, asking to be assigned an IP. PoisonTap responds, but in doing so makes it appear that a huge range of IPs are not in fact out there on servers but locally connected on the LAN, through this faux wired connection.
+
+Your computer, being dumb, just accepts this at face value and sends data to the fake IPs on PoisonTap instead of to the actual websites and services. And you don’t even have to be there: pre-loaded items like analytics and ads will be active, and as soon as one of them sends an HTTP request — BAM, PoisonTap responds with a barrage of data-caching malicious iframes for the topmillionAlexa sites. And those iframes, equipped with back doors, stick around until someone clears them out.
+
+Meanwhile, cookies and sessions are being collected and converted to the attacker’s own purposes, and the router itself is exposed to remote manipulation. All this remains after PoisonTap has been unplugged, and it all happened in less than a minute, without the computer even being unlocked!
+
+This attack gets around many standard security measures: password protection, two-factor authentication, DNS pinning and lots more. It’s basically all because the OS decides to trust a strange USB connection when it says it’s a LAN encompassing the entire internet.
+
+Server admins can prevent this basically by enforcing HTTPS at every level. But on the client side, things look pretty dire — Apple and Microsoft only found out about it today. I asked both for comment and have yet to hear back; I’ll update this post if they respond.
+
+Update: Microsoft says:
+
+Regardless of operating system, for this to work, physical access to a machine is required. So, the best defense is to avoid leaving laptops and computers unattended and to keep your software up to date.
+
+Even Kamkar doesn’t have a 100 percent fix, other than pouring cement in your USB ports.
+
+“If I were Apple/Microsoft, I would have network devices (actually, probably any USB device except a mouse or keyboard) ask the user if they want to allow it to operate…at least the first time it’s plugged in,” Kamkar wrote in an email to TechCrunch.
+
+It’s possible that having the computer enter an encrypted deep sleep mode that locks down network connections and interfaces could do it — so if you’re in the habit of leaving your computer unattended around DIY hacker-engineers, maybe you should do that. Also, that may not be your only problem.
+
+The threat goes deeper, though — it’s silly that the computer should allow an unfamiliar device to completely take over connectivity in the first place, and this USB attack is not the only vector by a long shot. And the fact that these HTTP requests are being accepted for sites that are otherwise secure… we’ve got a lot of work to do.
+
+If you want to try it for yourself,$5 gets you a Raspberry Pi Zero, and the software isavailable on Kamkar’s site. Be responsible, now.

@@ -1,0 +1,19 @@
+Singapore’s Nugit raises $5.2M to make sense of big data using artificial intelligence
+
+In today’s era of big data, there’s a need for organization and efficiency. That’s the premise ofNugit, a Singapore-based startup focused on marketing that raised $5.2 million in fresh funding from Sequoia Capital’s India fund this week.Nugitlanded undisclosed seed funding from 500 Startups and The Hub Singapore last year.
+
+Founded by Australia-born marketing executive David Sanderson, Nugit sits between its customers and their data platforms — it supports 15 right now, including Facebook Ad Manager, Google AdWords and DoubleClick — to help make sense of realms of information. The idea is to make a digital marketer’s job easier by cutting down on noise and producing “decision-ready reports,” such as PowerPoint presentations, graphics and other visualizations.
+
+The company started out automating many of the processes that marketers are faced with when dealing with data, such as cleaning information and aligning it, until Sanderson — formerly of GroupM and other ad agencies — realized that computers could go beyond that and deliver insight that is difficult or seriously time-consuming for humans.
+
+“It’s an exciting time for marketing, especially in the digital space, but there’s a lot of data and marketers can’t handle the analysis very well. There’s only so much capacity humans have to process data before you have to leave some behind, [plus] people in brands are sick of collecting data, and want information that they can make decisions from,” Nugit CEO Sanderson told TechCrunch in an interview.
+
+Nugit, which has a team of 25 in Singapore, counts Facebook, Johnson & Johnson and Publicis among its client base. It charges customers using a subscription based on seats and data sources. That starts at $500, and it rises to $2,000 for larger partners. There’s also a customized option for organizations that need particular integrations or want white-labelled products.
+
+Sanderson said the business began life targeted at marketing agencies, a world he knows well, but it is expanding its horizons to more broadly match organizations that deal with vast amounts of data. Recently, for example, he shared that finance companies have approached Nugit about applying its technology to company finances and fiscal data.
+
+“[Organizations] have huge amounts of data but can’t deliver at scale using analytics teams. That’s usually people and lots of different tools put together using sticky tape,” Sanderson said. “In one or two years, they’ll realize they need this type of [data management] capabilities at the core of their company, whether it is how a digital media campaign performed, financial information, or how customers are receiving new products.”
+
+Nugit plans to use its new funding to increase R&D and development of its technology, while also branching out to cater to new industry and practices. Sanderson said it may well double its workforce by the end of next year, but said the team will remain in Singapore and will continue to focus on clients in Asia and those with a global remit for the foreseeable future. It is working on developing an SDK which would be made available to clients, allowing them to build their own customizations atop the Nugit platforms in the future.
+
+The Nugit deal is Sequoia’s second investment in an artificial intelligence startup in Asia in recent months.It backed India/U.S. firm Mad Street Den, which develops services for e-commerce, in August in an undisclosed deal. ViSenze, another Singapore-company startup working on AI tech,landed $10.5 million led by Japanese e-commerce giant Rakutenlast month.

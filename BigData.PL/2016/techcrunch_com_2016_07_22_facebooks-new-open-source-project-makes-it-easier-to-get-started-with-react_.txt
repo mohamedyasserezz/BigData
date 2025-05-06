@@ -1,0 +1,19 @@
+Facebook’s new open source project makes it easier to get started with React
+
+Facebook’sReactproject is an open source library that allows developers to quickly build apps and their user interfaces in JavaScript. But that’s a bit of an understatement, because besides JavaScript, you also have to learna lot of toolsto simply set up a React project.
+
+While Facebook has talked about its own tooling for React, most individual developers and startups don’t have the resources a company like Facebook has.
+
+To help these React users get up and running with React, the company today launched “Create React App,” a new open source project born out of a hackathon that bundles the tools it takes to get started with React into a single command-line tool.
+
+https://twitter.com/thomasfuchs/status/708675139253174273
+
+“We knew that such projects traditionally haven’t been very successful in the React ecosystem,” Facebook’s Dan Abramov writes in today’s announcement. “Christopher [Chedeau]told me that multiple ‘React CLI’ projects have started and failed at Facebook. The community tools with similar goals also exist, but so far they have not yet gained enough traction.”
+
+WithCreate React App(which is definitely a very descriptive name), developers won’t have to worry about configuration files and their environment will be set up for developer and production automatically. They will also get a single tool — and hence a single dependency — that uses lots of the existing tools in the JavaScript and React ecosystem (Webpack,Babel,ESLint, etc.).
+
+The team also stressed that the tool doesn’t lock you in either, which is often a problem with this kind of services. You can always run a single command that will essentially ‘eject’ your configuration and build dependencies into a new project that is independent of Create React App.
+
+“‘Ejecting’ lets you leave the comfort of Create React App setup at any time,” Abramov writes. “You run a single command, and all the build dependencies, configs, and scripts are moved right into your project. At this point you can customize everything you want, but effectively you are forking our configuration and going your own way.”
+
+While this makes getting started with React easier, experienced developers will also probably want to check this new tool out.

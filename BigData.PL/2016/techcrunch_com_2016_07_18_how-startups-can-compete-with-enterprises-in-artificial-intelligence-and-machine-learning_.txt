@@ -1,0 +1,41 @@
+How startups can compete with enterprises in artificial intelligence and machine learning
+
+When I woke up this morning, I asked my assistant a simple question: “Siri, is it going to rain today?”
+
+Siri understood my intent, pulled the local weather data via an API and answered me in less than two seconds: “There’s no rain in the forecast for today.”
+
+In the not-too-distant past, this kind of human-computer interaction would have blown away technologists and delighted consumers — but in 2016, it’s nothing special. Conversations with Siri are commonplace, just like they are with Microsoft’s Cortana and Amazon’s Alexa.
+
+Machine learning (ML) and narrow forms of artificial intelligence (AI) have officially reached the mainstream. The explosion of innovation we’re seeing inAI/MLstems from a series of rapid technological advances over the last few decades: widespread internet connectivity and proliferation of online data, faster/cheaper computers (per Moore’s Law), variable-cost cloud computing, R&D investments from large technology companies and a vibrant open-source software community.
+
+We haven’t yet built HAL 9000, but we’re getting closer.
+
+Like many venture capitalists, I talk to technologystartupsleveragingAI/MLalmost every day. When I do, I’m always hunting for companies that are building something completely new — whether it’s a proprietary new data set to train machine learning models or a radically different approach to solving big technical problems usingAI. The fundamental reason is this: If a company is going to out-compete others long-term usingAI/ML, it better have the best data to solve a specific problem or be playing a different game from its competitors.
+
+Data is the fuel we feed into training machine learning models thatcancreate powerful network effects at scale. Unfortunately forstartups, big technology companies typically have huge, proprietary data sets that span many industries. Meanwhile, the open-source community’s efforts are quickly democratizing access to the most sophisticated machine learning algorithms. It’s now nearly impossible for a startup to develop a competitive advantage around algorithm development alone.
+
+Youcan’t find a big technology company in 2016 that doesn’t publicly discussAI/ML. They heavily promote their activities in the space, and often have fantastic data upon which to train their models. Google has built their system around search data and ad clicks; Facebook, their newsfeed and social interaction data; and Amazon, their product purchasing and recommendation data. Google, Facebook, Amazon and Microsoft have all open-sourced components of their internal machine learning technologies to spur innovation in the space while building their brand asAI/MLleaders.NVIDIAis making a fortune selling chips optimized for deep learning.
+
+With all of this in mind, investing in the spacecanbe tricky. Rather than fighting hand-to-hand with technology Goliaths,AI/MLDavids need to find their slingshots and stones.
+
+Wazeis one example of the first kind of startup that investors get excited about: one that builds a proprietary data set through its product and uses that data to deepen its competitive advantage as it scales. [Chris Dixon, General Partner at Andreessen Horowitz, mentions this example in a blog post that’s worth reading:“What’s Next in Computing.”]
+
+Waze has a tangible network effect, where the number of users and quality of their data set drives the predictive power of the platform and user experience. Every driver using Waze contributes both actively (inputting an accident or lurking police officer) and passively (allowing Waze to track user speed, location and density), thus improving the platform’s prediction algorithms and user experience. The more users who participate, the better the experience becomes: users are more efficiently rerouted to an optimal path to their destination, encouraging them to spread the app via word of mouth.
+
+Google observed Waze’s momentum andacquiredthe company for more than $1 billion, likely because it saw Waze emerging as a strong competitor to Google Maps. Interestingly, Google already had access to massive amounts of data from Android phones to help them with real-time traffic mapping, but they didn’t have an active, user-generated data set around accidents, police officers, etc.
+
+This is ultimately the most valuable element to the driver’s user experience in Waze. Google could have built the necessary features into Google Maps, but it would have been tough for them to replicate this data set in a reasonable time frame, hence the acquisition.
+
+The challenge with executing such a stellar trajectory lies in the defensibility of the data asset. There are two questions investors and entrepreneurs should ask themselves in such a scenario. First: Does somebody else already own this data asset with a propensity to use it in a competitive manner? And second: How hard would it be for somebody to replicate a similar data asset? If the answers are “no” and “difficult,” you’re in business.
+
+We are always on the lookout for companies headed into uncharted territory that are building completely newAI/MLmodels — or at least those that have not been scaled commercially — to create radically better applications. Oftentimes these companies are highly interdisciplinary, spanning multiple fields and bringing together technologies to solve problems creatively.
+
+Kiva Systemsoffers a good example of this breed of startup. Founded in 2003, Kiva built for the booming e-commerce industry a whole new class of robots with a focus on warehouse automation. They brought together hardware engineering, automation software and warehouse logistics know-how to solve a warehouse problem using autonomous robots and quickly emerged as a market leader. Kiva’s autonomous robotics technology did not create a long-term barrier for competitors, but it was a strategic short-term advantage that enabled them to move quickly, signing lucrative customer contracts and growing to a point where they could begin enjoying economies of scale.
+
+Amazon recognized Kiva’s value andacquiredthe company for $775 million in 2012. The acquisition is already bearing fruit: A recent note from Deutsche Bank estimates that Amazon’s warehouseoperating costs have been cut by 20 percentwhere Kiva Systems technology has been implemented.
+
+While building a successful startup in this space is hard, the future ofAI/MLis only getting brighter. Siri might still have a long way to go before she’s the ultimate personal assistant, but iPhone users increasingly turn to her ubiquitous voice for answers. Apple shared numbers last September that showed Siri receiving over a billion requests each week.
+
+As consumers and businesses demand more and more intelligent automation, smart investors and savvy founders will do well to remember that a startup’s long-term ambitions depend not only on the product experience and underlying algorithms, but also on the unique data and model architectures that will make thosestartupsvaluable and defensible in the long term.
+
+We encourage all entrepreneurs who are enthusiastic aboutAI/MLto focus on building these types of businesses. And let’s be honest: It’s more exciting to create something radically new rather than to try to squeeze an extra drop of value out of what already exists.

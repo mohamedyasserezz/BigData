@@ -1,0 +1,19 @@
+Google buys Eyefluence eye-tracking startup
+
+Google wants to know everywhere that you’re looking.
+
+Today, Eyefluence announced that it has been acquired by Google. The eye-tracking interface startup founded in 2013 had raised $21.6M in funding from investors including Intel Capital, Jazz Venture Partners, Motorola Solutions Venture Capital and NHN Investment. Terms of the deal were not disclosed.
+
+Eyefluence shared the announcement quietly today in ablog post, spotted first byMattermark:
+
+Today, we are excited to announce that the Eyefluence team is joining Google!  With our forces combined, we will continue to advance eye-interaction technology to expand human potential and empathy on an even larger scale.  We look forward to the life-changing innovations we’ll create together!
+
+As Google launches its Daydream virtual reality platform next month with its Daydream View headset, there is already attention being directed to its next-gen headset efforts.
+
+Eye-tracking is a very important technology to future virtual reality headsets. Other companies in the space like SMI and Tobii have devoted efforts to using the eye as a method of signaling attention in interfaces but Eyefluence has devoted itself fully to using eye gesture cues for navigating menus and making selections.
+
+Eyefluence enable users wearing head-mounted virtual reality or augmented glasses to use their eyes as a mouse and making selections only with their eye movements. Eye-tracking has other more technical use cases like foveated rendering which allows high-density displays to selectively choose areas of the screen to display images at lower-resolution based on where you’re focus actually is on the display.
+
+Other companies in this space includeFove, which is beginning pre-orders for its VR headset with eye-tracking sensors early next month.
+
+This acquisition is really not a huge surprise for most who had seen Eyefluence’s impressive technology up close. Ichattedwith Eyefluence CEO Jim Marrgraff about his thoughts on the future of human-computer interaction at Disrupt SF last month and he had some bold ideas.

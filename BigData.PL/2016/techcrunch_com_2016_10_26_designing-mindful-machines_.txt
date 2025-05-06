@@ -1,0 +1,41 @@
+Designing mindful machines
+
+Facebook recently fired the entire Trending Topics team of human editors amid accusations they were promoting specific agendas and biasing what news was deemed “important.” Now the company is relying on machine learning algorithms to manage Trending Topics — and finding that keeping the results free ofhoaxes and fake newsisn’t always easy.
+
+The social media giant recentlyassured an audience at TechCrunch Disruptthat it was working on new technology that would help prevent untrue or satirical stories from being labeled as legitimate news we should follow.
+
+But even that move can’t seem to win the public’s trust. Some people arequestioning why Terence Crutcher, an unarmed black man shot by police in Tulsa, wasn’t trending when people are clearly talking about it. Others question what role Facebook has in labeling stories about 9/11 conspiracy theories as “untrue.”
+
+Now we have to ask ourselves, can machines really do better?
+
+This is hardly the first time questions of bias have arisen in the realm of machine learning and AI — and it won’t be the last. Remember when researchers found thathigh-paying job ads were being shown disproportionately to men? Or when Microsoft’s chatbot Tay wasturned into a racist xenophobe within hours?
+
+Human activity provides the data that trains the machine. But that means it inherits the biases of people. In the case of Trending Topics, when enough people share a story — fake or odious or not — the algorithm deems it important and promotes it in popularity. In the case of Tay, human trolls turned her into one of them.
+
+There’s no easy solution for preventing bias. But does that mean machine learning is doomed to fail? No, not at all. It simply means that any company employing machine learning should take proactive steps to make sure it doesn’t happen in the first place, and then course-correct if and when it does. We should — and can — do better.
+
+The great promise of machine learning is that it’s better at making decisions than humans. By “better,” we mean faster, more efficient, less prone to error. However, are those decisions aligned with the right values? This is the question we should be considering alongside questions of accuracy and performance metrics like engagement and click-through rate.
+
+Before you even start creating a machine learning system, your goals for that system should give you some clues about potential biases that could result. Let’s say you’re a bank building a machine learning model to predict who will be most likely to repay their loan quickly. To avoid discrimination, you’d want to be careful about what type of demographic data you include.
+
+The algorithms used to produce Trending Topics were undoubtedly created against a backdrop of growth-inspired goals and metrics, like increasing engagement. But product teams also can balance these with other metrics designed to (say) minimize offensive content, and then provide feedback loops to facilitate this.
+
+Facebook already provides an opportunity for users to give feedback to its News Feed algorithms by reporting offensive content. And Trending Topics includes an “x” for each story on hover, which gives the algorithm a signal about what readers don’t want to see. But not all companies consider these checks and balances when they’re first developing products — most likely because they involve trade-offs in engagement.
+
+When should you start thinking about how to mitigate potential biases? From day one. Including people with diverse opinions and backgrounds is important at all stages of the product development process, and machine learning is an example of where having the right people at the table can truly matter. Thinking back to Tay, did anyone consult a person from a marginalized group about the potential pitfalls? The trolls’ predictable (in hindsight) behavior may never have occurred to someone who has never been bullied on social media.
+
+The data you choose, the sources you pull from and the features you include are all places where bias could be introduced or proactively prevented. When the data supports an underlying hypothesis, you should always be suspicious. Is it possible you’ve inadvertently trained the model based on your own assumptions?
+
+When we ask customers to buy or use a machine learning solution, we are in essence telling them to trust a “black box.” Users may be making decisions based on the recommendations of a system they don’t understand, without any way to gain greater insight.
+
+For example, earlier this yearProPublica foundthat risk assessment algorithms incorrectly flagged black defendants as future criminals at twice the rate of whites. Findings like these are extremely worrying when you consider that public policy decisions could be made based on them.
+
+However, some of these concerns could be curtailed if you work with your end users to give them tools to interpret the results. We should aim to give as much insight as possible into how the machine made the decision it did. It shouldn’t be a situation where you receive a result without context.
+
+Think about how Netflix provides context for why it’s making a particular recommendation that you might enjoy Stranger Things (because you watched The Goonies), or how Amazon provides the reasoning behind its personalized product suggestions. End users should be able to see exactly what criteria was used in an algorithm, so they can use their judgment to determine whether it’s actually a good recommendation.
+
+Where it makes sense and is possible, “showing the math” of machine learning can also help prevent suspicion and allay concerns. Although Facebook trends are personalized, the feature doesn’t give details about why a given topic is recommended beyond the sheer number of people “talking about” a given topic. To the casual user, the topics may not always make sense. This opacity can unnecessarily fuel suspicions of bias.
+
+Facebook is doing the right thing by continuing to iterate, applying the lessons learned from improving News Feed to making Trending Topics as useful for its audience as possible. This is a company that has successfully improved its algorithms to the point where people don’t typically notice them anymore. (Remember when everyone was complaining about seeing all kinds of updates from people they didn’t care about? When was the last time that happened?)
+
+While it’s easy to blame machines for our mistakes, the answer is really to be better humans. We must be aware of our biases, empathize with our users and commit to constant improvement.

@@ -1,0 +1,53 @@
+The biggest threat facing connected autonomous vehicles is cybersecurity
+
+Connected,autonomousvehiclesare around the corner. Many of the most innovative and deep-pocketed companies in the world are racing to bring them to market — and for good reason: the economic and social gains they will generate will be tremendous.
+
+But any transformative technology creates new challenges and risks in addition to benefits. This is no exception.
+
+One of thebiggestthreats that society will face as transportation transforms in the coming years is vehiclecybersecurity. It is a topic about which much is still unknown, even among those working at the cutting edge of the industry; vehicle connectivity is a new phenomenon and the technology continues to evolve rapidly.
+
+Thankfully, a major malicious cyberattack on a vehicle has yet to take place. But the potential danger wasillustrated dramatically last yearwhen two white-hat hackers remotely took control of a Jeep Cherokee and cut its transmission on the highway as part of a research initiative. The well-publicized incident prompted Chrysler to recall 1.4 millionvehicles.
+
+One of the central challenges in vehiclecybersecurityis that the various electrical components in a car (known as electronic control units, or ECUs) areconnectedvia an internal network. Thus, if hackers manage to gain access to a vulnerable, peripheral ECU — for instance, a car’s Bluetooth or infotainment system — from there they may be able to take control of safety critical ECUs like its brakes or engine and wreak havoc.
+
+Cars today have up to 100 ECUs and more than 100 million lines of code — a massive attack surface. Further complicating matters, auto manufacturers source ECUs from many different suppliers, meaning that no one player is in control of, or even familiar with, all of a vehicle’s source code.
+
+Thethreatof automotivecyberattackswill only loom larger as society transitions toautonomousvehicles. But even beforeautonomousvehiclesbecome widespread, car hacking is already a very real danger: In 2014, more than half of thevehiclessold in the United States wereconnected, meaning that they are vulnerable to cyberattacks.
+
+Key players in the auto industry have begun to pay attention.
+
+“A cyber incident is a problem for every automaker in the world,” General Motors CEO Mary Barra saidin a recent speech. “It is a matter of public safety.”
+
+Given the stakes, it is no surprise that this area has attracted a flurry of recent startup and investment activity.Argus Cyber Security, the largest and most established of these startups, raised $26 million in Series B funding last fall. Earlier this year,Harman acquiredcybersecuritystartup TowerSecfor $72.5 million. In April, Israel-basedKaramba Security raised $2.5 millionin seed funding.
+
+We spoke with Argus executive Yoni Heilbronn about the details and challenges of autocybersecurity.
+
+“The best mental model for understanding how automotivecybersecuritysolutions work is to envision them as having several layers of defense,” Heilbronn said. “Multiple solutions focused on different parts of theconnectedcar ecosystem must be integrated in order to provide comprehensive, end-to-end protection; a single product alone is not adequate.”
+
+Starting at the foundation, defensive software solutions can be housed locally on individual ECUs — for instance, a car’s brakes — to reinforce these ECUs against attacks. Moving up a level, software can protect the vehicle’s internal network as a whole by examining all network communications, flagging any changes in standard in-vehicle network behavior and stopping attacks from advancing in the network.
+
+Next, solutions exist to defend the particular electronic units in a vehicle that areconnectedto the outside world — for instance, infotainment units. This is a critical layer in the overallcybersecuritydefense system, because it represents the border between the vehicle’s internal network and the external world.
+
+Finally, cloud security services can detect and correct threats before they reach the vehicle. They also can send the vehicle over-the-air updates and intelligence in real time.
+
+In addition to these layers of protection directly relating to a vehicle’s connectivity, supply chain risk management is a critical element of the overallcybersecurityeffort. Compromised physical components can jeopardize the integrity of a car’s security architecture, making it imperative that OEMs only source parts from trusted suppliers.
+
+Given the public safety implications, this topic has begun to receive much attention from U.S. lawmakers. In July 2015, Senators Markey (D-Mass.) and Blumenthal (D-Conn.)proposed legislationto establish mandatory federal standards for autocybersecurity.
+
+“Drivers shouldn’t have to choose between beingconnectedand being protected,” said Markey. “We need clear rules of the road that protect cars from hackers.”
+
+Not everyone on Capitol Hill agrees, however.Senator Gary Peters (D-Mich.) has arguedthat regulators should adopt a more hands-off stance and allow private industry to take the lead in formulating solutions and setting standards.
+
+Arguing that there is “a knowledge gap” among lawmakers on autocybersecurity, Peters stated, “The way to prevent Congress from [imposing more regulation] is for the industry to step up. The technology is moving so fast that the problem will be the regulators not being able to keep up.”
+
+Many observers believe that private industry has so far not taken thethreatseriously or invested enough to proactively address it. This may, however, be changing.
+
+A number of OEMs, includingTesla,Fiat ChryslerandGM, have recently established “bug bounty” programs to reward individuals that find and report security flaws in their cars’ software, an effort to further fortify their systems against vulnerabilities.
+
+More significantly, theAuto-ISAC, an industry group of major auto manufacturers and suppliers, recently released acomprehensive set of best practicesfor automotivecybersecurity. The automakers plan for these guidelines to serve as the foundation for industry-widecybersecuritystandards; they likely also hope that taking the lead here will dissuade policymakers from intervening with stringent regulatory requirements.
+
+There are more unknowns than knowns when it comes to the imminence and severity of automotive cyberattacks. Because a major malicious attack has yet to take place, it is hard to know exactly who is most likely to perpetrate such an attack, how it might happen and how much damage it might cause.
+
+Society is often reactive rather than proactive with security issues, adopting serious preventive measures only after a major incident has occurred. Hopefully that pattern will not be repeated here. The good news is that automakers, startups and government regulators are all beginning to focus on the issue and take action to address it.
+
+“A major autocybersecurityevent could happen tomorrow,” Argus executive Heilbronn said. “We all collectively need to come to grips with this. The hacking capabilities are out there right now. The vulnerabilities are out there right now. I do think that attacks will begin to take place unless we take thisthreatmore seriously.”

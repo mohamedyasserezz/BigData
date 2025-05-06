@@ -1,0 +1,75 @@
+UK spy agencies’ bulk data practices ruled unlawful before 2015
+
+Theoversight courtfor the UK’s intelligence and security agencies has ruled they operated unlawfully and breached domestic human rights law by harvesting bulk comms data and maintaining large databases of personal information on UK citizens for a decade and more.
+
+The 70-page ruling —online here as a PDF— stems from a complaint brought by digital rights organization,Privacy International, back in June 2015.
+
+“This judgment confirms that for over a decade UK security services unlawfully concealed both the extent of their surveillance capabilities and that innocent people across the country have been spied upon,” said Mark Scott of Bhatt Murphy Solicitors, the firm instructed by Privacy International, commenting in a statement.
+
+It’s not the first time the Investigatory Powers Tribunal (IPT) has ruled against the agencies it oversees — that was back inFebruary 2015, pertaining to retrospective NSA-GCHQ data-sharing— but it’s handed down just ahandful of counter-agency judgementsover its fifteen+ years, all of them since the 2013 Snowden revelations, so this is another landmark moment in the unpicking of secret government mass surveillance programs.
+
+(Although, in the UK’s case, a secret bulk data surveillance regime is in the process of being transmuted into a legislative framework to authorize bulk data surveillance regime via theInvestigatory Powers bill— where ‘bulk’ collection of digital data is considered a ‘necessary and proportionate’ investigatory tool by the UK Home Office.)
+
+Today's IPT ruling found bulk data collection unlawful until it was avowed in 2015:https://t.co/CaQifA5O6O– now provided for in#IPBill
+
+— David Anderson (@bricksilk)October 17, 2016
+
+Today’s ruling also looks to be significant given the lengths of time involved, with the tribunal determining that bulk communications data (BCD) was unlawful from its commencement in March 1998 until November 2015; and bulk personal datasets (BPD), commencing ‘circa 2006’, were unlawful until March 2015 — when their use as an investigatory tool wasfinally revealedvia an Intelligence and Security Committee (ISC) report.
+
+“We think it is very significant,” said Privacy International legal officer Millie Graham Wood, speaking to TechCrunch about today’s ruling. “These are powers that were only admitted to just over a year ago but they’ve been in operation for a very long time — so we think it’s very significant that they’ve been found unlawful. And it would be very worrying if it was found that they had been lawful given that they were operated in complete secrecy.”
+
+BCD refers to comms metadata — colloquially the ‘who, when, where, and how of a communication’ — which can of course reveal a vast amount of intel without the actual content of comms itself being disclosed. BCD can also include websites visited, email contacts, location data and details of devices connected to wi-fi networks.
+
+While BPD has been described as “large databases containing personal information about a wide range of people”, with information potentially including highly personal details such as an individual’s religion, racial or ethnic origin, political views, medical condition, sexual orientation, and legally privileged, journalistic or “otherwise confidential” information. Commercial, financial information and travel data, such as passport information, can also be included in BPDs — which are incorporated into agencies’ analytical systems.
+
+Despite ruling that the bulk collection regimes were unlawful in the past, the IPT is still asserting BCD and BPD are now lawful — based on their eventual avowal in parliament.
+
+Although, inApril this year, internal agency documents obtained by Privacy International, also via a legal challenge, revealed that the majority of individuals’ whose data resides in BPDs are “not of direct intelligence interest”. So, in other words, that most of the personal data in these datasets pertains to UK citizens suspected of no crime at all.
+
+It’s also worth emphasizing that the IPT’s judgement does not factor in the oversight framework set out in Investigatory Powers bill, now moving through the final stages ofparliamentary scrutiny in the House of Lords— with the Home Office pushing to pass it into law before the end of this year. Rather it pertains to how surveillance capabilities are authorized under the outgoing but extant framework, including via section 94 of the 1984 Telecommunications Act. The IP bill introduces new authorization mechanisms, such as a so-called ‘double lock’, with senior minister and judicial sign off involved in intercepts.
+
+In apress release, Privacy International sums up the IPT’s findings thus: “The Tribunal ruled that “we are not satisfied that … there can be said to have been an adequate oversight of the BCD system, until after July 2015” with “no Codes of Practice relating to either BCD or BPD or anything approximating to them.” There was no statutory oversight of BPD prior to March 2015 and there has never been any statutory oversight of BCD.
+
+“Noting the highly secretive nature of the illegal BCD regime, the Tribunal ruled “it seems difficult to conclude that the use of BCD was foreseeable by the public when it was not explained to Parliament”.”
+
+“The case exposed inadequate safeguards against abuse, including warnings to staff not to use the databases created to house these vast collections of data to search for and/or access information ‘about other members of staff, neighbours, friends, acquaintances, family members and public figures’. Internal oversight failed, with highly sensitive databases treated like Facebook to check on birthdays, and very worryingly on family members for ‘personal reasons’,” it adds.
+
+A spokeswoman for the Home Office confirmed to TechCrunch the department would be issuing a statement on the ruling later today. We’ll update this post once we have it.
+
+Update:A government spokesperson said: “The powers available to the security and intelligence agencies play a vital role in protecting the UK and its citizens. We are therefore pleased the Tribunal has confirmed the current lawfulness of the existing bulk communications data and bulk personal dataset regimes. Through the Investigatory Powers Bill, the Government is committed to providing greater transparency and stronger safeguards for all of the bulk powers available to the agencies.”
+
+Privacy International does not agree with the view that the bulk powers have been lawful since 2015. On this Wood said: “One of the key problems is that we don’t think the oversight provisions and the safeguards in place now are sufficient to make this regime lawful. So that’s one of the key areas that are lacking in the current regime. There’s also no notification provisions and no independent oversight — there’s no independent authorization of these measures.”
+
+Asked whether she believes the ruling might have any impact on the passage of the IP bill onto the statute books, Wood said she is worried it will do nothing to derail the momentum the government has generated to push a new surveillance framework through parliament (ahead of the DRIPA emergency surveillance legislation sunsetting at the end of this year).
+
+It should cause parliament to stop and think… given the overreach that has happened in secret in the past.
+
+“Now they’re saying we have this great piece of legislation which puts everything on the record, so to speak, but in fact if you delve into it it clearly doesn’t. So I think it should cause parliament to stop and think about what they’re actually allowing to happen — given the overreach that has happened in secret in the past. But I worry it won’t,” she said.
+
+“There’s actually been a lot that has come out in advance of this ruling that should have caused the government and parliament to question whether they have sufficient knowledge about these powers before proceeding.”
+
+Privacy International is byno means the IP bill’s only critic— with even the ISC having continued reservations, leading to a recent amendment to the legislation toadd a privacy statement to the face of the legislation, for example.
+
+“I think the judgement shows the risks of not having sufficient oversight,” Woods added. “And I think that the trouble with the bill is that because it’s so long and complex, and despite being very large, isn’t very transparent, the inadequacies that perhaps are not immediately apparent to parliamentarians — which could lead to serious issues in the future, of misuse of powers of misuse of databases, when a lot of authorizations are actually internal, and there there’s no notification procedure. So I think this shows that when something isn’t transparent all sorts of problems arise.”
+
+The IPT has also delayed considering two other issues raised by the complaint: the proportionality of the bulk surveillance measures in question, an issue it describes as “plainly highly relevant”; and their legality with the wider European Union legal context.
+
+It will be considering those issues in December, to allow both sides time for submissions — albeit, at that point there is unlikely to be any parliamentary time left to further amend the incoming surveillance regime, in the unlikely event there might be a major government rethinking of the ‘bulk’ collectionmodus operandi.
+
+On the proportionality point, Woods said it’s notable the IPT has asked the government for more information on how bulk data is being shared with “foreign partners and other government agencies”.
+
+“They’re not satisfied with the answers they’ve got from the government at the moment. They’ve asked for more on that — which is very worrying,” she said. “There are provisions in the various policies about experimental use, so you can share all this data for experimental use and with industry partners, so if that’s been going on for a long time so that they can test and experiment with different technologies then that’s very worrying — that we still don’t have a clear position, after many, many years, who this is being shared with, why and if there are any safeguards or oversight.”
+
+Also unclear: what exactly will happen to data collected unlawfully by UK security agencies up to March and November 2015.
+
+On the question of whether data collected before these dates will be deleted a spokesman for the IPT declined to comment.
+
+However section 102 of the IPT ruling suggests data will not be deleted by default, but rather that any deletion will depend on individuals making a complaint — and having a specific case for why their data should be deleted.
+
+On this point the IPT refers back to an earlier ruling, in a case brought by Human Rights Watch, in forming this opinion, noting:
+
+It does not follow that a complainant who establishes that his or her complaint falls within the jurisdiction of this Tribunal, as explained in paragraphs 49 to 63 of our Judgment in Human Rights Watch & Ors v Secretary of State for the Foreign & Commonwealth Office & Ors [2016]UKIP Trib 15_165-CH, but who has no ground to believe that his or her data have been accessed and examined, would have an actionable personal complaint on the grounds that the BCD and BPD regimes under which such data were obtained and retained were, until those dates, non-compliant with Article 8 and therefore unlawful.
+
+And given how much secrecy continues to surround the operation of bulk powers, such as the types/categories of data that UK security agencies hold being treated as classified, for example, a UK citizen being able to make a case for why their data might have been accessed and examined is a pretty high bar. An individual would effectively have to guess what data might be held on them and how/why it might have been accessed as a route to having their data deleted. Although the IPT spokesman confirmed the tribunal has investigated such complaints in the past.
+
+This post was updated with a Home Office statement

@@ -1,0 +1,71 @@
+Not OK, Google
+
+At itshardware launch eventin San Francisco yesterday, Alphabet showed the sweeping breadth of its ambition to own consumers’ personal data, as computing continues to accelerate away from static desktops and screens, coalescing into a cloud of connected devices with the potential to generate far more data — and data of a far more intimate nature — than ever before.
+
+Along with two new “Google designed” flagship Android smartphones (calledPixel), the first Androids to be preloaded with the company’s AI assistant (theGoogle Assistant) and also including fully unlimited cloud storage to suck users’ photos and videos into Google’s cloud, there wereGoogle Wifirouters, designed to be bought in bundles to plug all those pesky in-home internet blackspots; theGoogle Homealways listening connected speaker, which is voice-controlled via the Google Assistant and has limited support for third-party IoT devices (such as Philips Hue lightbulbs); an updated Chromecast (the Ultra) to ensure any legacy TV panels are internet-enabled; and Google’s less disposable mobile VR play, aka the soft-touchDaydream View headset— just in case consumer eyeballs seek to stray outside the data-mined smart home by escaping into virtual reality.
+
+The scope of Alphabet’s ambition for the Google brand is clear: It wants Google’s information organizing brain to be embedded right at the domestic center — i.e. where it’s all but impossible for consumersnotto feed it with a steady stream of highly personal data. (Sure, there’s a mute button on the Google Home, but the fact you have to push a button to shut off the ear speaks volumes… )
+
+In other words, your daily businessisGoogle’s business.
+
+“We’re moving from a mobile-first world to an AI-first world,” said CEO Sundar Pichai kicking off yesterday’s event. And AI, of course, has an appetite for data like no other technology before it. Machine learning needs information to mold its utility. It’s a data-powered circle that can’t function in the dark.
+
+The Alphabet vision for hardware “Made by Google” is thus to sell the pledge of convenience to consumers. And through this sales pitch, and its accompanying suite of connect-it-all devices, to transform personal spaces into rich repositories of user intel that can continue to fuel its ad-targeting engines for decades to come.
+
+We’ve very far beyond the moment in the modern information age when most of the queries and curiosities of digital consumers could be funneled into a single, Google-branded search engine. Hence, the company (formerly also wearing the Google brand name) working so long and hard to push Android’s reach as far and wide as possible, beyond phones to a huge range of hardware.
+
+And now Alphabet is seeking to accelerate that process with a consumer-facing, AI-powered service layer that works to make Google just as hard to avoid as it used to be, back in the days of the simpler desktop web.
+
+So yesterday’s big connected hardware unboxing is really about reinvigorating and repositioning the Google brand as the go-to keyword for the Internet of Things era, too.
+
+Notably, and unlike rival virtual assistant technologies such as Amazon’s Alexa and Apple’s Siri, Alphabet is firmly retaining the Google brand name here at the consumer-facing end of the AI pipe — requiring those who buy into its smart home and AI assistant to giveliteralvoice to the Google brand, day after day, hour after hour.
+
+“OK Google, turn off the lights in the kids’ bedroom… ”
+
+Ugh.
+
+That’s icky enough in my view. But what’s reallynotOK,Googleis the seismic privacy trade-offs involved here. And the way in which Alphabet works to skate over the surface of these concerns.
+
+“We want to help you get things done in your world,” was Pichai’s pitch for the Google-branded smart home — and Google’s AI generally.
+
+“We are excited about building a personal Google for everyone, everywhere,” was another of his marketing soundbites, putting a few threads on this sharp-elbowed rush for AI.
+
+Yes — he literally said that…
+
+We are excited about building a personal Google for everyone, everywherehttps://t.co/iqPsC0eYkX
+
+— Sundar Pichai (@sundarpichai)October 4, 2016
+
+What he does not say is far more interesting, i.e. thatin order to offer its promise of “custom convenience” — with predictions about restaurants you might like to eat at, say, or suggestions for how bad the traffic might be on your commute to work — it is continuously harvesting and data-mining your personal information, preferences, predilections, peccadilloes, prejudices…  and so on and on and on.
+
+AI never stops needing data. Not where fickle humans are concerned.
+
+So the actual price for building a “personal Google for everyone, everywhere” would in fact be zero privacy for everyone, everywhere.
+
+Doesn’t sound quite so OK, Google, now does it?
+
+(One colleague tells how he previously switched off the antecedent to Google Assistant, Google Now, after it started telling him about traffic times to get to a bar he sometimes goes to on Sunday nights, with the complaint that: “I don’t want you to know about this.”)
+
+So while we should not be surprised to find zero mention of security and privacy in Pichai’s pitch for a “personal Google,” nor should we give Google a pass for failing to be transparent with consumers about the massive trade-off they are making when they pay for its hardware with their privacy (and their cash!).
+
+There’s even very little of substance as to what massive “benefits” consumers should expect in exchange for having an increasingly intimate relationship with Google.
+
+“It’s still early days, but when all of that works together, the Google Assistant allows you to get things done, bringing you the information you need, when you need it, wherever you are,” writes Pichai, in a caveated phrase that scores extremely high on the underwhelming/vague promises index.
+
+He adds that he has “confidence” of being able to “do some amazing things for users over the next 10 years.”
+
+So, in other words, trust us with all your data!
+
+Uhhhh…
+
+This week theEFFalso excoriated Google for how AI is impinging on user privacy, focusing on another of its recent products: theAllomessaging app. That app also bakes in Google Assistant, and because Allo does AI by default, the app does not offer end-to-end encryption by default — only as an “optional extra” — because, of course, Google’s AI can’t function when Google’s AI can’t read your messages…
+
+Criticizing the way Allo silos end-to-end encryption within an “incognito” mode, which the EFF argues risks confusing users and risks sensitive data leaking out, it accuses Google of “training users to use encryption as an occasional measure” — going on to conclude that: “A more responsible messaging app would make security and privacy — not machine learning and AI — the default.”
+
+So whether it’s Google Home or Google Allo, Google is promising consumers a magical, AI-powered experience of unrivaled convenience. But it pays to ask tougher questions.
+
+The adtech giant is tryingto control the narrative, just as it controls the product experience. So while Google’s CEO talks only about the “amazing things” coming down the pipe in a world where everyone trusts Google with all their data — failing entirely to concede the Big Brother aspect of surveillance-powered AIs — Google’s products are similarly disingenuous; in that they are designed to nudge users to share more and think less.
+
+And that’s truly the opposite of responsible.
+
+So no, not OK Google.

@@ -1,0 +1,21 @@
+Plex partners with Amazon to launch a hardware-free media server, Plex Cloud
+
+You no longer need an always-on PC or any other network-attached hardware in order to usePlex’smedia player. The popular service, which allows you to watch TV and movies from your own collection, includingthose you’ve recorded via an attached digital antenna,is making itself more accessible to mainstream users via a new online option, calledPlex Cloud.Instead of installing Plex software on a local device, Plex has partnered with Amazon Cloud Drive to host your files so you can stream from the cloud.
+
+This is a significant departure for Plex, which has historically focused on turning a local device into your own personal media server.
+
+The software required has been an always-on PC, Mac, or NAS (network-attached storage) device, though it recently made an exception with theNVIDIA Shield Android TV player. However, that was due to the fact that the Shield is a fairly powerful gaming machine, with a 8-core 64-bit CPU and massive GPU, and offers a model with 500 GB of storage – in other words, clearly capable of running Plex’s media server software.
+
+Plex Cloud, on the other hand, will eliminate some of the hassles that come with using Plex for less-technical users. Though Plex’s software is good at organizing and adding metadata to your files, users still had to worry about things like power failures, data loss, and file corruption – as is the case when storing files locally.
+
+Plus, features like syncing files to other devices for offline viewing weren’t always as simple as they could be for more mainstream users.
+
+Plex Cloud aims to solve these problems, as you’ll instead just add your files to Amazon Cloud Drive, then stream from any device using the Plex app. This also eliminates other concerns with things like slower home bandwidth or data caps.
+
+The service will be available only to Plex Pass users (the company’s paid tier), but requires that users already have an Amazon Drive account. This means you’ll incur another expense – $59.99 per year – but that’s not a bad deal for cloud storage, if you’re in the market, as it gives you access to unlimited storage for any file type. That’s better than Google Drive, Dropbox or iCloud’s pricing, which are still tiered and more expensive.
+
+The new Plex Cloud will eventually include all the features offered by Plex, like its transcoding capabilities and media player software for accessing and organizing your media library, but several features are not available at launch. These include camera upload, mobile sync, cloud sync, media optimizer, DLNA and DVR.
+
+Amazon doesn’t offer unlimited storage in all markets, but Plex says it will work with those accounts that are not unlimited. It hasn’t committed to bringing the service to other cloud storage providers at this time.
+
+Interested customers cansign up for the Plex Cloud Beta hereto request access to the invite-only beta.

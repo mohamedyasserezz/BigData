@@ -1,0 +1,19 @@
+Grace Hopper and Margaret Hamilton awarded Presidential Medal of Freedom for computing advances
+
+President Obama awarded the country’s highest civilian honor, the Presidential Medal of Freedom, to a batch of 21 deserving recipients,among them computing pioneers Grace Hopper and Margaret Hamilton.
+
+Rear Admiral Grace Hopper, who died in 1992 and thus is awarded the medal posthumously, was a major figure in the development of fundamental computing systems. She worked on some of the earliest computers ever made, like the Mark I, programming and performing research alongside the likes of Howard Aiken and John von Neumann. She aided in the construction of UNIVAC and created the first working compiler.
+
+If she had retired then, in 1952, she would already be considered a critical part of the development of the modern computer. But she continued her work, under public and private auspices, leading to the creation of many of what could be considered the first modern programming languages (you see the COBOL book in her hand above) and helping the Navy standardize and modernize its computing infrastructure. She’s even credited with popularizing, if not inventing, the modern definition of “debugging” after a moth was found in Harvard’s Mark II computer.
+
+Her forward-thinking attitude is crystallized in a phrase that is now commonplace: “It’s easier to ask forgiveness than it is to get permission.” It should come as no surprise that thislitany of accomplishmentsled to the nickname “Amazing Grace.”
+
+Margaret Hamilton came onto the scene a bit later, when programming computers was less a confidential government initiative and more a niche scientific pursuit. She had studied math, and got a job as a programmer at MIT to support her husband (who was attending Harvard) and daughter. Her capacity was quickly recognized and she was tapped to work with the Apollo program, creating the mission’s onboard flight systems.
+
+Apollo 11 ran her software, and at a critical moment during the lunar landing demonstrated its reliability — and also the importance of good documentation — when it activated alarms related to receiving more input than it could handle. The astronauts and mission control recognized that these errors in particular were something a computer could handle, though — the program prioritized critical systems, as it was designed to do, instead of shutting down or delaying calculations, and the landing was accomplished successfully.
+
+“Because software was a mystery, a black box, upper management gave us total freedom and trust. We had to find a way and we did,”she told NASA for a retrospective.“Looking back, we were the luckiest people in the world; there was no choice but to be pioneers; no time to be beginners.”
+
+Hamilton has continued working on software engineering — she coined the term, by the way — in the private sector ever since.
+
+That they were women in fields and cultures at the time utterly dominated by men only adds to the luster of their achievements; Rear Admiral Hopper and Hamilton are inspiring figures for anyone looking to enter the fields of computer science and engineering. They’re joined by Frank Gehry, Bill and Melinda Gates and a host of others in this batch of recipients. The medals will be presented on November 22.

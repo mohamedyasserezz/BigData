@@ -1,0 +1,13 @@
+Inbox for Gmail gets smarter handling for Trello, GitHub and Google News alerts
+
+Google islaunchinga small but interesting update forInbox by Gmailtoday. Inbox, Google’s next-gen email client for Gmail users, recentlylauncheda new feature that gives you a quick, glanceable view of what’s in those email newsletters you get every day. Starting today, it’s going to offer a similar view of email updates from source-code repository GitHub and project management service Trello.
+
+That means you will now see a summary of your Trello projects and the latest code changes or filed issues in GitHub. You can then simply tap on “open in GitHub” or “open in Trello” to be taken right to those services’ mobile or web apps. Thanks to this, those email alerts have suddenly become far more actionable than before.
+
+If you’re not a Trello or GitHub user, you can probably still think of a dozen services that would benefit from a similar integration. Google is asking companies that want to launch smart highlighting and the grouping of their emails in Inbox tocontact it.
+
+In addition, Inbox will now also show you the same glanceable view it uses for newsletters or alerts from Google News, too. Instead of opening the original email, tapping or clicking on the Google Alert notification opens a native experience that lets you browse the latest updates from Google News.
+
+The updates also features a few other minor changes. You can now drag and drop contacts between the to, CC and BCC fields in the composer window on the web, for example (finally!). Google also finally lets you delete emails right from the inbox on mobile (currently you can only mark messages as done or snooze them), and if you’re an avid Google Drive user, you can now insert Drive links into emails, change their permission settings and save your email attachments directly to Drive.
+
+None of these are earth-shattering features, but they will definitely make Inbox more usable.

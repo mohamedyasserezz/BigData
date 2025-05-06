@@ -1,0 +1,21 @@
+The method in Salesforce’s M&A madness
+
+Salesforcehas been on a shopping spree this year,spending in the neighborhood of $5-6 billion on 10 companies. That’s why it was interesting to hear company president, vice chairman and COO, Keith Block talk about what they look for in an acquisition target at a press conference at Dreamforce this week. This is particularly true in the context of rumors thatSalesforce was interested in buying Twitter.
+
+First of all, it’s worth noting that most Salesforce purchasesthis year and over the years have typically been under $1 billion. The notable exception wasthe $2.8 billion the company spent for Demandwarein June andthe $2.5 billion it spent to buy ExactTargetin 2013. A more comfortable level appears to be in the $100 – $300 million range (although the company spent $750 million to buy Quiplast summer and a similar total amountto get the ad tech company Kruxthis week).
+
+But there is more to a buying decision than purely just money — and this is worth keeping in mind in the context of a possible Twitter deal. Block reiterated something that he said last year at the Dreamforce press conference — that Salesforce always looks at M&A activity in the context of the customer, and how the purchase will drive their relationship with their customers.
+
+That said, he noted they do not do M&A willy-nilly. They have a methodology and a list of companies they could be interested in at any given time, one which they are constantly updating. To get on the list, they look at a number of different criteria and balance what the target company could bring to Salesforce (and its customers), and the possible risk of buying the company.
+
+“We look at culture. Will it be a good cultural fit? Is it good product fit? Is there talent? Is there financial value? What are the risks of assimilating the company into our company,” Block explained.
+
+He said once you acquire the company, you then have to balance integration versus innovation. You’re buying the company for the technology, and you don’t want to quash all of the reasons you are spending the money to bring it into the fold. At the same time, there has to be some level of integration within the organization at large.
+
+“If you drive growth and experimentation, you might not get leverage into the installed base. If you push too hard on integration you get cost savings, but you might hurt innovation,” Block explained.
+
+If you look at Quip as an example, Salesforce obviously sees Quip as a strategic asset or it wouldn’t have bought it, but the company continues to operate independently with customers outside of Salesforce. At the same time, it has begun to build integration points from Quip into the Salesforce platform. So you can see the balance between integration and innovation right there.
+
+As for Twitter, looking at the buying process Block outlined, it makes it appear even less likely that Salesforce would leave its purchase-price comfort zone. Sure, all that real-time data is a tantalizing target, especiallyfor a company pushing artificial intelligence, but the price has to be right, the fit has to be right, and it’s not clear it would be, or if it would be worth the significant financial risk.
+
+This has to be part of standard on-going internal discussion at Salesforce as it looks at any acquisition target, and it would seem business discipline would require they stay true to that approach, regardless of the company they are looking at.

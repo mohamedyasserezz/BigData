@@ -1,0 +1,21 @@
+With voter verification, Brigade becomes a more legitimate platform for political debate
+
+Brigade,the political advocacy platform backed by Sean Parkerand made from the early team of Causes, has come a longer way in the last six months.Originally unveiled as a really simple way to agree or disagree with political positions, Brigadehas evolved into a more robust site for debating policy and political topics. Instead of a simple ‘Yes’ or ‘No’ interface that they started out with last year, there’s a lot more room to have more substantive conversations.
+
+Today, they’re adding voter verification so that you can see how your representatives align with your personal viewpoints. On the flipside, this will also make it easier for both the company and users to gauge political support from voters who are likely to turn out.
+
+This is the crux of the issue. There are plenty of places to go to get inflamed about politics, but there are not as many meaningful online mechanisms to make sure that those opinions get translated into action or real policy change.
+
+Matt Mahan, who runsBrigade, said that they’re the first company that is linking verified voters to discourse and debate online. The company is pulling data from Google’s Civic API, which ties geographical addresses to political representation. Mahan said there are about 520,000 elected officials in the United States and every American is represented by about 40 officials on average.
+
+“As far as I know, there is no other social product that has connectedverified voters in their districts to help them figure out how they compare on an issue-by-issue basis with their reps,” he said.”
+
+If they can build a meaningful critical mass of users who turn out, that could compel politicians to engage with them. The big question is how they will acquire those eyeballs.
+
+Mahan said Brigade is betting that users will pull others in through viral channels on other social platforms.
+
+“The primary way we’re going to get people to the product is to askthem to compare opinions on an issue orcheck out a really interesting debate where there’s alot of engagement,” he said. “Theshort answer is organic growth through peer-to-peer networks.”
+
+Like another San Francisco-platform called OpenVote that is also trying to engage voters, Brigade is focusing on the national elections this year, rather than the local route.
+
+“Our goal is to grab people on national issues where there is a lot of mainstream media coverage and awareness,” Mahan said. “That will hopefully live down the ballot to local issues.”

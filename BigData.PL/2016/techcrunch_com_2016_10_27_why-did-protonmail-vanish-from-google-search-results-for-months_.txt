@@ -1,0 +1,75 @@
+Why did ProtonMail vanish from Google search results for months?
+
+If you’re the maker of a popular, zero access encrypted webmail product and suddenly discover your product is no longer featuring in Google search results for queries such as “secure email” and “encrypted email,” what do you conclude?
+
+That something is amiss, for sure.
+
+But the rather more pertinent question is whether your product’s disappearance is accidental or intentional — given that Google also offers a popular webmail product, Gmail, albeit one that does not offer zero access because users “pay” the company with their personal data, which feeds into Alphabet’s user profiling and ad targeting engines.
+
+So, in other words, Google is not an entirely disinterested bystander when it comes to a rival email product’s success.
+
+It is also especially pertinent to consider intention here, given thatGoogle is under antitrust investigation in the European Union(andelsewhere), with the EC’s competition commissioner probing long-running complaints that the company actively demotes rival services in its own search results — impeding their ability to compete.
+
+In Europe, Google’s search engine has a massively dominant share of the market — of circa 90 percent. Which means that vanishing from Google search results in Europe puts an especially large handicap on any business’ ability to compete in the region.
+
+Où est ProtonMail?
+
+The encrypted email product in question is ProtonMail, a Swiss startup that began in 2014 bycrowdfunding an alternative to U.S. encryptedemail providers that had beenfolding under pressureto submit user data to intelligence agencies.
+
+In 2015, ProtonMail had passed half a million users. Earlier this year itexited beta, and added iOS and Android apps. It now has around two million users, according to founder Andy Yen. Back inMarchhe told TechCrunch that ProtonMail was approaching break even — through donations and paid accounts.
+
+However, in ablog postpublished yesterday, the company claims Google nearly killed its product and seriously dented its profitability by disappearing “ProtonMail” from relevant search results.
+
+In November 2015, Yen writes that the company noticed it was no longer appearing in Google search results for related search queries — despite roughly doubling its user base by that fall — whereas all other major search engines were still returning ProtonMail prominently in their results:
+
+ProtonMail tracked this situation through Spring 2016, trying to get in touch with Google to query why it had vanished from search results — and initially having no luck getting a response. It only eventually got an acknowledgment of the complaint in August after it hadtweeted at Google staff.
+
+After that public exchange, ProtonMail was apparently informed within a few days that Google had “fixed something” — and after that it was able to see immediately positive results:
+
+A quick test confirms that a search for “secure email” or “encrypted email” in Google now returns ProtonMail as the top or second result.
+
+However, ProtonMail says no details have been forthcoming from Google as to what kind of “problem” had demoted or disappeared ProtonMail’s product from related searches via the Google search engine.
+
+We’ve also asked the company for an explanation — but at the time of writing it has not responded to our questions.
+
+“Without any additional explanation from Google, we may never know why ProtonMail become unranked. In any case, we do appreciate Google finally taking action to resolve the issue, we just wished it happened sooner,” writes Yen.
+
+“[E]ven though Google is an American company, it controlsover 90% of European search traffic. In this case, Google directly caused ProtonMail’s growth rate worldwide to be reduced by over 25% for over 10 months,” he adds.
+
+“This meant that ProtonMail’s income from users was also cut by 25%, putting financial pressure on our operations. We went from being able to cover all our monthly expenses to having to draw from our emergency reserve fund. The lost income and financial damage incurred as a result was several hundred thousand Swiss Francs (1 CHF = 1.01 USD), which will never be reimbursed.”
+
+Discussing the matter further with TechCrunch, Yen describes Google as “notoriously tight-lipped when it comes to search issues. The only information they disclosed was that they were able to find and fix something based off of our data. It’s not really a satisfactory answer considering the problem cost us several hundred thousand Swiss francs and imperiled the business.”
+
+In his blog post Yen uses the phrase “Search Risk” to characterize the problem — arguing that “more transparency and oversight” of Google’s dominant regional position in search is essential to avoid the risk of other startups being snuffled out by being bumped off Google’s index. ProtonMail is now supportive of the EC antitrust case against Google.
+
+“The only reason we survived to tell this story is because the majority of ProtonMail’s growth comes from word of mouth, and our community is too loud to be ignored. Many other companies won’t be so fortunate,” he writes.
+
+“This episode illustrates that Search Risk is serious, which is why we now agree with the European Commission that given Google’s dominant position in search, more transparency and oversight is critical.”
+
+Does Yen think ProtonMail was intentionally disappeared from search results by Google? “It is very hard to speculate on the inner workings at Google and whether this was intentional or not,” he responds. “It could have also been a Google software bug, but we have not heard of any other cases like this so it’s strange for a bug to only impact us. Intentional or not, it is a pretty clear demonstration of a real world impact that Google’s search monopoly can have.”
+
+Since going public with the search discoverability problem, Yen says ProtonMail has been invited by Yelp — one of thecoalition of Google antitrust complainants— to request interested third-party status in the ongoing antitrust case against Google.
+
+“We will weigh this option over the next couple days before making a decision. There has always been speculation about Google search results, but our case seems to be the only one out there (that we could find anyways) that is backed by data,” he adds.
+
+“It’s a troubling case, and I think it validates the antitrust investigations the European Commission has opened up against Google. With Google’s search monopoly, you have a situation where a single company could arbitrarily destroy any other businesses it wants, without well defined legal constraints.
+
+“This is unprecedented in history, as all other industries with this level of control and influence, such as banking, have long been regulated industries. Quite frankly, it is insane to not have any regulation or transparency for search.”
+
+Trying to fight Google for compensation for lost revenue based on the search issue would require breaking new ground legally to pursue it, and resources ProtonMail does not have, he adds.
+
+Evidently the answer, in his view, is regulation.
+
+Without visibility of the inner workings of Google’s search ranking algorithms it is clearly impossible for outsiders to verify whether the company is fairly ranking rivals or not.
+
+And while there have beena few movesby politicians in France andGermanyto apply pressure on Google to open its black-box algorithms to regulatory audit, it would take a concerted and coordinated Europe-wide effort to create legislation to require disclose — and despite increasingly noisy complaints from disgruntled rivals with stories of being squeezed out of search results, we’re not there yet.
+
+You would also expect Google to fight tooth and nail to keep its proprietary secret sauce under wraps. So there would be a huge lobbying effort mobilized to shut down any such regulatory efforts.
+
+But with worrying examples like the ProtonMail case continuing to count against it, andreports suggestingthe EC is preparing to fine Google on antitrust grounds, the company is not doing itself any favors in a region where its business processes remain under heavy suspicion.
+
+The optics look awful. And pressure for regulators to be able to audit the decisions its search algorithm makes may well step up in the future.
+
+Assecurity commentatorGraham Cluley puts: “Google really should have responded much more quickly when the [ProtonMail] issue was first brought to their attention. Failing to fix the problem earlier will only make more people believe that it was intentional.”
+
+Yet intentional or otherwise, damage was clearly done — and that may be the most powerful argument for theneed to audit increasingly powerful algorithms.

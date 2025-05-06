@@ -1,0 +1,21 @@
+Twitter, Microsoft, Google and others say they haven’t scanned messages like Yahoo
+
+Yahoo is under scrutiny today after former employees claimed the companydesigned custom softwareto enable U.S. intelligence agencies to scan incoming emails to all of Yahoo’s millions of users. The allegations, first published byReuters, raise questions about the constitutionality of such dragnet surveillance and about the legal means used to compel Yahoo to build the software.
+
+Other major tech companies were quick to distance themselves from the report, stating that they have not received similar requests for custom software from the government.
+
+“We’ve never received a request like this, and were we to receive it we’d challenge it in a court,” a Twitter spokesperson told TechCrunch. “Separately, while federal law prohibits companies from being able to share information about certain types of national security related requests, we are currently suing the Justice Department for the ability to disclose more information about government requests.” Twitter’slawsuitagainst the Justice Department is ongoing.
+
+“We have never engaged in the secret scanning of email traffic like what has been reported today about Yahoo,” a Microsoft spokesperson told TechCrunch.Microsoft has also sued the DOJin an effort to improve transparency around government requests for user data.
+
+A Google spokesperson said that Google has also never received a demand for such software. “We’ve never received such a request, but if we did, our response would be simple: no way,” a spokesperson for the company told TechCrunch.
+
+Apple, which successfully fought an FBI demand to create custom software to unlock an iPhone connected to the San Bernardino shooting, said that it would continue to oppose requests for custom software. “We have never received a request of this type,” an Apple spokesperson said of the Yahoo case. “If we were to receive one, we would oppose it in court.”
+
+We posed the same question to Facebook. “Facebook has never received a request like the one described in these news reports from any government, and if we did we would fight it,” a spokesperson told us. Facebook’s Chief Security Officer, Alex Stamos, reportedly resigned from his former position as Yahoo’s Chief Information Security Officer when he discovered the email surveillance program.
+
+Yahoo did not confirm or deny the reported surveillance. A spokesperson told TechCrunch, “Yahoois a law abiding company, and complies with the laws of the United States.” Like other companies, Yahoo has engaged in legal efforts to curb government surveillance. It initially fought the NSA’s effort to compel the company to participate in broad surveillance in 2008, and only backed down when threatened with$250,000-per-day fines. Yahoo also recentlymade publicseveral of the National Security Letters it has received over the years, a first for a major tech company. But recent news reports have suggested that security took a backseat at Yahoo as users drifted away from its mail service.
+
+Twitter, Microsoft, Google, Facebook and Yahoo are among the many tech companies that publish transparency reports about government requests for user data, and none of the listed companies’ reports reflect the kind of widespread data sharing that is alleged to have taken place at Yahoo. Even Yahoo’s own transparency report claims that the company onlyshared data on up to 21,499 userswith the U.S. government during the time period when the program was reportedly developed — a relatively low number for the company, which has shared data on up to 51,499 users during a similar six-month period.
+
+This story has been updated with comments from Facebook and Apple.

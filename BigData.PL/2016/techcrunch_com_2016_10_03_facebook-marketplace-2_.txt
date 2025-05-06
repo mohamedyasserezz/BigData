@@ -1,0 +1,55 @@
+Facebook launches Marketplace, a friendlier Craigslist
+
+450 million people already visit “buy and sell” Groups on Facebook each month, and now the company is launching a whole tab in its app dedicated to peer-to-peer shopping.
+
+Facebook Marketplacelets you browse a relevancy-sorted feed of things to buy from people who live nearby, and quickly list your own stuff for sale. Integration with Facebook Messenger lets you haggle or arrange a meet-up, and you know more about who you’re dealing with than on anonymous sites like Craigslist thanks to Facebook’s profiles.
+
+Marketplace is launching today in the US, UK, Australia, and New Zealand on mobile, but could roll out globally and on the web if it’s popular. There’s an unfortunate lack of a two-way rating system which helps discourage scamming and bad behavior. There’s also no native checkout option for transactions beyond ad-hoc payment through Messenger, which is annoying but promotes in-person exchanges instead of fraud-laden shipping.
+
+“I think the prevalence of Craigslist shows there’s a great need for a local commerce product” said Marketplace product manager Bowen Pan.
+
+While there’s no Pages allowed on Marketplace right now, Facebook could one day generate ad revenue if it let businesses or people buy News Feed ads or sponsored placement for what they’re selling. Pan tells TechCrunch, “After we’re confident we’ve built out a great product experience for people, we’ll look into introducing businesses if it makes sense, and after that we’ll look at how we could potentially monetize the surface.”
+
+Facebook is betting big on Marketplace, considering its taking over a main spot in the navigation tab bar, replacing the Messenger shortcut in Facebook for iOS. That prime location could make Marketplace the digital version of impulse buys at the checkout counter.
+
+Facebook continues itsunending quest to eat the internet, creating its own versions of every popular activity on the web to absorb their engagement and profit potential. The more of the commerce experience it owns, the more it can earn indirectly through ads. It’s also working on a Shopping tab for buying from traditional retailers.
+
+Facebook has been trying to win local commerce for almost a decade. In 2007 it first tried out a “Marketplace” for classified listings about things for sale, housing, jobs, and more. But Marketplace never gained massive traction and in 2009 Facebook transferred control to Oodle, the commerce platform powering it. It was shut down in 2014.
+
+Then last year, Facebook took another swing, building a special “For Sale” post option to Groups, which almost a quarter of its 1.71 billion users now visit each month. In October 2015 Facebook began testing a“Local Market”feature that would evolve into the Marketplace launching today.
+
+Facebook Marketplace has three main features:
+
+“We show you the most relevant items for you, even if you don’t know what you want” said Pan
+
+Craigslist thrived in the US by being the lowest common commerce denominator. It was dead-simple, flexible, and launched long before many rivals. It has incredible inertia, with buyers and sellers both gravitating back to it because it aggregates the most supply and demand, despite its lack of features.
+
+But recently, we’ve seen specialty sites succeed inunbundling certain Craigslist features. For example, reviews, calendars, and built-in payment helped Airbnb steal the short-term rentals marketplace from Craigslist. Seating charts and filtering options let StubHub steal ticket resales.
+
+No one has been able to wrestle the home for peer-to-peer selling away from Craigslist, but Facebook might have the best chance for these three reasons.
+
+On Craigslist you don’t know anything about the buyer or seller you’re meeting beyond what they say in their listing and your direct communication. But Facebook profiles tell you tons.
+
+It’s tough for scammers with fake accounts to build up big numbers of friends, so if someone has plenty along with a filled-out profile, you can be pretty sure of who they are. That info or lack thereof could clue you in to whether you want to meet them in-person, which can be risky. Plus there’s more accountability and people behave better if they think you could give their name to the police, track them down at work, or shame them on social media.
+
+The most sorely lacking feature in Marketplace is a way for buyers and sellers to rate each other and note things like that the item was in worse condition than listed, the seller tried to jack up the price last-minute, or that the buyer showed up late or flaked out.
+
+People usually only go to Craigslist when they want something specific. Yet we already spend around 50 minutes per day on Facebook, Messenger, and Instagram. Marketplace will be one tap away inside Facebook, rather than getting buried in the More tab like many features.
+
+By building the Marketplace into where we already spend our time, it’s like setting up a farmer’s market in the center of town. Users might skim through Marketplace simply because they’re bored. Thanks to the popularity of Messenger, buyers and sellers can easily chat without phone numbers. A competing commerce platform still might have to rely on Facebook for communication. Facebook also doesn’t charge a fee, so you can transact however you want and never pay extra.
+
+Craigslist and many other p2p commerce platforms are too focused on cramming tons of text listings onto a page. Some were built for the web before everyone always had a camera handy so they’re not fun to browse. And without behavior and interest data, they don’t know what you like. Marketplace was built-mobile first on top of photos, and is relevancy-sorted to make browsing efficient and gratifying.
+
+Those traits encourage random browsing. You could stumble on massive discounts because a seller just wants to be rid of something, which you’d never get from traditional retailers.That makes using Marketplace a bit like treasure hunting through flea markets or yard sales, where you can get excited about what you might discover. Apparel, cars, and discounted household furnishings proved the top categories during testing.
+
+Marketplace will have to compete with OfferUp, LetGo, Wallapop, Close5, and other startups eyeing Craig’s turf. Still, it’s a bit of a chicken and the egg problem for Facebook, as it will have to simultaneously build up supply and demand. Luckily people don’t need to download a new app to get involved, and Facebook put Marketplace smack dab in the center of its app so it’s sure to be seen.
+
+Now the questions are whether Facebook will give Marketplace the promotional love to flourish, and if it can keep the experience safe. “On Facebook people actually represent their real selves” says Pan about the benefits of having a peer-verified profile behind each buyer and seller.
+
+If Facebook finds people are abusing their fellow Marketplacers, Pan says it will take action, ranging from removing an item listing to banning someone from the feature all-together. You’re not allowed to sell guns, adult services, or other illegal things, for example.
+
+That said, Facebook doesn’t take responsibility for fraud or other issues during the transaction. This is partially why it doesn’t just let you pay for items directly like on an ecommerce site or platform like eBay. If someone robs you when you go to their place to buy a couch, or you send payment for a camera that someone never ends up shipping to you, you’ll have to take it up with the police. “We see our role as just connecting buyers and sellers” Pan explains.
+
+Facebook has a chance to do to shopping what it did to video consumption: make it spontaneous. You don’t go to Facebook to purposefully see videos like on YouTube, but end up watching them anyways because the feed intelligently inserts them. Now that casual pattern could come to commerce.
+
+“We found that the vast majority of people just like to browse. They don’t have a specific item in mind. They are just…scrolling through the feed and seeing if there’s anything that might interest them” Pan concludes. “It mimics some of the offline shopping behavior of going to a Sunday market or to the mall. You might not know the items you want, but you’re open to seeing them.”

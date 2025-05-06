@@ -1,0 +1,25 @@
+FBI will receive ‘limited’ Twitter firehose access through Dataminr, but has to watch its step
+
+The FBI has publiclydisclosed its intentto get at the “mission critical” Twitter firehose through third party monitoring service Dataminr. But Twitter, which has a 5 percent stake in Dataminr and of course has sovereign control over the firehose, recently told the company tostop providing data to intelligence agencies. So what’s happening here?
+
+TechCrunch was told that the service being provided to the FBI is different from that requested by the CIA, which was turned away before. The FBI would receive “a limited version of our breaking news alerting product” starting December 1, according to a Dataminr statement. (“Dataminr is not a product that enables surveillance,” it concluded. Not knowingly, perhaps.)
+
+Indeed, the FBI cites staying up to date as the reason for wanting access in adocument (PDF)justifying the cost and provider of the contract:
+
+The FBI has a need to obtain information about relevant breaking news and events in real-time. Twitter is a platform where news first breaks on terrorist attacks, military actions, epidemiological events, and natural disasters, among other topics.
+
+Sounds reasonable. And it doesn’t seem to fall afoul of what we know about Twitter’s reluctance to sell data (directly or indirectly) to the intelligence community.
+
+Now, Twitter’s ban on intelligence agencies could be argued as good PR — a service that touts itself as a platform for free speech doesn’t want to appear to be too cozy with the likes of the FBI. Or it could just be enforcing itsterms of service:
+
+You will not knowingly: 1) display, distribute, or otherwise make available Content to any entity to investigate, track or surveil Twitter’s users or their Content, or to obtain information on Twitter users or their Content, in a manner that would require a subpoena, court order, or other valid legal process or that would otherwise have the potential to be inconsistent with our users’ reasonable expectations of privacy;
+
+It makes sense either way. And as far as allowing the FBI access to Dataminr, over which Twitter clearly exerts serious and specific influence, nothing raises a red flag so far.
+
+But asecond documentfrom the FBI filing somewhat adulterates the pure intentions of news-gathering set out above:
+
+Twitter is used extensively by terrorist organizations and other criminals to communicate, recruit, and raise funds for illegal activity… Consequently, the FBI needs near real time access to the full universe of tweets on a daily basis in order to obtain the most current information available in furtherance of its law enforcement and intelligence missions.
+
+This is less clear-cut. If Twitter prohibits them from investigating, tracking, or surveilling Twitter users, that limitation and the FBI’s stated goals seem at odds with one another.
+
+Presumably everyone involved knows this, and the FBI is probably walking a straight and narrow path in return for access to what real-time data it can get. If it’s as needful as they say it is, they won’t mind siloing it off from other operations — but if they try to cut corners, there’s every chance that Twitter and Dataminr are prepared to drop them like a rock to make a point and earn some credibility in the public eye.

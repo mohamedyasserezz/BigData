@@ -1,0 +1,29 @@
+Securly raises $4 million to put guard rails on the internet for K-12 students
+
+Thanks to theChildrens’ Internet Protection Act, schools in the U.S. that provide internet access to their students must also generally use web filtering systems that block them from accessing obscene or harmful content online.
+
+The law, enacted originally in 2000 and updated in 2011, left school districts’ IT departments scrambling to adapt enterprise solutions that were built for deeper-pocketed corporations, for use in their schools.
+
+Now, San Jose startupSecurly, has raised $4 million in Series A funding to support the expansion of its cloud-based web filtering system to K-12 schools across the U.S., and the world wherever similar regulations exist.
+
+According to Securly CEO and founder,Vinay Mahadik,the company wants to give schools, and parents, “plug and play security for kids.”
+
+The company plans to invest some of its newly raised funds towards building tools that can detect and will alert parents, via text message, when their kids are threatening to harm another student, inflict self-harm or are expressing suicidal thoughts.
+
+The company is using natural language processing, emotional learning and other machine learning techniques to understand the differences between when a kid is researching serious topics, versus engaging in harmful behavior.
+
+Securly has begun to offer reports via email to parents that broadly outline details about how their kids are using the internet at school. Soon, the company will offer a Securly portal and app where parents can proactively get information about their kids’ digital habits as well, Mahadik said.
+
+The younger the child, the more granular information a parent can attain about his or her internet use. Around age 10-12, when kids begin to understand and want privacy, Securly offers a report that’s more about the broad brushstrokes than the specific games, apps, searches or sites visited by an individual kid.
+
+The company sells its software directly to school districts today. To install Securly, an IT administrator can attain a special IP address from the startup, drop it into a DNS server field in their systems, and within 15 minutes, the schools in their district will be protected by the web filter.
+
+Education-focused venture firmOwl Venturesled the Series A round in Securly.
+
+Owl Ventures’ Amit A. Patel lauded Securly for offering schools a way to set their own policies about what is appropriate for students at which levels. There’s a big difference between what is safe for a kindergartener versus a high school junior to watch online, he noted.
+
+Finally, the investor said Owl backed Securly because it has huge potential within the U.S. education enterprise market alone, but could also succeed internationally and as a consumer product.
+
+“As schools within the U.S. and around the world start to incorporate more tech into their teaching, I’d say this is going to become universally needed. This company can serve students around the world, and it’s not necessary that you have certain curriculum that has to be readapted for it to work,” he noted.
+
+The investor expects Securly to develop a home version of its app for parental control of internet-connected devices given the funding, and to continue to roll its enterprise product to schools across the U.S.

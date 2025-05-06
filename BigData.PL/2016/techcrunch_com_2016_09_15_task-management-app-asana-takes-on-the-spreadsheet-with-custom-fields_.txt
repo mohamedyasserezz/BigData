@@ -1,0 +1,25 @@
+Task management app Asana takes on the spreadsheet with ‘custom fields’
+
+Asana— the enterprise SaaS business started by Facebook co-founderDustin Moskovitzand early Facebook employeeJustin Rosenstein— has made a name for itself as a workflow and task management app that aims to help teams be more productive by making it much easier to figure out what needs to get done. But today, the company is taking the wraps off a new service that will not only help you identify what you need to do, but actually do it.
+
+Asana is introducing a new product called custom fields — an interface and architecture that will let you tailor Asana’s information management to cover a variety of structured data points.
+
+So what does this mean, exactly? As Asana describes it, a company that, for example, might have been conducting a recruiting drive can now use Asana to create a form to track more details about actual candidates; a marketing team can now drill down into a larger plan to track specific campaigns; engineering teams can use it to record and monitor bug tracking; and design teams can use it to provide more detailed looks and updates about larger projects.
+
+While the aim of the interface is to help its users amalgamate and integrate information and then query it in a more structured way, the introduction of the new architecture is also a signal of how Asana is now vying to become a more central platform in your larger work life, covering not just productivity but information ingestion and management, essentially a more dynamic and better way of looking at information beyond today’s basic use of spreadsheets.
+
+Custom fields will go live today as part of Asana’s premium tier, and next month Asana will be giving it another boost by introducing many pre-made templates for different kinds of verticals and business processes. (As for that premium tier, Asana today can be used free by teams of up to 15 people, with paying users charged at $8.33/month/user at a sliding scale depending on total numbers.)
+
+The company also will be integrating custom fields into its API. To me, this is potentially one of the more interesting aspects of this news: It means that you could, theoretically, come up with new applications of it that expose Asana even as a customer-facing tool to instantly gather and start structuring information, Asana’s super-charged response to an existing product like Google Forms.
+
+The new features getting announced today may be Asana’s biggest update to date, and come on the heels of a significant round of funding in March, when the companyraised $50 million at a $600 million valuationto take its business to the next level. Interestingly, it was testingaspectsof this new service even then.
+
+Ironically, given that Asana has been around since 2009 without custom forms, it’s interesting to hear from Rosenstein, who I met in Asana’s offices in San Francisco this week, that itwas “the number-one feature request” from customers. “They have all asked for the ability to track a specific thing, which is what we have created.”
+
+He went on to explain that while this was actually “part of the vision from the beginning,” it took longer to add because the more basic challenge of making good task management was bigger than they thought it would be.
+
+While the introduction of custom fields is a significant expansion for the startup, it will also signal a lot more competition with a whole different tier of cloud-based enterprise information management products from companies like Salesforce, Microsoft, Google and more.
+
+Given that custom fields will only be available to paying users (at least initially) it signals one way that Asana hopes to convert more of its business customers to revenue generators. (Today, Asana has 13,000 businesses as paying customers, but many thousands more using it for free.)
+
+The company is also training its sights on a different class of user. Today there are a lot of smaller teams and entire small businesses using Asana’s platform to manage their projects. But the company is looking to bring more large enterprises into the mix, businesses with thousands rather than dozens of users. Asana doesn’t disclose how many large enterprises are using it today, except to note that the total number of 1,000+ deployments has doubled in the last six months.

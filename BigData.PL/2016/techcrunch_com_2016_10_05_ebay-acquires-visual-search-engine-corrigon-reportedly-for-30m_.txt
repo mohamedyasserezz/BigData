@@ -1,0 +1,27 @@
+eBay acquires visual search engine Corrigon for less than $30M
+
+eBay— the soup to nuts marketplace for new and used goods — has made another acquisition to build out its search and discovery technology for customers to find what they need among the1 billion or soitems that are listed on the site. The company todayannouncedthat it has acquiredCorrigon, an Israel-based startup that has is a specialist in computer vision and visual search technology. Terms of the deal were not disclosed by eBay. Israeli newspaperThe Markeris reporting a price of $30 million but our sources tell us the deal was for less than that amount.
+
+Corrigon has been around since 2008 and was cofounded by Avinoam Omer and Einav Itamar. It’s not clear how much the company had raised in funding. Omer himself is a repeat entrepreneur. He also founded machine learning company Zoomix, which was acquired by Microsoft.
+
+Corrigon’s speciality is searching and identifying specific objects within an image and matching that with other images or links to products. In the case of eBay, it will be used to match images to products. “Corrigon’s expertise and technology will help match the best images to their products so that shoppers can be confident that what they buy is exactly what they see,” eBay writes.
+
+Essentially this will mean that eBay can offer sellers an catalogue of images with better quality than what users will provide for a product when it gets listed. Similarly, a consumer can use the same feature to find the right product for sale on eBay.
+
+Corrigon’s site takes you throughmore detailfor how its tech can be used. For example, in a large picture with multiple images, you can hover the pointer over different parts of an image and you get pop-up links to where you can buy that object, with Corrigon’s technology essentially automating that search and creating that link.
+
+eBay has been making a number of efforts to build out its search functionality with machine learning and big data capabilities. They include theacquisition of big data startup ExpertmakerandSalesPredict, an AI company, both in May of this year.
+
+eBay has been working for years on making its platform more visual and smarter, and Corrigon fits into that strategy. eBay has, in fact, been offering elements of visual search sinceat least 2011, specifically in mobile apps, where users might be using a smartphone camera to identify an image of something they would like to buy.
+
+In 2013, the company also unveiled a redesigned, Pinterest-like interface, based around images, as part of a drive draw in a wider audience of consumers that would have been turned off by eBay’s old-fashioned, text-based approach. But moves like this require much more advanced tech to discover, search and interact with those images.
+
+eBay says that Corrigon’s tech will be used not only for image recognition, but also for classification and image enhancements “as part of its structured data initiative.”
+
+“As we continue to evolve the eBay shopping experience, Corrigon’s technology and expertise will help buyers find the best results when shopping on eBay through experiences that were not possible a year ago, before our investments in structured data,” said Amit Menipaz, Vice President and General Manager of Structured Data at eBay, in a statement.
+
+Corrigon’s team looks like it will all be joining the company, and it will continue to operate out of Israel, where eBay already has a structured data group in place in Netanya.
+
+“Corrigon’s state-of-the art visual search technology enables fine grained product detection within images. We look forward to applying our expertise and technology to eBay’s platform, which has more than a billion product images,” said Avinoam Omer, co-founder and CEO of Corrigon.  “Working in partnership with eBay’s structured data team, we will help eBay sellers list more efficiently and eBay buyers find what they are looking for faster in order to increase customer sales conversions.”
+
+Updated with more price clarification.

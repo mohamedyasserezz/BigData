@@ -1,0 +1,19 @@
+WooCommerce now works with Square to seamlessly run both online and offline stores
+
+A bit more than a year after AutomatticacquiredWooCommerce, the popular service that turns any WordPress website into an e-commerce store is nowintegrating with Square. While this kind of integration doesn’t sound groundbreaking on paper, it has bigger implications when it comes to bridging online stores with offline purchases.
+
+First, let’s start with WooCommerce’s scale. Automattic claims that 37 percent of all online stores now run using WooCommerce. Chances are that you’ve used a WooCommerce website without realizing it.
+
+And it seems to be popular because it’s quite easy and flexible to set up an online store. For instance, WooCommerce supports credit card payments, direct bank transfers, cheque payments and cash on delivery out of the box.
+
+In addition to that, WooCommerce lets you install a bunch of extensions, including payment processors. Companies like Stripe, Amazon Payments and PayPal have all built extensions. But there was one missing company in this list — Square.
+
+Many people are familiar with Square for its neat little credit card dongles that let you accept credit cards using your phone or tablet and the company’s point of sale system. But Square has also been ramping up itsonline checkout APIsso that you can accept credit cards on your website using Square as well.
+
+Integrating with Square was the most voted request on WooCommerce’s support site. The extensioncosts$79 per year. In addition to the annual fee, Square charges 2.75 percent per offline transaction and 2.9 percent + 30 cents for online purchases.
+
+Using the same payment processor for both your online and offline purchases provides many advantages. WooCommerce and Square have worked on a deep integration that lets you keep your inventory in sync and update everything automatically. So let’s say you just sold your last crab trap in your fishing store, Square and WooCommerce will automatically tell your online customers that the item isn’t available anymore.
+
+Offline stores that are already using Square can also easily create an online shop using WooCommerce. You can add items or changes prices in WooCommerce and everything will be updated in the Square app.
+
+Unifying the inventory between sales channels isn’t new and has been a big e-commerce trend for the past few years. But the fact that even the smallest stores using WooCommerce and Square can take advantage of that is a convenient addition.

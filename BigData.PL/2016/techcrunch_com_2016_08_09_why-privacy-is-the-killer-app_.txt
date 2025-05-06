@@ -1,0 +1,29 @@
+Why privacy is the killer app
+
+Our world looks very different from when Steve Jobs held aloft the first iPhone in 2007. There were 1.2 billion people online globally. Gmail had fewer users than Yahoo’s mail service — the same Yahoo that was just acquired at a fraction of its highest valuation at the turn of the century. Marketers didn’t use technology beyond their website analytics, email marketing and display ads. The martech/adtech industry didn’t exist.
+
+Fast-forward to today. More than1.4 billion smartphonessold in 2015 alone. Mobile, social, connected consumers have created a data explosion, with50,000 GB of dataexpected to be created every single second by 2018.
+
+For businesses, the promise of unlimited consumer behavioral data has fueled investments in big data and the explosive growth of the martech/adtech industry. In 2011, there were an estimated 150 marketing technology companies; today, ChiefMarTech’s latest reportlists more than 3,500.
+
+Companies are consuming, processing, amassing and analyzing massive volumes of consumer data to help marketers advertise, personalize, predict and convert browsers into buyers. Add to that the inevitable explosive growth of internet connected “things” and the speed at which artificial intelligence is maturing to help interpret massive amounts of data and make decisions. It’s clear that the era of data-driven marketing is just getting started.
+
+Whether this is a utopian or dystopian view of the future depends on your perspective. For marketers, the availability of data is a dream. For the general public, the aftershock of Edward Snowden’s revelations about government surveillance has created a growing awareness and concern about how personal data is used. Privacy is rapidly becoming the defining issue of the digital era.
+
+In 2015,Pew Research foundthat 91 percent of American adults felt that consumers have lost control over how personal information is collected and used by companies.
+
+In response, consumers are taking action. More than one-third (37 percent) of mobile users are now using ad blockers to block cookies and ads; an incredible statistic, considering that mobile ad blocking technology is less than a year old.
+
+For regulators, Snowden’s revelations both undermined confidence in existing legislation (the U.S./EU Safe Harbor) and spurred additional regulation — notably the EU General Data Protection Regulation (GDPR). If you’re not aware of GDPR, it’s a single privacy law that applies to all member states, implementing the highest data protection standards in the world.
+
+The countdown has begun; GDPR comes into effect in May 2018. It’s also a law that has teeth, with the power to fine any company up to 4 percent of its global revenues for failing to comply with EU laws when processing data about its citizens. For those in the U.K. looking forward to Brexit, the laws will still apply to any company that trades in Europe.
+
+Ironically, just as many enterprises complete their grand big data projects to build big data lakes, the rise of regulations that mandate consumer opt-in and consent for data processing will likely drain them of personal data — that is, if typical opt-in rates are anything to go by.
+
+Something incredible happened at Apple’s WWDC on June 13, 2016, potentially showing the solution to the consumer privacy versus big business conundrum.
+
+Alongside Apple’s showcase of its latest iOS upgrades and hardware, Apple’s senior VP of software engineering stood up in front of the audience and spoke about how Apple usesdifferential privacy. This is a field of statistics and analytics that allows Apple to analyze trends and behavior across its customer base but prevents personal data from being identified. For the field of privacy by design, established more than 20 years ago, Apple’s validation of technology that respects and builds in ways to provide insights and protect identity is potentially a watershed moment for the industry.
+
+Cynics will claim it’s in response to Apple’s high-margin hardware business, and non-existent advertising business… but what Apple recognizes more broadly is that consumer trust (fueled by privacy) is the killer app.
+
+This trend is not limited to Apple. Privacy by design is a core tenet within Google and Microsoft, as well as other organizations. Just as the trend for big data was started by the world’s biggest consumer tech companies, the trend for privacy by design is about to begin.

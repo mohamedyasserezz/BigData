@@ -1,0 +1,17 @@
+Auto-Trash sorts garbage automatically at the TechCrunch Disrupt Hackathon
+
+No, Auto-Trash does not mean wrappers and french fries lingering on the floor of your car. Auto-Trash is a Raspberry Pi-powered trashcan that can automatically sort items by type.
+
+It works by using a Raspberry Pi module equipped with a camera to “see” each item placed on top of the can’s rotating top. Using image recognition—powered by their own custom software model built on top of Google’sTensorFlowAI engine—the smart trash can is able to distinguish items and rotate the top accordingly to drop them into the correct areas of a partitioned can.
+
+Keep in mind, this was just a hackathon proof of concept, but it seems to work as seen in a demo video below.
+
+[youtube=https://www.youtube.com/watch?v=sOGk2Y5vQdc&feature=player_embedded]
+
+In this demo, the can only sorts between compostable items and recyclable items. However, the team imagines this as a product that could sort between any number of categories (landfill, compost, recyclable, etc).
+
+WhileIndustrial technologies exist for this task, the Auto-Trash team envisions this as a low-cost, consumer product..
+
+Additionally, multiple cans would be connected to the TensorFlow neural network and each individual can would be learning from the contents put into all cans. Over time the network of cans would become smarter and smarter and get better at sorting.
+
+The team’s objective is to reduce human error and offload any effort we spend sorting items.

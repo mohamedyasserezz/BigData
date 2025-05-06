@@ -1,0 +1,15 @@
+Netflix launches iOS and Android apps for its internet speed test service
+
+Netflix began helping its users test their internet connection for streaming speeds in Maywhen it introduced Fast.com. Now it is bringing that service to mobile with the launch of apps foriOSandAndroid, asfirst spotted by 9to5Mac.
+
+Just like the Fast.com website for desktops, the “Fast Speed Test” apps give you a reading on the kind of speed you can expect Netflix to run at using your connection. There’s a gray counter clock which changes while recording the speed, and the app offers to show your connection speed onSpeedtest. When clicked, that link sends you to a page to download the Speedtest mobile apps.
+
+Its a super basic app with a clean UI and no ads because it is literally only about getting that speed reading.
+
+As we explained at the launch of Fast.com, the service tests downloads direct from Netflix’s servers and not upload and downlink speeds like others such asSpeedtest.com, to give a direct reading on your Netflix experience.
+
+The other side to the coin is that the readings are good for Netflix and the quality of its service.
+
+The company is a fastidious collector of data. Right from building algorithms to surface the right suggested content for users, to providing the best related recommendations and analyzing internet connection speeds.
+
+Netflix runs its own‘ISP Speed Index’which is chock-full of data about which ISP are best to use its service, average running speeds, etc. With users increasing streaming via mobile devices, that adds new variable — including mobile carrier services — which these new mobile apps can help it measure and, most importantly for paying Netflix customers, learn from to optimize its service.

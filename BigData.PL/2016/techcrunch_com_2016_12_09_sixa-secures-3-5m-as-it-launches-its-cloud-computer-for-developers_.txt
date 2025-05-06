@@ -1,0 +1,21 @@
+Sixa secures $3.5M as it launches its cloud computer for developers
+
+The promises of the cloud era have been many, but when it comes to hardware, most people have preferred to keep their personal PCs on-hand or on-location.
+
+Sixais aiming to free the PC and move computing to the cloud with its low-latency virtual machines geared toward developers. The recent Y Combinator grad just closed a $3.5 million round of seed funding led byTandem Capital.
+
+More than 15,000 developers came onto the Sixa platform when it initially launched three months ago and, after building up a waiting list of thousands, the company is officially opening its beta today.
+
+“Even in its limited beta, Sixa saw serious demand as thousands of developers swarmed to access the service,” said Doug Renert, partner at Tandem Partners. “This funding really allows the Sixa team to respond to this demand quickly by taking the shackles off. And the funding will support spreading the word to the global developer community about how easily they can access powerful computers without having to deal with hardware whatsoever.”
+
+Developers can nab a Windows cloud computer with all the power they need for $49/month or $0.49/hour. The company also has models better suited for designers and gamers sporting high-end graphics cards and more RAM. The virtual desktop can easily be accessed via a web browser or via a separate application for those connecting USB peripherals.
+
+The problem with virtual machines in the past has largely been the latency. Moving the mouse only to watch the cursor trail a half-second later made getting anything accomplished a mental maze. Sixa has reduced the latency on its end down to 11 milliseconds, from there it’s all on the speed of your internet service provider and physical distance from the data center.
+
+“We’ve eliminated latency from using a PC in the cloud and added the convenience of having the most up-to-date hardware and software at all times ” said Mykola Minchenko, Sixa co-founder and CEO.
+
+Sixa is offering a free trial on its site, which gives users a couple of hours to test the system and see which configuration is best suited for their needs.
+
+A lot of utility is added by owning a cloud computer outside of simply not having to lug around a chunky PC wherever you are. If you’re say a video editor, you can sign up for the designer PC account and instead of exporting and uploading every edit just to show to a remote producer, you can just send them a link to your cloud computer at which point they can check out what you’ve got and make edits themselves. This same scenario plays out in countless ways for a great deal of other technical professions that involve testing in some capacity.
+
+For now, Sixa is focusing on devs, designers and gamers, but it’s looking toward other verticals as well, including data-rich design, secure enterprise access and virtual reality systems.

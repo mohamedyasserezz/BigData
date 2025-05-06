@@ -1,0 +1,9 @@
+Nvidia’s tiny new self-driving AI computer sips power
+
+Nvidia revealed a new configuration of itsDRIVE PX 2in-car autonomous driving computing platform today, which vastly improves power efficiency and drops physical size compared to the original unveiled at CES earlier this year. The new single-core configuration will be used by Baidu in its own self-driving cars, as part of thepreviously announced partnershipbetween the two companies to create a complete, “cloud-to-car” autonomous driving system.
+
+The PX 2 AI computer is the second generation of DRIVE PX, and one that Nvidia says is in use among a number of OEMs, research institutions and other partners. It makes it possible to process visual and sensor data from self-driving car-mounted monitoring systems in real-time on board a vehicle, which is crucial for autonomy because it has to be able to act without a connection to a powerful remote server.
+
+Depending on the needs of car makers and researchers, PX 2 can scale from this single-core, palm-sized form factor to multi-core, multi-GPU builds, and even to multiple DRIVE PX 2s working in concert in a single car. A single PX 2 can provide AutoCruise and HD mapping features using input from on-vehicle cameras and sensors.
+
+The new system-on-a-chip should help considerably with expanding the potential appeal of PX 2 among clients, since its reduced size and power footprint will both be appealing to electric vehicle makers looking to minimize added wait and power requirements. Part of building high-efficiency, zero emission cars is paring down vehicle weight and power draw wherever possible – even relatively insignificant individual savings in various components can add up to an aggregate effect that has a measurable impact on range.

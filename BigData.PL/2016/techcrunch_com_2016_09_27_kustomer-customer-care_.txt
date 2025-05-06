@@ -1,0 +1,47 @@
+Kustomer, founded by Salesforce alums, nabs $12.5M to repair customer care
+
+The need to contact customer support is the bane of many a modern consumer’s existence: not only is it likely that you are doing it because you have a problem that needs fixing, but you are inevitably sucked into a vortex where you have to sit on the phone for ages (or wait in stasis for emailed replies), repeat your details several times to subsequent assistants, and potentially risk losing contact and starting again.
+
+A new startup calledKustomeris getting ready to come out of stealth with an aim to fix all that by rebuilding the CRM from the point of view of the customer rep. Ambitiously, it is also trying to change the general business mindset in the process. By building a platform that is easy enough for everyone to use and holistic in the data it contains, Kustomer believes that anyone in a company, not just those relegated to the CRM silo, could act as a customer service rep.
+
+“Everyone should be able to support the customer,” in the words of CEO and co-founder Brad Birnbaum.
+
+Ahead of a launch later in the year, it’s coming out of stealth today announcing $12.5 million in funding. That includes a $10 million Series A led by Canaan Partners with BoxGroup, Plug and Play Ventures, angels like ex-Salesforce COO George Hu; Alex Bard, CEO of Campaign Monitor and ex-EVP of Service Cloud (Salesforce); and Jeff Leventhal, founder and former CEO of Work Market. And it also includes a $2.5 million seed from Boldstart Ventures and Social Leverage).
+
+For a CRM startup, Kustomer has some notable DNA. Its two co-founders, Birnbaum and Jeremy Suriel (CTO), have a history of founding, building and selling enterprise tech companies.
+
+The most recent of these was a startup called Assistly, a cloud-based app that also sought to reinvent some of the practices that went into how customers were managed. It was eventually acquired by Salesforce for$80 million in 2011— a bargain, considering that Salesforce eventuallyrebranded it as Desk.com, turning it into one of the cornerstones of its multi-billion dollar business.
+
+After staying at Salesforce for three years, Birnbaum and Suriel made a surprise sidestep, taking roles respectively as CTO and chief architect at Sean Parker’sAirtime, the video chat startup that struggled early to on find its feet (Parker once described its rocky launch like “eating glass“).
+
+Airtime has seen a lot of staff changes, and Birnbaum was its third CTO, lasting only a year. “It was a fun experience,” he said simply (and maybe diplomatically).
+
+That brings us to Kustomer, which is what the two started after leaving Airtime.
+
+Currently in a closed beta, the company is not yet unveiling its platform to the public, although you can see a screenshot of how it looks above.
+
+Birnbaum and Rob Bailey, the company’s COO who had been the CEO of DataSift, also told me about what it’s setting out to do, and what makes it different from the multitude of other CRM packages that are out there, from a number of new startups; big players like Twitter, hoping also to get look into the customer service market; and of course the biggies such as their own Assistly, which essentially is still in use and being updated with the might of Salesforce behind it.
+
+“There are quite a lot of CRM players in the market but only a few serious ones,” Birnbaum said. “Most of them are over a decade old, and we see that as an opportunity to improve the product. We believe everything needs to be reinvented once a decade, and a lot of these products are stagnant, invented before the iPhone even existed.”
+
+Birnbaum described a lot of CRM software today as “point solutions, doing one thing very well like trouble tickets but not focused on a holistic customer experience.”
+
+Kustomer is a modern take on the CRM challenge. It starts with the premise that the usual way of handling customer support — assigning a customer and his/her problem a ticket — is wrong because it instantly creates case silos, and de-humanises the whole effort.
+
+“People need to be the atomic unit. It’s about supporting a customer and not a case,” he said. He genuinely seems to feel that the more you treat a person like a number, the worse that person gets treated. More practically, though, another problem with that when an issue does become more complicated, it’s harder to move that ticket around and find the right person to help.
+
+Kustomer’s platform lets the company view a user on a timeline encompassing his or her whole history with a product and the company, so that the person who takes the support call can interact better with that person to try to figure out a solution (or send that person to the right department to get it resolved).
+
+Say you bought a connected fire alarm. The company creates a file for you when you make the purchase, and then you encounter an issue trying to use the product. You call in, get the help you need, and then that gets logged. Then if you call again with a problem, because they have a history of your past purchase, they can automatically ask about firmware updates, and other diagnostic details.
+
+The platform can also “snooze” and “wake up” customers, who might be due for upgrades, to get contacted. Kustomer also appears to include some intelligence to help suggest actions to the employee who is handling an inbound query, measuring “the event, object and sentiment” of that query.
+
+The company’s decision initially to target smaller businesses fits with Kustomer’s premise that everyone at a business, could, in theory work in customer support. In many smaller companies, sometimes that’s actually the case simply due to a lack of staff. But collectively the SMB sector is huge: just in the U.S. it is made up of 7 billion businesses and worth $36 billion for CRM services alone, according to Gartner.
+
+Still, it seems like a big challenge to me think everyone could or would want to interact with customers. It seems like here, Kustomer, is also tapping into a bigger trend, that of people multitasking in the workplace and being prepared to wear many hats.
+
+To get people to this point, you have to have products that will make their life easier, and that is another tech trend that the startup is tapping:
+
+“Beyond the seasoned team, we chose to invest in Kustomer because the platform is truly revolutionary,” said Warren Lee, general partner at Canaan Partners. “Consumerization of the enterprise is something we’ve seen work well in cases like Slack, but Kustomer’s approach to this problem is really the first of its kind.”
+
+Kustomer will start to offer its first products commercially in November (when it will reveal pricing), initially targeting small businesses with 100 or fewer employees.

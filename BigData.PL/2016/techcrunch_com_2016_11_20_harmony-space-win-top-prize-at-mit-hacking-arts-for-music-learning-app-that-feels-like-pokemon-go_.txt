@@ -1,0 +1,55 @@
+Harmony Space wins top prize at MIT Hacking Arts for music learning app that feels like Pokémon GO
+
+In Boston this weekend, software developers, hardware engineers, artists and entrepreneurs gathered for theHacking Arts 2016conference and hackathon at MIT.
+
+Of twelve finalists, the following teams took top honors.
+
+A list of the winners, and descriptions of their projects provided by MIT followsat the end of this post.
+
+Hackathons are typcially hosted by corporations or schools to promote certain technologies, drum up new product ideas, and identify potential recruits. But the Hacking Arts in
+
+ent calls on participants to try something a bit more grandiose.
+
+Interdisciplinary teams are asked to “design and create a prototype that enhances the arts, [or] improves access to the arts,” and could “change the world through technology and the arts,” according to the Hacking Arts 2016 website.
+
+Hackathon organizer andSloan MBAcandidate Helen Smith said this year, 250 people were invited out of a pool of 700 applicants. Ultimately, 177 participated, 58% of them women and 87% of them students, mostly undergraduates. Most were from Boston and New York, but others flew in from universities around the country.
+
+The projects they formed spanned from mobile apps and wearables to immersive entertainment experiences. A preponderance of hackers sought to use augmented reality, virtual reality and robotics to accomplish different goals, said Smith. A common theme this year was the idea of using tech to inspire empathy, she noted.
+
+Tech providers courting developers at the event and mentoring teams there included: Adobe, Autodesk, Shapeways, Jibo and Whoaboard. Participants flocked to demos and scrambled to learn how to use the Artmatr painting robot and JIBO personal companion robot in their projects, Smith said.
+
+ArtsyCTO Daniel Doubrovkine, who participated on the judging panel for the Hacking Arts 2015 and 2016 Hackathons, said emphasis had shifted from virtual reality to augmented reality from 2015 to 2016 at the hackathon.
+
+This years’ participants had been very music-focused, with about half of the finalist teams incorporating sound design into their projects in some way, he said. Surprisingly, in a year when the Echo became mainstream, no finalists used voice recognition or voice control in their projects.
+
+The CTO said he was inspired by the prototypes built and demonstrated at the event, but would advise teams to be even more experimental in their work at school and on these projects.
+
+“People are always looking for purpose first. But we find purpose sometimes accidentally just through developing wild ideas,” the CTO said.
+
+Hacking Arts is organized by MIT Sloan School of Management’s Entertainment, Media & Sports Club, in partnership with TheMIT Center for Art, Science & Technology (CAST)and theMartin Trust Center for MIT Entrepreneurship.
+
+The Hacking Arts 2016 Hackathon winners were:
+
+WINNER
+
+HARMONY SPACE: “This application is a musical thinking tool. It remaps our spatial sense to our auditory sense. We can now hear space and see harmony. Your position X (left,right), Y (up, down) and Z (forward, back) become pitch-shifting controllers of 3 separate musical notes. This means that every location in space is a “possibly-harmonic” location. Like Pokemon floating in special places, this world has orbs that show you the exact locations of major chords, minor chords and more, using the 3-D space tracking and augmented reality capabilities of Hololens.”
+
+Created by Max Harper, Matthew Seaton, and Evan Huggins
+
+FIRST RUNNER UP
+
+REVIVE:“Thissystem integrates virtual reality, tactile feedback, and music to teach Tai Chi.The system provides visual cues through a virtual reality environment so that a user knows how to move, and gets feedback on whether their move is correct. The system serves to illustrate the abstract concept of ‘Chi,’ or flow of energy, through interaction-based visual effects. It also provides tactile feedback to drive the user’s movements.”
+
+Created by Paul Reamey, Tim Gallati, Luna Yuan, Jiabao Li, Qi Xiong, and Jingchen Gao
+
+SECOND RUNNER UP
+
+MÖBEL:“A ‘social furniture’ art project, möbel brings people together in public spaces.The furniture is intentionally annoying to construct and cannot be built by one person alone. When at least two people work on it, the furniture lights up and activates. The möbel chair, as it is being built and in use, requires two people to face each other in a constrained space…forcing people to literally break down barriers and build something from them together.”
+
+Created by Kiran Wattamwar and Christina Sun
+
+HACKER’S CHOICE AWARD
+
+INKFINITY: “Using virtual reality, InkFinity takes users on a poetic journey inside of ink paintings.  Viewers enter the world depicted in artworks, explore the aesthetics in full detail, and experience the cultural ethos in three dimensions.”
+
+Created by Sharon Yan, Yaqin Huang, Daisy Zhuo, and Lei Xia

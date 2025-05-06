@@ -1,0 +1,77 @@
+What’s this whole email thing about, anyway?
+
+What do you know about the Clinton email scandal? If you’re anything like me, not much — yet! Let’s take a stroll into our political Swamp of Sadness where both parties are currently mired. One candidate became stuck there while trying to beat the dead horse of the Crooked Hillary meme and the other candidate is sinking simply because government email is just so damn crappy.
+
+Ready, Atreyu?
+
+What is an email server?
+
+This is the primary question, and the one that I suspect not many of us understand. An email server is a computer designed to send and receive email. It is not difficult to set up —anyone with some knowledge of Ubuntucan do it — but it is generally discouraged with the rise of cloud solutions like Google Apps, and the endless updates and tweaks necessary to keep it secure are often daunting. If you’re not careful, your email server can turn into a spam factory or hackers can crack your account and read your email. This is very common.
+
+Most of us have two email addresses, one for work and one on a service like Gmail. The Clintons have their own email system — Clintonemail.com — and it runs on Microsoft Exchange Server 2010. You can visit the serverhere. There are a few other domains associated with the Clintons, as well, but she primarily used the Clintonemail.com domain on her Blackberry.
+
+Why would you want your own?
+
+You would want your own mail server if you didn’t like the one someone made you use. You’d also want your own if you want complete control of your email from stem to stern. Both of these things are true in the Clintons’ case.
+
+The initial impetus for the private server came in 2009 when Clinton and her friends wanted to use Blackberries for communicating with each other and for reading, presumably, State Department mail. There was no practical solution for Clinton to check her email on the go, as the system required a secure laptop to connect to secure government servers. Therefore, she relegated secure email to a standalone, secure laptop and used her own email address for correspondence with her staff.
+
+In fact, Clinton and her stafferscomplained about the government email system in 2011.Anne-Marie Slaughter, former director of the State Department of policy planning wrote:
+
+A solution was proposed wherein Clinton could set up a server to forward secure email from her office, but this was too difficult and Clinton balked. Ultimately she continued to use her BlackBerry after being warned by security personnel that it was unsafe. This means she may have sent an email regarding State Department business using her BlackBerry. Coincidentally, the FBI found that the Clinton email server contained eight top-secret email chains and 36 secret email chains.
+
+The desire to have a private email address is strong in government.House Oversight Committee Chairman Rep. Jason Chaffetz (R-UT)used his Gmail address on his official-looking super-cool-looking business cards. This is the same guy who wanted Clinton indicted for using her own server.
+
+We all know Jason Chaffetz would never use his personal email for work.pic.twitter.com/e4jaOXkvgT
+
+— Abraham White (@abwhite7)July 7, 2016
+
+Why does Rep. Chaffetz get a pass? Checkthis out:
+
+In light of intensified scrutiny on Clinton’s email practices, it seems a worthwhile question to answer: Why are members of agencies such as the State Department required to use government email accounts, while members of Congress are not?
+
+The answer lies in federal open records laws — most of which don’t apply to Congress.
+
+The Associated Press (AP) reported on this extensively last year, finding that members of Congress aren’t required to “use official email accounts, or to retain, archive or store their emails, while in office or after.” The Freedom of Information Act (FOIA) — the law that allows the public to request internal documents from government agencies — for example, does not cover members of Congress. Congress is also not subject to the Federal Records Act, which requires all federal agency employees to keep accurate records of their activities.
+
+Federal agency employees, of course, include Clinton, who was found to have violated the Federal Records Act by using a private email server while serving as secretary of state.
+
+The reason Congress is not subject to these rules, however, is because Congress makes its own rules. And Congress has never decided that it needs a law requiring its members to maintain records and make those records available to the public.
+
+Clinton, as a Federal agency employee, works under different rules, but she’s not alone in flouting the rules. Former Secretary of State Colin Powell, under the Bush administration, ran his own email server and later wiped it, saying of thefiles stored therein: “I don’t have any to turn over. I did not keep a cache of them. I did not print them off. I do not have thousands of pages somewhere in my personal files.”
+
+Jeb Bush, while Governor of Florida, did the same thing:
+
+Finally in 2009 it was discovered that 22 million emails were deleted from a server run by the Republican National Committee called gwb43.com. Bush staffers, including Karl Rove, used this email domain — which stood for George W Bush, 43rd President — and the staffers wiped it when Congress began to investigate the dismissals of the U.S. Attorneys.This“required the Bush administration to reveal that not all internal White House emails were available.”
+
+So clearly there’s a precedent for this “extraordinary” behavior.
+
+Why shouldn’t government employees have their own servers?
+
+Running your own server could be a way for government officials to skirt the Freedom Of Information Act. This was avery pressing concern early on, but it’s unclear if this was the true impetus. Because government email servers are managed and archived by the State Department, they can be searched at will and a record of official business be kept. Clinton’s server couldn’t be audited in this way.
+
+It’s also very dangerous to run your own server.
+
+“Although the American people didn’t know about this, it’s almost certain that foreign intelligence agencies did, just as the NSA knows which Indian and Spanish officials use Gmail and Yahoo accounts,” ACLU technologist Chris Soghoian toldWired. “She’s not the first official to use private email and not the last. But there are serious security issues associated with these kinds of services… When you build your house outside the security fence, you’re on your own, and that’s what seems to have happened here.”
+
+The biggest problem arose when it was discovered thatto use the serversfor government business, employees had to disable many of the features of their government email servers in order to receive email from the Clintonemail domain. This included phishing programs that kept staffers from being scammed.
+
+Were Clinton’s emails hacked? We don’t know, althoughsecurity experts believe that it could have been probedby China, South Korea and Germany. After all, Exchange Server is a Microsoft product. There’s bound to be a bug.
+
+What is the current fuss about exactly?MediaMattersdescribes the situation succinctly:
+
+…after she took questions from the reporters yesterday about the email saga, the press focused in on the fact in reviewing her private emails, Clinton found roughly 60,000 messages. She handed over 30,000 to the State Department and determined the other 30,000 were personal in nature and disgarded them.
+
+It’s these 30,000 “personal emails” that are creating a stir. The Trump camp is also suggesting that these emails probably contain classified information, that they could have been compromised, and that having your own email server while acting as Secretary of State is tantamount to treason. Luckily, precedent (see above) shows us otherwise.
+
+What was the ultimate verdict?
+
+FBI Director James Comey said that “Although there is evidence of potential violations of the statutes regarding the handling of classified information, our judgment is that no reasonable prosecutor would bring such a case. In looking back at our investigations into the mishandling or removal of classified information, we cannot find a case that would support bringing criminal charges on these facts.”
+
+Clinton was “careless” but not criminal.
+
+What about all these emails that Wikileaks just released?There is a concurrent narrative spreading about a trove of emailsreleased by Wikileaks. These emails came from DNC servers unconnected with the Clinton’s. That’s right: none of the recently released emails — which experts are blaming Russian intelligence for leaking — came from that Exchange Server we talked about above. Trumpoften conflates the two in public, suggesting that the Russians or Chinese may have emails related specifically to the Clinton email server. This is still unclear and apparently Trump meant the suggestion as afun joke.
+
+So now what?So now a few things should happen: the government should rework its email and security protocols to take into account aworld beyond Blackberry. It should maintain records of government correspondence as stringently as banks are required to store their correspondence and it should ensure that the email system be up to date and usable. Knowing what I know about government tech services I suspect this will take longer than expected and there’s very little budget to upgrade everyone to iPhones and hardened Postfix. Until this happens, however, White House staffers will probably be checking their Gmail more than they check their secure mail.
+
+Ultimately the FBI found that nothing was untoward in Clinton’s situation and while the decision to run her own server was reckless, it was not unprecedented. This will not stop Artax the beloved political horse from sinking into this particular political swamp, but I hope this digest is helpful when arguing on Facebook.

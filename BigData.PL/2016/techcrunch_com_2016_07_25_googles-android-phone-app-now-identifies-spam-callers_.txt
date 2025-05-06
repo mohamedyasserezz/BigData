@@ -1,0 +1,9 @@
+Google’s Android Phone app now identifies spam callers
+
+There’s nothing worse than answering a call from a number you don’t recognize and getting locked into an awkward sales or marketing call. Well, those incidents may be less frequent for many afterGoogle added spam call detectionto its phone app for Android.
+
+The Android phone app received a major update in 2013 when it added caller ID for incoming calls from businesses as part of the launch of Android KitKat. Now it is gettinga whole lot more usefulfor spam recognition, although the feature is initially limited to those who own Nexus or Android One devices.
+
+Spam detection is a core part of Truecaller,a European startup that offers a smart caller appwhich is particularly popular in India and other emerging markets. Truecaller also provides caller ID for incoming calls using a directory of numbers that are ‘crowdsourced’ by its users. Google said its new feature will allow users to block and report spam numbers, which hints that the company will use data from users to recognize sources of annoying calls, but its Android caller app doesn’t have the same community-approach as Truecaller. Nonetheless, the spam detection feature is sure to be useful for users who weren’t aware it was possible before now.
+
+Apple is also getting in on the act with a feature insidethe upcoming iOS 10 releasethat helps identify spam calls. The software is already available in beta for iOS users with a developer account but coming soon for everyone else.

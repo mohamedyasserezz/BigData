@@ -1,0 +1,9 @@
+Estimote announces the Mirror, a dongle that turns any TV into a smart beacon system
+
+[tc_unified_video code=”46cdd68b-3008-3b26-a887-a63348e225f4″]
+
+Imagine walking into a store, picking up a pair of shoes, and seeing specs for the kicks appear on a TV next to the display. Or imagine standing in front of an airport departures screen and seeing your flight appear and then a map displaying the best route to your gate. These use cases were supposed to be the killer app for beacons and, finally, these dreams are being realized.
+
+The Mirror fromEstimotehas gotten the ball rolling. The system is basically a Snapdragon processor connected to an HDMI and USB jack. You plug it into any smart TV and it displays notifications when users approach the device with a beacon-compatible phone or you move a beacon near the Mirror. For example, you can hide a beacon inside of a product and when you approach the Mirror it will trigger a video of the item or even an interactive view of all of its features.
+
+Estimote is shipping the Mirror to developers and will bring the hardware to commercial users over the next year. I spoke with Estimote co-founder Steve Cheney about the product and how it will work in the real world. It’s a pretty cool product with amazing potential.

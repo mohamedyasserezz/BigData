@@ -1,0 +1,23 @@
+Glassdoor sued by user whose email was ‘leaked’ instead of BCC’ed
+
+A little over a week ago, Glassdoor began emailing its users to let them know of an update to the site’s terms of service. But rather than BCC’ing its anonymous reviewers, Glassdoor dumped their email addresses into a regular ol’ CC field, effectively outing at least 600,000 members of the site.
+
+Now, one of those outed users is suing.
+
+Melissa Levine, a Los Angeles-based television researcher, filed a class-action lawsuit against Glassdoor today, claiming the employment review site violated state law by including her email address in the CC field and exposed her to potential retribution from her former employers. A Glassdoor spokesperson said the company has not yet been served and therefore cannot comment on the case.
+
+“That the strict anonymity of users on Glassdoor could be so carelessly and recklessly violated and cast aside in such an amateurish fashion should make us all question the extent to which Glassdoor places profit over people,” Ben Meiselas, an attorney for Levine, told TechCrunch in a statement.
+
+Glassdoor encourages employees to review their current and former employers anonymously — users can’t view other reviews without first adding their own. Many of the reviews on Glassdoor are perfectly polite, but negative reviews often pop up, and it appears that Levine might have left a few unhappy reviews of her own.
+
+The company acknowledged the mistake in a statement shortly after the terms of service email update was sent.
+
+“As we’ve previously disclosed, a small percentage of Glassdoor registered users’ email addresses were viewable in the “to” field to a subset of other users who received a routine email. No other information was viewable or revealed. We have directly apologized to the affected users. We do take the privacy of our users very seriously and are taking corrective steps to ensure this doesn’t happen again. This certainly doesn’t live up to our own expectations of who we are and what we represent,” a Glassdoor spokesperson told TechCrunch.
+
+The email went out to approximately 2 percent of Glassdoor’s 30 million active monthly users and was sent in batches of 1,000 users at a time, so each user could see the email address of 999 other Glassdoor users.
+
+Glassdoor just raised a$40 million roundin June and is valued at $1 billion. Theterms of service updateincluded a provision that forbids users from engaging in class action lawsuits, Meiselas explained. “The email where they violated the privacy of its users was the terms of service update with the arbitration provision. It is unconscionable to put forward an arbitration provision and in the same act (same email) violate the law,” he said in an email.
+
+Users can opt out of the arbitration clause by mailing a form to Glassdoor by September 12.
+
+This story has been updated with comments from Glassdoor.

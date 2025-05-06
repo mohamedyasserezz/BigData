@@ -1,0 +1,17 @@
+MongoDB launches Atlas, its new database-as-a-service offering
+
+MongoDB, the company behind the eponymous open source database, is launching Atlas today, its third major revenue-generating service.
+
+Atlas is MongoDB’s database-as-a-service offering that provides users with a managed database service. The service will offer pay-as-you-go pricing and will initially allow users to deploy on Amazon Web Services (AWS), with support for Microsoft Azure and Google Cloud Platform coming later.
+
+MongoDB Atlas complements the company’scommercial offering for enterpriseswho want to run the service on-premise, andMongoDB Professional, which provides businesses with support and access to the company’sCloud Managerand other tools. Atlas fits somewhere between these two services. It allows anybody who wants to use MongoDB to quickly provision it in the cloud, get support, and only pay an hourly fee.
+
+MongoDB’s VP of Strategy Kelly Stirman tells me that he believes most developers love MongoDB because it makes them productive (though it’s worth noting that there are, of course, also plenty of developers who don’t love MongoDB). “MongoDB is great for developing the application,” he said. “But when it comes to deploying the application in production, that’s where developers can get stuck. With this, we took all the experience we have supporting large systems and deployments in production — and the software we developed to help people. As a user, you don’t need to know much more than where you want to deploy and what size database you need.”
+
+With DynamoDB, Amazon also offers its own NoSQL database, of course. Stirman, however, argues that companies end up locking themselves into Amazon’s platform by using this service. “Our strategy here is to give you independence from the underlying cloud provider and let you find the providers that has the best set of SLAs and region support — and you can continue to use MongoDB even if you change the underlying cloud provider,” he said.
+
+The company argues that Atlas will offer users a database platform that is fault-tolerant and self-healing. Atlas will monitor the databases and provide backups as well, with the data always being replicated in different availability zones. As for security, MongoDB says it provides end-to-end encryption of all of your data and it’s using Amazon’s own tools like its Virtual Private Cloud feature tokeep databases safe.
+
+MongoDB tells me that prices will start at “less than a cup of coffee” (which in the age of third-wave roasters is a pretty flexible definition, of course) and will depend on the size of underlying AWS server you want MongoDB to provision for you.
+
+In addition to the new Atlas service, MongoDB also today announced that its connector for Apache Spark has now hit general availability. With this, MongoDB users can now use Spark’s analytics processing engine to query live MongoDB data. MongoDB worked closely with Databricks, the creators of Spark, on this integration.

@@ -1,0 +1,9 @@
+New sensor system can predict when senior citizens are heading for a fall
+
+Falling is awful. It causes irreparable harm to senior citizens and the fear of falling reduces senior citizen mobility drastically, creating a feedback loop that can be catastrophic. Now, thanks to a team at theSinclair School of Nursing and the College of Engineering at the University of Missouri, caregivers can predict falls up to three weeks out, allowing for care and assistance before its needed.
+
+The system is non-wearable and uses cameras to assess gait speed and stride length. The researchers found that a “gait speed decline of 5 centimeters per second was associated with an 86.3 percent probability of falling within the following three weeks.” Further, a shortened stride length “was associated with a 50.6 percent probability of falling within the next three weeks.” With these two pieces of data caregivers can intervene before things get out of hand.
+
+“Aging should not mean that an adult suddenly loses his or her independence,” said Marilyn Rantz, Professor Emerita of Nursing. “However, for many older adults the risk of falling impacts how long seniors can remain independent. Being able to predict that a person is at risk of falling will allow caretakers to intervene with the necessary care to help seniors remain independent as long as possible.”
+
+The team based their system at TigerPlace, a retirement residence in Columbia, Missouri. They installed sensors around the location and set up an email alert system “when irregular motion was detected.” It’s a great use of some intelligent technology and, what’s more, it requires no wearables and is completely passive.

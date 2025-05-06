@@ -1,0 +1,45 @@
+After 3 weeks, Worldpay still fumbling millions of Etsy transactions
+
+Etsy users had another bad week as payment processor Worldpay continues to cause problems. Late last week, some Etsy users began reporting that they had experienced duplicate charges.The forum on Etsy for duplicate chargesis approaching one thousand posts.
+
+In a statement, Worldpay admitted to causing the duplicate charges for Etsy users in its attempts to rectify the problem.
+
+“Ongoing technical work related to resolving this issue has resulted in a limited number of duplicate charges to Etsy customers.”
+
+Three weeks ago,Etsy merchants began reporting serious payment processing issues.Thousands of posts on Etsy’s bugs forum began pouring in. After a few days,it came to light that Etsy’s payment processor Worldpay was the one directly responsiblefor the outage.
+
+TechCrunch has also learned that a software update on one of Worldpay’s servers caused the outage. Despite learning more about what caused the outage, we still have no idea how close the company is to processing all of the backlogged payments.
+
+“Unfortunately I can’t quantify progress – understandably, to do so would be take people away from the core effort of resolving the issue,” said an anonymous source close to Worldpay.
+
+We sure hope that Worldpay internally has an idea of their own progress. The company seems to be right on top of the small size of the number of their customers impacted.
+
+“Worldpay is aware of an isolated issue on one of our gateways, resulting in a delay to settlement for a small number of customers,” said Worldpay in response to initial problems reported by Etsy customers.
+
+When you have 15,000 frustrated posts from your customer’s customer, and you’re the one causing the problem, you cannot continue to call the problem small. One percent, Five percent or Ten percent, it’s all a massive amount of money.
+
+These types of outages are common with tech companies but they rarely last more than a few hours or days. Etsy customers have been experiencing delays in processing refunds for weeks.
+
+As time rolls by, the company seems to be slowly getting more proactive, or at least more vocal about it. Yesterday the company made an announcement on its forums that it created a special payments task-force within the company to address lingering issues from customers. The company has issued refunds to buyers and sellers that were charged twice, and asks anyone still affected to write into Etsy Support.
+
+“Affected members will receive an email with more details and should receive a credit for the duplicate payment in three to five days,” said Stephanie Grodin, Director of Payments Product at Etsy. Last week, we instituted a few new processes to improve the resiliency of our platform, and since then new payments have been processing without delays.”
+
+Etsy isn’t the only Worldpay customer getting dragged through the weeds by the payments processor. Taxi services and gambling establishments are getting their share of the madness as well. This is millions of dollars of other people’s money that Worldpay is fumbling with.
+
+Our payment service provider@Worldpayare still experiencing withdrawal delays. We sincerely apologise for the inconvenience caused
+
+— Unibet Racing (@UnibetRacing)July 19, 2016
+
+https://twitter.com/Kabbee/status/753622303779459073
+
+Our payment provider Worldpay are continuing to experience issues processing withdrawals. We're working to fix ASAP. Sorry for inconvenience
+
+— BETDAQ (@BETDAQ)July 19, 2016
+
+At this point, it almost seems irresponsible for Etsy to continue to use Worldpay for processing. Etsy is facing serious competition in the handmade goods e-commerce space and needs as many things to break in its direction as possible as it pushes up against industry giants like Amazon and Ebay.Amazon has already launched Handmade, a service very similar to Etsy, albeit with higher merchant costs.
+
+Etsy has been drastically underperforming since its IPO. Etsy stock has lost over 64 percent of its value from its peak on the first day of trading. Etsy stock is down almost 3.5 percent over the last five trading days. This comes ahead of the company’s second quarter earnings that will be announced in early August.
+
+[graphiq id=”jqTmz3jBvdr” title=”Etsy Inc. (ETSY) Stock Price – 7 Days” width=”600″ height=”549″ url=”https://w.graphiq.com/w/jqTmz3jBvdr” link=”http://listings.findthecompany.com/l/16266642/Etsy-Inc-in-Brooklyn-NY” link_text=”Etsy Inc. (ETSY) Stock Price – 7 Days | FindTheCompany”]
+
+On the other-side of the table, nobody in the financial world seems to care about Worldpay at the moment. Previously, Worldpay was under the umbrella of the Royal Bank of Scotland. The company was sold off to private equity for a few years and is now publicly traded. Their stock is up three percent over the last five trading days.

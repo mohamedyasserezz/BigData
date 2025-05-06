@@ -1,0 +1,31 @@
+Security researcher gets threats over Amazon review
+
+For the average Amazon shopper, reviews are just a casual part of the experience. You might pay attention to apun-filled reviewby George Takei or spend half an hour laughing at the parody reviews for “Fresh Whole Rabbit,” but you probably don’t thoroughly examine every review before buying a product.
+
+But for sellers, reviews are no laughing matter. Amazon retailers sometimes go to extreme lengths to guarantee good reviews, as security developer Matthew Garrett recently discovered when he wrote aone-star reviewof an internet-connected electric socket. When Garrett politely pointed out that the socket in question was woefully insecure, he received emails from the manufacturer claiming that the review would get employees fired and that other reviewers were campaigning to get Garrett’s review taken down.
+
+The socket in question is theAuYou Wi-Fi Switch, a $30 device that lets you turn the power from a wall outlet on and off using your phone. It’s a nice way to turn your lights on and off if you don’t want to invest in smart bulbs, or to turn other plugged-in devices on and off. The AuYou Switch works whether or not you’re home — so you can switch your lights on in your apartment while you’re still in your office.
+
+But like so many Internet of Things devices, the AuYou switch seems to have a serious security flaw. As Garrett explains in his review, if your phone is connected to your home Wi-Fi, it sends the on/off command to the socket directly. But if you’re not home, your phone sends the command to a server in China, which then passes the command along to the socket.
+
+“The command packets look like they’re encrypted, but in reality there’s no real cryptography here at all,” Garrett explained in his review.
+
+The result is that the unique network ID of your socket is transported in an unencrypted form to the Chinese server — and anyone who gets their hands on the ID can then control the socket. The only way Garrett could prevent his socket from being compromised was to block the server, which would keep anyone, including him, from controlling the socket remotely.
+
+“If anybody knows the MAC address of one of your sockets, they can control it from anywhere in the world. You can’t set a password to stop them, and a normal home router configuration won’t block this. You need to explicitly firewall off the server (it’s 115.28.45.50) in order to protect yourself. Again, this is completely unrealistic to expect for a home user, and if you do this then you’ll also entirely lose the ability to control the device from outside your home,” Garrett explained in the review.
+
+Getting your internet-connected socket taken over by an intruder isn’t exactly a cybersecurity nightmare — at worst, you might end up with a hacker treating you to a strobe light party as they switch all your lights on and off. There’s also a slight possibility that repeatedly cutting the power to one of your devices might damage it. But this isn’t the end of the world; it’s just a sort of dumb security flaw.
+
+This makes the manufacturer’s outsized reaction all the more unusual. Garrett sent me a few of the emails he received from the company.
+
+“Just now my boss has blamed me, and he said if I do not remove this bad review, he will quit me. Please help me,” the representative wrote. “Could you please change your bad review into good?”
+
+Garrett responded that he would update the review if the manufacturer fixed the flaw. The AuYou representative insisted she would be fired if the review was not updated. A week later, she followed up again, asking Garrett to take down the review. The representative then said that she would report Garrett to Amazon if he didn’t take down the review, and that other Amazon reviewers had written in to complain about it.
+
+Garrett says he leaves a lot of security based reviews on Amazon and this has never happened to him.Of course, no one needs to lose their job over a single Amazon review. Garrett says he’s not sure if he’s being manipulated or if someone’s job is really on the line.
+
+“If I thought that there was a realistic chance that people were going to lose their jobs over something I was writing, that’s something that would make me reconsider,” he says. “On the other hand, the attitude that many companies have of not giving any indication of caring about the security of the people they’re selling to is horrifying in its own way. That is important — to make people aware when choosing these devices.”
+
+Garrett has a point: security researchers do a public service when they let customers know about security vulnerabilities in popular IoT products. Amazon is a natural clearinghouse for these sorts of notices, and researchers shouldn’t face threats for posting honest security reviews.
+
+TechCrunch reached out to Amazon to ask how it mediates disagreements between reviewers and sellers, but Amazon declined to comment, citing consumer privacy. Amazon has a history ofcracking down on sellersfor trying to buy or fake reviews, and hassuspended sellerswho sue reviewers over negative reviews.

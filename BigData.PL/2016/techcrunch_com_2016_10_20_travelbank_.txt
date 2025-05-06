@@ -1,0 +1,27 @@
+TravelBank launches expense account app that pays you for underspending
+
+Employees waste tons of money through expense accounts because there’s no incentive to book flights early, stay at a modest hotel, or dine on the cheap. But a new startup called TravelBank can predict what employees should be spending on trips, help them file their expenses, and even give them cash rewards if they come in under budget.
+
+TravelBank has raised a $10 million Series A round led by NEA and joined by Accel, and today islaunchingoniOS,Android, and web. It was co-founded by Duke Chung, who previously started and sold customer service startup Parature to Microsoft for $100 million.
+
+“The way I look at entrepreneurship is that I like the categories that every company must have” says Chung. “And every company needs an expense product. It’s a basic function, and there’s huge opportunities to create something better.”
+
+TravelBank is targeting small to medium businesses that are too tiny for its SAP-owned competitor Concur, which is designed for Fortune 5000 companies. TravelBank will be free to use at first, and though it plans to monetize it doesn’t have definitive plans for how. Eventually, it could charge per-seat or a percentage of savings.
+
+“Expense management has been a very sleepy space. Maybe because it’s boring it doesn’t attract a lot of talent or innovation. It’s not perceived as a sexy category so there’s only a few competitors. I view that as an opportunity” Chung tells TechCrunch.
+
+TravelBank will be spending much of the $10 million it raised a few months ago on marketing and sales for its newly launched apps. But it benefits from the bottom-up distribution process popularized by Dropbox, and the fact that it’s starting free.
+
+Any employee can sign up and use TravelBank to submit expenses and process their reimbursements by simply taking photos and uploading them with the app. It integrates with popular “general ledger” business software like QuickBooks, NetSuite, or Bill.com. TravelBank can export expenses as PDFs for easy backwards-compatibility with some legacy expense systems.
+
+If users convince the rest of their company to get on TravelBank, their employers can activate the rewards feature that estimates what employees should pay for flights, car rentals, hotels, and meals based on real-time price analysis. If employees are frugal, they can get a portion of that unburnt cash as a thank you for saving their employer money.
+
+$1.2 trillion is spent on travel and entertainment globally, making it the second-biggest controllable spending item for companies behind payroll. Chung himself got fed up watching employees at Parature overspend.
+
+“We found that people increasingly become more excessive when it came to business spending” Chung tells me. “When we knew all the employees and they knew us, they were more frugal, with the startup mentality. But as a company grows and you don’t get to know all the employees as well, you see some breakage and it gets worse of over time with abuse and excessive spending. There was no way to regulate that”, so Chung says he was inspired to build TravelBank to enhance management visibility.
+
+Sometimes spending the big bucks to wine and dine a client can be a smart strategy. That’s why TravelBank lets you exempt spending on clients from your budget, which focuses on the per diem and travel expenditures employees need to get by.
+
+Surprisingly, Chung says TravelBank actually makes employees more efficient. Instead of flying to New York to have a single dinner meeting, employees end up booking breakfast, lunch, and dinner meetings with clients. That way they can exclude those costs, come in further under budget, and get a bigger reward while also squeezing more value out of their trip.
+
+TravelBankwill have to convince small businesses to ditch spreadsheets, emails, and haphazard receipt photos for a standardized app. That will undoubtedly be tough. But if it can address an omnipresent business problem neglected by other enterprise developers, it could help companies apply their capital to what matters while turning employees from selfish spenders into thrifty team members.

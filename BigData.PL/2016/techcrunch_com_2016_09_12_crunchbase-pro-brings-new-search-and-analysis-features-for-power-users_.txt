@@ -1,0 +1,19 @@
+CrunchBase Pro brings new search and analysis features for power users
+
+Today, live on the TechCrunch Disrupt stage,CrunchBase announced CrunchBase Pro, a major update to its heavily used startup database. CrunchBase will still offer the same free features to longtime users, but more advanced search capabilities, market trend analytics, and lists to track industries, people, companies, and investors will add premium value for power users. The new features will cost $29 a month and be available starting today.
+
+Side by side with comparable platforms like PitchBook, CB Insights, and Mattermark the new CrunchBase Pro is fast and simple. Nearly every task can be done from the main page and there is little to no lag, even on complex search queries. The new colorful design, taking a page from Google’s material design, is a huge improvement on its dimly lit predecessor.
+
+To combat messy datasets that make diligence a pain, CrunchBase has been ramping up efforts to clean its data. The work is important to prevent accidental research faux pas like including an entry for both Didi and Didi Chuxing in a ride-sharing funding report.
+
+As the company’s data set has grown from just a few hundred companies in its early days to a database of over 500,000 companies, a community of vigilant users works to keep information up to date alongside a growing team of CrunchBase research analysts. Additionally, 2,700 venture capital funds regularly submit updates and a machine learning framework crawls through the entire dataset to identify inaccurate posts. New partnerships with companies like SimilarWeb, Glassdoor, Apptopia, Enigma, and Product Hunt could also open doors for additional market differentiating data.
+
+“If we can become the LinkedIn for companies or the Facebook for companies and help companies connect with one another, I think that is a really interesting challenge that can take us into the long term,” said CrunchBase CEO Jager McConnell on stage at Disrupt.
+
+Prior to today’s reveal, we got to sit down with the new platform — here are a few features that caught our eye.
+
+As a regular user, one of the most notable changes to the platform is the new space for color-coded searching. Instead of just searching for text, users can generate multi-step queries with up to nine joins and 25 filters for highly specific results. Rather than searching for a gaming company and looking to the “people also viewed” section as a workaround for identifying comparable companies, users can generate inclusive and exclusive searches to build out a specific, sharable list. For example, a seed investor could set a geography of interest to produce a diligence list for a market analysis while excluding all companies that have already raised their Series A.
+
+With all the talk of bubbles recently in Silicon Valley, CrunchBase has built out their own metric for determining the relative rise and fall of startups. The new tool, called Trend Score, is available for companies and venture capital firms and uses metrics like size of round, date of last financing, and profile page views to produce a ranking of these entities that changes with time. Today’s version will display the relative change in rankings in set time increments, but the company wants to put resources into building out additional customization for this feature.
+
+If you’re following tech unicorns like Uber and SpaceX, it’s relatively easy to keep up with up to the minute announcements. But if you’re interested in green tech companies founded in Texas, you might have a harder time tracking down funding rounds. CrunchBase’s new lists feature will allow users to specify updates to be notified about on a weekly or even daily basis. These updates can include acquisitions, funding raised, IPO announcements, major hiring and firing decisions, and can of course be shared with friends and colleagues.

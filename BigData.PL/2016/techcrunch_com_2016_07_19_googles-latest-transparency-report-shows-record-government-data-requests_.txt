@@ -1,0 +1,15 @@
+Google’s latest transparency report shows record government data requests
+
+Google saw a record number of data requests from law enforcement agencies worldwide during the second half of 2015 as the request total passed the 40,000 mark for the first time. That’s up from 35,365 in the first half of the year and 30,140 one year previous,according to the tech giant’s latest transparency report.
+
+Google’s transparency report is an important resource since it provides a glimpse at how international governments and states are trying to use and access our data. And also, importantly, it is an indicator as to how much information Google — one of the world’s biggest holders of internet data — gives up in these cases. It is fairly high level in detail, but it is definitely a start and Google’s efforts have triggered similar reports from other consumer tech companies, including Twitter, Facebook and chat app Line, which handle potentially sensitive user data.
+
+“Google is proud to have led the charge on publishing these reports, helping shed light on government surveillance laws and practices across the world,”the company said in a blog post.
+
+In more detail: the U.S. led the pile with the highest number of data requests. The American government made 12,523 requests for data from 27,157 Google users, with Google providing some form of data — not necessarily the full request — in 79 percent of cases. That total is up from 12,002 requests in the first half of 2015.
+
+Germany (7,491 requests in the second half of 2015 up from 3,903 in the first half of 2015), France (4,174 up from 3,489), the UK (3,497 up from 3,146), and India (3,265 requests up from 3,087) rounded out the top five in terms of request volumes.
+
+Google revealed, too, that it is serving data (or some amount of data) on a fewer portion of requests, as the third chart in the gallery below indicates.
+
+You can read a breakdown country-by-countryhere. The report also includesdetails of HTTPS sites, and details on safer browsing and email usage.

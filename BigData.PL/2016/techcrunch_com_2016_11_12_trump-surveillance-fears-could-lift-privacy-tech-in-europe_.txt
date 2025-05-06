@@ -1,0 +1,117 @@
+Trump surveillance fears could lift privacy tech in Europe
+
+The full ramifications of Donald Trump being the next president of the United States of America will not be known for months — perhaps years. Given he’s a man of many conflicting words it’s near impossible to know which of his pledges and pronouncements he will keep or act upon, likely until his administration is up and running and showing its true colors.
+
+Yet uncertainty can itself be a motivator — and the risk of an authoritarian leader as commander-in-chief of the US’ government’s mass surveillance apparatus has caused many to sound alarm bells already.
+
+https://twitter.com/zackwhittaker/status/796242699825319937
+
+Obama: you have 3 months to shut down as much of the unaccountable secret surveillance state you've built as possible before Trump runs it
+
+— Evan Greer is on Mastodon and Bluesky (@evan_greer)November 9, 2016
+
+https://twitter.com/alwaystheself/status/797063327163760640
+
+Trump has previously said he supports legislation allowing the NSA to hold bulk metadata, albeit with a court authorizing access — tellingThe Daily Signalback in May 2015 that a new oversight court should be created which is “available any time on any day… to issue individual rulings on when this metadata can be accessed.”
+
+He has also previously talked about giving the NSA “as much leeway as possible” to use surveillance to fight terrorism. Yet in the same interview he emphasized the need to balance Constitutional protections with national security considerations, tellingBreibartin October 2015 that “Congress should continue to be the arbiter of that balance”.
+
+Wherever Trump’s own line lies, one thing is clear: with Republicans set to control both houses of Congress, the new president and his party will have sweeping power to shape US surveillance powers as they see fit.
+
+Back in 2013, speaking to documentary maker Laura Poitras, Edward Snowden warned of the US’ mass surveillance infrastructure enabling what he dubbed “turnkey tyranny”.
+
+After the election result this week Snowden pointedly retweeted this warning…
+
+pic.twitter.com/z5WXl57yee
+
+— Edward Snowden (@Snowden)November 9, 2016
+
+Covering fears over how Trump will approach encryption and surveillance policy,Reutersquotes Hank Thomas, COO of cyber security-focused investment fund Strategic Cyber Ventures, arguing that Trump is “probably going to mandate back doors”.
+
+Probably is not definitely, because again there’s no way to be sure right now, but even the existence of a perceived risk is clearly enough for some — Swiss-based encrypted email provider ProtonMail tells TechCrunch it saw an immediate 80 per cent increase in the number of people signing up for its service the day after the US election.
+
+Andlater blogged that signups had doubled.
+
+Perfect timing to switch to Europe-based encrypted email server, i.e. such as@ProtonMailhttps://t.co/Yub8wgMtUWhttps://t.co/5kHPiJ7vVQ
+
+— Romain Studer @romainstuder@genomic.social (@RomainStuder)November 9, 2016
+
+https://twitter.com/penetrate_io/status/796318516018380800
+
+switching from Gmail to@ProtonMailwould be a good idea too
+
+— Kuba Suder 🇵🇱🇺🇦🦋 (@kuba_suder)November 9, 2016
+
+ProtonMail does not track the location of signs ups, but co-founder Andy Yen is sure of the trigger. “This could only be caused by the election,” he says. “I think a lot of Americans woke up and realised that starting next year, Trump controls the NSA.”
+
+In his blogdiscussing the implications of Trump’s election for privacy Yen also writes: “Today, we are seeing an influx of liberal users, but ProtonMail has also long been popular with the political right, who were truly worried about big government spying, and the Obama administration having access to their communications. Now the tables have turned.”
+
+Another startup seeing uplift in the wake of a Trump election is Europe-based messaging app Telegram, which has an end-to-end encrypted messaging ‘secret chats’ feature — and has frequently beencalled out as a blocker to state security agenciesseeking to access comms. It also says it saw a bump in global signups the day after the US election. Although no significant spike from the US itself, according to co-founder Pavel Durov.
+
+“We did notice more users than usual signing up for Telegram globally (about 650,000 new sign-ups just today [Thursday], which is significantly higher than our daily average),” he tells TechCrunch. Back inFebruaryTelegram was reporting an average of 350,000 daily signups.
+
+Following Trump’s election, Durov tweeted that trusting a US-based tech company for secure communications from here on in is “pure madness”.
+
+Trusting a US-based company for secure communication was naive before today. But starting today, it is pure madnesshttps://t.co/tWeOo23CMf
+
+— Pavel Durov (@durov)November 9, 2016
+
+During a livestreamed interview on Thursday, Snowden was asked directly for his thoughts about the risk of Trump inheriting a hugely powerful surveillance infrastructure. And while he cautioned against putting too much “faith or fear in elected officials” — pointing out that Obama, far from ripping up mass surveillance, had embraced and deepened it — he did express concern about what he called “a dark moment in our nation’s history”, urging his audience to work together to build pro-privacy tech alternatives.
+
+He went on to reiterate someof his prior advice, warning that tech companies whose business models are based on data-mining their users inevitably put personal data at risk of access by state agents — name checking Google as a problem company, and conversely singling out end-to-end encrypted messaging app Signal as an example of good practice, noting that when it was subpoenaed it had almost no data to hand over.
+
+Drawing a clear contrast with products created by Google — Snowden emphasized at one point that “everything you type into that Google prompt is being saved forever” — he went on to argue: “The best way to defend against [surveillance apparatus] is to make sure you do not collect information, as a business, that you do not need.”
+
+Yet the big huge problem with the vast majority of US-based consumer tech services, is that theydocollect personal data as payment for the (‘free’) service. And thereforeareat risk of being co-opted by overreaching state surveillance apparatus.
+
+Indeed, we know this already. The Snowden disclosures of 2013 revealed thePrism program— with its long list of mainstream US tech giants that had agreed to hand over user data to the NSA.
+
+Point is, if a US tech service can access data, a US tech service can be made to divulge data to an authoritarian US government. So if Trump decides to use the surveillance state to drive an agenda of social division by, for instance, creating a database of all Muslims in the US, he can — and Silicon Valley tech giants will be forced to help him.
+
+And that’s just the tip of the iceberg.
+
+It recently emerged that Yahoo went further than Prisma — agreeing, in 2015, to a custom US government order toscan users’ incoming email in real-timefor certain keywords.
+
+That arrangement, which only came to light last month, has nowpushed the European Commission to ask fresh questionsabout the robustness of the shiny new personal data transfer mechanism that was put in place between the EU and the US this summer to try to keep greasing the wheels of the data-powered digital economy… Aka the EU-US Privacy Shield.
+
+Privacy Shield’s predecessor,Safe Harbor, was struck down in 2015 by Europe’s top courtafter a legal challenge which had pivoted on Prism and the US government’s mass surveillance program — leaving thousands of business in limbo about the legality of their EU-to-US data flows.
+
+tl;dr European data protection laws and secret US government data access do not go hand in hand.
+
+The Privacy Shield hadplentyofcriticsprior to Trump becoming president-elect. And is facing itsfirst legal challenge. Throw in uncertainty over what Trump means for the future of the US surveillance state and obituaries are already being written for the new deal…
+
+https://twitter.com/maxschrems/status/796356382085758976
+
+If Privacy Shield goes down there will be guaranteed uncertainty for US businesses wanting to process EU citizens’ data in the US. And for EU tech users it will also mean a perception of increased risk to their personal information should they agree to hand it over to US-based consumer tech services — service which might in turn be forced to hand it over to Trump’s NSA.
+
+So maybe more of those European tech users will start to think twice about using mainstream US tech services — and seek out local alternatives instead.
+
+How Trump will use and expand the powers of the surveillance state remains to be seen. But the possibility that he could abuse these powers is not being discounted in the eyes of very many right-minded people. To some it’s clearly a possibility that already feesl like an inevitability.
+
+And that perception, should it persist and sharpen into active protest, could drive an exodus of concerned individuals away from US-based tech services. Especially from those digital products that do not offer the peace of mind of a zero access infrastructure. Nor code that’s open sourced for auditing against any Trump-mandated backdoors.
+
+There really would need to be a wholesale and radical reconfiguring of Silicon Valley business models to securely batten down the hatches…
+
+May seem trivial, but its my corner: tech companies should immediately go to end-to-end encryption and ponder alternative financial models.
+
+— zeynep tufekci (@zeynep)November 9, 2016
+
+On the surface, EU-based pro-privacy tech services look generally well positioned to gain from the perceived risk of a Trump presidency — and from the reality of a Trump presidency, depending on how it plays out. (And on how Silicon Valley reacts.)
+
+Data-mining business as usual under president Trump won’t be a good look, howsoever you try to spin it.
+
+With the caveat that UK-US intelligence sharing links, andintrusive new surveillance lawsset to come into force in the country this year, don’t provide any guarantees to justify fleeing to a UK-based tech alternative. (Some other EU countries have also beensounding more hawkish on surveillance of late too.)
+
+Asked whether the election of Trump presents an opportunity for European tech startups vs the traditional Silicon Valley-based players, ProtonMail’s Yen suggests the fact of Trump’s election could raise the profile of tech’s privacy problem for a whole new group of users — users who previously have not worried about putting their entire life on Facebook. And their entire schedule in Google.
+
+“I think that opportunity has always been there. All Trump does is put a new face on the existing privacy problem, so now it concerns a segment of the population that previously didn’t care as much,” he responds. “In general, Silicon Valley is a liberal bubble, so this wasn’t something liberals in SV or elsewhere really thought about.
+
+“But now, they are terrified by the idea of the Trump led NSA snooping on communications, especially given Trump’s rocky relationship with the media. This really hits home when their beloved tech companies, Google, Facebook, etc, can be forced to become complicit in this spying. This really demonstrates that privacy isn’t just a liberal or conservative issue, it is something that we all need to champion, regardless of our political leanings.”
+
+“This combination of privacy concerns along with existing security concerns however, could be a potent trigger to accelerate the development of Europe’s tech sector and decrease our tech dependence on the US,” he adds.
+
+Sure it may be wishful thinking for ProtonMail to anticipate a steady flow of US signups in the coming years. Or it may not. Even the looming prospect of Trump becoming the figurehead of a vast surveillance empire is proving a scary enough to convince thousands of web users to investigate alternative digital services that offer greater protection for their personal data.
+
+Depending on how things play out with president Trump, an initial upsurge of interest in pro-privacy alternatives in the wake of his election could turn into a major movement — as mainstream liberals wake up to the dark side of data-mining.
+
+As Yen puts it: “The only way to protect our freedom is to build technologies, such as end-to-end encryption, which cannot be abused for mass surveillance. Governments can change, but the laws of mathematics upon which encryption is based, are much harder to change.”

@@ -1,0 +1,13 @@
+Astronomer connects your SaaS with other SaaS for a true in-saas-ception
+
+Your SaaS is just out of control! You’re spending thousands or millions on products – a CRM system, a field operations app, a system to keep your life-like humanoid androids from killing park guests in your Wild West-themed adventure park – and none of these systems talk to each other, especially the ones that keep your robots from falling in love with the guests. What do you do?
+
+Cincinnati-basedAstronomerhas some ideas. The founding team, Ry Walker and Tim Brunk, have created a system to “take disparate data sets and integrate them into an actionable body of information.” For example, you can use Astronomer to track actions of the wholesome country girl Android as she slowly begins to remember all the horrible things that were done to her over time and cross-reference the customers who were kind to her. As long as the SaaS solution has an API Astronomer can make the connections.
+
+“The implications of this are wide ranging. By integrating all of an organization’s data, Astronomer not only powers business intelligence and marketing initiatives, but we can also automate event-triggered systems and optimize huge fleets of machinery,” said Walker. “We are completely built on open source technology, which gives the decision-makers more insight and control. Additionally, most pieces are built to ‘play nicely’ with open source components. For example, if we write our job code using the Beam API, we can swap out our execution engine for Spark, or Flink, or whatever comes out next and does things more effectively.”
+
+The company has raised $1.9 million in seed funding from AngelPad, 500 Startups, Social Starts, and First Ascent as well as some midwestern funds. They have $550,000 in annual recurring revenue and they’ve processed billions of events.
+
+The company began in 2014 as USERcycle and then expanded to address the needs of SaaS users. They’re working on ways to enable data connection for clients who aren’t quite sure where to start with their projects and are working hard to build out more features. The most important thing in my eyes, however, is their dedication to theMidwest. Walker wrote an entireblog post about the process.
+
+While not everyone will survive the coming android rebellion led by the younger version of the creator of your Western-themed android park it’s clear that as an IT guy in charge of making sure the humans don’t scalp the robots in order to solve the Maze you need to keep your SaaS ducks in a row. Something like Astronomer could help as long as no one strings you up on a cactus.

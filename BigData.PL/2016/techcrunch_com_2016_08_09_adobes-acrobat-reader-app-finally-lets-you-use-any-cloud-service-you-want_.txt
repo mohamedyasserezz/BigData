@@ -1,0 +1,13 @@
+Adobe’s Acrobat Reader app finally lets you use any cloud service you want
+
+In April,Adobe expanded its Document Cloud serviceto add support for Box and Microsoft OneDrive, to complement its existing support for Dropbox. This allowed users to work with documents stored in other third-party services when using Adobe’s software, like Adobe Sign or Acrobat Reader, for example. However, that support hadn’t fully made its way to mobile – an issue Adobe is addressing today with a new version of its Acrobat Reader app for iOS.
+
+For both iPhone and iPad users, this update means that you’ll now be able to select, open and save your PDFs in iCloud Drive, OneDrive, Box or Google Drive, in addition to the app’s native integration with Dropbox. These new storage options are available from the iOS Document Picker,the company notes.
+
+Prior to this update, users could only pull documents from Dropbox, Adobe Document Cloud, email, web or other apps that supported the “share” function.
+
+In order to take advantage of the added functionality, users will need to install the cloud storage app they want to use with Acrobat Reader, then tap on the “Location Chooser” option and “More Locations…”
+
+Here, you’ll find the cloud storage app or apps you want to add to Reader. You can also toggle these storage services on or off from the settings, or rearrange the order they appear in within the list.
+
+Though something of a minor update in the grand scheme of things, the expanded support to include more third-parties is an acknowledgement that business users and individuals alike are working with files across a wider variety of platforms. In addition, in failing to support those workflows, Adobe has made room for competition to find their own foothold in a space that should have been Adobe’s to lose. Apps like Readdle’sPDF Expert, for example, have long since supported integration with Dropbox, OneDrive, and Google Docs, as have others. Adobe, whose Reader app has been downloaded 300 million times, is now finally catching up.

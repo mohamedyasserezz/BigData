@@ -1,0 +1,51 @@
+Paddle banks $3.2M for an ecommerce platform targeting SaaS startups
+
+It’s definitely not the sexiest platform play in tech town but b2b startupPaddlethinks it’s found an underserved niche — selling a SaaS ecommerce service to scaling SaaS startups seeking to offload the headache of administering international sales so they can focus on building core product. Yes, I know that sentence contains a lot of Ses.
+
+Paddle’s slightly less tortuous one-line pitch is that it’s a “platform forsoftware companies to manage checkout, billing, customer relationships and run their business”.
+
+Zooming in a little more, it says it handles sales tax for software businesses that are selling internationally, supports a range of payment methods (including PayPal), and offers fraud prevention and checkout recovery services.
+
+It also offers analytics and customer feedback, based on crunching all the granular sales data it’s getting access to.
+
+Its target customers are typically software startups that are scaling international sales to the point where their internal business systems are starting to creak — so before they’ve had a chance to staff up to support more robust processes of their own.
+
+“Around 80% of our customers are actually businesses who are scaling,” says co-founder Christian Owens. “They’ve gotten to around $50-100k per month in revenue, and realize they’re becoming a ‘real business’ but don’t want to start the process of building out internal teams, tooling and expertise to support their further growth.
+
+“So we make the process of swapping from their existing way of doing things super easy — typically they’re using Stripe/ PayPal/ Braintree/ FastSpring, some other services and home-grown tools.”
+
+“We have both APIs that make this really simple, and an integrations team who help them with the migration,” he adds.
+
+The majority of Paddle customers are SaaS startups at this point, according Owens. But with software eating the world at an alarmingly accelerating pace, SaaSes seeking to serve other scaling SaaSes feels about where things are at.
+
+“Over the last 12 months, we’ve seen SaaS companies be the big driver of our growth. Now 80% of our customers are SaaS companies,” Owens tells TechCrunch.
+
+When the platform launched, back in 2013, he says it was selling to desktop software businesses, single payment web apps, services and downloadable content. The shift to a majority SaaS customer base likely says most about wider b2b/b2c software trends.
+
+“We’re targeting both b2b and b2c software companies, primarily SaaS but we still target other markets too (Mac software is a big one),” adds Owens. “Typically it’s businesses who hit revenue of about $1-2m annually, and start thinking about how they begin to scale, that’s where we get involved.”
+
+As well as claiming to reduce the “burden” for online sellers, by dealing with their international sales admin so they don’t have to, Paddle claims it can increase seller revenues via analytics and customer feedback (as does many a b2b ecommerce platform). Although it does not have any aggregate metrics to back up those claims, as yet.
+
+Owens will only share what he describes as some “typical stats” — touting an “18-25% increase in checkout conversion by automatically optimising the checkout flow for language, location, payment method and currency”; a “21% increase in average transaction size by using the data were able to collect for targeting up sells, plan and product recommendations”; and “significant decrease in subscription churn with billing reminders, failed payment management and churn tools built directly into the product”. But remember those are stats, not solid metrics.
+
+Doing more with the ecommerce data it collects on behalf of its clients — focused on areas such as marketing, customer messaging and support — is on the roadmap, he adds.
+
+“Typically, due to our deep integration we see an incredible amount of data in comparison to a traditional ‘ecommerce’ platform. We not only see transactions and customers, but application/product activity, retention, feature usage etc.,” he continues.
+
+“We hate that the current process is manually pulling all of this data together from dozens of different sources, into a CRM like Intercom, or analytics tool like Mixpanel. Our goal is to be this underlying stack / ‘operating system’ where all of this data, and the tools that utilise this data sit.”
+
+While Paddle certainly does not have the simplest sales pitch, it is today announcing a $3.2M Series A — led by BGF Ventures, with participation from Spring Partners — so it’s managing to keep VC backers convinced it could still be onto something.
+
+At this point, some four years after the startup was founded, Paddle has 400 paying customers, and claims growth of 350-400% for the last three years. It’s planning to use the new funding injection to beef up its engineering and customer support teams — with the stated aim of maintaining growth momentum. Collectively its platformisprocessing around one million transactions every year. It does not publicly announce the amount of transaction volume being processed.
+
+Paddle’s own business model is a volume based SaaS, with the service charging customers a flat-rate 5% + $0.50 per transaction fee.
+
+On the competitors front, the scaling SaaS startup niche it’s ploughing is clearly pretty specialized — with a larger number of players in this space focused at the enterprise end of the pipe. Or else on ecommerce services for individual sellers.
+
+There Owens name-checksGumroad, while towards the top end of the market he points to the likes of (now Salesforce-owned)Demandwareor subscription management platformZuora. Another big player in this space isFastSpring.
+
+No one else is really focused where Paddle is, reckons Owen. “SME, startups and growing software companies working to really build businesses are completely underserved in this market,” he argues.
+
+Underserved they may be but that’s likely because there are smaller wins to be had here from a revenue-generating perspective. Or at least, that’s been the case to date. This is not where the largest, nor most plentiful low-hanging fruit have yet been found.
+
+Still, Paddle will be hoping to build momentum from overall growth in the SaaS/startup market. So perhaps its longer term play is to win enough of these scaling SaaS startups to convince a larger enterprise player that it’s worth their while acquiring its suite of integrated tools and customer base as a bolt-on to a more meaty enterprise ecommerce platform. But time will tell how many scaling SaaSes are needed to bake that exit.

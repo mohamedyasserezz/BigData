@@ -1,0 +1,29 @@
+Prospera raises $7 million to put computer vision and AI to work on the farm
+
+A Tel Aviv-based startup calledPropserahas raised $7 million in new venture funding to build out systems that will monitor and help farmers improve the health of their crops, and optimize their operations.
+
+Bessemer Venture Partnersled the Series A round.
+
+Prospera CEO and co-founder Daniel Koppel said agriculture professionals have plenty of tech at their disposal today from soil and weather sensors, to aerial images and other data attained by drone and satellite services.
+
+But farmers still don’t have the complete picture that they need to optimize production of their crops. For example, all those high-tech tools and services aren’t telling farmers when diseases like late blight or tuta absoluta are beginning to take hold of their potatoes or tomatoes.
+
+Prospera’s systems, installed in greenhouses or in the field, use a proximal RGB camera and cloud-based software to gather and analyze all the information farmers are missing.
+
+Prospera applies machine learning to report when something important is happening in the field, not every two weeks when a scout walks their fields, he said, but not overwhelming ag professionals with information that isn’t noteworthy.
+
+With diseases like those mentioned above, early diagnosis can help farmers forecast yields and make up for expected losses with other growing efforts, or possibly contain the problem and save their crops.
+
+Prospera intends to use some of its Series A capital to work with a design services firm to overhaul its hardware, the CEO said. The Prospera device, which is installed in greenhouses or in the field, already includes: a solar panel, camera, and temperature, humidity and light (radiation) sensors.
+
+It allows farmers a much more precise view of what’s happening with their crops than any satellite and drone-based imagery, Koppel claimed. And it works for vertical, i.e. indoor, farms which wouldn’t usually be helped by aerial services.
+
+“We can see things like how plants are growing, the color of the plants, the density and quality of flowers, berries, where the bees are, or if a disease is showing up on a leaf.” Koppel said.
+
+The company’s software can also help farmers understand exactly what people did in the field to their plants, and when. The idea is that if they got great results, farmers can direct workers to do the same things, and create the same conditions for their plants again. And if they didn’t get great results, they can pinpoint what hasn’t worked so well in the past and change tack.
+
+Prospera’s technology is already being used by farms, especially in Spain and Mexico. Its clients include: Walmart, Tesco, Sainsburys, and Aldi, the startup said.
+
+Given its new funding, Prospera also intends to expand beyond the European greenhouses where it sees most of its business today into row crops and vineyards, and possibly even nascent markets like legal cannabis in the U.S.
+
+The company is facing serious competition in agtech including fromPrecisionHawk and DJIwho partnered to create a crop health  monitoring drone service, andArable, whose crop health monitoring device was co-designed by Fred Bould, the creative force behind the Nest, Roku and other popular hardware.

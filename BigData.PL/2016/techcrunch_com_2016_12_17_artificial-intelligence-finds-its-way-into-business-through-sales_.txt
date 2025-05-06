@@ -1,0 +1,23 @@
+Artificial intelligence finds its way into business through sales
+
+Artificial intelligence (AI) had a coming out party of sorts in 2016. Even though it has been in development for decades, this year, with the perfect combination of cheap computing power and access to increasing amounts of data, it seems AI’s time has come.
+
+Its first foray in business has been directed at making salespeople more efficient at every level of the sales workflow. If you think about it, it makes sense to start with the part of the company that drives revenue. Certainly the vendors recognize that, says Alan Lepofsky, an analyst at Constellation Research, who is working on the impact of AI on work.
+
+He sees humans struggling with information overload. As we gather ever increasing amounts of information, it requires machine processing power to help make sense of that growing pile of data. “AI is hopefully going to help alleviate that by filtering information and automating tasks,” Lepofsky said.
+
+It’s certainly having an impact in the startup community. Just this week, we saw Conversica, a company that has built a virtual sales assistant on top of artificial intelligence underpinnings,land a $34 million investment. The tool takes advantage of natural language processing, an inference engine and natural language generation — fairly sophisticated AI technology — to undertake initial email contact with sales leads.
+
+Meanwhile Tact, a company started by a CRM industry veteran,raised $15 million to apply intelligence to the planning and executionpart of a salesperson’s day. Using AI, it aims to help sales staff work in a more logical and efficient way, rather than be slaves to their CRM tools.
+
+Even as companies like these try to help salespeople work smarter in various aspects of the sales process, the CRM industry took to artificial intelligence in a big way this year with companies as diverse asSalesforce,OracleandBasecoming out with CRM tools to not just record sales interactions, but drive more sales with built-in intelligence.
+
+Traditionally, CRM has been a place to build a record of customer interactions, but AI lets it be more than that, says Vanessa Thompson, SVP of customer experience insights at Bluewolf, a consulting agency that works with Salesforce customers.
+
+“With AI, customer interactions become fine-tuned and ultimately smarter with every interaction and additional piece of data,” she said.
+
+It’s about using the power of that platform to be a better salesperson, and giving them more time to spend working with customers and closing sales. “For a salesperson to predict where to spend their time or take next best action — they need the right data at the right time. They have to take data from every data source and they have to have a cognitive platform in place to evaluate that data to make decisions,” she explained.
+
+We are also seeing intelligence being applied to customer service with the increasing use of bots to handle initial contact with customers. The idea is to have the bot deal with simple tasks, handing off more complex interactions and requests to human operators to handle. This week,Salesforce released LiveMessage, a tool for incorporating messaging apps in their Service Cloud platform, combining the use of bots and live customer service agents.
+
+Sales and customer service could just be the beginning. Over the next several years, we’ll likely see AI moving deeper into every aspect of the business as companies look to use the power of the computer to augment and enhance their employees.

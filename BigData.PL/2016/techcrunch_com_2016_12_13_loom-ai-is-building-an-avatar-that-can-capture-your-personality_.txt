@@ -1,0 +1,21 @@
+Loom.ai is building an avatar that can capture your personality
+
+Virtual reality is often a technology that can lead to some deep existential questions related to who we are and what makes us human. These questions are especially poignant as startups grapple with how humans are going to represent themselves online in VR worlds.
+
+Loom.aiis aiming to crack this problem by making it as easy as possible for users to build a realistic avatar of themselves while also crafting a system that can learn more about a user’s personality. The company’s avatar system allows users to upload a single photo of themselves and create a realistic avatar of themselves immediately.
+
+The SF-based company just raised a $1.35 million seed round from Danhua Capital, Y Combinator, Presence Capital, Anorak Ventures and a variety of angel investors familiar with the VR space.
+
+The Loom.ai team brings their visual effects expertise from LucasFilm and DreamWorks, where the founders worked on creating CGI models that captured the personalities of the actors and voice actors behind them. The company’s CTO Kiran Bhat was the R&D facial lead on films like The Avengers, where he had to tackle problems like making the Hulk.
+
+“The key to building believable digital characters is to extract the perceptually salient features from a human face in 3D: for instance, Mark Ruffalo’s version of the Hulk in The Avengers,” said Bhat. “The new suite of computational algorithms built by Loom.ai will democratize the process of building believable 3D avatars for everyone, a process that was previously expensive and exclusive to Hollywood actors benefiting from astudio infrastructure.”
+
+The avatar space is a bit of a crowded one at the moment. Virtual reality has created a market for realistic avatars that allow users to represent themselves online in a serious capacity. While some companies are building avatars of famous celebrities via volumetric capture, that technology requires too many cameras and post-production skill to be anywhere near accessible enough for the novice user.
+
+At its Oculus Connect developer conference, the Facebook-owned virtual reality company showed off itsAvatarssystem, one that was light on realism but heavy on accessibility. There has yet to be much of a pervasive solution shown off for either the HTC Vive or PS VR virtual reality systems, though PlayStation has the benefit of an existing friends network infrastructure, so really all they’re missing is the 3D models. For its part, HTC has already invested in several avatar companies, includingOBeN, which is aiming to solve the problem in a 2D photo-based manner quite similar to Loom.ai.
+
+What distinguishes Loom.ai is the system it is currently building to enable its avatar system to intelligently learn about the personality of the users it is replicating.
+
+The company is currently further developing its machine learning technologies to allow users to let their avatars capture the intricacies of their personalities. By feeding Loom.ai more facial data, including videos and photos, the company hopes that avatars on the service can become a bit more recognizable. Whether it’s the certain crook of a user’s smile or the way someone’s eyes flash when they get enraged, Loom.ai is aiming to go beyond blanket emotion replicating.
+
+Loom.ai is currently taking sign-ups on its website for the beta of its avatar creation software.

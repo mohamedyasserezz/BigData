@@ -1,0 +1,27 @@
+Facebook lifts the veil on its mobile device testing lab
+
+Earlier this week, Facebook gave a small group of reporters a tour of itsPrineville, OR data center. In the process, the company also showed off its mobile device lab for testing on physical devices new iOS and Android versions of the Facebook app, Messenger and Instagram.
+
+The mobile device lab currently occupies 60 racks in the data center. Each rack holds 32 phones, for a total of almost 2,000 devices, but, as Facebook’s Antoine Reversat told us, the plan is to bring this number to 64 devices per rack.
+
+Each rack features its own Wi-Fi signal and is also anEMI enclosureto make sure that neighboring racks can’t pick up the Wi-Fi signals from its neighbors.
+
+Every time an engineer makes changes to one of Facebook’s main mobile apps, that new version of the app is automatically tested on these devices to ensure that there are no crashes or performance issues.
+
+The available devices run from basic Android Galaxy phones to the latest iPhones. As Reversat noted, these devices also run a number of different versions of their respective operating systems. For Android, that’s all the latest versions from KitKat on, and for iOS, that’s iOS 7 to 9 (I assume the team is also testing iOS 10 already, as well).
+
+To ensure that tests are comparable, the phones all reboot after every test.
+
+All of the phones also need to be connected to a PC or Mac in order to receive the latest code. Because of this, there are PCs and Mac Mini’s under every rack. Facebook uses eight Mac Minis per rack for iOS testing (because each one can only talk to four iPhones) or fourOCP Leopard serversfor testing Android devices.
+
+But why opt for on-device testing when there are plenty of simulators that would be much easier to handle? The Facebook teams argues that while simulators are good at figuring out why apps may not be working right, they aren’t great for performance testing. “For example, we wouldn’t be able to track down a 1 percent performance regression in a simulator,” Reversat says in today’s formal announcement. “So we opted for on-device testing.”
+
+While Facebook didn’t say all that much about how it pushes updates to the phones besides that it usesChef, Reversat noted that the device lab grew out of the company’s work onCT-Scan, a performance-monitoring service the company firsttalked about last year. Early on, engineers would test apps on a single device, but given how many phones and tablets there are on the market today, that simply didn’t scale and a small team within Facebook’sProduction Engineering organizationset off to build these racks.
+
+The earliest versions of these racks were pretty basic and didn’t really work well (largely because they were made from metal andtoo much metalmeans the Wi-Fi signal simply didn’t work anymore). The team also experimented with building a wall with 240 devices, but that took up too much space.
+
+The latest version of the mobile device rack the company is currently using in Prineville also features a camera to track what’s happening on the devices, though it seems the team hasn’t quite activated this feature yet.
+
+The team is now working on supporting up to 64 devices per rack and making the process of pushing new code to the devices more efficient. Maybe even more importantly, though, the team also plans to open-source the design of the racks and the Chef recipes that drive the phones.
+
+Facebook, of course, is not alone in running a lab like this. If you want to test your own apps, for example, you can opt for running them on services from the likes ofXamarin(now owned by Microsoft),AmazonandGoogle(for Android apps).

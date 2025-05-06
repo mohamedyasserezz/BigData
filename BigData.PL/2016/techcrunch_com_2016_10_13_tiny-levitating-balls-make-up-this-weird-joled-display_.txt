@@ -1,0 +1,17 @@
+Tiny, levitating balls make up this weird ‘JOLED’ display
+
+LCDs are old hat, my friend. What you need isdozens of tiny spheres levitated and spun using ultrasonics. That’s what researchers at the Universities of Sussex and Bristol have cooked up, and it’s exactly as weird as you think. Though not as weird asthis sweating robot.
+
+The display uses “Janus objects” as “physical voxels” with “acoustic levitation.” That about sums it up, right? Well, maybe it could use a bit more detail.
+
+The Janus objects are basically tiny polystyrene beads. They’re held in midair by opposing ultrasound forces being emitted from speakers above and below; each bead has its own little ultrasound pocket it sits in. By modulating the sound, that pocket can be moved around, changing the position of the bead.
+
+That’s great if you want a display that only shows white dots. To spice things up, the researchers painted one side of the dots (making them two-faced and thus “Janus”), and coated them in titanium dioxide, giving them an electrostatic charge. This lets a configurable electric field manipulate the direction they’re facing, degree by degree or all at once.
+
+What you get in the end is a grid — 6×7 in this case, not exactly Retina resolution — of beads hanging in midair, able to spin in place to change colors and display monochromatic imagery. It’s actually more than a little like a floating e-paper display.
+
+They call it JOLED, but I can’t piece together what the acronym actually stands for. Janus Objects Levitated and Electrostatically Driven? It’s a good a guess as any.
+
+The position and spin can be changed in response to input, too, allowing a user to move the ball around a track or between obstacles. With enough of these, one can imagine creating floating, touchable shapes suspended in the air. Or maybe a ball-powered display pops up above your monitor to give you a slightly jittery second monitor.
+
+The University of Sussex’s Sriram Subramanian and Deepak Sahoo will bepresenting their work next weekat the ACM User Interface Software and Technology Symposium.

@@ -1,0 +1,35 @@
+Why an unhackable mobile phone is a complete marketing myth
+
+The mobile security market is taking flight due to high-profile hackings, but is there such a thing as an unhackable phone? Especially one that costs as much as$14,000?
+
+Consider this: The smartphone in your pocket is 10 times more powerful than the fastest multi-million dollar supercomputers of just 20 years ago. There are tens of millions of lines of software in that phone of yours. There are hundreds of apps written by more than one million developers, some of whom are hackers, and some of whom are just incompetent at security. And then there are chips in your phone that run sophisticated software, from companies located in countries all around the world, all of which have security bugs.
+
+The complexity is mind-boggling — and so are all the security vulnerabilities that exist and will be found in the future.
+
+In short, anyone who claims to sell an “unhackable phone” is either ignorant or lying.
+
+With cybercriminals increasingly targeting mobile devices (such as with malicious apps and phishing schemes), threatening both the consumer and enterprises, the market is rushing to provide solutions to mobile security threats.Gartnercalls this Mobile Threat Defense.
+
+Everyone — no matter which phone they own — needs to be vigilant before downloading apps. For example, hackers recently created versions of Pokémon Go that contained malicious spyware that was released to eager fans before its official release. Even the first version of the legitimate Pokémon Go app was spying on many of your activities, and the developer and app stores didn’t catch it.
+
+Despite the marketing hype, it is impossible to detect all malicious app behavior through a one-time scan of an app before it’s published on an app store. Bad apps often exploit operating system vulnerabilities that have not been discovered or fixed by the mobile device vendor. Apps can have “sleeper cell” behavior, where they don’t exhibit malicious behavior when being analyzed for app store approval — they wait until being deployed in the real world. Cybercriminals can also easily sideload apps onto both Android and iOS platforms from illegitimate app stores.
+
+In addition to bad apps, we are seeing an increase in the number of criminals, hackers and hostile governments willing to pay for zero-day mobile exploits. These silent and secretive threats can take over your mobile phone simply by sending you a text message or email with a link to a malicious website. Unfortunately, new security threats and hacks are typically found after successful attacks have been reported by victims, researched and a fix is created by programmers. A hack may affect thousands or even hundreds of thousands of people before it is detected and fixed.
+
+It’s also important to consider that most phones claiming to be “secure” or “unhackable” come from companies that base their phone on the Android operating system. Android is a state-of-the-art mobile device operating system, but more than 100 new security bugs are regularly discovered and need to be fixed every year. This trend shows no signs of slowing, and as mobile devices get ever smarter with more software and capabilities, there will be more bugs that hackers can exploit.
+
+Taking a deeper look into the security of mobile devices shows that in August 2016 alone, there were42 security vulnerabilitiesdetected in the Android operating system or the Nexus device hardware. In July 2016, 54 such vulnerabilities were found. This monthly trend has been consistent for years. There is no sign that it will stop. You can be assured that every mobile device has 10-50 security vulnerabilities that will be discovered in the next month. And the month after that. And so on.
+
+Of interest is that about half of the discovered vulnerabilities were not in the phone’s operating system itself, but instead were found in the operating systems and software that run the chips inside the device. These tiny bits of software, called firmware, contain dozens of security bugs, which are discovered every month. These firmware security vulnerabilities impact the software that operates cell phone modems, cameras, Wi-Fi, sound, displays, USB, Bluetooth, power drivers and more on each device. These components are from a variety of manufacturers around the world. It is simply impossible to ensure that these myriad components are secure.
+
+Furthermore, it is critical to point out that 65 percent of Android devices in use around the world still run old versions of the operating system, with hundreds of known bugs.
+
+The iOS operating system is also not immune to security bugs. Security fixes have been, and will be, continuously applied to the iOS operating system for Apple iPhones and iPads once they are reported. For example, in July 2016 alone, fixes for 29 types of security vulnerabilities were released by Apple. These fixes addressed46 separate issues.
+
+In August 2016, only one month later,news brokethat hackers and governments were infiltrating iPhones with advanced spyware to steal data and spy on all app communications, even encrypted apps. Attackers simply sent users a text message with a malicious link. The attacks appear to be created by a commercial company in Israel, called NOS, that makes spyware for mobile devices.
+
+And what about those Wi-Fi networks we rely on when in airports and at hotels? Make no mistake, they often spy on our communications. The so-called “captive portal,” where you have to enter your hotel room number, or just click on a terms of service agreement, are often traps to capture your email, passwords and web browsing activities. Be vigilant about which networks you connect to while traveling. If you receive a warning when connecting to a new Wi-Fi network, do not click “Continue.” Try another network.
+
+All of these issues make it impossible for a single device to be completely secure. Organizations need mobile threat defense security tools that will protect the enterprise as employees connect their devices to malicious networks and download questionable data-stealing apps around the world. Consumers need to be vigilant before downloading apps (read and confirm permissions are in place), be wary of text messages from unknown sources and only join known and trusted Wi-Fi networks.
+
+And hang up on the hype of an “unhackable phone.”

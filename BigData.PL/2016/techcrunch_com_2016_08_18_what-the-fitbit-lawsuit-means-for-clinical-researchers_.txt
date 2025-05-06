@@ -1,0 +1,83 @@
+What the Fitbit lawsuit means for clinical researchers
+
+Fitbit is facing aclass-action lawsuitregarding the accuracy of their heart-rate data, which have been shown to be inaccurate by a margin of up to 20 beats per minute byresearchersat California State Polytechnic University, Pomona.
+
+This news risks sending back to the drawing board many of us who have been optimistically experimenting with biotelemetry. We’ve been asked about the lawsuit nearly every day for more than a month.
+
+As tools for collecting research data, there have always been concerns about the utility of the data that wearables, sensors and monitors provide. Here we seek to present a balanced view of the state of these and other related issues, and, ultimately, chart a viable path forward.
+
+We are qualified to comment on this subject because our group at Litmus is currently deploying Fitbits alongside a companion mobile app in an IRB-approved study to 100 subjects at the University of Chicago Medicine. The principal investigator of the study isDr. David Rubin, a world-renowned gastroenterologist.
+
+David’s goal is to understand for the first time if and how both sleep and activity impact inflammatory bowel disease (IBD, Crohn’s disease and ulcerative colitis) flares. Our work is being underwritten byTakeda Pharmaceuticals U.S.A., Inc.; read more about ithere.
+
+Until now, there have been plenty of articles examining the value and efficacy of the devices themselves, but there are very few efforts utilizing them in real, academic disease-specific investigations. We chose the Fitbit because of its ease-of-use, readily accessible API and substantial peer-reviewed literature documenting use of the device for measurement of sleep and activity.
+
+This lawsuit highlights our challenge — we must properly plan for and accommodate variance in remotely collected data, which we argue is a standard and well-known problem for any research data, whether it is collected in the hospital, clinic or at home.
+
+Many investigators and their sponsors consider it obvious that the information needed to create new therapeutic solutions for recalcitrant clinical problems is everywhere around us.
+
+“We’ve got to stop leaving so much of our patients’ data on the table,” Dr. Sam Blackman of Juno Therapeutics recently argued over breakfast at ASCO in Chicago this summer. “Quantifying patients’ health outside the clinic is essential to faster, more efficient pipelines.”
+
+While we couldn’t agree more, few of these hardware devices are FDA-approved, and despite their proven widespread appeal with consumers, scientific validation is often difficult, expensive and often intractable.
+
+The admissibility of these data is similarly in question, with data provenance front-and-center. For example, simple, consistent timestamp and time series protocols do not currently exist in ways that would suffice for a Title 21 CFR Part 11 audit, much less formal claims-making to the FDA. And that’s just the beginning.
+
+In a recent meeting at SXSW with a top-3 consumer-device manufacturer keenly interested in the research market, we were astonished to find how low-resolution their basic understanding is of the requirements for the collection of data in clinical trials.
+
+We don’t fault this particular company, or any other. If we want better devices, we must do a better job of telling manufacturers what kinds of measurements and outputs we need. It is critical that the research community develop, promote and use standards for data collection, storage and reporting that can be easily understood and adopted by everyone, including non-experts.
+
+A similar critique can be made of Apple’s ResearchKit. While Apple’s brand and public relations acumen are top-notch, an Apple-only technology worldview, coupled with its walled-garden approach and reported difficulties in adapting its research offerings to non-Apple platforms, may seriously hamper many research efforts.
+
+The Institute of Electrical and Electronics Engineers (IEEE) iswith uson this point. Standards are essential for these new data sources to be viable in the long term. Importantly, theFDA has mandatedall electronic data be submitted using standards, such asthose mandated by CDISC.Thisis the administration’s official guidance, and the looming deadline is causing a gratifying flurry of activity.
+
+Early on, we expect pharma to invest primarily in later-stage data transformations instead of applying these standards throughout their data collection and storage pipelines — which will be big business for companies likeCapsenta, which can make quick wine out of dirty water.
+
+But over time, there will be a trickle-down effect, and we’ll start to see standards as a way of life, used throughout every pipeline, at every opportunity. It will become easier and easier to credibly innovate using novel data.
+
+CDISC, if you’re not familiar, is a global nonprofit dedicated to the creation and support of standards for clinical research data. While the big-picture electronic data reporting standards are very mature and becoming more widely adopted, the mobile device components remain under development. CDISC would, in fact, love your input this summer and fall as we convene a series of working groups on mobile data standards. We need to get it correct right out of the gate. Anything less will lead to a hampering of innovation and continued dependence on old, outdated methods of collection, storage and transmission.
+
+As we see it, the world will be a better place if we never see another patient in a clinic lobby furiously trying to remember several weeks’ worth of information while they scribble their data onto a clipboard form. Standards and data provenance aren’t sexy, but they are absolutely essential to any compelling future vision of clinical research.
+
+Google’s forthcomingclinical wearableis a harbinger of good things to come. A better breed of purpose-built, less-variant, yet thoroughly modern devices are en route.
+
+The Google X’sBaseline Studyproject and Alphabet’s Art Levinson-led longevity play, Calico, offer motivation enough for the internet giant to build a better remote monitor. Surely the Google team surveyed what’s available today off-the-shelf and found their options markedly wanting. We’re not at all surprised that Google decided to take the DIY approach.
+
+But Google’s clinical wearable is, to be clear, just a means to a greater end. Without a way to collect data at the point of experience, any large-scale study of disease is confined to outcomes that patients themselves remember weeks or months after the fact, placed alongside traditional clinician-observed realities in-clinic. Those two sources of information no longer suffice — not just for Google, but for all of us.
+
+As we’veargued before, quality-of-life is precisely that greater end — it’s the ultimate endpoint.
+
+Increasingly, new therapies for every disease category are focused not only on survival, but also on the quality of the patient’s life. A therapy that prolongs a person’s life for an extra six months but with significant pain and suffering may be an inferior option to one that extends life by three months but with better quality. Quality-of-life is the main endpoint for those with chronic disease, but even for those of us lucky enough to be healthy, the quality of our years will become increasingly more important as we grow older.
+
+We believe there is a confluence of factors — increasing attention to quality-of-life, the demand for personalized therapies, the growing need for lean clinical trials — that the group or company that becomes facile at measuring, interpreting and ultimately creating quality-of-life metrics will reap enormous financial benefits. There is no doubt that this motive is at least partially driving Google’s business decisions in this area.
+
+Jawbone, for its part, isrumoredto be working on a similar concept to Google’s, as evidenced by their acquisition ofSpectros. We predict that we’ll continue to see new clinically focused entrants from usual and unusual suspects alike.
+
+Right now there is a huge technical and experience gap between modern, alluring consumer-centric devices and sensors and their hardened brethren on the traditional medical side, where user experience is at best an afterthought. This delta will steadily close. Very soon we won’t have to choose between usability and accuracy.
+
+But until such a time as the devices themselves have sufficiently evolved, and even with established standards in hand, we’re still left with the near-term reality that the accuracy and precision of these devices are sufficiently low, so as to render them ineffective for clinical decision-making.
+
+Moving data from a proprietary device into an analytics environment remains a difficult problem — more difficult than one might imagine. This issue is being slowly solved on a device-by-device basis. While companies likeValidicare betting on continued difficulties in connecting analytic endpoints to device data, most device manufacturers provide some way to extract information.
+
+But the most pressing need today lies in the modeling of errors, or what we affectionately call MOE. This is not something that any single device maker alone can accomplish. Even data aggregators like Validic are not producing these models, either because they are not motivated or because they do not have sufficient access to raw, non-transformed data.
+
+In fact, MOE is the most natural area for a data commons and the associated open-sourcing of software. Getting reliable device data into an electronic data capture (EDC) instrument is not an area of specialization likely to help any single health IT startup or large conglomerate. MOE is one of those classic areas where a rising tide floats all boats.
+
+Let us expand on that a bit. The great thing about wearable and other tracking devices — the new ones in particular — is the volume, velocity and variety of the data they create. While it is a clichéd term, “big data” is an important concept here, and collecting such torrents of information facilitates the application of machine learning and other modeling methods to build sophisticated models for each data type.
+
+By leveraging the information on normal subjects being collected by Google as part of their Google Baseline Study, the variance of each data type can be modeled and used to understand data collected as part of a research study. This is essentially what MOE is, and its public availability to clinicians and researchers will be critical to the use of wearables and other devices.
+
+Even just a rote comparison of Fitbit data to iPhone and Android accelerometer and GPS data is an opportunity to triangulate truth and quantify the margin of error. As such, heterogeneous sources are enormously preferable to homogenous stacks, which is why we recommend against hardware-specific solutions.
+
+Let’s not let the pursuit of the perfect device stand in the way of progress. In fact, any expectation of high accuracy and precision is unfair. Fitbit’s marketing personnel were perhaps a bit too optimistic in their copywriting, but the idea that a wristband sensor ought to discern reality in thoroughly unpredictable environments with only a few commodity sensors is ludicrous.
+
+As researchers, perfection isn’t the goal. Rather, our pressing need is to understand precisely how imprecise these devices are.
+
+We don’t need to eliminate variance; rather, we need to predict it. Effective modeling of device error will allow researchers to normalize data across different devices and, moreover, different participants.
+
+It is clear that we are in the very early stages of an important multi-year paradigm shift in how we collect and use data for our health and well-being. We are converging on a time when the whole world could become a big clinical trial, with patients contributing their own data in a way that respects their privacy and allows highly granular control of access rights and permissions.
+
+Don’t read the Fitbit lawsuit as an indicator that these technologies and the data they produce aren’t yet ready for prime time. Instead, realize they’re just another set of tools, to which we researchers must eagerly apply the same rigor we have everywhere else.
+
+Over time, the devices themselves will get better and better. We’re at best at the Apple evolutionary phase. Standards and modeling of errors, however, offer nearer-term help.
+
+Regardless, remember it’s not the data that matters as much as what we do with it. Patients tell us every day how they’re doing by their actions. Are we really listening?

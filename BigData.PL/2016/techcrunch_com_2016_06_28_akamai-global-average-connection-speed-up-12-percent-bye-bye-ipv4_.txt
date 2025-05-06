@@ -1,0 +1,17 @@
+Akamai: global average connection speed up 12 percent, bye bye IPv4
+
+CDN networkAkamaitoday published its quarterly “State of the Internet” report for the first quarter of 2016. The report examines global internet speeds, which are going to be more relevant than ever for live-sportsaficionadosin the summer of the Rio Olympic Games.
+
+Global average connection speed increased 12 percent from the fourth quarter of 2015, to 6.3 Mbps, a 23 percent increase year over year.
+
+South Korea continues to be the global leader with the highest average connection speed (29.0 Mbps), an 8.6 percent gain over the fourth quarter of 2015. Runner-up and number three are two Scandinavian countries, respectively Norway and Sweden. Singapore maintained its position as the country with the highest average peak connection speed (146.9 Mbps), an 8.3 percent quarterly increase.
+
+The 64-page report also includes data about network connectivity, as well as broadband adoption metrics across fixed and mobile networks, and the adoption progress of version 6 of the Internet Protocol (IPv6) over version 4 (IPv4), among other things.
+
+The U.S., which is not included in the top 10 of countries for average connection speed, ranked sixth in terms of IPv6 traffic percentage, preceding France and Japan. The number of unique IPv4 addresses involved in the research declined to just over 808 million, or a 0.2 percent quarterly decrease — about 1.8 million fewer than were seen in the fourth quarter of 2015.
+
+The clear leader in IPv6 adoption remained Belgium, with 36 percent of its connections to Akamai occurring over IPv6, down 3.1 percent from the previous quarter.
+
+As for mobile connectivity, Akamai and its partner Ericsson found that the average mobile connection speeds ranged from a high of 27.9 Mbps in the United Kingdom to a low of 2.2 Mbps in Algeria, while average peak mobile connection speeds ranged from 171.6 Mbps in Germany to 11.7 Mbps in Ghana.
+
+Akamai also found that the two primary Android browser bases — Android WebKit and Chrome Mobile — accounted for a total of 58 percent of requests for traffic from mobile devices on cellular networks, while Apple Mobile Safari accounted for roughly 33 percent of requests.

@@ -1,0 +1,13 @@
+NHTSA releases best practice guidelines for vehicle cybersecurity
+
+Following itsrelease of guidelines for automakers regarding self-driving cars, the National Highway Traffic Safety Administration has released a similar set of guidelines or “best practices” for cybersecurity in vehicles, designed to provide guidance for car makers.
+
+The best practices document is 22 pages and is non-binding, meaning there’s no regulatory imperative requiring that car makers meet these standards. The stated purpose of the document is to help improve car security in the face of hacking attempts and to encourage auto manufacturers to proactively incorporate this kind of thinking in their efforts as a matter of course.
+
+It’s aimed at anyone making a motor vehicle, including individuals and organizations like suppliers, car makers and aftermarket service providers and alteration shops. The basics include recommending a “layered approach,” which will prioritize the security of critical systems over less safety-specific features, and also encourages information sharing in “as close to real time as possible” in the case of cybersecurity events. The mechanism for this sharing is the Automotive Information Sharing and Analysis Center, which NHTSA encouraged car makers to create jointly, and which it will now encourage to expand membership to suppliers and others involved in cybersecurity maintenance and practice.
+
+A request for data sharing around critical events is also a core component of NHTSA’s autonomous driving guidelines, and it’s obvious in both cases that the government agency wants the entire industry to learn from incidents that pose a lot of potential risk. The guidelines also encourage disclosure of any discovery of potential vulnerabilities, as well as retention of data related to self-audits, which include attempts by car makers to test their own systems for vulnerabilities.
+
+You can read the full guidelines embedded below:
+
+[scribd id=328759298 key=key-O1gwjCB9BjJ26rlgfpUz mode=scroll]

@@ -1,0 +1,15 @@
+Facebook launches the first preview of React VR
+
+Facebook published ablog postwith plenty of year-end vanity stats about its open source project today, but in an email to us, the company also announced that it is about to launch the VR version of one of its most popular open source offerings: React.React VR, a Facebook spokesperson told us, will launch in preview later this week.
+
+Update:turns out, the Facebook spokesperson was wrong and Occulus alreadyannouncedthe React VR preview last week. It’s available now. We regret this error.
+
+React Native itself is Facebook’s second most popular open source projects as ranked by GitHub commits. Only Nuclide, a package for the Atom editor that adds support for Facebook-centric tools like React Native, Hack and Flow, bests it in terms of commits. As Facebookannounced in October, React VR will allow developers to write virtual reality applications can run in the browser (based on theWebVR standardthat Mozilla, Google and others have championed). On Facebook’s own Oculus platform, that browser is currentlycode-named Carmel.
+
+According to Facebook, developers will be able to use React VR to take advantage “of functional, asynchronous, declarative programming models for building VR applications.” We expect to hear a lot more about React VR later this week, so stay tuned for that.
+
+One thing is clear, though: as the number of incompatible VR platform expands, standards-based projects like this will become increasingly important. Given that Facebook owns one of the most popular VR platforms, it’s interesting that the company is betting on WebVR, but it, too, wants to be able to offer the largest amount of content on its platform.
+
+As for Facebook’s other open source projects, it’s worth noting that three of the five top new projects in 2016 involved React or React Native in some form. More than 500,000 developers have also downloaded the React Developer Tools for Chrome, just in case there was any doubt left about the popularity of the project (which also regularly takes center stage at Facebook’s F8 developer conference).
+
+Outside of the React world,Yarn— Facebook’spackage manager for JavaScript— was maybe one of the company’s biggest releases. It saw more than 1,100 commits in 2016 (compared to about 4,000 for React Native) and is already being adopted by a number of startups.

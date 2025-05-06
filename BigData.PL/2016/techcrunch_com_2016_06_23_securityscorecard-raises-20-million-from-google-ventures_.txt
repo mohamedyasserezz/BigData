@@ -1,0 +1,19 @@
+SecurityScorecard raises $20 million from Google Ventures
+
+SecurityScorecard, the platform that monitors and assesses companies’ cybersecurity strength, has raised $20 million in Series B funding from GV (the Alphabet-ized new name for Google Ventures).
+
+GV led the funding round, which includes investments from previous SecurityScorecard investors Sequoia Capital, Evolution Equity Partners, and Boldstart Ventures. Two Sigma Ventures also joined the Series B round.
+
+SecurityScorecard aims to index the cybersecurity posture of all companies online today by unobtrusively scanning their networks and assigning them a grade from A to F. The grades are then used by companies to evaluate the robustness of their vendors and their own cybersecurity. SecurityScorecard currently tracks and grades 100,000 companies, although the founders hope to expand its reach with the new funds.
+
+“The big problem that kept me up awake at night was that companies spend all this money to protect themselves, but when it comes to suppliers, they’re in the dark,” says SecurityScorecard CEO Dr. Aleksandr Yampolskiy. The sleepless nights led Yampolskiy to leave his job heading up security at the online retailer Gilt Groupe and co-found SecurityScorecard in 2013.
+
+Yampolskiy compares SecurityScorecard’s analysis to that of a doctor looking at a patient, without the aid of an MRI or blood panel. “We look at the signals from the outside,” he says. “Is he coughing; is he flushed in the face?”
+
+Investment from GV was a natural fit, Yampolskiy says. “Google’s mission is to organize the world’s information. Similarly, we are trying to organize the world’s security vulnerabilities,” he explains.
+
+Karim Faris, a GV general partner, says he was drawn to SecurityScorecard because the company outstripped other tools for analyzing vendors’ cybersecurity. “I’ve been looking at this area of vendor risk,” Faris says. He noted that the current state of the art for assessing vendors is for companies to send vendors a questionnaire to assess their own security. “There has to be a way to apply technology to this problem,” he says. “I was very impressed by the tech stack these guys built.”
+
+Faris will join SecurityScorecard’s board as part of GV’s investment. Tom Mendoza, vice chairman of NetApp, will also join the board.
+
+SecurityScorecard has grown significantly since its $12.5 million Sequoia-led Series A last year — Yampolskiy says the company has expanded from 15-20 employees to over 85. He hopes that the GV investment will help his company grow even more, with a focus on expanding overseas and adding fresh talent.

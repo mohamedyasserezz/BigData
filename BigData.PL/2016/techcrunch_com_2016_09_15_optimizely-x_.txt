@@ -1,0 +1,15 @@
+Optimizely targets developers with its new testing platform, Optimizely X
+
+Optimizelyhas helped to popularize A/B testing — the idea of trying out different versions of a websiteor mobile appto see which one performs better.
+
+However, co-founder and CEO Dan Siroker said the practice has largely been limited to marketers testing relatively superficial changes, such as the text or the layout of a page. So today, at its Opticon user conference, the company announced a new version of its platform, now dubbedOptimizely X, which Siroker said will allow for “experimentation in code.”
+
+“We made experimentation accessible to the mere marketing mortal — we made this good idea something that anyone could do,” Siroker said. “That same thing will happen for developers.”
+
+For example, Optimizely says customers will be able to experiment with search results, product recommendations, pricing and various product features. While I suggested that experimenting with the core functionality of your website or app might seem a bit riskier than fiddling text, Siroker replied, “Most of our customers love the idea of experimenting as a way to mitigate risk. The worst outcome is to go live too soon to 100 percent of [their] customers.”
+
+However, he added, “Most companies I talk to look at Amazon, Google, Facebook and think, ‘I could never afford hundreds of data science and engineers and analysts’” — so Optimizely X is supposed to put that kind of testing in their hands even if they don’t have those kinds of resources.
+
+Optimizely X includes support for experiments in Python, Java, Ruby and Node. Siroker noted that the platform will allow testing across different types of devices, including connected TV apps built for tvOS and Android TV.
+
+Optimizely X is scheduled to become generally available on October 4.

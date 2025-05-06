@@ -1,0 +1,15 @@
+Oculus releases developer preview of Carmel WebVR product
+
+Many in the industry believe the next frontier for VR is web-based experiences that can be visited and absorbed across platforms.
+
+There are still quite a lot of unknowns when it comes to WebVR, but Oculus is looking to start shedding some of the mystery through its own browser. Today, the company launched the Carmel Developer Preview, giving devs some early tools and APIs to begin building and testing content for the web on Oculus headsets.
+
+Oculus firsthighlighted the productat Oculus Connect 3 this past October, where Oculus co-founder Nate Mitchell demoed some WebVR content onstage at the developer conference,
+
+The company’s blog post detailing the developer preview is appropriately mostly for the technically minded, with guides ongetting started on WebVR,launching WebVR experiencesand a load of sample content for devs to check out.
+
+The browser itself is still in its incredibly early state and doesn’t even have an address bar, as it’s really just for testing, not exploring other WebVR content. Also, 2D web content is unavailable in the current preview. Developer versions of both Firefox and Chrome have already incorporated WebVR in some capacity, though Oculus’s entrance into the field means quite a bit, given their connection with the developer community and their widely available hardware.
+
+As Oculus notes, WebVR is an evolving API, and, while there is starting to be some consensus when it comes to a standard configuration, there’s quite a bit that’s still unknown. The Carmel Developer Preview is built upon the most common version of the API.
+
+There’s still a lot of news to come here; Oculus detailed that the company still has a lot going on related to its VR version of React, as well as some partner collaborations with the major browser makers.

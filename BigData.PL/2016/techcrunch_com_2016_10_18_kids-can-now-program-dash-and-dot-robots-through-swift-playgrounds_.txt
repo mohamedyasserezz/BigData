@@ -1,0 +1,27 @@
+Kids can now program Dash and Dot robots through Swift Playgrounds
+
+A startup calledWonder Workshopis teaching kids how to code using Swift.
+
+Founded in 2012, Wonder Workshop makes toy robots, calledDashandDot, that kids can control with programs they create using Wonder Workshop apps, which feel more like casual games than desktop scripting tools. The apps connect to Dash and Dot via bluetooth, and automatically determine what coding language a user will need to write in order to control the robot’s movement, sensors and other capabilities.
+
+Now, through its work with Apple Education, Wonder Workshop’s robots can also connect to and be programmed throughApple Swift Playgrounds.
+
+Swift Playgrounds, which was introduced at Apple’s WWDC 2016, is an iPad app that gives first-time coders a series of puzzles to complete, and characters to control with taps and touches on an iPad. It helps them learn some of the fundamentals of coding using Swift.
+
+Users of Dash and Dot can ccess a Wonder Workshop “Playbook” when they open Swift Playgrounds on their iPads. The Playbook will show them which robots are nearby and that they can begin coding.
+
+According to Wonder Workshop co-founder and CEO VIkas Gupta:
+
+“One of the first things they can do [with Swift Playground] is program a robot to complete a set of missions that involve motion and outputs of the robot like moving in a square or performing a dance, while making sounds and flashing lights.
+
+Then they get into sensors so they can have a robot perform actions based on sensory input, like program a robot so that if it hears a clap, then it will do some action.”
+
+By integrating with Swift Playgrounds, Wonder Workshop is providing some new programming challenges to users of Dash and Dot, the CEO said.
+
+Wonder Workshop is on a mission to make technology and programming fun for kids ages 6 to 11.
+
+“Every child should be able to learn how to use devices and master technology,” Gupta said. “But when I had children of my own, I realized one key question was how do we teach compsci in a post-pc world? Our favorite devices are closed. PC’s and laptops I grew up with were open platforms.”
+
+While the company sells its programmable robots directly to families, it has also seen Dash and Dot becoming part of schools’ curriculum and coding clubs over the years. Some 8,500 schools are using Dash and Dot around the world today, the startup reports.
+
+Somewhat unusual when they launched, Dash and Dot are seeing a lot of competition these days from the makers of STEM-educational toy robots including:Bee-Bot,Ozobot,Sphero, andParrot,  yes the drone-tech company has aneducational division.

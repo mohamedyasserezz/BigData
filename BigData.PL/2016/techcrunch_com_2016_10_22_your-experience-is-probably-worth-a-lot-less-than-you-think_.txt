@@ -1,0 +1,21 @@
+Your experience is probably worth a lot less than you think
+
+Do you work in software? Do you have more than a decade of experience? You do? I’m sorry to hear that. That means there’s a strong possibility that much of what you know is already obsolete. Worse yet, there’s a good chance that you’re set in anachronistic ways, hidebound with habits which are now considered harmful. If you think your experience is automatically valuable, I warn you: think again.
+
+To be clear, I am not arguing in favor ofage discrimination, which is wrong, illegal, and stupid. (Some of the finest engineers I’ve ever known, who anyone would be happy to hire in a heartbeat, are in their 50s.) Iam, however, arguing that tech’s ever-accelerating pace of change means that people tend to greatly overestimate the value of their experience, the returns from which diminish every year.
+
+People say “the principles remain the same, you just apply them to different tools / in different environments” — but that’s, at best, a falsely comforting half-truth.
+
+Consider: back in the day, object-oriented development was the solution to all of our problems; now it’s a problem to which many solutions are proposed. Once upon a time, every web developer knew, axiomatically, that you never mixed HTML and JavaScript, because ofseparation of concerns; butthen came React.
+
+The status quo isn’t going to stabilize any time soon. Around the world, veteran developers with “valuable” experience are already being asked, with honest bafflement: “Wait, why are you trying to write an algorithm for this? Why not just train a model in TensorFlow?”
+
+I don’t mean to imply thatallknowledge and experience becomes worthless. Some lessons, and some well-developed instincts, are indeed very nearly universal. Some platforms — Android, iOS, containers in the cloud, etc. — will be around long enough, and accumulate changes slowly enough, that their understanding will be valuable for a long while yet.
+
+But there has still been a significant sea change. Thede factoassumption for most of the twentieth century was that experience was assumed high-value unless proven otherwise. In technology, in software, this is no longer the case. Increasingly, instead, your experience beyond a certain point — say, 5-10 years, depending on many factors — is assumed low-value unless proven otherwise.
+
+This doesn’t only apply to hard technical skills. Managing people scattered across six time zones via Slack and Google Hangouts is very different from managing in person; managing in a high-growth startup is very different from managing in a large static company. Whether you’re a developer, DevOps, or a manager, you never get to stop having to constantly prove yourself. That is the nature of the tech beast.
+
+The most important skill, one that trulydoesn’tget old, is the meta-skill of constantly learning new things … and that meta-skill can rust and wither away, too, if it languishes unused. If you’ve been doing the very same thing at work for the last few years, without working on any side projects of your own, then I am sorry to report that your career is already rotting away from within, without you even knowing it.
+
+Don’t let that happen. “Stay hungry, stay foolish.” That isn’t just good advice; these days, it’s an imperative.

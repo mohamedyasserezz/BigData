@@ -1,0 +1,13 @@
+After having its infrastructure shuttered, CyanogenMod will live on as Lineage
+
+The days leading up to the holiday have been a real roller coaster ride for Cyanogen fans. Yesterday, Cyanogen Inc.unceremoniously pulled the plugon its support for CyanogenOS in a short post declaring that “all services and Cyanogen-supported nightly builds will be discontinued” by the year’s end.
+
+In a post today titled“A Fork in the Road,”the team behind CyanogenMod acknowledged that the pre-holiday announcement effectively amounts to a “death blow” for their own project.
+
+“In addition to infrastructure being retired, we in the CM community have lost our voice in the future direction of CM — the brand could be sold to a third party entity as it was an asset that Kondik risked to start his business and dream,” the team wrote in a post. “Even if we were to regroup and rebuild our own infrastructure, continuing development of CM would mean to operate with the threat of sale of the brand looming over our heads.”
+
+But while many in the community were caught off-guard by yesterday’s curt announcement, the CyanogenMod team has apparently been working hard on a plan B. Word of Lineage started cropping up a few weeks back, after Cyanogen Inc. unceremoniously severed ties with co-founder and @cyanogen Twitter handle haver, Steve Kondik.
+
+Now Lineage is official. In its post, the CyanogenMod team insists that it’s more than just a rebranding effort. “This fork will return to the grassroots community effort that used to define CM while maintaining the professional quality and reliability you have come to expect more recently,” it writes.
+
+For now, it’s available as source code over on GitHub, but we’ll hopefully be seeing something more official as the team regroups and the new year rolls around.

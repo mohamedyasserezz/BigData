@@ -1,0 +1,33 @@
+With $17M in seed funding, RedKix wants to combine the best of email and chat
+
+Lots of startups want to reinvent email, and some, like Slack, occasionally manage to change the way we work. At the end of the day, though, email isn’t going away and company-wide collaboration tools only really work when everybody is on the same platform.
+
+RedKix, which is launching its private beta today, has raised $17 million in seed funding from a group of high-profile investors to bring together the best aspects of Slack and other collaboration tools with the simplicity and ubiquity of email. The company’s funders include Salesforce Ventures, Wicklow Capital, SG VC, Oren Zeev, Ori Sasson (one of the first investors in VMware), and others.
+
+It’s not often that we see startups that raise $17 million in seed funding, but as RedKix CEO and co-founderOudi Antebitold me, the company needed this kind of backing because of the complexity of the technology it is developing.
+
+Many companies have promised to reinvent email over the years. So how is RedKix different? The service sits on top of your existing email accounts (it currently supports Microsoft Exchange, Office 365 and Google Apps accounts) and you can still use it to communicate with anybody else who has an email account, whether they are on RedKix or not.
+
+When your contact is on RedKix, though, you’ll get features like typing indicators, read receipts, and real-time messaging between users. Users who aren’t on the service, though, will simply see receive regular emails as the conversation continues. With this, every email conversation essentially becomes an ad-hoc chat channel for RedKix users.
+
+Besides the subject-based messages, RedKix will also feature a more traditional subjectless chat feature (think Slack channels), which will still be based around email, and group messaging, which will work similar to ad-hoc email lists.
+
+Antebi tells me that the current version represents the foundation of what the company wants to build. “Making email real-time is a massive challenge,” he said. “Separate inboxes don’t know about the existence of one another, for example.”
+
+RedKix is gearing its service toward enterprises and because of this, the team worked hard to ensure that the service plays well with existing email policies and other security and retention features enterprise admins may have set up for their users. “We are very IT-friendly,” Antebi told me. “Everything we do is fully synced with your email service,” he added and noted that the company will also offer its own control tools in its enterprise edition.
+
+With this core platform in place (though still prone to the occasional hiccup, which is to be expected from an early beta), the team is now also looking at how it can best integrate third-party services, similar to what Slack is doing.
+
+Antebi showed me an early demo of a JIRA integration, for example. In addition, RedKix is also working on a Chrome plugin that would allow you to attach messages to certain sites and then have conversations with your team right from the browser.
+
+The current design of RedKix is already pretty slick and because it resembles an email service (because it basically is one), first-time users should feel right at home.
+
+RedKix will run in the browser, but the company also offers desktop apps for OS X/MacOS and Windows. The company’s mobile apps will also launch within the next few weeks.
+
+The company now has 27 employees — most of them in Israel.
+
+Antebi tells me that he expects the service to open up its public beta at the end of fall. At that time, the company will likely also know more about how it plans to charge for its service, but Antebi said that the company will likely offer the service on a freemium basis and charge businesses a fee for additional features.
+
+I’m always skeptical when I hear about new collaboration service that wants to improve on email. Because RedKix doesn’t really force any changes on you and still lets you benefit from many of its features even if many of your colleagues are not on it yet, it probably stands a far better chance than others to succeed in this space. Antebi and his team are obviously betting on the fact that email isn’t going away anytime soon  — and history has proven them right so far, so I wouldn’t bet against this approach.
+
+RedKix is now available in closed beta and acceptinginvite requests.

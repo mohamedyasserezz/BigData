@@ -1,0 +1,43 @@
+With a new Costco partnership, Ticketmaster’s developer outreach hits the right notes
+
+Living in San Francisco for a few years, you learn a few things about the fall: First, the weather tends to be hotter and sunnier than the summer months.
+
+Second, you learn to avoid the area around the area around the Moscone Convention Center in late September and early October.
+
+That’s when the software giants Oracle and Salesforce hold their almost back-to-back annual conferences that draw thousands of software developers.
+
+The two compete to see who can throw the more epic parties complete with big name musical acts like Aerosmith (Oracle last year) and U2 (Salesforce this year.)
+
+But the time isn’t far off when another hot developer event may outdo them both (at least on the musical front) because it’s in the business of producing and promoting concerts.
+
+Consider the case of 40-year old Ticketmaster, the world’s largest vendor of concert and sports tickets. A unit of LiveNation, the $7 billion (2015 revenue) company that is the largest producer of live entertainment in the world, Ticketmaster has in the last year or so started acting like a software startup vying for the attention of third party developers.
+
+And it’s working. Earlier this yearopened up accessto its application programming interfaces (APIs). The move allowed partners like the concert-tracking appBandsintownto sell concert tickets within the app. Other early partners include Facebook, Fox Sports and the music streaming service Tidal.
+
+This week Ticketmaster teamed up with the discount giant Costco on costcotickets.com. The site offers Ticketmaster’s huge inventory of event tickets — sports, concerts and theater — to Costco’s 83 million members.
+
+Ticketmaster typifies a growing set of older companies who have discovered that their futures depend on extending their reach into adjacent market segments, and that the best way to do that is by reaching out to third-parties and their developers.
+
+For Ticketmaster opening up its software platform has helped it address some of the long-standing problems that have always plagued the ticketing business, says Jared Smith Ticketmaster’s president for North America.
+
+For one thing, the best seats in the house often don’t sell for as high a price as they might because the people willing to pay a premium price don’t always know about them.
+
+Second, there’s a big advantage in catching a customer at the moment they learn their favorite band is coming to town, and making the buying experience easy.
+
+“There’s always been a universal hunt to make things easier and more contextual and to have your product in front of as many eyeballs as you can,” Smith says. “The open APIs help us widen our reach and build more seamless experiences.”
+
+Ticketmaster’s open API was the natural result of a series of less ambitious partnerships with Groupon and Broadway.com, Smith says. Groupon for instance regularly emails discounted tickets offers for Broadway shows and Major League Baseball games. The “Buy” links in those emails go back to Ticketmaster.
+
+As a practical matter anyone can get started using Ticketmaster’s API. Access is free and a developer can be up and running in less than a minute, Elshareef says. Active developers have gone from 250 at the start to north of 2,000, says Ismail Elshareef, Ticketmaster’s VP of Open Platform and Innovation. The company has far put on eight monthly “DevJam” events around the U.S. plus one in London. Others are planned for Washington D.C. on Oct. 1 and Berlin later this year.
+
+Tickmaster uses Apigee, the API-management platformacquired by Google earlier this monthto oversee and its APIs. (Apigee hosted its own Adapt or Die conference in San Francisco on Sept. 27, and Ticketmaster will be presenting.)
+
+Building test apps is free. But requests to Ticketmaster’s data are rate-limited. This ensures that before a developer deploys an app for production, they first have to contact Ticketmaster to ask for an increase in their quota.
+
+What’s coming in future versions of APIs? Smith says the company is looking to attack new market areas including sports and travel sites. “Strategically we’re going down some very specific paths and seeking partnerships,” he says.
+
+But there’s also new technology to explore like chat bots and AI agents to explore. Smith calls these “new surfaces.”
+
+“We don’t yet know where the big bets are going to be,” he says. “It may be artificial intelligence or chat bots or automated assistants. Whatever the next place to transact turns out to be, we want to be there.”
+
+Also down the road: A bigger presence for developers are Ticketmaster’s annual customer conferences. Chances are the concerts will probably be pretty good.

@@ -1,0 +1,11 @@
+Microsoft expands its support for Docker containers
+
+Dockeris hosting its developer conference in Seattle this week and showcasing the quickly growing ecosystem that has grown up around its container tools. One of the companies on stage today was Microsoft, which announced that it is great expanding its support for Docker containers by more deeply integrating it into a number of its enterprise and DevOps tools.
+
+Microsoft’s interest in Docker is no secret. It’s even building Docker supportright into the next release of Windows Server, after all (even as it’s also building its own Hyper-V container solutions). Today, the company even showed how the upcoming Linux version of SQL Server can run in containers on Ubuntu. A few years ago, this last sentence would have turned heads — now, it’s just how the new Microsoft operates.
+
+As far as these new integrations go, Microsoft today announced thatDocker Datacenter, Docker’s subscription-based commercial platform, is now available in the Azure marketplace, so anybody who wants to get a supported version of Docker up and running on Azure can now do so pretty quickly. In a demo today, Microsoft showed how Docker Datacenter could run on both Azure andAzure Stack— the forthcoming on-premises version of Azure that enterprises will be able to host in their own data centers. Given Microsoft’s interest in hybrid deployments, this is likely a story we will hear more often from the company in the coming weeks and months.
+
+Users of Microsoft’s Operations Management Suite will also be able to use this tool to manage container across Azure, Azure Stack and competing products and services like AWS, VMWare and OpenStack.
+
+In addition to all of this, the Azure Container Service will soon gain support for using Docker Swarm to manage Windows Server containers in addition to Linux containers.

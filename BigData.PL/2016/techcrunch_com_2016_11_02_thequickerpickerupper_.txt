@@ -1,0 +1,35 @@
+Uber’s latest redesign aims for a quicker pickup
+
+Uber is slowly rolling out an update on the rider side it hopes will take you to your destination faster and easier.
+
+No, the little feature that tells you your Uber driver is 2 minutes away (but feels like it’s more like 10 minutes) isn’t going to change. But Uber is rolling out what it hopes is a more organized app to help you book your ride quicker.
+
+Uber added a ride selection with its first major redesign in 2012. Back then it was simply a choice of UberX and UberXL. But many versions later and the app now includes several more ride types, the ability to select a pickup location, schedule rides, what each ride costs and a slew of other features. And Uber says the clutter was getting in the way of the experience.
+
+“We felt like we were being crushed by feature development,” Uber’s senior product manager Yuhki Yamashita said. “We’re literally running out of space.”
+
+So the company is spiffing things up to recapture the simpler aesthetic and adding some features to make it easier to find your driver and possibly your friends, too.
+
+To do this, Uber is rejiggering ride types into sections. UberPOOL and UberX are now under the “Economy” section, Uber Select and Uber Black are listed under “Luxury.”
+
+And, as mentioned above, the new app also hopes to make it easier to find a good pickup spot for your driver. Using some machine learning magic, Uber’s rider-side app pinpoints where you are and then suggests common places for a pickup. The company hopes this will shave some time off for the driver who needs a good spot to get you and to help ease some of the frustration around looking for your driver.
+
+The latest version also attempts to give you a better social life by making it easier to find your friends. “People are the new places,” says Uber. And the company will soon give you the ability to type in your friend’s name instead of an address as the destination. Uber says you will then get an update on their exact location and the driver can take you to wherever your friend happens to be then.
+
+While that sounds like a privacy fiasco waiting to happen, don’t get too excited. An Uber spokesperson tells TechCrunch the app has to get your friend’s permission first before sending their exact location through the app. And, says Uber, it will do that every time.
+
+You get someone’s location you want to meet up with by syncing your contacts with the app, typing in their name in the search bar and then getting Uber to set up a ride to take you to them. They must first accept the request via a text message from Uber and then Uber will update the app with their location.
+
+The app has also integrated a guesstimate for both the time and cost of a ride. Uberintroduced transparent pricingthis summer, but the latest rollout builds on that by offering an estimated time of arrival.
+
+The company has been testing a similar feature called “arrive by” in certain cities recently, which helps you compare your arrival time if you choose UberX versus UberPOOL. I got to test it out while in Los Angeles a couple of weekends ago and appreciated knowing ahead of time UberPOOL would take me at least 55 minutes to get from downtown L.A. to West Hollywood.
+
+The new rollout also introduces something at the bottom of the app called “shortcuts.” These are predictors of where you could be headed — either based on past behavior or by pulling up a scheduled meeting in your calendar and adding the address to your appointment in Uber.
+
+“We want to get into a mode where we don’t have to ask you what you want. We already know,” Yamashita says.
+
+That knowing is key as the quicker the app adds your pickup and destination, the quicker it gets you in the seat and on your way — and the sooner Uber makes a buck.
+
+“Time is a luxury,” says Yamashita. “And our engineers have been working hard to shave every millisecond possible off this app. Every second matters.”
+
+The new design will be available globally on iOS and Android in the next several weeks.
