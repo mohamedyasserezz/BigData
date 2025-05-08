@@ -10,7 +10,7 @@ namespace BigData.Application.Services
    public class IndexingService(ApplicationDbContext dbContext) : IIndexingService
     {
         private readonly ApplicationDbContext _dbContext = dbContext;
-        private readonly string _scrapedFilesDirectory = "2016";
+        private readonly string _scrapedFilesDirectory = "wikipedia_articles";
 
 
         public async Task BuildInvertedIndexAsync()

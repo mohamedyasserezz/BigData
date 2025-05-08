@@ -12,7 +12,21 @@ namespace BigData.Apis
         {
             services.AddDbContext<ApplicationDbContext>(optionsAction =>
                 optionsAction.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
+            #region CORS
+            // var allowedOrgins = configuration.GetSection("AllowedOrgins").Get<string[]>();
 
+            services.AddCors(options =>
+            {
+                options.AddDefaultPolicy(builder =>
+                {
+                    builder
+                        .AllowAnyOrigin()    // Allow requests from any origin
+                        .AllowAnyHeader()    // Allow any headers
+                        .AllowAnyMethod();   // Allow any HTTP methods (GET, POST, etc.)
+                });
+            });
+
+            #endregion
             services.AddScoped<IIndexingService, IndexingService>();
             services.AddScoped<ISearchService, SearchService>();
 

@@ -2,7 +2,9 @@
 using BigData.Application.Services;
 using BigData.Domain.Entities;
 using BigData.Persistance.Data;
+using Microsoft.EntityFrameworkCore;
 using System.Text.RegularExpressions;
+using System.Threading.Tasks;
 
 namespace BigData.Apis.Services
 {
@@ -12,7 +14,7 @@ namespace BigData.Apis.Services
         private readonly ApplicationDbContext _dbContext = dbContext;
         private readonly IIndexingService _indexingService = indexingService;
 
-        public List<SearchResult> Search(string query)
+        public async Task<List<SearchResult>> Search(string query)
         {
             var words = Regex.Split(query.ToLower(), @"\W+")
                 .Where(w => !string.IsNullOrEmpty(w))
@@ -22,7 +24,7 @@ namespace BigData.Apis.Services
                 return new List<SearchResult>();
 
             var docIds = words.Count == 1
-                ? SearchSingleWord(words[0])
+                ? await SearchSingleWord(words[0])
                 : SearchPhrase(words);
 
             var results = new List<SearchResult>();
@@ -47,17 +49,17 @@ namespace BigData.Apis.Services
             return results.OrderByDescending(r => r.Rank).ToList();
         }
 
-        private List<int> SearchSingleWord(string word)
+        private async Task<List<int>> SearchSingleWord(string word)
         {
-            var entry = _dbContext.InvertedIndexEntries
-                .FirstOrDefault(e => e.Word == word);
+            var entry = await _dbContext.InvertedIndexEntries
+                .FirstOrDefaultAsync(e => e.Word == word);
             if (entry == null)
                 return new List<int>();
 
             return entry.IndexResult.Split(';')
                 .Select(p => p.Split(':'))
                 .Where(p => p.Length == 2)
-                .Select(p => _dbContext.Documents.FirstOrDefault(d => d.Url == p[0]))
+                .Select(async p => await _dbContext.Documents.FirstOrDefaultAsync(d => d.Url == p[0]))
                 .Where(d => d != null)
                 .Select(d => d.Id)
                 .ToList();
@@ -97,6 +99,8 @@ namespace BigData.Apis.Services
 
             return snippet;
         }
+
+
     }
 
 }

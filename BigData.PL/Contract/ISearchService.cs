@@ -4,6 +4,6 @@ namespace BigData.Apis.Contract
 {
     public interface ISearchService
     {
-        List<SearchResult> Search(string query);
+        Task<List<SearchResult>> Search(string query);
     }
 }
